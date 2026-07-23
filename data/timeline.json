@@ -1,0 +1,67 @@
+{
+  "name": "Human History Timeline",
+  "version": "1.0",
+  "description": "Master timeline of human history",
+  "eras": [
+    {
+      "name": "Prehistoric",
+      "start": -2000000,
+      "end": -3000,
+      "periods": [
+        "Paleolithic",
+        "Neolithic",
+        "Bronze Age"
+      ]
+    },
+    {
+      "name": "Ancient",
+      "start": -3000,
+      "end": 500,
+      "periods": [
+        "Egyptian",
+        "Greek",
+        "Roman"
+      ]
+    },
+    {
+      "name": "Middle Ages",
+      "start": 500,
+      "end": 1500,
+      "periods": [
+        "Early Medieval",
+        "High Medieval",
+        "Late Medieval"
+      ]
+    },
+    {
+      "name": "Renaissance",
+      "start": 1500,
+      "end": 1800,
+      "periods": [
+        "Renaissance",
+        "Enlightenment"
+      ]
+    },
+    {
+      "name": "Modern",
+      "start": 1800,
+      "end": 2000,
+      "periods": [
+        "Industrial",
+        "World Wars",
+        "Post-war"
+      ]
+    },
+    {
+      "name": "Future",
+      "start": 2000,
+      "end": 3000,
+      "periods": [
+        "Digital Age",
+        "Space Age",
+        "Transhumanism"
+      ]
+    }
+  ],
+  "updated": "2026-07-23"
+}
