@@ -1042,14 +1042,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785093019.014441
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785093241.3657305
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 223,
-    "total_planned": 63,
+    "total_completed": 224,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
