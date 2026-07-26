@@ -292,17 +292,17 @@
     {
       "era": "ancient",
       "topic_key": "egypt.md"
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
-      "topic": "The textile Industry: how cotton changed the world"
+      "topic": "The textile Industry: how cotton changed the world",
+      "timestamp": 1785058082.391623
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 73,
-    "total_planned": 1,
+    "total_completed": 74,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
