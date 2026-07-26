@@ -362,13 +362,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785061402.7831638
+    },
+    {
+      "era": "future",
+      "topic": "AI and automation: how machines will change work",
+      "timestamp": 1785061708.4362197
     }
   ],
   "planned": [
-    {
-      "era": "future",
-      "topic": "AI and automation: how machines will change work"
-    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy"
@@ -595,8 +596,8 @@
     }
   ],
   "stats": {
-    "total_completed": 87,
-    "total_planned": 57,
+    "total_completed": 88,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
