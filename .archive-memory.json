@@ -812,14 +812,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785083168.6650062
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785083464.3685873
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 177,
-    "total_planned": 38,
+    "total_completed": 178,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
