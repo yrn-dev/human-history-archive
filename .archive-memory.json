@@ -967,14 +967,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785089755.196733
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785089985.5066798
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 208,
-    "total_planned": 7,
+    "total_completed": 209,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
