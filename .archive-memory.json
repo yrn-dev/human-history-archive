@@ -997,18 +997,17 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785090901.4922197
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
+      "timestamp": 1785091179.4970918
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 214,
-    "total_planned": 1,
+    "total_completed": 215,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
