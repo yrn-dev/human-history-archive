@@ -977,14 +977,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785090197.1396852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785090364.915953
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 210,
-    "total_planned": 5,
+    "total_completed": 211,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
