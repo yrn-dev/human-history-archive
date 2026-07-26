@@ -1267,14 +1267,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785103640.279015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785103833.3449287
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 268,
-    "total_planned": 18,
+    "total_completed": 269,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
