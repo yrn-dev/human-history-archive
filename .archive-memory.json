@@ -1102,14 +1102,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785095903.2935538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785096194.3102949
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 235,
-    "total_planned": 51,
+    "total_completed": 236,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
