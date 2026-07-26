@@ -1322,14 +1322,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785106086.5321493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785106346.2752483
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 279,
-    "total_planned": 7,
+    "total_completed": 280,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
