@@ -762,14 +762,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785080980.348105
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785081122.877493
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 167,
-    "total_planned": 48,
+    "total_completed": 168,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
