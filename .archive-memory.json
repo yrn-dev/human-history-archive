@@ -397,13 +397,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785063029.151749
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Medieval universities: birth of modern education",
+      "timestamp": 1785063286.7852592
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "Medieval universities: birth of modern education"
-    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us"
@@ -602,8 +603,8 @@
     }
   ],
   "stats": {
-    "total_completed": 94,
-    "total_planned": 50,
+    "total_completed": 95,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
