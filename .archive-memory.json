@@ -352,13 +352,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785060950.0971112
+    },
+    {
+      "era": "future",
+      "topic": "Renewable energy: solar, fusion, and beyond",
+      "timestamp": 1785061140.1230567
     }
   ],
   "planned": [
-    {
-      "era": "future",
-      "topic": "Renewable energy: solar, fusion, and beyond"
-    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity"
@@ -593,8 +594,8 @@
     }
   ],
   "stats": {
-    "total_completed": 85,
-    "total_planned": 59,
+    "total_completed": 86,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
