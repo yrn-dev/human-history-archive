@@ -1332,14 +1332,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785106481.5696282
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785106700.0517082
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 281,
-    "total_planned": 5,
+    "total_completed": 282,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
