@@ -602,13 +602,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785073042.3604264
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
+      "timestamp": 1785073292.4661577
     }
   ],
   "planned": [
-    {
-      "era": "prehistoric",
-      "topic": "Stone Age tools and their evolution from Oldowan to Mousterian"
-    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era"
@@ -643,8 +644,8 @@
     }
   ],
   "stats": {
-    "total_completed": 135,
-    "total_planned": 9,
+    "total_completed": 136,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
