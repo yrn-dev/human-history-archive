@@ -487,13 +487,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785067291.6544116
+    },
+    {
+      "era": "industrial",
+      "topic": "Railways: connecting continents and shrinking distances",
+      "timestamp": 1785067563.1706166
     }
   ],
   "planned": [
-    {
-      "era": "industrial",
-      "topic": "Railways: connecting continents and shrinking distances"
-    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument"
@@ -620,8 +621,8 @@
     }
   ],
   "stats": {
-    "total_completed": 112,
-    "total_planned": 32,
+    "total_completed": 113,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
