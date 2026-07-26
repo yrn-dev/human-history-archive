@@ -827,14 +827,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785083777.0755527
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785084032.4629703
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 180,
-    "total_planned": 35,
+    "total_completed": 181,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
