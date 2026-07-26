@@ -557,13 +557,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785070712.5808828
+    },
+    {
+      "era": "ancient",
+      "topic": "The Hanging Gardens of Babylon: myth or reality?",
+      "timestamp": 1785070990.0900848
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "The Hanging Gardens of Babylon: myth or reality?"
-    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia"
@@ -634,8 +635,8 @@
     }
   ],
   "stats": {
-    "total_completed": 126,
-    "total_planned": 18,
+    "total_completed": 127,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
