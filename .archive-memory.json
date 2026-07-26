@@ -692,14 +692,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785077579.3422878
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785077874.9545245
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 153,
-    "total_planned": 62,
+    "total_completed": 154,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
