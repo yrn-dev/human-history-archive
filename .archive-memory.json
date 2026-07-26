@@ -332,13 +332,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785059948.9760387
+    },
+    {
+      "era": "ancient",
+      "topic": "The Persian Empire under Darius I",
+      "timestamp": 1785060232.7534585
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "The Persian Empire under Darius I"
-    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock"
@@ -589,8 +590,8 @@
     }
   ],
   "stats": {
-    "total_completed": 81,
-    "total_planned": 63,
+    "total_completed": 82,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
