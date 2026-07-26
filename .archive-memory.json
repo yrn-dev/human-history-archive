@@ -592,13 +592,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785072493.642894
+    },
+    {
+      "era": "cultures",
+      "topic": "Turkish bath (hamam): tradition and social life",
+      "timestamp": 1785072776.1557097
     }
   ],
   "planned": [
-    {
-      "era": "cultures",
-      "topic": "Turkish bath (hamam): tradition and social life"
-    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb"
@@ -641,8 +642,8 @@
     }
   ],
   "stats": {
-    "total_completed": 133,
-    "total_planned": 11,
+    "total_completed": 134,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
