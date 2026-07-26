@@ -1047,14 +1047,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785093241.3657305
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785093522.974543
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 224,
-    "total_planned": 62,
+    "total_completed": 225,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
