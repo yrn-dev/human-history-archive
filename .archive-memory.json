@@ -1312,14 +1312,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785105690.5120912
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785105826.3516123
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 277,
-    "total_planned": 9,
+    "total_completed": 278,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
