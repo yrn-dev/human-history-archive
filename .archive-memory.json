@@ -1242,14 +1242,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785102652.909622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785102816.1806874
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 263,
-    "total_planned": 23,
+    "total_completed": 264,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
