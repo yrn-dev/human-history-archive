@@ -507,13 +507,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785068358.6061957
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Byzantine Empire: continuation of Rome",
+      "timestamp": 1785068548.4277022
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "The Byzantine Empire: continuation of Rome"
-    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution"
@@ -624,8 +625,8 @@
     }
   ],
   "stats": {
-    "total_completed": 116,
-    "total_planned": 28,
+    "total_completed": 117,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
