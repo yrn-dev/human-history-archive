@@ -302,13 +302,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785058354.293604
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The fall of Rome and the rise of medieval kingdoms",
+      "timestamp": 1785058585.7694583
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "The fall of Rome and the rise of medieval kingdoms"
-    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement"
@@ -583,8 +584,8 @@
     }
   ],
   "stats": {
-    "total_completed": 75,
-    "total_planned": 69,
+    "total_completed": 76,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
