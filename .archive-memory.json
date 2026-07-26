@@ -532,13 +532,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785069617.721899
+    },
+    {
+      "era": "cultures",
+      "topic": "Arabic calligraphy: art in writing",
+      "timestamp": 1785069787.981668
     }
   ],
   "planned": [
-    {
-      "era": "cultures",
-      "topic": "Arabic calligraphy: art in writing"
-    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable"
@@ -629,8 +630,8 @@
     }
   ],
   "stats": {
-    "total_completed": 121,
-    "total_planned": 23,
+    "total_completed": 122,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
