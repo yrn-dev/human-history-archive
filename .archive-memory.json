@@ -1057,14 +1057,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785093690.8491716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785094004.1431966
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 226,
-    "total_planned": 60,
+    "total_completed": 227,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
