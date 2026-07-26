@@ -912,14 +912,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785087598.6807404
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785087808.2054687
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 197,
-    "total_planned": 18,
+    "total_completed": 198,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
