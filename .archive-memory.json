@@ -1192,14 +1192,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785100342.5575755
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785100511.534799
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 253,
-    "total_planned": 33,
+    "total_completed": 254,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
