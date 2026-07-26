@@ -947,14 +947,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785088976.5458248
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785089234.6714704
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 204,
-    "total_planned": 11,
+    "total_completed": 205,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
