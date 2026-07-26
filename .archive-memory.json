@@ -992,14 +992,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785090761.5864465
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785090901.4922197
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 213,
-    "total_planned": 2,
+    "total_completed": 214,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
