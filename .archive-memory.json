@@ -722,14 +722,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785079241.971564
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785079401.704898
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 159,
-    "total_planned": 56,
+    "total_completed": 160,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
