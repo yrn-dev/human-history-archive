@@ -617,13 +617,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785073665.6464486
+    },
+    {
+      "era": "modern",
+      "topic": "The Holocaust: remembering the unimaginable",
+      "timestamp": 1785073942.4214995
     }
   ],
   "planned": [
-    {
-      "era": "modern",
-      "topic": "The Holocaust: remembering the unimaginable"
-    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature"
@@ -646,8 +647,8 @@
     }
   ],
   "stats": {
-    "total_completed": 138,
-    "total_planned": 6,
+    "total_completed": 139,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
