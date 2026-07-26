@@ -1227,14 +1227,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785101956.309676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785102184.893122
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 260,
-    "total_planned": 26,
+    "total_completed": 261,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
