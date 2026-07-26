@@ -337,13 +337,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785060232.7534585
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Domestication of animals: dogs, cats, and livestock",
+      "timestamp": 1785060476.2782068
     }
   ],
   "planned": [
-    {
-      "era": "prehistoric",
-      "topic": "Domestication of animals: dogs, cats, and livestock"
-    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones"
@@ -590,8 +591,8 @@
     }
   ],
   "stats": {
-    "total_completed": 82,
-    "total_planned": 62,
+    "total_completed": 83,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
