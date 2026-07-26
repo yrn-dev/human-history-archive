@@ -642,17 +642,17 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785075025.0129707
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
-      "topic": "Transhumanism: merging humans with machines"
+      "topic": "Transhumanism: merging humans with machines",
+      "timestamp": 1785075226.587101
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 143,
-    "total_planned": 1,
+    "total_completed": 144,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
