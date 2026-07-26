@@ -1237,14 +1237,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785102399.207457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785102652.909622
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 262,
-    "total_planned": 24,
+    "total_completed": 263,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
