@@ -777,14 +777,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785081526.7461376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785081693.8404257
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 170,
-    "total_planned": 45,
+    "total_completed": 171,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
