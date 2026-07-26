@@ -1262,14 +1262,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785103478.351265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785103640.279015
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 267,
-    "total_planned": 19,
+    "total_completed": 268,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
