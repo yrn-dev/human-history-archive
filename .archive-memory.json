@@ -632,13 +632,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785074558.501412
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Black Death: how plague reshaped Europe",
+      "timestamp": 1785074793.425261
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "The Black Death: how plague reshaped Europe"
-    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers"
@@ -649,8 +650,8 @@
     }
   ],
   "stats": {
-    "total_completed": 141,
-    "total_planned": 3,
+    "total_completed": 142,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
