@@ -1032,14 +1032,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785092491.607202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785092803.2789798
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 221,
-    "total_planned": 65,
+    "total_completed": 222,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
