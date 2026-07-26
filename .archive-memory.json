@@ -662,14 +662,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785076062.967306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785076349.8454428
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 147,
-    "total_planned": 68,
+    "total_completed": 148,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
