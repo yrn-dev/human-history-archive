@@ -392,13 +392,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785062893.2543364
+    },
+    {
+      "era": "future",
+      "topic": "Climate change scenarios for 2050 and beyond",
+      "timestamp": 1785063029.151749
     }
   ],
   "planned": [
-    {
-      "era": "future",
-      "topic": "Climate change scenarios for 2050 and beyond"
-    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education"
@@ -601,8 +602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 93,
-    "total_planned": 51,
+    "total_completed": 94,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
