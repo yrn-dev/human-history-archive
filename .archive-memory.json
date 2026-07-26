@@ -712,14 +712,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785078704.4228284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785078920.211742
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 157,
-    "total_planned": 58,
+    "total_completed": 158,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
