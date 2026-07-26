@@ -1022,14 +1022,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785092051.7063615
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785092202.3758638
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 219,
-    "total_planned": 67,
+    "total_completed": 220,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
