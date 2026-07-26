@@ -347,13 +347,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785060744.5536265
+    },
+    {
+      "era": "modern",
+      "topic": "The Russian Revolution and rise of communism",
+      "timestamp": 1785060950.0971112
     }
   ],
   "planned": [
-    {
-      "era": "modern",
-      "topic": "The Russian Revolution and rise of communism"
-    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond"
@@ -592,8 +593,8 @@
     }
   ],
   "stats": {
-    "total_completed": 84,
-    "total_planned": 60,
+    "total_completed": 85,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
