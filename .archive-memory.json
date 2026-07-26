@@ -1097,14 +1097,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785095608.993979
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785095903.2935538
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 234,
-    "total_planned": 52,
+    "total_completed": 235,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
