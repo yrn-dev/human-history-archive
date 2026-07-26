@@ -1187,14 +1187,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785100126.9444282
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785100342.5575755
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 252,
-    "total_planned": 34,
+    "total_completed": 253,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
