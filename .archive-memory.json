@@ -1327,14 +1327,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785106346.2752483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785106481.5696282
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 280,
-    "total_planned": 6,
+    "total_completed": 281,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
