@@ -1137,14 +1137,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785097634.8846416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785097833.7300136
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 242,
-    "total_planned": 44,
+    "total_completed": 243,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
