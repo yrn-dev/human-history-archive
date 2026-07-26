@@ -637,21 +637,22 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785074793.425261
+    },
+    {
+      "era": "modern",
+      "topic": "The Cold War: nuclear standoff between superpowers",
+      "timestamp": 1785075025.0129707
     }
   ],
   "planned": [
-    {
-      "era": "modern",
-      "topic": "The Cold War: nuclear standoff between superpowers"
-    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines"
     }
   ],
   "stats": {
-    "total_completed": 142,
-    "total_planned": 2,
+    "total_completed": 143,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
