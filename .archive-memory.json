@@ -312,13 +312,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785058869.166687
+    },
+    {
+      "era": "renaissance",
+      "topic": "Renaissance architecture: Brunelleschi's dome",
+      "timestamp": 1785059141.3193927
     }
   ],
   "planned": [
-    {
-      "era": "renaissance",
-      "topic": "Renaissance architecture: Brunelleschi's dome"
-    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East"
@@ -585,8 +586,8 @@
     }
   ],
   "stats": {
-    "total_completed": 77,
-    "total_planned": 67,
+    "total_completed": 78,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
