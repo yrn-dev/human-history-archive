@@ -852,14 +852,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785084963.1714365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785085121.218584
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 185,
-    "total_planned": 30,
+    "total_completed": 186,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
