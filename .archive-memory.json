@@ -537,13 +537,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785069787.981668
+    },
+    {
+      "era": "future",
+      "topic": "The future of cities: smart, vertical, and sustainable",
+      "timestamp": 1785070057.604148
     }
   ],
   "planned": [
-    {
-      "era": "future",
-      "topic": "The future of cities: smart, vertical, and sustainable"
-    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition"
@@ -630,8 +631,8 @@
     }
   ],
   "stats": {
-    "total_completed": 122,
-    "total_planned": 22,
+    "total_completed": 123,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
