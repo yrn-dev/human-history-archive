@@ -1062,14 +1062,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785094004.1431966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785094147.7652457
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 227,
-    "total_planned": 59,
+    "total_completed": 228,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
