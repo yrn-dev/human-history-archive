@@ -677,14 +677,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785076844.7622397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785077081.2390907
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 150,
-    "total_planned": 65,
+    "total_completed": 151,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
