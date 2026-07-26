@@ -767,14 +767,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785081122.877493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785081341.3673735
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 168,
-    "total_planned": 47,
+    "total_completed": 169,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
