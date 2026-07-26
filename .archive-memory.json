@@ -942,14 +942,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785088818.1933095
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785088976.5458248
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 203,
-    "total_planned": 12,
+    "total_completed": 204,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
