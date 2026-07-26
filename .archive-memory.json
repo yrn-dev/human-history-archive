@@ -522,13 +522,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785069167.264873
+    },
+    {
+      "era": "industrial",
+      "topic": "Victorian London: life in the industrial capital",
+      "timestamp": 1785069371.2947307
     }
   ],
   "planned": [
-    {
-      "era": "industrial",
-      "topic": "Victorian London: life in the industrial capital"
-    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt"
@@ -627,8 +628,8 @@
     }
   ],
   "stats": {
-    "total_completed": 119,
-    "total_planned": 25,
+    "total_completed": 120,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
