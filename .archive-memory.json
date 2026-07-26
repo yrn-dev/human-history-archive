@@ -462,13 +462,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785066002.103972
+    },
+    {
+      "era": "ancient",
+      "topic": "Roman engineering: aqueducts, roads, and concrete",
+      "timestamp": 1785066305.8781312
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "Roman engineering: aqueducts, roads, and concrete"
-    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man"
@@ -615,8 +616,8 @@
     }
   ],
   "stats": {
-    "total_completed": 107,
-    "total_planned": 37,
+    "total_completed": 108,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
