@@ -1377,14 +1377,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785108419.852574
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785108677.827943
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 290,
-    "total_planned": 67,
+    "total_completed": 291,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
