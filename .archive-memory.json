@@ -357,13 +357,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785061140.1230567
+    },
+    {
+      "era": "modern",
+      "topic": "The Internet: from ARPANET to global connectivity",
+      "timestamp": 1785061402.7831638
     }
   ],
   "planned": [
-    {
-      "era": "modern",
-      "topic": "The Internet: from ARPANET to global connectivity"
-    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work"
@@ -594,8 +595,8 @@
     }
   ],
   "stats": {
-    "total_completed": 86,
-    "total_planned": 58,
+    "total_completed": 87,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
