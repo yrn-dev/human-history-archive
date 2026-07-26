@@ -307,13 +307,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785058585.7694583
+    },
+    {
+      "era": "future",
+      "topic": "Genetic engineering: CRISPR and human enhancement",
+      "timestamp": 1785058869.166687
     }
   ],
   "planned": [
-    {
-      "era": "future",
-      "topic": "Genetic engineering: CRISPR and human enhancement"
-    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome"
@@ -584,8 +585,8 @@
     }
   ],
   "stats": {
-    "total_completed": 76,
-    "total_planned": 68,
+    "total_completed": 77,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
