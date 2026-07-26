@@ -407,13 +407,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785063476.592709
+    },
+    {
+      "era": "industrial",
+      "topic": "Child labor and the factory system",
+      "timestamp": 1785063737.8495932
     }
   ],
   "planned": [
-    {
-      "era": "industrial",
-      "topic": "Child labor and the factory system"
-    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama"
@@ -604,8 +605,8 @@
     }
   ],
   "stats": {
-    "total_completed": 96,
-    "total_planned": 48,
+    "total_completed": 97,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
