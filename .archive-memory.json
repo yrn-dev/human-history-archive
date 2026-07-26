@@ -417,13 +417,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785064042.0695944
+    },
+    {
+      "era": "modern",
+      "topic": "World War I: the war to end all wars",
+      "timestamp": 1785064204.7407556
     }
   ],
   "planned": [
-    {
-      "era": "modern",
-      "topic": "World War I: the war to end all wars"
-    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange"
@@ -606,8 +607,8 @@
     }
   ],
   "stats": {
-    "total_completed": 98,
-    "total_planned": 46,
+    "total_completed": 99,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
