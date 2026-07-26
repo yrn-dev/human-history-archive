@@ -1172,14 +1172,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785099367.4479458
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785099670.38599
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 249,
-    "total_planned": 37,
+    "total_completed": 250,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
