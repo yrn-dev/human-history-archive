@@ -1037,14 +1037,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785092803.2789798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785093019.014441
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 222,
-    "total_planned": 64,
+    "total_completed": 223,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
