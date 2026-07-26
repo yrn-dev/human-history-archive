@@ -1352,18 +1352,17 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785107395.0020926
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
+      "timestamp": 1785107645.1569264
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 285,
-    "total_planned": 1,
+    "total_completed": 286,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
