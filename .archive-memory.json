@@ -1007,14 +1007,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785091453.1379974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785091644.1428897
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 216,
-    "total_planned": 70,
+    "total_completed": 217,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
