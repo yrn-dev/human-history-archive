@@ -1412,14 +1412,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785110009.5588977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785110160.5559208
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 297,
-    "total_planned": 60,
+    "total_completed": 298,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
