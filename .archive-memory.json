@@ -427,13 +427,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785064524.7552512
+    },
+    {
+      "era": "ancient",
+      "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
+      "timestamp": 1785064787.9826634
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "Greek philosophy: Socrates, Plato, and Aristotle"
-    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world"
@@ -608,8 +609,8 @@
     }
   ],
   "stats": {
-    "total_completed": 100,
-    "total_planned": 44,
+    "total_completed": 101,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
