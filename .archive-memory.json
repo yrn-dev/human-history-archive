@@ -817,14 +817,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785083464.3685873
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785083608.5055087
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 178,
-    "total_planned": 37,
+    "total_completed": 179,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
