@@ -1397,14 +1397,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785109332.3210022
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785109518.6820424
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 294,
-    "total_planned": 63,
+    "total_completed": 295,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
