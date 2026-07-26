@@ -717,14 +717,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785078920.211742
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785079241.971564
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 158,
-    "total_planned": 57,
+    "total_completed": 159,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
