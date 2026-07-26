@@ -927,14 +927,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785088229.3586714
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785088373.6838465
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 200,
-    "total_planned": 15,
+    "total_completed": 201,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
