@@ -342,13 +342,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785060476.2782068
+    },
+    {
+      "era": "modern",
+      "topic": "The Digital Revolution: computers and smartphones",
+      "timestamp": 1785060744.5536265
     }
   ],
   "planned": [
-    {
-      "era": "modern",
-      "topic": "The Digital Revolution: computers and smartphones"
-    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism"
@@ -591,8 +592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 83,
-    "total_planned": 61,
+    "total_completed": 84,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
