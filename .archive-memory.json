@@ -527,13 +527,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785069371.2947307
+    },
+    {
+      "era": "ancient",
+      "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
+      "timestamp": 1785069617.721899
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "Hatshepsut: the female pharaoh of Ancient Egypt"
-    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing"
@@ -628,8 +629,8 @@
     }
   ],
   "stats": {
-    "total_completed": 120,
-    "total_planned": 24,
+    "total_completed": 121,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
