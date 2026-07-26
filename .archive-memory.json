@@ -987,14 +987,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785090602.2317538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785090761.5864465
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 212,
-    "total_planned": 3,
+    "total_completed": 213,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
