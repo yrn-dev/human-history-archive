@@ -962,14 +962,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785089588.7614062
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785089755.196733
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 207,
-    "total_planned": 8,
+    "total_completed": 208,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
