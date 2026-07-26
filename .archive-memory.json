@@ -1277,14 +1277,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785104046.0032797
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785104319.1094747
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 270,
-    "total_planned": 16,
+    "total_completed": 271,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
