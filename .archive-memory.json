@@ -422,13 +422,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785064204.7407556
+    },
+    {
+      "era": "cultures",
+      "topic": "Central Asian silk road: trade and cultural exchange",
+      "timestamp": 1785064524.7552512
     }
   ],
   "planned": [
-    {
-      "era": "cultures",
-      "topic": "Central Asian silk road: trade and cultural exchange"
-    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle"
@@ -607,8 +608,8 @@
     }
   ],
   "stats": {
-    "total_completed": 99,
-    "total_planned": 45,
+    "total_completed": 100,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
