@@ -907,14 +907,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785087437.8425853
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785087598.6807404
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 196,
-    "total_planned": 19,
+    "total_completed": 197,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
