@@ -1382,14 +1382,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785108677.827943
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785108970.8694227
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 291,
-    "total_planned": 66,
+    "total_completed": 292,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
