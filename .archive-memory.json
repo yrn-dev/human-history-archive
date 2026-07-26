@@ -872,14 +872,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785085874.0039876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785086072.9013896
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 189,
-    "total_planned": 26,
+    "total_completed": 190,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
