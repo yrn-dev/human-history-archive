@@ -1162,14 +1162,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785098938.73499
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785099147.978683
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 247,
-    "total_planned": 39,
+    "total_completed": 248,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
