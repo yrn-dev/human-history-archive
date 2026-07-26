@@ -1152,14 +1152,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785098383.8241107
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785098690.2250948
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 245,
-    "total_planned": 41,
+    "total_completed": 246,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
