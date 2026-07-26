@@ -797,14 +797,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785082315.7933025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785082570.093219
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 174,
-    "total_planned": 41,
+    "total_completed": 175,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
