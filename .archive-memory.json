@@ -897,14 +897,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785086983.5816157
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785087210.0318224
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 194,
-    "total_planned": 21,
+    "total_completed": 195,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
