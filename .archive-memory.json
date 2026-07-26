@@ -1202,14 +1202,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785100745.5142033
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785101048.8051891
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 255,
-    "total_planned": 31,
+    "total_completed": 256,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
