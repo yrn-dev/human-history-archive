@@ -1117,14 +1117,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785096651.5409434
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785096884.3375585
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 238,
-    "total_planned": 48,
+    "total_completed": 239,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
