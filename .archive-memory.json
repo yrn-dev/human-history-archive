@@ -447,13 +447,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785065378.0321407
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Mongol Empire: the largest land empire in history",
+      "timestamp": 1785065606.9803934
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "Mongol Empire: the largest land empire in history"
-    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans"
@@ -612,8 +613,8 @@
     }
   ],
   "stats": {
-    "total_completed": 104,
-    "total_planned": 40,
+    "total_completed": 105,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
