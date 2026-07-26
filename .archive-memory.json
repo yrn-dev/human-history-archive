@@ -612,13 +612,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785073512.1181955
+    },
+    {
+      "era": "industrial",
+      "topic": "Charles Darwin and the theory of evolution",
+      "timestamp": 1785073665.6464486
     }
   ],
   "planned": [
-    {
-      "era": "industrial",
-      "topic": "Charles Darwin and the theory of evolution"
-    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable"
@@ -645,8 +646,8 @@
     }
   ],
   "stats": {
-    "total_completed": 137,
-    "total_planned": 7,
+    "total_completed": 138,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
