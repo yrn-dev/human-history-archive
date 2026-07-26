@@ -807,14 +807,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785082872.7789013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785083168.6650062
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 176,
-    "total_planned": 39,
+    "total_completed": 177,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
