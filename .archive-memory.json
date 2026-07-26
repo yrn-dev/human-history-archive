@@ -1247,14 +1247,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785102816.1806874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785103000.9381428
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 264,
-    "total_planned": 22,
+    "total_completed": 265,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
