@@ -1082,14 +1082,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785095052.445082
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785095253.5381768
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 231,
-    "total_planned": 55,
+    "total_completed": 232,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
