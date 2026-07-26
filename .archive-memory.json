@@ -1087,14 +1087,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785095253.5381768
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785095403.0213053
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 232,
-    "total_planned": 54,
+    "total_completed": 233,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
