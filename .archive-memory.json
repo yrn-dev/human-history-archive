@@ -892,14 +892,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785086731.9695528
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785086983.5816157
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 193,
-    "total_planned": 22,
+    "total_completed": 194,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
