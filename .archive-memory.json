@@ -1217,14 +1217,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785101416.56529
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785101650.9124646
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 258,
-    "total_planned": 28,
+    "total_completed": 259,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
