@@ -1252,14 +1252,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785103000.9381428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785103242.550393
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 265,
-    "total_planned": 21,
+    "total_completed": 266,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
