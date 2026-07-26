@@ -1167,14 +1167,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785099147.978683
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785099367.4479458
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 248,
-    "total_planned": 38,
+    "total_completed": 249,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
