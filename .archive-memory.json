@@ -957,14 +957,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785089405.6860163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785089588.7614062
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 206,
-    "total_planned": 9,
+    "total_completed": 207,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
