@@ -847,14 +847,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785084773.1566033
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785084963.1714365
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 184,
-    "total_planned": 31,
+    "total_completed": 185,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
