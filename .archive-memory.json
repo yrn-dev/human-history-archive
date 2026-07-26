@@ -517,13 +517,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785068857.9435189
+    },
+    {
+      "era": "ancient",
+      "topic": "The Minoan civilization of Crete",
+      "timestamp": 1785069167.264873
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "The Minoan civilization of Crete"
-    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital"
@@ -626,8 +627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 118,
-    "total_planned": 26,
+    "total_completed": 119,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
