@@ -1147,14 +1147,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785098115.6924589
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785098383.8241107
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 244,
-    "total_planned": 42,
+    "total_completed": 245,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
