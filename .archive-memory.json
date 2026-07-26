@@ -862,14 +862,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785085375.6611202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785085644.581822
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 187,
-    "total_planned": 28,
+    "total_completed": 188,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
