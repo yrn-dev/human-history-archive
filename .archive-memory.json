@@ -562,13 +562,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785070990.0900848
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Bronze Age trade networks across Europe and Asia",
+      "timestamp": 1785071298.4141774
     }
   ],
   "planned": [
-    {
-      "era": "prehistoric",
-      "topic": "Bronze Age trade networks across Europe and Asia"
-    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun"
@@ -635,8 +636,8 @@
     }
   ],
   "stats": {
-    "total_completed": 127,
-    "total_planned": 17,
+    "total_completed": 128,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
