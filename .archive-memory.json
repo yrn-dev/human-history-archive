@@ -432,13 +432,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785064787.9826634
+    },
+    {
+      "era": "ancient",
+      "topic": "Sumerian writing: how cuneiform changed the world",
+      "timestamp": 1785065005.3610392
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "Sumerian writing: how cuneiform changed the world"
-    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing"
@@ -609,8 +610,8 @@
     }
   ],
   "stats": {
-    "total_completed": 101,
-    "total_planned": 43,
+    "total_completed": 102,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
