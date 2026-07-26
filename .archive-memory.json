@@ -727,14 +727,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785079401.704898
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785079626.2862809
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 160,
-    "total_planned": 55,
+    "total_completed": 161,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
