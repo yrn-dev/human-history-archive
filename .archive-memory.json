@@ -1392,14 +1392,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785109158.3906355
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785109332.3210022
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 293,
-    "total_planned": 64,
+    "total_completed": 294,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
