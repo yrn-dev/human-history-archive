@@ -1402,14 +1402,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785109518.6820424
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785109707.3750234
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 295,
-    "total_planned": 62,
+    "total_completed": 296,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
