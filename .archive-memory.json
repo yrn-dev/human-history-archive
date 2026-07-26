@@ -742,14 +742,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785080123.9971454
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785080305.442063
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 163,
-    "total_planned": 52,
+    "total_completed": 164,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
