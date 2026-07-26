@@ -787,14 +787,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785081834.861306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785082119.9746068
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 172,
-    "total_planned": 43,
+    "total_completed": 173,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
