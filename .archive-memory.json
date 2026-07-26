@@ -1257,14 +1257,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785103242.550393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785103478.351265
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 266,
-    "total_planned": 20,
+    "total_completed": 267,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
