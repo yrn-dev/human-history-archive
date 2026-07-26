@@ -327,13 +327,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785059704.8565168
+    },
+    {
+      "era": "ancient",
+      "topic": "The Great Pyramid of Giza: construction methods and mysteries",
+      "timestamp": 1785059948.9760387
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "The Great Pyramid of Giza: construction methods and mysteries"
-    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I"
@@ -588,8 +589,8 @@
     }
   ],
   "stats": {
-    "total_completed": 80,
-    "total_planned": 64,
+    "total_completed": 81,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
