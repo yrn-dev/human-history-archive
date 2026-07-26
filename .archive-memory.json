@@ -1017,14 +1017,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785091788.353558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785092051.7063615
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 218,
-    "total_planned": 68,
+    "total_completed": 219,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
