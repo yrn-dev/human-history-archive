@@ -1387,14 +1387,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785108970.8694227
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785109158.3906355
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 292,
-    "total_planned": 65,
+    "total_completed": 293,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
