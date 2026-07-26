@@ -832,14 +832,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785084032.4629703
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785084331.8460593
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 181,
-    "total_planned": 34,
+    "total_completed": 182,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
