@@ -732,14 +732,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785079626.2862809
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785079841.2260747
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 161,
-    "total_planned": 54,
+    "total_completed": 162,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
