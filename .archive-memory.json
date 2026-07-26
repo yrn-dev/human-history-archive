@@ -1297,14 +1297,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785105010.209463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785105285.8039017
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 274,
-    "total_planned": 12,
+    "total_completed": 275,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
