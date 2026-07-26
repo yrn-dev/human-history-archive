@@ -472,13 +472,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785066539.8991241
+    },
+    {
+      "era": "ancient",
+      "topic": "The Library of Alexandria: knowledge lost and found",
+      "timestamp": 1785066820.8861349
     }
   ],
   "planned": [
-    {
-      "era": "ancient",
-      "topic": "The Library of Alexandria: knowledge lost and found"
-    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry"
@@ -617,8 +618,8 @@
     }
   ],
   "stats": {
-    "total_completed": 109,
-    "total_planned": 35,
+    "total_completed": 110,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
