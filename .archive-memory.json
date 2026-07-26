@@ -822,14 +822,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785083608.5055087
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785083777.0755527
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 179,
-    "total_planned": 36,
+    "total_completed": 180,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
