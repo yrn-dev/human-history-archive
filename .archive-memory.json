@@ -547,13 +547,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785070331.9771242
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
+      "timestamp": 1785070480.4076862
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights"
-    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art"
@@ -632,8 +633,8 @@
     }
   ],
   "stats": {
-    "total_completed": 124,
-    "total_planned": 20,
+    "total_completed": 125,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
