@@ -452,13 +452,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785065606.9803934
+    },
+    {
+      "era": "industrial",
+      "topic": "The telegraph: instant communication across oceans",
+      "timestamp": 1785065795.80782
     }
   ],
   "planned": [
-    {
-      "era": "industrial",
-      "topic": "The telegraph: instant communication across oceans"
-    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable"
@@ -613,8 +614,8 @@
     }
   ],
   "stats": {
-    "total_completed": 105,
-    "total_planned": 39,
+    "total_completed": 106,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
