@@ -982,14 +982,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785090364.915953
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785090602.2317538
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 211,
-    "total_planned": 4,
+    "total_completed": 212,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
