@@ -747,14 +747,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785080305.442063
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785080595.0822926
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 164,
-    "total_planned": 51,
+    "total_completed": 165,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
