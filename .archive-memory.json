@@ -952,14 +952,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785089234.6714704
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785089405.6860163
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 205,
-    "total_planned": 10,
+    "total_completed": 206,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
