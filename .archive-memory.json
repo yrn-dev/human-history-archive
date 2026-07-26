@@ -457,13 +457,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785065795.80782
+    },
+    {
+      "era": "future",
+      "topic": "Quantum computing: solving the unsolvable",
+      "timestamp": 1785066002.103972
     }
   ],
   "planned": [
-    {
-      "era": "future",
-      "topic": "Quantum computing: solving the unsolvable"
-    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete"
@@ -614,8 +615,8 @@
     }
   ],
   "stats": {
-    "total_completed": 106,
-    "total_planned": 38,
+    "total_completed": 107,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
