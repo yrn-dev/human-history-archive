@@ -597,13 +597,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785072776.1557097
+    },
+    {
+      "era": "modern",
+      "topic": "World War II: from invasion to atomic bomb",
+      "timestamp": 1785073042.3604264
     }
   ],
   "planned": [
-    {
-      "era": "modern",
-      "topic": "World War II: from invasion to atomic bomb"
-    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian"
@@ -642,8 +643,8 @@
     }
   ],
   "stats": {
-    "total_completed": 134,
-    "total_planned": 10,
+    "total_completed": 135,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
