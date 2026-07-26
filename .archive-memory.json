@@ -1,0 +1,308 @@
+{
+  "version": 1,
+  "completed": [
+    {
+      "era": "renaissance",
+      "topic_key": "galileo-and-the-scientific-method.md"
+    },
+    {
+      "era": "renaissance",
+      "topic_key": "leonardo-da-vinci-the-ultimate-renaissance-man.md"
+    },
+    {
+      "era": "renaissance",
+      "topic_key": "copernicus-and-the-heliocentric-revolution.md"
+    },
+    {
+      "era": "renaissance",
+      "topic_key": "the-printing-press-gutenbergs-revolution.md"
+    },
+    {
+      "era": "renaissance",
+      "topic_key": "renaissance-architecture-brunelleschis-dome.md"
+    },
+    {
+      "era": "renaissance",
+      "topic_key": "exploration-age-columbus-magellan-and-vasco-da-gama.md"
+    },
+    {
+      "era": "renaissance",
+      "topic_key": "michelangelos-sistine-chapel-creation-and-legacy.md"
+    },
+    {
+      "era": "renaissance",
+      "topic_key": "shakespeare-language-drama-and-human-nature.md"
+    },
+    {
+      "era": "renaissance",
+      "topic_key": "the-medici-family-bankers-and-patrons-of-art.md"
+    },
+    {
+      "era": "prehistoric",
+      "topic_key": "cave-paintings-of-lascaux-and-altamira---what-they-tell-us.md"
+    },
+    {
+      "era": "prehistoric",
+      "topic_key": "the-neolithic-revolution-how-agriculture-changed-everything.md"
+    },
+    {
+      "era": "prehistoric",
+      "topic_key": "bronze-age-trade-networks-across-europe-and-asia.md"
+    },
+    {
+      "era": "prehistoric",
+      "topic_key": "domestication-of-animals-dogs-cats-and-livestock.md"
+    },
+    {
+      "era": "prehistoric",
+      "topic_key": "the-discovery-of-fire-by-early-humans-and-its-impact-on-evol.md"
+    },
+    {
+      "era": "prehistoric",
+      "topic_key": "stone-age-tools-and-their-evolution-from-oldowan-to-mousteri.md"
+    },
+    {
+      "era": "prehistoric",
+      "topic_key": "the-megalithic-cultures-stonehenge-and-similar-monuments.md"
+    },
+    {
+      "era": "prehistoric",
+      "topic_key": "intro.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "world-war-i-the-war-to-end-all-wars.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "the-digital-revolution-computers-and-smartphones.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "the-fall-of-the-berlin-wall-end-of-division.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "the-russian-revolution-and-rise-of-communism.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "the-internet-from-arpanet-to-global-connectivity.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "the-great-depression-economic-collapse-of-the-1930s.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "the-holocaust-remembering-the-unimaginable.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "the-cold-war-nuclear-standoff-between-superpowers.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "world-war-ii-from-invasion-to-atomic-bomb.md"
+    },
+    {
+      "era": "modern",
+      "topic_key": "the-space-race-sputnik-apollo-and-the-moon-landing.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "islamic-golden-age-science-medicine-and-philosophy.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "medieval-universities-birth-of-modern-education.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "knightly-orders-templars-hospitallers-and-teutonic-knights.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "the-fall-of-rome-and-the-rise-of-medieval-kingdoms.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "viking-age-explorers-traders-and-warriors.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "the-black-death-how-plague-reshaped-europe.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "the-crusades-holy-wars-that-changed-the-middle-east.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "the-byzantine-empire-continuation-of-rome.md"
+    },
+    {
+      "era": "middle-ages",
+      "topic_key": "mongol-empire-the-largest-land-empire-in-history.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "the-industrial-revolution-in-russia-and-japan.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "the-telegraph-instant-communication-across-oceans.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "victorian-london-life-in-the-industrial-capital.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "railways-connecting-continents-and-shrinking-distances.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "charles-darwin-and-the-theory-of-evolution.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "the\u7eba\u7ec7-industry-how-cotton-changed-the-world.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "the-steam-engine-watts-invention-that-powered-an-era.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "child-labor-and-the-factory-system.md"
+    },
+    {
+      "era": "industrial",
+      "topic_key": "the-bessemer-process-making-steel-affordable.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "virtual-reality-living-in-digital-worlds.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "the-future-of-cities-smart-vertical-and-sustainable.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "climate-change-scenarios-for-2050-and-beyond.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "quantum-computing-solving-the-unsolvable.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "transhumanism-merging-humans-with-machines.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "ai-and-automation-how-machines-will-change-work.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "space-colonization-mars-moon-bases-and-beyond.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "renewable-energy-solar-fusion-and-beyond.md"
+    },
+    {
+      "era": "future",
+      "topic_key": "genetic-engineering-crispr-and-human-enhancement.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "turkish-cuisine-from-kebabs-to-baklava.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "azerbaijani-music-mugham-and-the-tar-instrument.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "arabic-calligraphy-art-in-writing.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "kazakh-nomadic-culture-yurts-horses-and-epic-poetry.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "central-asian-silk-road-trade-and-cultural-exchange.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "persian-poetry-rumi-hafez-and-feridun.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "turkish-bath-hamam-tradition-and-social-life.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "azerbaijani-carpet-weaving-art-and-heritage.md"
+    },
+    {
+      "era": "cultures",
+      "topic_key": "kazakh-epic-manas-and-oral-tradition.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "roman-engineering-aqueducts-roads-and-concrete.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "sumerian-writing-how-cuneiform-changed-the-world.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "hatshepsut-the-female-pharaoh-of-ancient-egypt.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "the-minoan-civilization-of-crete.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "the-library-of-alexandria-knowledge-lost-and-found.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "the-great-pyramid-of-giza-construction-methods-and-mysteries.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "greek-philosophy-socrates-plato-and-aristotle.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "the-hanging-gardens-of-babylon-myth-or-reality.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "the-persian-empire-under-darius-i.md"
+    },
+    {
+      "era": "ancient",
+      "topic_key": "egypt.md"
+    }
+  ],
+  "planned": [
+    {
+      "era": "industrial",
+      "topic": "The textile Industry: how cotton changed the world"
+    }
+  ],
+  "stats": {
+    "total_completed": 73,
+    "total_planned": 1,
+    "total_topics": 74
+  }
+}
