@@ -1072,14 +1072,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785094467.3839605
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785094781.212109
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 229,
-    "total_planned": 57,
+    "total_completed": 230,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
