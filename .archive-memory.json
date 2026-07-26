@@ -412,13 +412,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785063737.8495932
+    },
+    {
+      "era": "renaissance",
+      "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
+      "timestamp": 1785064042.0695944
     }
   ],
   "planned": [
-    {
-      "era": "renaissance",
-      "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama"
-    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars"
@@ -605,8 +606,8 @@
     }
   ],
   "stats": {
-    "total_completed": 97,
-    "total_planned": 47,
+    "total_completed": 98,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
