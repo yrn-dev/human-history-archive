@@ -1342,14 +1342,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785106961.366213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785107164.7022338
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 283,
-    "total_planned": 3,
+    "total_completed": 284,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
