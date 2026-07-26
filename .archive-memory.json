@@ -372,13 +372,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785061951.1548781
+    },
+    {
+      "era": "renaissance",
+      "topic": "Galileo and the scientific method",
+      "timestamp": 1785062203.9223018
     }
   ],
   "planned": [
-    {
-      "era": "renaissance",
-      "topic": "Galileo and the scientific method"
-    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy"
@@ -597,8 +598,8 @@
     }
   ],
   "stats": {
-    "total_completed": 89,
-    "total_planned": 55,
+    "total_completed": 90,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
