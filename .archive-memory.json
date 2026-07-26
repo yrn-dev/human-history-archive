@@ -667,14 +667,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785076349.8454428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785076610.3217208
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 148,
-    "total_planned": 67,
+    "total_completed": 149,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
