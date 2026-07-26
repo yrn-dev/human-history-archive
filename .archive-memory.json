@@ -1212,14 +1212,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785101248.594746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785101416.56529
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 257,
-    "total_planned": 29,
+    "total_completed": 258,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
