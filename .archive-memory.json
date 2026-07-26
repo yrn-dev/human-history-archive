@@ -1077,14 +1077,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785094781.212109
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785095052.445082
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 230,
-    "total_planned": 56,
+    "total_completed": 231,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
