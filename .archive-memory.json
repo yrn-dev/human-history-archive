@@ -1362,14 +1362,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785107804.3346548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785108029.7140188
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 287,
-    "total_planned": 70,
+    "total_completed": 288,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
