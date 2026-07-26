@@ -377,13 +377,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785062203.9223018
+    },
+    {
+      "era": "renaissance",
+      "topic": "Michelangelo's Sistine Chapel: creation and legacy",
+      "timestamp": 1785062486.47234
     }
   ],
   "planned": [
-    {
-      "era": "renaissance",
-      "topic": "Michelangelo's Sistine Chapel: creation and legacy"
-    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution"
@@ -598,8 +599,8 @@
     }
   ],
   "stats": {
-    "total_completed": 90,
-    "total_planned": 54,
+    "total_completed": 91,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
