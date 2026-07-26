@@ -322,13 +322,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785059442.2033336
+    },
+    {
+      "era": "industrial",
+      "topic": "The Bessemer process: making steel affordable",
+      "timestamp": 1785059704.8565168
     }
   ],
   "planned": [
-    {
-      "era": "industrial",
-      "topic": "The Bessemer process: making steel affordable"
-    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries"
@@ -587,8 +588,8 @@
     }
   ],
   "stats": {
-    "total_completed": 79,
-    "total_planned": 65,
+    "total_completed": 80,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
