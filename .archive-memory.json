@@ -552,13 +552,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785070480.4076862
+    },
+    {
+      "era": "renaissance",
+      "topic": "The Medici family: bankers and patrons of art",
+      "timestamp": 1785070712.5808828
     }
   ],
   "planned": [
-    {
-      "era": "renaissance",
-      "topic": "The Medici family: bankers and patrons of art"
-    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?"
@@ -633,8 +634,8 @@
     }
   ],
   "stats": {
-    "total_completed": 125,
-    "total_planned": 19,
+    "total_completed": 126,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
