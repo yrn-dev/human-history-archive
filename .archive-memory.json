@@ -1307,14 +1307,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785105512.7883465
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785105690.5120912
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 276,
-    "total_planned": 10,
+    "total_completed": 277,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
