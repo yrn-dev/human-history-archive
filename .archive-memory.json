@@ -1127,14 +1127,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785097134.2966816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785097401.557086
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 240,
-    "total_planned": 46,
+    "total_completed": 241,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
