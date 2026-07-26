@@ -402,13 +402,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785063286.7852592
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
+      "timestamp": 1785063476.592709
     }
   ],
   "planned": [
-    {
-      "era": "prehistoric",
-      "topic": "Cave paintings of Lascaux and Altamira - what they tell us"
-    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system"
@@ -603,8 +604,8 @@
     }
   ],
   "stats": {
-    "total_completed": 95,
-    "total_planned": 49,
+    "total_completed": 96,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
