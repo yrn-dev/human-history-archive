@@ -317,13 +317,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785059141.3193927
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Crusades: holy wars that changed the Middle East",
+      "timestamp": 1785059442.2033336
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "The Crusades: holy wars that changed the Middle East"
-    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable"
@@ -586,8 +587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 78,
-    "total_planned": 66,
+    "total_completed": 79,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
