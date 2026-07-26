@@ -467,13 +467,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785066305.8781312
+    },
+    {
+      "era": "renaissance",
+      "topic": "Leonardo da Vinci: the ultimate Renaissance man",
+      "timestamp": 1785066539.8991241
     }
   ],
   "planned": [
-    {
-      "era": "renaissance",
-      "topic": "Leonardo da Vinci: the ultimate Renaissance man"
-    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found"
@@ -616,8 +617,8 @@
     }
   ],
   "stats": {
-    "total_completed": 108,
-    "total_planned": 36,
+    "total_completed": 109,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
