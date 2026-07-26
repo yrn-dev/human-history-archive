@@ -572,13 +572,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785071585.0358524
+    },
+    {
+      "era": "future",
+      "topic": "Virtual reality: living in digital worlds",
+      "timestamp": 1785071861.3763742
     }
   ],
   "planned": [
-    {
-      "era": "future",
-      "topic": "Virtual reality: living in digital worlds"
-    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage"
@@ -637,8 +638,8 @@
     }
   ],
   "stats": {
-    "total_completed": 129,
-    "total_planned": 15,
+    "total_completed": 130,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
