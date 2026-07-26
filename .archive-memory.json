@@ -387,13 +387,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785062709.4412487
+    },
+    {
+      "era": "prehistoric",
+      "topic": "The Neolithic Revolution: how agriculture changed everything",
+      "timestamp": 1785062893.2543364
     }
   ],
   "planned": [
-    {
-      "era": "prehistoric",
-      "topic": "The Neolithic Revolution: how agriculture changed everything"
-    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond"
@@ -600,8 +601,8 @@
     }
   ],
   "stats": {
-    "total_completed": 92,
-    "total_planned": 52,
+    "total_completed": 93,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
