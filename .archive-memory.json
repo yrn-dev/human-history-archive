@@ -1122,14 +1122,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785096884.3375585
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785097134.2966816
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 239,
-    "total_planned": 47,
+    "total_completed": 240,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
