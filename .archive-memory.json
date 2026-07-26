@@ -782,14 +782,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785081693.8404257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785081834.861306
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 171,
-    "total_planned": 44,
+    "total_completed": 172,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
