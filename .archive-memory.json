@@ -442,13 +442,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785065157.222235
+    },
+    {
+      "era": "industrial",
+      "topic": "The Industrial Revolution in Russia and Japan",
+      "timestamp": 1785065378.0321407
     }
   ],
   "planned": [
-    {
-      "era": "industrial",
-      "topic": "The Industrial Revolution in Russia and Japan"
-    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history"
@@ -611,8 +612,8 @@
     }
   ],
   "stats": {
-    "total_completed": 103,
-    "total_planned": 41,
+    "total_completed": 104,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
