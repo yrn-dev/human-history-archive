@@ -1337,14 +1337,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785106700.0517082
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785106961.366213
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 282,
-    "total_planned": 4,
+    "total_completed": 283,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
