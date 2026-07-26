@@ -1157,14 +1157,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785098690.2250948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785098938.73499
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 246,
-    "total_planned": 40,
+    "total_completed": 247,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
