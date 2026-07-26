@@ -582,13 +582,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785072118.957418
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Viking age: explorers, traders, and warriors",
+      "timestamp": 1785072262.33322
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "Viking age: explorers, traders, and warriors"
-    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments"
@@ -639,8 +640,8 @@
     }
   ],
   "stats": {
-    "total_completed": 131,
-    "total_planned": 13,
+    "total_completed": 132,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
