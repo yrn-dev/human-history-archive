@@ -1027,14 +1027,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785092202.3758638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785092491.607202
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 220,
-    "total_planned": 66,
+    "total_completed": 221,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
