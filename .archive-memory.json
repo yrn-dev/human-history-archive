@@ -757,14 +757,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785080745.8232877
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785080980.348105
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 166,
-    "total_planned": 49,
+    "total_completed": 167,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
