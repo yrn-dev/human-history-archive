@@ -492,13 +492,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785067563.1706166
+    },
+    {
+      "era": "cultures",
+      "topic": "Azerbaijani music: mugham and the tar instrument",
+      "timestamp": 1785067859.8062696
     }
   ],
   "planned": [
-    {
-      "era": "cultures",
-      "topic": "Azerbaijani music: mugham and the tar instrument"
-    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond"
@@ -621,8 +622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 113,
-    "total_planned": 31,
+    "total_completed": 114,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
