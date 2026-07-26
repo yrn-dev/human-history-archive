@@ -367,13 +367,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785061708.4362197
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Islamic Golden Age: science, medicine, and philosophy",
+      "timestamp": 1785061951.1548781
     }
   ],
   "planned": [
-    {
-      "era": "middle-ages",
-      "topic": "Islamic Golden Age: science, medicine, and philosophy"
-    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method"
@@ -596,8 +597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 88,
-    "total_planned": 56,
+    "total_completed": 89,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
