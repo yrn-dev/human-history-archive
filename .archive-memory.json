@@ -1407,14 +1407,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785109707.3750234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785110009.5588977
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 296,
-    "total_planned": 61,
+    "total_completed": 297,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
