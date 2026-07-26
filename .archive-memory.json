@@ -1142,14 +1142,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785097833.7300136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785098115.6924589
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -1362,8 +1362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 243,
-    "total_planned": 43,
+    "total_completed": 244,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
