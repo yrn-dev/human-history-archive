@@ -857,14 +857,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785085121.218584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785085375.6611202
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -1007,8 +1007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 186,
-    "total_planned": 29,
+    "total_completed": 187,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
