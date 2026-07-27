@@ -3232,14 +3232,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785193712.0748224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785193906.596353
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 661,
-    "total_planned": 51,
+    "total_completed": 662,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
