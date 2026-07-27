@@ -2607,14 +2607,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785165163.7658045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785165362.91852
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 536,
-    "total_planned": 34,
+    "total_completed": 537,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
