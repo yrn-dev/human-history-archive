@@ -1427,14 +1427,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785110778.046141
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785111036.7189429
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 300,
-    "total_planned": 57,
+    "total_completed": 301,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
