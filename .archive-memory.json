@@ -1547,14 +1547,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785116251.1621106
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785116518.520322
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 324,
-    "total_planned": 33,
+    "total_completed": 325,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
