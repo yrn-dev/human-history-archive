@@ -1492,14 +1492,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785113726.847809
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785113891.241079
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 313,
-    "total_planned": 44,
+    "total_completed": 314,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
