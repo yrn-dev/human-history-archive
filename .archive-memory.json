@@ -2862,14 +2862,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785177183.1059911
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785177402.0279438
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 587,
-    "total_planned": 54,
+    "total_completed": 588,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
