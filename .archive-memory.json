@@ -2692,14 +2692,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785169027.2365243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785169239.2919848
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 553,
-    "total_planned": 17,
+    "total_completed": 554,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
