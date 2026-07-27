@@ -1527,14 +1527,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785115277.4835095
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785115508.7104013
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 320,
-    "total_planned": 37,
+    "total_completed": 321,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
