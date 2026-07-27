@@ -2647,14 +2647,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785167032.9827635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785167299.0806472
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 544,
-    "total_planned": 26,
+    "total_completed": 545,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
