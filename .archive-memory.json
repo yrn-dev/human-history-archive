@@ -3087,14 +3087,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785187352.1824071
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785187593.3393483
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 632,
-    "total_planned": 9,
+    "total_completed": 633,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
