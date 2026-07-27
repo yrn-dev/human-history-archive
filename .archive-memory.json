@@ -1432,14 +1432,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785111036.7189429
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785111199.5028872
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 301,
-    "total_planned": 56,
+    "total_completed": 302,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
