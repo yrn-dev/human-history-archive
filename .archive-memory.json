@@ -2782,14 +2782,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785173154.052469
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785173308.5374613
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 571,
-    "total_planned": 70,
+    "total_completed": 572,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
