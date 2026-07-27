@@ -3002,14 +3002,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785183551.5136456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785183595.8753843
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 615,
-    "total_planned": 26,
+    "total_completed": 616,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
