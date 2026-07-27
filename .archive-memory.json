@@ -2972,14 +2972,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785182248.1709583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785182449.2800732
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 609,
-    "total_planned": 32,
+    "total_completed": 610,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
