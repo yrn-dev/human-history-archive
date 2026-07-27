@@ -3267,14 +3267,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785195440.2940028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785195603.0845993
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 668,
-    "total_planned": 44,
+    "total_completed": 669,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
