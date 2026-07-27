@@ -2992,14 +2992,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785183120.4518123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785183260.2903807
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 613,
-    "total_planned": 28,
+    "total_completed": 614,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
