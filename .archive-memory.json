@@ -3222,14 +3222,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785193366.941552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785193511.3930492
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 659,
-    "total_planned": 53,
+    "total_completed": 660,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
