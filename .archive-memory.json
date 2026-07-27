@@ -2042,14 +2042,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785138561.766834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785138806.2710547
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 423,
-    "total_planned": 5,
+    "total_completed": 424,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
