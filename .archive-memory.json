@@ -2477,14 +2477,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785159106.5885804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785159337.3027396
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 510,
-    "total_planned": 60,
+    "total_completed": 511,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
