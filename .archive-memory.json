@@ -2137,14 +2137,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785142858.4345162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785143040.762425
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 442,
-    "total_planned": 57,
+    "total_completed": 443,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
