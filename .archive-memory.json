@@ -1452,14 +1452,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785111842.522051
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785112095.8914418
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 305,
-    "total_planned": 52,
+    "total_completed": 306,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
