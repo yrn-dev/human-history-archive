@@ -2882,14 +2882,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785178058.7641208
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785178220.0512285
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 591,
-    "total_planned": 50,
+    "total_completed": 592,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
