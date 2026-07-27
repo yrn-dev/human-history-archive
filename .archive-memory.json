@@ -2892,14 +2892,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785178511.6841748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785178808.9419427
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 593,
-    "total_planned": 48,
+    "total_completed": 594,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
