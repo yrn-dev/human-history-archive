@@ -2372,14 +2372,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785154278.8888702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785154479.4131937
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 489,
-    "total_planned": 10,
+    "total_completed": 490,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
