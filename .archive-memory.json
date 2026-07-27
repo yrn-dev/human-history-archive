@@ -2802,14 +2802,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785173992.814747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785174322.4851897
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 575,
-    "total_planned": 66,
+    "total_completed": 576,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
