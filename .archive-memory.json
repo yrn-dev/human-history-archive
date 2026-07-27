@@ -2122,14 +2122,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785142248.8368733
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785142406.1701212
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 439,
-    "total_planned": 60,
+    "total_completed": 440,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
