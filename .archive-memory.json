@@ -1812,14 +1812,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785128152.36476
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785128422.9163606
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 377,
-    "total_planned": 51,
+    "total_completed": 378,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
