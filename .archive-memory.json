@@ -3202,14 +3202,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785192419.965556
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785192713.344542
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 655,
-    "total_planned": 57,
+    "total_completed": 656,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
