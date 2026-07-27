@@ -1587,14 +1587,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785118018.7487276
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785118283.4395728
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 332,
-    "total_planned": 25,
+    "total_completed": 333,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
