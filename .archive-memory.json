@@ -3242,14 +3242,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785194163.886619
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785194429.1816022
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 663,
-    "total_planned": 49,
+    "total_completed": 664,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
