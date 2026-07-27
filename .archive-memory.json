@@ -2967,14 +2967,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785181964.660832
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785182248.1709583
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 608,
-    "total_planned": 33,
+    "total_completed": 609,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
