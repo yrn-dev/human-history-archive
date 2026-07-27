@@ -1642,14 +1642,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785120377.4081452
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785120537.835924
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 343,
-    "total_planned": 14,
+    "total_completed": 344,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
