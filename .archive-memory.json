@@ -2717,14 +2717,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785170388.1374807
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785170695.9382124
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 558,
-    "total_planned": 12,
+    "total_completed": 559,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
