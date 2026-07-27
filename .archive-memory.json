@@ -2572,14 +2572,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785163575.5226068
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785163773.283048
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 529,
-    "total_planned": 41,
+    "total_completed": 530,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
