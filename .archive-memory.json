@@ -2377,14 +2377,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785154479.4131937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785154767.520524
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 490,
-    "total_planned": 9,
+    "total_completed": 491,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
