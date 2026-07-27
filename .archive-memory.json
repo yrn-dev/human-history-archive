@@ -2002,14 +2002,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785136466.3716538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785136649.0177202
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 415,
-    "total_planned": 13,
+    "total_completed": 416,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
