@@ -2812,14 +2812,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785174545.008758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785174844.305946
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 577,
-    "total_planned": 64,
+    "total_completed": 578,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
