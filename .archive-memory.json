@@ -2057,14 +2057,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785139259.5595589
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785139596.1359735
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 426,
-    "total_planned": 2,
+    "total_completed": 427,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
