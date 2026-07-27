@@ -2542,14 +2542,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785162066.3115385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785162360.8098366
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 523,
-    "total_planned": 47,
+    "total_completed": 524,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
