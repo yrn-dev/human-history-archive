@@ -1862,14 +1862,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785130196.1096976
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785130358.0546267
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 387,
-    "total_planned": 41,
+    "total_completed": 388,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
