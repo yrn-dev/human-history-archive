@@ -1682,14 +1682,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785121967.6929147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785122134.2336566
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 351,
-    "total_planned": 6,
+    "total_completed": 352,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
