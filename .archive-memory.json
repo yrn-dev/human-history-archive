@@ -2107,14 +2107,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785141545.4347527
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785141721.2619972
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 436,
-    "total_planned": 63,
+    "total_completed": 437,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
