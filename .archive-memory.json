@@ -3272,14 +3272,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785195603.0845993
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785195869.6043243
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 669,
-    "total_planned": 43,
+    "total_completed": 670,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
