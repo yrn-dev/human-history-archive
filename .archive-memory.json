@@ -2097,14 +2097,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785141146.703368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785141316.5959656
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 434,
-    "total_planned": 65,
+    "total_completed": 435,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
