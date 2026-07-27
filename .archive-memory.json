@@ -3017,14 +3017,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785184093.4454346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785184373.318136
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 618,
-    "total_planned": 23,
+    "total_completed": 619,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
