@@ -1467,14 +1467,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785112567.2403867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785112841.5215528
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 308,
-    "total_planned": 49,
+    "total_completed": 309,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
