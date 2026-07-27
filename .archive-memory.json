@@ -2182,14 +2182,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785144734.071708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785144968.1651702
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 451,
-    "total_planned": 48,
+    "total_completed": 452,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
