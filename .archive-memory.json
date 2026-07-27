@@ -2047,14 +2047,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785138806.2710547
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785138972.4108522
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 424,
-    "total_planned": 4,
+    "total_completed": 425,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
