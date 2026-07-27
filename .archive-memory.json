@@ -2237,14 +2237,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785147448.6412642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785147708.9090788
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 462,
-    "total_planned": 37,
+    "total_completed": 463,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
