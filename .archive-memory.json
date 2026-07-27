@@ -1472,14 +1472,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785112841.5215528
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785112984.31027
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 309,
-    "total_planned": 48,
+    "total_completed": 310,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
