@@ -2592,14 +2592,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785164417.0294352
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785164711.8919842
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 533,
-    "total_planned": 37,
+    "total_completed": 534,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
