@@ -1947,14 +1947,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785134152.6576846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785134381.745954
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 404,
-    "total_planned": 24,
+    "total_completed": 405,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
