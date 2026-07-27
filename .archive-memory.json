@@ -1507,14 +1507,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785114297.3414974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785114592.580694
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 316,
-    "total_planned": 41,
+    "total_completed": 317,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
