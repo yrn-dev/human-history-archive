@@ -1887,14 +1887,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785131250.3484101
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785131432.3622193
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 392,
-    "total_planned": 36,
+    "total_completed": 393,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
