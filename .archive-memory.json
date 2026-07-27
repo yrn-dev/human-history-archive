@@ -1932,14 +1932,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785133598.637674
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785133780.443904
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 401,
-    "total_planned": 27,
+    "total_completed": 402,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
