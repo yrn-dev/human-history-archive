@@ -1532,14 +1532,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785115508.7104013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785115803.8026958
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 321,
-    "total_planned": 36,
+    "total_completed": 322,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
