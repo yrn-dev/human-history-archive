@@ -1912,14 +1912,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785132452.785102
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785132718.909431
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 397,
-    "total_planned": 31,
+    "total_completed": 398,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
