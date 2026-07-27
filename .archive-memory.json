@@ -3247,14 +3247,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785194429.1816022
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785194657.8555262
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 664,
-    "total_planned": 48,
+    "total_completed": 665,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
