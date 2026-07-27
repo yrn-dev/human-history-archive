@@ -1617,14 +1617,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785119513.142692
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785119649.1911561
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 338,
-    "total_planned": 19,
+    "total_completed": 339,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
