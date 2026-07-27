@@ -1572,14 +1572,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785117429.8794465
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785117601.6758895
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 329,
-    "total_planned": 28,
+    "total_completed": 330,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
