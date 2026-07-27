@@ -2262,14 +2262,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785148676.5601575
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785148875.5412157
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 467,
-    "total_planned": 32,
+    "total_completed": 468,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
