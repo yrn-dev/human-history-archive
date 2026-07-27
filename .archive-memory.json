@@ -2027,14 +2027,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785137690.492858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785138001.7025754
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 420,
-    "total_planned": 8,
+    "total_completed": 421,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
