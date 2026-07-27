@@ -2897,14 +2897,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785178808.9419427
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785179079.106584
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 594,
-    "total_planned": 47,
+    "total_completed": 595,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
