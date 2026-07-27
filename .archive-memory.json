@@ -1837,14 +1837,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785129129.4475777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785129402.6464167
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 382,
-    "total_planned": 46,
+    "total_completed": 383,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
