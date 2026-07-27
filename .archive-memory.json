@@ -2022,14 +2022,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785137370.9858634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785137690.492858
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 419,
-    "total_planned": 9,
+    "total_completed": 420,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
