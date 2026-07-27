@@ -2202,14 +2202,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785145715.117257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785146003.1818247
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 455,
-    "total_planned": 44,
+    "total_completed": 456,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
