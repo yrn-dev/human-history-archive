@@ -2737,14 +2737,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785171288.3382292
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785171482.0601099
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 562,
-    "total_planned": 8,
+    "total_completed": 563,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
