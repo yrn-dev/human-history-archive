@@ -1857,14 +1857,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785129910.077641
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785130196.1096976
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 386,
-    "total_planned": 42,
+    "total_completed": 387,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
