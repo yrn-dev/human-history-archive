@@ -2487,14 +2487,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785159550.6192617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785159862.238504
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 512,
-    "total_planned": 58,
+    "total_completed": 513,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
