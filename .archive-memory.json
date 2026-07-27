@@ -2187,14 +2187,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785144968.1651702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785145212.318947
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 452,
-    "total_planned": 47,
+    "total_completed": 453,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
