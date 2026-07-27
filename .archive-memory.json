@@ -1832,14 +1832,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785128977.7777581
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785129129.4475777
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 381,
-    "total_planned": 47,
+    "total_completed": 382,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
