@@ -2407,14 +2407,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785156010.1055436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785156284.3945236
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 496,
-    "total_planned": 3,
+    "total_completed": 497,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
