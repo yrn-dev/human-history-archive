@@ -1977,14 +1977,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785135398.3165538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785135563.2076185
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 410,
-    "total_planned": 18,
+    "total_completed": 411,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
