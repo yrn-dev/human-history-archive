@@ -3142,14 +3142,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785189880.5634146
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785190038.5582876
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 643,
-    "total_planned": 69,
+    "total_completed": 644,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
