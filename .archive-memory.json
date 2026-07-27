@@ -2922,14 +2922,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785179862.9182487
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785180059.897176
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 599,
-    "total_planned": 42,
+    "total_completed": 600,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
