@@ -2167,14 +2167,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785144101.4523776
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785144358.0732388
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 448,
-    "total_planned": 51,
+    "total_completed": 449,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
