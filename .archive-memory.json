@@ -1602,14 +1602,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785118774.8072553
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785118994.2072287
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 335,
-    "total_planned": 22,
+    "total_completed": 336,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
