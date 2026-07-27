@@ -1657,14 +1657,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785120944.2228549
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785121113.008088
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 346,
-    "total_planned": 11,
+    "total_completed": 347,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
