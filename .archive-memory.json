@@ -2427,14 +2427,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785156995.9191585
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785157320.1388865
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 500,
-    "total_planned": 70,
+    "total_completed": 501,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
