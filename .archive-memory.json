@@ -2727,14 +2727,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785170832.346928
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785171132.7623975
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 560,
-    "total_planned": 10,
+    "total_completed": 561,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
