@@ -2087,14 +2087,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785140686.7526584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785140924.0706053
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 432,
-    "total_planned": 67,
+    "total_completed": 433,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
