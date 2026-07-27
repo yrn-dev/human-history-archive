@@ -3027,14 +3027,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785184645.5145736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785184819.9220674
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 620,
-    "total_planned": 21,
+    "total_completed": 621,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
