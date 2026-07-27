@@ -2792,14 +2792,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785173537.7520125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785173732.4411166
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 573,
-    "total_planned": 68,
+    "total_completed": 574,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
