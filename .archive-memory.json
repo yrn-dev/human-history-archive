@@ -2637,14 +2637,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785166463.2618628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785166756.8928833
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 542,
-    "total_planned": 28,
+    "total_completed": 543,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
