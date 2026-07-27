@@ -1942,14 +1942,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785134003.6394842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785134152.6576846
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 403,
-    "total_planned": 25,
+    "total_completed": 404,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
