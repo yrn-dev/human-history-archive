@@ -3167,14 +3167,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785190822.6400938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785190961.7315123
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 648,
-    "total_planned": 64,
+    "total_completed": 649,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
