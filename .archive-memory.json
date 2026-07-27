@@ -1792,14 +1792,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785127212.4526289
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785127381.8139746
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 373,
-    "total_planned": 55,
+    "total_completed": 374,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
