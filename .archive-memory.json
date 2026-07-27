@@ -1777,14 +1777,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785126310.0813653
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785126603.0991087
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 370,
-    "total_planned": 58,
+    "total_completed": 371,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
