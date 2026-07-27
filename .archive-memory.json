@@ -2227,14 +2227,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785146915.477942
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785147193.1267455
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 460,
-    "total_planned": 39,
+    "total_completed": 461,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
