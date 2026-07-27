@@ -1987,14 +1987,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785135886.9366438
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785136107.6958578
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 412,
-    "total_planned": 16,
+    "total_completed": 413,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
