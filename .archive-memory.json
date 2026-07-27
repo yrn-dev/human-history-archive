@@ -1922,14 +1922,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785133022.4109752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785133307.6441097
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 399,
-    "total_planned": 29,
+    "total_completed": 400,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
