@@ -1512,14 +1512,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785114592.580694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785114895.9902976
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 317,
-    "total_planned": 40,
+    "total_completed": 318,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
