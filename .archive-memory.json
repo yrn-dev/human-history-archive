@@ -3112,14 +3112,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785188624.9062934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785188761.7886732
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 637,
-    "total_planned": 4,
+    "total_completed": 638,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
