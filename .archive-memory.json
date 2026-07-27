@@ -1687,14 +1687,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785122134.2336566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785122363.1816914
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 352,
-    "total_planned": 5,
+    "total_completed": 353,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
