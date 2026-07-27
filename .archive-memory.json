@@ -1672,14 +1672,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785121535.9362817
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785121736.9335685
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 349,
-    "total_planned": 8,
+    "total_completed": 350,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
