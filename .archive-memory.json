@@ -2132,14 +2132,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785142659.3963416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785142858.4345162
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 441,
-    "total_planned": 58,
+    "total_completed": 442,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
