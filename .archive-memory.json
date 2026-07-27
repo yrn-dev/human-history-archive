@@ -3052,14 +3052,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785185641.9470112
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785185858.294171
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 625,
-    "total_planned": 16,
+    "total_completed": 626,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
