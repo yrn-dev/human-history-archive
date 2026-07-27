@@ -2192,14 +2192,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785145212.318947
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785145385.6760256
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 453,
-    "total_planned": 46,
+    "total_completed": 454,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
