@@ -3252,14 +3252,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785194657.8555262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785194888.9330804
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 665,
-    "total_planned": 47,
+    "total_completed": 666,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
