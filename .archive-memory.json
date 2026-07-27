@@ -1772,14 +1772,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785126088.686619
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785126310.0813653
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 369,
-    "total_planned": 59,
+    "total_completed": 370,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
