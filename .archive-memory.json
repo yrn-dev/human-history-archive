@@ -2497,14 +2497,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785160006.9992855
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785160326.1796658
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 514,
-    "total_planned": 56,
+    "total_completed": 515,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
