@@ -2562,14 +2562,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785163090.7375944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785163329.576987
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 527,
-    "total_planned": 43,
+    "total_completed": 528,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
