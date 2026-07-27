@@ -1927,14 +1927,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785133307.6441097
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785133598.637674
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 400,
-    "total_planned": 28,
+    "total_completed": 401,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
