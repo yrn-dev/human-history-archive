@@ -2642,14 +2642,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785166756.8928833
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785167032.9827635
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 543,
-    "total_planned": 27,
+    "total_completed": 544,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
