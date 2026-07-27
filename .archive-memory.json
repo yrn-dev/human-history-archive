@@ -1967,14 +1967,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785135014.1170857
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785135240.4036293
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 408,
-    "total_planned": 20,
+    "total_completed": 409,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
