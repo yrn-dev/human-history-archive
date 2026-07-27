@@ -1677,14 +1677,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785121736.9335685
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785121967.6929147
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 350,
-    "total_planned": 7,
+    "total_completed": 351,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
