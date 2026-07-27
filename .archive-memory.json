@@ -2442,14 +2442,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785157733.761094
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785157948.2713387
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 503,
-    "total_planned": 67,
+    "total_completed": 504,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
