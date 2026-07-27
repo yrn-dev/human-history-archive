@@ -3227,14 +3227,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785193511.3930492
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785193712.0748224
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 660,
-    "total_planned": 52,
+    "total_completed": 661,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
