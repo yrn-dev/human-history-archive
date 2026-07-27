@@ -1757,14 +1757,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785125333.0374908
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785125515.4094176
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 366,
-    "total_planned": 62,
+    "total_completed": 367,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
