@@ -2332,14 +2332,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785152259.9526365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785152435.5840588
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 481,
-    "total_planned": 18,
+    "total_completed": 482,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
