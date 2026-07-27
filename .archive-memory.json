@@ -1522,14 +1522,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785115069.8002856
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785115277.4835095
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 319,
-    "total_planned": 38,
+    "total_completed": 320,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
