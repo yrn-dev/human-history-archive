@@ -2252,14 +2252,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785148108.7296722
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785148435.0205307
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 465,
-    "total_planned": 34,
+    "total_completed": 466,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
