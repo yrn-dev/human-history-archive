@@ -3152,14 +3152,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785190194.593634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785190480.61291
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 645,
-    "total_planned": 67,
+    "total_completed": 646,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
