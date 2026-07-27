@@ -2602,14 +2602,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785164870.386657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785165163.7658045
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 535,
-    "total_planned": 35,
+    "total_completed": 536,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
