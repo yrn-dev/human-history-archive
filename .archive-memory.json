@@ -1517,14 +1517,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785114895.9902976
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785115069.8002856
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 318,
-    "total_planned": 39,
+    "total_completed": 319,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
