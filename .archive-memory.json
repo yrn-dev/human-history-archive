@@ -1437,14 +1437,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785111199.5028872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785111441.7242842
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 302,
-    "total_planned": 55,
+    "total_completed": 303,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
