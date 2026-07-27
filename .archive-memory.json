@@ -2437,14 +2437,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785157503.6991389
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785157733.761094
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 502,
-    "total_planned": 68,
+    "total_completed": 503,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
