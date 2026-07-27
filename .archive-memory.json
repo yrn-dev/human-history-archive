@@ -1592,14 +1592,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785118283.4395728
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785118499.160554
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 333,
-    "total_planned": 24,
+    "total_completed": 334,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
