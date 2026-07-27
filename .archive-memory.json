@@ -2357,14 +2357,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785153443.5376303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785153726.3369508
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 486,
-    "total_planned": 13,
+    "total_completed": 487,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
