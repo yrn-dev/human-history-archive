@@ -2842,14 +2842,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785176016.6476126
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785176333.6374707
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 583,
-    "total_planned": 58,
+    "total_completed": 584,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
