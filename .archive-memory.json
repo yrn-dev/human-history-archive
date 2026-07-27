@@ -2077,14 +2077,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785140095.396432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785140393.8616724
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 430,
-    "total_planned": 69,
+    "total_completed": 431,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
