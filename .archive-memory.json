@@ -1957,14 +1957,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785134603.0827491
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785134845.083285
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 406,
-    "total_planned": 22,
+    "total_completed": 407,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
