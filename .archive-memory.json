@@ -2212,14 +2212,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785146303.9257388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785146485.5434775
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 457,
-    "total_planned": 42,
+    "total_completed": 458,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
