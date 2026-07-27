@@ -1982,14 +1982,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785135563.2076185
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785135886.9366438
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 411,
-    "total_planned": 17,
+    "total_completed": 412,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
