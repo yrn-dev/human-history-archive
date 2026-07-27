@@ -2142,14 +2142,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785143040.762425
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785143233.7776806
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 443,
-    "total_planned": 56,
+    "total_completed": 444,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
