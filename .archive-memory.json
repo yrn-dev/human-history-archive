@@ -1737,14 +1737,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785124437.1123838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785124579.6994488
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 362,
-    "total_planned": 66,
+    "total_completed": 363,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
