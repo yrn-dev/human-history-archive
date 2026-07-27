@@ -2367,14 +2367,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785154009.8779798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785154278.8888702
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 488,
-    "total_planned": 11,
+    "total_completed": 489,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
