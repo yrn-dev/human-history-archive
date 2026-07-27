@@ -2952,14 +2952,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785181334.6265843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785181553.607067
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 605,
-    "total_planned": 36,
+    "total_completed": 606,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
