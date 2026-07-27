@@ -1952,14 +1952,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785134381.745954
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785134603.0827491
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 405,
-    "total_planned": 23,
+    "total_completed": 406,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
