@@ -1817,14 +1817,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785128422.9163606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785128622.5498028
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 378,
-    "total_planned": 50,
+    "total_completed": 379,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
