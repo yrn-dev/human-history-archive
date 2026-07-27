@@ -2037,14 +2037,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785138271.1584332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785138561.766834
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 422,
-    "total_planned": 6,
+    "total_completed": 423,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
