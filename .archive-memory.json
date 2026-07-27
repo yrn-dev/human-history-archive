@@ -3182,14 +3182,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785191463.4489536
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785191773.142526
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 651,
-    "total_planned": 61,
+    "total_completed": 652,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
