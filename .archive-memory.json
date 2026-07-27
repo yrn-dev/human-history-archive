@@ -3147,14 +3147,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785190038.5582876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785190194.593634
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 644,
-    "total_planned": 68,
+    "total_completed": 645,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
