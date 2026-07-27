@@ -2302,14 +2302,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785150729.5333436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785150922.2366433
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 475,
-    "total_planned": 24,
+    "total_completed": 476,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
