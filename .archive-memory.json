@@ -2527,14 +2527,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785161365.0940402
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785161645.957148
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 520,
-    "total_planned": 50,
+    "total_completed": 521,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
