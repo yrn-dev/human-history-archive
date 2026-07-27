@@ -2672,14 +2672,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785168155.8738885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785168429.6952317
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 549,
-    "total_planned": 21,
+    "total_completed": 550,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
