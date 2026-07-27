@@ -2222,14 +2222,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785146751.825727
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785146915.477942
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 459,
-    "total_planned": 40,
+    "total_completed": 460,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
