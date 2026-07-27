@@ -2117,14 +2117,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785142033.8762274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785142248.8368733
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 438,
-    "total_planned": 61,
+    "total_completed": 439,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
