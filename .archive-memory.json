@@ -2702,14 +2702,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785169539.4393477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785169798.7486038
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 555,
-    "total_planned": 15,
+    "total_completed": 556,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
