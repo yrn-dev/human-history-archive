@@ -3022,14 +3022,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785184373.318136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785184645.5145736
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 619,
-    "total_planned": 22,
+    "total_completed": 620,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
