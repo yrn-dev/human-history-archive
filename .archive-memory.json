@@ -2582,14 +2582,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785163943.9939544
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785164129.3133013
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 531,
-    "total_planned": 39,
+    "total_completed": 532,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
