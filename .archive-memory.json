@@ -2517,14 +2517,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785160939.6702828
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785161220.8923635
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 518,
-    "total_planned": 52,
+    "total_completed": 519,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
