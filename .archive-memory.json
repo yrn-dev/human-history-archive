@@ -2807,14 +2807,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785174322.4851897
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785174545.008758
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 576,
-    "total_planned": 65,
+    "total_completed": 577,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
