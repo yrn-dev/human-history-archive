@@ -2242,14 +2242,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785147708.9090788
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785147894.567866
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 463,
-    "total_planned": 36,
+    "total_completed": 464,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
