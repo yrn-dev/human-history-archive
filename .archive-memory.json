@@ -2412,14 +2412,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785156284.3945236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785156558.058296
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 497,
-    "total_planned": 2,
+    "total_completed": 498,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
