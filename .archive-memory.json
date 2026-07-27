@@ -2767,14 +2767,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785172508.9048681
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785172681.736863
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 568,
-    "total_planned": 2,
+    "total_completed": 569,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
