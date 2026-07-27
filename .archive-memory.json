@@ -1422,14 +1422,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785110467.3927126
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785110778.046141
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 299,
-    "total_planned": 58,
+    "total_completed": 300,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
