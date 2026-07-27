@@ -2112,14 +2112,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785141721.2619972
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785142033.8762274
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 437,
-    "total_planned": 62,
+    "total_completed": 438,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
