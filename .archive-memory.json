@@ -3137,14 +3137,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785189621.4680839
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785189880.5634146
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 642,
-    "total_planned": 70,
+    "total_completed": 643,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
