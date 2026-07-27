@@ -2752,14 +2752,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785171882.20217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785172173.0567424
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 565,
-    "total_planned": 5,
+    "total_completed": 566,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
