@@ -1722,14 +1722,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785123745.7349625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785124013.3861542
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 359,
-    "total_planned": 69,
+    "total_completed": 360,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
