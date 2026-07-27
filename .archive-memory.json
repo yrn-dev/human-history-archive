@@ -1867,14 +1867,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785130358.0546267
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785130585.71034
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 388,
-    "total_planned": 40,
+    "total_completed": 389,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
