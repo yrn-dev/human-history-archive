@@ -2732,14 +2732,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785171132.7623975
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785171288.3382292
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 561,
-    "total_planned": 9,
+    "total_completed": 562,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
