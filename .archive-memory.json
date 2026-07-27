@@ -2397,14 +2397,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785155605.0800233
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785155846.0497296
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 494,
-    "total_planned": 5,
+    "total_completed": 495,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
