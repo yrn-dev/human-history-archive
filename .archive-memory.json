@@ -2127,14 +2127,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785142406.1701212
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785142659.3963416
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 440,
-    "total_planned": 59,
+    "total_completed": 441,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
