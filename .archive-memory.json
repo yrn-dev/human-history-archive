@@ -2622,14 +2622,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785165761.2017112
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785166067.254116
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 539,
-    "total_planned": 31,
+    "total_completed": 540,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
