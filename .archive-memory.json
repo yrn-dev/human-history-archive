@@ -3172,14 +3172,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785190961.7315123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785191150.6792781
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 649,
-    "total_planned": 63,
+    "total_completed": 650,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
