@@ -1872,14 +1872,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785130585.71034
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785130804.60321
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 389,
-    "total_planned": 39,
+    "total_completed": 390,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
