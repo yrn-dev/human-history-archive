@@ -2102,14 +2102,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785141316.5959656
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785141545.4347527
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 435,
-    "total_planned": 64,
+    "total_completed": 436,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
