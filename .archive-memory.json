@@ -1637,14 +1637,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785120200.6792796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785120377.4081452
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 342,
-    "total_planned": 15,
+    "total_completed": 343,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
