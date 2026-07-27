@@ -2507,14 +2507,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785160546.3042789
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785160684.1399472
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 516,
-    "total_planned": 54,
+    "total_completed": 517,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
