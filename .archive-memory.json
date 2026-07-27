@@ -3282,14 +3282,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785196128.2115426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785196325.444123
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 671,
-    "total_planned": 41,
+    "total_completed": 672,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
