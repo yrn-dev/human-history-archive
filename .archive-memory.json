@@ -2297,14 +2297,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785150407.6984205
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785150729.5333436
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 474,
-    "total_planned": 25,
+    "total_completed": 475,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
