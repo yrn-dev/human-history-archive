@@ -1692,14 +1692,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785122363.1816914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785122566.0574932
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 353,
-    "total_planned": 4,
+    "total_completed": 354,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
