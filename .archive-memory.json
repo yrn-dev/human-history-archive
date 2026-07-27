@@ -2217,14 +2217,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785146485.5434775
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785146751.825727
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 458,
-    "total_planned": 41,
+    "total_completed": 459,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
