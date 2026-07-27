@@ -3082,14 +3082,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785187042.7357466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785187352.1824071
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 631,
-    "total_planned": 10,
+    "total_completed": 632,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
