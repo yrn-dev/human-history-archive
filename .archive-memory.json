@@ -1557,14 +1557,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785116685.2107306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785116877.4662497
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 326,
-    "total_planned": 31,
+    "total_completed": 327,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
