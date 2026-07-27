@@ -1972,14 +1972,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785135240.4036293
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785135398.3165538
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 409,
-    "total_planned": 19,
+    "total_completed": 410,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
