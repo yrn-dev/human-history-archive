@@ -2697,14 +2697,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785169239.2919848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785169539.4393477
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 554,
-    "total_planned": 16,
+    "total_completed": 555,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
