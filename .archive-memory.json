@@ -2852,14 +2852,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785176569.0055716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785176861.4709573
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 585,
-    "total_planned": 56,
+    "total_completed": 586,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
