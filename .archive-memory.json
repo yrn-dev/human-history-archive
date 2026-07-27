@@ -1697,14 +1697,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785122566.0574932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785122845.3007143
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 354,
-    "total_planned": 3,
+    "total_completed": 355,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
