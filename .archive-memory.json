@@ -2147,14 +2147,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785143233.7776806
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785143420.882018
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 444,
-    "total_planned": 55,
+    "total_completed": 445,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
