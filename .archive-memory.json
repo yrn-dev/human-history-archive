@@ -1537,14 +1537,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785115803.8026958
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785115993.1652527
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 322,
-    "total_planned": 35,
+    "total_completed": 323,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
