@@ -1847,14 +1847,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785129558.392894
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785129713.3173027
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 384,
-    "total_planned": 44,
+    "total_completed": 385,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
