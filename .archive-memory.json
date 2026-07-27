@@ -3047,14 +3047,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785185388.5125282
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785185641.9470112
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 624,
-    "total_planned": 17,
+    "total_completed": 625,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
