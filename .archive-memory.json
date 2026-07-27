@@ -1457,14 +1457,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785112095.8914418
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785112262.7635596
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 306,
-    "total_planned": 51,
+    "total_completed": 307,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
