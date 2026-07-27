@@ -2502,14 +2502,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785160326.1796658
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785160546.3042789
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 515,
-    "total_planned": 55,
+    "total_completed": 516,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
