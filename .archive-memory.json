@@ -2827,14 +2827,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785175186.0335395
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785175467.397213
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 580,
-    "total_planned": 61,
+    "total_completed": 581,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
