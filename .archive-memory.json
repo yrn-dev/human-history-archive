@@ -1667,14 +1667,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785121246.3151324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785121535.9362817
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 348,
-    "total_planned": 9,
+    "total_completed": 349,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
