@@ -2362,14 +2362,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785153726.3369508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785154009.8779798
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 487,
-    "total_planned": 12,
+    "total_completed": 488,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
