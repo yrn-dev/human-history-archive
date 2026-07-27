@@ -3062,14 +3062,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785186147.9793818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785186357.2619658
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 627,
-    "total_planned": 14,
+    "total_completed": 628,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
