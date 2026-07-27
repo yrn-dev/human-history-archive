@@ -2322,14 +2322,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785151796.328129
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785152032.3287323
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 479,
-    "total_planned": 20,
+    "total_completed": 480,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
