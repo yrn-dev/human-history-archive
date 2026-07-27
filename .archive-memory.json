@@ -2652,14 +2652,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785167299.0806472
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785167451.156346
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 545,
-    "total_planned": 25,
+    "total_completed": 546,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
