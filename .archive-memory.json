@@ -2417,18 +2417,17 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785156558.058296
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
+      "timestamp": 1785156746.786466
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 498,
-    "total_planned": 1,
+    "total_completed": 499,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
