@@ -3217,14 +3217,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785193158.6136968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785193366.941552
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 658,
-    "total_planned": 54,
+    "total_completed": 659,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
