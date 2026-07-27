@@ -1842,14 +1842,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785129402.6464167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785129558.392894
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 383,
-    "total_planned": 45,
+    "total_completed": 384,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
