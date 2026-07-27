@@ -2772,18 +2772,17 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785172681.736863
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
+      "timestamp": 1785172876.5057433
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 569,
-    "total_planned": 1,
+    "total_completed": 570,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
