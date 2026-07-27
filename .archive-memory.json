@@ -2762,14 +2762,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785172357.545198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785172508.9048681
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 567,
-    "total_planned": 3,
+    "total_completed": 568,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
