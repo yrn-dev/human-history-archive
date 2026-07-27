@@ -1542,14 +1542,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785115993.1652527
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785116251.1621106
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 323,
-    "total_planned": 34,
+    "total_completed": 324,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
