@@ -3012,14 +3012,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785183831.6028845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785184093.4454346
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 617,
-    "total_planned": 24,
+    "total_completed": 618,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
