@@ -2597,14 +2597,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785164711.8919842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785164870.386657
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 534,
-    "total_planned": 36,
+    "total_completed": 535,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
