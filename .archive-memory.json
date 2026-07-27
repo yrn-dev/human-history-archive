@@ -1732,14 +1732,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785124231.2376351
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785124437.1123838
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 361,
-    "total_planned": 67,
+    "total_completed": 362,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
