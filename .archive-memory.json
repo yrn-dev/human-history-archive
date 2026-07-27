@@ -2052,14 +2052,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785138972.4108522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785139259.5595589
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 425,
-    "total_planned": 3,
+    "total_completed": 426,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
