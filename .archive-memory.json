@@ -3007,14 +3007,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785183595.8753843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785183831.6028845
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 616,
-    "total_planned": 25,
+    "total_completed": 617,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
