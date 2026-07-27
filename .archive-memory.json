@@ -1577,14 +1577,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785117601.6758895
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785117782.1265256
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 330,
-    "total_planned": 27,
+    "total_completed": 331,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
