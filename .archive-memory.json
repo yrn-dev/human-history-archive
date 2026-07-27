@@ -1882,14 +1882,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785131016.4983356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785131250.3484101
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 391,
-    "total_planned": 37,
+    "total_completed": 392,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
