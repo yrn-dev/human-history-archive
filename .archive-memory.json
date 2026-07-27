@@ -2082,14 +2082,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785140393.8616724
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785140686.7526584
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 431,
-    "total_planned": 68,
+    "total_completed": 432,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
