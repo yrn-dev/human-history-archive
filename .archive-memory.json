@@ -1632,14 +1632,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785120028.9755495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785120200.6792796
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 341,
-    "total_planned": 16,
+    "total_completed": 342,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
