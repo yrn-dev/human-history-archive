@@ -1962,14 +1962,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785134845.083285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785135014.1170857
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 407,
-    "total_planned": 21,
+    "total_completed": 408,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
