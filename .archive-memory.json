@@ -1497,14 +1497,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785113891.241079
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785114032.745797
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 314,
-    "total_planned": 43,
+    "total_completed": 315,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
