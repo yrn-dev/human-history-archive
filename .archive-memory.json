@@ -1782,14 +1782,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785126603.0991087
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785126908.824213
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 371,
-    "total_planned": 57,
+    "total_completed": 372,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
