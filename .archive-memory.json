@@ -2667,14 +2667,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785168004.7579687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785168155.8738885
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 548,
-    "total_planned": 22,
+    "total_completed": 549,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
