@@ -2032,14 +2032,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785138001.7025754
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785138271.1584332
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 421,
-    "total_planned": 7,
+    "total_completed": 422,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
