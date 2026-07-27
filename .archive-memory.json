@@ -2567,14 +2567,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785163329.576987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785163575.5226068
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 528,
-    "total_planned": 42,
+    "total_completed": 529,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
