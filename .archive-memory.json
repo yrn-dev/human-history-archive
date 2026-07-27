@@ -3067,14 +3067,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785186357.2619658
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785186529.5726843
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 628,
-    "total_planned": 13,
+    "total_completed": 629,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
