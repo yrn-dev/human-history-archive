@@ -2547,14 +2547,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785162360.8098366
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785162600.8245368
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 524,
-    "total_planned": 46,
+    "total_completed": 525,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
