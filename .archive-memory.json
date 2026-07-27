@@ -1462,14 +1462,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785112262.7635596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785112567.2403867
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 307,
-    "total_planned": 50,
+    "total_completed": 308,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
