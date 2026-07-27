@@ -3177,14 +3177,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785191150.6792781
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785191463.4489536
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 650,
-    "total_planned": 62,
+    "total_completed": 651,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
