@@ -1877,14 +1877,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785130804.60321
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785131016.4983356
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 390,
-    "total_planned": 38,
+    "total_completed": 391,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
