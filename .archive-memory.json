@@ -2007,14 +2007,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785136649.0177202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785136880.001868
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 416,
-    "total_planned": 12,
+    "total_completed": 417,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
