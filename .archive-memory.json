@@ -2917,14 +2917,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785179626.746485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785179862.9182487
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 598,
-    "total_planned": 43,
+    "total_completed": 599,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
