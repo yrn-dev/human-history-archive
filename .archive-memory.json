@@ -3287,14 +3287,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785196325.444123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785196577.873079
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 672,
-    "total_planned": 40,
+    "total_completed": 673,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
