@@ -2682,14 +2682,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785168581.1386693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785168870.1302996
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 551,
-    "total_planned": 19,
+    "total_completed": 552,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
