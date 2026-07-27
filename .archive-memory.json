@@ -1797,14 +1797,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785127381.8139746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785127663.3419747
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 374,
-    "total_planned": 54,
+    "total_completed": 375,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
