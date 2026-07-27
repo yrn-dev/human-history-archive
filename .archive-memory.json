@@ -2492,14 +2492,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785159862.238504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785160006.9992855
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 513,
-    "total_planned": 57,
+    "total_completed": 514,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
