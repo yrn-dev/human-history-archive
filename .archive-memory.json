@@ -2012,14 +2012,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785136880.001868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785137099.3527348
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 417,
-    "total_planned": 11,
+    "total_completed": 418,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
