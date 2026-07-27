@@ -2657,14 +2657,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785167451.156346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785167717.1267302
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 546,
-    "total_planned": 24,
+    "total_completed": 547,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
