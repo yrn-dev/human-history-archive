@@ -1622,14 +1622,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785119649.1911561
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785119815.841734
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 339,
-    "total_planned": 18,
+    "total_completed": 340,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
