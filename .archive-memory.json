@@ -2277,14 +2277,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785149387.3205187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785149671.357663
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 470,
-    "total_planned": 29,
+    "total_completed": 471,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
