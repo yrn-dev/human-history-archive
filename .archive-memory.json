@@ -2177,14 +2177,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785144567.8799844
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785144734.071708
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 450,
-    "total_planned": 49,
+    "total_completed": 451,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
