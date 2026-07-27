@@ -2432,14 +2432,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785157320.1388865
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785157503.6991389
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 501,
-    "total_planned": 69,
+    "total_completed": 502,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
