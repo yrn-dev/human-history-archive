@@ -2557,14 +2557,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785162888.4097142
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785163090.7375944
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 526,
-    "total_planned": 44,
+    "total_completed": 527,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
