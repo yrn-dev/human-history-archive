@@ -3187,14 +3187,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785191773.142526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785192002.5698848
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 652,
-    "total_planned": 60,
+    "total_completed": 653,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
