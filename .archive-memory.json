@@ -3057,14 +3057,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785185858.294171
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785186147.9793818
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 626,
-    "total_planned": 15,
+    "total_completed": 627,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
