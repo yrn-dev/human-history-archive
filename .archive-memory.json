@@ -2402,14 +2402,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785155846.0497296
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785156010.1055436
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 495,
-    "total_planned": 4,
+    "total_completed": 496,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
