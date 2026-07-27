@@ -2152,14 +2152,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785143420.882018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785143605.2388542
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 445,
-    "total_planned": 54,
+    "total_completed": 446,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
