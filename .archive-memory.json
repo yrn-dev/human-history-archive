@@ -2232,14 +2232,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785147193.1267455
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785147448.6412642
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 461,
-    "total_planned": 38,
+    "total_completed": 462,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
