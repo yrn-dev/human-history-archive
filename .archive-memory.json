@@ -1852,14 +1852,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785129713.3173027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785129910.077641
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 385,
-    "total_planned": 43,
+    "total_completed": 386,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
