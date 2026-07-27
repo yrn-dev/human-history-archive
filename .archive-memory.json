@@ -2017,14 +2017,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785137099.3527348
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785137370.9858634
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 418,
-    "total_planned": 10,
+    "total_completed": 419,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
