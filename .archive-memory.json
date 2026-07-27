@@ -2977,14 +2977,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785182449.2800732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785182650.437637
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 610,
-    "total_planned": 31,
+    "total_completed": 611,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
