@@ -3107,14 +3107,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785188408.9384367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785188624.9062934
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 636,
-    "total_planned": 5,
+    "total_completed": 637,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
