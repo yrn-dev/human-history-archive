@@ -1662,14 +1662,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785121113.008088
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785121246.3151324
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 347,
-    "total_planned": 10,
+    "total_completed": 348,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
