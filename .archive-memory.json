@@ -2272,14 +2272,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785149167.8643625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785149387.3205187
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 469,
-    "total_planned": 30,
+    "total_completed": 470,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
