@@ -1702,14 +1702,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785122845.3007143
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785123140.704042
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 355,
-    "total_planned": 2,
+    "total_completed": 356,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
