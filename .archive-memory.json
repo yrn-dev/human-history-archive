@@ -2282,14 +2282,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785149671.357663
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785149848.2157135
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 471,
-    "total_planned": 28,
+    "total_completed": 472,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
