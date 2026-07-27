@@ -2387,14 +2387,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785155078.0191407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785155382.6540747
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 492,
-    "total_planned": 7,
+    "total_completed": 493,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
