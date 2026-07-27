@@ -2887,14 +2887,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785178220.0512285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785178511.6841748
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 592,
-    "total_planned": 49,
+    "total_completed": 593,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
