@@ -2847,14 +2847,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785176333.6374707
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785176569.0055716
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 584,
-    "total_planned": 57,
+    "total_completed": 585,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
