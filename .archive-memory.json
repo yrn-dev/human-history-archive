@@ -1442,14 +1442,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785111441.7242842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785111633.2580404
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 303,
-    "total_planned": 54,
+    "total_completed": 304,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
