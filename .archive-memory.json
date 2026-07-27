@@ -2072,14 +2072,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785139921.309439
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785140095.396432
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 429,
-    "total_planned": 70,
+    "total_completed": 430,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
