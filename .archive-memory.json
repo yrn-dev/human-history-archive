@@ -3122,14 +3122,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785188994.8690596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785189230.003196
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 639,
-    "total_planned": 2,
+    "total_completed": 640,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
