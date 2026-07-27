@@ -1992,14 +1992,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785136107.6958578
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785136252.977456
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 413,
-    "total_planned": 15,
+    "total_completed": 414,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
