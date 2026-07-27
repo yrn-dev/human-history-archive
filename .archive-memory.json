@@ -1597,14 +1597,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785118499.160554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785118774.8072553
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 334,
-    "total_planned": 23,
+    "total_completed": 335,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
