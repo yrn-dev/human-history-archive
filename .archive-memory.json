@@ -2467,14 +2467,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785158678.1657515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785158858.725968
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 508,
-    "total_planned": 62,
+    "total_completed": 509,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
