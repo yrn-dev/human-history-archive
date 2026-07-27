@@ -3212,14 +3212,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785192863.4284117
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785193158.6136968
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 657,
-    "total_planned": 55,
+    "total_completed": 658,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
