@@ -2347,14 +2347,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785152867.9943168
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785153166.4154835
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 484,
-    "total_planned": 15,
+    "total_completed": 485,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
