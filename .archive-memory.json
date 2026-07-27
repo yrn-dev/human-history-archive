@@ -2172,14 +2172,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785144358.0732388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785144567.8799844
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 449,
-    "total_planned": 50,
+    "total_completed": 450,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
