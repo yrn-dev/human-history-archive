@@ -2962,14 +2962,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785181765.109417
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785181964.660832
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 607,
-    "total_planned": 34,
+    "total_completed": 608,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
