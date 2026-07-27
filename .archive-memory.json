@@ -2837,14 +2837,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785175743.3471193
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785176016.6476126
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 582,
-    "total_planned": 59,
+    "total_completed": 583,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
