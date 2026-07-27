@@ -3192,14 +3192,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785192002.5698848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785192204.902391
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 653,
-    "total_planned": 59,
+    "total_completed": 654,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
