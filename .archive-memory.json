@@ -2987,14 +2987,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785182834.069852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785183120.4518123
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 612,
-    "total_planned": 29,
+    "total_completed": 613,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
