@@ -3157,14 +3157,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785190480.61291
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785190685.0211465
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 646,
-    "total_planned": 66,
+    "total_completed": 647,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
