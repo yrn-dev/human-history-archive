@@ -2832,14 +2832,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785175467.397213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785175743.3471193
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 581,
-    "total_planned": 60,
+    "total_completed": 582,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
