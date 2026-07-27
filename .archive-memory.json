@@ -1787,14 +1787,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785126908.824213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785127212.4526289
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 372,
-    "total_planned": 56,
+    "total_completed": 373,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
