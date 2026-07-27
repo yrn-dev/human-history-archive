@@ -2617,14 +2617,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785165608.339367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785165761.2017112
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 538,
-    "total_planned": 32,
+    "total_completed": 539,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
