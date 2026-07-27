@@ -3092,14 +3092,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785187593.3393483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785187901.6279511
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 633,
-    "total_planned": 8,
+    "total_completed": 634,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
