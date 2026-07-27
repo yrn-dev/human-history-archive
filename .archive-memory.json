@@ -2872,14 +2872,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785177582.0097146
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785177828.930049
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 589,
-    "total_planned": 52,
+    "total_completed": 590,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
