@@ -1567,14 +1567,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785117120.1385415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785117429.8794465
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 328,
-    "total_planned": 29,
+    "total_completed": 329,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
