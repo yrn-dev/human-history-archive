@@ -2552,14 +2552,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785162600.8245368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785162888.4097142
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 525,
-    "total_planned": 45,
+    "total_completed": 526,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
