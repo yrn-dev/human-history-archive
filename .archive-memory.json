@@ -1997,14 +1997,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785136252.977456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785136466.3716538
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 414,
-    "total_planned": 14,
+    "total_completed": 415,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
