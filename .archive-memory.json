@@ -2452,14 +2452,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785158124.2245407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785158358.0973697
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 505,
-    "total_planned": 65,
+    "total_completed": 506,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
