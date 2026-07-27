@@ -2342,14 +2342,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785152674.3790689
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785152867.9943168
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 483,
-    "total_planned": 16,
+    "total_completed": 484,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
