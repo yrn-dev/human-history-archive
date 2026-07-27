@@ -2677,14 +2677,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785168429.6952317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785168581.1386693
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 550,
-    "total_planned": 20,
+    "total_completed": 551,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
