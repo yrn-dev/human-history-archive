@@ -2092,14 +2092,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785140924.0706053
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785141146.703368
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 433,
-    "total_planned": 66,
+    "total_completed": 434,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
