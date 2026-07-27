@@ -1747,14 +1747,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785124825.8495684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785125077.939174
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 364,
-    "total_planned": 64,
+    "total_completed": 365,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
