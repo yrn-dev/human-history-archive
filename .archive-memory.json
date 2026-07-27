@@ -2797,14 +2797,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785173732.4411166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785173992.814747
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 574,
-    "total_planned": 67,
+    "total_completed": 575,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
