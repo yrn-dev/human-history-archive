@@ -1707,18 +1707,17 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785123140.704042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
+      "timestamp": 1785123292.3276181
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 356,
-    "total_planned": 1,
+    "total_completed": 357,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
