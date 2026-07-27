@@ -1652,14 +1652,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785120780.8051455
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785120944.2228549
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 345,
-    "total_planned": 12,
+    "total_completed": 346,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
