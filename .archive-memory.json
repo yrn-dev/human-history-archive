@@ -1502,14 +1502,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785114032.745797
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785114297.3414974
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 315,
-    "total_planned": 42,
+    "total_completed": 316,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
