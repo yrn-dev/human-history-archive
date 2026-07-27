@@ -2522,14 +2522,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785161220.8923635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785161365.0940402
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 519,
-    "total_planned": 51,
+    "total_completed": 520,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
