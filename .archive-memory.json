@@ -2382,14 +2382,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785154767.520524
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785155078.0191407
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 491,
-    "total_planned": 8,
+    "total_completed": 492,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
