@@ -1807,14 +1807,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785127950.6094463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785128152.36476
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 376,
-    "total_planned": 52,
+    "total_completed": 377,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
