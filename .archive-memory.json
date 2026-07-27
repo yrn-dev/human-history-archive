@@ -1717,14 +1717,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785123510.66971
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785123745.7349625
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 358,
-    "total_planned": 70,
+    "total_completed": 359,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
