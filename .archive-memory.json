@@ -2817,14 +2817,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785174844.305946
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785174997.6505783
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 578,
-    "total_planned": 63,
+    "total_completed": 579,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
