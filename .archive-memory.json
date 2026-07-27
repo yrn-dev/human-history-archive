@@ -1612,14 +1612,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785119198.6045604
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785119513.142692
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 337,
-    "total_planned": 20,
+    "total_completed": 338,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
