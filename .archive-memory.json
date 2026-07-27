@@ -1727,14 +1727,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785124013.3861542
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785124231.2376351
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 360,
-    "total_planned": 68,
+    "total_completed": 361,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
