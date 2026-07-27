@@ -3277,14 +3277,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785195869.6043243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785196128.2115426
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 670,
-    "total_planned": 42,
+    "total_completed": 671,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
