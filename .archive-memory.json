@@ -2267,14 +2267,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785148875.5412157
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785149167.8643625
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -2427,8 +2427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 468,
-    "total_planned": 31,
+    "total_completed": 469,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
