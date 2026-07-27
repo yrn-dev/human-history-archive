@@ -1477,14 +1477,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785112984.31027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785113271.757027
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -1717,8 +1717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 310,
-    "total_planned": 47,
+    "total_completed": 311,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
