@@ -1937,14 +1937,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785133780.443904
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785134003.6394842
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -2072,8 +2072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 402,
-    "total_planned": 26,
+    "total_completed": 403,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
