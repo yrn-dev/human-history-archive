@@ -2757,14 +2757,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785172173.0567424
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785172357.545198
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 566,
-    "total_planned": 4,
+    "total_completed": 567,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
