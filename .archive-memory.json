@@ -2462,14 +2462,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785158507.6995215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785158678.1657515
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -2782,8 +2782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 507,
-    "total_planned": 63,
+    "total_completed": 508,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
