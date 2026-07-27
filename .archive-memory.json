@@ -2907,14 +2907,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785179219.7643964
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785179433.7982624
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 596,
-    "total_planned": 45,
+    "total_completed": 597,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
