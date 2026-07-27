@@ -2937,14 +2937,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785180589.36335
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785180868.6754959
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 602,
-    "total_planned": 39,
+    "total_completed": 603,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
