@@ -2932,14 +2932,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785180316.3645718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785180589.36335
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 601,
-    "total_planned": 40,
+    "total_completed": 602,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
