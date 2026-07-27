@@ -2787,14 +2787,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785173308.5374613
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785173537.7520125
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 572,
-    "total_planned": 69,
+    "total_completed": 573,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
