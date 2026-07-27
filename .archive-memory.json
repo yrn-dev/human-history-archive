@@ -2947,14 +2947,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785181179.8219624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785181334.6265843
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 604,
-    "total_planned": 37,
+    "total_completed": 605,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
