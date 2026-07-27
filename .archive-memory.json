@@ -3117,14 +3117,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785188761.7886732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785188994.8690596
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -3137,8 +3137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 638,
-    "total_planned": 3,
+    "total_completed": 639,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
