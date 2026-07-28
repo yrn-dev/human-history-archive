@@ -5017,14 +5017,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785277954.2308433
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785278217.3375864
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1018,
-    "total_planned": 49,
+    "total_completed": 1019,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
