@@ -4067,14 +4067,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785232487.1962516
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785232794.589762
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 828,
-    "total_planned": 26,
+    "total_completed": 829,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
