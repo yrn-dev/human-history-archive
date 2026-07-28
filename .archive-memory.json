@@ -4152,14 +4152,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785236859.9780526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785237019.764177
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 845,
-    "total_planned": 9,
+    "total_completed": 846,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
