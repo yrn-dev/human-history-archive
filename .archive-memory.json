@@ -3297,14 +3297,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785196854.3163013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785197086.9663684
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 674,
-    "total_planned": 38,
+    "total_completed": 675,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
