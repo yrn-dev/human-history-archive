@@ -3342,14 +3342,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785198874.2221868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785199162.6354454
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 683,
-    "total_planned": 29,
+    "total_completed": 684,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
