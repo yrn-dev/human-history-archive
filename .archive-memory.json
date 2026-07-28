@@ -3377,14 +3377,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785200602.3034163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785200745.6558833
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 690,
-    "total_planned": 22,
+    "total_completed": 691,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
