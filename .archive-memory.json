@@ -3622,14 +3622,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785212018.3676722
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785212298.7707977
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 739,
-    "total_planned": 44,
+    "total_completed": 740,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
