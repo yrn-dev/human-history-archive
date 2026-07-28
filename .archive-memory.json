@@ -4892,14 +4892,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785272035.4151661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785272341.143224
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 993,
-    "total_planned": 3,
+    "total_completed": 994,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
