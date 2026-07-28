@@ -4022,14 +4022,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785230487.0496929
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785230751.4122915
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 819,
-    "total_planned": 35,
+    "total_completed": 820,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
