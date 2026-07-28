@@ -3572,14 +3572,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785209541.7772167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785209848.3457067
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 729,
-    "total_planned": 54,
+    "total_completed": 730,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
