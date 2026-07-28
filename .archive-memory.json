@@ -4582,14 +4582,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785257377.3547606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785257534.3334687
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 931,
-    "total_planned": 65,
+    "total_completed": 932,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
