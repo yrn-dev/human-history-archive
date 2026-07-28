@@ -4162,14 +4162,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785237201.0179183
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785237344.3247242
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 847,
-    "total_planned": 7,
+    "total_completed": 848,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
