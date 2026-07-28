@@ -3447,14 +3447,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785203647.1790407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785203941.0411968
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 704,
-    "total_planned": 8,
+    "total_completed": 705,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
