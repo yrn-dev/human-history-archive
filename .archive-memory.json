@@ -4692,14 +4692,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785262883.6821175
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785263174.8426504
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 953,
-    "total_planned": 43,
+    "total_completed": 954,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
