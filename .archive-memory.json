@@ -3607,14 +3607,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785211273.6633923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785211544.5278046
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 736,
-    "total_planned": 47,
+    "total_completed": 737,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
