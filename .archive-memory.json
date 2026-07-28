@@ -3922,14 +3922,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785225808.3407526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785226020.8779602
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 799,
-    "total_planned": 55,
+    "total_completed": 800,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
