@@ -4467,14 +4467,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785252008.0420578
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785252145.2810032
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 908,
-    "total_planned": 17,
+    "total_completed": 909,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
