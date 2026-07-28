@@ -4077,14 +4077,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785233029.9278665
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785233267.6944218
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 830,
-    "total_planned": 24,
+    "total_completed": 831,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
