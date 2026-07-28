@@ -4657,14 +4657,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785261083.1159158
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785261303.5623167
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 946,
-    "total_planned": 50,
+    "total_completed": 947,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
