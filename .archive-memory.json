@@ -3787,14 +3787,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785219744.175834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785220026.5448534
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 772,
-    "total_planned": 11,
+    "total_completed": 773,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
