@@ -4667,14 +4667,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785261518.6037629
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785261743.6515703
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 948,
-    "total_planned": 48,
+    "total_completed": 949,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
