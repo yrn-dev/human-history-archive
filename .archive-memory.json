@@ -5127,14 +5127,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785282729.5233989
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785282899.0776074
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1040,
-    "total_planned": 27,
+    "total_completed": 1041,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
