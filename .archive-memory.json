@@ -4257,14 +4257,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785241615.6513753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785241855.869864
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 866,
-    "total_planned": 59,
+    "total_completed": 867,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
