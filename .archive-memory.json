@@ -3667,14 +3667,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785214273.6986942
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785214422.0890446
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 748,
-    "total_planned": 35,
+    "total_completed": 749,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
