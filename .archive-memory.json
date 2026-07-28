@@ -3877,14 +3877,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785224035.4555352
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785224243.8605883
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 790,
-    "total_planned": 64,
+    "total_completed": 791,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
