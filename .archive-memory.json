@@ -4212,14 +4212,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785239402.988759
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785239582.9923048
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 857,
-    "total_planned": 68,
+    "total_completed": 858,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
