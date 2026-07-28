@@ -4832,14 +4832,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785269340.809813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785269602.2760499
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 981,
-    "total_planned": 15,
+    "total_completed": 982,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
