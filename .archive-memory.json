@@ -4647,14 +4647,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785260583.157466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785260858.7007225
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 944,
-    "total_planned": 52,
+    "total_completed": 945,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
