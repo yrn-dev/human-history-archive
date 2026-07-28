@@ -3942,14 +3942,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785226647.0486796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785226806.5058231
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 803,
-    "total_planned": 51,
+    "total_completed": 804,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
