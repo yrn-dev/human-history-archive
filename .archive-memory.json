@@ -4452,14 +4452,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785251352.9766767
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785251643.9943295
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 905,
-    "total_planned": 20,
+    "total_completed": 906,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
