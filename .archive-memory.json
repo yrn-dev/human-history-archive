@@ -3337,14 +3337,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785198703.576891
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785198874.2221868
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 682,
-    "total_planned": 30,
+    "total_completed": 683,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
