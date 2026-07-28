@@ -4512,14 +4512,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785254313.618486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785254524.907042
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 917,
-    "total_planned": 8,
+    "total_completed": 918,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
