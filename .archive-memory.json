@@ -3392,14 +3392,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785201231.77071
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785201460.2963126
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 693,
-    "total_planned": 19,
+    "total_completed": 694,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
