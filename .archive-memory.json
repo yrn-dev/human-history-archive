@@ -4192,18 +4192,17 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785238565.8160098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
+      "timestamp": 1785238759.2812183
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 853,
-    "total_planned": 1,
+    "total_completed": 854,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
