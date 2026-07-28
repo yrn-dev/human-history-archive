@@ -3472,14 +3472,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785204967.763659
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785205104.2974353
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 709,
-    "total_planned": 3,
+    "total_completed": 710,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
