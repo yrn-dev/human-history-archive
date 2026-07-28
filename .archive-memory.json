@@ -4572,14 +4572,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785256937.542413
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785257143.630181
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 929,
-    "total_planned": 67,
+    "total_completed": 930,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
