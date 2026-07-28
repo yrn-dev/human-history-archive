@@ -3867,14 +3867,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785223566.0211582
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785223734.5224059
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 788,
-    "total_planned": 66,
+    "total_completed": 789,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
