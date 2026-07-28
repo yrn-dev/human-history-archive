@@ -4087,14 +4087,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785233531.8511992
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785233844.55248
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 832,
-    "total_planned": 22,
+    "total_completed": 833,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
