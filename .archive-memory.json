@@ -3907,14 +3907,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785225278.5535338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785225429.2810905
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 796,
-    "total_planned": 58,
+    "total_completed": 797,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
