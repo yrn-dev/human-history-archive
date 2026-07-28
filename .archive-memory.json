@@ -4092,14 +4092,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785233844.55248
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785234065.3173673
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 833,
-    "total_planned": 21,
+    "total_completed": 834,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
