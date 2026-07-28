@@ -3697,14 +3697,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785215596.379175
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785215816.177308
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 754,
-    "total_planned": 29,
+    "total_completed": 755,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
