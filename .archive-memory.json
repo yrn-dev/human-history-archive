@@ -4822,14 +4822,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785268845.5731232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785269146.9400804
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 979,
-    "total_planned": 17,
+    "total_completed": 980,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
