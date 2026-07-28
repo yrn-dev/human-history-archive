@@ -3777,14 +3777,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785219396.7085636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785219563.244985
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 770,
-    "total_planned": 13,
+    "total_completed": 771,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
