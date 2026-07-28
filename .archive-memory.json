@@ -3417,14 +3417,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785202401.2158053
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785202646.5727644
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 698,
-    "total_planned": 14,
+    "total_completed": 699,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
