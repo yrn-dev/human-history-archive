@@ -4207,14 +4207,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785239242.17949
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785239402.988759
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 856,
-    "total_planned": 69,
+    "total_completed": 857,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
