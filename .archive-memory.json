@@ -3992,14 +3992,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785229027.2245998
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785229342.5468318
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 813,
-    "total_planned": 41,
+    "total_completed": 814,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
