@@ -4322,14 +4322,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785244819.4502115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785244988.309559
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 879,
-    "total_planned": 46,
+    "total_completed": 880,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
