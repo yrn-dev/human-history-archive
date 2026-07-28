@@ -4317,14 +4317,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785244649.3936892
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785244819.4502115
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 878,
-    "total_planned": 47,
+    "total_completed": 879,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
