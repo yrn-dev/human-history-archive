@@ -3502,14 +3502,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785206331.162118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785206609.8965745
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 715,
-    "total_planned": 68,
+    "total_completed": 716,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
