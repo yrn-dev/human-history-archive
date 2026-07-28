@@ -3952,14 +3952,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785227082.6384254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785227380.1806533
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 805,
-    "total_planned": 49,
+    "total_completed": 806,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
