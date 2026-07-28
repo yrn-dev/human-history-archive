@@ -3727,14 +3727,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785217050.703007
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785217217.6007266
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 760,
-    "total_planned": 23,
+    "total_completed": 761,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
