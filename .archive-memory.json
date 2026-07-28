@@ -4837,14 +4837,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785269602.2760499
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785269753.7051058
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 982,
-    "total_planned": 14,
+    "total_completed": 983,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
