@@ -4772,14 +4772,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785266410.3192077
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785266721.1636007
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 969,
-    "total_planned": 27,
+    "total_completed": 970,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
