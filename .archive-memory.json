@@ -3592,14 +3592,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785210491.9596384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785210784.7487369
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 733,
-    "total_planned": 50,
+    "total_completed": 734,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
