@@ -5022,14 +5022,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785278217.3375864
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785278412.168975
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1019,
-    "total_planned": 48,
+    "total_completed": 1020,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
