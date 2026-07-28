@@ -4707,14 +4707,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785263622.042355
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785263821.5303452
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 956,
-    "total_planned": 40,
+    "total_completed": 957,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
