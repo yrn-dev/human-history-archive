@@ -5052,14 +5052,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785279524.7847502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785279703.7040389
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1025,
-    "total_planned": 42,
+    "total_completed": 1026,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
