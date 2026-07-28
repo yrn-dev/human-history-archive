@@ -3692,14 +3692,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785215369.1853304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785215596.379175
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 753,
-    "total_planned": 30,
+    "total_completed": 754,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
