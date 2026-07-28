@@ -3822,14 +3822,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785221365.6133983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785221583.9952624
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 779,
-    "total_planned": 4,
+    "total_completed": 780,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
