@@ -5097,14 +5097,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785281515.673007
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785281710.2268267
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1034,
-    "total_planned": 33,
+    "total_completed": 1035,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
