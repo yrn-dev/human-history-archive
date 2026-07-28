@@ -3852,14 +3852,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785222902.8786674
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785223101.5785139
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 785,
-    "total_planned": 69,
+    "total_completed": 786,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
