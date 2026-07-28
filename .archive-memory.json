@@ -5057,14 +5057,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785279703.7040389
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785279953.0102015
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1026,
-    "total_planned": 41,
+    "total_completed": 1027,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
