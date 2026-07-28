@@ -4567,14 +4567,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785256791.3967285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785256937.542413
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 928,
-    "total_planned": 68,
+    "total_completed": 929,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
