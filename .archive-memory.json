@@ -4917,14 +4917,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785273298.6278222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785273539.4564428
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 998,
-    "total_planned": 69,
+    "total_completed": 999,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
