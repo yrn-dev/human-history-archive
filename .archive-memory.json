@@ -4977,14 +4977,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785276170.047446
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785276407.7942128
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1010,
-    "total_planned": 57,
+    "total_completed": 1011,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
