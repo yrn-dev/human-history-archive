@@ -4472,14 +4472,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785252145.2810032
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785252425.0975454
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 909,
-    "total_planned": 16,
+    "total_completed": 910,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
