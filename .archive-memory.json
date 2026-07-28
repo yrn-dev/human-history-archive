@@ -4147,14 +4147,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785236705.3738172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785236859.9780526
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 844,
-    "total_planned": 10,
+    "total_completed": 845,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
