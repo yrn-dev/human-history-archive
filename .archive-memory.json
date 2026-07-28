@@ -4867,14 +4867,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785271061.1277328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785271286.057158
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 988,
-    "total_planned": 8,
+    "total_completed": 989,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
