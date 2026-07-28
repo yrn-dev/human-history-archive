@@ -3612,14 +3612,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785211544.5278046
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785211786.260599
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 737,
-    "total_planned": 46,
+    "total_completed": 738,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
