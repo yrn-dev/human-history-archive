@@ -4877,14 +4877,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785271535.1476078
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785271682.1964347
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 990,
-    "total_planned": 6,
+    "total_completed": 991,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
