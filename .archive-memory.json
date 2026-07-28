@@ -3507,14 +3507,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785206609.8965745
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785206927.021605
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 716,
-    "total_planned": 67,
+    "total_completed": 717,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
