@@ -3362,14 +3362,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785199856.9072301
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785200091.521701
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 687,
-    "total_planned": 25,
+    "total_completed": 688,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
