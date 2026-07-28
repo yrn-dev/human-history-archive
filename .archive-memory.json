@@ -3292,14 +3292,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785196577.873079
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785196854.3163013
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 673,
-    "total_planned": 39,
+    "total_completed": 674,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
