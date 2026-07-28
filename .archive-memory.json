@@ -4947,14 +4947,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785274617.1772077
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785274925.623164
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1004,
-    "total_planned": 63,
+    "total_completed": 1005,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
