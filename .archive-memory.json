@@ -3347,14 +3347,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785199162.6354454
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785199358.2630315
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 684,
-    "total_planned": 28,
+    "total_completed": 685,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
