@@ -4377,14 +4377,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785247677.4883356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785247876.4845052
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 890,
-    "total_planned": 35,
+    "total_completed": 891,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
