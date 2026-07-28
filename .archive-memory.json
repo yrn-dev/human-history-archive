@@ -4107,14 +4107,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785234682.9394588
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785234953.8926253
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 836,
-    "total_planned": 18,
+    "total_completed": 837,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
