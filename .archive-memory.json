@@ -4422,14 +4422,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785249964.3898656
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785250137.9037025
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 899,
-    "total_planned": 26,
+    "total_completed": 900,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
