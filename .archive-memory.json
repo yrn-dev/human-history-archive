@@ -4627,14 +4627,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785259633.7332747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785259787.1863368
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 940,
-    "total_planned": 56,
+    "total_completed": 941,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
