@@ -4992,14 +4992,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785276926.6603596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785277182.3721697
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1013,
-    "total_planned": 54,
+    "total_completed": 1014,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
