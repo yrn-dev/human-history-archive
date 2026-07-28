@@ -4357,14 +4357,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785246580.6306727
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785246823.3450348
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 886,
-    "total_planned": 39,
+    "total_completed": 887,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
