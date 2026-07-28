@@ -4527,14 +4527,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785254990.0809247
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785255228.509642
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 920,
-    "total_planned": 5,
+    "total_completed": 921,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
