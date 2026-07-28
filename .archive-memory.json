@@ -4052,14 +4052,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785231675.655842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785231946.9102504
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 825,
-    "total_planned": 29,
+    "total_completed": 826,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
