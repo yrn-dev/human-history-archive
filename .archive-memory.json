@@ -3837,18 +3837,17 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785222093.358632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
+      "timestamp": 1785222414.7017238
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 782,
-    "total_planned": 1,
+    "total_completed": 783,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
