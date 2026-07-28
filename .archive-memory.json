@@ -4382,14 +4382,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785247876.4845052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785248190.2033784
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 891,
-    "total_planned": 34,
+    "total_completed": 892,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
