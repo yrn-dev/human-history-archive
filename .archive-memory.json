@@ -4857,14 +4857,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785270473.8588462
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785270775.8192456
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 986,
-    "total_planned": 10,
+    "total_completed": 987,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
