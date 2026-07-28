@@ -4777,14 +4777,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785266721.1636007
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785267013.130002
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 970,
-    "total_planned": 26,
+    "total_completed": 971,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
