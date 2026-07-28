@@ -5067,14 +5067,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785280104.9147298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785280348.4646509
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1028,
-    "total_planned": 39,
+    "total_completed": 1029,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
