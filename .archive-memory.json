@@ -3402,14 +3402,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785201653.032398
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785201955.3878427
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 695,
-    "total_planned": 17,
+    "total_completed": 696,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
