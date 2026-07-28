@@ -4632,14 +4632,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785259787.1863368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785260063.4256387
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 941,
-    "total_planned": 55,
+    "total_completed": 942,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
