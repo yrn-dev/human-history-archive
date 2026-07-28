@@ -3937,14 +3937,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785226496.120092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785226647.0486796
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 802,
-    "total_planned": 52,
+    "total_completed": 803,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
