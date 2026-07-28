@@ -3557,14 +3557,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785209058.3631372
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785209228.1076033
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 726,
-    "total_planned": 57,
+    "total_completed": 727,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
