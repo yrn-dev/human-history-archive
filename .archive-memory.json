@@ -3382,14 +3382,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785200745.6558833
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785200941.3678732
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 691,
-    "total_planned": 21,
+    "total_completed": 692,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
