@@ -3407,14 +3407,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785201955.3878427
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785202218.6371617
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 696,
-    "total_planned": 16,
+    "total_completed": 697,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
