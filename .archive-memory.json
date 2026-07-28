@@ -4957,14 +4957,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785275209.8960423
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785275508.3015518
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1006,
-    "total_planned": 61,
+    "total_completed": 1007,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
