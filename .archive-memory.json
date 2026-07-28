@@ -3567,14 +3567,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785209386.7637324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785209541.7772167
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 728,
-    "total_planned": 55,
+    "total_completed": 729,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
