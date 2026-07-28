@@ -4902,18 +4902,17 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785272624.7290847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
+      "timestamp": 1785272811.2108924
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 995,
-    "total_planned": 1,
+    "total_completed": 996,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
