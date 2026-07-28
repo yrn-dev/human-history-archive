@@ -4037,14 +4037,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785231171.6742094
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785231365.5107386
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 822,
-    "total_planned": 32,
+    "total_completed": 823,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
