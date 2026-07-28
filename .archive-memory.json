@@ -3717,14 +3717,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785216558.334014
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785216744.971492
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 758,
-    "total_planned": 25,
+    "total_completed": 759,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
