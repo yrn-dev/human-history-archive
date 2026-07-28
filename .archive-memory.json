@@ -5012,14 +5012,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785277715.4604099
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785277954.2308433
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1017,
-    "total_planned": 50,
+    "total_completed": 1018,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
