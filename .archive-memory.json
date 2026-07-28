@@ -5102,14 +5102,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785281710.2268267
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785281956.4252362
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1035,
-    "total_planned": 32,
+    "total_completed": 1036,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
