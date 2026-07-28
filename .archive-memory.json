@@ -4182,14 +4182,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785238070.0821497
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785238250.724528
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 851,
-    "total_planned": 3,
+    "total_completed": 852,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
