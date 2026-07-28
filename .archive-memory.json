@@ -4252,14 +4252,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785241383.4642751
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785241615.6513753
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 865,
-    "total_planned": 60,
+    "total_completed": 866,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
