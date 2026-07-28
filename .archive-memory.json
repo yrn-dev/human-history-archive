@@ -4967,14 +4967,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785275687.0089033
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785275844.3372555
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1008,
-    "total_planned": 59,
+    "total_completed": 1009,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
