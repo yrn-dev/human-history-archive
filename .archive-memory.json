@@ -3657,14 +3657,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785213856.8209047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785214019.854997
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 746,
-    "total_planned": 37,
+    "total_completed": 747,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
