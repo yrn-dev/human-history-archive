@@ -4167,14 +4167,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785237344.3247242
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785237508.8487492
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 848,
-    "total_planned": 6,
+    "total_completed": 849,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
