@@ -3817,14 +3817,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785221086.0769753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785221365.6133983
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 778,
-    "total_planned": 5,
+    "total_completed": 779,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
