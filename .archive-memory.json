@@ -4722,14 +4722,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785264290.4458406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785264563.431455
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 959,
-    "total_planned": 37,
+    "total_completed": 960,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
