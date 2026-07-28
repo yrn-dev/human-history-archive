@@ -3677,14 +3677,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785214728.9152513
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785214930.5163982
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 750,
-    "total_planned": 33,
+    "total_completed": 751,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
