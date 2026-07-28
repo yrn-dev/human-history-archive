@@ -3752,14 +3752,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785218190.4428167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785218500.50311
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 765,
-    "total_planned": 18,
+    "total_completed": 766,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
