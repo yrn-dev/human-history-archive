@@ -5072,14 +5072,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785280348.4646509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785280560.8906424
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1029,
-    "total_planned": 38,
+    "total_completed": 1030,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
