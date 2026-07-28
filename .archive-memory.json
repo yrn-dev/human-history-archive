@@ -4937,14 +4937,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785274231.088824
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785274466.6331055
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1002,
-    "total_planned": 65,
+    "total_completed": 1003,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
