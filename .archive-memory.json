@@ -4702,14 +4702,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785263440.90932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785263622.042355
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 955,
-    "total_planned": 41,
+    "total_completed": 956,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
