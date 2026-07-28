@@ -4407,14 +4407,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785249162.4389966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785249467.1516
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 896,
-    "total_planned": 29,
+    "total_completed": 897,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
