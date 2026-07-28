@@ -3747,14 +3747,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785217940.4804423
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785218190.4428167
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 764,
-    "total_planned": 19,
+    "total_completed": 765,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
