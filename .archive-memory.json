@@ -4912,14 +4912,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785273021.7090533
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785273298.6278222
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 997,
-    "total_planned": 70,
+    "total_completed": 998,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
