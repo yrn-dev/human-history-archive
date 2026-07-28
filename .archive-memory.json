@@ -4427,14 +4427,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785250137.9037025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785250437.5136118
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 900,
-    "total_planned": 25,
+    "total_completed": 901,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
