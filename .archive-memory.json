@@ -4307,14 +4307,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785244217.0221236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785244363.3154428
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 876,
-    "total_planned": 49,
+    "total_completed": 877,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
