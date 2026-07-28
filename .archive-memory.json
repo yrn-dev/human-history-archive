@@ -3332,14 +3332,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785198474.77771
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785198703.576891
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 681,
-    "total_planned": 31,
+    "total_completed": 682,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
