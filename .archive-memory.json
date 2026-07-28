@@ -5002,14 +5002,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785277323.375555
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785277548.1729813
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1015,
-    "total_planned": 52,
+    "total_completed": 1016,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
