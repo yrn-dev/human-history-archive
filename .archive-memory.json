@@ -4932,14 +4932,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785274030.952879
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785274231.088824
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1001,
-    "total_planned": 66,
+    "total_completed": 1002,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
