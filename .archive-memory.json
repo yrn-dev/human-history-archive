@@ -3527,14 +3527,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785207619.7899768
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785207920.3666463
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 720,
-    "total_planned": 63,
+    "total_completed": 721,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
