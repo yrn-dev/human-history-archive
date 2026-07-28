@@ -4132,14 +4132,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785235963.7511299
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785236241.3098848
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 841,
-    "total_planned": 13,
+    "total_completed": 842,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
