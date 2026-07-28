@@ -3532,14 +3532,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785207920.3666463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785208073.2241075
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 721,
-    "total_planned": 62,
+    "total_completed": 722,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
