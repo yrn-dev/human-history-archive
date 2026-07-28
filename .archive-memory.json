@@ -4362,14 +4362,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785246823.3450348
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785247113.7196705
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 887,
-    "total_planned": 38,
+    "total_completed": 888,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
