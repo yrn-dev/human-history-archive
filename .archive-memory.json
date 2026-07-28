@@ -4802,14 +4802,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785267996.815393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785268139.3477507
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 975,
-    "total_planned": 21,
+    "total_completed": 976,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
