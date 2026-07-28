@@ -3357,14 +3357,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785199587.9647665
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785199856.9072301
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 686,
-    "total_planned": 26,
+    "total_completed": 687,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
