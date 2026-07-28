@@ -4302,14 +4302,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785243893.6908522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785244217.0221236
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 875,
-    "total_planned": 50,
+    "total_completed": 876,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
