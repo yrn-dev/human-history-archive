@@ -4662,14 +4662,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785261303.5623167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785261518.6037629
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 947,
-    "total_planned": 49,
+    "total_completed": 948,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
