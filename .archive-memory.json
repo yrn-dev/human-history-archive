@@ -4127,14 +4127,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785235661.4852839
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785235963.7511299
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 840,
-    "total_planned": 14,
+    "total_completed": 841,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
