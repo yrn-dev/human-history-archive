@@ -4047,14 +4047,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785231509.2520266
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785231675.655842
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 824,
-    "total_planned": 30,
+    "total_completed": 825,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
