@@ -4562,14 +4562,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785256601.6154263
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785256791.3967285
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 927,
-    "total_planned": 69,
+    "total_completed": 928,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
