@@ -4012,14 +4012,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785230009.4557283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785230256.2098277
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 817,
-    "total_planned": 37,
+    "total_completed": 818,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
