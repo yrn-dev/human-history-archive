@@ -4237,14 +4237,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785240637.13634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785240892.7668033
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 862,
-    "total_planned": 63,
+    "total_completed": 863,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
