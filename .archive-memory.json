@@ -5032,14 +5032,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785278682.2021782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785278855.4019933
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1021,
-    "total_planned": 46,
+    "total_completed": 1022,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
