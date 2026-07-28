@@ -4787,14 +4787,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785267224.0286868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785267427.8654215
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 972,
-    "total_planned": 24,
+    "total_completed": 973,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
