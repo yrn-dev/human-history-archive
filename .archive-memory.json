@@ -4007,14 +4007,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785229791.981732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785230009.4557283
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 816,
-    "total_planned": 38,
+    "total_completed": 817,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
