@@ -4522,14 +4522,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785254679.293395
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785254990.0809247
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 919,
-    "total_planned": 6,
+    "total_completed": 920,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
