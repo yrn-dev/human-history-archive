@@ -3547,14 +3547,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785208639.120997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785208840.6974795
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 724,
-    "total_planned": 59,
+    "total_completed": 725,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
