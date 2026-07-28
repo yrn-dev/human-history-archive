@@ -3477,14 +3477,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785205104.2974353
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785205292.403464
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 710,
-    "total_planned": 2,
+    "total_completed": 711,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
