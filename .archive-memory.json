@@ -3562,14 +3562,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785209228.1076033
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785209386.7637324
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 727,
-    "total_planned": 56,
+    "total_completed": 728,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
