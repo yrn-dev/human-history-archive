@@ -3897,14 +3897,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785224950.9467325
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785225102.5054877
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 794,
-    "total_planned": 60,
+    "total_completed": 795,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
