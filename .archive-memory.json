@@ -4797,14 +4797,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785267699.6078825
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785267996.815393
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 974,
-    "total_planned": 22,
+    "total_completed": 975,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
