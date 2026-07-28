@@ -3882,14 +3882,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785224243.8605883
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785224422.976163
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 791,
-    "total_planned": 63,
+    "total_completed": 792,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
