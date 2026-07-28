@@ -4687,14 +4687,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785262595.9599786
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785262883.6821175
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 952,
-    "total_planned": 44,
+    "total_completed": 953,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
