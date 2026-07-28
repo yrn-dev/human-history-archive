@@ -4507,14 +4507,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785254016.9830062
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785254313.618486
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 916,
-    "total_planned": 9,
+    "total_completed": 917,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
