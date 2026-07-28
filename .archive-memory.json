@@ -4097,14 +4097,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785234065.3173673
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785234378.2386317
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 834,
-    "total_planned": 20,
+    "total_completed": 835,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
