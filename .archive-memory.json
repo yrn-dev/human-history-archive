@@ -3367,14 +3367,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785200091.521701
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785200292.8315551
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 688,
-    "total_planned": 24,
+    "total_completed": 689,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
