@@ -4462,14 +4462,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785251861.9513493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785252008.0420578
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 907,
-    "total_planned": 18,
+    "total_completed": 908,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
