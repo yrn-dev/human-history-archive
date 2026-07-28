@@ -4812,14 +4812,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785268372.2528272
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785268655.6707234
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 977,
-    "total_planned": 19,
+    "total_completed": 978,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
