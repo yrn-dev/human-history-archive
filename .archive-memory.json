@@ -3672,14 +3672,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785214422.0890446
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785214728.9152513
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 749,
-    "total_planned": 34,
+    "total_completed": 750,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
