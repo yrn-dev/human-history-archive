@@ -4587,14 +4587,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785257534.3334687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785257774.710201
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 932,
-    "total_planned": 64,
+    "total_completed": 933,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
