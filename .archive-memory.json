@@ -3422,14 +3422,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785202646.5727644
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785202909.5926206
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 699,
-    "total_planned": 13,
+    "total_completed": 700,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
