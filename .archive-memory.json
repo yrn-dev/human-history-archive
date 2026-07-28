@@ -4042,14 +4042,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785231365.5107386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785231509.2520266
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 823,
-    "total_planned": 31,
+    "total_completed": 824,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
