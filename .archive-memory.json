@@ -4002,14 +4002,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785229501.137813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785229791.981732
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 815,
-    "total_planned": 39,
+    "total_completed": 816,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
