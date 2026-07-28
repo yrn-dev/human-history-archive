@@ -4112,14 +4112,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785234953.8926253
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785235201.3270977
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 837,
-    "total_planned": 17,
+    "total_completed": 838,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
