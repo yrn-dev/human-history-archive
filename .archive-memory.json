@@ -3847,14 +3847,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785222697.3102264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785222902.8786674
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 784,
-    "total_planned": 70,
+    "total_completed": 785,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
