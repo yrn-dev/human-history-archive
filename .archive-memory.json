@@ -3832,14 +3832,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785221794.0187223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785222093.358632
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 781,
-    "total_planned": 2,
+    "total_completed": 782,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
