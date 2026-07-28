@@ -3372,14 +3372,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785200292.8315551
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785200602.3034163
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 689,
-    "total_planned": 23,
+    "total_completed": 690,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
