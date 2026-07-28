@@ -4102,14 +4102,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785234378.2386317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785234682.9394588
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 835,
-    "total_planned": 19,
+    "total_completed": 836,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
