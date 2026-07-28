@@ -4082,14 +4082,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785233267.6944218
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785233531.8511992
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 831,
-    "total_planned": 23,
+    "total_completed": 832,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
