@@ -4852,14 +4852,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785270312.7184682
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785270473.8588462
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 985,
-    "total_planned": 11,
+    "total_completed": 986,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
