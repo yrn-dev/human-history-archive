@@ -3437,14 +3437,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785203196.5571635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785203357.5308375
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 702,
-    "total_planned": 10,
+    "total_completed": 703,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
