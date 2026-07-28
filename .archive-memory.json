@@ -4987,14 +4987,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785276659.748311
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785276926.6603596
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1012,
-    "total_planned": 55,
+    "total_completed": 1013,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
