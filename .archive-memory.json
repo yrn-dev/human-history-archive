@@ -4637,14 +4637,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785260063.4256387
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785260265.6419451
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 942,
-    "total_planned": 54,
+    "total_completed": 943,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
