@@ -4062,14 +4062,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785232209.6832907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785232487.1962516
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 827,
-    "total_planned": 27,
+    "total_completed": 828,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
