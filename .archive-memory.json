@@ -4727,14 +4727,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785264563.431455
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785264814.9668992
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 960,
-    "total_planned": 36,
+    "total_completed": 961,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
