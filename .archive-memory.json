@@ -3352,14 +3352,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785199358.2630315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785199587.9647665
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 685,
-    "total_planned": 27,
+    "total_completed": 686,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
