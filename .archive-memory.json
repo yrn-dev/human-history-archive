@@ -4372,14 +4372,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785247425.7732065
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785247677.4883356
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 889,
-    "total_planned": 36,
+    "total_completed": 890,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
