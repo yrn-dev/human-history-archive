@@ -3987,14 +3987,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785228762.5110614
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785229027.2245998
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 812,
-    "total_planned": 42,
+    "total_completed": 813,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
