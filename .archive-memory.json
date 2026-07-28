@@ -3757,14 +3757,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785218500.50311
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785218707.723468
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 766,
-    "total_planned": 17,
+    "total_completed": 767,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
