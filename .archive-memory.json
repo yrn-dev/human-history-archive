@@ -4502,14 +4502,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785253743.181222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785254016.9830062
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 915,
-    "total_planned": 10,
+    "total_completed": 916,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
