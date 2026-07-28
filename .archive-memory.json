@@ -4972,14 +4972,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785275844.3372555
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785276170.047446
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1009,
-    "total_planned": 58,
+    "total_completed": 1010,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
