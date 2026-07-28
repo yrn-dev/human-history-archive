@@ -3457,14 +3457,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785204201.158993
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785204501.8678076
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 706,
-    "total_planned": 6,
+    "total_completed": 707,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
