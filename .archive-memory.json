@@ -3642,14 +3642,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785213171.9722435
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785213452.1091666
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 743,
-    "total_planned": 40,
+    "total_completed": 744,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
