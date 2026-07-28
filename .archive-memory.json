@@ -4497,14 +4497,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785253448.6623867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785253743.181222
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 914,
-    "total_planned": 11,
+    "total_completed": 915,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
