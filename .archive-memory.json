@@ -3712,14 +3712,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785216291.2898636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785216558.334014
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 757,
-    "total_planned": 26,
+    "total_completed": 758,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
