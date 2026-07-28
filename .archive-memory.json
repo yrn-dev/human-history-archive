@@ -4292,14 +4292,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785243327.706382
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785243564.1755645
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 873,
-    "total_planned": 52,
+    "total_completed": 874,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
