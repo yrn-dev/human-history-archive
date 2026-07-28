@@ -4882,14 +4882,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785271682.1964347
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785271828.9502664
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 991,
-    "total_planned": 5,
+    "total_completed": 992,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
