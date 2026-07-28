@@ -3462,14 +3462,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785204501.8678076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785204731.6734579
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 707,
-    "total_planned": 5,
+    "total_completed": 708,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
