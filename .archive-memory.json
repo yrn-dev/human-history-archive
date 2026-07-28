@@ -4807,14 +4807,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785268139.3477507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785268372.2528272
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 976,
-    "total_planned": 20,
+    "total_completed": 977,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
