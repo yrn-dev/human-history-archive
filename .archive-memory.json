@@ -5107,14 +5107,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785281956.4252362
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785282191.6296575
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1036,
-    "total_planned": 31,
+    "total_completed": 1037,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
