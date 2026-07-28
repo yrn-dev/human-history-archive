@@ -4672,14 +4672,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785261743.6515703
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785262028.3652337
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 949,
-    "total_planned": 47,
+    "total_completed": 950,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
