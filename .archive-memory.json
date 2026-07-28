@@ -3492,14 +3492,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785205896.8112078
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785206188.4297729
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 713,
-    "total_planned": 70,
+    "total_completed": 714,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
