@@ -5092,14 +5092,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785281371.5267708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785281515.673007
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1033,
-    "total_planned": 34,
+    "total_completed": 1034,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
