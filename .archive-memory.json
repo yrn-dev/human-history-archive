@@ -4542,14 +4542,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785255738.1265259
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785255947.7003489
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 923,
-    "total_planned": 2,
+    "total_completed": 924,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
