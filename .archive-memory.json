@@ -5037,14 +5037,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785278855.4019933
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785279088.9322364
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1022,
-    "total_planned": 45,
+    "total_completed": 1023,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
