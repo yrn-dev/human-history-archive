@@ -4457,14 +4457,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785251643.9943295
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785251861.9513493
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 906,
-    "total_planned": 19,
+    "total_completed": 907,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
