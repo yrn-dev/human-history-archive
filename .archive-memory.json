@@ -5007,14 +5007,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785277548.1729813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785277715.4604099
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1016,
-    "total_planned": 51,
+    "total_completed": 1017,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
