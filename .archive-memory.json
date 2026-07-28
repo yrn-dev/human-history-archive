@@ -3637,14 +3637,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785212896.0276392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785213171.9722435
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 742,
-    "total_planned": 41,
+    "total_completed": 743,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
