@@ -4272,14 +4272,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785242452.6860147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785242714.74413
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 869,
-    "total_planned": 56,
+    "total_completed": 870,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
