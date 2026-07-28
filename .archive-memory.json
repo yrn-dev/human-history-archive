@@ -4907,12 +4907,368 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785272811.2108924
+    },
+    {
+      "era": "industrial",
+      "topic": "Railways: connecting continents and shrinking distances",
+      "timestamp": 1785273021.7090533
     }
   ],
-  "planned": [],
+  "planned": [
+    {
+      "era": "prehistoric",
+      "topic": "The Megalithic cultures: Stonehenge and similar monuments",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Azerbaijani music: mugham and the tar instrument",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Bronze Age trade networks across Europe and Asia",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The Industrial Revolution in Russia and Japan",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Shakespeare: language, drama, and human nature",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Crusades: holy wars that changed the Middle East",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Hanging Gardens of Babylon: myth or reality?",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Central Asian silk road: trade and cultural exchange",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "Child labor and the factory system",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "Roman engineering: aqueducts, roads, and concrete",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "The future of cities: smart, vertical, and sustainable",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Viking age: explorers, traders, and warriors",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Digital Revolution: computers and smartphones",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "World War II: from invasion to atomic bomb",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Medieval universities: birth of modern education",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Copernicus and the heliocentric revolution",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Domestication of animals: dogs, cats, and livestock",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The telegraph: instant communication across oceans",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Minoan civilization of Crete",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Cold War: nuclear standoff between superpowers",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The textile Industry: how cotton changed the world",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Kazakh Epic: Manas and oral tradition",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Renaissance architecture: Brunelleschi's dome",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "The discovery of fire by early humans and its impact on evolution",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "AI and automation: how machines will change work",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Fall of the Berlin Wall: end of division",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Galileo and the scientific method",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Space colonization: Mars, Moon bases, and beyond",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Michelangelo's Sistine Chapel: creation and legacy",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Mongol Empire: the largest land empire in history",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Virtual reality: living in digital worlds",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Arabic calligraphy: art in writing",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Internet: from ARPANET to global connectivity",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The steam engine: Watt's invention that powered an era",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "The printing press: Gutenberg's revolution",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Persian poetry: Rumi, Hafez, and Feridun",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Turkish cuisine: from kebabs to baklava",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Quantum computing: solving the unsolvable",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "Charles Darwin and the theory of evolution",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The fall of Rome and the rise of medieval kingdoms",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Black Death: how plague reshaped Europe",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Library of Alexandria: knowledge lost and found",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Great Pyramid of Giza: construction methods and mysteries",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Genetic engineering: CRISPR and human enhancement",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Renewable energy: solar, fusion, and beyond",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Holocaust: remembering the unimaginable",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The Bessemer process: making steel affordable",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Transhumanism: merging humans with machines",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Turkish bath (hamam): tradition and social life",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Great Depression: economic collapse of the 1930s",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Byzantine Empire: continuation of Rome",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Azerbaijani carpet weaving: art and heritage",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "The Neolithic Revolution: how agriculture changed everything",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "World War I: the war to end all wars",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "Victorian London: life in the industrial capital",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Climate change scenarios for 2050 and beyond",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Islamic Golden Age: science, medicine, and philosophy",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Russian Revolution and rise of communism",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Persian Empire under Darius I",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "The Medici family: bankers and patrons of art",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Leonardo da Vinci: the ultimate Renaissance man",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "Sumerian writing: how cuneiform changed the world",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
+      "variation": true
+    }
+  ],
   "stats": {
-    "total_completed": 996,
-    "total_planned": 0,
+    "total_completed": 997,
+    "total_planned": 70,
     "total_topics": 74
   }
 }
