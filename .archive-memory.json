@@ -3482,18 +3482,17 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785205292.403464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
+      "timestamp": 1785205586.4098985
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 711,
-    "total_planned": 1,
+    "total_completed": 712,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
