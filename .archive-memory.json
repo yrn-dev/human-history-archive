@@ -4332,14 +4332,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785245215.0890036
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785245477.1903937
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 881,
-    "total_planned": 44,
+    "total_completed": 882,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
