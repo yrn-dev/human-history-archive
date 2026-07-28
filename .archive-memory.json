@@ -5082,14 +5082,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785280827.5262647
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785281077.475157
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1031,
-    "total_planned": 36,
+    "total_completed": 1032,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
