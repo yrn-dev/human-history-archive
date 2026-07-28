@@ -4612,14 +4612,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785258856.1772978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785259034.802241
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 937,
-    "total_planned": 59,
+    "total_completed": 938,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
