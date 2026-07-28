@@ -4312,14 +4312,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785244363.3154428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785244649.3936892
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 877,
-    "total_planned": 48,
+    "total_completed": 878,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
