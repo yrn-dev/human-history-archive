@@ -3977,14 +3977,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785228315.886309
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785228528.7207384
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 810,
-    "total_planned": 44,
+    "total_completed": 811,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
