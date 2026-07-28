@@ -3742,14 +3742,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785217659.7607262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785217940.4804423
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 763,
-    "total_planned": 20,
+    "total_completed": 764,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
