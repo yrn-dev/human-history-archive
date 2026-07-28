@@ -3707,14 +3707,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785216030.4788818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785216291.2898636
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 756,
-    "total_planned": 27,
+    "total_completed": 757,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
