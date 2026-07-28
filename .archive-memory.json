@@ -3957,14 +3957,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785227380.1806533
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785227548.654752
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 806,
-    "total_planned": 48,
+    "total_completed": 807,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
