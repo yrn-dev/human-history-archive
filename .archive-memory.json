@@ -4927,14 +4927,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785273835.895464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785274030.952879
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1000,
-    "total_planned": 67,
+    "total_completed": 1001,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
