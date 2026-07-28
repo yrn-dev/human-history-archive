@@ -5112,14 +5112,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785282191.6296575
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785282404.7566948
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1037,
-    "total_planned": 30,
+    "total_completed": 1038,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
