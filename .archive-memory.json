@@ -4577,14 +4577,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785257143.630181
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785257377.3547606
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 930,
-    "total_planned": 66,
+    "total_completed": 931,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
