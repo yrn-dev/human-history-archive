@@ -3442,14 +3442,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785203357.5308375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785203647.1790407
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 703,
-    "total_planned": 9,
+    "total_completed": 704,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
