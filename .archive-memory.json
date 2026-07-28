@@ -3627,14 +3627,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785212298.7707977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785212607.328505
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 740,
-    "total_planned": 43,
+    "total_completed": 741,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
