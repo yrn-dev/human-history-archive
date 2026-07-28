@@ -4532,14 +4532,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785255228.509642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785255538.6944153
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 921,
-    "total_planned": 4,
+    "total_completed": 922,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
