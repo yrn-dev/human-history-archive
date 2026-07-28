@@ -4027,14 +4027,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785230751.4122915
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785230985.2980914
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 820,
-    "total_planned": 34,
+    "total_completed": 821,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
