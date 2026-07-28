@@ -3827,14 +3827,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785221583.9952624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785221794.0187223
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 780,
-    "total_planned": 3,
+    "total_completed": 781,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
