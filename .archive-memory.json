@@ -3702,14 +3702,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785215816.177308
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785216030.4788818
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 755,
-    "total_planned": 28,
+    "total_completed": 756,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
