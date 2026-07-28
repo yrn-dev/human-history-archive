@@ -4872,14 +4872,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785271286.057158
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785271535.1476078
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 989,
-    "total_planned": 7,
+    "total_completed": 990,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
