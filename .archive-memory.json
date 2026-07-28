@@ -4817,14 +4817,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785268655.6707234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785268845.5731232
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 978,
-    "total_planned": 18,
+    "total_completed": 979,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
