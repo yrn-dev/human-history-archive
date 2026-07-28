@@ -3452,14 +3452,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785203941.0411968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785204201.158993
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 705,
-    "total_planned": 7,
+    "total_completed": 706,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
