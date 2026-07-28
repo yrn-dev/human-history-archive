@@ -4537,14 +4537,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785255538.6944153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785255738.1265259
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 922,
-    "total_planned": 3,
+    "total_completed": 923,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
