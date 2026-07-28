@@ -4172,14 +4172,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785237508.8487492
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785237759.508102
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 849,
-    "total_planned": 5,
+    "total_completed": 850,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
