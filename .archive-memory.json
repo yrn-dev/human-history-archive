@@ -4887,14 +4887,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785271828.9502664
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785272035.4151661
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 992,
-    "total_planned": 4,
+    "total_completed": 993,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
