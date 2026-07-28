@@ -4752,14 +4752,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785265581.9331446
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785265766.6383564
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 965,
-    "total_planned": 31,
+    "total_completed": 966,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
