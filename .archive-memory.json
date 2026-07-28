@@ -4417,14 +4417,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785249697.5090845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785249964.3898656
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 898,
-    "total_planned": 27,
+    "total_completed": 899,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
