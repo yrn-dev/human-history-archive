@@ -3582,14 +3582,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785210118.9122279
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785210341.7381086
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 731,
-    "total_planned": 52,
+    "total_completed": 732,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
