@@ -4397,14 +4397,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785248572.9263008
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785248851.9526997
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 894,
-    "total_planned": 31,
+    "total_completed": 895,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
