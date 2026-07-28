@@ -4347,14 +4347,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785246030.4756126
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785246311.3781376
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 884,
-    "total_planned": 41,
+    "total_completed": 885,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
