@@ -3982,14 +3982,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785228528.7207384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785228762.5110614
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 811,
-    "total_planned": 43,
+    "total_completed": 812,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
