@@ -3887,14 +3887,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785224422.976163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785224714.628239
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 792,
-    "total_planned": 62,
+    "total_completed": 793,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
