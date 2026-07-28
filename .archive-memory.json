@@ -3792,14 +3792,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785220026.5448534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785220230.7794745
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 773,
-    "total_planned": 10,
+    "total_completed": 774,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
