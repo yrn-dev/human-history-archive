@@ -4402,14 +4402,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785248851.9526997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785249162.4389966
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 895,
-    "total_planned": 30,
+    "total_completed": 896,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
