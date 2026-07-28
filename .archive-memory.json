@@ -4057,14 +4057,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785231946.9102504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785232209.6832907
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 826,
-    "total_planned": 28,
+    "total_completed": 827,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
