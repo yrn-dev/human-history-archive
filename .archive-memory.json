@@ -3762,14 +3762,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785218707.723468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785218869.1281557
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 767,
-    "total_planned": 16,
+    "total_completed": 768,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
