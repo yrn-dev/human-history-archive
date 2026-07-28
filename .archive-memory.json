@@ -4412,14 +4412,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785249467.1516
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785249697.5090845
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 897,
-    "total_planned": 28,
+    "total_completed": 898,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
