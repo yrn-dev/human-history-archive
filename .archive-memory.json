@@ -4187,14 +4187,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785238250.724528
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785238565.8160098
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 852,
-    "total_planned": 2,
+    "total_completed": 853,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
