@@ -4922,14 +4922,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785273539.4564428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785273835.895464
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 999,
-    "total_planned": 68,
+    "total_completed": 1000,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
