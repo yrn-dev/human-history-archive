@@ -3737,14 +3737,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785217378.7996006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785217659.7607262
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 762,
-    "total_planned": 21,
+    "total_completed": 763,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
