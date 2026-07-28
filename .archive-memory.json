@@ -4982,14 +4982,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785276407.7942128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785276659.748311
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1011,
-    "total_planned": 56,
+    "total_completed": 1012,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
