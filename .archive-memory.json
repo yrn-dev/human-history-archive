@@ -4652,14 +4652,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785260858.7007225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785261083.1159158
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 945,
-    "total_planned": 51,
+    "total_completed": 946,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
