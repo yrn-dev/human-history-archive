@@ -4597,14 +4597,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785258075.842081
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785258319.1609616
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 934,
-    "total_planned": 62,
+    "total_completed": 935,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
