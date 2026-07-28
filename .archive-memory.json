@@ -4717,14 +4717,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785264037.2440689
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785264290.4458406
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 958,
-    "total_planned": 38,
+    "total_completed": 959,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
