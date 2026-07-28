@@ -3772,14 +3772,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785219166.1143792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785219396.7085636
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 769,
-    "total_planned": 14,
+    "total_completed": 770,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
