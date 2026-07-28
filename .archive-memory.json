@@ -3632,14 +3632,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785212607.328505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785212896.0276392
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 741,
-    "total_planned": 42,
+    "total_completed": 742,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
