@@ -3467,14 +3467,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785204731.6734579
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785204967.763659
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 708,
-    "total_planned": 4,
+    "total_completed": 709,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
