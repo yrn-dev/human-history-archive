@@ -3767,14 +3767,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785218869.1281557
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785219166.1143792
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 768,
-    "total_planned": 15,
+    "total_completed": 769,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
