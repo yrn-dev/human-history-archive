@@ -4697,14 +4697,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785263174.8426504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785263440.90932
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 954,
-    "total_planned": 42,
+    "total_completed": 955,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
