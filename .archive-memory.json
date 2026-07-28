@@ -3872,14 +3872,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785223734.5224059
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785224035.4555352
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 789,
-    "total_planned": 65,
+    "total_completed": 790,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
