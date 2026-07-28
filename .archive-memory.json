@@ -5122,14 +5122,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785282575.9489367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785282729.5233989
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1039,
-    "total_planned": 28,
+    "total_completed": 1040,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
