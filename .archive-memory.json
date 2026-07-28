@@ -3327,14 +3327,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785198166.2606137
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785198474.77771
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 680,
-    "total_planned": 32,
+    "total_completed": 681,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
