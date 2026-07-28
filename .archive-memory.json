@@ -4737,14 +4737,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785265044.6353283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785265188.3498437
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 962,
-    "total_planned": 34,
+    "total_completed": 963,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
