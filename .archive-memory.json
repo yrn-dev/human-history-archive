@@ -4492,14 +4492,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785253166.8893702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785253448.6623867
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 913,
-    "total_planned": 12,
+    "total_completed": 914,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
