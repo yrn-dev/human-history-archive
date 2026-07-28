@@ -3307,14 +3307,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785197264.4774535
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785197579.1403337
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 676,
-    "total_planned": 36,
+    "total_completed": 677,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
