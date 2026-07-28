@@ -3972,14 +3972,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785228092.8692837
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785228315.886309
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 809,
-    "total_planned": 45,
+    "total_completed": 810,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
