@@ -3517,14 +3517,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785207103.3203845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785207391.8221755
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 718,
-    "total_planned": 65,
+    "total_completed": 719,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
