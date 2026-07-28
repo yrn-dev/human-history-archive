@@ -4227,14 +4227,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785240075.8336952
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785240287.3590071
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 860,
-    "total_planned": 65,
+    "total_completed": 861,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
