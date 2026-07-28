@@ -4782,14 +4782,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785267013.130002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785267224.0286868
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 971,
-    "total_planned": 25,
+    "total_completed": 972,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
