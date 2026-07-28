@@ -4622,14 +4622,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785259343.2334306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785259633.7332747
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 939,
-    "total_planned": 57,
+    "total_completed": 940,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
