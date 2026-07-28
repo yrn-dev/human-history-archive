@@ -3802,14 +3802,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785220474.8059614
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785220643.818886
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 775,
-    "total_planned": 8,
+    "total_completed": 776,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
