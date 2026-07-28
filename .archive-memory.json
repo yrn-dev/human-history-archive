@@ -4592,14 +4592,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785257774.710201
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785258075.842081
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 933,
-    "total_planned": 63,
+    "total_completed": 934,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
