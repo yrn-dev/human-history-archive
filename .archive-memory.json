@@ -4122,14 +4122,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785235360.1120665
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785235661.4852839
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -4202,8 +4202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 839,
-    "total_planned": 15,
+    "total_completed": 840,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
