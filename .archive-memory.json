@@ -4297,14 +4297,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785243564.1755645
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785243893.6908522
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 874,
-    "total_planned": 51,
+    "total_completed": 875,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
