@@ -3412,14 +3412,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785202218.6371617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785202401.2158053
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 697,
-    "total_planned": 15,
+    "total_completed": 698,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
