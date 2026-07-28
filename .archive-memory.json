@@ -4282,14 +4282,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785242891.3835874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785243167.986331
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 871,
-    "total_planned": 54,
+    "total_completed": 872,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
