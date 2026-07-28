@@ -3522,14 +3522,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785207391.8221755
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785207619.7899768
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 719,
-    "total_planned": 64,
+    "total_completed": 720,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
