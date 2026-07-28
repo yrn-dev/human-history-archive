@@ -3302,14 +3302,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785197086.9663684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785197264.4774535
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 675,
-    "total_planned": 37,
+    "total_completed": 676,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
