@@ -5042,14 +5042,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785279088.9322364
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785279387.8607266
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1023,
-    "total_planned": 44,
+    "total_completed": 1024,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
