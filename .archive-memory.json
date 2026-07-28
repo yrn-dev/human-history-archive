@@ -4247,14 +4247,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785241120.2485373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785241383.4642751
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 864,
-    "total_planned": 61,
+    "total_completed": 865,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
