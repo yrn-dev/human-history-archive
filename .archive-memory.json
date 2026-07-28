@@ -4432,14 +4432,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785250437.5136118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785250611.775532
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 901,
-    "total_planned": 24,
+    "total_completed": 902,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
