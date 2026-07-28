@@ -4762,14 +4762,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785266035.3497636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785266211.8791916
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 967,
-    "total_planned": 29,
+    "total_completed": 968,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
