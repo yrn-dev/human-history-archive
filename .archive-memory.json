@@ -4607,14 +4607,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785258628.8549848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785258856.1772978
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 936,
-    "total_planned": 60,
+    "total_completed": 937,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
