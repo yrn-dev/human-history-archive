@@ -3432,14 +3432,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785203099.3865244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785203196.5571635
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -3492,8 +3492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 701,
-    "total_planned": 11,
+    "total_completed": 702,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
