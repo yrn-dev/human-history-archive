@@ -3497,14 +3497,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785206188.4297729
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785206331.162118
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -3847,8 +3847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 714,
-    "total_planned": 69,
+    "total_completed": 715,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
