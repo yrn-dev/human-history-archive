@@ -4602,14 +4602,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785258319.1609616
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785258628.8549848
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 935,
-    "total_planned": 61,
+    "total_completed": 936,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
