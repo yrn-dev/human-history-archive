@@ -4232,14 +4232,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785240287.3590071
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785240637.13634
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 861,
-    "total_planned": 64,
+    "total_completed": 862,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
