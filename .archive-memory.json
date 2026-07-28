@@ -4827,14 +4827,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785269146.9400804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785269340.809813
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 980,
-    "total_planned": 16,
+    "total_completed": 981,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
