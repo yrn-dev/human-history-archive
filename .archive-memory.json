@@ -5062,14 +5062,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785279953.0102015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785280104.9147298
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1027,
-    "total_planned": 40,
+    "total_completed": 1028,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
