@@ -4847,14 +4847,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785270042.6994734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785270312.7184682
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -4912,8 +4912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 984,
-    "total_planned": 12,
+    "total_completed": 985,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
