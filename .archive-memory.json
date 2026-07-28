@@ -4242,14 +4242,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785240892.7668033
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785241120.2485373
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 863,
-    "total_planned": 62,
+    "total_completed": 864,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
