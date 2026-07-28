@@ -4222,14 +4222,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785239818.6118588
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785240075.8336952
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -4557,8 +4557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 859,
-    "total_planned": 66,
+    "total_completed": 860,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
