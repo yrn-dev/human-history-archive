@@ -6127,14 +6127,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785328087.670084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785328360.3259192
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1240,
-    "total_planned": 40,
+    "total_completed": 1241,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
