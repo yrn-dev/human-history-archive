@@ -5592,14 +5592,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785304289.502201
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785304572.8412986
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1133,
-    "total_planned": 5,
+    "total_completed": 1134,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
