@@ -5652,14 +5652,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785306618.4524405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785306770.4475725
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1145,
-    "total_planned": 64,
+    "total_completed": 1146,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
