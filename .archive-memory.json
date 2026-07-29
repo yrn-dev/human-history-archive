@@ -6247,14 +6247,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785333637.516663
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785333922.9308646
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1264,
-    "total_planned": 16,
+    "total_completed": 1265,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
