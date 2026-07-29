@@ -6877,14 +6877,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785363215.2630155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785363392.4296813
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1390,
-    "total_planned": 32,
+    "total_completed": 1391,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
