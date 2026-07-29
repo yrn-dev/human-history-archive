@@ -5687,14 +5687,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785308033.9743445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785308269.2262123
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1152,
-    "total_planned": 57,
+    "total_completed": 1153,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
