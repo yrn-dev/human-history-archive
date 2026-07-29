@@ -6347,14 +6347,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785338482.581036
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785338785.9675274
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1284,
-    "total_planned": 67,
+    "total_completed": 1285,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
