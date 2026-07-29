@@ -6857,14 +6857,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785362285.1230304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785362416.2999718
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1386,
-    "total_planned": 36,
+    "total_completed": 1387,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
