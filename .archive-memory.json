@@ -6137,14 +6137,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785328548.8286698
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785328828.0097938
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1242,
-    "total_planned": 38,
+    "total_completed": 1243,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
