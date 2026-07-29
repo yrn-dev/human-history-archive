@@ -5497,14 +5497,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785299436.4132004
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785299746.619216
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1114,
-    "total_planned": 24,
+    "total_completed": 1115,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
