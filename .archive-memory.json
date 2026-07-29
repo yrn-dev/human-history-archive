@@ -5452,14 +5452,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785297367.5606494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785297595.6444373
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1105,
-    "total_planned": 33,
+    "total_completed": 1106,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
