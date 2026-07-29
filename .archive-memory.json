@@ -6032,14 +6032,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785323980.7611668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785324131.4612117
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1221,
-    "total_planned": 59,
+    "total_completed": 1222,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
