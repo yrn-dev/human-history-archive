@@ -6297,14 +6297,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785335947.8838258
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785336310.720183
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1274,
-    "total_planned": 6,
+    "total_completed": 1275,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
