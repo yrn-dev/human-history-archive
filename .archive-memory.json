@@ -6342,14 +6342,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785338334.6245525
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785338482.581036
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1283,
-    "total_planned": 68,
+    "total_completed": 1284,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
