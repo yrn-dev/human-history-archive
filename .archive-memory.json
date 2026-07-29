@@ -5707,14 +5707,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785309013.1292746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785309175.9362166
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1156,
-    "total_planned": 53,
+    "total_completed": 1157,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
