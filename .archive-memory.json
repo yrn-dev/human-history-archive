@@ -6617,14 +6617,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785351370.70126
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785351500.8552895
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1338,
-    "total_planned": 13,
+    "total_completed": 1339,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
