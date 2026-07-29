@@ -5337,14 +5337,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785291775.9840114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785292086.5223007
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1082,
-    "total_planned": 56,
+    "total_completed": 1083,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
