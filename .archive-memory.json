@@ -6497,14 +6497,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785345145.9360726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785345370.385387
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1314,
-    "total_planned": 37,
+    "total_completed": 1315,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
