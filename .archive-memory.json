@@ -5612,18 +5612,17 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785305077.4938989
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
+      "timestamp": 1785305241.9890935
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1137,
-    "total_planned": 1,
+    "total_completed": 1138,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
