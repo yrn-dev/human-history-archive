@@ -5182,14 +5182,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785285366.422459
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785285663.5707328
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1051,
-    "total_planned": 16,
+    "total_completed": 1052,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
