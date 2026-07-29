@@ -6077,14 +6077,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785325829.261837
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785326077.6718476
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1230,
-    "total_planned": 50,
+    "total_completed": 1231,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
