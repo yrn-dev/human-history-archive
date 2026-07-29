@@ -6567,14 +6567,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785348652.5896173
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785349086.5822344
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1328,
-    "total_planned": 23,
+    "total_completed": 1329,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
