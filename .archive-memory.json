@@ -6862,14 +6862,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785362416.2999718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785362636.804061
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1387,
-    "total_planned": 35,
+    "total_completed": 1388,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
