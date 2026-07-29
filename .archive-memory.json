@@ -6837,14 +6837,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785361482.356878
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785361669.0429263
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1382,
-    "total_planned": 40,
+    "total_completed": 1383,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
