@@ -5367,14 +5367,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785293322.9316342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785293628.5333688
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1088,
-    "total_planned": 50,
+    "total_completed": 1089,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
