@@ -5962,14 +5962,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785320621.9102418
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785320942.6650069
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1207,
-    "total_planned": 2,
+    "total_completed": 1208,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
