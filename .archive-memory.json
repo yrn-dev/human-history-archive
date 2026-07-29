@@ -6332,14 +6332,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785337830.3808389
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785338086.18264
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1281,
-    "total_planned": 70,
+    "total_completed": 1282,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
