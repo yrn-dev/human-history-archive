@@ -5987,14 +5987,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785321853.565105
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785322153.5108159
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1212,
-    "total_planned": 68,
+    "total_completed": 1213,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
