@@ -6237,14 +6237,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785333232.2033758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785333497.6317277
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1262,
-    "total_planned": 18,
+    "total_completed": 1263,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
