@@ -6937,14 +6937,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785365692.909903
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785365840.2954154
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1402,
-    "total_planned": 20,
+    "total_completed": 1403,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
