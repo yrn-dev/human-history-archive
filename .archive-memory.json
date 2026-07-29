@@ -6607,14 +6607,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785350741.779745
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785351053.3951056
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1336,
-    "total_planned": 15,
+    "total_completed": 1337,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
