@@ -6822,14 +6822,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785360886.7027466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785361050.0591736
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1379,
-    "total_planned": 43,
+    "total_completed": 1380,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
