@@ -5152,14 +5152,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785283996.9648056
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785284276.468926
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1045,
-    "total_planned": 22,
+    "total_completed": 1046,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
