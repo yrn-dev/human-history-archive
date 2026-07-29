@@ -6357,14 +6357,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785338977.151607
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785339183.1964355
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1286,
-    "total_planned": 65,
+    "total_completed": 1287,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
