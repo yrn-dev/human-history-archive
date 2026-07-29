@@ -5147,14 +5147,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785283718.1100538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785283996.9648056
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1044,
-    "total_planned": 23,
+    "total_completed": 1045,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
