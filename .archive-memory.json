@@ -5312,14 +5312,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785290776.158011
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785290912.5239842
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1077,
-    "total_planned": 61,
+    "total_completed": 1078,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
