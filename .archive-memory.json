@@ -5282,14 +5282,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785289427.064762
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785289622.3093798
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1071,
-    "total_planned": 67,
+    "total_completed": 1072,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
