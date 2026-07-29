@@ -5782,14 +5782,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785312531.3905885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785312702.2314649
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1171,
-    "total_planned": 38,
+    "total_completed": 1172,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
