@@ -6817,14 +6817,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785360748.4537928
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785360886.7027466
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1378,
-    "total_planned": 44,
+    "total_completed": 1379,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
