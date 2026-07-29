@@ -5222,14 +5222,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785287296.6097455
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785287505.8969553
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1059,
-    "total_planned": 8,
+    "total_completed": 1060,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
