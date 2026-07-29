@@ -6112,14 +6112,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785327430.3151028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785327585.0395703
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1237,
-    "total_planned": 43,
+    "total_completed": 1238,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
