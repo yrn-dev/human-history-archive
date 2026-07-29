@@ -5427,14 +5427,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785296195.9870477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785296481.6282332
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1100,
-    "total_planned": 38,
+    "total_completed": 1101,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
