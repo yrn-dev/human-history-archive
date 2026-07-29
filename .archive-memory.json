@@ -5817,14 +5817,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785313985.8047514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785314227.2402918
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1178,
-    "total_planned": 31,
+    "total_completed": 1179,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
