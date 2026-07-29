@@ -5802,14 +5802,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785313275.5430052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785313561.1871188
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1175,
-    "total_planned": 34,
+    "total_completed": 1176,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
