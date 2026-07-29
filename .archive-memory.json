@@ -6747,14 +6747,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785357544.632683
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785357772.642241
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1364,
-    "total_planned": 58,
+    "total_completed": 1365,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
