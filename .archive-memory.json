@@ -5597,14 +5597,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785304572.8412986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785304749.6007612
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1134,
-    "total_planned": 4,
+    "total_completed": 1135,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
