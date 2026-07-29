@@ -6997,14 +6997,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785368135.8915086
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785368269.0056255
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1414,
-    "total_planned": 8,
+    "total_completed": 1415,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
