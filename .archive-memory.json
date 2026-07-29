@@ -6182,14 +6182,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785330809.7650461
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785330936.0296552
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1251,
-    "total_planned": 29,
+    "total_completed": 1252,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
