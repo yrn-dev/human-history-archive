@@ -5837,14 +5837,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785315018.9278786
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785315233.774319
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1182,
-    "total_planned": 27,
+    "total_completed": 1183,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
