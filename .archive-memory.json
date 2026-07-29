@@ -5892,14 +5892,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785317190.6234012
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785317360.8545961
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1193,
-    "total_planned": 16,
+    "total_completed": 1194,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
