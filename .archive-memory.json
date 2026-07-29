@@ -6587,14 +6587,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785349785.5854826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785349976.019524
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1332,
-    "total_planned": 19,
+    "total_completed": 1333,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
