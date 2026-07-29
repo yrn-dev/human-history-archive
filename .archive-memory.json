@@ -6517,14 +6517,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785346100.5581102
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785346281.9198525
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1318,
-    "total_planned": 33,
+    "total_completed": 1319,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
