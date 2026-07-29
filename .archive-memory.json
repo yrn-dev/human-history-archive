@@ -6262,14 +6262,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785334355.016098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785334651.504885
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1267,
-    "total_planned": 13,
+    "total_completed": 1268,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
