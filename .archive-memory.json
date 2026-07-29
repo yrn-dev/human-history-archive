@@ -5967,18 +5967,17 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785320942.6650069
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
+      "timestamp": 1785321082.7662826
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1208,
-    "total_planned": 1,
+    "total_completed": 1209,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
