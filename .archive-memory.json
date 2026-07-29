@@ -5447,14 +5447,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785297110.2028308
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785297367.5606494
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1104,
-    "total_planned": 34,
+    "total_completed": 1105,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
