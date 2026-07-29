@@ -5142,14 +5142,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785283465.1969225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785283718.1100538
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1043,
-    "total_planned": 24,
+    "total_completed": 1044,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
