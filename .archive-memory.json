@@ -6102,14 +6102,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785326952.5190823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785327262.0194116
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1235,
-    "total_planned": 45,
+    "total_completed": 1236,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
