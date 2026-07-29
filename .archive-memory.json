@@ -5302,14 +5302,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785290232.7824895
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785290536.4281094
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1075,
-    "total_planned": 63,
+    "total_completed": 1076,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
