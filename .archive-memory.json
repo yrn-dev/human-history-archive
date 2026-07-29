@@ -5842,14 +5842,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785315233.774319
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785315419.919806
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1183,
-    "total_planned": 26,
+    "total_completed": 1184,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
