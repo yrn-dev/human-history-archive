@@ -5952,14 +5952,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785320022.9444146
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785320331.9269607
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1205,
-    "total_planned": 4,
+    "total_completed": 1206,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
