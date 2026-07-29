@@ -6367,14 +6367,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785339459.1478808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785339640.9113424
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1288,
-    "total_planned": 63,
+    "total_completed": 1289,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
