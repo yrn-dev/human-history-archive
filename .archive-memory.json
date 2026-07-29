@@ -6797,14 +6797,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785359752.4088595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785360029.7091267
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1374,
-    "total_planned": 48,
+    "total_completed": 1375,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
