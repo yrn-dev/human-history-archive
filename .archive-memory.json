@@ -5937,14 +5937,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785319395.7249644
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785319579.1994483
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1202,
-    "total_planned": 7,
+    "total_completed": 1203,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
