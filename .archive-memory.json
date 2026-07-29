@@ -5322,14 +5322,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785291064.9166358
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785291293.9763966
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1079,
-    "total_planned": 59,
+    "total_completed": 1080,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
