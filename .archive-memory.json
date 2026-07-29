@@ -5757,14 +5757,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785311164.2369447
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785311424.3652742
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1166,
-    "total_planned": 43,
+    "total_completed": 1167,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
