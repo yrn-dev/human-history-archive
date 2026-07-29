@@ -6712,14 +6712,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785356056.385275
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785356208.4631453
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1357,
-    "total_planned": 65,
+    "total_completed": 1358,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
