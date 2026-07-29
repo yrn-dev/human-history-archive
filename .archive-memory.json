@@ -5397,14 +5397,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785294540.2885594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785294798.9694128
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1094,
-    "total_planned": 44,
+    "total_completed": 1095,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
