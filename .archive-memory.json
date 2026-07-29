@@ -5172,14 +5172,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785284835.2326307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785285067.4846437
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1049,
-    "total_planned": 18,
+    "total_completed": 1050,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
