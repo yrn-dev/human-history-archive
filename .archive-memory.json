@@ -6987,14 +6987,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785367677.0669596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785367845.2420177
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1412,
-    "total_planned": 10,
+    "total_completed": 1413,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
