@@ -6412,14 +6412,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785341323.2290342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785341509.798743
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1297,
-    "total_planned": 54,
+    "total_completed": 1298,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
