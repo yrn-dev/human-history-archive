@@ -5847,14 +5847,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785315419.919806
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785315621.4885466
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1184,
-    "total_planned": 25,
+    "total_completed": 1185,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
