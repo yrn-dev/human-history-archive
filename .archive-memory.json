@@ -5787,14 +5787,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785312702.2314649
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785312895.633064
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1172,
-    "total_planned": 37,
+    "total_completed": 1173,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
