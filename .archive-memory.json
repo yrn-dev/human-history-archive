@@ -5762,14 +5762,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785311424.3652742
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785311577.0228705
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1167,
-    "total_planned": 42,
+    "total_completed": 1168,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
