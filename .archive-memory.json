@@ -5327,14 +5327,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785291293.9763966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785291471.1618478
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1080,
-    "total_planned": 58,
+    "total_completed": 1081,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
