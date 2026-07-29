@@ -6047,14 +6047,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785324482.4852276
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785324670.209075
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1224,
-    "total_planned": 56,
+    "total_completed": 1225,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
