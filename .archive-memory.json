@@ -6992,14 +6992,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785367845.2420177
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785368135.8915086
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1413,
-    "total_planned": 9,
+    "total_completed": 1414,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
