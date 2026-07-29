@@ -5157,14 +5157,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785284276.468926
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785284425.3557305
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1046,
-    "total_planned": 21,
+    "total_completed": 1047,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
