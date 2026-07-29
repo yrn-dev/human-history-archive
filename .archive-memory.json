@@ -5272,14 +5272,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785289109.8716972
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785289258.5266027
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1069,
-    "total_planned": 69,
+    "total_completed": 1070,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
