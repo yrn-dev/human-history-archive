@@ -6792,14 +6792,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785359562.2026494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785359752.4088595
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1373,
-    "total_planned": 49,
+    "total_completed": 1374,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
