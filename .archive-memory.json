@@ -6437,14 +6437,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785342461.8478663
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785342666.0106175
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1302,
-    "total_planned": 49,
+    "total_completed": 1303,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
