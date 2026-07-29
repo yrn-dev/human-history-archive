@@ -5392,14 +5392,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785294399.33456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785294540.2885594
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1093,
-    "total_planned": 45,
+    "total_completed": 1094,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
