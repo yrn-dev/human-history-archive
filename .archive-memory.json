@@ -5727,14 +5727,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785309925.4401443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785310154.5105011
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1160,
-    "total_planned": 49,
+    "total_completed": 1161,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
