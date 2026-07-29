@@ -5997,14 +5997,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785322388.4206686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785322559.3058174
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1214,
-    "total_planned": 66,
+    "total_completed": 1215,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
