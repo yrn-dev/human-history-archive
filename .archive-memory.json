@@ -5602,14 +5602,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785304749.6007612
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785304933.522576
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1135,
-    "total_planned": 3,
+    "total_completed": 1136,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
