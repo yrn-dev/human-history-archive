@@ -5287,14 +5287,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785289622.3093798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785289848.6803775
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1072,
-    "total_planned": 66,
+    "total_completed": 1073,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
