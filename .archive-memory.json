@@ -5582,14 +5582,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785303775.210814
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785304072.4200368
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1131,
-    "total_planned": 7,
+    "total_completed": 1132,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
