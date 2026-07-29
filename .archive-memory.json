@@ -6762,14 +6762,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785358235.3526452
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785358425.8260393
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1367,
-    "total_planned": 55,
+    "total_completed": 1368,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
