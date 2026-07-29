@@ -5317,14 +5317,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785290912.5239842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785291064.9166358
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1078,
-    "total_planned": 60,
+    "total_completed": 1079,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
