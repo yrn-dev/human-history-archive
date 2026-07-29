@@ -5607,14 +5607,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785304933.522576
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785305077.4938989
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1136,
-    "total_planned": 2,
+    "total_completed": 1137,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
