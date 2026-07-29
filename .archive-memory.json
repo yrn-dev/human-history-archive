@@ -6452,14 +6452,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785343209.4178472
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785343362.6900227
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1305,
-    "total_planned": 46,
+    "total_completed": 1306,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
