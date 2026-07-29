@@ -6177,14 +6177,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785330521.8013616
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785330809.7650461
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1250,
-    "total_planned": 30,
+    "total_completed": 1251,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
