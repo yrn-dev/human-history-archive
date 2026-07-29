@@ -5517,14 +5517,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785300557.794348
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785300812.8713994
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1118,
-    "total_planned": 20,
+    "total_completed": 1119,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
