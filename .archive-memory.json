@@ -6322,18 +6322,17 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785337382.4584074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
+      "timestamp": 1785337671.7080648
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1279,
-    "total_planned": 1,
+    "total_completed": 1280,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
