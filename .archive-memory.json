@@ -6447,14 +6447,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785342941.2446039
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785343209.4178472
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1304,
-    "total_planned": 47,
+    "total_completed": 1305,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
