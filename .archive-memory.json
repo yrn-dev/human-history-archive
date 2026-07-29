@@ -6687,14 +6687,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785354885.6279933
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785355157.8481684
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1352,
-    "total_planned": 70,
+    "total_completed": 1353,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
