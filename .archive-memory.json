@@ -6727,14 +6727,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785356742.7238529
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785356948.2734284
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1360,
-    "total_planned": 62,
+    "total_completed": 1361,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
