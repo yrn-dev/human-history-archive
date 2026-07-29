@@ -6202,14 +6202,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785331736.760987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785332011.5348608
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1255,
-    "total_planned": 25,
+    "total_completed": 1256,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
