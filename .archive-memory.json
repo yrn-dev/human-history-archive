@@ -6252,14 +6252,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785333922.9308646
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785334127.2256253
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1265,
-    "total_planned": 15,
+    "total_completed": 1266,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
