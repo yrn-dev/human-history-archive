@@ -6942,14 +6942,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785365840.2954154
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785365989.812501
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1403,
-    "total_planned": 19,
+    "total_completed": 1404,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
