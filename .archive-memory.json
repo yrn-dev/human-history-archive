@@ -5832,14 +5832,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785314762.709493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785315018.9278786
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1181,
-    "total_planned": 28,
+    "total_completed": 1182,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
