@@ -6012,14 +6012,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785322988.6664085
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785323246.7173717
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1217,
-    "total_planned": 63,
+    "total_completed": 1218,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
