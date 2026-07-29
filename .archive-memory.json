@@ -6407,14 +6407,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785341028.3393114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785341323.2290342
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1296,
-    "total_planned": 55,
+    "total_completed": 1297,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
