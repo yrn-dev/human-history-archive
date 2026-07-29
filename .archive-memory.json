@@ -6487,14 +6487,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785344748.415583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785344910.6466715
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1312,
-    "total_planned": 39,
+    "total_completed": 1313,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
