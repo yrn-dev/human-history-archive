@@ -6507,14 +6507,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785345536.8136714
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785345853.2740529
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1316,
-    "total_planned": 35,
+    "total_completed": 1317,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
