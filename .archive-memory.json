@@ -6582,14 +6582,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785349612.231634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785349785.5854826
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1331,
-    "total_planned": 20,
+    "total_completed": 1332,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
