@@ -6287,14 +6287,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785335575.799704
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785335743.4811826
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1272,
-    "total_planned": 8,
+    "total_completed": 1273,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
