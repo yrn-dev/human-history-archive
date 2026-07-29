@@ -5457,14 +5457,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785297595.6444373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785297815.9240744
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1106,
-    "total_planned": 32,
+    "total_completed": 1107,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
