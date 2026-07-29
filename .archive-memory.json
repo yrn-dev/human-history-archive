@@ -5477,14 +5477,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785298474.2264888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785298704.2676306
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1110,
-    "total_planned": 28,
+    "total_completed": 1111,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
