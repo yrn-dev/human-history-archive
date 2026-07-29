@@ -5752,14 +5752,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785311023.4209864
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785311164.2369447
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1165,
-    "total_planned": 44,
+    "total_completed": 1166,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
