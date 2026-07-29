@@ -6042,14 +6042,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785324300.4139237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785324482.4852276
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1223,
-    "total_planned": 57,
+    "total_completed": 1224,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
