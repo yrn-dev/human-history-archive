@@ -6147,14 +6147,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785329062.1760123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785329331.9726393
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1244,
-    "total_planned": 36,
+    "total_completed": 1245,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
