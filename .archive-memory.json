@@ -5527,14 +5527,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785301106.7903621
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785301264.072958
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1120,
-    "total_planned": 18,
+    "total_completed": 1121,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
