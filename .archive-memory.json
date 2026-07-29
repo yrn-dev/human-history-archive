@@ -6922,14 +6922,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785365159.4168553
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785365324.7396376
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1399,
-    "total_planned": 23,
+    "total_completed": 1400,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
