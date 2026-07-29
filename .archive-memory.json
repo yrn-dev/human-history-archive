@@ -6092,14 +6092,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785326521.1346538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785326732.306337
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1233,
-    "total_planned": 47,
+    "total_completed": 1234,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
