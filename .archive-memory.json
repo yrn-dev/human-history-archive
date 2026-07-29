@@ -5992,14 +5992,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785322153.5108159
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785322388.4206686
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1213,
-    "total_planned": 67,
+    "total_completed": 1214,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
