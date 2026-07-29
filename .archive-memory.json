@@ -5957,14 +5957,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785320331.9269607
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785320621.9102418
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1206,
-    "total_planned": 3,
+    "total_completed": 1207,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
