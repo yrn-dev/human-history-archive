@@ -6272,14 +6272,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785334896.4015396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785335197.4774005
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1269,
-    "total_planned": 11,
+    "total_completed": 1270,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
