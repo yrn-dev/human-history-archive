@@ -6737,14 +6737,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785357118.2274823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785357325.4276927
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1362,
-    "total_planned": 60,
+    "total_completed": 1363,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
