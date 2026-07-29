@@ -5482,14 +5482,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785298704.2676306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785299017.0105577
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1111,
-    "total_planned": 27,
+    "total_completed": 1112,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
