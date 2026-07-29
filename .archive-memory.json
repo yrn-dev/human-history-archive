@@ -6967,14 +6967,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785366943.2116108
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785367069.330736
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1408,
-    "total_planned": 14,
+    "total_completed": 1409,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
