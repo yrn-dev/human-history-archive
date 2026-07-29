@@ -6557,14 +6557,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785348192.0612216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785348374.1525493
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1326,
-    "total_planned": 25,
+    "total_completed": 1327,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
