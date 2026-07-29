@@ -5982,14 +5982,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785321539.4957583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785321853.565105
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1211,
-    "total_planned": 69,
+    "total_completed": 1212,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
