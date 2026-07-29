@@ -5622,14 +5622,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785305384.2390285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785305610.342377
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1139,
-    "total_planned": 70,
+    "total_completed": 1140,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
