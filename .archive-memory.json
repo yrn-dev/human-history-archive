@@ -5637,14 +5637,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785305997.2276
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785306155.0902991
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1142,
-    "total_planned": 67,
+    "total_completed": 1143,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
