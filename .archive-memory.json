@@ -5922,14 +5922,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785318692.1077597
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785319004.4586685
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1199,
-    "total_planned": 10,
+    "total_completed": 1200,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
