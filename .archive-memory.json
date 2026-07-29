@@ -5742,14 +5742,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785310585.7704222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785310832.0743954
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1163,
-    "total_planned": 46,
+    "total_completed": 1164,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
