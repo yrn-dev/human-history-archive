@@ -5212,14 +5212,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785286831.9409635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785287012.6185973
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1057,
-    "total_planned": 10,
+    "total_completed": 1058,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
