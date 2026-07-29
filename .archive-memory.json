@@ -6002,14 +6002,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785322559.3058174
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785322785.3282845
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1215,
-    "total_planned": 65,
+    "total_completed": 1216,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
