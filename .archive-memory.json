@@ -5412,14 +5412,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785295334.619081
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785295643.0223296
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1097,
-    "total_planned": 41,
+    "total_completed": 1098,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
