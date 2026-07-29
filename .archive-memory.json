@@ -5942,14 +5942,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785319579.1994483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785319763.3452365
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1203,
-    "total_planned": 6,
+    "total_completed": 1204,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
