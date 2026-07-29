@@ -5827,14 +5827,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785314476.434368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785314762.709493
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1180,
-    "total_planned": 29,
+    "total_completed": 1181,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
