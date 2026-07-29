@@ -6722,14 +6722,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785356478.758381
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785356742.7238529
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1359,
-    "total_planned": 63,
+    "total_completed": 1360,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
