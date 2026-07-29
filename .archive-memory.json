@@ -5552,14 +5552,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785302255.5956721
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785302543.2336712
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1125,
-    "total_planned": 13,
+    "total_completed": 1126,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
