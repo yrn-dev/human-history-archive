@@ -6677,18 +6677,17 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785354426.2201037
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
+      "timestamp": 1785354668.6681223
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1350,
-    "total_planned": 1,
+    "total_completed": 1351,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
