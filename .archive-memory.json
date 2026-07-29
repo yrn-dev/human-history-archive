@@ -6067,14 +6067,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785325355.180707
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785325518.0296507
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1228,
-    "total_planned": 52,
+    "total_completed": 1229,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
