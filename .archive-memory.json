@@ -5932,14 +5932,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785319190.8021367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785319395.7249644
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1201,
-    "total_planned": 8,
+    "total_completed": 1202,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
