@@ -6977,14 +6977,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785367307.43064
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785367528.5713978
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1410,
-    "total_planned": 12,
+    "total_completed": 1411,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
