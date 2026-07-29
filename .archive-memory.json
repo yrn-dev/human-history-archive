@@ -6007,14 +6007,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785322785.3282845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785322988.6664085
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1216,
-    "total_planned": 64,
+    "total_completed": 1217,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
