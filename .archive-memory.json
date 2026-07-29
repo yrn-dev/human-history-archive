@@ -6782,14 +6782,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785358998.58846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785359271.7804587
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1371,
-    "total_planned": 51,
+    "total_completed": 1372,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
