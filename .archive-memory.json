@@ -5917,14 +5917,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785318478.6338487
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785318692.1077597
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1198,
-    "total_planned": 11,
+    "total_completed": 1199,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
