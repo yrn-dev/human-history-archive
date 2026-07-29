@@ -6892,14 +6892,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785363819.015331
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785364079.18966
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1393,
-    "total_planned": 29,
+    "total_completed": 1394,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
