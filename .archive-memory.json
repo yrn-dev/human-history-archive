@@ -5387,14 +5387,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785294201.2907274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785294399.33456
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1092,
-    "total_planned": 46,
+    "total_completed": 1093,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
