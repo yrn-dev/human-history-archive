@@ -6462,14 +6462,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785343519.0403924
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785343774.8696918
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1307,
-    "total_planned": 44,
+    "total_completed": 1308,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
