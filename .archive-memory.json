@@ -6947,14 +6947,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785365989.812501
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785366256.597581
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1404,
-    "total_planned": 18,
+    "total_completed": 1405,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
