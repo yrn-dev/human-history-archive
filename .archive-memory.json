@@ -5547,14 +5547,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785301985.5426595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785302255.5956721
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1124,
-    "total_planned": 14,
+    "total_completed": 1125,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
