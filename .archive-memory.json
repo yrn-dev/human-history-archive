@@ -6427,14 +6427,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785341900.3395731
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785342184.2540774
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1300,
-    "total_planned": 51,
+    "total_completed": 1301,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
