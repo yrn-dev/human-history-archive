@@ -5187,14 +5187,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785285663.5707328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785285926.5013032
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1052,
-    "total_planned": 15,
+    "total_completed": 1053,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
