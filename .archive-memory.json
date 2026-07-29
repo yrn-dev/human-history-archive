@@ -6592,14 +6592,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785349976.019524
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785350182.4367375
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1333,
-    "total_planned": 18,
+    "total_completed": 1334,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
