@@ -6647,14 +6647,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785352779.0811899
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785353141.145468
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1344,
-    "total_planned": 7,
+    "total_completed": 1345,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
