@@ -5927,14 +5927,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785319004.4586685
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785319190.8021367
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1200,
-    "total_planned": 9,
+    "total_completed": 1201,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
