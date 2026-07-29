@@ -6552,14 +6552,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785347915.651701
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785348192.0612216
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1325,
-    "total_planned": 26,
+    "total_completed": 1326,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
