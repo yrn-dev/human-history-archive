@@ -6217,14 +6217,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785332486.9036143
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785332626.1300943
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1258,
-    "total_planned": 22,
+    "total_completed": 1259,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
