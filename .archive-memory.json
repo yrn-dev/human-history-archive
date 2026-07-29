@@ -5332,14 +5332,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785291471.1618478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785291775.9840114
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1081,
-    "total_planned": 57,
+    "total_completed": 1082,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
