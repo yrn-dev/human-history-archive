@@ -6882,14 +6882,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785363392.4296813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785363631.5508792
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1391,
-    "total_planned": 31,
+    "total_completed": 1392,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
