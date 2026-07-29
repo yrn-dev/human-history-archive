@@ -6027,14 +6027,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785323713.7228172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785323980.7611668
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1220,
-    "total_planned": 60,
+    "total_completed": 1221,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
