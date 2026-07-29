@@ -6072,14 +6072,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785325518.0296507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785325829.261837
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1229,
-    "total_planned": 51,
+    "total_completed": 1230,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
