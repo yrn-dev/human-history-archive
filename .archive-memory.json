@@ -5252,14 +5252,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785288474.1278665
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785288645.9925876
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1065,
-    "total_planned": 2,
+    "total_completed": 1066,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
