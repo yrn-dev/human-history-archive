@@ -6307,14 +6307,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785336572.0717251
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785336845.225632
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1276,
-    "total_planned": 4,
+    "total_completed": 1277,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
