@@ -5812,14 +5812,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785313735.1024423
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785313985.8047514
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1177,
-    "total_planned": 32,
+    "total_completed": 1178,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
