@@ -5242,14 +5242,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785288174.4350326
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785288316.6887002
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1063,
-    "total_planned": 4,
+    "total_completed": 1064,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
