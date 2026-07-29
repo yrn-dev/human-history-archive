@@ -6627,14 +6627,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785351676.7827573
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785351890.0538926
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1340,
-    "total_planned": 11,
+    "total_completed": 1341,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
