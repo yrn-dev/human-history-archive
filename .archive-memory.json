@@ -6467,14 +6467,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785343774.8696918
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785344010.8899891
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1308,
-    "total_planned": 43,
+    "total_completed": 1309,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
