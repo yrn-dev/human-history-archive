@@ -5712,14 +5712,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785309175.9362166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785309313.8103526
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1157,
-    "total_planned": 52,
+    "total_completed": 1158,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
