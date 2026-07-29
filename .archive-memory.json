@@ -5677,14 +5677,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785307645.1495442
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785307814.4100525
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1150,
-    "total_planned": 59,
+    "total_completed": 1151,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
