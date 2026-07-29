@@ -5587,14 +5587,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785304072.4200368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785304289.502201
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1132,
-    "total_planned": 6,
+    "total_completed": 1133,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
