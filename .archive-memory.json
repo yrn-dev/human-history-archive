@@ -6757,14 +6757,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785357995.8818645
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785358235.3526452
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1366,
-    "total_planned": 56,
+    "total_completed": 1367,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
