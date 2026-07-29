@@ -6597,14 +6597,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785350182.4367375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785350461.379727
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1334,
-    "total_planned": 17,
+    "total_completed": 1335,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
