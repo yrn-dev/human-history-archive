@@ -5662,14 +5662,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785307030.130356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785307181.6433647
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1147,
-    "total_planned": 62,
+    "total_completed": 1148,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
