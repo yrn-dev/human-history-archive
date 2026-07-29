@@ -5872,14 +5872,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785316401.678598
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785316580.2577455
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1189,
-    "total_planned": 20,
+    "total_completed": 1190,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
