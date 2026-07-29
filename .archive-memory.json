@@ -6642,14 +6642,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785352547.7311232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785352779.0811899
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1343,
-    "total_planned": 8,
+    "total_completed": 1344,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
