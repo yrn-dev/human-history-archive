@@ -6057,14 +6057,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785324894.145599
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785325177.4529288
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1226,
-    "total_planned": 54,
+    "total_completed": 1227,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
