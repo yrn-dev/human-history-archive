@@ -5307,14 +5307,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785290536.4281094
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785290776.158011
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1076,
-    "total_planned": 62,
+    "total_completed": 1077,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
