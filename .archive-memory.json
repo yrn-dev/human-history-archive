@@ -5632,14 +5632,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785305773.6194582
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785305997.2276
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1141,
-    "total_planned": 68,
+    "total_completed": 1142,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
