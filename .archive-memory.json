@@ -5462,14 +5462,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785297815.9240744
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785297963.3699386
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1107,
-    "total_planned": 31,
+    "total_completed": 1108,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
