@@ -5862,14 +5862,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785316017.699514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785316176.1559548
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1187,
-    "total_planned": 22,
+    "total_completed": 1188,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
