@@ -6172,14 +6172,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785330271.5250957
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785330521.8013616
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1249,
-    "total_planned": 31,
+    "total_completed": 1250,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
