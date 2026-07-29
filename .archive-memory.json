@@ -6847,14 +6847,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785361945.2514622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785362124.748508
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1384,
-    "total_planned": 38,
+    "total_completed": 1385,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
