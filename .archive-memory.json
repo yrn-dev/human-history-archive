@@ -5502,14 +5502,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785299746.619216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785300024.962865
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1115,
-    "total_planned": 23,
+    "total_completed": 1116,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
