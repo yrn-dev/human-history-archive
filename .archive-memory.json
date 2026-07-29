@@ -6472,14 +6472,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785344010.8899891
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785344211.109973
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1309,
-    "total_planned": 42,
+    "total_completed": 1310,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
