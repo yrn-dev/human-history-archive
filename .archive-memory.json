@@ -5627,14 +5627,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785305610.342377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785305773.6194582
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1140,
-    "total_planned": 69,
+    "total_completed": 1141,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
