@@ -6097,14 +6097,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785326732.306337
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785326952.5190823
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1234,
-    "total_planned": 46,
+    "total_completed": 1235,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
