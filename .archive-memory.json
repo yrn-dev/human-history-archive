@@ -6422,14 +6422,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785341731.8267083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785341900.3395731
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1299,
-    "total_planned": 52,
+    "total_completed": 1300,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
