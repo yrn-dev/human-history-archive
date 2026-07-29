@@ -6657,14 +6657,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785353497.0523202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785353699.5409436
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1346,
-    "total_planned": 5,
+    "total_completed": 1347,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
