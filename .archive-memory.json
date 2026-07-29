@@ -5442,14 +5442,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785296888.1679575
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785297110.2028308
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1103,
-    "total_planned": 35,
+    "total_completed": 1104,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
