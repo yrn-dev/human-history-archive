@@ -6777,14 +6777,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785358853.298577
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785358998.58846
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1370,
-    "total_planned": 52,
+    "total_completed": 1371,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
