@@ -6292,14 +6292,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785335743.4811826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785335947.8838258
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1273,
-    "total_planned": 7,
+    "total_completed": 1274,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
