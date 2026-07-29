@@ -6662,14 +6662,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785353699.5409436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785353927.7732253
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1347,
-    "total_planned": 4,
+    "total_completed": 1348,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
