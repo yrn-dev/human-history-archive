@@ -6572,14 +6572,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785349086.5822344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785349387.2939887
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1329,
-    "total_planned": 22,
+    "total_completed": 1330,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
