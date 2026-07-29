@@ -7007,14 +7007,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785368420.0543864
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785368676.6448762
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1416,
-    "total_planned": 6,
+    "total_completed": 1417,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
