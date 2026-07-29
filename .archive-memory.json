@@ -5772,14 +5772,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785311907.3605177
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785312219.8325028
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1169,
-    "total_planned": 40,
+    "total_completed": 1170,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
