@@ -6537,14 +6537,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785347003.0236187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785347316.116118
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1322,
-    "total_planned": 29,
+    "total_completed": 1323,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
