@@ -5822,14 +5822,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785314227.2402918
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785314476.434368
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1179,
-    "total_planned": 30,
+    "total_completed": 1180,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
