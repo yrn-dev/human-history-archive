@@ -6087,14 +6087,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785326288.9440475
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785326521.1346538
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1232,
-    "total_planned": 48,
+    "total_completed": 1233,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
