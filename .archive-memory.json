@@ -6502,14 +6502,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785345370.385387
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785345536.8136714
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1315,
-    "total_planned": 36,
+    "total_completed": 1316,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
