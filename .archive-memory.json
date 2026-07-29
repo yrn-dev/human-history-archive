@@ -6142,14 +6142,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785328828.0097938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785329062.1760123
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1243,
-    "total_planned": 37,
+    "total_completed": 1244,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
