@@ -5417,14 +5417,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785295643.0223296
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785295950.9533281
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1098,
-    "total_planned": 40,
+    "total_completed": 1099,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
