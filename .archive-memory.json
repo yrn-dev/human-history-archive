@@ -6162,14 +6162,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785329853.2473006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785330005.1066844
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1247,
-    "total_planned": 33,
+    "total_completed": 1248,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
