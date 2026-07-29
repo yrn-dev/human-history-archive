@@ -5362,14 +5362,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785293015.0302403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785293322.9316342
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1087,
-    "total_planned": 51,
+    "total_completed": 1088,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
