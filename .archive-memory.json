@@ -6132,14 +6132,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785328360.3259192
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785328548.8286698
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1241,
-    "total_planned": 39,
+    "total_completed": 1242,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
