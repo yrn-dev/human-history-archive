@@ -6277,14 +6277,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785335197.4774005
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785335380.6388385
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1270,
-    "total_planned": 10,
+    "total_completed": 1271,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
