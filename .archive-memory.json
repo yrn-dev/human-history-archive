@@ -5167,14 +5167,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785284568.4145973
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785284835.2326307
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1048,
-    "total_planned": 19,
+    "total_completed": 1049,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
