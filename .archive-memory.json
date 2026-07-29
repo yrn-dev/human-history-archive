@@ -6122,14 +6122,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785327805.1391554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785328087.670084
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1239,
-    "total_planned": 41,
+    "total_completed": 1240,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
