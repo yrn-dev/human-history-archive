@@ -5202,14 +5202,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785286316.8704715
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785286593.8661387
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1055,
-    "total_planned": 12,
+    "total_completed": 1056,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
