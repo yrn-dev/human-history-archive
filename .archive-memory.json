@@ -6317,14 +6317,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785337112.5336936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785337382.4584074
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1278,
-    "total_planned": 2,
+    "total_completed": 1279,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
