@@ -5277,14 +5277,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785289258.5266027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785289427.064762
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1070,
-    "total_planned": 68,
+    "total_completed": 1071,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
