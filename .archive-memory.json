@@ -5792,14 +5792,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785312895.633064
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785313123.89107
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1173,
-    "total_planned": 36,
+    "total_completed": 1174,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
