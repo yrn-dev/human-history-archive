@@ -5767,14 +5767,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785311577.0228705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785311907.3605177
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1168,
-    "total_planned": 41,
+    "total_completed": 1169,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
