@@ -5177,14 +5177,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785285067.4846437
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785285366.422459
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1050,
-    "total_planned": 17,
+    "total_completed": 1051,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
