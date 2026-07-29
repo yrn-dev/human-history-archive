@@ -5702,14 +5702,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785308786.9532027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785309013.1292746
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1155,
-    "total_planned": 54,
+    "total_completed": 1156,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
