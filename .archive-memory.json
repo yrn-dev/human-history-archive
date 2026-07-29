@@ -5692,14 +5692,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785308269.2262123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785308488.5547018
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1153,
-    "total_planned": 56,
+    "total_completed": 1154,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
