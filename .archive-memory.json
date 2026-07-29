@@ -6667,14 +6667,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785353927.7732253
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785354115.9631813
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1348,
-    "total_planned": 3,
+    "total_completed": 1349,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
