@@ -6402,14 +6402,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785340753.4741404
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785341028.3393114
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1295,
-    "total_planned": 56,
+    "total_completed": 1296,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
