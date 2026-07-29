@@ -6732,14 +6732,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785356948.2734284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785357118.2274823
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1361,
-    "total_planned": 61,
+    "total_completed": 1362,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
