@@ -6187,14 +6187,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785330936.0296552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785331143.006694
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1252,
-    "total_planned": 28,
+    "total_completed": 1253,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
