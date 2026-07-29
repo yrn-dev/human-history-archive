@@ -6192,14 +6192,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785331143.006694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785331488.5153093
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1253,
-    "total_planned": 27,
+    "total_completed": 1254,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
