@@ -5382,14 +5382,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785294011.6785007
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785294201.2907274
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1091,
-    "total_planned": 47,
+    "total_completed": 1092,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
