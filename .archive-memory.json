@@ -5137,14 +5137,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785283210.8705902
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785283465.1969225
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1042,
-    "total_planned": 25,
+    "total_completed": 1043,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
