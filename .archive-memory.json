@@ -5372,14 +5372,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785293628.5333688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785293787.7329535
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1089,
-    "total_planned": 49,
+    "total_completed": 1090,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
