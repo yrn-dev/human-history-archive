@@ -6362,14 +6362,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785339183.1964355
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785339459.1478808
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1287,
-    "total_planned": 64,
+    "total_completed": 1288,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
