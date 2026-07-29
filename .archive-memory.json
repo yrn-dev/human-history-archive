@@ -7017,14 +7017,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785368870.9496176
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785368999.0895615
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1418,
-    "total_planned": 4,
+    "total_completed": 1419,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
