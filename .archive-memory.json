@@ -6492,14 +6492,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785344910.6466715
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785345145.9360726
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1313,
-    "total_planned": 38,
+    "total_completed": 1314,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
