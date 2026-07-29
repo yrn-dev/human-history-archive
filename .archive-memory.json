@@ -5422,14 +5422,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785295950.9533281
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785296195.9870477
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1099,
-    "total_planned": 39,
+    "total_completed": 1100,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
