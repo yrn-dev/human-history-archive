@@ -5292,14 +5292,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785289848.6803775
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785290068.4390154
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1073,
-    "total_planned": 65,
+    "total_completed": 1074,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
