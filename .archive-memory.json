@@ -6022,14 +6022,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785323499.9262567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785323713.7228172
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1219,
-    "total_planned": 61,
+    "total_completed": 1220,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
