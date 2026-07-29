@@ -5507,14 +5507,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785300024.962865
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785300336.0215542
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1116,
-    "total_planned": 22,
+    "total_completed": 1117,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
