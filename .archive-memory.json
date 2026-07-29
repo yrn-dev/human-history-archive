@@ -6397,14 +6397,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785340588.306796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785340753.4741404
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1294,
-    "total_planned": 57,
+    "total_completed": 1295,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
