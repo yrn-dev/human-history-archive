@@ -6457,14 +6457,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785343362.6900227
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785343519.0403924
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1306,
-    "total_planned": 45,
+    "total_completed": 1307,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
