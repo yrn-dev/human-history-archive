@@ -6372,14 +6372,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785339640.9113424
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785339806.7563698
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1289,
-    "total_planned": 62,
+    "total_completed": 1290,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
