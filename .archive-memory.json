@@ -6157,14 +6157,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785329543.8270843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785329853.2473006
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1246,
-    "total_planned": 34,
+    "total_completed": 1247,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
