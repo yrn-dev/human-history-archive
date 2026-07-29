@@ -6482,14 +6482,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785344521.8007376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785344748.415583
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1311,
-    "total_planned": 40,
+    "total_completed": 1312,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
