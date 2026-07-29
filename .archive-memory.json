@@ -5472,14 +5472,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785298258.8930159
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785298474.2264888
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1109,
-    "total_planned": 29,
+    "total_completed": 1110,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
