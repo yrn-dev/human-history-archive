@@ -6082,14 +6082,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785326077.6718476
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785326288.9440475
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1231,
-    "total_planned": 49,
+    "total_completed": 1232,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
