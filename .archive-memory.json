@@ -5672,14 +5672,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785307495.2285655
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785307645.1495442
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1149,
-    "total_planned": 60,
+    "total_completed": 1150,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
