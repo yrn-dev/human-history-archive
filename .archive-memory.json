@@ -5237,14 +5237,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785287889.6288936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785288174.4350326
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1062,
-    "total_planned": 5,
+    "total_completed": 1063,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
