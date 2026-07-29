@@ -5747,14 +5747,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785310832.0743954
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785311023.4209864
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1164,
-    "total_planned": 45,
+    "total_completed": 1165,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
