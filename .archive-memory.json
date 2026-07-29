@@ -5432,14 +5432,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785296481.6282332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785296655.3866415
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1101,
-    "total_planned": 37,
+    "total_completed": 1102,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
