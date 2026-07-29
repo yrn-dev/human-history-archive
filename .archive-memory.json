@@ -5352,14 +5352,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785292431.677864
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785292730.9646828
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1085,
-    "total_planned": 53,
+    "total_completed": 1086,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
