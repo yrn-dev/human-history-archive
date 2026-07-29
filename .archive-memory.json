@@ -5977,14 +5977,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785321279.887632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785321539.4957583
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1210,
-    "total_planned": 70,
+    "total_completed": 1211,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
