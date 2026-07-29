@@ -5897,14 +5897,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785317360.8545961
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785317647.951374
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1194,
-    "total_planned": 15,
+    "total_completed": 1195,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
