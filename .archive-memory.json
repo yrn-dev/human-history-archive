@@ -5572,14 +5572,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785303302.6224043
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785303549.9364038
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1129,
-    "total_planned": 9,
+    "total_completed": 1130,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
