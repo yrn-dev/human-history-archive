@@ -6377,14 +6377,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785339806.7563698
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
-      "variation": true
-    },
+      "timestamp": 1785339954.791286
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1290,
-    "total_planned": 61,
+    "total_completed": 1291,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
