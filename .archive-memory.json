@@ -5192,14 +5192,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785285926.5013032
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785286153.5384748
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1053,
-    "total_planned": 14,
+    "total_completed": 1054,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
