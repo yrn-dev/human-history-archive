@@ -5257,18 +5257,17 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785288645.9925876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
+      "timestamp": 1785288809.725301
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1066,
-    "total_planned": 1,
+    "total_completed": 1067,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
