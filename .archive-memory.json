@@ -5667,14 +5667,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785307181.6433647
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785307495.2285655
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1148,
-    "total_planned": 61,
+    "total_completed": 1149,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
