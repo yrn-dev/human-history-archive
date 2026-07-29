@@ -5857,14 +5857,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785315865.0639522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785316017.699514
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1186,
-    "total_planned": 23,
+    "total_completed": 1187,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
