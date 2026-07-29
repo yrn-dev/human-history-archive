@@ -5522,14 +5522,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785300812.8713994
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785301106.7903621
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1119,
-    "total_planned": 19,
+    "total_completed": 1120,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
