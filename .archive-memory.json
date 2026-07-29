@@ -6767,14 +6767,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785358425.8260393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785358714.0903747
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1368,
-    "total_planned": 54,
+    "total_completed": 1369,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
