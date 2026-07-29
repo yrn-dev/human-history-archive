@@ -5567,14 +5567,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785303018.477651
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785303302.6224043
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1128,
-    "total_planned": 10,
+    "total_completed": 1129,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
