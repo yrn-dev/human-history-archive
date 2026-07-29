@@ -6532,14 +6532,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785346766.5820334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785347003.0236187
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1321,
-    "total_planned": 30,
+    "total_completed": 1322,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
