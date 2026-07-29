@@ -6207,14 +6207,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785332011.5348608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785332211.1036048
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -6332,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1256,
-    "total_planned": 24,
+    "total_completed": 1257,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
