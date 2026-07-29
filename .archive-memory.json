@@ -6982,14 +6982,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785367528.5713978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785367677.0669596
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1411,
-    "total_planned": 11,
+    "total_completed": 1412,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
