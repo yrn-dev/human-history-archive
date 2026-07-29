@@ -5562,14 +5562,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785302708.113384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785303018.477651
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1127,
-    "total_planned": 11,
+    "total_completed": 1128,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
