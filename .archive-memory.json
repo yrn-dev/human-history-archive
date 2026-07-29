@@ -6512,14 +6512,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785345853.2740529
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785346100.5581102
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1317,
-    "total_planned": 34,
+    "total_completed": 1318,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
