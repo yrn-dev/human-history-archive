@@ -5407,14 +5407,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785295034.276119
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785295334.619081
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1096,
-    "total_planned": 42,
+    "total_completed": 1097,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
