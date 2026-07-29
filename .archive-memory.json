@@ -5487,14 +5487,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785299017.0105577
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785299199.1423426
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1112,
-    "total_planned": 26,
+    "total_completed": 1113,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
