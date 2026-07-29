@@ -6692,14 +6692,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785355157.8481684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785355346.2951143
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1353,
-    "total_planned": 69,
+    "total_completed": 1354,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
