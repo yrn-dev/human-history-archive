@@ -5357,14 +5357,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785292730.9646828
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785293015.0302403
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -5622,8 +5622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1086,
-    "total_planned": 52,
+    "total_completed": 1087,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
