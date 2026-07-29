@@ -7022,14 +7022,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785368999.0895615
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785369251.2984264
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1419,
-    "total_planned": 3,
+    "total_completed": 1420,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
