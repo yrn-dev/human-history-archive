@@ -6807,14 +6807,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785360281.0946891
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785360518.0718508
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1376,
-    "total_planned": 46,
+    "total_completed": 1377,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
