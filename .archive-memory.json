@@ -5717,14 +5717,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785309313.8103526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785309629.680199
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1158,
-    "total_planned": 51,
+    "total_completed": 1159,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
