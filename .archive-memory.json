@@ -6387,14 +6387,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785340216.9804277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785340447.6727545
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1292,
-    "total_planned": 59,
+    "total_completed": 1293,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
