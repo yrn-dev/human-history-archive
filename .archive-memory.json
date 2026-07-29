@@ -6802,14 +6802,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785360029.7091267
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785360281.0946891
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1375,
-    "total_planned": 47,
+    "total_completed": 1376,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
