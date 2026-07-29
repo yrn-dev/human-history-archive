@@ -6432,14 +6432,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785342184.2540774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785342461.8478663
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1301,
-    "total_planned": 50,
+    "total_completed": 1302,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
