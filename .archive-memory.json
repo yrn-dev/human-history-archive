@@ -5227,14 +5227,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785287505.8969553
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785287690.7230825
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -5267,8 +5267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1060,
-    "total_planned": 7,
+    "total_completed": 1061,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
