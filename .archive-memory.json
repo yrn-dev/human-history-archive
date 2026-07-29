@@ -6652,14 +6652,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785353141.145468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785353497.0523202
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -6687,8 +6687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1345,
-    "total_planned": 6,
+    "total_completed": 1346,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
