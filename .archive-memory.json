@@ -5852,14 +5852,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785315621.4885466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785315865.0639522
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -5977,8 +5977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1185,
-    "total_planned": 24,
+    "total_completed": 1186,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
