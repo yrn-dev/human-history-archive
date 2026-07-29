@@ -6887,14 +6887,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785363631.5508792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785363819.015331
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -7042,8 +7042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1392,
-    "total_planned": 30,
+    "total_completed": 1393,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
