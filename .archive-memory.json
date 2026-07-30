@@ -8707,14 +8707,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785447640.5740917
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785447888.1373312
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1756,
-    "total_planned": 21,
+    "total_completed": 1757,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
