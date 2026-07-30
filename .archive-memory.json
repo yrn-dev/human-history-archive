@@ -7347,14 +7347,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785383923.2875962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785384093.3901706
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1484,
-    "total_planned": 9,
+    "total_completed": 1485,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
