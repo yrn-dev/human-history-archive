@@ -8127,14 +8127,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785421361.810296
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785421655.0266118
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1640,
-    "total_planned": 66,
+    "total_completed": 1641,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
