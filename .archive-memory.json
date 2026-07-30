@@ -8262,14 +8262,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785427703.044671
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785427922.016609
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1667,
-    "total_planned": 39,
+    "total_completed": 1668,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
