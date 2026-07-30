@@ -8617,14 +8617,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785443612.7953823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785443883.6254637
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1738,
-    "total_planned": 39,
+    "total_completed": 1739,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
