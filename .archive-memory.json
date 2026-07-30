@@ -8407,14 +8407,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785434510.3698034
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785434762.5094013
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1696,
-    "total_planned": 10,
+    "total_completed": 1697,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
