@@ -7547,14 +7547,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785392503.5565176
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785392688.7808943
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1524,
-    "total_planned": 40,
+    "total_completed": 1525,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
