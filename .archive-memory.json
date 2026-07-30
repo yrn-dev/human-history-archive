@@ -7042,14 +7042,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785370001.7737474
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785370264.0129995
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1423,
-    "total_planned": 70,
+    "total_completed": 1424,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
