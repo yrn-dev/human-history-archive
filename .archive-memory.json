@@ -8172,14 +8172,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785423464.522603
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785423647.8846385
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1649,
-    "total_planned": 57,
+    "total_completed": 1650,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
