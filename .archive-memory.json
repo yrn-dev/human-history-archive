@@ -8577,14 +8577,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785441900.8538375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785442064.1634667
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1730,
-    "total_planned": 47,
+    "total_completed": 1731,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
