@@ -7287,14 +7287,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785381115.1260428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785381397.3011265
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1472,
-    "total_planned": 21,
+    "total_completed": 1473,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
