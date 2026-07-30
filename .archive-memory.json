@@ -8037,14 +8037,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785416795.219125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785417003.5360477
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1622,
-    "total_planned": 13,
+    "total_completed": 1623,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
