@@ -7687,14 +7687,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785398722.9652436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785398944.3268337
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1552,
-    "total_planned": 12,
+    "total_completed": 1553,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
