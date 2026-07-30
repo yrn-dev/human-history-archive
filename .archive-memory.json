@@ -7497,14 +7497,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785390326.4688842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785390504.6543243
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1514,
-    "total_planned": 50,
+    "total_completed": 1515,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
