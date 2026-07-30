@@ -8757,14 +8757,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785449984.544103
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785450213.3708909
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1766,
-    "total_planned": 11,
+    "total_completed": 1767,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
