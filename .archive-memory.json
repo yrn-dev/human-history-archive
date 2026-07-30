@@ -8827,14 +8827,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785453195.09586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785453359.9594922
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1780,
-    "total_planned": 68,
+    "total_completed": 1781,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
