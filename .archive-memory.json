@@ -8712,14 +8712,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785447888.1373312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785448206.3986201
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1757,
-    "total_planned": 20,
+    "total_completed": 1758,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
