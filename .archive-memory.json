@@ -7527,14 +7527,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785391651.3366916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785391911.5746677
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1520,
-    "total_planned": 44,
+    "total_completed": 1521,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
