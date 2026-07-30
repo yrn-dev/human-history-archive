@@ -8657,14 +8657,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785445390.3689666
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785445582.3718786
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1746,
-    "total_planned": 31,
+    "total_completed": 1747,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
