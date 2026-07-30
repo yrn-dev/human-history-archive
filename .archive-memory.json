@@ -8402,14 +8402,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785434343.540445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785434510.3698034
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1695,
-    "total_planned": 11,
+    "total_completed": 1696,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
