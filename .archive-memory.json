@@ -8082,14 +8082,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785419075.4878213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785419285.626076
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1631,
-    "total_planned": 4,
+    "total_completed": 1632,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
