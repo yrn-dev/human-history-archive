@@ -7887,14 +7887,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785407504.5267208
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785407779.8693612
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1592,
-    "total_planned": 43,
+    "total_completed": 1593,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
