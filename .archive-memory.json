@@ -8592,14 +8592,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785442422.4781911
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785442568.1815326
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1733,
-    "total_planned": 44,
+    "total_completed": 1734,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
