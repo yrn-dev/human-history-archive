@@ -7742,18 +7742,17 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785401185.9029038
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
+      "timestamp": 1785401429.4077227
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1563,
-    "total_planned": 1,
+    "total_completed": 1564,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
