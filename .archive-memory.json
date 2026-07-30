@@ -7352,14 +7352,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785384093.3901706
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785384364.6433308
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1485,
-    "total_planned": 8,
+    "total_completed": 1486,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
