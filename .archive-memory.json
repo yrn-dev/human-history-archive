@@ -7112,14 +7112,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785373234.6560214
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785373479.7175875
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1437,
-    "total_planned": 56,
+    "total_completed": 1438,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
