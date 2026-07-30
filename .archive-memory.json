@@ -7922,14 +7922,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785409353.7257285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785409948.2003264
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1599,
-    "total_planned": 36,
+    "total_completed": 1600,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
