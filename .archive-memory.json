@@ -7862,14 +7862,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785406364.9777474
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785406509.8950963
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1587,
-    "total_planned": 48,
+    "total_completed": 1588,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
