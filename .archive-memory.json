@@ -7337,14 +7337,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785383375.7440033
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785383658.1289766
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1482,
-    "total_planned": 11,
+    "total_completed": 1483,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
