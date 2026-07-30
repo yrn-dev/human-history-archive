@@ -7197,14 +7197,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785377059.779191
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785377285.0697417
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1454,
-    "total_planned": 39,
+    "total_completed": 1455,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
