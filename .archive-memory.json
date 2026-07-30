@@ -7087,14 +7087,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785372292.639894
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785372500.00092
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1432,
-    "total_planned": 61,
+    "total_completed": 1433,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
