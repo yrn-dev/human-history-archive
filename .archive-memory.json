@@ -7387,18 +7387,17 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785385698.2317145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
+      "timestamp": 1785385942.4721277
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1492,
-    "total_planned": 1,
+    "total_completed": 1493,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
