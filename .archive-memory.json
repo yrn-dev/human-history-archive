@@ -8522,14 +8522,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785439579.3023186
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785439782.369511
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1719,
-    "total_planned": 58,
+    "total_completed": 1720,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
