@@ -8237,14 +8237,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785426545.967414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785426816.2214727
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1662,
-    "total_planned": 44,
+    "total_completed": 1663,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
