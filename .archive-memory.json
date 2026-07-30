@@ -7212,14 +7212,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785377802.307452
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785378056.5203152
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1457,
-    "total_planned": 36,
+    "total_completed": 1458,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
