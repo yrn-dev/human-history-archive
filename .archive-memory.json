@@ -8842,14 +8842,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785453770.6268833
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785453987.2181213
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1783,
-    "total_planned": 65,
+    "total_completed": 1784,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
