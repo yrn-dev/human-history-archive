@@ -7562,14 +7562,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785393213.7647076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785393473.0080054
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1527,
-    "total_planned": 37,
+    "total_completed": 1528,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
