@@ -8437,14 +8437,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785435927.8283463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785436080.7687476
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1702,
-    "total_planned": 4,
+    "total_completed": 1703,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
