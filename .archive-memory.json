@@ -7222,14 +7222,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785378241.7541265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785378514.2843368
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1459,
-    "total_planned": 34,
+    "total_completed": 1460,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
