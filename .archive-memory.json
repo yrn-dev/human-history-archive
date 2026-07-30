@@ -8162,14 +8162,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785422967.625173
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785423206.3431518
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1647,
-    "total_planned": 59,
+    "total_completed": 1648,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
