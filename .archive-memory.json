@@ -8797,14 +8797,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785451684.0662954
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785451919.655525
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1774,
-    "total_planned": 3,
+    "total_completed": 1775,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
