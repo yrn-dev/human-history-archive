@@ -8177,14 +8177,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785423647.8846385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785423898.7230668
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1650,
-    "total_planned": 56,
+    "total_completed": 1651,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
