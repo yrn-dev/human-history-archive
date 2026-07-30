@@ -7967,14 +7967,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785413120.6680868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785413474.4134746
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1608,
-    "total_planned": 27,
+    "total_completed": 1609,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
