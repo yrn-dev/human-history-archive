@@ -7282,14 +7282,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785380844.0508125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785381115.1260428
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1471,
-    "total_planned": 22,
+    "total_completed": 1472,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
