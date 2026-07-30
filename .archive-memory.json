@@ -7102,14 +7102,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785372824.2771914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785373002.4303882
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1435,
-    "total_planned": 58,
+    "total_completed": 1436,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
