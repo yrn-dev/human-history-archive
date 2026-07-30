@@ -7812,14 +7812,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785404149.958099
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785404320.3739033
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1577,
-    "total_planned": 58,
+    "total_completed": 1578,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
