@@ -7657,14 +7657,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785397382.3588486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785397612.6798463
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1546,
-    "total_planned": 18,
+    "total_completed": 1547,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
