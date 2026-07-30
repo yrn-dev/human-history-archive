@@ -7192,14 +7192,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785376903.5976827
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785377059.779191
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1453,
-    "total_planned": 40,
+    "total_completed": 1454,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
