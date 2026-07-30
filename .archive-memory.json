@@ -7407,14 +7407,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785386625.0557525
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
-    },
+      "timestamp": 1785386880.2242765
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1496,
-    "total_planned": 68,
+    "total_completed": 1497,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
