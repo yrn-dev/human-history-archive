@@ -8852,14 +8852,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785454159.6389918
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785454340.498125
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1785,
-    "total_planned": 63,
+    "total_completed": 1786,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
