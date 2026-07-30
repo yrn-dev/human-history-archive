@@ -8742,14 +8742,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785449293.268686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785449447.0687425
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1763,
-    "total_planned": 14,
+    "total_completed": 1764,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
