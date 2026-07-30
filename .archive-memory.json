@@ -7532,14 +7532,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785391911.5746677
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785392077.8673935
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1521,
-    "total_planned": 43,
+    "total_completed": 1522,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
