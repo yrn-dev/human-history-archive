@@ -7157,14 +7157,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785375322.6799223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785375623.9218504
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1446,
-    "total_planned": 47,
+    "total_completed": 1447,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
