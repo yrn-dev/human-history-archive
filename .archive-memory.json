@@ -8602,14 +8602,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785442807.117534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785443051.6249092
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1735,
-    "total_planned": 42,
+    "total_completed": 1736,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
