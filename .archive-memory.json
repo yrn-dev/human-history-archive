@@ -7457,14 +7457,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785388595.9757571
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785388819.2198002
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1506,
-    "total_planned": 58,
+    "total_completed": 1507,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
