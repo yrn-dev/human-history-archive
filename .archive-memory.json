@@ -7697,14 +7697,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785399115.4985933
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785399375.7257502
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1554,
-    "total_planned": 10,
+    "total_completed": 1555,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
