@@ -8467,14 +8467,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785437012.6164572
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785437278.9140615
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1708,
-    "total_planned": 69,
+    "total_completed": 1709,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
