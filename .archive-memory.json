@@ -8472,14 +8472,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785437278.9140615
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785437525.5984273
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1709,
-    "total_planned": 68,
+    "total_completed": 1710,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
