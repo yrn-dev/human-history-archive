@@ -8337,14 +8337,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785431356.4721315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785431517.2531502
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1682,
-    "total_planned": 24,
+    "total_completed": 1683,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
