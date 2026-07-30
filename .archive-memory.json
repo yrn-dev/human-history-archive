@@ -7822,14 +7822,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785404470.8825257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785404675.3198905
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1579,
-    "total_planned": 56,
+    "total_completed": 1580,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
