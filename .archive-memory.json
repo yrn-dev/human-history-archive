@@ -8487,14 +8487,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785437952.2753458
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785438117.9202824
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1712,
-    "total_planned": 65,
+    "total_completed": 1713,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
