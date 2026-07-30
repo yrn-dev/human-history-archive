@@ -7767,14 +7767,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785402109.6287246
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785402311.4808471
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1568,
-    "total_planned": 67,
+    "total_completed": 1569,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
