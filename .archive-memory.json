@@ -8132,14 +8132,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785421655.0266118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785421922.945974
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1641,
-    "total_planned": 65,
+    "total_completed": 1642,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
