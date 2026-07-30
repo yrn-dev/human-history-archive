@@ -8247,14 +8247,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785426967.5649874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785427254.4772818
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1664,
-    "total_planned": 42,
+    "total_completed": 1665,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
