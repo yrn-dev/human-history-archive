@@ -8872,14 +8872,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785454913.2369497
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785455142.0557973
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1789,
-    "total_planned": 59,
+    "total_completed": 1790,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
