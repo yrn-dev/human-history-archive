@@ -8502,14 +8502,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785438561.0137959
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785438875.3837216
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1715,
-    "total_planned": 62,
+    "total_completed": 1716,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
