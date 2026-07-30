@@ -7857,14 +7857,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785406152.777416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785406364.9777474
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1586,
-    "total_planned": 49,
+    "total_completed": 1587,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
