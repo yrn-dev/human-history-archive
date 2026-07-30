@@ -8807,18 +8807,17 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785452183.97247
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
+      "timestamp": 1785452463.4276755
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1776,
-    "total_planned": 1,
+    "total_completed": 1777,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
