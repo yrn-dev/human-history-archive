@@ -8627,14 +8627,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785444155.039243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785444339.9341774
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1740,
-    "total_planned": 37,
+    "total_completed": 1741,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
