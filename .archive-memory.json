@@ -8232,14 +8232,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785426378.107949
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785426545.967414
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1661,
-    "total_planned": 45,
+    "total_completed": 1662,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
