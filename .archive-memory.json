@@ -7607,14 +7607,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785395379.8213813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785395552.0760653
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1536,
-    "total_planned": 28,
+    "total_completed": 1537,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
