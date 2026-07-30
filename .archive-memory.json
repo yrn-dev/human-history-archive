@@ -7582,14 +7582,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785394261.8628302
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785394491.9979203
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1531,
-    "total_planned": 33,
+    "total_completed": 1532,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
