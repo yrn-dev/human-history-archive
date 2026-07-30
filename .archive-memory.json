@@ -7602,14 +7602,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785395126.5058923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785395379.8213813
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1535,
-    "total_planned": 29,
+    "total_completed": 1536,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
