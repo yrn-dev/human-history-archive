@@ -8697,14 +8697,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785447130.7699485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785447409.439098
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1754,
-    "total_planned": 23,
+    "total_completed": 1755,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
