@@ -7702,14 +7702,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785399375.7257502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785399660.0694766
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1555,
-    "total_planned": 9,
+    "total_completed": 1556,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
