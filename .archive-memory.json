@@ -7207,14 +7207,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785377522.5186567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785377802.307452
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1456,
-    "total_planned": 37,
+    "total_completed": 1457,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
