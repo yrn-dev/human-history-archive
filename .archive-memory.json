@@ -8227,14 +8227,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785426079.6569457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785426378.107949
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1660,
-    "total_planned": 46,
+    "total_completed": 1661,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
