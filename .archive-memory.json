@@ -8287,14 +8287,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785428849.8381515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785429085.30741
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1672,
-    "total_planned": 34,
+    "total_completed": 1673,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
