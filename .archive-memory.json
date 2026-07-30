@@ -8662,14 +8662,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785445582.3718786
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785445828.8548167
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1747,
-    "total_planned": 30,
+    "total_completed": 1748,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
