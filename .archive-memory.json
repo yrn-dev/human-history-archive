@@ -7777,14 +7777,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785402537.7811725
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785402819.46241
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1570,
-    "total_planned": 65,
+    "total_completed": 1571,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
