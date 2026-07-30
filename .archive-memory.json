@@ -8057,14 +8057,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785417834.660011
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785418079.544508
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1626,
-    "total_planned": 9,
+    "total_completed": 1627,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
