@@ -7892,14 +7892,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785407779.8693612
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785408036.7624545
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1593,
-    "total_planned": 42,
+    "total_completed": 1594,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
