@@ -8392,14 +8392,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785433849.3321276
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785434120.4296758
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1693,
-    "total_planned": 13,
+    "total_completed": 1694,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
