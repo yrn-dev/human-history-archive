@@ -7847,14 +7847,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785405656.7725341
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785405922.7133346
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1584,
-    "total_planned": 51,
+    "total_completed": 1585,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
