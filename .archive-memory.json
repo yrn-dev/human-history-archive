@@ -8077,14 +8077,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785418795.1925464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785419075.4878213
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1630,
-    "total_planned": 5,
+    "total_completed": 1631,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
