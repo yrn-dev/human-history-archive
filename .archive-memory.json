@@ -8632,14 +8632,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785444339.9341774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785444647.9653175
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1741,
-    "total_planned": 36,
+    "total_completed": 1742,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
