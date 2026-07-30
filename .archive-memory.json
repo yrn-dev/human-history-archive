@@ -8047,14 +8047,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785417299.060526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785417608.9531722
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1624,
-    "total_planned": 11,
+    "total_completed": 1625,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
