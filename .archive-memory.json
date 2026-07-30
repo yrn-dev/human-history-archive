@@ -7897,14 +7897,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785408036.7624545
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785408218.891382
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1594,
-    "total_planned": 41,
+    "total_completed": 1595,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
