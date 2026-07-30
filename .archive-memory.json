@@ -8242,14 +8242,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785426816.2214727
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785426967.5649874
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1663,
-    "total_planned": 43,
+    "total_completed": 1664,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
