@@ -7427,14 +7427,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785387364.8023741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785387608.4705932
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1500,
-    "total_planned": 64,
+    "total_completed": 1501,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
