@@ -7842,14 +7842,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785405421.8168523
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785405656.7725341
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1583,
-    "total_planned": 52,
+    "total_completed": 1584,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
