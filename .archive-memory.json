@@ -8002,14 +8002,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785414871.2675629
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785415079.5980966
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1615,
-    "total_planned": 20,
+    "total_completed": 1616,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
