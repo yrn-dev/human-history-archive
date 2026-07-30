@@ -8477,14 +8477,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785437525.5984273
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785437777.3149319
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1710,
-    "total_planned": 67,
+    "total_completed": 1711,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
