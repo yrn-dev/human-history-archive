@@ -7477,14 +7477,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785389494.1267552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785389725.415669
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1510,
-    "total_planned": 54,
+    "total_completed": 1511,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
