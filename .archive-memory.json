@@ -8862,14 +8862,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785454501.06574
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785454708.7319736
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1787,
-    "total_planned": 61,
+    "total_completed": 1788,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
