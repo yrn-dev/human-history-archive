@@ -7592,14 +7592,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785394756.353184
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785394991.2448943
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1533,
-    "total_planned": 31,
+    "total_completed": 1534,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
