@@ -7617,14 +7617,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785395708.416101
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785395876.908626
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1538,
-    "total_planned": 26,
+    "total_completed": 1539,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
