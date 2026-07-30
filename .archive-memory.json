@@ -7867,14 +7867,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785406509.8950963
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785406775.817081
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1588,
-    "total_planned": 47,
+    "total_completed": 1589,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
