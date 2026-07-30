@@ -7412,14 +7412,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
       "timestamp": 1785386880.2242765
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785387077.474547
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1497,
-    "total_planned": 67,
+    "total_completed": 1498,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
