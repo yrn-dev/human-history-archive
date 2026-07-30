@@ -7982,14 +7982,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785414071.5679564
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785414219.6904233
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1611,
-    "total_planned": 24,
+    "total_completed": 1612,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
