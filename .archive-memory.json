@@ -7132,14 +7132,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785374033.4385943
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785374280.5032563
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1441,
-    "total_planned": 52,
+    "total_completed": 1442,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
