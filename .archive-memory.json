@@ -8422,14 +8422,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785435127.089764
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785435430.0926502
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1699,
-    "total_planned": 7,
+    "total_completed": 1700,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
