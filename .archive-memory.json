@@ -8142,14 +8142,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785422120.8612392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785422397.5965645
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1643,
-    "total_planned": 63,
+    "total_completed": 1644,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
