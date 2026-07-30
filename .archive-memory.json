@@ -7202,14 +7202,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785377285.0697417
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785377522.5186567
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1455,
-    "total_planned": 38,
+    "total_completed": 1456,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
