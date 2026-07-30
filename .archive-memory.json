@@ -7492,14 +7492,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785390099.8388636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
-      "variation": true
-    },
+      "timestamp": 1785390326.4688842
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1513,
-    "total_planned": 51,
+    "total_completed": 1514,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
