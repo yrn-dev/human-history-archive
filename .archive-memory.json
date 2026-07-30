@@ -7852,14 +7852,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785405922.7133346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785406152.777416
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1585,
-    "total_planned": 50,
+    "total_completed": 1586,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
