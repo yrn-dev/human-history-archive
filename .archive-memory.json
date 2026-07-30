@@ -7902,14 +7902,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785408218.891382
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785408548.114884
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1595,
-    "total_planned": 40,
+    "total_completed": 1596,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
