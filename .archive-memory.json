@@ -8147,14 +8147,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
       "timestamp": 1785422397.5965645
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785422591.9916856
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1644,
-    "total_planned": 62,
+    "total_completed": 1645,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
