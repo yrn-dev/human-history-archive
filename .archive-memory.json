@@ -8367,14 +8367,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785432708.7303224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785433010.6041956
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1688,
-    "total_planned": 18,
+    "total_completed": 1689,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
