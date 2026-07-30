@@ -8167,14 +8167,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785423206.3431518
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785423464.522603
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1648,
-    "total_planned": 58,
+    "total_completed": 1649,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
