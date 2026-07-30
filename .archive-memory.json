@@ -8767,14 +8767,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785450353.72198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785450569.9954271
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1768,
-    "total_planned": 9,
+    "total_completed": 1769,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
