@@ -7077,14 +7077,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785371900.313097
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785372168.4432003
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1430,
-    "total_planned": 63,
+    "total_completed": 1431,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
