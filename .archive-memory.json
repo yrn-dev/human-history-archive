@@ -8362,14 +8362,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785432465.3749778
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785432708.7303224
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1687,
-    "total_planned": 19,
+    "total_completed": 1688,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
