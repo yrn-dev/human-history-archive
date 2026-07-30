@@ -7932,14 +7932,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785410570.7028859
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785411064.6091828
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1601,
-    "total_planned": 34,
+    "total_completed": 1602,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
