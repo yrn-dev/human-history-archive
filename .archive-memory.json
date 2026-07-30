@@ -7987,14 +7987,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785414219.6904233
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785414486.626919
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1612,
-    "total_planned": 23,
+    "total_completed": 1613,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
