@@ -7567,14 +7567,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785393473.0080054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785393733.1863205
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1528,
-    "total_planned": 36,
+    "total_completed": 1529,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
