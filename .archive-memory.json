@@ -7957,14 +7957,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785412475.8713639
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785412796.4611669
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1606,
-    "total_planned": 29,
+    "total_completed": 1607,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
