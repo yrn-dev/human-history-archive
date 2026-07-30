@@ -7802,14 +7802,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785403821.0827093
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785403982.8517168
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1575,
-    "total_planned": 60,
+    "total_completed": 1576,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
