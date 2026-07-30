@@ -7927,14 +7927,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785409948.2003264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785410570.7028859
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1600,
-    "total_planned": 35,
+    "total_completed": 1601,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
