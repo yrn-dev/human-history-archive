@@ -7237,14 +7237,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785379024.5670984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785379202.7378347
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1462,
-    "total_planned": 31,
+    "total_completed": 1463,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
