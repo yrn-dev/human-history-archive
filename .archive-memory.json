@@ -7242,14 +7242,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785379202.7378347
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785379344.8419962
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1463,
-    "total_planned": 30,
+    "total_completed": 1464,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
