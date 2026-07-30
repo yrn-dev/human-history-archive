@@ -8482,14 +8482,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785437777.3149319
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785437952.2753458
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1711,
-    "total_planned": 66,
+    "total_completed": 1712,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
