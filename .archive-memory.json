@@ -8667,14 +8667,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785445828.8548167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785446104.7474594
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1748,
-    "total_planned": 29,
+    "total_completed": 1749,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
