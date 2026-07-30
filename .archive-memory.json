@@ -8332,14 +8332,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785431136.8910694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785431356.4721315
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1681,
-    "total_planned": 25,
+    "total_completed": 1682,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
