@@ -7187,14 +7187,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785376734.5012867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785376903.5976827
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1452,
-    "total_planned": 41,
+    "total_completed": 1453,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
