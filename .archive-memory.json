@@ -7737,14 +7737,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785400883.970229
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785401185.9029038
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1562,
-    "total_planned": 2,
+    "total_completed": 1563,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
