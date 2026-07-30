@@ -8017,14 +8017,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785415642.2402773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785415948.2621014
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1618,
-    "total_planned": 17,
+    "total_completed": 1619,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
