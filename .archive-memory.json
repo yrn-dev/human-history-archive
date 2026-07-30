@@ -7942,14 +7942,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785411383.0514672
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785411619.3510225
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1603,
-    "total_planned": 32,
+    "total_completed": 1604,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
