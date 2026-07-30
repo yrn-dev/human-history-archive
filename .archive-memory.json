@@ -7692,14 +7692,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785398944.3268337
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785399115.4985933
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1553,
-    "total_planned": 11,
+    "total_completed": 1554,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
