@@ -7462,14 +7462,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785388819.2198002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785388957.4765358
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1507,
-    "total_planned": 57,
+    "total_completed": 1508,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
