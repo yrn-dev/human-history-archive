@@ -7677,14 +7677,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785398310.4520187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785398456.6633034
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1550,
-    "total_planned": 14,
+    "total_completed": 1551,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
