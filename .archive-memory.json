@@ -8527,14 +8527,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785439782.369511
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785439973.4545417
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1720,
-    "total_planned": 57,
+    "total_completed": 1721,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
