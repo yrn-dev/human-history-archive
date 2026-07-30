@@ -8302,14 +8302,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785429510.26439
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785429762.6591182
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1675,
-    "total_planned": 31,
+    "total_completed": 1676,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
