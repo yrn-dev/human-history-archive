@@ -8052,14 +8052,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785417608.9531722
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785417834.660011
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1625,
-    "total_planned": 10,
+    "total_completed": 1626,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
