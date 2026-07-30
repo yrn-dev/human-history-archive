@@ -7117,14 +7117,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785373479.7175875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785373695.9963257
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1438,
-    "total_planned": 55,
+    "total_completed": 1439,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
