@@ -7512,14 +7512,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785390955.3155856
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785391118.7031782
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1517,
-    "total_planned": 47,
+    "total_completed": 1518,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
