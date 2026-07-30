@@ -8857,14 +8857,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785454340.498125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
-      "variation": true
-    },
+      "timestamp": 1785454501.06574
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1786,
-    "total_planned": 62,
+    "total_completed": 1787,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
