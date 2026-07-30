@@ -8432,14 +8432,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785435666.524686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785435927.8283463
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1701,
-    "total_planned": 5,
+    "total_completed": 1702,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
