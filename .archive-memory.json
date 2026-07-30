@@ -7557,14 +7557,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785392927.539884
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785393213.7647076
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1526,
-    "total_planned": 38,
+    "total_completed": 1527,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
