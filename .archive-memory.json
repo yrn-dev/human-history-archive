@@ -7302,14 +7302,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785381817.7532744
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785382058.745317
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1475,
-    "total_planned": 18,
+    "total_completed": 1476,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
