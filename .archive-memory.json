@@ -7552,14 +7552,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785392688.7808943
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785392927.539884
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1525,
-    "total_planned": 39,
+    "total_completed": 1526,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
