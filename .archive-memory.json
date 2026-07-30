@@ -7977,14 +7977,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785413791.6922705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785414071.5679564
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1610,
-    "total_planned": 25,
+    "total_completed": 1611,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
