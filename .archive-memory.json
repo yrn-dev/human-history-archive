@@ -8567,14 +8567,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785441508.0987484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785441647.9493754
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1728,
-    "total_planned": 49,
+    "total_completed": 1729,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
