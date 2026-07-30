@@ -8737,14 +8737,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785449040.2450042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785449293.268686
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1762,
-    "total_planned": 15,
+    "total_completed": 1763,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
