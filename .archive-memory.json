@@ -7662,14 +7662,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785397612.6798463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785397891.9061255
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1547,
-    "total_planned": 17,
+    "total_completed": 1548,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
