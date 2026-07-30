@@ -8107,14 +8107,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785420429.1621401
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785420694.863532
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1636,
-    "total_planned": 70,
+    "total_completed": 1637,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
