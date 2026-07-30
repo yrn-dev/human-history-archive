@@ -7147,14 +7147,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785374815.1313317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785375014.3012383
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1444,
-    "total_planned": 49,
+    "total_completed": 1445,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
