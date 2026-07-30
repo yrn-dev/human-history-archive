@@ -8607,14 +8607,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785443051.6249092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785443355.1111906
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1736,
-    "total_planned": 41,
+    "total_completed": 1737,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
