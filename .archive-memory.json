@@ -8832,14 +8832,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785453359.9594922
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785453547.4626577
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1781,
-    "total_planned": 67,
+    "total_completed": 1782,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
