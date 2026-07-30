@@ -7107,14 +7107,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785373002.4303882
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785373234.6560214
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1436,
-    "total_planned": 57,
+    "total_completed": 1437,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
