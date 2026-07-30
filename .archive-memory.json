@@ -7637,14 +7637,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785396538.0289283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785396678.5203414
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1542,
-    "total_planned": 22,
+    "total_completed": 1543,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
