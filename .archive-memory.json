@@ -8447,14 +8447,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785436243.4300354
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785436397.8824284
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1704,
-    "total_planned": 2,
+    "total_completed": 1705,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
