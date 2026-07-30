@@ -7762,14 +7762,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785401963.7607334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785402109.6287246
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1567,
-    "total_planned": 68,
+    "total_completed": 1568,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
