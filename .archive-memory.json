@@ -8062,14 +8062,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785418079.544508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785418255.1280174
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1627,
-    "total_planned": 8,
+    "total_completed": 1628,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
