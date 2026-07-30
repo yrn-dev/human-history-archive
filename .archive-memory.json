@@ -8372,14 +8372,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785433010.6041956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785433299.2837386
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1689,
-    "total_planned": 17,
+    "total_completed": 1690,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
