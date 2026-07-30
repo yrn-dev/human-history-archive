@@ -7917,14 +7917,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785409158.0686364
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785409353.7257285
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1598,
-    "total_planned": 37,
+    "total_completed": 1599,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
