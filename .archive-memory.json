@@ -7992,14 +7992,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785414486.626919
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785414686.1410072
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1613,
-    "total_planned": 22,
+    "total_completed": 1614,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
