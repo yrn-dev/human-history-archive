@@ -7732,14 +7732,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785400617.452463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785400883.970229
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1561,
-    "total_planned": 3,
+    "total_completed": 1562,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
