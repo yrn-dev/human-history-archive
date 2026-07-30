@@ -8252,14 +8252,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785427254.4772818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785427464.3041308
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1665,
-    "total_planned": 41,
+    "total_completed": 1666,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
