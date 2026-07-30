@@ -7167,14 +7167,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785375888.0831628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785376080.1463592
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1448,
-    "total_planned": 45,
+    "total_completed": 1449,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
