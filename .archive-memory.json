@@ -7257,14 +7257,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785379715.283661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785379955.8824449
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1466,
-    "total_planned": 27,
+    "total_completed": 1467,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
