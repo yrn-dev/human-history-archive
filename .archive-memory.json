@@ -8352,14 +8352,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785431972.1579103
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785432171.9810576
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1685,
-    "total_planned": 21,
+    "total_completed": 1686,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
