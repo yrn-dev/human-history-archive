@@ -7097,14 +7097,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785372672.1258276
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785372824.2771914
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1434,
-    "total_planned": 59,
+    "total_completed": 1435,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
