@@ -8087,14 +8087,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785419285.626076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785419577.7038383
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1632,
-    "total_planned": 3,
+    "total_completed": 1633,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
