@@ -7907,14 +7907,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785408548.114884
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785408894.2040992
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1596,
-    "total_planned": 39,
+    "total_completed": 1597,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
