@@ -8787,14 +8787,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785451133.4041443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785451401.1217003
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1772,
-    "total_planned": 5,
+    "total_completed": 1773,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
