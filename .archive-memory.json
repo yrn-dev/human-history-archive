@@ -8462,14 +8462,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785436791.6007519
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785437012.6164572
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1707,
-    "total_planned": 70,
+    "total_completed": 1708,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
