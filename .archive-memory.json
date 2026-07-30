@@ -8542,14 +8542,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
       "timestamp": 1785440310.9283805
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785440465.024668
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1723,
-    "total_planned": 54,
+    "total_completed": 1724,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
