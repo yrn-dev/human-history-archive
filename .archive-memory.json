@@ -8847,14 +8847,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785453987.2181213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785454159.6389918
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1784,
-    "total_planned": 64,
+    "total_completed": 1785,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
