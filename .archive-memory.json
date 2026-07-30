@@ -8067,14 +8067,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785418255.1280174
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785418532.7210338
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1628,
-    "total_planned": 7,
+    "total_completed": 1629,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
