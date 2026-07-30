@@ -7882,14 +7882,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785407312.8671196
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785407504.5267208
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1591,
-    "total_planned": 44,
+    "total_completed": 1592,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
