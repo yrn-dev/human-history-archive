@@ -7757,14 +7757,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785401798.79149
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785401963.7607334
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1566,
-    "total_planned": 69,
+    "total_completed": 1567,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
