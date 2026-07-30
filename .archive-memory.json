@@ -8207,14 +8207,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785425047.9468362
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785425232.2070487
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1656,
-    "total_planned": 50,
+    "total_completed": 1657,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
