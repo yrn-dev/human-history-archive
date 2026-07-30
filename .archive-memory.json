@@ -7507,14 +7507,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785390799.0059588
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785390955.3155856
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1516,
-    "total_planned": 48,
+    "total_completed": 1517,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
