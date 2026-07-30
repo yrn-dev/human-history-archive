@@ -8387,14 +8387,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785433635.3167968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785433849.3321276
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1692,
-    "total_planned": 14,
+    "total_completed": 1693,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
