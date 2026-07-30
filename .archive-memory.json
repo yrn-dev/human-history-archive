@@ -8752,14 +8752,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785449699.8111396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785449984.544103
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1765,
-    "total_planned": 12,
+    "total_completed": 1766,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
