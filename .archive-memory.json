@@ -8282,14 +8282,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785428587.5853913
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785428849.8381515
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1671,
-    "total_planned": 35,
+    "total_completed": 1672,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
