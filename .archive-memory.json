@@ -7177,14 +7177,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785376250.2805443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785376542.6106133
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1450,
-    "total_planned": 43,
+    "total_completed": 1451,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
