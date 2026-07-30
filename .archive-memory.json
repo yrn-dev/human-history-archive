@@ -8342,14 +8342,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785431517.2531502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785431786.8673623
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1683,
-    "total_planned": 23,
+    "total_completed": 1684,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
