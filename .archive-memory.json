@@ -7502,14 +7502,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785390504.6543243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785390799.0059588
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1515,
-    "total_planned": 49,
+    "total_completed": 1516,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
