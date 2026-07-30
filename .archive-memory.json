@@ -7092,14 +7092,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785372500.00092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785372672.1258276
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1433,
-    "total_planned": 60,
+    "total_completed": 1434,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
