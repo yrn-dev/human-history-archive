@@ -7397,14 +7397,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785386172.6415188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785386398.893625
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1494,
-    "total_planned": 70,
+    "total_completed": 1495,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
