@@ -7122,14 +7122,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785373695.9963257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785373879.2903628
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1439,
-    "total_planned": 54,
+    "total_completed": 1440,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
