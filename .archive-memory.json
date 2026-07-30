@@ -7182,14 +7182,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785376542.6106133
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785376734.5012867
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1451,
-    "total_planned": 42,
+    "total_completed": 1452,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
