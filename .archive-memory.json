@@ -7297,14 +7297,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785381607.5602686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785381817.7532744
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1474,
-    "total_planned": 19,
+    "total_completed": 1475,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
