@@ -8517,14 +8517,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785439382.3749077
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785439579.3023186
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1718,
-    "total_planned": 59,
+    "total_completed": 1719,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
