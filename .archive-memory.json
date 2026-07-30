@@ -7057,14 +7057,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785370840.6701229
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785371125.0111651
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1426,
-    "total_planned": 67,
+    "total_completed": 1427,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
