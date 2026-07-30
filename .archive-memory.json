@@ -7517,14 +7517,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785391118.7031782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785391409.0799053
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1518,
-    "total_planned": 46,
+    "total_completed": 1519,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
