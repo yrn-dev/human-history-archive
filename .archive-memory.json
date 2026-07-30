@@ -7267,14 +7267,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785380224.1432877
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785380422.5433455
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1468,
-    "total_planned": 25,
+    "total_completed": 1469,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
