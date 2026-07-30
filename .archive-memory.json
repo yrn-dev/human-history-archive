@@ -8782,14 +8782,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785450895.3067594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785451133.4041443
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1771,
-    "total_planned": 6,
+    "total_completed": 1772,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
