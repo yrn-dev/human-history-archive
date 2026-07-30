@@ -8397,14 +8397,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785434120.4296758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785434343.540445
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1694,
-    "total_planned": 12,
+    "total_completed": 1695,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
