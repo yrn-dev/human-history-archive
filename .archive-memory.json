@@ -7047,14 +7047,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785370264.0129995
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785370543.4636145
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1424,
-    "total_planned": 69,
+    "total_completed": 1425,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
