@@ -7962,14 +7962,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785412796.4611669
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785413120.6680868
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1607,
-    "total_planned": 28,
+    "total_completed": 1608,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
