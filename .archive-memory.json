@@ -7272,14 +7272,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785380422.5433455
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785380667.8290277
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1469,
-    "total_planned": 24,
+    "total_completed": 1470,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
