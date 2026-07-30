@@ -7252,14 +7252,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785379577.0498815
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785379715.283661
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1465,
-    "total_planned": 28,
+    "total_completed": 1466,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
