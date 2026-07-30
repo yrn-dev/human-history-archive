@@ -8622,14 +8622,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785443883.6254637
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785444155.039243
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1739,
-    "total_planned": 38,
+    "total_completed": 1740,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
