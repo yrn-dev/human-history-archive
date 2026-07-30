@@ -8292,14 +8292,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785429085.30741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785429269.544758
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1673,
-    "total_planned": 33,
+    "total_completed": 1674,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
