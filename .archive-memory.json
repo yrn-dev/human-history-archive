@@ -7307,14 +7307,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785382058.745317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785382329.9349651
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1476,
-    "total_planned": 17,
+    "total_completed": 1477,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
