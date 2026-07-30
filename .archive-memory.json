@@ -8727,14 +8727,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785448585.794748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785448770.7749133
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1760,
-    "total_planned": 17,
+    "total_completed": 1761,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
