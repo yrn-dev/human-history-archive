@@ -8612,14 +8612,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785443355.1111906
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785443612.7953823
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1737,
-    "total_planned": 40,
+    "total_completed": 1738,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
