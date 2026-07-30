@@ -8382,14 +8382,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785433450.4753597
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785433635.3167968
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1691,
-    "total_planned": 15,
+    "total_completed": 1692,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
