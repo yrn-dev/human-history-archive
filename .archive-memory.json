@@ -8212,14 +8212,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785425232.2070487
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785425512.01053
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1657,
-    "total_planned": 49,
+    "total_completed": 1658,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
