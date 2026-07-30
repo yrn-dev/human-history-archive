@@ -7137,14 +7137,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785374280.5032563
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785374519.8336148
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1442,
-    "total_planned": 51,
+    "total_completed": 1443,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
