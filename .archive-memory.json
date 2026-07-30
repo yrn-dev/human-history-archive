@@ -8637,14 +8637,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785444647.9653175
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785444807.8286548
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1742,
-    "total_planned": 35,
+    "total_completed": 1743,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
