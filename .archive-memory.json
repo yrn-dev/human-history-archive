@@ -7432,14 +7432,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785387608.4705932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785387792.8446112
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1501,
-    "total_planned": 63,
+    "total_completed": 1502,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
