@@ -7652,14 +7652,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785397257.039632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785397382.3588486
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1545,
-    "total_planned": 19,
+    "total_completed": 1546,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
