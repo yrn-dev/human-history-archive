@@ -8152,14 +8152,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785422591.9916856
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785422742.885307
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1645,
-    "total_planned": 61,
+    "total_completed": 1646,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
