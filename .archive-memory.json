@@ -8137,14 +8137,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785421922.945974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785422120.8612392
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1642,
-    "total_planned": 64,
+    "total_completed": 1643,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
