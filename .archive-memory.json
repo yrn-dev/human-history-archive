@@ -7372,14 +7372,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785384966.508621
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785385126.7445924
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1489,
-    "total_planned": 4,
+    "total_completed": 1490,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
