@@ -7632,14 +7632,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785396300.7936609
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785396538.0289283
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1541,
-    "total_planned": 23,
+    "total_completed": 1542,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
