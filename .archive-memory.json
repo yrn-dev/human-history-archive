@@ -8672,14 +8672,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785446104.7474594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785446298.2537045
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1749,
-    "total_planned": 28,
+    "total_completed": 1750,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
