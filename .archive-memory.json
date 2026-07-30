@@ -7317,14 +7317,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785382465.34664
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785382713.6604245
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1478,
-    "total_planned": 15,
+    "total_completed": 1479,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
