@@ -7712,14 +7712,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785399798.2646766
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785400112.0466945
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1557,
-    "total_planned": 7,
+    "total_completed": 1558,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
