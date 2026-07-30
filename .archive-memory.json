@@ -8717,14 +8717,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785448206.3986201
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785448371.8311386
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1758,
-    "total_planned": 19,
+    "total_completed": 1759,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
