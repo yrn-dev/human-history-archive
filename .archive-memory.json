@@ -7172,14 +7172,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785376080.1463592
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785376250.2805443
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1449,
-    "total_planned": 44,
+    "total_completed": 1450,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
