@@ -8452,18 +8452,17 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785436397.8824284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
+      "timestamp": 1785436627.9488652
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1705,
-    "total_planned": 1,
+    "total_completed": 1706,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
