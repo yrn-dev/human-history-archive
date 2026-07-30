@@ -8557,14 +8557,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785441023.4021118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785441200.751056
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1726,
-    "total_planned": 51,
+    "total_completed": 1727,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
