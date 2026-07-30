@@ -7682,14 +7682,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785398456.6633034
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785398722.9652436
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1551,
-    "total_planned": 13,
+    "total_completed": 1552,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
