@@ -7667,14 +7667,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785397891.9061255
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785398059.1444373
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1548,
-    "total_planned": 16,
+    "total_completed": 1549,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
