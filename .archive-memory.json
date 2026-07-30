@@ -7367,14 +7367,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785384729.2610874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785384966.508621
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1488,
-    "total_planned": 5,
+    "total_completed": 1489,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
