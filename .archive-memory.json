@@ -8257,14 +8257,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785427464.3041308
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785427703.044671
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1666,
-    "total_planned": 40,
+    "total_completed": 1667,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
