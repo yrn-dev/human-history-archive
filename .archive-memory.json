@@ -8817,14 +8817,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785452728.879643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785452917.9432988
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1778,
-    "total_planned": 70,
+    "total_completed": 1779,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
