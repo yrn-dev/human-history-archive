@@ -8072,14 +8072,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785418532.7210338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785418795.1925464
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1629,
-    "total_planned": 6,
+    "total_completed": 1630,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
