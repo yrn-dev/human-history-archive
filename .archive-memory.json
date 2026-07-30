@@ -8762,14 +8762,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785450213.3708909
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785450353.72198
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1767,
-    "total_planned": 10,
+    "total_completed": 1768,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
