@@ -8412,14 +8412,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785434762.5094013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785434948.4067473
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1697,
-    "total_planned": 9,
+    "total_completed": 1698,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
