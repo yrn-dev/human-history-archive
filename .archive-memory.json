@@ -8182,14 +8182,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785423898.7230668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785424188.1784463
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1651,
-    "total_planned": 55,
+    "total_completed": 1652,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
