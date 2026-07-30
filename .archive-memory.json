@@ -7727,14 +7727,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785400434.1858919
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785400617.452463
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1560,
-    "total_planned": 4,
+    "total_completed": 1561,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
