@@ -8307,14 +8307,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785429762.6591182
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785430032.3069797
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1676,
-    "total_planned": 30,
+    "total_completed": 1677,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
