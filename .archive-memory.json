@@ -7577,14 +7577,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785393913.2496235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785394261.8628302
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1530,
-    "total_planned": 34,
+    "total_completed": 1531,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
