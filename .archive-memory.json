@@ -8197,14 +8197,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785424548.4075918
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785424752.8317156
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1654,
-    "total_planned": 52,
+    "total_completed": 1655,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
