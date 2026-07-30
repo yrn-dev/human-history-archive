@@ -8277,14 +8277,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785428339.67858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785428587.5853913
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1670,
-    "total_planned": 36,
+    "total_completed": 1671,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
