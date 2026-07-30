@@ -8097,18 +8097,17 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785419885.130753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds",
-      "variation": true
+      "timestamp": 1785420116.059857
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1634,
-    "total_planned": 1,
+    "total_completed": 1635,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
