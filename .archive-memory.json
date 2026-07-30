@@ -7472,14 +7472,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785389253.7672944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785389494.1267552
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1509,
-    "total_planned": 55,
+    "total_completed": 1510,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
