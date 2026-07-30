@@ -8532,14 +8532,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785439973.4545417
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785440135.1650417
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1721,
-    "total_planned": 56,
+    "total_completed": 1722,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
