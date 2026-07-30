@@ -7772,14 +7772,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785402311.4808471
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785402537.7811725
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1569,
-    "total_planned": 66,
+    "total_completed": 1570,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
