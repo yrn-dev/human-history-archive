@@ -7752,14 +7752,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785401646.9338145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785401798.79149
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1565,
-    "total_planned": 70,
+    "total_completed": 1566,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
