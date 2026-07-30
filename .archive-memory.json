@@ -8202,14 +8202,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785424752.8317156
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
-      "variation": true
-    },
+      "timestamp": 1785425047.9468362
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1655,
-    "total_planned": 51,
+    "total_completed": 1656,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
