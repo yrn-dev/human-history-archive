@@ -7537,14 +7537,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785392077.8673935
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785392216.2669828
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1522,
-    "total_planned": 42,
+    "total_completed": 1523,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
