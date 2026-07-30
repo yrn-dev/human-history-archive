@@ -7342,14 +7342,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785383658.1289766
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785383923.2875962
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1483,
-    "total_planned": 10,
+    "total_completed": 1484,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
