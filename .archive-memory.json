@@ -8597,14 +8597,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785442568.1815326
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785442807.117534
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1734,
-    "total_planned": 43,
+    "total_completed": 1735,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
