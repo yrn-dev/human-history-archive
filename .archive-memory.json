@@ -8687,14 +8687,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785446651.9327397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785446859.0838442
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1752,
-    "total_planned": 25,
+    "total_completed": 1753,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
