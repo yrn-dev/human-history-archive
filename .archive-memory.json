@@ -7052,14 +7052,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785370543.4636145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785370840.6701229
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1425,
-    "total_planned": 68,
+    "total_completed": 1426,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
