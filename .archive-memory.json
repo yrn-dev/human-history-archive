@@ -7717,14 +7717,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785400112.0466945
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785400284.9852011
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1558,
-    "total_planned": 6,
+    "total_completed": 1559,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
