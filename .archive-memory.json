@@ -8792,14 +8792,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785451401.1217003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785451684.0662954
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1773,
-    "total_planned": 4,
+    "total_completed": 1774,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
