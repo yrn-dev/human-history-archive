@@ -7322,14 +7322,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785382713.6604245
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785382921.8660316
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1479,
-    "total_planned": 14,
+    "total_completed": 1480,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
