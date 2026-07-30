@@ -7247,14 +7247,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785379344.8419962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785379577.0498815
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1464,
-    "total_planned": 29,
+    "total_completed": 1465,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
