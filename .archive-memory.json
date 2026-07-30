@@ -8497,14 +8497,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785438347.7374365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785438561.0137959
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1714,
-    "total_planned": 63,
+    "total_completed": 1715,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
