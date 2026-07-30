@@ -7452,14 +7452,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785388426.6906006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785388595.9757571
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1505,
-    "total_planned": 59,
+    "total_completed": 1506,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
