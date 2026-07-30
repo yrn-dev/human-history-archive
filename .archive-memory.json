@@ -8027,14 +8027,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785416261.7522163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785416516.0968907
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1620,
-    "total_planned": 15,
+    "total_completed": 1621,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
