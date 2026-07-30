@@ -8492,14 +8492,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785438117.9202824
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785438347.7374365
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1713,
-    "total_planned": 64,
+    "total_completed": 1714,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
