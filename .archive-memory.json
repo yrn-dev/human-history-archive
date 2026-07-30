@@ -8417,14 +8417,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785434948.4067473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785435127.089764
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1698,
-    "total_planned": 8,
+    "total_completed": 1699,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
