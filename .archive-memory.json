@@ -8272,14 +8272,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785428138.4349008
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785428339.67858
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1669,
-    "total_planned": 37,
+    "total_completed": 1670,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
