@@ -8642,14 +8642,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785444807.8286548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
-      "variation": true
-    },
+      "timestamp": 1785444948.0314062
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1743,
-    "total_planned": 34,
+    "total_completed": 1744,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
