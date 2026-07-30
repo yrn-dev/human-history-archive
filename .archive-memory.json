@@ -8442,14 +8442,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785436080.7687476
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785436243.4300354
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1703,
-    "total_planned": 3,
+    "total_completed": 1704,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
