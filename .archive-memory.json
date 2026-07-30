@@ -8267,14 +8267,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785427922.016609
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785428138.4349008
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1668,
-    "total_planned": 38,
+    "total_completed": 1669,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
