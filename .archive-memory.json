@@ -7292,14 +7292,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785381397.3011265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785381607.5602686
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1473,
-    "total_planned": 20,
+    "total_completed": 1474,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
