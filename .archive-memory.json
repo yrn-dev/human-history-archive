@@ -7832,14 +7832,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785404987.9407308
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
-      "variation": true
-    },
+      "timestamp": 1785405146.7708738
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1581,
-    "total_planned": 54,
+    "total_completed": 1582,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
