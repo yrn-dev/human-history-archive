@@ -7997,14 +7997,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785414686.1410072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785414871.2675629
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1614,
-    "total_planned": 21,
+    "total_completed": 1615,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
