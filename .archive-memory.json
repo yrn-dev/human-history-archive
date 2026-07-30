@@ -7067,14 +7067,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785371325.2420943
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785371629.1810086
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1428,
-    "total_planned": 65,
+    "total_completed": 1429,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
