@@ -8692,14 +8692,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785446859.0838442
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785447130.7699485
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1753,
-    "total_planned": 24,
+    "total_completed": 1754,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
