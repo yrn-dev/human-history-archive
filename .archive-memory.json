@@ -7642,14 +7642,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
       "timestamp": 1785396678.5203414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785396965.8242166
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1543,
-    "total_planned": 21,
+    "total_completed": 1544,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
