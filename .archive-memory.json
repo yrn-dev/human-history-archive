@@ -8112,14 +8112,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785420694.863532
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785420898.048067
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1637,
-    "total_planned": 69,
+    "total_completed": 1638,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
