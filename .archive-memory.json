@@ -7362,14 +7362,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785384508.9693735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785384729.2610874
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1487,
-    "total_planned": 6,
+    "total_completed": 1488,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
