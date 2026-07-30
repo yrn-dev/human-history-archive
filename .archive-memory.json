@@ -7947,14 +7947,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785411619.3510225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785412143.9083812
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -8107,8 +8107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1604,
-    "total_planned": 31,
+    "total_completed": 1605,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
