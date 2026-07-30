@@ -8722,14 +8722,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785448371.8311386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785448585.794748
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -8817,8 +8817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1759,
-    "total_planned": 18,
+    "total_completed": 1760,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
