@@ -8122,14 +8122,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785421089.2936106
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785421361.810296
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -8462,8 +8462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1639,
-    "total_planned": 67,
+    "total_completed": 1640,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
