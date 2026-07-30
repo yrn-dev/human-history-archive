@@ -7032,18 +7032,17 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785369493.4712822
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
+      "timestamp": 1785369701.5751808
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1421,
-    "total_planned": 1,
+    "total_completed": 1422,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
