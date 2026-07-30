@@ -7072,14 +7072,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
       "timestamp": 1785371629.1810086
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785371900.313097
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -7397,8 +7397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1429,
-    "total_planned": 64,
+    "total_completed": 1430,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
