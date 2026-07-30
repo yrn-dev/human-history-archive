@@ -7437,14 +7437,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785387792.8446112
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785388006.1002374
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -7752,8 +7752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1502,
-    "total_planned": 62,
+    "total_completed": 1503,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
