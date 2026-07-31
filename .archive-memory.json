@@ -10037,14 +10037,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 256",
       "timestamp": 1785508801.4771233
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785508992.0971215
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 282",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2022,
-    "total_planned": 57,
+    "total_completed": 2023,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
