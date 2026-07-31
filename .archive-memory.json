@@ -9987,14 +9987,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 254",
       "timestamp": 1785506726.4859834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785506888.5314016
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2012,
-    "total_planned": 67,
+    "total_completed": 2013,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
