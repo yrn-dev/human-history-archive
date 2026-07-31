@@ -10432,14 +10432,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 263",
       "timestamp": 1785527175.4023626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785527380.262861
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 266",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2101,
-    "total_planned": 49,
+    "total_completed": 2102,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
