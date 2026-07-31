@@ -10662,14 +10662,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 263",
       "timestamp": 1785537757.7148438
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 266",
-      "variation": true
-    },
+      "timestamp": 1785537899.8973668
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2147,
-    "total_planned": 3,
+    "total_completed": 2148,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
