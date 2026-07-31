@@ -9857,14 +9857,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 194",
       "timestamp": 1785500688.7971978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 194",
-      "variation": true
-    },
+      "timestamp": 1785500943.0023723
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1986,
-    "total_planned": 22,
+    "total_completed": 1987,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
