@@ -9272,14 +9272,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
       "timestamp": 1785473669.3957484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
-      "variation": true
-    },
+      "timestamp": 1785473960.588911
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1869,
-    "total_planned": 50,
+    "total_completed": 1870,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
