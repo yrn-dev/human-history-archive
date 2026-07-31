@@ -9882,14 +9882,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 247",
       "timestamp": 1785501857.3812606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785502125.312235
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 248",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1991,
-    "total_planned": 17,
+    "total_completed": 1992,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
