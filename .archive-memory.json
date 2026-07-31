@@ -9657,14 +9657,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 194",
       "timestamp": 1785491130.7290041
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785491325.4545774
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1946,
-    "total_planned": 62,
+    "total_completed": 1947,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
