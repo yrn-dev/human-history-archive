@@ -10347,14 +10347,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 263",
       "timestamp": 1785523277.1524363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785523517.3332214
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2084,
-    "total_planned": 66,
+    "total_completed": 2085,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
