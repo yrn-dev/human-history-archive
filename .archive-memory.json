@@ -9282,14 +9282,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785474270.6629307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785474572.321152
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1871,
-    "total_planned": 48,
+    "total_completed": 1872,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
