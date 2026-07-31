@@ -9247,14 +9247,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785472319.3255
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785472582.1327662
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1864,
-    "total_planned": 55,
+    "total_completed": 1865,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
