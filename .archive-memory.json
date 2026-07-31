@@ -9517,18 +9517,17 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785485075.1832042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
+      "timestamp": 1785485351.426746
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1918,
-    "total_planned": 1,
+    "total_completed": 1919,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
