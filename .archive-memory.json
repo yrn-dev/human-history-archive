@@ -8892,14 +8892,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785456037.9467406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
-      "variation": true
-    },
+      "timestamp": 1785456278.2517157
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1793,
-    "total_planned": 55,
+    "total_completed": 1794,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
