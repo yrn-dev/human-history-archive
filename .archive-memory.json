@@ -9222,14 +9222,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
       "timestamp": 1785471340.8846982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785471488.8836098
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1859,
-    "total_planned": 60,
+    "total_completed": 1860,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
