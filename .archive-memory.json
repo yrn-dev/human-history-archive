@@ -9977,14 +9977,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 282",
       "timestamp": 1785506366.3375833
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 282",
-      "variation": true
-    },
+      "timestamp": 1785506573.4324958
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 254",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2010,
-    "total_planned": 69,
+    "total_completed": 2011,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
