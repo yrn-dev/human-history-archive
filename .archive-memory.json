@@ -9017,14 +9017,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785461908.1355777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785462157.799193
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1818,
-    "total_planned": 30,
+    "total_completed": 1819,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
