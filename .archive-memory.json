@@ -9487,14 +9487,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785483899.2743661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
-      "variation": true
-    },
+      "timestamp": 1785484106.7300909
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1912,
-    "total_planned": 7,
+    "total_completed": 1913,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
