@@ -9097,14 +9097,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785465879.63949
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785466089.63772
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1834,
-    "total_planned": 14,
+    "total_completed": 1835,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
