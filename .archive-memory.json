@@ -9687,14 +9687,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 247",
       "timestamp": 1785492525.666288
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785492807.3640172
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1952,
-    "total_planned": 56,
+    "total_completed": 1953,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
