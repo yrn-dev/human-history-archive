@@ -9932,14 +9932,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 248",
       "timestamp": 1785504221.6876872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785504515.0022135
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 248",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2001,
-    "total_planned": 7,
+    "total_completed": 2002,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
