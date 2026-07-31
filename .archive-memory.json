@@ -9547,14 +9547,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785486558.1846502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785486822.334513
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1924,
-    "total_planned": 66,
+    "total_completed": 1925,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
