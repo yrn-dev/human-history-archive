@@ -10512,14 +10512,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 263",
       "timestamp": 1785531201.4302633
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785531499.7941842
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2117,
-    "total_planned": 33,
+    "total_completed": 2118,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
