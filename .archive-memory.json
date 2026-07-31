@@ -10087,14 +10087,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 256",
       "timestamp": 1785511104.4799788
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785511309.761087
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 282",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2032,
-    "total_planned": 47,
+    "total_completed": 2033,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
