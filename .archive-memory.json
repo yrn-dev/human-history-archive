@@ -9347,14 +9347,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785477358.6411314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785477504.5017
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1884,
-    "total_planned": 35,
+    "total_completed": 1885,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
