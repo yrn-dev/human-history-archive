@@ -10327,14 +10327,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 265",
       "timestamp": 1785522256.2445319
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785522532.7995598
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 208",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2080,
-    "total_planned": 70,
+    "total_completed": 2081,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
