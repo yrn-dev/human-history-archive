@@ -9692,14 +9692,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 247",
       "timestamp": 1785492807.3640172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785493021.6505754
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 248",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1953,
-    "total_planned": 55,
+    "total_completed": 1954,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
