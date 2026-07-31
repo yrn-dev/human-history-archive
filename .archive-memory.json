@@ -10342,14 +10342,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 263",
       "timestamp": 1785523014.816409
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785523277.1524363
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 292",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2083,
-    "total_planned": 67,
+    "total_completed": 2084,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
