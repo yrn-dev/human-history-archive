@@ -10497,14 +10497,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 263",
       "timestamp": 1785530366.4365005
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785530612.9551866
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 208",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2114,
-    "total_planned": 36,
+    "total_completed": 2115,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
