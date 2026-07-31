@@ -10302,14 +10302,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 256",
       "timestamp": 1785520953.669841
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 282",
-      "variation": true
-    },
+      "timestamp": 1785521203.9901059
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2075,
-    "total_planned": 4,
+    "total_completed": 2076,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
