@@ -9942,14 +9942,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 248",
       "timestamp": 1785504715.0690155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785504872.5433674
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2003,
-    "total_planned": 5,
+    "total_completed": 2004,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
