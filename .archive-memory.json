@@ -9767,14 +9767,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 272",
       "timestamp": 1785496543.5077488
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785496745.1399736
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 272",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1968,
-    "total_planned": 40,
+    "total_completed": 1969,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
