@@ -9842,14 +9842,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 247",
       "timestamp": 1785499947.3754213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785500234.5447466
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1983,
-    "total_planned": 25,
+    "total_completed": 1984,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
