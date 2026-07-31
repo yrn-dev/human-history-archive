@@ -9142,14 +9142,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
       "timestamp": 1785467728.2061512
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785468046.8661203
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1843,
-    "total_planned": 5,
+    "total_completed": 1844,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
