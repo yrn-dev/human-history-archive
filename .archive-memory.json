@@ -10027,14 +10027,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 254",
       "timestamp": 1785508217.2665644
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 201",
-      "variation": true
-    },
+      "timestamp": 1785508474.0013356
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2020,
-    "total_planned": 59,
+    "total_completed": 2021,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
