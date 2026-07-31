@@ -9062,14 +9062,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
       "timestamp": 1785464133.1042829
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785464334.26048
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1827,
-    "total_planned": 21,
+    "total_completed": 1828,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
