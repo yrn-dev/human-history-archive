@@ -8957,14 +8957,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
       "timestamp": 1785459182.1809413
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
-      "variation": true
-    },
+      "timestamp": 1785459414.757921
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1806,
-    "total_planned": 42,
+    "total_completed": 1807,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
