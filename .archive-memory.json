@@ -8997,14 +8997,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
       "timestamp": 1785461126.7087204
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
-      "variation": true
-    },
+      "timestamp": 1785461337.5393467
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1814,
-    "total_planned": 34,
+    "total_completed": 1815,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
