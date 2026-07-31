@@ -8962,14 +8962,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785459414.757921
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785459702.1915796
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1807,
-    "total_planned": 41,
+    "total_completed": 1808,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
