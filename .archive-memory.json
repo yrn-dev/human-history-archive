@@ -9327,14 +9327,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785476472.650092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785476644.5553277
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1880,
-    "total_planned": 39,
+    "total_completed": 1881,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
