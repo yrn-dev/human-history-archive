@@ -9342,14 +9342,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
       "timestamp": 1785477180.4394088
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785477358.6411314
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1883,
-    "total_planned": 36,
+    "total_completed": 1884,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
