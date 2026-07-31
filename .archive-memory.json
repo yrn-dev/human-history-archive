@@ -9252,14 +9252,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
       "timestamp": 1785472582.1327662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785472818.043586
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1865,
-    "total_planned": 54,
+    "total_completed": 1866,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
