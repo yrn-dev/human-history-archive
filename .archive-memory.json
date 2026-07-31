@@ -10282,14 +10282,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 254",
       "timestamp": 1785520053.7626686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 201",
-      "variation": true
-    },
+      "timestamp": 1785520336.369854
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 201",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2071,
-    "total_planned": 8,
+    "total_completed": 2072,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
