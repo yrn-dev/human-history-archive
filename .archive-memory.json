@@ -9617,14 +9617,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 194",
       "timestamp": 1785489310.9709966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 248",
-      "variation": true
-    },
+      "timestamp": 1785489597.2299001
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 272",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1938,
-    "total_planned": 70,
+    "total_completed": 1939,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
