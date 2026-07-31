@@ -10602,14 +10602,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 266",
       "timestamp": 1785535243.7363687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785535394.4548638
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2135,
-    "total_planned": 15,
+    "total_completed": 2136,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
