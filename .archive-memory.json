@@ -9562,14 +9562,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
       "timestamp": 1785487295.0976365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785487474.0323892
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1927,
-    "total_planned": 63,
+    "total_completed": 1928,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
