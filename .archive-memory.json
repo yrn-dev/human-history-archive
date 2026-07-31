@@ -9922,14 +9922,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 272",
       "timestamp": 1785503802.2752762
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785503955.8136182
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 248",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1999,
-    "total_planned": 9,
+    "total_completed": 2000,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
