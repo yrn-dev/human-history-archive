@@ -10227,14 +10227,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 254",
       "timestamp": 1785517422.6288826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785517655.385099
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 282",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2060,
-    "total_planned": 19,
+    "total_completed": 2061,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
