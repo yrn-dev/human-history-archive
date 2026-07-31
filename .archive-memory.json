@@ -9337,14 +9337,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785476891.392312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785477180.4394088
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1882,
-    "total_planned": 37,
+    "total_completed": 1883,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
