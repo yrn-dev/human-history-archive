@@ -8932,14 +8932,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785457903.9839098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
-      "variation": true
-    },
+      "timestamp": 1785458159.6541183
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1801,
-    "total_planned": 47,
+    "total_completed": 1802,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
