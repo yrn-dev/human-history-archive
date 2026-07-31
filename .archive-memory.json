@@ -9122,14 +9122,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785466906.4630995
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785467160.3954852
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1839,
-    "total_planned": 9,
+    "total_completed": 1840,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
