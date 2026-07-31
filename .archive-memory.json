@@ -9867,14 +9867,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 245",
       "timestamp": 1785501153.5821052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785501399.3321245
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1988,
-    "total_planned": 20,
+    "total_completed": 1989,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
