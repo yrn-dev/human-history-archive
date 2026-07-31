@@ -9042,14 +9042,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785463224.6007228
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
-      "variation": true
-    },
+      "timestamp": 1785463517.2417414
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1823,
-    "total_planned": 25,
+    "total_completed": 1824,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
