@@ -9852,14 +9852,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 247",
       "timestamp": 1785500529.9536262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 194",
-      "variation": true
-    },
+      "timestamp": 1785500688.7971978
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 194",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1985,
-    "total_planned": 23,
+    "total_completed": 1986,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
