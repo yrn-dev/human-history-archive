@@ -9682,14 +9682,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 245",
       "timestamp": 1785492222.68511
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785492525.666288
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1951,
-    "total_planned": 57,
+    "total_completed": 1952,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
