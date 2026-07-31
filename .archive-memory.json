@@ -9662,14 +9662,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 245",
       "timestamp": 1785491325.4545774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785491605.1007626
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 248",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1947,
-    "total_planned": 61,
+    "total_completed": 1948,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
