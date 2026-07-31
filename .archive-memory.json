@@ -10152,14 +10152,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 257",
       "timestamp": 1785513770.3441505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785513932.106224
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2045,
-    "total_planned": 34,
+    "total_completed": 2046,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
