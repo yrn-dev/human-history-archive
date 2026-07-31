@@ -9872,14 +9872,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 245",
       "timestamp": 1785501399.3321245
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785501542.9379666
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1989,
-    "total_planned": 19,
+    "total_completed": 1990,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
