@@ -9722,14 +9722,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 194",
       "timestamp": 1785494319.692541
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785494549.4644492
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1959,
-    "total_planned": 49,
+    "total_completed": 1960,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
