@@ -9972,14 +9972,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 256",
       "timestamp": 1785506143.8227277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 282",
-      "variation": true
-    },
+      "timestamp": 1785506366.3375833
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 282",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2009,
-    "total_planned": 70,
+    "total_completed": 2010,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
