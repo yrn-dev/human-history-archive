@@ -9262,14 +9262,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785473109.0156047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
-      "variation": true
-    },
+      "timestamp": 1785473358.5249753
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1867,
-    "total_planned": 52,
+    "total_completed": 1868,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
