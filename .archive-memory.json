@@ -10622,14 +10622,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 208",
       "timestamp": 1785536032.6461415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785536224.3793
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 292",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2139,
-    "total_planned": 11,
+    "total_completed": 2140,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
