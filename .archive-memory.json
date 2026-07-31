@@ -9482,14 +9482,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
       "timestamp": 1785483676.595682
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785483899.2743661
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1911,
-    "total_planned": 8,
+    "total_completed": 1912,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
