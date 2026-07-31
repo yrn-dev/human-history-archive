@@ -10332,14 +10332,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 263",
       "timestamp": 1785522532.7995598
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 208",
-      "variation": true
-    },
+      "timestamp": 1785522810.2358053
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2081,
-    "total_planned": 69,
+    "total_completed": 2082,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
