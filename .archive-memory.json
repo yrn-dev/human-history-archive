@@ -9437,14 +9437,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
       "timestamp": 1785481588.498135
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
-      "variation": true
-    },
+      "timestamp": 1785481754.6389875
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1902,
-    "total_planned": 17,
+    "total_completed": 1903,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
