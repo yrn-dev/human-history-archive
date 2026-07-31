@@ -9082,14 +9082,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785465200.6202304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785465474.7080796
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1831,
-    "total_planned": 17,
+    "total_completed": 1832,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
