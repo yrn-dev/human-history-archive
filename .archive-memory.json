@@ -9127,14 +9127,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
       "timestamp": 1785467160.3954852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785467329.270735
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1840,
-    "total_planned": 8,
+    "total_completed": 1841,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
