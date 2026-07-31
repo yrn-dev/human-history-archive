@@ -9757,14 +9757,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 247",
       "timestamp": 1785496218.2386155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785496404.7493389
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 272",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1966,
-    "total_planned": 42,
+    "total_completed": 1967,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
