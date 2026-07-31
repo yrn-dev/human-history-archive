@@ -9027,14 +9027,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785462407.6402473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785462703.2379422
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1820,
-    "total_planned": 28,
+    "total_completed": 1821,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
