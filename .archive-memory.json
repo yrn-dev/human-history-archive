@@ -9382,14 +9382,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
       "timestamp": 1785478986.6317294
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy",
-      "variation": true
-    },
+      "timestamp": 1785479277.9709132
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1891,
-    "total_planned": 28,
+    "total_completed": 1892,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
