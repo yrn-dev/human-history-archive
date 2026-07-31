@@ -9032,14 +9032,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
       "timestamp": 1785462703.2379422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785462914.9928148
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1821,
-    "total_planned": 27,
+    "total_completed": 1822,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
