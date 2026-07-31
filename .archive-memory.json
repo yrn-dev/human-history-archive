@@ -10382,14 +10382,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 263",
       "timestamp": 1785524759.1087377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785525059.3335857
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2091,
-    "total_planned": 59,
+    "total_completed": 2092,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
