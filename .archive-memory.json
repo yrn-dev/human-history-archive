@@ -10157,14 +10157,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 256",
       "timestamp": 1785513932.106224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785514071.4046507
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 282",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2046,
-    "total_planned": 33,
+    "total_completed": 2047,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
