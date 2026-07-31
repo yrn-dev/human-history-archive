@@ -10607,14 +10607,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 265",
       "timestamp": 1785535394.4548638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785535699.7941394
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 292",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2136,
-    "total_planned": 14,
+    "total_completed": 2137,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
