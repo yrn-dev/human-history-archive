@@ -9147,14 +9147,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
       "timestamp": 1785468046.8661203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
-      "variation": true
-    },
+      "timestamp": 1785468334.9593332
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1844,
-    "total_planned": 4,
+    "total_completed": 1845,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
