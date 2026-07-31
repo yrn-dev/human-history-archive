@@ -9797,14 +9797,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 245",
       "timestamp": 1785497741.983441
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785498026.7197225
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1974,
-    "total_planned": 34,
+    "total_completed": 1975,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
