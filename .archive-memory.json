@@ -8887,14 +8887,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
       "timestamp": 1785455728.6035469
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785456037.9467406
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1792,
-    "total_planned": 56,
+    "total_completed": 1793,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
