@@ -9227,14 +9227,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
       "timestamp": 1785471488.8836098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
-      "variation": true
-    },
+      "timestamp": 1785471695.0488074
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1860,
-    "total_planned": 59,
+    "total_completed": 1861,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
