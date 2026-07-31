@@ -9632,14 +9632,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 272",
       "timestamp": 1785490065.409195
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785490327.162879
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1941,
-    "total_planned": 67,
+    "total_completed": 1942,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
