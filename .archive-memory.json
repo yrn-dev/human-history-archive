@@ -9782,14 +9782,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 272",
       "timestamp": 1785497091.454089
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785497282.4324148
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1971,
-    "total_planned": 37,
+    "total_completed": 1972,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
