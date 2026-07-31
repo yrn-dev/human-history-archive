@@ -9887,14 +9887,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 245",
       "timestamp": 1785502125.312235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 248",
-      "variation": true
-    },
+      "timestamp": 1785502344.966216
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 272",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1992,
-    "total_planned": 16,
+    "total_completed": 1993,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
