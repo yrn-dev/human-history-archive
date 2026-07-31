@@ -10617,14 +10617,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 292",
       "timestamp": 1785535860.7567441
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 208",
-      "variation": true
-    },
+      "timestamp": 1785536032.6461415
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 292",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2138,
-    "total_planned": 12,
+    "total_completed": 2139,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
