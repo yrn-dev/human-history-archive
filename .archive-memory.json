@@ -9877,14 +9877,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 247",
       "timestamp": 1785501542.9379666
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785501857.3812606
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1990,
-    "total_planned": 18,
+    "total_completed": 1991,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
