@@ -9467,14 +9467,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785482976.8469083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785483223.228351
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1908,
-    "total_planned": 11,
+    "total_completed": 1909,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
