@@ -10642,14 +10642,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 263",
       "timestamp": 1785536874.0660894
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785537101.8628416
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2143,
-    "total_planned": 7,
+    "total_completed": 2144,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
