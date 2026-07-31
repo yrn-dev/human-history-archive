@@ -8907,14 +8907,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
       "timestamp": 1785456769.3288658
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785456967.4523675
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1796,
-    "total_planned": 52,
+    "total_completed": 1797,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
