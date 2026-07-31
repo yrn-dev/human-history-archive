@@ -9177,14 +9177,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
       "timestamp": 1785469325.3538353
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
-      "variation": true
-    },
+      "timestamp": 1785469625.582706
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1850,
-    "total_planned": 69,
+    "total_completed": 1851,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
