@@ -9737,14 +9737,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 194",
       "timestamp": 1785495152.650594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785495468.5942657
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1962,
-    "total_planned": 46,
+    "total_completed": 1963,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
