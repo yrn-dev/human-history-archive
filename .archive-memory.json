@@ -10257,14 +10257,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 256",
       "timestamp": 1785518715.8017278
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785519017.7114232
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 282",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2066,
-    "total_planned": 13,
+    "total_completed": 2067,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
