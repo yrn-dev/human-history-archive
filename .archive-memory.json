@@ -10047,14 +10047,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 282",
       "timestamp": 1785509256.7961767
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785509492.9425027
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2024,
-    "total_planned": 55,
+    "total_completed": 2025,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
