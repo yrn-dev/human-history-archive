@@ -9532,14 +9532,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785485841.3308704
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785486122.7830937
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1921,
-    "total_planned": 69,
+    "total_completed": 1922,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
