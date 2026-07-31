@@ -9897,14 +9897,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 272",
       "timestamp": 1785502567.4561858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785502824.6587481
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1994,
-    "total_planned": 14,
+    "total_completed": 1995,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
