@@ -10647,14 +10647,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 265",
       "timestamp": 1785537101.8628416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785537395.1253686
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2144,
-    "total_planned": 6,
+    "total_completed": 2145,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
