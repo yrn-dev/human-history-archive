@@ -10202,14 +10202,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 201",
       "timestamp": 1785516358.1675963
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785516561.1553822
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 254",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2055,
-    "total_planned": 24,
+    "total_completed": 2056,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
