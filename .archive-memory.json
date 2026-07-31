@@ -9162,18 +9162,17 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
       "timestamp": 1785468679.4869962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
+      "timestamp": 1785468837.526412
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 1847,
-    "total_planned": 1,
+    "total_completed": 1848,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
