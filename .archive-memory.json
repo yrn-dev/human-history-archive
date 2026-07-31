@@ -9917,14 +9917,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 247",
       "timestamp": 1785503494.1627166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785503802.2752762
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1998,
-    "total_planned": 10,
+    "total_completed": 1999,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
