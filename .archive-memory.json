@@ -9587,14 +9587,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785488229.4016724
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785488398.7535481
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1932,
-    "total_planned": 58,
+    "total_completed": 1933,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
