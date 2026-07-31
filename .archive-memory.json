@@ -9527,14 +9527,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world",
       "timestamp": 1785485621.487075
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785485841.3308704
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1920,
-    "total_planned": 70,
+    "total_completed": 1921,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
