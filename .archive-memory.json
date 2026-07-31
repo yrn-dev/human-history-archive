@@ -9557,14 +9557,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785487102.8014715
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
-      "variation": true
-    },
+      "timestamp": 1785487295.0976365
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1926,
-    "total_planned": 64,
+    "total_completed": 1927,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
