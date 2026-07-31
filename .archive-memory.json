@@ -9412,14 +9412,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785480333.261156
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785480618.1845703
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1897,
-    "total_planned": 22,
+    "total_completed": 1898,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
