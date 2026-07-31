@@ -9137,14 +9137,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
       "timestamp": 1785467575.7940943
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
-      "variation": true
-    },
+      "timestamp": 1785467728.2061512
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1842,
-    "total_planned": 6,
+    "total_completed": 1843,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
