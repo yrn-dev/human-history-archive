@@ -10452,14 +10452,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 292",
       "timestamp": 1785528210.998321
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 266",
-      "variation": true
-    },
+      "timestamp": 1785528438.3362725
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2105,
-    "total_planned": 45,
+    "total_completed": 2106,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
