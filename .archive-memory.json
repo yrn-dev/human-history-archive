@@ -10182,14 +10182,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 256",
       "timestamp": 1785515295.696726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785515560.6376476
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 254",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2051,
-    "total_planned": 28,
+    "total_completed": 2052,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
