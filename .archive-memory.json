@@ -9752,14 +9752,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 248",
       "timestamp": 1785495931.7676349
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785496218.2386155
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1965,
-    "total_planned": 43,
+    "total_completed": 1966,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
