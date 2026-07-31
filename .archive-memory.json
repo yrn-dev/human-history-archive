@@ -9242,14 +9242,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
       "timestamp": 1785472061.3022425
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
-      "variation": true
-    },
+      "timestamp": 1785472319.3255
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1863,
-    "total_planned": 56,
+    "total_completed": 1864,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
