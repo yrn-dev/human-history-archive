@@ -8912,14 +8912,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785456967.4523675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
-      "variation": true
-    },
+      "timestamp": 1785457264.199617
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1797,
-    "total_planned": 51,
+    "total_completed": 1798,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
