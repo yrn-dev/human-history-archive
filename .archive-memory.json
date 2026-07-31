@@ -10017,14 +10017,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 257",
       "timestamp": 1785507786.3215013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785508034.1661751
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 254",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2018,
-    "total_planned": 61,
+    "total_completed": 2019,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
