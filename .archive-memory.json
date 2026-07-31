@@ -9762,14 +9762,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 245",
       "timestamp": 1785496404.7493389
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785496543.5077488
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1967,
-    "total_planned": 41,
+    "total_completed": 1968,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
