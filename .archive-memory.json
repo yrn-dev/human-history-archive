@@ -10667,14 +10667,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 266",
       "timestamp": 1785537899.8973668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785538118.226995
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2148,
-    "total_planned": 2,
+    "total_completed": 2149,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
