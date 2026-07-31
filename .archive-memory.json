@@ -9112,14 +9112,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
       "timestamp": 1785466520.6528594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785466735.9591699
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1837,
-    "total_planned": 11,
+    "total_completed": 1838,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
