@@ -9892,14 +9892,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 248",
       "timestamp": 1785502344.966216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785502567.4561858
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1993,
-    "total_planned": 15,
+    "total_completed": 1994,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
