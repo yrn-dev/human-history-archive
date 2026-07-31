@@ -9507,14 +9507,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
       "timestamp": 1785484634.9334095
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
-      "variation": true
-    },
+      "timestamp": 1785484895.5482829
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1916,
-    "total_planned": 3,
+    "total_completed": 1917,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
