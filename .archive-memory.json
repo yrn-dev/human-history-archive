@@ -10502,14 +10502,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 292",
       "timestamp": 1785530612.9551866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 208",
-      "variation": true
-    },
+      "timestamp": 1785530896.3108773
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2115,
-    "total_planned": 35,
+    "total_completed": 2116,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
