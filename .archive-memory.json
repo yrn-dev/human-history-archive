@@ -10067,14 +10067,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 257",
       "timestamp": 1785510167.873472
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785510466.9798543
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 257",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2028,
-    "total_planned": 51,
+    "total_completed": 2029,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
