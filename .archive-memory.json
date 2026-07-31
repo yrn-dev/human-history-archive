@@ -9672,14 +9672,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 248",
       "timestamp": 1785491768.5378096
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785492059.8537343
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1949,
-    "total_planned": 59,
+    "total_completed": 1950,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
