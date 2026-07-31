@@ -9727,14 +9727,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 245",
       "timestamp": 1785494549.4644492
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785494852.282509
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 194",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1960,
-    "total_planned": 48,
+    "total_completed": 1961,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
