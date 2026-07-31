@@ -9947,14 +9947,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 247",
       "timestamp": 1785504872.5433674
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785505076.5373986
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 272",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2004,
-    "total_planned": 4,
+    "total_completed": 2005,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
