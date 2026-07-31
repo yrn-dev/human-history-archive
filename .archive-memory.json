@@ -9652,14 +9652,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 245",
       "timestamp": 1785490955.831719
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 194",
-      "variation": true
-    },
+      "timestamp": 1785491130.7290041
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1945,
-    "total_planned": 63,
+    "total_completed": 1946,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
