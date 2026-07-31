@@ -10417,14 +10417,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 208",
       "timestamp": 1785526390.8336747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785526705.8585746
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 292",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2098,
-    "total_planned": 52,
+    "total_completed": 2099,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
