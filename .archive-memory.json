@@ -8902,14 +8902,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785456494.4863586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785456769.3288658
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1795,
-    "total_planned": 53,
+    "total_completed": 1796,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
