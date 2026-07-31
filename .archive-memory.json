@@ -9322,14 +9322,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system",
       "timestamp": 1785476209.7976933
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
-      "variation": true
-    },
+      "timestamp": 1785476472.650092
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1879,
-    "total_planned": 40,
+    "total_completed": 1880,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
