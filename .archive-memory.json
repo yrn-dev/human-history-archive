@@ -10192,14 +10192,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 254",
       "timestamp": 1785515788.226154
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 282",
-      "variation": true
-    },
+      "timestamp": 1785516062.4634979
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 201",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2053,
-    "total_planned": 26,
+    "total_completed": 2054,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
