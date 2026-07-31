@@ -10637,14 +10637,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 265",
       "timestamp": 1785536609.4842489
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785536874.0660894
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2142,
-    "total_planned": 8,
+    "total_completed": 2143,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
