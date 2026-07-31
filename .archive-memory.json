@@ -9937,14 +9937,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 272",
       "timestamp": 1785504515.0022135
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 248",
-      "variation": true
-    },
+      "timestamp": 1785504715.0690155
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2002,
-    "total_planned": 6,
+    "total_completed": 2003,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
