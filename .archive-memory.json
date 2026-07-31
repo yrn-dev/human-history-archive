@@ -9462,14 +9462,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
       "timestamp": 1785482769.6509535
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785482976.8469083
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1907,
-    "total_planned": 12,
+    "total_completed": 1908,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
