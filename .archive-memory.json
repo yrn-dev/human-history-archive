@@ -10467,14 +10467,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 265",
       "timestamp": 1785528961.7419412
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785529167.9170678
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2108,
-    "total_planned": 42,
+    "total_completed": 2109,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
