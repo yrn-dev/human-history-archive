@@ -9197,14 +9197,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
       "timestamp": 1785470297.747871
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
-      "variation": true
-    },
+      "timestamp": 1785470465.2135236
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1854,
-    "total_planned": 65,
+    "total_completed": 1855,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
