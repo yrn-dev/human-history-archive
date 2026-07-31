@@ -9607,14 +9607,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785489024.5499659
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785489179.1367478
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1936,
-    "total_planned": 54,
+    "total_completed": 1937,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
