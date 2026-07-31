@@ -9192,14 +9192,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785470086.748145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
-      "variation": true
-    },
+      "timestamp": 1785470297.747871
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1853,
-    "total_planned": 66,
+    "total_completed": 1854,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
