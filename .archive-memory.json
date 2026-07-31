@@ -10537,14 +10537,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 266",
       "timestamp": 1785532357.5679293
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785532510.943892
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2122,
-    "total_planned": 28,
+    "total_completed": 2123,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
