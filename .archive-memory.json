@@ -9302,14 +9302,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785475388.125448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785475548.197109
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1875,
-    "total_planned": 44,
+    "total_completed": 1876,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
