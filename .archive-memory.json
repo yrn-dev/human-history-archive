@@ -9212,14 +9212,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history",
       "timestamp": 1785470920.7264934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
-      "variation": true
-    },
+      "timestamp": 1785471113.3407235
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1857,
-    "total_planned": 62,
+    "total_completed": 1858,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
