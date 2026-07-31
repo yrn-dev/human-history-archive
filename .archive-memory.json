@@ -10507,14 +10507,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 208",
       "timestamp": 1785530896.3108773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785531201.4302633
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2116,
-    "total_planned": 34,
+    "total_completed": 2117,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
