@@ -9602,14 +9602,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785488755.9943125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785489024.5499659
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1935,
-    "total_planned": 55,
+    "total_completed": 1936,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
