@@ -10007,14 +10007,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 201",
       "timestamp": 1785507409.758546
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 282",
-      "variation": true
-    },
+      "timestamp": 1785507635.31212
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 257",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2016,
-    "total_planned": 63,
+    "total_completed": 2017,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
