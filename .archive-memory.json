@@ -9592,14 +9592,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
       "timestamp": 1785488398.7535481
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785488573.3776386
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1933,
-    "total_planned": 57,
+    "total_completed": 1934,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
