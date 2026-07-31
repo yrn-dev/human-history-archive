@@ -8947,14 +8947,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
       "timestamp": 1785458580.2427938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt",
-      "variation": true
-    },
+      "timestamp": 1785458893.337623
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1804,
-    "total_planned": 44,
+    "total_completed": 1805,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
