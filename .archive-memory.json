@@ -9037,14 +9037,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785462914.9928148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian",
-      "variation": true
-    },
+      "timestamp": 1785463224.6007228
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1822,
-    "total_planned": 26,
+    "total_completed": 1823,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
