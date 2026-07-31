@@ -9427,14 +9427,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
       "timestamp": 1785481104.332336
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama",
-      "variation": true
-    },
+      "timestamp": 1785481401.0028334
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1900,
-    "total_planned": 19,
+    "total_completed": 1901,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
