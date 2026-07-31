@@ -8917,14 +8917,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything",
       "timestamp": 1785457264.199617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
-      "variation": true
-    },
+      "timestamp": 1785457526.0555847
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1798,
-    "total_planned": 50,
+    "total_completed": 1799,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
