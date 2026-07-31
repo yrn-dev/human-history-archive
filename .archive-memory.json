@@ -10547,14 +10547,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 265",
       "timestamp": 1785532713.5835419
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785532922.8301888
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2124,
-    "total_planned": 26,
+    "total_completed": 2125,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
