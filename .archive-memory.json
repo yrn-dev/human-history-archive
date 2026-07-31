@@ -8982,14 +8982,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
       "timestamp": 1785460529.0759072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
-      "variation": true
-    },
+      "timestamp": 1785460681.2694392
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1811,
-    "total_planned": 37,
+    "total_completed": 1812,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
