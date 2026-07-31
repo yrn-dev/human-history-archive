@@ -9697,14 +9697,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 247",
       "timestamp": 1785493021.6505754
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 248",
-      "variation": true
-    },
+      "timestamp": 1785493308.7588644
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1954,
-    "total_planned": 54,
+    "total_completed": 1955,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
