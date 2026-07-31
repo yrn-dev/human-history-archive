@@ -10447,14 +10447,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 208",
       "timestamp": 1785527905.598259
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785528210.998321
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 266",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2104,
-    "total_planned": 46,
+    "total_completed": 2105,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
