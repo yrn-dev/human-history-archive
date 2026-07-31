@@ -9357,14 +9357,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work",
       "timestamp": 1785477788.2546303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
-      "variation": true
-    },
+      "timestamp": 1785477987.4921267
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1886,
-    "total_planned": 33,
+    "total_completed": 1887,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
