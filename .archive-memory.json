@@ -9277,14 +9277,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
       "timestamp": 1785473960.588911
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock",
-      "variation": true
-    },
+      "timestamp": 1785474270.6629307
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1870,
-    "total_planned": 49,
+    "total_completed": 1871,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
