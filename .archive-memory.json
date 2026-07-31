@@ -9442,14 +9442,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785481754.6389875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
-      "variation": true
-    },
+      "timestamp": 1785481936.1051722
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1903,
-    "total_planned": 16,
+    "total_completed": 1904,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
