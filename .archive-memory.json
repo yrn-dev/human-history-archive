@@ -10392,14 +10392,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 263",
       "timestamp": 1785525299.0616045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 266",
-      "variation": true
-    },
+      "timestamp": 1785525490.885283
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2093,
-    "total_planned": 57,
+    "total_completed": 2094,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
