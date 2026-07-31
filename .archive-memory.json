@@ -9742,14 +9742,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 245",
       "timestamp": 1785495468.5942657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785495622.5429137
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 248",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1963,
-    "total_planned": 45,
+    "total_completed": 1964,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
