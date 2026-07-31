@@ -10337,14 +10337,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 208",
       "timestamp": 1785522810.2358053
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785523014.816409
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2082,
-    "total_planned": 68,
+    "total_completed": 2083,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
