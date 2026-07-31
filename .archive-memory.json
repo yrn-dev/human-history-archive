@@ -9567,14 +9567,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan",
       "timestamp": 1785487474.0323892
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
-      "variation": true
-    },
+      "timestamp": 1785487659.8446937
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1928,
-    "total_planned": 62,
+    "total_completed": 1929,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
