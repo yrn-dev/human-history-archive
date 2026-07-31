@@ -9132,14 +9132,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785467329.270735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785467575.7940943
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1841,
-    "total_planned": 7,
+    "total_completed": 1842,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
