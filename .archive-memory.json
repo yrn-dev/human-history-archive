@@ -10012,14 +10012,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 282",
       "timestamp": 1785507635.31212
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785507786.3215013
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 254",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2017,
-    "total_planned": 62,
+    "total_completed": 2018,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
