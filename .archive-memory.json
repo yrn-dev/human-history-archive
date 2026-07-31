@@ -9637,14 +9637,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 247",
       "timestamp": 1785490327.162879
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785490619.600099
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 248",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1942,
-    "total_planned": 66,
+    "total_completed": 1943,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
