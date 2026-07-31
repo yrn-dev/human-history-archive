@@ -9497,14 +9497,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
       "timestamp": 1785484251.5824983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
-      "variation": true
-    },
+      "timestamp": 1785484471.8279521
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1914,
-    "total_planned": 5,
+    "total_completed": 1915,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
