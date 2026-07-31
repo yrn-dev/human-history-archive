@@ -9157,14 +9157,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785468510.5825574
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785468679.4869962
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1846,
-    "total_planned": 2,
+    "total_completed": 1847,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
