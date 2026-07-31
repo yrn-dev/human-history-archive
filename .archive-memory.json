@@ -10482,14 +10482,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 292",
       "timestamp": 1785529668.879765
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 266",
-      "variation": true
-    },
+      "timestamp": 1785529967.5360768
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2111,
-    "total_planned": 39,
+    "total_completed": 2112,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
