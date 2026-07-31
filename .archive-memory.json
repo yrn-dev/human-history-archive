@@ -9477,14 +9477,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
       "timestamp": 1785483479.312679
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
-      "variation": true
-    },
+      "timestamp": 1785483676.595682
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1910,
-    "total_planned": 9,
+    "total_completed": 1911,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
