@@ -9577,14 +9577,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785487891.4631245
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
-      "variation": true
-    },
+      "timestamp": 1785488071.182449
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1930,
-    "total_planned": 60,
+    "total_completed": 1931,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
