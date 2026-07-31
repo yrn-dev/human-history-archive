@@ -10377,14 +10377,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 263",
       "timestamp": 1785524601.3789406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785524759.1087377
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2090,
-    "total_planned": 60,
+    "total_completed": 2091,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
