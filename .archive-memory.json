@@ -10702,14 +10702,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 274",
       "timestamp": 1785539294.7607148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 274",
-      "variation": true
-    },
+      "timestamp": 1785539721.7332933
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2155,
-    "total_planned": 66,
+    "total_completed": 2156,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
