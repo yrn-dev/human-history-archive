@@ -9452,14 +9452,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
       "timestamp": 1785482201.0381198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785482476.7045543
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1905,
-    "total_planned": 14,
+    "total_completed": 1906,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
