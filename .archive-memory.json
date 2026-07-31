@@ -9182,14 +9182,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
       "timestamp": 1785469625.582706
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
-      "variation": true
-    },
+      "timestamp": 1785469875.3739824
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1851,
-    "total_planned": 68,
+    "total_completed": 1852,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
