@@ -10277,14 +10277,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 254",
       "timestamp": 1785519744.5954635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785520053.7626686
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 201",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2070,
-    "total_planned": 9,
+    "total_completed": 2071,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
