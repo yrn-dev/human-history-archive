@@ -9287,14 +9287,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
       "timestamp": 1785474572.321152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life",
-      "variation": true
-    },
+      "timestamp": 1785474800.7580273
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1872,
-    "total_planned": 47,
+    "total_completed": 1873,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
