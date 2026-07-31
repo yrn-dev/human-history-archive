@@ -10132,14 +10132,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 257",
       "timestamp": 1785512923.3759449
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785513148.1503427
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 257",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2041,
-    "total_planned": 38,
+    "total_completed": 2042,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
