@@ -10657,14 +10657,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 265",
       "timestamp": 1785537546.1621847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785537757.7148438
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 266",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2146,
-    "total_planned": 4,
+    "total_completed": 2147,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
