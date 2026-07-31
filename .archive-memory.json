@@ -9107,14 +9107,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
       "timestamp": 1785466290.7269356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry",
-      "variation": true
-    },
+      "timestamp": 1785466520.6528594
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1836,
-    "total_planned": 12,
+    "total_completed": 1837,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
