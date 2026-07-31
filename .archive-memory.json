@@ -9332,14 +9332,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785476644.5553277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe",
-      "variation": true
-    },
+      "timestamp": 1785476891.392312
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1881,
-    "total_planned": 38,
+    "total_completed": 1882,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
