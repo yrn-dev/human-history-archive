@@ -9907,14 +9907,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 247",
       "timestamp": 1785502984.4535167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785503208.94607
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1996,
-    "total_planned": 12,
+    "total_completed": 1997,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
