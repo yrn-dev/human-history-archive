@@ -9267,14 +9267,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
       "timestamp": 1785473358.5249753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers",
-      "variation": true
-    },
+      "timestamp": 1785473669.3957484
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1868,
-    "total_planned": 51,
+    "total_completed": 1869,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
