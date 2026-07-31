@@ -10397,14 +10397,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 266",
       "timestamp": 1785525490.885283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785525745.270405
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 208",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2094,
-    "total_planned": 56,
+    "total_completed": 2095,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
