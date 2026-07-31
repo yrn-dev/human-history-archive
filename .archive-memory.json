@@ -10247,14 +10247,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 201",
       "timestamp": 1785518312.8933518
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785518475.0675576
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2064,
-    "total_planned": 15,
+    "total_completed": 2065,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
