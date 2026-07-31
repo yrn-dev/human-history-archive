@@ -8972,14 +8972,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
       "timestamp": 1785460002.7709167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785460229.007169
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1809,
-    "total_planned": 39,
+    "total_completed": 1810,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
