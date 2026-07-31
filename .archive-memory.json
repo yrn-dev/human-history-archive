@@ -10167,14 +10167,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 282",
       "timestamp": 1785514378.3337464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785514692.6181793
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2048,
-    "total_planned": 31,
+    "total_completed": 2049,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
