@@ -10147,14 +10147,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 254",
       "timestamp": 1785513596.7200782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785513770.3441505
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2044,
-    "total_planned": 35,
+    "total_completed": 2045,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
