@@ -10022,14 +10022,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 254",
       "timestamp": 1785508034.1661751
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785508217.2665644
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 201",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2019,
-    "total_planned": 60,
+    "total_completed": 2020,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
