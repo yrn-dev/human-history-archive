@@ -9952,14 +9952,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 245",
       "timestamp": 1785505076.5373986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785505400.1585531
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 248",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2005,
-    "total_planned": 3,
+    "total_completed": 2006,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
