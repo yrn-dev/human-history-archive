@@ -9817,14 +9817,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 247",
       "timestamp": 1785498704.7191777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785498965.1017199
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 194",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1978,
-    "total_planned": 30,
+    "total_completed": 1979,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
