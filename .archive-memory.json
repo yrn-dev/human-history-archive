@@ -9457,14 +9457,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785482476.7045543
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb",
-      "variation": true
-    },
+      "timestamp": 1785482769.6509535
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1906,
-    "total_planned": 13,
+    "total_completed": 1907,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
