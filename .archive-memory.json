@@ -9352,14 +9352,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution",
       "timestamp": 1785477504.5017
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work",
-      "variation": true
-    },
+      "timestamp": 1785477788.2546303
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1885,
-    "total_planned": 34,
+    "total_completed": 1886,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
