@@ -10407,14 +10407,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 208",
       "timestamp": 1785525950.6501336
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 266",
-      "variation": true
-    },
+      "timestamp": 1785526167.9133518
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 208",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2096,
-    "total_planned": 54,
+    "total_completed": 2097,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
