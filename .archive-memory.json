@@ -8977,14 +8977,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
       "timestamp": 1785460229.007169
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument",
-      "variation": true
-    },
+      "timestamp": 1785460529.0759072
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1810,
-    "total_planned": 38,
+    "total_completed": 1811,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
