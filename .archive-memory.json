@@ -10032,14 +10032,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 201",
       "timestamp": 1785508474.0013356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785508801.4771233
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2021,
-    "total_planned": 58,
+    "total_completed": 2022,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
