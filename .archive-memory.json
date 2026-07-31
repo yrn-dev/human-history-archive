@@ -10127,14 +10127,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 256",
       "timestamp": 1785512777.638392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785512923.3759449
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 257",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2040,
-    "total_planned": 39,
+    "total_completed": 2041,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
