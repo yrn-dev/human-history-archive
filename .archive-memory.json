@@ -10517,14 +10517,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 263",
       "timestamp": 1785531499.7941842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785531740.8394558
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 208",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2118,
-    "total_planned": 32,
+    "total_completed": 2119,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
