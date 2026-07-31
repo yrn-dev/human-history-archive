@@ -9297,14 +9297,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
       "timestamp": 1785475085.6455376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage",
-      "variation": true
-    },
+      "timestamp": 1785475388.125448
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1874,
-    "total_planned": 45,
+    "total_completed": 1875,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
