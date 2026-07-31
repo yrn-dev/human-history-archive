@@ -9417,14 +9417,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
       "timestamp": 1785480618.1845703
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
-      "variation": true
-    },
+      "timestamp": 1785480873.5750062
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1898,
-    "total_planned": 21,
+    "total_completed": 1899,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
