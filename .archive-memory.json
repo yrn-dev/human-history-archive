@@ -9447,14 +9447,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785481936.1051722
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones",
-      "variation": true
-    },
+      "timestamp": 1785482201.0381198
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1904,
-    "total_planned": 15,
+    "total_completed": 1905,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
