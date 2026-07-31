@@ -9502,14 +9502,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
       "timestamp": 1785484471.8279521
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785484634.9334095
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality?",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1915,
-    "total_planned": 4,
+    "total_completed": 1916,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
