@@ -10232,14 +10232,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 254",
       "timestamp": 1785517655.385099
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 282",
-      "variation": true
-    },
+      "timestamp": 1785517944.6703901
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2061,
-    "total_planned": 18,
+    "total_completed": 2062,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
