@@ -10262,14 +10262,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 257",
       "timestamp": 1785519017.7114232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 282",
-      "variation": true
-    },
+      "timestamp": 1785519312.330422
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2067,
-    "total_planned": 12,
+    "total_completed": 2068,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
