@@ -10697,14 +10697,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 215",
       "timestamp": 1785539150.4551513
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 274",
-      "variation": true
-    },
+      "timestamp": 1785539294.7607148
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2154,
-    "total_planned": 67,
+    "total_completed": 2155,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
