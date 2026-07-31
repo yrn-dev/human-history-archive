@@ -8987,14 +8987,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785460681.2694392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
-      "variation": true
-    },
+      "timestamp": 1785460956.9132419
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1812,
-    "total_planned": 36,
+    "total_completed": 1813,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
