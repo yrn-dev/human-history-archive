@@ -10297,14 +10297,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 254",
       "timestamp": 1785520741.9701436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785520953.669841
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 282",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2074,
-    "total_planned": 5,
+    "total_completed": 2075,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
