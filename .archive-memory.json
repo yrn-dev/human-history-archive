@@ -9367,14 +9367,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines",
       "timestamp": 1785478195.3622942
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
-      "variation": true
-    },
+      "timestamp": 1785478480.898806
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1888,
-    "total_planned": 31,
+    "total_completed": 1889,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
