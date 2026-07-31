@@ -9472,14 +9472,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition",
       "timestamp": 1785483223.228351
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms",
-      "variation": true
-    },
+      "timestamp": 1785483479.312679
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1909,
-    "total_planned": 10,
+    "total_completed": 1910,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
