@@ -10077,14 +10077,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 257",
       "timestamp": 1785510716.273486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785510926.7524
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2030,
-    "total_planned": 49,
+    "total_completed": 2031,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
