@@ -9537,14 +9537,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond",
       "timestamp": 1785486122.7830937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
-      "variation": true
-    },
+      "timestamp": 1785486372.0421896
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1922,
-    "total_planned": 68,
+    "total_completed": 1923,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
