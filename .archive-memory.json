@@ -9492,14 +9492,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable",
       "timestamp": 1785484106.7300909
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785484251.5824983
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1913,
-    "total_planned": 6,
+    "total_completed": 1914,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
