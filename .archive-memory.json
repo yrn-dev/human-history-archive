@@ -9647,14 +9647,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 248",
       "timestamp": 1785490802.6719027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785490955.831719
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 194",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1944,
-    "total_planned": 64,
+    "total_completed": 1945,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
