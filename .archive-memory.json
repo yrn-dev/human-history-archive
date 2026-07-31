@@ -8967,14 +8967,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785459702.1915796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia",
-      "variation": true
-    },
+      "timestamp": 1785460002.7709167
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1808,
-    "total_planned": 40,
+    "total_completed": 1809,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
