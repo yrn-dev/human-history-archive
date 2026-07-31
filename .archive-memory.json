@@ -10542,14 +10542,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 265",
       "timestamp": 1785532510.943892
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 265",
-      "variation": true
-    },
+      "timestamp": 1785532713.5835419
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 263",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2123,
-    "total_planned": 27,
+    "total_completed": 2124,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
