@@ -9172,14 +9172,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava",
       "timestamp": 1785469132.7606525
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man",
-      "variation": true
-    },
+      "timestamp": 1785469325.3538353
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1849,
-    "total_planned": 70,
+    "total_completed": 1850,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
