@@ -9677,14 +9677,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 247",
       "timestamp": 1785492059.8537343
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 245",
-      "variation": true
-    },
+      "timestamp": 1785492222.68511
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1950,
-    "total_planned": 58,
+    "total_completed": 1951,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
