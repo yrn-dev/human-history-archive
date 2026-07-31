@@ -10287,14 +10287,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 201",
       "timestamp": 1785520336.369854
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 201",
-      "variation": true
-    },
+      "timestamp": 1785520574.7030249
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 254",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2072,
-    "total_planned": 7,
+    "total_completed": 2073,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
