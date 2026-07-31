@@ -10052,14 +10052,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 254",
       "timestamp": 1785509492.9425027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785509651.7744646
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2025,
-    "total_planned": 54,
+    "total_completed": 2026,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
