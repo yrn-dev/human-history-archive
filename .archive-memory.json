@@ -10122,14 +10122,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 254",
       "timestamp": 1785512636.5102875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785512777.638392
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 257",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2039,
-    "total_planned": 40,
+    "total_completed": 2040,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
