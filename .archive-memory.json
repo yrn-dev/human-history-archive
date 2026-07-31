@@ -9962,18 +9962,17 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 248",
       "timestamp": 1785505624.4378514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 247",
-      "variation": true
+      "timestamp": 1785505848.1822789
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 2007,
-    "total_planned": 1,
+    "total_completed": 2008,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
