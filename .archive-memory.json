@@ -9232,14 +9232,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun",
       "timestamp": 1785471695.0488074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education",
-      "variation": true
-    },
+      "timestamp": 1785471858.227651
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1861,
-    "total_planned": 58,
+    "total_completed": 1862,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
