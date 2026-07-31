@@ -10387,14 +10387,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 263",
       "timestamp": 1785525059.3335857
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785525299.0616045
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 266",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2092,
-    "total_planned": 58,
+    "total_completed": 2093,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
