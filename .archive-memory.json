@@ -10627,14 +10627,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 292",
       "timestamp": 1785536224.3793
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785536436.3383784
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2140,
-    "total_planned": 10,
+    "total_completed": 2141,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
