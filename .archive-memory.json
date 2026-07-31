@@ -9307,14 +9307,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars",
       "timestamp": 1785475548.197109
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found",
-      "variation": true
-    },
+      "timestamp": 1785475849.664704
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1876,
-    "total_planned": 43,
+    "total_completed": 1877,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
