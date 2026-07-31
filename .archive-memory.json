@@ -9217,14 +9217,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East",
       "timestamp": 1785471113.3407235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement",
-      "variation": true
-    },
+      "timestamp": 1785471340.8846982
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1858,
-    "total_planned": 61,
+    "total_completed": 1859,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
