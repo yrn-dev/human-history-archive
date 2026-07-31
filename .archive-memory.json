@@ -10437,14 +10437,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 292",
       "timestamp": 1785527380.262861
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 266",
-      "variation": true
-    },
+      "timestamp": 1785527686.534896
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 208",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2102,
-    "total_planned": 48,
+    "total_completed": 2103,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
