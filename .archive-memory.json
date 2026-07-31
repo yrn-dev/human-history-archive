@@ -9187,14 +9187,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division",
       "timestamp": 1785469875.3739824
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries",
-      "variation": true
-    },
+      "timestamp": 1785470086.748145
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1852,
-    "total_planned": 67,
+    "total_completed": 1853,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
