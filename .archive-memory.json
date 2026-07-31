@@ -9712,14 +9712,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 247",
       "timestamp": 1785493846.9974751
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785494079.8157375
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 194",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1957,
-    "total_planned": 51,
+    "total_completed": 1958,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
