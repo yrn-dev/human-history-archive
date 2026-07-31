@@ -10522,14 +10522,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 265",
       "timestamp": 1785531740.8394558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 208",
-      "variation": true
-    },
+      "timestamp": 1785532008.4790952
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2119,
-    "total_planned": 31,
+    "total_completed": 2120,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
