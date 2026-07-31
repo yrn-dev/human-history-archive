@@ -10492,14 +10492,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 265",
       "timestamp": 1785530231.2301028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785530366.4365005
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 292",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2113,
-    "total_planned": 37,
+    "total_completed": 2114,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
