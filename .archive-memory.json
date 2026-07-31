@@ -10312,14 +10312,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 256",
       "timestamp": 1785521472.28257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785521768.2483444
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 254",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2077,
-    "total_planned": 2,
+    "total_completed": 2078,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
