@@ -10172,14 +10172,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 254",
       "timestamp": 1785514692.6181793
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 256",
-      "variation": true
-    },
+      "timestamp": 1785514992.8540404
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2049,
-    "total_planned": 30,
+    "total_completed": 2050,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
