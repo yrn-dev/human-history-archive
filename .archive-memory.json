@@ -9552,14 +9552,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
       "timestamp": 1785486822.334513
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature",
-      "variation": true
-    },
+      "timestamp": 1785487102.8014715
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1925,
-    "total_planned": 65,
+    "total_completed": 1926,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
