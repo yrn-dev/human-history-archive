@@ -10042,14 +10042,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 256",
       "timestamp": 1785508992.0971215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 282",
-      "variation": true
-    },
+      "timestamp": 1785509256.7961767
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 254",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2023,
-    "total_planned": 56,
+    "total_completed": 2024,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
