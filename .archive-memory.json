@@ -9812,14 +9812,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 247",
       "timestamp": 1785498393.9656024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 247",
-      "variation": true
-    },
+      "timestamp": 1785498704.7191777
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 247",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1977,
-    "total_planned": 31,
+    "total_completed": 1978,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
