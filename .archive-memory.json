@@ -8922,14 +8922,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world",
       "timestamp": 1785457526.0555847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars",
-      "variation": true
-    },
+      "timestamp": 1785457675.842358
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1799,
-    "total_planned": 49,
+    "total_completed": 1800,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
