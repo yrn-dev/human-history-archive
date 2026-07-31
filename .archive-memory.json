@@ -9407,14 +9407,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity",
       "timestamp": 1785480156.1176775
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances",
-      "variation": true
-    },
+      "timestamp": 1785480333.261156
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond",
@@ -9527,8 +9527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1896,
-    "total_planned": 23,
+    "total_completed": 1897,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
