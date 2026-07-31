@@ -9057,14 +9057,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785463974.2275958
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
-      "variation": true
-    },
+      "timestamp": 1785464133.1042829
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1826,
-    "total_planned": 22,
+    "total_completed": 1827,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
