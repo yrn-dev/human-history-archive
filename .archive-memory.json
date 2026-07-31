@@ -10532,14 +10532,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 265",
       "timestamp": 1785532196.6352963
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 266",
-      "variation": true
-    },
+      "timestamp": 1785532357.5679293
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2121,
-    "total_planned": 29,
+    "total_completed": 2122,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
