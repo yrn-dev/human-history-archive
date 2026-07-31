@@ -9117,14 +9117,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method",
       "timestamp": 1785466735.9591699
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle",
-      "variation": true
-    },
+      "timestamp": 1785466906.4630995
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1838,
-    "total_planned": 10,
+    "total_completed": 1839,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
