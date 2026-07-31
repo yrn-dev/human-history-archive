@@ -9542,14 +9542,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution",
       "timestamp": 1785486372.0421896
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors",
-      "variation": true
-    },
+      "timestamp": 1785486558.1846502
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1923,
-    "total_planned": 67,
+    "total_completed": 1924,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
