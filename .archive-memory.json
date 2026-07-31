@@ -9732,14 +9732,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 245",
       "timestamp": 1785494852.282509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 194",
-      "variation": true
-    },
+      "timestamp": 1785495152.650594
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1961,
-    "total_planned": 47,
+    "total_completed": 1962,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
