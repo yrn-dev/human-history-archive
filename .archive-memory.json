@@ -10062,14 +10062,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 256",
       "timestamp": 1785509945.578127
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785510167.873472
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2027,
-    "total_planned": 52,
+    "total_completed": 2028,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
