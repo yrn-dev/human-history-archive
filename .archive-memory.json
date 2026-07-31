@@ -10117,14 +10117,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 201",
       "timestamp": 1785512379.7930317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785512636.5102875
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 256",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2038,
-    "total_planned": 41,
+    "total_completed": 2039,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
