@@ -9597,14 +9597,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
       "timestamp": 1785488573.3776386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights",
-      "variation": true
-    },
+      "timestamp": 1785488755.9943125
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I",
@@ -9882,8 +9882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1934,
-    "total_planned": 56,
+    "total_completed": 1935,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
