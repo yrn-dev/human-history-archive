@@ -10142,14 +10142,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 257",
       "timestamp": 1785513298.1551132
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 254",
-      "variation": true
-    },
+      "timestamp": 1785513596.7200782
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 257",
@@ -10327,8 +10327,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2043,
-    "total_planned": 36,
+    "total_completed": 2044,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
