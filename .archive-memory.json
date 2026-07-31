@@ -10577,14 +10577,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 265",
       "timestamp": 1785534183.3229508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 263",
-      "variation": true
-    },
+      "timestamp": 1785534387.762187
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 265",
@@ -10682,8 +10682,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2130,
-    "total_planned": 20,
+    "total_completed": 2131,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
