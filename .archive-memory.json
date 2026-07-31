@@ -9822,14 +9822,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 247",
       "timestamp": 1785498965.1017199
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 194",
-      "variation": true
-    },
+      "timestamp": 1785499215.2828236
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 245",
@@ -9972,8 +9972,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1979,
-    "total_planned": 29,
+    "total_completed": 1980,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
