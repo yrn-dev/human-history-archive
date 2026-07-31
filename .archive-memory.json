@@ -9052,14 +9052,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s",
       "timestamp": 1785463756.815402
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome",
-      "variation": true
-    },
+      "timestamp": 1785463974.2275958
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable",
@@ -9172,8 +9172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 1825,
-    "total_planned": 23,
+    "total_completed": 1826,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
