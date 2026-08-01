@@ -11672,14 +11672,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 292",
       "timestamp": 1785584601.9428115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 229",
-      "variation": true
-    },
+      "timestamp": 1785584874.2784626
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2349,
-    "total_planned": 14,
+    "total_completed": 2350,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
