@@ -11427,14 +11427,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 292",
       "timestamp": 1785573895.9333317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785574143.614815
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2300,
-    "total_planned": 63,
+    "total_completed": 2301,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
