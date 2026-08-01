@@ -11972,14 +11972,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 301",
       "timestamp": 1785598546.3875782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785598785.877846
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 236",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2409,
-    "total_planned": 25,
+    "total_completed": 2410,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
