@@ -10772,14 +10772,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 274",
       "timestamp": 1785543217.7300723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 275",
-      "variation": true
-    },
+      "timestamp": 1785543378.0406783
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 275",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2169,
-    "total_planned": 52,
+    "total_completed": 2170,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
