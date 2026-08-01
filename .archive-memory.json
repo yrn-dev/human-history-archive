@@ -12537,14 +12537,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 352",
       "timestamp": 1785624398.0442367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 250",
-      "variation": true
-    },
+      "timestamp": 1785624592.170836
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2522,
-    "total_planned": 54,
+    "total_completed": 2523,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
