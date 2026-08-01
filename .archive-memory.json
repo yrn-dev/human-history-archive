@@ -12047,14 +12047,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 236",
       "timestamp": 1785602103.237137
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 236",
-      "variation": true
-    },
+      "timestamp": 1785602402.990243
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 302",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2424,
-    "total_planned": 10,
+    "total_completed": 2425,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
