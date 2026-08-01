@@ -11307,14 +11307,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 312",
       "timestamp": 1785568301.2906826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 284",
-      "variation": true
-    },
+      "timestamp": 1785568528.202133
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 284",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2276,
-    "total_planned": 16,
+    "total_completed": 2277,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
