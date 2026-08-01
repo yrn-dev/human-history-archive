@@ -12332,14 +12332,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 311",
       "timestamp": 1785615116.9405506
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785615417.6139061
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 308",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2481,
-    "total_planned": 24,
+    "total_completed": 2482,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
