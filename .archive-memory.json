@@ -11692,14 +11692,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 293",
       "timestamp": 1785585565.1110554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785585766.306037
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2353,
-    "total_planned": 10,
+    "total_completed": 2354,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
