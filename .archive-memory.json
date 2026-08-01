@@ -11997,14 +11997,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 301",
       "timestamp": 1785599630.4455307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785599882.8448436
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2414,
-    "total_planned": 20,
+    "total_completed": 2415,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
