@@ -12527,14 +12527,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 320",
       "timestamp": 1785623791.830948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 250",
-      "variation": true
-    },
+      "timestamp": 1785624107.6470306
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 352",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2520,
-    "total_planned": 56,
+    "total_completed": 2521,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
