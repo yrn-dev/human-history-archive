@@ -11887,14 +11887,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 299",
       "timestamp": 1785594695.5541346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785595006.2054532
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 236",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2392,
-    "total_planned": 42,
+    "total_completed": 2393,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
