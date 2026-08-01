@@ -11597,14 +11597,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 292",
       "timestamp": 1785581159.9795477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 322",
-      "variation": true
-    },
+      "timestamp": 1785581395.8133802
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 293",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2334,
-    "total_planned": 29,
+    "total_completed": 2335,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
