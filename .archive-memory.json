@@ -11127,14 +11127,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 283",
       "timestamp": 1785560185.8647137
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785560452.0378203
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2240,
-    "total_planned": 52,
+    "total_completed": 2241,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
