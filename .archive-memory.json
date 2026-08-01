@@ -11542,14 +11542,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 229",
       "timestamp": 1785578834.2596803
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 293",
-      "variation": true
-    },
+      "timestamp": 1785579147.6676393
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2323,
-    "total_planned": 40,
+    "total_completed": 2324,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
