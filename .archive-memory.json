@@ -11507,14 +11507,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 292",
       "timestamp": 1785577299.5667367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 322",
-      "variation": true
-    },
+      "timestamp": 1785577585.636236
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2316,
-    "total_planned": 47,
+    "total_completed": 2317,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
