@@ -11857,14 +11857,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 301",
       "timestamp": 1785593206.6769757
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785593451.9349916
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2386,
-    "total_planned": 48,
+    "total_completed": 2387,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
