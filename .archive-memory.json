@@ -11662,14 +11662,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 292",
       "timestamp": 1785584266.0924768
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 229",
-      "variation": true
-    },
+      "timestamp": 1785584401.8322787
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2347,
-    "total_planned": 16,
+    "total_completed": 2348,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
