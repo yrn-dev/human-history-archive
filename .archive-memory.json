@@ -10952,14 +10952,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 302",
       "timestamp": 1785551620.150984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785551823.7610474
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 275",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2205,
-    "total_planned": 16,
+    "total_completed": 2206,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
