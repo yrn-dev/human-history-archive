@@ -11712,14 +11712,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 292",
       "timestamp": 1785586526.851161
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 293",
-      "variation": true
-    },
+      "timestamp": 1785586749.0890045
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2357,
-    "total_planned": 6,
+    "total_completed": 2358,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
