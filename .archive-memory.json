@@ -11287,14 +11287,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 284",
       "timestamp": 1785567496.9321983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785567675.1263623
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 222",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2272,
-    "total_planned": 20,
+    "total_completed": 2273,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
