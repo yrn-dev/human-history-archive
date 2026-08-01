@@ -12292,14 +12292,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 311",
       "timestamp": 1785613410.768523
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785613578.1341946
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 342",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2473,
-    "total_planned": 32,
+    "total_completed": 2474,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
