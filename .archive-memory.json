@@ -11162,14 +11162,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 283",
       "timestamp": 1785561911.7686608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785562127.915471
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2247,
-    "total_planned": 45,
+    "total_completed": 2248,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
