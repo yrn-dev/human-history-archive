@@ -12202,14 +12202,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 308",
       "timestamp": 1785609392.0753407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785609638.951038
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2455,
-    "total_planned": 50,
+    "total_completed": 2456,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
