@@ -12312,14 +12312,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 311",
       "timestamp": 1785614271.5053117
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785614549.2850506
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 243",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2477,
-    "total_planned": 28,
+    "total_completed": 2478,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
