@@ -11277,14 +11277,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 281",
       "timestamp": 1785567194.1075172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785567344.3326473
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 284",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2270,
-    "total_planned": 22,
+    "total_completed": 2271,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
