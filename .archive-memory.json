@@ -11772,14 +11772,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 301",
       "timestamp": 1785589014.1203406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 236",
-      "variation": true
-    },
+      "timestamp": 1785589277.7793067
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 302",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2369,
-    "total_planned": 65,
+    "total_completed": 2370,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
