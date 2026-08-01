@@ -11552,14 +11552,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 290",
       "timestamp": 1785579400.200328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785579624.1539397
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2325,
-    "total_planned": 38,
+    "total_completed": 2326,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
