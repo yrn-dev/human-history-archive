@@ -12472,14 +12472,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 317",
       "timestamp": 1785621484.2888045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 250",
-      "variation": true
-    },
+      "timestamp": 1785621703.9612517
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2509,
-    "total_planned": 67,
+    "total_completed": 2510,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
