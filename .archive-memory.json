@@ -11357,14 +11357,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 312",
       "timestamp": 1785570626.2614634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785570854.664366
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2286,
-    "total_planned": 6,
+    "total_completed": 2287,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
