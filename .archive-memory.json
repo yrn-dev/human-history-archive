@@ -11362,14 +11362,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 283",
       "timestamp": 1785570854.664366
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785571169.0275366
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2287,
-    "total_planned": 5,
+    "total_completed": 2288,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
