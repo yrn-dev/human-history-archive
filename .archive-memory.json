@@ -10932,14 +10932,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 302",
       "timestamp": 1785550637.3893268
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785550889.6230164
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2201,
-    "total_planned": 20,
+    "total_completed": 2202,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
