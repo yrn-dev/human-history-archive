@@ -11312,14 +11312,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 284",
       "timestamp": 1785568528.202133
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 284",
-      "variation": true
-    },
+      "timestamp": 1785568839.26657
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2277,
-    "total_planned": 15,
+    "total_completed": 2278,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
