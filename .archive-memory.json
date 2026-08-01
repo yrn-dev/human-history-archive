@@ -12422,14 +12422,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 342",
       "timestamp": 1785619395.3500395
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785619547.7097447
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 243",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2499,
-    "total_planned": 6,
+    "total_completed": 2500,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
