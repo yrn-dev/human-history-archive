@@ -11777,14 +11777,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 236",
       "timestamp": 1785589277.7793067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785589551.6743865
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2370,
-    "total_planned": 64,
+    "total_completed": 2371,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
