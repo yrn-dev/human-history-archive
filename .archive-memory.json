@@ -11652,14 +11652,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 292",
       "timestamp": 1785583705.8573203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785583962.0000439
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2345,
-    "total_planned": 18,
+    "total_completed": 2346,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
