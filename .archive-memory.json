@@ -10862,14 +10862,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 272",
       "timestamp": 1785547457.0717027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 274",
-      "variation": true
-    },
+      "timestamp": 1785547641.0605962
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 215",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2187,
-    "total_planned": 34,
+    "total_completed": 2188,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
