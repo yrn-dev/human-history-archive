@@ -12612,14 +12612,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 352",
       "timestamp": 1785627584.796881
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 352",
-      "variation": true
-    },
+      "timestamp": 1785627849.0624583
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2537,
-    "total_planned": 39,
+    "total_completed": 2538,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
