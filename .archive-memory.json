@@ -12167,14 +12167,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 310",
       "timestamp": 1785607716.2207613
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785607947.1885507
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 311",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2448,
-    "total_planned": 57,
+    "total_completed": 2449,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
