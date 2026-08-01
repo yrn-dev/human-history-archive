@@ -11907,14 +11907,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 332",
       "timestamp": 1785595620.2326186
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785595844.8642533
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2396,
-    "total_planned": 38,
+    "total_completed": 2397,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
