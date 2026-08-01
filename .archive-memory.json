@@ -12067,14 +12067,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 302",
       "timestamp": 1785603088.193232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 332",
-      "variation": true
-    },
+      "timestamp": 1785603242.701488
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2428,
-    "total_planned": 6,
+    "total_completed": 2429,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
