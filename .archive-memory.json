@@ -11827,14 +11827,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 332",
       "timestamp": 1785591910.3075507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785592057.7740352
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2380,
-    "total_planned": 54,
+    "total_completed": 2381,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
