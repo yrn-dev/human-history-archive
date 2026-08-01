@@ -10777,14 +10777,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 275",
       "timestamp": 1785543378.0406783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 275",
-      "variation": true
-    },
+      "timestamp": 1785543591.5973885
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 302",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2170,
-    "total_planned": 51,
+    "total_completed": 2171,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
