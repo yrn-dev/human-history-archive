@@ -10882,14 +10882,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 302",
       "timestamp": 1785548417.7699084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 215",
-      "variation": true
-    },
+      "timestamp": 1785548676.8085005
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 302",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2191,
-    "total_planned": 30,
+    "total_completed": 2192,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
