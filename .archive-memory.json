@@ -11047,14 +11047,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 222",
       "timestamp": 1785556493.0285535
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 312",
-      "variation": true
-    },
+      "timestamp": 1785556658.3738747
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2224,
-    "total_planned": 68,
+    "total_completed": 2225,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
