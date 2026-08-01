@@ -12547,14 +12547,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 319",
       "timestamp": 1785624736.1793983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785624994.617621
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2524,
-    "total_planned": 52,
+    "total_completed": 2525,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
