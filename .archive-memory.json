@@ -12592,14 +12592,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 352",
       "timestamp": 1785626710.6323202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785626957.0846252
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2533,
-    "total_planned": 43,
+    "total_completed": 2534,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
