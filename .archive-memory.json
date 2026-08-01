@@ -11202,14 +11202,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 312",
       "timestamp": 1785563651.8734233
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785563791.3362627
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2255,
-    "total_planned": 37,
+    "total_completed": 2256,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
