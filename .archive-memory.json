@@ -11457,14 +11457,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 293",
       "timestamp": 1785575311.0732858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785575501.0310571
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2306,
-    "total_planned": 57,
+    "total_completed": 2307,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
