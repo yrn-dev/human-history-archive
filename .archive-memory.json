@@ -11002,14 +11002,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 274",
       "timestamp": 1785554257.429442
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 274",
-      "variation": true
-    },
+      "timestamp": 1785554558.7561808
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 272",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2215,
-    "total_planned": 6,
+    "total_completed": 2216,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
