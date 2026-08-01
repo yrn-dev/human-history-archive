@@ -11347,14 +11347,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 284",
       "timestamp": 1785570179.1799948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 312",
-      "variation": true
-    },
+      "timestamp": 1785570379.3840072
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 312",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2284,
-    "total_planned": 8,
+    "total_completed": 2285,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
