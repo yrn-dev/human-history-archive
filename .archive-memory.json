@@ -12437,14 +12437,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 310",
       "timestamp": 1785620069.2436252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785620280.5534198
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 342",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2502,
-    "total_planned": 3,
+    "total_completed": 2503,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
