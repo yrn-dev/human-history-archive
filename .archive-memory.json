@@ -11232,14 +11232,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 283",
       "timestamp": 1785564853.8742034
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 284",
-      "variation": true
-    },
+      "timestamp": 1785565148.1972346
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 284",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2261,
-    "total_planned": 31,
+    "total_completed": 2262,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
