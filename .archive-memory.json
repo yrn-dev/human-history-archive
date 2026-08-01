@@ -11812,14 +11812,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 301",
       "timestamp": 1785591056.4190044
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785591365.96156
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 302",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2377,
-    "total_planned": 57,
+    "total_completed": 2378,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
