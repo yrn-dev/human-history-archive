@@ -11037,14 +11037,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 284",
       "timestamp": 1785556042.9742513
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 312",
-      "variation": true
-    },
+      "timestamp": 1785556199.0488927
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 222",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2222,
-    "total_planned": 70,
+    "total_completed": 2223,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
