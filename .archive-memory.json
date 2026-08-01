@@ -12242,14 +12242,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 310",
       "timestamp": 1785611308.6540325
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785611452.23216
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2463,
-    "total_planned": 42,
+    "total_completed": 2464,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
