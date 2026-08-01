@@ -11102,14 +11102,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 283",
       "timestamp": 1785558889.1400037
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785559086.6727307
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2235,
-    "total_planned": 57,
+    "total_completed": 2236,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
