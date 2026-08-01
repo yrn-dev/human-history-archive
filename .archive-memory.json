@@ -12577,14 +12577,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 319",
       "timestamp": 1785626017.9683247
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785626234.7522979
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2530,
-    "total_planned": 46,
+    "total_completed": 2531,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
