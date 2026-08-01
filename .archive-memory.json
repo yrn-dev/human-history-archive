@@ -12557,14 +12557,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 319",
       "timestamp": 1785625162.892404
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785625326.4263036
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 320",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2526,
-    "total_planned": 50,
+    "total_completed": 2527,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
