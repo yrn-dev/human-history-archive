@@ -11657,14 +11657,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 290",
       "timestamp": 1785583962.0000439
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785584266.0924768
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 229",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2346,
-    "total_planned": 17,
+    "total_completed": 2347,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
