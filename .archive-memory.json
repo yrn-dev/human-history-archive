@@ -12102,14 +12102,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 310",
       "timestamp": 1785604575.9966905
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 342",
-      "variation": true
-    },
+      "timestamp": 1785604871.8683352
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 342",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2435,
-    "total_planned": 70,
+    "total_completed": 2436,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
