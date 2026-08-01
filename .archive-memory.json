@@ -11547,14 +11547,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 293",
       "timestamp": 1785579147.6676393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785579400.200328
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2324,
-    "total_planned": 39,
+    "total_completed": 2325,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
