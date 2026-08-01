@@ -12152,14 +12152,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 310",
       "timestamp": 1785606886.77774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785607092.3042386
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2445,
-    "total_planned": 60,
+    "total_completed": 2446,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
