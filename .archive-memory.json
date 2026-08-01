@@ -11292,14 +11292,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 283",
       "timestamp": 1785567675.1263623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 222",
-      "variation": true
-    },
+      "timestamp": 1785567927.3934317
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2273,
-    "total_planned": 19,
+    "total_completed": 2274,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
