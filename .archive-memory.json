@@ -10977,14 +10977,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 272",
       "timestamp": 1785552878.1191216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 275",
-      "variation": true
-    },
+      "timestamp": 1785553183.8475854
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2210,
-    "total_planned": 11,
+    "total_completed": 2211,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
