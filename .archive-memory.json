@@ -11052,14 +11052,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 312",
       "timestamp": 1785556658.3738747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785556926.0391996
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2225,
-    "total_planned": 67,
+    "total_completed": 2226,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
