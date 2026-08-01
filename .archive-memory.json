@@ -12322,14 +12322,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 243",
       "timestamp": 1785614701.213202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785614871.293003
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 311",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2479,
-    "total_planned": 26,
+    "total_completed": 2480,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
