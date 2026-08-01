@@ -11942,14 +11942,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 299",
       "timestamp": 1785597147.849095
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785597415.7486038
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2403,
-    "total_planned": 31,
+    "total_completed": 2404,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
