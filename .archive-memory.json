@@ -11922,14 +11922,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 301",
       "timestamp": 1785596361.6409304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 236",
-      "variation": true
-    },
+      "timestamp": 1785596648.642051
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 332",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2399,
-    "total_planned": 35,
+    "total_completed": 2400,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
