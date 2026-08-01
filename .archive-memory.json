@@ -10872,14 +10872,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 215",
       "timestamp": 1785547938.3642743
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 274",
-      "variation": true
-    },
+      "timestamp": 1785548216.7597275
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 302",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2189,
-    "total_planned": 32,
+    "total_completed": 2190,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
