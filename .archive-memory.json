@@ -10917,14 +10917,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 275",
       "timestamp": 1785550019.1251411
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 215",
-      "variation": true
-    },
+      "timestamp": 1785550241.3631606
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2198,
-    "total_planned": 23,
+    "total_completed": 2199,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
