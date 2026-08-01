@@ -11082,14 +11082,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 222",
       "timestamp": 1785557965.0083847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 222",
-      "variation": true
-    },
+      "timestamp": 1785558276.1010997
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2231,
-    "total_planned": 61,
+    "total_completed": 2232,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
