@@ -12522,14 +12522,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 320",
       "timestamp": 1785623648.7451782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785623791.830948
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 250",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2519,
-    "total_planned": 57,
+    "total_completed": 2520,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
