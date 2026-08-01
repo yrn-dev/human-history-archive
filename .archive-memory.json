@@ -11152,14 +11152,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 312",
       "timestamp": 1785561462.479502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 284",
-      "variation": true
-    },
+      "timestamp": 1785561742.2401104
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2245,
-    "total_planned": 47,
+    "total_completed": 2246,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
