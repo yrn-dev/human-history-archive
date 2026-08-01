@@ -11802,14 +11802,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 301",
       "timestamp": 1785590466.0560725
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785590757.918848
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2375,
-    "total_planned": 59,
+    "total_completed": 2376,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
