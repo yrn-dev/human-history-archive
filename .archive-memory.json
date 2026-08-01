@@ -12177,14 +12177,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 311",
       "timestamp": 1785608092.315852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785608416.82397
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 243",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2450,
-    "total_planned": 55,
+    "total_completed": 2451,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
