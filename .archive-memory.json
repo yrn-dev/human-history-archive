@@ -11862,14 +11862,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 301",
       "timestamp": 1785593451.9349916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785593607.0925033
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2387,
-    "total_planned": 47,
+    "total_completed": 2388,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
