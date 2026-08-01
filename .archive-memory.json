@@ -10817,14 +10817,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 272",
       "timestamp": 1785545435.2299964
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785545687.0470715
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2178,
-    "total_planned": 43,
+    "total_completed": 2179,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
