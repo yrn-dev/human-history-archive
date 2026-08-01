@@ -11987,14 +11987,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 302",
       "timestamp": 1785599117.220408
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 332",
-      "variation": true
-    },
+      "timestamp": 1785599423.2735076
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2412,
-    "total_planned": 22,
+    "total_completed": 2413,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
