@@ -11687,14 +11687,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 292",
       "timestamp": 1785585263.8134198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 293",
-      "variation": true
-    },
+      "timestamp": 1785585565.1110554
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2352,
-    "total_planned": 11,
+    "total_completed": 2353,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
