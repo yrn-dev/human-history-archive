@@ -10827,14 +10827,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 274",
       "timestamp": 1785545916.5918305
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785546169.7530077
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2180,
-    "total_planned": 41,
+    "total_completed": 2181,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
