@@ -11717,14 +11717,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 293",
       "timestamp": 1785586749.0890045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785586968.569179
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2358,
-    "total_planned": 5,
+    "total_completed": 2359,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
