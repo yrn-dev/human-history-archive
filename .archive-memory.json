@@ -12407,14 +12407,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 311",
       "timestamp": 1785618634.291146
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785618918.3677344
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 342",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2496,
-    "total_planned": 9,
+    "total_completed": 2497,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
