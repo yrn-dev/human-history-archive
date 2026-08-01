@@ -12492,14 +12492,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 317",
       "timestamp": 1785622402.3197167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785622663.3938642
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2513,
-    "total_planned": 63,
+    "total_completed": 2514,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
