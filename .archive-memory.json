@@ -12487,14 +12487,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 319",
       "timestamp": 1785622099.335442
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785622402.3197167
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2512,
-    "total_planned": 64,
+    "total_completed": 2513,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
