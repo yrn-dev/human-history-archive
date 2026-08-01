@@ -12262,14 +12262,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 310",
       "timestamp": 1785612080.622843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785612277.434272
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2467,
-    "total_planned": 38,
+    "total_completed": 2468,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
