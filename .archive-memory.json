@@ -11572,14 +11572,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 290",
       "timestamp": 1785580117.072608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785580297.2502356
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 322",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2329,
-    "total_planned": 34,
+    "total_completed": 2330,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
