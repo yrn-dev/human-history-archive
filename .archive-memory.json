@@ -11352,14 +11352,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 312",
       "timestamp": 1785570379.3840072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 312",
-      "variation": true
-    },
+      "timestamp": 1785570626.2614634
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2285,
-    "total_planned": 7,
+    "total_completed": 2286,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
