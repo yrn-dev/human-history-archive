@@ -11377,14 +11377,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 312",
       "timestamp": 1785571676.062517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785571976.6102307
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2290,
-    "total_planned": 2,
+    "total_completed": 2291,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
