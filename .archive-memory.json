@@ -12017,14 +12017,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 332",
       "timestamp": 1785600662.9513829
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785600888.9991732
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2418,
-    "total_planned": 16,
+    "total_completed": 2419,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
