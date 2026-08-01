@@ -11467,14 +11467,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 290",
       "timestamp": 1785575756.5531662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785575932.8644538
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2308,
-    "total_planned": 55,
+    "total_completed": 2309,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
