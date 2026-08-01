@@ -11747,14 +11747,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 236",
       "timestamp": 1785588042.5291293
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785588195.6140897
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2364,
-    "total_planned": 70,
+    "total_completed": 2365,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
