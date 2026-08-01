@@ -12377,14 +12377,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 308",
       "timestamp": 1785617318.5456517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785617540.0036373
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 342",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2490,
-    "total_planned": 15,
+    "total_completed": 2491,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
