@@ -11057,14 +11057,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 283",
       "timestamp": 1785556926.0391996
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785557062.6580632
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2226,
-    "total_planned": 66,
+    "total_completed": 2227,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
