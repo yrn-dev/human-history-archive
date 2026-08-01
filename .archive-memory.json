@@ -11532,14 +11532,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 290",
       "timestamp": 1785578437.931838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 229",
-      "variation": true
-    },
+      "timestamp": 1785578686.3797657
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 229",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2321,
-    "total_planned": 42,
+    "total_completed": 2322,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
