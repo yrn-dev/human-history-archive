@@ -12217,14 +12217,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 311",
       "timestamp": 1785610251.0254705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 243",
-      "variation": true
-    },
+      "timestamp": 1785610513.3900483
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 243",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2458,
-    "total_planned": 47,
+    "total_completed": 2459,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
