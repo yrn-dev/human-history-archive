@@ -11822,14 +11822,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 302",
       "timestamp": 1785591669.7421055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 332",
-      "variation": true
-    },
+      "timestamp": 1785591910.3075507
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2379,
-    "total_planned": 55,
+    "total_completed": 2380,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
