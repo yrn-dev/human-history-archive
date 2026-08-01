@@ -12222,14 +12222,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 243",
       "timestamp": 1785610513.3900483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 243",
-      "variation": true
-    },
+      "timestamp": 1785610670.303226
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2459,
-    "total_planned": 46,
+    "total_completed": 2460,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
