@@ -12477,14 +12477,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 250",
       "timestamp": 1785621703.9612517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785621947.997382
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2510,
-    "total_planned": 66,
+    "total_completed": 2511,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
