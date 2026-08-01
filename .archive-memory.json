@@ -10757,14 +10757,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 274",
       "timestamp": 1785542365.7729433
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785542623.3179562
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2166,
-    "total_planned": 55,
+    "total_completed": 2167,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
