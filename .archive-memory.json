@@ -11337,14 +11337,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 283",
       "timestamp": 1785569698.0242283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785569895.247637
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 284",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2282,
-    "total_planned": 10,
+    "total_completed": 2283,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
