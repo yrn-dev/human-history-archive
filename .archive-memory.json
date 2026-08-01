@@ -11252,14 +11252,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 222",
       "timestamp": 1785565827.3242176
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 312",
-      "variation": true
-    },
+      "timestamp": 1785566048.1642053
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2265,
-    "total_planned": 27,
+    "total_completed": 2266,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
