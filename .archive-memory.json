@@ -11207,14 +11207,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 283",
       "timestamp": 1785563791.3362627
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785564043.9716053
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2256,
-    "total_planned": 36,
+    "total_completed": 2257,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
