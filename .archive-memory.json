@@ -11982,14 +11982,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 236",
       "timestamp": 1785598960.1995866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785599117.220408
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 332",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2411,
-    "total_planned": 23,
+    "total_completed": 2412,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
