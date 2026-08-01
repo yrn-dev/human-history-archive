@@ -11567,14 +11567,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 322",
       "timestamp": 1785579973.1161094
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785580117.072608
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2328,
-    "total_planned": 35,
+    "total_completed": 2329,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
