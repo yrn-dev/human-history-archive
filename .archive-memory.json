@@ -11097,14 +11097,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 283",
       "timestamp": 1785558611.5856402
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785558889.1400037
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2234,
-    "total_planned": 58,
+    "total_completed": 2235,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
