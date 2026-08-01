@@ -11172,14 +11172,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 283",
       "timestamp": 1785562419.0929356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785562587.0691319
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2249,
-    "total_planned": 43,
+    "total_completed": 2250,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
