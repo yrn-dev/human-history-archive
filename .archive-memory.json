@@ -12357,14 +12357,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 308",
       "timestamp": 1785616440.3548517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785616724.9245918
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 308",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2486,
-    "total_planned": 19,
+    "total_completed": 2487,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
