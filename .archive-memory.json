@@ -11647,14 +11647,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 290",
       "timestamp": 1785583413.7717192
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785583705.8573203
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2344,
-    "total_planned": 19,
+    "total_completed": 2345,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
