@@ -11297,14 +11297,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 222",
       "timestamp": 1785567927.3934317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785568072.2273574
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 312",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2274,
-    "total_planned": 18,
+    "total_completed": 2275,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
