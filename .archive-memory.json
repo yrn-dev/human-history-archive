@@ -11472,14 +11472,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 290",
       "timestamp": 1785575932.8644538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785576110.7917633
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 293",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2309,
-    "total_planned": 54,
+    "total_completed": 2310,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
