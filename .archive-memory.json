@@ -11262,14 +11262,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 281",
       "timestamp": 1785566308.935182
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 284",
-      "variation": true
-    },
+      "timestamp": 1785566615.8619702
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2267,
-    "total_planned": 25,
+    "total_completed": 2268,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
