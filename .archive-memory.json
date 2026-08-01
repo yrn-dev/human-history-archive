@@ -11842,14 +11842,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 301",
       "timestamp": 1785592523.7691498
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 332",
-      "variation": true
-    },
+      "timestamp": 1785592787.950641
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2383,
-    "total_planned": 51,
+    "total_completed": 2384,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
