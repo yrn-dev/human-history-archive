@@ -11677,14 +11677,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 229",
       "timestamp": 1785584874.2784626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785585069.24484
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2350,
-    "total_planned": 13,
+    "total_completed": 2351,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
