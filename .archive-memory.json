@@ -12282,14 +12282,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 310",
       "timestamp": 1785613011.8777163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785613256.5082705
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 311",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2471,
-    "total_planned": 34,
+    "total_completed": 2472,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
