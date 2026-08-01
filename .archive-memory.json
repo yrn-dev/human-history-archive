@@ -12142,14 +12142,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 310",
       "timestamp": 1785606355.0907228
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785606662.7078326
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2443,
-    "total_planned": 62,
+    "total_completed": 2444,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
