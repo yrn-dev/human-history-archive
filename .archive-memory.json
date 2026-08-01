@@ -12257,14 +12257,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 342",
       "timestamp": 1785611900.2169015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785612080.622843
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 308",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2466,
-    "total_planned": 39,
+    "total_completed": 2467,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
