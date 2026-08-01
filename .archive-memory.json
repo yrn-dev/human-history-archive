@@ -11302,14 +11302,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 283",
       "timestamp": 1785568072.2273574
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 312",
-      "variation": true
-    },
+      "timestamp": 1785568301.2906826
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 284",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2275,
-    "total_planned": 17,
+    "total_completed": 2276,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
