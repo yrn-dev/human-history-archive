@@ -11447,14 +11447,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 290",
       "timestamp": 1785574897.4546807
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 322",
-      "variation": true
-    },
+      "timestamp": 1785575174.121024
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 293",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2304,
-    "total_planned": 59,
+    "total_completed": 2305,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
