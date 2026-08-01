@@ -12182,14 +12182,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 308",
       "timestamp": 1785608416.82397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 243",
-      "variation": true
-    },
+      "timestamp": 1785608658.0540588
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 243",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2451,
-    "total_planned": 54,
+    "total_completed": 2452,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
