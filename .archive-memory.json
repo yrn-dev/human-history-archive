@@ -12127,14 +12127,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 308",
       "timestamp": 1785605684.8050535
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785605857.415003
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 308",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2440,
-    "total_planned": 65,
+    "total_completed": 2441,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
