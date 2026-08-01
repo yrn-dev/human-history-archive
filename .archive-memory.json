@@ -12457,14 +12457,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 317",
       "timestamp": 1785620933.799113
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785621081.7538624
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2506,
-    "total_planned": 70,
+    "total_completed": 2507,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
