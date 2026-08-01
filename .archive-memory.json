@@ -11637,14 +11637,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 229",
       "timestamp": 1785582988.9527311
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 293",
-      "variation": true
-    },
+      "timestamp": 1785583151.490672
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2342,
-    "total_planned": 21,
+    "total_completed": 2343,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
