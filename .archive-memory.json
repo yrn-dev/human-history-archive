@@ -11937,14 +11937,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 302",
       "timestamp": 1785596991.2000031
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785597147.849095
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2402,
-    "total_planned": 32,
+    "total_completed": 2403,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
