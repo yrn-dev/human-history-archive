@@ -11892,14 +11892,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 302",
       "timestamp": 1785595006.2054532
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 236",
-      "variation": true
-    },
+      "timestamp": 1785595216.0150506
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2393,
-    "total_planned": 41,
+    "total_completed": 2394,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
