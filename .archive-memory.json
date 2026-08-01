@@ -11012,14 +11012,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 272",
       "timestamp": 1785554850.2275171
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785555111.1846287
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2217,
-    "total_planned": 4,
+    "total_completed": 2218,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
