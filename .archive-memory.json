@@ -10967,14 +10967,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 274",
       "timestamp": 1785552419.9182618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 215",
-      "variation": true
-    },
+      "timestamp": 1785552657.9401758
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 272",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2208,
-    "total_planned": 13,
+    "total_completed": 2209,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
