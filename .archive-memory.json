@@ -11702,14 +11702,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 292",
       "timestamp": 1785586008.6982903
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785586225.614171
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2355,
-    "total_planned": 8,
+    "total_completed": 2356,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
