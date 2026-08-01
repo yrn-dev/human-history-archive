@@ -11882,14 +11882,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 301",
       "timestamp": 1785594428.265134
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785594695.5541346
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 302",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2391,
-    "total_planned": 43,
+    "total_completed": 2392,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
