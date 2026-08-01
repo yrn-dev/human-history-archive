@@ -12467,14 +12467,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 319",
       "timestamp": 1785621221.7024977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785621484.2888045
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 250",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2508,
-    "total_planned": 68,
+    "total_completed": 2509,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
