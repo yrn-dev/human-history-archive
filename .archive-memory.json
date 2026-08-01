@@ -10792,14 +10792,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 302",
       "timestamp": 1785543988.0130296
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 274",
-      "variation": true
-    },
+      "timestamp": 1785544291.9516144
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2173,
-    "total_planned": 48,
+    "total_completed": 2174,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
