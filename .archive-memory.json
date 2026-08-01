@@ -11917,14 +11917,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 301",
       "timestamp": 1785596127.6283443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785596361.6409304
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 236",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2398,
-    "total_planned": 36,
+    "total_completed": 2399,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
