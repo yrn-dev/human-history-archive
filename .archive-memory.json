@@ -11992,14 +11992,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 332",
       "timestamp": 1785599423.2735076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785599630.4455307
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2413,
-    "total_planned": 21,
+    "total_completed": 2414,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
