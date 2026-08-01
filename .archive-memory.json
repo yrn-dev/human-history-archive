@@ -11367,14 +11367,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 281",
       "timestamp": 1785571169.0275366
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785571369.4479618
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 312",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2288,
-    "total_planned": 4,
+    "total_completed": 2289,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
