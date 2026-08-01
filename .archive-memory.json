@@ -10867,14 +10867,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 274",
       "timestamp": 1785547641.0605962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 215",
-      "variation": true
-    },
+      "timestamp": 1785547938.3642743
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2188,
-    "total_planned": 33,
+    "total_completed": 2189,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
