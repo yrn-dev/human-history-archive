@@ -12297,14 +12297,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 310",
       "timestamp": 1785613578.1341946
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 342",
-      "variation": true
-    },
+      "timestamp": 1785613769.523839
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 311",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2474,
-    "total_planned": 31,
+    "total_completed": 2475,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
