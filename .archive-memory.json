@@ -11407,14 +11407,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 229",
       "timestamp": 1785573213.9242058
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785573410.6459742
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2296,
-    "total_planned": 67,
+    "total_completed": 2297,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
