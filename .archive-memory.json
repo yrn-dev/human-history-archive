@@ -11132,14 +11132,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 283",
       "timestamp": 1785560452.0378203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785560733.2718954
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 281",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2241,
-    "total_planned": 51,
+    "total_completed": 2242,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
