@@ -11847,14 +11847,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 332",
       "timestamp": 1785592787.950641
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785592945.270205
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2384,
-    "total_planned": 50,
+    "total_completed": 2385,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
