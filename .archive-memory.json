@@ -11902,14 +11902,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 301",
       "timestamp": 1785595442.3649101
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 332",
-      "variation": true
-    },
+      "timestamp": 1785595620.2326186
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2395,
-    "total_planned": 39,
+    "total_completed": 2396,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
