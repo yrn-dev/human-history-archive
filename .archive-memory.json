@@ -11817,14 +11817,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 299",
       "timestamp": 1785591365.96156
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785591669.7421055
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 332",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2378,
-    "total_planned": 56,
+    "total_completed": 2379,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
