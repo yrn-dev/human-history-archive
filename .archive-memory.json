@@ -12232,14 +12232,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 310",
       "timestamp": 1785610970.9159315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785611144.0417233
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2461,
-    "total_planned": 44,
+    "total_completed": 2462,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
