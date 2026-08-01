@@ -11087,14 +11087,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 222",
       "timestamp": 1785558276.1010997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785558453.3723214
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 283",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2232,
-    "total_planned": 60,
+    "total_completed": 2233,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
