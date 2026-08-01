@@ -11762,14 +11762,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 332",
       "timestamp": 1785588567.6564853
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785588727.09733
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2367,
-    "total_planned": 67,
+    "total_completed": 2368,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
