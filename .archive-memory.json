@@ -12532,14 +12532,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 250",
       "timestamp": 1785624107.6470306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 352",
-      "variation": true
-    },
+      "timestamp": 1785624398.0442367
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 250",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2521,
-    "total_planned": 55,
+    "total_completed": 2522,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
