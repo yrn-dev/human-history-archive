@@ -11977,14 +11977,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 299",
       "timestamp": 1785598785.877846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 236",
-      "variation": true
-    },
+      "timestamp": 1785598960.1995866
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 302",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2410,
-    "total_planned": 24,
+    "total_completed": 2411,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
