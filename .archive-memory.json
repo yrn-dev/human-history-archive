@@ -12042,14 +12042,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 332",
       "timestamp": 1785601830.0726428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 236",
-      "variation": true
-    },
+      "timestamp": 1785602103.237137
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 236",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2423,
-    "total_planned": 11,
+    "total_completed": 2424,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
