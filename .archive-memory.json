@@ -12237,14 +12237,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 310",
       "timestamp": 1785611144.0417233
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785611308.6540325
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2462,
-    "total_planned": 43,
+    "total_completed": 2463,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
