@@ -11837,14 +11837,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 299",
       "timestamp": 1785592296.3230882
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785592523.7691498
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 332",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2382,
-    "total_planned": 52,
+    "total_completed": 2383,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
