@@ -12402,14 +12402,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 342",
       "timestamp": 1785618427.459906
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 311",
-      "variation": true
-    },
+      "timestamp": 1785618634.291146
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 308",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2495,
-    "total_planned": 10,
+    "total_completed": 2496,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
