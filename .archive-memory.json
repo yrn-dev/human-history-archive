@@ -12517,14 +12517,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 317",
       "timestamp": 1785623507.167156
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785623648.7451782
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 320",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2518,
-    "total_planned": 58,
+    "total_completed": 2519,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
