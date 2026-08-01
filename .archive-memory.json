@@ -11527,14 +11527,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 322",
       "timestamp": 1785578282.8910372
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785578437.931838
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 229",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2320,
-    "total_planned": 43,
+    "total_completed": 2321,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
