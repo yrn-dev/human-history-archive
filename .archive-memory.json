@@ -12412,14 +12412,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 308",
       "timestamp": 1785618918.3677344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 342",
-      "variation": true
-    },
+      "timestamp": 1785619218.959407
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 342",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2497,
-    "total_planned": 8,
+    "total_completed": 2498,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
