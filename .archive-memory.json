@@ -11667,14 +11667,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 229",
       "timestamp": 1785584401.8322787
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785584601.9428115
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 229",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2348,
-    "total_planned": 15,
+    "total_completed": 2349,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
