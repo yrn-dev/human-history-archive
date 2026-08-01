@@ -12442,14 +12442,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 308",
       "timestamp": 1785620280.5534198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 342",
-      "variation": true
-    },
+      "timestamp": 1785620531.7682211
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 243",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2503,
-    "total_planned": 2,
+    "total_completed": 2504,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
