@@ -12617,14 +12617,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 352",
       "timestamp": 1785627849.0624583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785628076.3974228
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 320",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2538,
-    "total_planned": 38,
+    "total_completed": 2539,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
