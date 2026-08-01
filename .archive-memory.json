@@ -12352,14 +12352,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 311",
       "timestamp": 1785616150.9339635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785616440.3548517
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 308",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2485,
-    "total_planned": 20,
+    "total_completed": 2486,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
