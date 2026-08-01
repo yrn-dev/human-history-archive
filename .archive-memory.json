@@ -11452,14 +11452,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 322",
       "timestamp": 1785575174.121024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 293",
-      "variation": true
-    },
+      "timestamp": 1785575311.0732858
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2305,
-    "total_planned": 58,
+    "total_completed": 2306,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
