@@ -11707,14 +11707,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 290",
       "timestamp": 1785586225.614171
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785586526.851161
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 293",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2356,
-    "total_planned": 7,
+    "total_completed": 2357,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
