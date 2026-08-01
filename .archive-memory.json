@@ -11502,14 +11502,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 292",
       "timestamp": 1785577060.2571065
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785577299.5667367
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 322",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2315,
-    "total_planned": 48,
+    "total_completed": 2316,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
