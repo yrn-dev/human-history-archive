@@ -12162,14 +12162,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 310",
       "timestamp": 1785607397.3623617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785607716.2207613
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2447,
-    "total_planned": 58,
+    "total_completed": 2448,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
