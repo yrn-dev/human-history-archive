@@ -11632,14 +11632,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 322",
       "timestamp": 1785582712.611901
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 229",
-      "variation": true
-    },
+      "timestamp": 1785582988.9527311
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 293",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2341,
-    "total_planned": 22,
+    "total_completed": 2342,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
