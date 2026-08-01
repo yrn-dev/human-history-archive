@@ -12427,14 +12427,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 308",
       "timestamp": 1785619547.7097447
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 243",
-      "variation": true
-    },
+      "timestamp": 1785619786.7648125
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2500,
-    "total_planned": 5,
+    "total_completed": 2501,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
