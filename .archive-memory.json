@@ -10782,14 +10782,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 275",
       "timestamp": 1785543591.5973885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785543808.9683664
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 302",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2171,
-    "total_planned": 50,
+    "total_completed": 2172,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
