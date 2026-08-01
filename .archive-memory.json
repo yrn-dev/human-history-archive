@@ -11042,14 +11042,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 312",
       "timestamp": 1785556199.0488927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 222",
-      "variation": true
-    },
+      "timestamp": 1785556493.0285535
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 312",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2223,
-    "total_planned": 69,
+    "total_completed": 2224,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
