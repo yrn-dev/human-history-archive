@@ -11397,14 +11397,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 292",
       "timestamp": 1785572771.8989823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 293",
-      "variation": true
-    },
+      "timestamp": 1785572954.0221496
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 229",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2294,
-    "total_planned": 69,
+    "total_completed": 2295,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
