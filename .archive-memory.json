@@ -11257,14 +11257,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 312",
       "timestamp": 1785566048.1642053
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 281",
-      "variation": true
-    },
+      "timestamp": 1785566308.935182
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 284",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2266,
-    "total_planned": 26,
+    "total_completed": 2267,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
