@@ -11537,14 +11537,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 229",
       "timestamp": 1785578686.3797657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 229",
-      "variation": true
-    },
+      "timestamp": 1785578834.2596803
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 293",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2322,
-    "total_planned": 41,
+    "total_completed": 2323,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
