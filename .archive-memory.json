@@ -11872,14 +11872,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 301",
       "timestamp": 1785593864.223025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 332",
-      "variation": true
-    },
+      "timestamp": 1785594153.3906705
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 301",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2389,
-    "total_planned": 45,
+    "total_completed": 2390,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
