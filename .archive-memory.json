@@ -11602,14 +11602,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 322",
       "timestamp": 1785581395.8133802
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 293",
-      "variation": true
-    },
+      "timestamp": 1785581616.18767
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2335,
-    "total_planned": 28,
+    "total_completed": 2336,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
