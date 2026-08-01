@@ -11522,14 +11522,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 322",
       "timestamp": 1785577980.4894593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 322",
-      "variation": true
-    },
+      "timestamp": 1785578282.8910372
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2319,
-    "total_planned": 44,
+    "total_completed": 2320,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
