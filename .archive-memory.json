@@ -12607,14 +12607,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 317",
       "timestamp": 1785627417.830664
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 352",
-      "variation": true
-    },
+      "timestamp": 1785627584.796881
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 352",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2536,
-    "total_planned": 40,
+    "total_completed": 2537,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
