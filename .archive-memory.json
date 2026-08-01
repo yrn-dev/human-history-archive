@@ -11897,14 +11897,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 236",
       "timestamp": 1785595216.0150506
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785595442.3649101
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 332",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2394,
-    "total_planned": 40,
+    "total_completed": 2395,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
