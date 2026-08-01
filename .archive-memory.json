@@ -12347,14 +12347,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 310",
       "timestamp": 1785615970.3681905
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 311",
-      "variation": true
-    },
+      "timestamp": 1785616150.9339635
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 308",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2484,
-    "total_planned": 21,
+    "total_completed": 2485,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
