@@ -12137,14 +12137,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 308",
       "timestamp": 1785606151.1244078
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785606355.0907228
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2442,
-    "total_planned": 63,
+    "total_completed": 2443,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
