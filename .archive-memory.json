@@ -11402,14 +11402,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 293",
       "timestamp": 1785572954.0221496
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 229",
-      "variation": true
-    },
+      "timestamp": 1785573213.9242058
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2295,
-    "total_planned": 68,
+    "total_completed": 2296,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
