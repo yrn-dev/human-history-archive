@@ -11247,14 +11247,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 283",
       "timestamp": 1785565524.9918098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 222",
-      "variation": true
-    },
+      "timestamp": 1785565827.3242176
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 312",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2264,
-    "total_planned": 28,
+    "total_completed": 2265,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
