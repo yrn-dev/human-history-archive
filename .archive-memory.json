@@ -11417,14 +11417,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 292",
       "timestamp": 1785573557.95647
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 290",
-      "variation": true
-    },
+      "timestamp": 1785573754.6491268
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 292",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2298,
-    "total_planned": 65,
+    "total_completed": 2299,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
