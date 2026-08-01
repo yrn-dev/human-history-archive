@@ -10762,14 +10762,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 272",
       "timestamp": 1785542623.3179562
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 274",
-      "variation": true
-    },
+      "timestamp": 1785542939.2345486
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2167,
-    "total_planned": 54,
+    "total_completed": 2168,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
