@@ -12337,14 +12337,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 310",
       "timestamp": 1785615417.6139061
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 308",
-      "variation": true
-    },
+      "timestamp": 1785615675.1411574
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2482,
-    "total_planned": 23,
+    "total_completed": 2483,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
