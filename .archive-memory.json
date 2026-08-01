@@ -12627,14 +12627,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 320",
       "timestamp": 1785628236.262314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 352",
-      "variation": true
-    },
+      "timestamp": 1785628473.7970078
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2540,
-    "total_planned": 36,
+    "total_completed": 2541,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
