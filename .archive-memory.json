@@ -10972,14 +10972,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 215",
       "timestamp": 1785552657.9401758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785552878.1191216
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 275",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2209,
-    "total_planned": 12,
+    "total_completed": 2210,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
