@@ -10992,14 +10992,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 274",
       "timestamp": 1785553706.672345
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 272",
-      "variation": true
-    },
+      "timestamp": 1785553946.8495083
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2213,
-    "total_planned": 8,
+    "total_completed": 2214,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
