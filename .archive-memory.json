@@ -12062,14 +12062,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 301",
       "timestamp": 1785602939.279568
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785603088.193232
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 332",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2427,
-    "total_planned": 7,
+    "total_completed": 2428,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
