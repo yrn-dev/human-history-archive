@@ -11317,14 +11317,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 284",
       "timestamp": 1785568839.26657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785568977.9559016
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 222",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2278,
-    "total_planned": 14,
+    "total_completed": 2279,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
