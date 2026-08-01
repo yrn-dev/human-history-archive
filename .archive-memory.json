@@ -10922,14 +10922,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 215",
       "timestamp": 1785550241.3631606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 274",
-      "variation": true
-    },
+      "timestamp": 1785550408.1156332
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 302",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2199,
-    "total_planned": 22,
+    "total_completed": 2200,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
