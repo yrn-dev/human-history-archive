@@ -11682,14 +11682,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 292",
       "timestamp": 1785585069.24484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785585263.8134198
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 293",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2351,
-    "total_planned": 12,
+    "total_completed": 2352,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
