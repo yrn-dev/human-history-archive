@@ -12072,14 +12072,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 332",
       "timestamp": 1785603242.701488
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785603466.7341242
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 299",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2429,
-    "total_planned": 5,
+    "total_completed": 2430,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
