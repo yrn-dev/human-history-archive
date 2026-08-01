@@ -11072,14 +11072,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 283",
       "timestamp": 1785557532.3341916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 283",
-      "variation": true
-    },
+      "timestamp": 1785557692.3232307
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 222",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2229,
-    "total_planned": 63,
+    "total_completed": 2230,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
