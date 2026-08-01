@@ -12057,14 +12057,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 302",
       "timestamp": 1785602696.3453267
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 301",
-      "variation": true
-    },
+      "timestamp": 1785602939.279568
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 302",
@@ -12102,8 +12102,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2426,
-    "total_planned": 8,
+    "total_completed": 2427,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
