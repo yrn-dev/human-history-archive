@@ -11617,14 +11617,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 229",
       "timestamp": 1785582037.2968159
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 322",
-      "variation": true
-    },
+      "timestamp": 1785582205.8549392
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 322",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2338,
-    "total_planned": 25,
+    "total_completed": 2339,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
