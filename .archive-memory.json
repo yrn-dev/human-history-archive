@@ -12597,14 +12597,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 319",
       "timestamp": 1785626957.0846252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785627210.3775527
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2534,
-    "total_planned": 42,
+    "total_completed": 2535,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
