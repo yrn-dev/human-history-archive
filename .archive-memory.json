@@ -11562,14 +11562,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 292",
       "timestamp": 1785579774.6882591
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 322",
-      "variation": true
-    },
+      "timestamp": 1785579973.1161094
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 290",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2327,
-    "total_planned": 36,
+    "total_completed": 2328,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
