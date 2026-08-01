@@ -10897,14 +10897,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 275",
       "timestamp": 1785549070.9534166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 302",
-      "variation": true
-    },
+      "timestamp": 1785549365.7015584
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 274",
@@ -11037,8 +11037,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2194,
-    "total_planned": 27,
+    "total_completed": 2195,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
