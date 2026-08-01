@@ -12562,14 +12562,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 317",
       "timestamp": 1785625326.4263036
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785625624.431696
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 320",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2527,
-    "total_planned": 49,
+    "total_completed": 2528,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
