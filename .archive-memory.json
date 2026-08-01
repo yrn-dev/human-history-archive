@@ -11592,14 +11592,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 292",
       "timestamp": 1785580851.752421
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785581159.9795477
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 322",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2333,
-    "total_planned": 30,
+    "total_completed": 2334,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
