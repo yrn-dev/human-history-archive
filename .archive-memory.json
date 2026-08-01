@@ -11622,14 +11622,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 322",
       "timestamp": 1785582205.8549392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 322",
-      "variation": true
-    },
+      "timestamp": 1785582492.07389
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 322",
@@ -11747,8 +11747,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2339,
-    "total_planned": 24,
+    "total_completed": 2340,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
