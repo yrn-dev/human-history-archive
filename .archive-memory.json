@@ -11077,14 +11077,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 283",
       "timestamp": 1785557692.3232307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 222",
-      "variation": true
-    },
+      "timestamp": 1785557965.0083847
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 222",
@@ -11392,8 +11392,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2230,
-    "total_planned": 62,
+    "total_completed": 2231,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
