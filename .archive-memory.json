@@ -12272,14 +12272,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 310",
       "timestamp": 1785612507.5060997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 310",
-      "variation": true
-    },
+      "timestamp": 1785612777.604422
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 310",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2469,
-    "total_planned": 36,
+    "total_completed": 2470,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
