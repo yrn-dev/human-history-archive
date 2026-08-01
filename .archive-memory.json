@@ -12417,14 +12417,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 342",
       "timestamp": 1785619218.959407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 342",
-      "variation": true
-    },
+      "timestamp": 1785619395.3500395
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 308",
@@ -12457,8 +12457,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2498,
-    "total_planned": 7,
+    "total_completed": 2499,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
