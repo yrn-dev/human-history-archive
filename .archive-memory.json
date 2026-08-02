@@ -13572,14 +13572,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 382",
       "timestamp": 1785670766.8191211
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785670924.180055
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 344",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2729,
-    "total_planned": 60,
+    "total_completed": 2730,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
