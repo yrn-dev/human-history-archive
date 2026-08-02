@@ -14007,14 +14007,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 355",
       "timestamp": 1785690031.9189785
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785690255.7571695
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2816,
-    "total_planned": 44,
+    "total_completed": 2817,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
