@@ -13642,14 +13642,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 344",
       "timestamp": 1785673866.6042972
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785674020.5061955
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2743,
-    "total_planned": 46,
+    "total_completed": 2744,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
