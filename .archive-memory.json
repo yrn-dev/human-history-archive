@@ -14122,14 +14122,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 355",
       "timestamp": 1785695406.3004153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785695598.2660701
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2839,
-    "total_planned": 21,
+    "total_completed": 2840,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
