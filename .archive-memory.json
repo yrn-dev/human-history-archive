@@ -13522,14 +13522,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 346",
       "timestamp": 1785668381.7670956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785668565.3205605
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2719,
-    "total_planned": 70,
+    "total_completed": 2720,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
