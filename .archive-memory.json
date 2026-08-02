@@ -14322,14 +14322,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 362",
       "timestamp": 1785704219.7099302
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 285",
-      "variation": true
-    },
+      "timestamp": 1785704366.9618168
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2879,
-    "total_planned": 52,
+    "total_completed": 2880,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
