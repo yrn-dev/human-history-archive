@@ -13817,14 +13817,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 344",
       "timestamp": 1785681507.9066343
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 271",
-      "variation": true
-    },
+      "timestamp": 1785681780.210211
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 344",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2778,
-    "total_planned": 11,
+    "total_completed": 2779,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
