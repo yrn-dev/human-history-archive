@@ -13532,14 +13532,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 346",
       "timestamp": 1785668876.0258453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785669078.2478654
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 347",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2721,
-    "total_planned": 68,
+    "total_completed": 2722,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
