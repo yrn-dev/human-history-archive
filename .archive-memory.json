@@ -12802,18 +12802,17 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 319",
       "timestamp": 1785636839.7413654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 250",
-      "variation": true
+      "timestamp": 1785637019.3245318
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 2575,
-    "total_planned": 1,
+    "total_completed": 2576,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
