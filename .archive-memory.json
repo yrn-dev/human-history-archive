@@ -13432,14 +13432,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 372",
       "timestamp": 1785664564.1421049
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 338",
-      "variation": true
-    },
+      "timestamp": 1785664705.04384
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2701,
-    "total_planned": 17,
+    "total_completed": 2702,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
