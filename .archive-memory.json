@@ -13992,14 +13992,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 392",
       "timestamp": 1785689281.5419748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 392",
-      "variation": true
-    },
+      "timestamp": 1785689526.543237
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 278",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2813,
-    "total_planned": 47,
+    "total_completed": 2814,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
