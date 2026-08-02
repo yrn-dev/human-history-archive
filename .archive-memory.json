@@ -14487,14 +14487,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 402",
       "timestamp": 1785711499.5561137
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785711727.0873146
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2912,
-    "total_planned": 19,
+    "total_completed": 2913,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
