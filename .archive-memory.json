@@ -13122,14 +13122,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 328",
       "timestamp": 1785650798.016244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785650984.777955
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2639,
-    "total_planned": 8,
+    "total_completed": 2640,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
