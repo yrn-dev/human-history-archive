@@ -13757,14 +13757,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 346",
       "timestamp": 1785679079.1957965
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785679229.0488892
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2766,
-    "total_planned": 23,
+    "total_completed": 2767,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
