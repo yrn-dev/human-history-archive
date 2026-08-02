@@ -13052,14 +13052,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 257",
       "timestamp": 1785647566.2783203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785647849.55507
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2625,
-    "total_planned": 22,
+    "total_completed": 2626,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
