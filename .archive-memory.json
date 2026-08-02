@@ -13752,14 +13752,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 347",
       "timestamp": 1785678835.7906113
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785679079.1957965
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 344",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2765,
-    "total_planned": 24,
+    "total_completed": 2766,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
