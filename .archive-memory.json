@@ -13412,14 +13412,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 335",
       "timestamp": 1785663498.1897056
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 338",
-      "variation": true
-    },
+      "timestamp": 1785663796.1517575
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 372",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2697,
-    "total_planned": 21,
+    "total_completed": 2698,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
