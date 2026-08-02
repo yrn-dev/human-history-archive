@@ -13427,14 +13427,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 337",
       "timestamp": 1785664418.0013475
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 372",
-      "variation": true
-    },
+      "timestamp": 1785664564.1421049
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 338",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2700,
-    "total_planned": 18,
+    "total_completed": 2701,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
