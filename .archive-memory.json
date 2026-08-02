@@ -13882,14 +13882,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 356",
       "timestamp": 1785684107.6681454
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 356",
-      "variation": true
-    },
+      "timestamp": 1785684297.7165775
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2791,
-    "total_planned": 69,
+    "total_completed": 2792,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
