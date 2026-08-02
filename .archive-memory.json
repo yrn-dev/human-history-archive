@@ -14547,14 +14547,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 402",
       "timestamp": 1785714363.3738043
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785714526.1584728
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2924,
-    "total_planned": 7,
+    "total_completed": 2925,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
