@@ -14302,14 +14302,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 285",
       "timestamp": 1785703585.0702758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 365",
-      "variation": true
-    },
+      "timestamp": 1785703755.4680479
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2875,
-    "total_planned": 56,
+    "total_completed": 2876,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
