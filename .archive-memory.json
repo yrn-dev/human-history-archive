@@ -13797,14 +13797,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 347",
       "timestamp": 1785680845.773109
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785680991.2062788
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 347",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2774,
-    "total_planned": 15,
+    "total_completed": 2775,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
