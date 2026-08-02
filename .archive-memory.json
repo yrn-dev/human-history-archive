@@ -12792,14 +12792,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 317",
       "timestamp": 1785636348.4062622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785636543.95858
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2573,
-    "total_planned": 3,
+    "total_completed": 2574,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
