@@ -12712,14 +12712,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 319",
       "timestamp": 1785632437.2801266
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 352",
-      "variation": true
-    },
+      "timestamp": 1785632574.7886903
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2557,
-    "total_planned": 19,
+    "total_completed": 2558,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
