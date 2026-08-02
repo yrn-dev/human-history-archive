@@ -12817,14 +12817,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 328",
       "timestamp": 1785637496.4710515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785637802.1913688
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 362",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2578,
-    "total_planned": 69,
+    "total_completed": 2579,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
