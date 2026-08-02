@@ -13602,14 +13602,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 344",
       "timestamp": 1785671837.3689976
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785672120.7172592
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 271",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2735,
-    "total_planned": 54,
+    "total_completed": 2736,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
