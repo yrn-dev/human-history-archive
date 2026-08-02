@@ -13637,14 +13637,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 271",
       "timestamp": 1785673721.1360888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785673866.6042972
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2742,
-    "total_planned": 47,
+    "total_completed": 2743,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
