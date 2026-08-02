@@ -13007,14 +13007,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 328",
       "timestamp": 1785645894.3946075
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785646044.6020334
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2616,
-    "total_planned": 31,
+    "total_completed": 2617,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
