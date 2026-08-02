@@ -12917,14 +12917,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 328",
       "timestamp": 1785641994.566478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785642169.2923446
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2598,
-    "total_planned": 49,
+    "total_completed": 2599,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
