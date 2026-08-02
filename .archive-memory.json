@@ -14212,14 +14212,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 353",
       "timestamp": 1785699349.5886188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785699636.7191772
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2857,
-    "total_planned": 3,
+    "total_completed": 2858,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
