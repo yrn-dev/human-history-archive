@@ -13227,14 +13227,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 337",
       "timestamp": 1785655486.2829287
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 372",
-      "variation": true
-    },
+      "timestamp": 1785655629.09871
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2660,
-    "total_planned": 58,
+    "total_completed": 2661,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
