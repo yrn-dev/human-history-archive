@@ -13302,14 +13302,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 337",
       "timestamp": 1785658992.0007048
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785659138.0429595
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2675,
-    "total_planned": 43,
+    "total_completed": 2676,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
