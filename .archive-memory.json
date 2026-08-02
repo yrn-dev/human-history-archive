@@ -13132,14 +13132,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 328",
       "timestamp": 1785651296.8790603
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785651613.9608927
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2641,
-    "total_planned": 6,
+    "total_completed": 2642,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
