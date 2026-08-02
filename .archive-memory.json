@@ -13767,14 +13767,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 346",
       "timestamp": 1785679399.574921
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785679621.1050005
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 271",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2768,
-    "total_planned": 21,
+    "total_completed": 2769,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
