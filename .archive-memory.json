@@ -14222,18 +14222,17 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 355",
       "timestamp": 1785699815.8105073
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 353",
-      "variation": true
+      "timestamp": 1785699973.9133167
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 2859,
-    "total_planned": 1,
+    "total_completed": 2860,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
