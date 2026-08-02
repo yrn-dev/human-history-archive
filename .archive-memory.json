@@ -14082,14 +14082,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 353",
       "timestamp": 1785693501.4414306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785693816.528328
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 278",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2831,
-    "total_planned": 29,
+    "total_completed": 2832,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
