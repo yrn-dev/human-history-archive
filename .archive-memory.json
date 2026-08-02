@@ -13292,14 +13292,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 337",
       "timestamp": 1785658507.732932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785658797.259515
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2673,
-    "total_planned": 45,
+    "total_completed": 2674,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
