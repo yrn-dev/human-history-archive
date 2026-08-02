@@ -14207,14 +14207,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 355",
       "timestamp": 1785699092.2886848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785699349.5886188
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 353",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2856,
-    "total_planned": 4,
+    "total_completed": 2857,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
