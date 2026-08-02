@@ -14097,14 +14097,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 278",
       "timestamp": 1785694219.9266407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 392",
-      "variation": true
-    },
+      "timestamp": 1785694444.5146084
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2834,
-    "total_planned": 26,
+    "total_completed": 2835,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
