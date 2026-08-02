@@ -12737,14 +12737,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 352",
       "timestamp": 1785633570.9778411
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 352",
-      "variation": true
-    },
+      "timestamp": 1785633880.7514772
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 352",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2562,
-    "total_planned": 14,
+    "total_completed": 2563,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
