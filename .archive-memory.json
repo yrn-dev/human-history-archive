@@ -14432,14 +14432,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 285",
       "timestamp": 1785709151.2527554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785709344.5189157
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2901,
-    "total_planned": 30,
+    "total_completed": 2902,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
