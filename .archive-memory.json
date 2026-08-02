@@ -14127,14 +14127,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 355",
       "timestamp": 1785695598.2660701
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785695739.602147
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 353",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2840,
-    "total_planned": 20,
+    "total_completed": 2841,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
