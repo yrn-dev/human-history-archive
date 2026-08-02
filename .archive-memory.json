@@ -13422,14 +13422,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 372",
       "timestamp": 1785664105.0716329
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785664418.0013475
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 372",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2699,
-    "total_planned": 19,
+    "total_completed": 2700,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
