@@ -14507,14 +14507,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 364",
       "timestamp": 1785712409.5539286
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785712708.33576
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 402",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2916,
-    "total_planned": 15,
+    "total_completed": 2917,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
