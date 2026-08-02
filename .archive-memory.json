@@ -13207,14 +13207,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 337",
       "timestamp": 1785654743.545747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 372",
-      "variation": true
-    },
+      "timestamp": 1785655008.69933
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 372",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2656,
-    "total_planned": 62,
+    "total_completed": 2657,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
