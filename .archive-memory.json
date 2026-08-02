@@ -14087,14 +14087,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 355",
       "timestamp": 1785693816.528328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 278",
-      "variation": true
-    },
+      "timestamp": 1785693965.4434278
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 278",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2832,
-    "total_planned": 28,
+    "total_completed": 2833,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
