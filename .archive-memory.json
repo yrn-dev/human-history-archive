@@ -12667,14 +12667,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 319",
       "timestamp": 1785630155.9622946
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785630431.032526
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 250",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2548,
-    "total_planned": 28,
+    "total_completed": 2549,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
