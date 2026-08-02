@@ -13362,14 +13362,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 335",
       "timestamp": 1785661335.1939526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785661607.334645
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2687,
-    "total_planned": 31,
+    "total_completed": 2688,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
