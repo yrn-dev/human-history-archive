@@ -13222,14 +13222,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 335",
       "timestamp": 1785655292.7637095
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785655486.2829287
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 372",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2659,
-    "total_planned": 59,
+    "total_completed": 2660,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
