@@ -14217,14 +14217,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 353",
       "timestamp": 1785699636.7191772
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785699815.8105073
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 353",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2858,
-    "total_planned": 2,
+    "total_completed": 2859,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
