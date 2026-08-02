@@ -13127,14 +13127,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 326",
       "timestamp": 1785650984.777955
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785651296.8790603
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2640,
-    "total_planned": 7,
+    "total_completed": 2641,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
