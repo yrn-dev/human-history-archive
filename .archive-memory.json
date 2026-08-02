@@ -13832,14 +13832,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 346",
       "timestamp": 1785682093.6336763
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785682275.217012
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2781,
-    "total_planned": 8,
+    "total_completed": 2782,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
