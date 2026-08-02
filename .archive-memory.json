@@ -13247,14 +13247,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 264",
       "timestamp": 1785656296.4666605
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785656538.4712248
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2664,
-    "total_planned": 54,
+    "total_completed": 2665,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
