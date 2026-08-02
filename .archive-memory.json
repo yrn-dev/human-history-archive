@@ -14272,14 +14272,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 364",
       "timestamp": 1785702340.3072302
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 402",
-      "variation": true
-    },
+      "timestamp": 1785702526.8122458
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2869,
-    "total_planned": 62,
+    "total_completed": 2870,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
