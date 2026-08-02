@@ -12772,14 +12772,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 319",
       "timestamp": 1785635436.3800223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785635742.8279064
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 250",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2569,
-    "total_planned": 7,
+    "total_completed": 2570,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
