@@ -13932,14 +13932,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 392",
       "timestamp": 1785686510.7169824
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785686787.5318725
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2801,
-    "total_planned": 59,
+    "total_completed": 2802,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
