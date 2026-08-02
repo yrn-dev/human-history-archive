@@ -12867,14 +12867,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 328",
       "timestamp": 1785640019.2572658
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785640190.0128753
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2588,
-    "total_planned": 59,
+    "total_completed": 2589,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
