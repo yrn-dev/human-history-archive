@@ -12977,14 +12977,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 328",
       "timestamp": 1785644645.9012947
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 329",
-      "variation": true
-    },
+      "timestamp": 1785644891.3928769
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2610,
-    "total_planned": 37,
+    "total_completed": 2611,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
