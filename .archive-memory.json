@@ -13077,14 +13077,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 326",
       "timestamp": 1785648800.042943
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785648966.4258873
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2630,
-    "total_planned": 17,
+    "total_completed": 2631,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
