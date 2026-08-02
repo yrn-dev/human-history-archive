@@ -13272,14 +13272,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 264",
       "timestamp": 1785657576.6478934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 372",
-      "variation": true
-    },
+      "timestamp": 1785657760.173367
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 264",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2669,
-    "total_planned": 49,
+    "total_completed": 2670,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
