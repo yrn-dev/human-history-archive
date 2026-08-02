@@ -14107,14 +14107,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 355",
       "timestamp": 1785694689.5597644
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 356",
-      "variation": true
-    },
+      "timestamp": 1785694860.616325
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 392",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2836,
-    "total_planned": 24,
+    "total_completed": 2837,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
