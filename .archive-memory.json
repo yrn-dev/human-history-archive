@@ -13352,14 +13352,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 337",
       "timestamp": 1785660913.800764
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 372",
-      "variation": true
-    },
+      "timestamp": 1785661101.7638385
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2685,
-    "total_planned": 33,
+    "total_completed": 2686,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
