@@ -13967,14 +13967,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 392",
       "timestamp": 1785688132.850708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785688421.7241588
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2808,
-    "total_planned": 52,
+    "total_completed": 2809,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
