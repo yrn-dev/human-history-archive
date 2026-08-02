@@ -13102,14 +13102,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 362",
       "timestamp": 1785649935.0573514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785650101.879053
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2635,
-    "total_planned": 12,
+    "total_completed": 2636,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
