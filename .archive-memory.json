@@ -14112,14 +14112,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 356",
       "timestamp": 1785694860.616325
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 392",
-      "variation": true
-    },
+      "timestamp": 1785695091.670665
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2837,
-    "total_planned": 23,
+    "total_completed": 2838,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
