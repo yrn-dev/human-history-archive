@@ -13387,14 +13387,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 337",
       "timestamp": 1785662420.0379214
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785662658.8254328
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2692,
-    "total_planned": 26,
+    "total_completed": 2693,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
