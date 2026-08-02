@@ -13987,14 +13987,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 353",
       "timestamp": 1785688987.9425066
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 392",
-      "variation": true
-    },
+      "timestamp": 1785689281.5419748
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 392",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2812,
-    "total_planned": 48,
+    "total_completed": 2813,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
