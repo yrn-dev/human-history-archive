@@ -13447,14 +13447,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 335",
       "timestamp": 1785665164.4728682
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785665346.2724497
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2704,
-    "total_planned": 14,
+    "total_completed": 2705,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
