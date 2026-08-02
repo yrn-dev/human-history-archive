@@ -12687,14 +12687,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 319",
       "timestamp": 1785631149.2560134
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785631461.6016266
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2552,
-    "total_planned": 24,
+    "total_completed": 2553,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
