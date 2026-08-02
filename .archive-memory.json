@@ -13027,14 +13027,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 257",
       "timestamp": 1785646641.0317028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785646803.9275873
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 257",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2620,
-    "total_planned": 27,
+    "total_completed": 2621,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
