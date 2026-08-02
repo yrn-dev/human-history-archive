@@ -13462,14 +13462,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 338",
       "timestamp": 1785665670.8757162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785665875.522125
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2707,
-    "total_planned": 11,
+    "total_completed": 2708,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
