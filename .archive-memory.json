@@ -13597,14 +13597,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 346",
       "timestamp": 1785671667.9700239
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785671837.3689976
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 382",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2734,
-    "total_planned": 55,
+    "total_completed": 2735,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
