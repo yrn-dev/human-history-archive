@@ -14047,14 +14047,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 353",
       "timestamp": 1785691952.6202414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 356",
-      "variation": true
-    },
+      "timestamp": 1785692106.2984247
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 392",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2824,
-    "total_planned": 36,
+    "total_completed": 2825,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
