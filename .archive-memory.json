@@ -14332,14 +14332,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 362",
       "timestamp": 1785704604.6790102
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 402",
-      "variation": true
-    },
+      "timestamp": 1785704796.5195217
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2881,
-    "total_planned": 50,
+    "total_completed": 2882,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
