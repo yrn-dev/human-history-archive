@@ -13547,14 +13547,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 344",
       "timestamp": 1785669479.176476
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785669726.9887238
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 347",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2724,
-    "total_planned": 65,
+    "total_completed": 2725,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
