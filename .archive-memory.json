@@ -14327,14 +14327,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 285",
       "timestamp": 1785704366.9618168
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785704604.6790102
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 402",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2880,
-    "total_planned": 51,
+    "total_completed": 2881,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
