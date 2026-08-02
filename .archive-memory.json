@@ -14342,14 +14342,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 364",
       "timestamp": 1785705058.1893327
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785705206.8055992
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2883,
-    "total_planned": 48,
+    "total_completed": 2884,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
