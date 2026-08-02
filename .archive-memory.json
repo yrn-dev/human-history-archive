@@ -13567,14 +13567,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 344",
       "timestamp": 1785670504.682052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785670766.8191211
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2728,
-    "total_planned": 61,
+    "total_completed": 2729,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
