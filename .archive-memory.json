@@ -13947,14 +13947,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 355",
       "timestamp": 1785687256.2772155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 278",
-      "variation": true
-    },
+      "timestamp": 1785687552.6708772
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2804,
-    "total_planned": 56,
+    "total_completed": 2805,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
