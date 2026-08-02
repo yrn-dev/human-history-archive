@@ -13382,14 +13382,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 335",
       "timestamp": 1785662207.1582294
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785662420.0379214
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2691,
-    "total_planned": 27,
+    "total_completed": 2692,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
