@@ -14022,14 +14022,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 356",
       "timestamp": 1785690710.8608415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785690972.2322292
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 356",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2819,
-    "total_planned": 41,
+    "total_completed": 2820,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
