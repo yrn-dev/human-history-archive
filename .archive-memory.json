@@ -13712,14 +13712,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 347",
       "timestamp": 1785677051.7989407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785677326.969858
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2757,
-    "total_planned": 32,
+    "total_completed": 2758,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
