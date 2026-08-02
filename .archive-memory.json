@@ -14362,14 +14362,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 364",
       "timestamp": 1785705785.9332514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 285",
-      "variation": true
-    },
+      "timestamp": 1785706061.32688
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2887,
-    "total_planned": 44,
+    "total_completed": 2888,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
