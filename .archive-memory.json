@@ -14052,14 +14052,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 356",
       "timestamp": 1785692106.2984247
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 392",
-      "variation": true
-    },
+      "timestamp": 1785692408.4206831
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 353",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2825,
-    "total_planned": 35,
+    "total_completed": 2826,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
