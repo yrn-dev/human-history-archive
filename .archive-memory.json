@@ -12942,14 +12942,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 328",
       "timestamp": 1785643096.3270755
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785643280.6693733
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2603,
-    "total_planned": 44,
+    "total_completed": 2604,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
