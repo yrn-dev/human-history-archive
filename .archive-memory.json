@@ -13692,14 +13692,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 344",
       "timestamp": 1785676131.9728067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785676406.0532115
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 344",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2753,
-    "total_planned": 36,
+    "total_completed": 2754,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
