@@ -13312,14 +13312,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 337",
       "timestamp": 1785659331.1728907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785659641.3969643
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 372",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2677,
-    "total_planned": 41,
+    "total_completed": 2678,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
