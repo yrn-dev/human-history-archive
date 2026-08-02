@@ -14247,14 +14247,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 362",
       "timestamp": 1785700973.204055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785701175.1492953
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2864,
-    "total_planned": 67,
+    "total_completed": 2865,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
