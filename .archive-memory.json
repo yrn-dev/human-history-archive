@@ -13822,14 +13822,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 271",
       "timestamp": 1785681780.210211
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785681923.4457026
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2779,
-    "total_planned": 10,
+    "total_completed": 2780,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
