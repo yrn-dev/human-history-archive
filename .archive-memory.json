@@ -13377,14 +13377,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 337",
       "timestamp": 1785662058.6563816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785662207.1582294
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2690,
-    "total_planned": 28,
+    "total_completed": 2691,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
