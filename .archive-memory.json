@@ -12967,14 +12967,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 326",
       "timestamp": 1785644262.2042534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785644413.736401
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2608,
-    "total_planned": 39,
+    "total_completed": 2609,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
