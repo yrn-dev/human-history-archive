@@ -13747,14 +13747,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 346",
       "timestamp": 1785678623.7450402
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 347",
-      "variation": true
-    },
+      "timestamp": 1785678835.7906113
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2764,
-    "total_planned": 25,
+    "total_completed": 2765,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
