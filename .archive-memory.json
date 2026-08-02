@@ -13867,18 +13867,17 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 346",
       "timestamp": 1785683535.3573854
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 346",
-      "variation": true
+      "timestamp": 1785683699.0687025
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 2788,
-    "total_planned": 1,
+    "total_completed": 2789,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
