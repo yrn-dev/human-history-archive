@@ -13917,14 +13917,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 392",
       "timestamp": 1785685780.3933237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 356",
-      "variation": true
-    },
+      "timestamp": 1785686046.962982
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2798,
-    "total_planned": 62,
+    "total_completed": 2799,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
