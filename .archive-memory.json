@@ -14462,14 +14462,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 362",
       "timestamp": 1785710448.557872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785710602.159567
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 285",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2907,
-    "total_planned": 24,
+    "total_completed": 2908,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
