@@ -13212,14 +13212,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 372",
       "timestamp": 1785655008.69933
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 372",
-      "variation": true
-    },
+      "timestamp": 1785655142.552014
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2657,
-    "total_planned": 61,
+    "total_completed": 2658,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
