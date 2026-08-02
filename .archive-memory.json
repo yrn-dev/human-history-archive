@@ -12647,14 +12647,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 317",
       "timestamp": 1785629198.9605432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 352",
-      "variation": true
-    },
+      "timestamp": 1785629496.7535102
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2544,
-    "total_planned": 32,
+    "total_completed": 2545,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
