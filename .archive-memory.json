@@ -14482,14 +14482,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 364",
       "timestamp": 1785711220.05691
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 402",
-      "variation": true
-    },
+      "timestamp": 1785711499.5561137
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2911,
-    "total_planned": 20,
+    "total_completed": 2912,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
