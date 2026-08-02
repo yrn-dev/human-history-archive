@@ -14297,14 +14297,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 365",
       "timestamp": 1785703329.876592
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 285",
-      "variation": true
-    },
+      "timestamp": 1785703585.0702758
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 365",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2874,
-    "total_planned": 57,
+    "total_completed": 2875,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
