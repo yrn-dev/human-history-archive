@@ -13087,14 +13087,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 328",
       "timestamp": 1785649269.6499891
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785649566.9202158
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2632,
-    "total_planned": 15,
+    "total_completed": 2633,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
