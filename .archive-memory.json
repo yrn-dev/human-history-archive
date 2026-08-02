@@ -13157,18 +13157,17 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 326",
       "timestamp": 1785652572.495387
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 329",
-      "variation": true
+      "timestamp": 1785652730.666348
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 2646,
-    "total_planned": 1,
+    "total_completed": 2647,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
