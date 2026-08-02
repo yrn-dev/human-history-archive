@@ -13392,14 +13392,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 335",
       "timestamp": 1785662658.8254328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785662845.4905171
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2693,
-    "total_planned": 25,
+    "total_completed": 2694,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
