@@ -14172,14 +14172,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 355",
       "timestamp": 1785697325.1797056
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785697549.9602084
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 278",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2849,
-    "total_planned": 11,
+    "total_completed": 2850,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
