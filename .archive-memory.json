@@ -13397,14 +13397,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 337",
       "timestamp": 1785662845.4905171
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785663015.6924798
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2694,
-    "total_planned": 24,
+    "total_completed": 2695,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
