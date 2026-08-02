@@ -12887,14 +12887,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 328",
       "timestamp": 1785640699.2481074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 329",
-      "variation": true
-    },
+      "timestamp": 1785640867.2135649
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 329",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2592,
-    "total_planned": 55,
+    "total_completed": 2593,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
