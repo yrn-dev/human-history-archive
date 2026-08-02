@@ -14072,14 +14072,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 353",
       "timestamp": 1785692926.132981
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785693202.24157
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 353",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2829,
-    "total_planned": 31,
+    "total_completed": 2830,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
