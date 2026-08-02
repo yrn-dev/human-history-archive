@@ -13622,14 +13622,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 346",
       "timestamp": 1785672891.4580495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785673199.4434075
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 271",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2739,
-    "total_planned": 50,
+    "total_completed": 2740,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
