@@ -13442,14 +13442,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 337",
       "timestamp": 1785664968.1771111
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785665164.4728682
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2703,
-    "total_planned": 15,
+    "total_completed": 2704,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
