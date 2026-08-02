@@ -13457,14 +13457,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 337",
       "timestamp": 1785665493.277583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 338",
-      "variation": true
-    },
+      "timestamp": 1785665670.8757162
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2706,
-    "total_planned": 12,
+    "total_completed": 2707,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
