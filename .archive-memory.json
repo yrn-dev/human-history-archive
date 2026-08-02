@@ -13017,14 +13017,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 326",
       "timestamp": 1785646293.0602448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785646471.7736084
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 257",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2618,
-    "total_planned": 29,
+    "total_completed": 2619,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
