@@ -12922,14 +12922,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 328",
       "timestamp": 1785642169.2923446
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785642401.7720573
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2599,
-    "total_planned": 48,
+    "total_completed": 2600,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
