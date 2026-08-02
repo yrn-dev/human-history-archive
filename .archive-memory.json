@@ -13347,14 +13347,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 335",
       "timestamp": 1785660763.8300748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785660913.800764
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 372",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2684,
-    "total_planned": 34,
+    "total_completed": 2685,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
