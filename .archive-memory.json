@@ -12657,14 +12657,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 317",
       "timestamp": 1785629699.2665377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785629855.130555
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2546,
-    "total_planned": 30,
+    "total_completed": 2547,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
