@@ -14147,14 +14147,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 355",
       "timestamp": 1785696386.575908
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785696571.6466749
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2844,
-    "total_planned": 16,
+    "total_completed": 2845,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
