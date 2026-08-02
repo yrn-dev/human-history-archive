@@ -14177,14 +14177,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 355",
       "timestamp": 1785697549.9602084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 278",
-      "variation": true
-    },
+      "timestamp": 1785697748.6427588
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2850,
-    "total_planned": 10,
+    "total_completed": 2851,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
