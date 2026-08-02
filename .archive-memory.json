@@ -13862,14 +13862,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 346",
       "timestamp": 1785683361.6834636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785683535.3573854
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2787,
-    "total_planned": 2,
+    "total_completed": 2788,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
