@@ -14442,14 +14442,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 364",
       "timestamp": 1785709639.291274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785709824.9366286
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 365",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2903,
-    "total_planned": 28,
+    "total_completed": 2904,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
