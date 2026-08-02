@@ -12752,14 +12752,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 317",
       "timestamp": 1785634388.869945
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785634645.048793
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2565,
-    "total_planned": 11,
+    "total_completed": 2566,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
