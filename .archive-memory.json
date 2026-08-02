@@ -13117,14 +13117,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 328",
       "timestamp": 1785650494.1295218
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785650798.016244
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2638,
-    "total_planned": 9,
+    "total_completed": 2639,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
