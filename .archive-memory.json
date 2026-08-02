@@ -13512,18 +13512,17 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 337",
       "timestamp": 1785667869.910199
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 372",
-      "variation": true
+      "timestamp": 1785668073.3527439
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 2717,
-    "total_planned": 1,
+    "total_completed": 2718,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
