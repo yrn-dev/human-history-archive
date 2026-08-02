@@ -13727,14 +13727,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 344",
       "timestamp": 1785677829.5859375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785677965.448741
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 382",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2760,
-    "total_planned": 29,
+    "total_completed": 2761,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
