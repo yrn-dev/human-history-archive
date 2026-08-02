@@ -13152,14 +13152,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 326",
       "timestamp": 1785652345.9872413
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785652572.495387
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 329",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2645,
-    "total_planned": 2,
+    "total_completed": 2646,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
