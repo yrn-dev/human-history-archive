@@ -14472,14 +14472,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 285",
       "timestamp": 1785710759.4483263
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785710947.7218971
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2909,
-    "total_planned": 22,
+    "total_completed": 2910,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
