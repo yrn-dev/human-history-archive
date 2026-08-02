@@ -12987,14 +12987,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 328",
       "timestamp": 1785645076.9139388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785645264.0260973
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 329",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2612,
-    "total_planned": 35,
+    "total_completed": 2613,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
