@@ -13807,14 +13807,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 347",
       "timestamp": 1785681127.651238
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 271",
-      "variation": true
-    },
+      "timestamp": 1785681271.5684876
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 344",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2776,
-    "total_planned": 13,
+    "total_completed": 2777,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
