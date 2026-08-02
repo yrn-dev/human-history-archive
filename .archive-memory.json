@@ -14347,14 +14347,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 362",
       "timestamp": 1785705206.8055992
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785705431.0646582
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2884,
-    "total_planned": 47,
+    "total_completed": 2885,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
