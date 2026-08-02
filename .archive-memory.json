@@ -14367,14 +14367,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 285",
       "timestamp": 1785706061.32688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785706312.7479603
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2888,
-    "total_planned": 43,
+    "total_completed": 2889,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
