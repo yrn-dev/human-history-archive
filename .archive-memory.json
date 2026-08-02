@@ -12832,14 +12832,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 362",
       "timestamp": 1785638341.1692393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785638601.4981003
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 362",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2581,
-    "total_planned": 66,
+    "total_completed": 2582,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
