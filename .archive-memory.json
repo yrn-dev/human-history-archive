@@ -12907,14 +12907,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 326",
       "timestamp": 1785641557.3624341
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785641797.6155035
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2596,
-    "total_planned": 51,
+    "total_completed": 2597,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
