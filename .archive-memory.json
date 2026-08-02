@@ -12782,14 +12782,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 250",
       "timestamp": 1785635954.6452136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785636136.7709363
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2571,
-    "total_planned": 5,
+    "total_completed": 2572,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
