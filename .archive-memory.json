@@ -13187,14 +13187,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 337",
       "timestamp": 1785653882.694877
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 264",
-      "variation": true
-    },
+      "timestamp": 1785654050.2228415
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2652,
-    "total_planned": 66,
+    "total_completed": 2653,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
