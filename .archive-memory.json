@@ -14287,14 +14287,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 362",
       "timestamp": 1785702976.4037042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785703174.969077
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 365",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2872,
-    "total_planned": 59,
+    "total_completed": 2873,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
