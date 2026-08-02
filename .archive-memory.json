@@ -14037,14 +14037,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 353",
       "timestamp": 1785691496.7829084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785691681.9620068
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 353",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2822,
-    "total_planned": 38,
+    "total_completed": 2823,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
