@@ -13502,14 +13502,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 338",
       "timestamp": 1785667299.7652624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785667586.876538
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2715,
-    "total_planned": 3,
+    "total_completed": 2716,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
