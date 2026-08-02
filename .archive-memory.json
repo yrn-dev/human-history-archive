@@ -13732,14 +13732,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 344",
       "timestamp": 1785677965.448741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785678190.967683
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2761,
-    "total_planned": 28,
+    "total_completed": 2762,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
