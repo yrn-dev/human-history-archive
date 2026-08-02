@@ -12897,14 +12897,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 329",
       "timestamp": 1785641179.5240314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785641407.3182235
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2594,
-    "total_planned": 53,
+    "total_completed": 2595,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
