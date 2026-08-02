@@ -13702,14 +13702,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 344",
       "timestamp": 1785676623.8513026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785676906.5811586
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 347",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2755,
-    "total_planned": 34,
+    "total_completed": 2756,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
