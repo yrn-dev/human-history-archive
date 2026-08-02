@@ -12982,14 +12982,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 329",
       "timestamp": 1785644891.3928769
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785645076.9139388
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2611,
-    "total_planned": 36,
+    "total_completed": 2612,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
