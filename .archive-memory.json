@@ -13197,14 +13197,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 335",
       "timestamp": 1785654314.9953842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785654457.3468108
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2654,
-    "total_planned": 64,
+    "total_completed": 2655,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
