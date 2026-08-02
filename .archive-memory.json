@@ -14292,14 +14292,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 364",
       "timestamp": 1785703174.969077
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 365",
-      "variation": true
-    },
+      "timestamp": 1785703329.876592
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 285",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2873,
-    "total_planned": 58,
+    "total_completed": 2874,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
