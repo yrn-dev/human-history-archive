@@ -13742,14 +13742,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 346",
       "timestamp": 1785678423.8825085
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785678623.7450402
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 347",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2763,
-    "total_planned": 26,
+    "total_completed": 2764,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
