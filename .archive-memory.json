@@ -13142,14 +13142,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 326",
       "timestamp": 1785651811.3349226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785652027.6049066
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2643,
-    "total_planned": 4,
+    "total_completed": 2644,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
