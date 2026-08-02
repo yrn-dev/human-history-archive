@@ -13562,14 +13562,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 382",
       "timestamp": 1785670238.1531024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785670504.682052
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 382",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2727,
-    "total_planned": 62,
+    "total_completed": 2728,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
