@@ -12912,14 +12912,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 328",
       "timestamp": 1785641797.6155035
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785641994.566478
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2597,
-    "total_planned": 50,
+    "total_completed": 2598,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
