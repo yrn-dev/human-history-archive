@@ -12677,14 +12677,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 250",
       "timestamp": 1785630584.1579812
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785630808.8453414
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2550,
-    "total_planned": 26,
+    "total_completed": 2551,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
