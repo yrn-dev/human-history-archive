@@ -13487,14 +13487,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 372",
       "timestamp": 1785666738.9105003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785666941.627272
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 338",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2712,
-    "total_planned": 6,
+    "total_completed": 2713,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
