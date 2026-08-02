@@ -13467,14 +13467,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 337",
       "timestamp": 1785665875.522125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785666164.016704
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 338",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2708,
-    "total_planned": 10,
+    "total_completed": 2709,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
