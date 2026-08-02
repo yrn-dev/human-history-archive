@@ -14017,14 +14017,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 355",
       "timestamp": 1785690479.379865
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 356",
-      "variation": true
-    },
+      "timestamp": 1785690710.8608415
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2818,
-    "total_planned": 42,
+    "total_completed": 2819,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
