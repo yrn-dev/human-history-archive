@@ -14137,14 +14137,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 353",
       "timestamp": 1785695923.6275225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 356",
-      "variation": true
-    },
+      "timestamp": 1785696089.40015
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2842,
-    "total_planned": 18,
+    "total_completed": 2843,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
