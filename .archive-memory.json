@@ -14162,14 +14162,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 353",
       "timestamp": 1785696920.6945708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 356",
-      "variation": true
-    },
+      "timestamp": 1785697132.163121
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2847,
-    "total_planned": 13,
+    "total_completed": 2848,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
