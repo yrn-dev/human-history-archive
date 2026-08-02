@@ -14532,14 +14532,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 364",
       "timestamp": 1785713700.7876954
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785713940.378392
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 365",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2921,
-    "total_planned": 10,
+    "total_completed": 2922,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
