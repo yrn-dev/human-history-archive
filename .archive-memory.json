@@ -13257,14 +13257,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 337",
       "timestamp": 1785656765.9325626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 264",
-      "variation": true
-    },
+      "timestamp": 1785657090.9353902
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 264",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2666,
-    "total_planned": 52,
+    "total_completed": 2667,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
