@@ -13577,14 +13577,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 346",
       "timestamp": 1785670924.180055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785671102.9908864
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 382",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2730,
-    "total_planned": 59,
+    "total_completed": 2731,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
