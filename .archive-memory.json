@@ -14197,14 +14197,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 392",
       "timestamp": 1785698462.5764096
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 278",
-      "variation": true
-    },
+      "timestamp": 1785698767.523219
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2854,
-    "total_planned": 6,
+    "total_completed": 2855,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
