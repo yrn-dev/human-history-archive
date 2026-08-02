@@ -13037,14 +13037,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 257",
       "timestamp": 1785646953.431925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785647200.9552207
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2622,
-    "total_planned": 25,
+    "total_completed": 2623,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
