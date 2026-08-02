@@ -13982,14 +13982,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 353",
       "timestamp": 1785688782.0816188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785688987.9425066
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 392",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2811,
-    "total_planned": 49,
+    "total_completed": 2812,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
