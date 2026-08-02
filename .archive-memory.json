@@ -12892,14 +12892,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 329",
       "timestamp": 1785640867.2135649
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 329",
-      "variation": true
-    },
+      "timestamp": 1785641179.5240314
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2593,
-    "total_planned": 54,
+    "total_completed": 2594,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
