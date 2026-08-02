@@ -13852,14 +13852,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 382",
       "timestamp": 1785682837.901261
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785683098.0613256
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2785,
-    "total_planned": 4,
+    "total_completed": 2786,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
