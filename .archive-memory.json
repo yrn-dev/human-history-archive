@@ -14397,14 +14397,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 365",
       "timestamp": 1785707347.8987236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 402",
-      "variation": true
-    },
+      "timestamp": 1785707652.4359267
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2894,
-    "total_planned": 37,
+    "total_completed": 2895,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
