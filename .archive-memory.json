@@ -14382,14 +14382,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 285",
       "timestamp": 1785706642.6109853
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785706926.056383
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2891,
-    "total_planned": 40,
+    "total_completed": 2892,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
