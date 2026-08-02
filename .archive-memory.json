@@ -13032,14 +13032,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 326",
       "timestamp": 1785646803.9275873
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785646953.431925
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2621,
-    "total_planned": 26,
+    "total_completed": 2622,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
