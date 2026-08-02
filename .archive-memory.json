@@ -14447,14 +14447,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 362",
       "timestamp": 1785709824.9366286
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 365",
-      "variation": true
-    },
+      "timestamp": 1785710091.3721943
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2904,
-    "total_planned": 27,
+    "total_completed": 2905,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
