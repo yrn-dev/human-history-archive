@@ -13737,14 +13737,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 382",
       "timestamp": 1785678190.967683
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785678423.8825085
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2762,
-    "total_planned": 27,
+    "total_completed": 2763,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
