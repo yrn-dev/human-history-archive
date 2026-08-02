@@ -12692,14 +12692,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 319",
       "timestamp": 1785631461.6016266
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785631741.041736
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2553,
-    "total_planned": 23,
+    "total_completed": 2554,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
