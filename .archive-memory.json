@@ -12877,14 +12877,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 328",
       "timestamp": 1785640331.0935743
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 329",
-      "variation": true
-    },
+      "timestamp": 1785640532.0878572
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2590,
-    "total_planned": 57,
+    "total_completed": 2591,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
