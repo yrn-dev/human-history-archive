@@ -13172,14 +13172,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 335",
       "timestamp": 1785653121.0776641
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785653287.4061074
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2649,
-    "total_planned": 69,
+    "total_completed": 2650,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
