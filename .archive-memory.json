@@ -14307,14 +14307,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 365",
       "timestamp": 1785703755.4680479
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785703894.5941725
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2876,
-    "total_planned": 55,
+    "total_completed": 2877,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
