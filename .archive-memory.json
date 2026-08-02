@@ -14512,14 +14512,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 364",
       "timestamp": 1785712708.33576
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 402",
-      "variation": true
-    },
+      "timestamp": 1785713015.573858
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2917,
-    "total_planned": 14,
+    "total_completed": 2918,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
