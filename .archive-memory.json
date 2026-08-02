@@ -12682,14 +12682,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 317",
       "timestamp": 1785630808.8453414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785631149.2560134
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2551,
-    "total_planned": 25,
+    "total_completed": 2552,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
