@@ -13667,14 +13667,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 346",
       "timestamp": 1785674954.3034558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785675175.9758546
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 344",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2748,
-    "total_planned": 41,
+    "total_completed": 2749,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
