@@ -14527,14 +14527,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 365",
       "timestamp": 1785713493.3622415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785713700.7876954
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2920,
-    "total_planned": 11,
+    "total_completed": 2921,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
