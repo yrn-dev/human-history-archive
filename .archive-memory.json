@@ -12672,14 +12672,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 319",
       "timestamp": 1785630431.032526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 250",
-      "variation": true
-    },
+      "timestamp": 1785630584.1579812
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2549,
-    "total_planned": 27,
+    "total_completed": 2550,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
