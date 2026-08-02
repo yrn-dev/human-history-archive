@@ -13072,14 +13072,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 329",
       "timestamp": 1785648494.946622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785648800.042943
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 257",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2629,
-    "total_planned": 18,
+    "total_completed": 2630,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
