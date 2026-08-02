@@ -12972,14 +12972,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 257",
       "timestamp": 1785644413.736401
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785644645.9012947
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 329",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2609,
-    "total_planned": 38,
+    "total_completed": 2610,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
