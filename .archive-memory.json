@@ -12962,14 +12962,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 362",
       "timestamp": 1785644029.196419
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785644262.2042534
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 257",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2607,
-    "total_planned": 40,
+    "total_completed": 2608,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
