@@ -13617,14 +13617,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 344",
       "timestamp": 1785672583.8221543
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785672891.4580495
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2738,
-    "total_planned": 51,
+    "total_completed": 2739,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
