@@ -13652,14 +13652,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 346",
       "timestamp": 1785674202.9202673
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 347",
-      "variation": true
-    },
+      "timestamp": 1785674404.5596511
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 347",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2745,
-    "total_planned": 44,
+    "total_completed": 2746,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
