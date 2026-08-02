@@ -14067,14 +14067,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 355",
       "timestamp": 1785692689.2981741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785692926.132981
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2828,
-    "total_planned": 32,
+    "total_completed": 2829,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
