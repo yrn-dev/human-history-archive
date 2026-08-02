@@ -14102,14 +14102,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 392",
       "timestamp": 1785694444.5146084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785694689.5597644
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 356",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2835,
-    "total_planned": 25,
+    "total_completed": 2836,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
