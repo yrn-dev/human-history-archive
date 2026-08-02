@@ -12787,14 +12787,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 319",
       "timestamp": 1785636136.7709363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785636348.4062622
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 317",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2572,
-    "total_planned": 4,
+    "total_completed": 2573,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
