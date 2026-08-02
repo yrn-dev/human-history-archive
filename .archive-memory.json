@@ -12952,14 +12952,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 326",
       "timestamp": 1785643425.0695133
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 329",
-      "variation": true
-    },
+      "timestamp": 1785643733.9029098
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 362",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2605,
-    "total_planned": 42,
+    "total_completed": 2606,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
