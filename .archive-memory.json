@@ -13847,14 +13847,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 346",
       "timestamp": 1785682699.89222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785682837.901261
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2784,
-    "total_planned": 5,
+    "total_completed": 2785,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
