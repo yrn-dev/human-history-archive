@@ -14157,14 +14157,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 355",
       "timestamp": 1785696746.6465921
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785696920.6945708
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 356",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2846,
-    "total_planned": 14,
+    "total_completed": 2847,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
