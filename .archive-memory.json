@@ -13842,14 +13842,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 346",
       "timestamp": 1785682475.7686455
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785682699.89222
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 382",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2783,
-    "total_planned": 6,
+    "total_completed": 2784,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
