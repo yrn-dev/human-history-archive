@@ -14562,14 +14562,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 402",
       "timestamp": 1785714974.0173793
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785715143.517416
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 365",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2927,
-    "total_planned": 4,
+    "total_completed": 2928,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
