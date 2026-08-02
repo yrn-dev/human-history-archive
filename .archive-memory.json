@@ -13407,14 +13407,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 337",
       "timestamp": 1785663285.9740524
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 335",
-      "variation": true
-    },
+      "timestamp": 1785663498.1897056
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 338",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2696,
-    "total_planned": 22,
+    "total_completed": 2697,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
