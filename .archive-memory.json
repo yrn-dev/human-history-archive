@@ -12992,14 +12992,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 328",
       "timestamp": 1785645264.0260973
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 329",
-      "variation": true
-    },
+      "timestamp": 1785645557.7896066
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2613,
-    "total_planned": 34,
+    "total_completed": 2614,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
