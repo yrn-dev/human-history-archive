@@ -12812,14 +12812,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 326",
       "timestamp": 1785637247.4747021
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785637496.4710515
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 328",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2577,
-    "total_planned": 70,
+    "total_completed": 2578,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
