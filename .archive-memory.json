@@ -13282,14 +13282,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 264",
       "timestamp": 1785658056.252161
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785658368.5018065
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 337",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2671,
-    "total_planned": 47,
+    "total_completed": 2672,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
