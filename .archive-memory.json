@@ -14042,14 +14042,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 353",
       "timestamp": 1785691681.9620068
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785691952.6202414
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 356",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2823,
-    "total_planned": 37,
+    "total_completed": 2824,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
