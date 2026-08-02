@@ -13182,14 +13182,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 335",
       "timestamp": 1785653588.8959277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 337",
-      "variation": true
-    },
+      "timestamp": 1785653882.694877
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 264",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2651,
-    "total_planned": 67,
+    "total_completed": 2652,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
