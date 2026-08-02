@@ -14032,14 +14032,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 356",
       "timestamp": 1785691213.3376892
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785691496.7829084
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 353",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2821,
-    "total_planned": 39,
+    "total_completed": 2822,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
