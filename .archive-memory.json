@@ -12822,14 +12822,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 328",
       "timestamp": 1785637802.1913688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785638070.3629236
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 362",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2579,
-    "total_planned": 68,
+    "total_completed": 2580,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
