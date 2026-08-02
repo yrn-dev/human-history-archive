@@ -13482,14 +13482,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 338",
       "timestamp": 1785666594.813306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 372",
-      "variation": true
-    },
+      "timestamp": 1785666738.9105003
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 335",
@@ -13522,8 +13522,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2711,
-    "total_planned": 7,
+    "total_completed": 2712,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
