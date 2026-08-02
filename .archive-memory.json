@@ -14132,14 +14132,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 355",
       "timestamp": 1785695739.602147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 353",
-      "variation": true
-    },
+      "timestamp": 1785695923.6275225
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 356",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2841,
-    "total_planned": 19,
+    "total_completed": 2842,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
