@@ -14237,14 +14237,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 365",
       "timestamp": 1785700332.5480828
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 402",
-      "variation": true
-    },
+      "timestamp": 1785700661.7738292
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2862,
-    "total_planned": 69,
+    "total_completed": 2863,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
