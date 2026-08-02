@@ -12747,14 +12747,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 352",
       "timestamp": 1785634087.5265086
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 317",
-      "variation": true
-    },
+      "timestamp": 1785634388.869945
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2564,
-    "total_planned": 12,
+    "total_completed": 2565,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
