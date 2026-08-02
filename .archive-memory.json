@@ -13772,14 +13772,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 346",
       "timestamp": 1785679621.1050005
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 271",
-      "variation": true
-    },
+      "timestamp": 1785679846.747633
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 346",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2769,
-    "total_planned": 20,
+    "total_completed": 2770,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
