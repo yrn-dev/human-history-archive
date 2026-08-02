@@ -13022,14 +13022,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 362",
       "timestamp": 1785646471.7736084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 257",
-      "variation": true
-    },
+      "timestamp": 1785646641.0317028
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2619,
-    "total_planned": 28,
+    "total_completed": 2620,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
