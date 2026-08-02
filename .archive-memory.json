@@ -13782,14 +13782,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 346",
       "timestamp": 1785680054.6141188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 346",
-      "variation": true
-    },
+      "timestamp": 1785680304.5983288
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 382",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2771,
-    "total_planned": 18,
+    "total_completed": 2772,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
