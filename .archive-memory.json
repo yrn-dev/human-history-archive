@@ -13042,14 +13042,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 326",
       "timestamp": 1785647200.9552207
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 328",
-      "variation": true
-    },
+      "timestamp": 1785647339.8698049
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 257",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2623,
-    "total_planned": 24,
+    "total_completed": 2624,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
