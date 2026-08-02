@@ -13632,14 +13632,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 271",
       "timestamp": 1785673471.5240746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 271",
-      "variation": true
-    },
+      "timestamp": 1785673721.1360888
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 344",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2741,
-    "total_planned": 48,
+    "total_completed": 2742,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
