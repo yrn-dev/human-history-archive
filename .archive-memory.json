@@ -13137,14 +13137,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 326",
       "timestamp": 1785651613.9608927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 326",
-      "variation": true
-    },
+      "timestamp": 1785651811.3349226
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 326",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2642,
-    "total_planned": 5,
+    "total_completed": 2643,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
