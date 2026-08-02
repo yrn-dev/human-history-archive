@@ -12797,14 +12797,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 317",
       "timestamp": 1785636543.95858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785636839.7413654
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 250",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2574,
-    "total_planned": 2,
+    "total_completed": 2575,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
