@@ -13937,14 +13937,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 353",
       "timestamp": 1785686787.5318725
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785686981.7964048
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 355",
@@ -14232,8 +14232,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2802,
-    "total_planned": 58,
+    "total_completed": 2803,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
