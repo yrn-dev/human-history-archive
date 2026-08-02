@@ -13697,14 +13697,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 382",
       "timestamp": 1785676406.0532115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 344",
-      "variation": true
-    },
+      "timestamp": 1785676623.8513026
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 382",
@@ -13877,8 +13877,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2754,
-    "total_planned": 35,
+    "total_completed": 2755,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
