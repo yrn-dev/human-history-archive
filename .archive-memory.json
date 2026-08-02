@@ -14437,14 +14437,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 364",
       "timestamp": 1785709344.5189157
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 364",
-      "variation": true
-    },
+      "timestamp": 1785709639.291274
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 362",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2902,
-    "total_planned": 29,
+    "total_completed": 2903,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
