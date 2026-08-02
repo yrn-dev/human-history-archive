@@ -14232,14 +14232,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 365",
       "timestamp": 1785700138.7427468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 365",
-      "variation": true
-    },
+      "timestamp": 1785700332.5480828
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 402",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2861,
-    "total_planned": 70,
+    "total_completed": 2862,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
