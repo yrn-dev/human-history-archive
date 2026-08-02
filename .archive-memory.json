@@ -12842,14 +12842,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 362",
       "timestamp": 1785638863.3521206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785639099.965455
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 362",
@@ -13167,8 +13167,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2583,
-    "total_planned": 64,
+    "total_completed": 2584,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
