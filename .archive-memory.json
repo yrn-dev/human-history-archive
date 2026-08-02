@@ -12722,14 +12722,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 319",
       "timestamp": 1785632808.8471391
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 319",
-      "variation": true
-    },
+      "timestamp": 1785633088.2091627
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 319",
@@ -12812,8 +12812,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2559,
-    "total_planned": 17,
+    "total_completed": 2560,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
