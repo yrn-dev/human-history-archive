@@ -15247,14 +15247,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 382",
       "timestamp": 1785746813.6654398
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785747093.0049403
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3064,
-    "total_planned": 9,
+    "total_completed": 3065,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
