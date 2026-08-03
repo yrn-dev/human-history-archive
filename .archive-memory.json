@@ -14887,14 +14887,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 371",
       "timestamp": 1785730134.6403925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785730292.2301695
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 371",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2992,
-    "total_planned": 10,
+    "total_completed": 2993,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
