@@ -14702,14 +14702,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 412",
       "timestamp": 1785721737.5355759
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785721935.0961845
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 412",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2955,
-    "total_planned": 47,
+    "total_completed": 2956,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
