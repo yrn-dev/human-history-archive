@@ -15342,14 +15342,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 389",
       "timestamp": 1785751026.0154598
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 389",
-      "variation": true
-    },
+      "timestamp": 1785751277.0168583
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3083,
-    "total_planned": 61,
+    "total_completed": 3084,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
