@@ -15927,14 +15927,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 398",
       "timestamp": 1785778042.3520737
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785778226.4419134
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 401",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3200,
-    "total_planned": 15,
+    "total_completed": 3201,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
