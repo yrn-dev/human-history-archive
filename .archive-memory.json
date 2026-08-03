@@ -15732,14 +15732,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 401",
       "timestamp": 1785768800.5811925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 442",
-      "variation": true
-    },
+      "timestamp": 1785768961.5931418
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3161,
-    "total_planned": 54,
+    "total_completed": 3162,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
