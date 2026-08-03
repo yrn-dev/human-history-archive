@@ -15137,14 +15137,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 382",
       "timestamp": 1785741447.8428328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785741670.1166682
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 383",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3042,
-    "total_planned": 31,
+    "total_completed": 3043,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
