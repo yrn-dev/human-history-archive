@@ -15482,14 +15482,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 432",
       "timestamp": 1785757245.6260543
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 389",
-      "variation": true
-    },
+      "timestamp": 1785757433.8587391
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3111,
-    "total_planned": 33,
+    "total_completed": 3112,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
