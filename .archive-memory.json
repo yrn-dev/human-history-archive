@@ -14972,14 +14972,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 382",
       "timestamp": 1785733977.3659718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 422",
-      "variation": true
-    },
+      "timestamp": 1785734244.5990994
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 422",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3009,
-    "total_planned": 64,
+    "total_completed": 3010,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
