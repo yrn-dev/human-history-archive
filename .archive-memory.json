@@ -16202,14 +16202,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 410",
       "timestamp": 1785790179.7911158
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785790387.8258264
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3255,
-    "total_planned": 31,
+    "total_completed": 3256,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
