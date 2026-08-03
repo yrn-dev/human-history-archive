@@ -15167,14 +15167,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 380",
       "timestamp": 1785742954.9263332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785743145.72889
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3048,
-    "total_planned": 25,
+    "total_completed": 3049,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
