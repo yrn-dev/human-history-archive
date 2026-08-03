@@ -14882,14 +14882,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 371",
       "timestamp": 1785729818.9698298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785730134.6403925
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2991,
-    "total_planned": 11,
+    "total_completed": 2992,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
