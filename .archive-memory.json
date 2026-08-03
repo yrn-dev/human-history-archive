@@ -15917,14 +15917,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 400",
       "timestamp": 1785777749.058027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785777891.767286
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3198,
-    "total_planned": 17,
+    "total_completed": 3199,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
