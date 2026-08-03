@@ -16302,14 +16302,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 409",
       "timestamp": 1785794458.343344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785794614.1350002
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3275,
-    "total_planned": 11,
+    "total_completed": 3276,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
