@@ -14597,14 +14597,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 373",
       "timestamp": 1785716619.9583623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785716876.938441
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2934,
-    "total_planned": 68,
+    "total_completed": 2935,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
