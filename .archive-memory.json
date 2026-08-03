@@ -16372,14 +16372,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 418",
       "timestamp": 1785797625.0192847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 462",
-      "variation": true
-    },
+      "timestamp": 1785797777.6643982
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3289,
-    "total_planned": 68,
+    "total_completed": 3290,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
