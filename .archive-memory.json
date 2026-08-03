@@ -14677,14 +14677,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 373",
       "timestamp": 1785720743.9048805
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785720909.2302938
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 292",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2950,
-    "total_planned": 52,
+    "total_completed": 2951,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
