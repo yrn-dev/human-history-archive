@@ -15637,14 +15637,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 389",
       "timestamp": 1785764295.1956792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 306",
-      "variation": true
-    },
+      "timestamp": 1785764616.3300152
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3142,
-    "total_planned": 2,
+    "total_completed": 3143,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
