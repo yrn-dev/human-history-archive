@@ -16312,14 +16312,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 409",
       "timestamp": 1785794907.274813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785795215.9264452
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3277,
-    "total_planned": 9,
+    "total_completed": 3278,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
