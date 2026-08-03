@@ -15837,14 +15837,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 400",
       "timestamp": 1785774261.4162047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785774484.297242
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3182,
-    "total_planned": 33,
+    "total_completed": 3183,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
