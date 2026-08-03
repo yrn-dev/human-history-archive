@@ -15882,14 +15882,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 313",
       "timestamp": 1785776059.404702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 313",
-      "variation": true
-    },
+      "timestamp": 1785776340.6802952
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3191,
-    "total_planned": 24,
+    "total_completed": 3192,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
