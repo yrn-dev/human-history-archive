@@ -15952,14 +15952,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 400",
       "timestamp": 1785779161.7049003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785779324.169978
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3205,
-    "total_planned": 10,
+    "total_completed": 3206,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
