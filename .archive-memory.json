@@ -14767,14 +14767,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 374",
       "timestamp": 1785724722.3863907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 374",
-      "variation": true
-    },
+      "timestamp": 1785724879.0918808
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2968,
-    "total_planned": 34,
+    "total_completed": 2969,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
