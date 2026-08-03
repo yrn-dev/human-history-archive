@@ -15217,14 +15217,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 299",
       "timestamp": 1785745380.892029
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785745610.716575
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3058,
-    "total_planned": 15,
+    "total_completed": 3059,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
