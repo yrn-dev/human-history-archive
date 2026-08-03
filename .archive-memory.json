@@ -14742,14 +14742,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 371",
       "timestamp": 1785723489.7233396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785723749.558847
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 412",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2963,
-    "total_planned": 39,
+    "total_completed": 2964,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
