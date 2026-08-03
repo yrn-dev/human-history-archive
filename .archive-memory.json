@@ -16162,14 +16162,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 410",
       "timestamp": 1785788444.5918286
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785788682.220017
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3247,
-    "total_planned": 39,
+    "total_completed": 3248,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
