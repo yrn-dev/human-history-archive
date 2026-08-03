@@ -15662,14 +15662,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 400",
       "timestamp": 1785765503.2787547
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 313",
-      "variation": true
-    },
+      "timestamp": 1785765810.5133338
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 442",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3147,
-    "total_planned": 68,
+    "total_completed": 3148,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
