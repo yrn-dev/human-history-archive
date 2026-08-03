@@ -15177,14 +15177,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 382",
       "timestamp": 1785743341.0870829
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785743665.1090112
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 383",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3050,
-    "total_planned": 23,
+    "total_completed": 3051,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
