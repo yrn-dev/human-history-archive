@@ -16257,14 +16257,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 452",
       "timestamp": 1785792606.12493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785792812.7325654
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 410",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3266,
-    "total_planned": 20,
+    "total_completed": 3267,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
