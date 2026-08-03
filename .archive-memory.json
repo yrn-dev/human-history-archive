@@ -15832,14 +15832,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 398",
       "timestamp": 1785773981.8571885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785774261.4162047
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3181,
-    "total_planned": 34,
+    "total_completed": 3182,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
