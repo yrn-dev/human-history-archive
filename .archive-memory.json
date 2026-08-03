@@ -15902,14 +15902,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 398",
       "timestamp": 1785777022.2431443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 442",
-      "variation": true
-    },
+      "timestamp": 1785777325.9779508
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 401",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3195,
-    "total_planned": 20,
+    "total_completed": 3196,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
