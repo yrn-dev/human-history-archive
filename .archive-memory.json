@@ -16292,14 +16292,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 410",
       "timestamp": 1785794072.5785823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785794322.5648499
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3273,
-    "total_planned": 13,
+    "total_completed": 3274,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
