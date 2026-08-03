@@ -14957,14 +14957,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 383",
       "timestamp": 1785733471.685308
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785733635.7633858
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3006,
-    "total_planned": 67,
+    "total_completed": 3007,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
