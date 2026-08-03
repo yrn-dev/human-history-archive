@@ -15852,14 +15852,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 398",
       "timestamp": 1785774930.1844828
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785775100.8075044
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 313",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3185,
-    "total_planned": 30,
+    "total_completed": 3186,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
