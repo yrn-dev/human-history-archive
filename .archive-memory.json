@@ -16167,14 +16167,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 409",
       "timestamp": 1785788682.220017
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785788834.4689403
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3248,
-    "total_planned": 38,
+    "total_completed": 3249,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
