@@ -15767,14 +15767,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 442",
       "timestamp": 1785770640.5264041
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785770945.9963
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 442",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3168,
-    "total_planned": 47,
+    "total_completed": 3169,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
