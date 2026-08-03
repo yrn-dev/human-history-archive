@@ -16432,14 +16432,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 418",
       "timestamp": 1785800441.877096
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785800744.3218875
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3301,
-    "total_planned": 56,
+    "total_completed": 3302,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
