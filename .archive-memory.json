@@ -15602,14 +15602,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 432",
       "timestamp": 1785762583.9666584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785762736.0924573
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 306",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3135,
-    "total_planned": 9,
+    "total_completed": 3136,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
