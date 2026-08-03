@@ -15697,14 +15697,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 400",
       "timestamp": 1785767175.744078
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785767405.31593
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3154,
-    "total_planned": 61,
+    "total_completed": 3155,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
