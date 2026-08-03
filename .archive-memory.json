@@ -15862,14 +15862,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 313",
       "timestamp": 1785775249.4395638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785775453.6934822
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3187,
-    "total_planned": 28,
+    "total_completed": 3188,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
