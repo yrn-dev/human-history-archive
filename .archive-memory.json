@@ -15127,14 +15127,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 380",
       "timestamp": 1785740955.642344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785741269.7821217
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3040,
-    "total_planned": 33,
+    "total_completed": 3041,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
