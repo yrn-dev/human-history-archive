@@ -16187,14 +16187,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 407",
       "timestamp": 1785789489.4323018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785789798.505681
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3252,
-    "total_planned": 34,
+    "total_completed": 3253,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
