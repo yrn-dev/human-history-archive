@@ -15237,14 +15237,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 383",
       "timestamp": 1785746435.8058052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785746631.5141363
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3062,
-    "total_planned": 11,
+    "total_completed": 3063,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
