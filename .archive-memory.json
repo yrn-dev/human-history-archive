@@ -15287,18 +15287,17 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 382",
       "timestamp": 1785748494.850284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 382",
-      "variation": true
+      "timestamp": 1785748775.8284044
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 3072,
-    "total_planned": 1,
+    "total_completed": 3073,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
