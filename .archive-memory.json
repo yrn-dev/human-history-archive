@@ -14602,14 +14602,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 371",
       "timestamp": 1785716876.938441
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785717200.7704806
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 412",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2935,
-    "total_planned": 67,
+    "total_completed": 2936,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
