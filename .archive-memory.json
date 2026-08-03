@@ -16352,18 +16352,17 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 409",
       "timestamp": 1785796829.6174386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 407",
-      "variation": true
+      "timestamp": 1785796993.672078
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 3285,
-    "total_planned": 1,
+    "total_completed": 3286,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
