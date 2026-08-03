@@ -14942,14 +14942,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 422",
       "timestamp": 1785732746.5422986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 422",
-      "variation": true
-    },
+      "timestamp": 1785732922.2650447
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 422",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3003,
-    "total_planned": 70,
+    "total_completed": 3004,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
