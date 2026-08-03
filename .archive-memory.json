@@ -16262,14 +16262,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 452",
       "timestamp": 1785792812.7325654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 410",
-      "variation": true
-    },
+      "timestamp": 1785793050.617908
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 320",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3267,
-    "total_planned": 19,
+    "total_completed": 3268,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
