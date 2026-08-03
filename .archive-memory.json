@@ -15352,14 +15352,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 391",
       "timestamp": 1785751589.1632617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785751889.0753484
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 432",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3085,
-    "total_planned": 59,
+    "total_completed": 3086,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
