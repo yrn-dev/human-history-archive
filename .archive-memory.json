@@ -15197,14 +15197,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 382",
       "timestamp": 1785744354.8871312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785744550.2061214
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3054,
-    "total_planned": 19,
+    "total_completed": 3055,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
