@@ -16072,14 +16072,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 409",
       "timestamp": 1785784422.4648216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785784649.7915924
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3229,
-    "total_planned": 57,
+    "total_completed": 3230,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
