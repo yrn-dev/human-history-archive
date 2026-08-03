@@ -15212,14 +15212,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 382",
       "timestamp": 1785745101.637744
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785745380.892029
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3057,
-    "total_planned": 16,
+    "total_completed": 3058,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
