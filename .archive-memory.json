@@ -15107,14 +15107,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 380",
       "timestamp": 1785740181.4505923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785740371.4789038
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 422",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3036,
-    "total_planned": 37,
+    "total_completed": 3037,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
