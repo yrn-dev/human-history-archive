@@ -15937,14 +15937,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 401",
       "timestamp": 1785778413.4498343
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785778550.9275196
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3202,
-    "total_planned": 13,
+    "total_completed": 3203,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
