@@ -16092,14 +16092,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 407",
       "timestamp": 1785785367.7807567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 410",
-      "variation": true
-    },
+      "timestamp": 1785785613.7564645
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3233,
-    "total_planned": 53,
+    "total_completed": 3234,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
