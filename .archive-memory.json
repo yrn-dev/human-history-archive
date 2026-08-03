@@ -15182,14 +15182,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 382",
       "timestamp": 1785743665.1090112
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785743895.2641423
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3051,
-    "total_planned": 22,
+    "total_completed": 3052,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
