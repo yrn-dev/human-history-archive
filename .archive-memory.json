@@ -15817,14 +15817,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 401",
       "timestamp": 1785773115.338314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785773394.1620073
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3178,
-    "total_planned": 37,
+    "total_completed": 3179,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
