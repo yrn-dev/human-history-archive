@@ -15262,14 +15262,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 299",
       "timestamp": 1785747437.839637
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785747608.619682
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 299",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3067,
-    "total_planned": 6,
+    "total_completed": 3068,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
