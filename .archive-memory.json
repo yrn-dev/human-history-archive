@@ -15402,14 +15402,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 391",
       "timestamp": 1785753878.1012473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785754019.5659719
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3095,
-    "total_planned": 49,
+    "total_completed": 3096,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
