@@ -14862,14 +14862,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 371",
       "timestamp": 1785728930.7461681
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785729178.8186727
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2987,
-    "total_planned": 15,
+    "total_completed": 2988,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
