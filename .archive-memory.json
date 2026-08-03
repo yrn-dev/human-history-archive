@@ -16277,14 +16277,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 407",
       "timestamp": 1785793389.450725
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 407",
-      "variation": true
-    },
+      "timestamp": 1785793637.771363
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3270,
-    "total_planned": 16,
+    "total_completed": 3271,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
