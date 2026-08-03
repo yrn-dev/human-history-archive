@@ -14822,14 +14822,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 371",
       "timestamp": 1785727081.1862252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 374",
-      "variation": true
-    },
+      "timestamp": 1785727304.0011225
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 292",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2979,
-    "total_planned": 23,
+    "total_completed": 2980,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
