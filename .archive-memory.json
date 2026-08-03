@@ -16182,14 +16182,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 320",
       "timestamp": 1785789305.5697052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 407",
-      "variation": true
-    },
+      "timestamp": 1785789489.4323018
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3251,
-    "total_planned": 35,
+    "total_completed": 3252,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
