@@ -15992,14 +15992,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 398",
       "timestamp": 1785781054.8943598
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785781352.6544418
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 313",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3213,
-    "total_planned": 2,
+    "total_completed": 3214,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
