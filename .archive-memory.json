@@ -16057,14 +16057,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 409",
       "timestamp": 1785783692.9171033
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785783945.5971682
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3226,
-    "total_planned": 60,
+    "total_completed": 3227,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
