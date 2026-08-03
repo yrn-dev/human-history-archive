@@ -15597,14 +15597,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 392",
       "timestamp": 1785762272.2488391
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1785762583.9666584
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3134,
-    "total_planned": 10,
+    "total_completed": 3135,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
