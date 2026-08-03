@@ -14697,14 +14697,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 373",
       "timestamp": 1785721558.240763
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 412",
-      "variation": true
-    },
+      "timestamp": 1785721737.5355759
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 371",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2954,
-    "total_planned": 48,
+    "total_completed": 2955,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
