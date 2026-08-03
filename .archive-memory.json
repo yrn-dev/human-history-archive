@@ -15702,14 +15702,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 398",
       "timestamp": 1785767405.31593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785767576.1375234
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3155,
-    "total_planned": 60,
+    "total_completed": 3156,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
