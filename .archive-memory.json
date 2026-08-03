@@ -15072,14 +15072,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 383",
       "timestamp": 1785738523.051763
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 422",
-      "variation": true
-    },
+      "timestamp": 1785738721.066063
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3029,
-    "total_planned": 44,
+    "total_completed": 3030,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
