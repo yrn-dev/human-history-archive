@@ -14657,14 +14657,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 371",
       "timestamp": 1785719776.5348752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785720082.5603662
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2946,
-    "total_planned": 56,
+    "total_completed": 2947,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
