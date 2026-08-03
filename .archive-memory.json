@@ -16217,14 +16217,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 407",
       "timestamp": 1785790954.5396104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785791117.784932
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3258,
-    "total_planned": 28,
+    "total_completed": 3259,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
