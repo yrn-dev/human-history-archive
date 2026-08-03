@@ -16382,14 +16382,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 418",
       "timestamp": 1785797917.5130284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785798230.3378305
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 462",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3291,
-    "total_planned": 66,
+    "total_completed": 3292,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
