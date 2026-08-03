@@ -15022,14 +15022,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 422",
       "timestamp": 1785736136.3254728
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 422",
-      "variation": true
-    },
+      "timestamp": 1785736320.416106
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3019,
-    "total_planned": 54,
+    "total_completed": 3020,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
