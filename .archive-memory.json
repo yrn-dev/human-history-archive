@@ -15472,14 +15472,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 306",
       "timestamp": 1785756815.4290197
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 306",
-      "variation": true
-    },
+      "timestamp": 1785757030.1690161
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 432",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3109,
-    "total_planned": 35,
+    "total_completed": 3110,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
