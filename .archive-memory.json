@@ -15682,14 +15682,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 398",
       "timestamp": 1785766346.1823637
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 442",
-      "variation": true
-    },
+      "timestamp": 1785766595.038556
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3151,
-    "total_planned": 64,
+    "total_completed": 3152,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
