@@ -14612,14 +14612,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 412",
       "timestamp": 1785717501.2996767
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785717675.4045444
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 374",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2937,
-    "total_planned": 65,
+    "total_completed": 2938,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
