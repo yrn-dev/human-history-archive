@@ -15497,14 +15497,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 389",
       "timestamp": 1785757848.5428855
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 389",
-      "variation": true
-    },
+      "timestamp": 1785758088.4781392
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 392",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3114,
-    "total_planned": 30,
+    "total_completed": 3115,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
