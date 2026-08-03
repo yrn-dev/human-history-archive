@@ -16082,14 +16082,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 407",
       "timestamp": 1785784903.4566813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785785141.1098297
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3231,
-    "total_planned": 55,
+    "total_completed": 3232,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
