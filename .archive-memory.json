@@ -14907,14 +14907,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 373",
       "timestamp": 1785731048.5980918
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785731262.6018846
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 412",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2996,
-    "total_planned": 6,
+    "total_completed": 2997,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
