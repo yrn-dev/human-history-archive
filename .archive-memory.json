@@ -14577,18 +14577,17 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 364",
       "timestamp": 1785715690.1645606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 402",
-      "variation": true
+      "timestamp": 1785716004.3062327
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 2930,
-    "total_planned": 1,
+    "total_completed": 2931,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
