@@ -15187,14 +15187,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 383",
       "timestamp": 1785743895.2641423
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785744197.8444397
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3052,
-    "total_planned": 21,
+    "total_completed": 3053,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
