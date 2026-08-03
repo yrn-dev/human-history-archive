@@ -15242,14 +15242,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 380",
       "timestamp": 1785746631.5141363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785746813.6654398
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3063,
-    "total_planned": 10,
+    "total_completed": 3064,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
