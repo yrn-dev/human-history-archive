@@ -15922,14 +15922,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 400",
       "timestamp": 1785777891.767286
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785778042.3520737
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3199,
-    "total_planned": 16,
+    "total_completed": 3200,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
