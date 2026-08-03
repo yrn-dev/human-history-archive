@@ -15272,14 +15272,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 299",
       "timestamp": 1785747845.8485708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785748041.9711347
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3069,
-    "total_planned": 4,
+    "total_completed": 3070,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
