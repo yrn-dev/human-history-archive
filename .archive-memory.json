@@ -15152,14 +15152,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 382",
       "timestamp": 1785742245.7277045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785742492.9078243
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 299",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3045,
-    "total_planned": 28,
+    "total_completed": 3046,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
