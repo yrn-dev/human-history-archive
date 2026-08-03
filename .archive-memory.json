@@ -14717,14 +14717,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 373",
       "timestamp": 1785722433.1531734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785722698.2321782
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 292",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2958,
-    "total_planned": 44,
+    "total_completed": 2959,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
