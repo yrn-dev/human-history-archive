@@ -15367,14 +15367,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 432",
       "timestamp": 1785752282.628511
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785752514.0521977
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 432",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3088,
-    "total_planned": 56,
+    "total_completed": 3089,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
