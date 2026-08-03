@@ -15877,14 +15877,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 400",
       "timestamp": 1785775907.5593226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 313",
-      "variation": true
-    },
+      "timestamp": 1785776059.404702
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 313",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3190,
-    "total_planned": 25,
+    "total_completed": 3191,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
