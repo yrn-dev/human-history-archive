@@ -14892,14 +14892,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 373",
       "timestamp": 1785730292.2301695
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785730532.645729
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 292",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2993,
-    "total_planned": 9,
+    "total_completed": 2994,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
