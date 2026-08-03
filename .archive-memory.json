@@ -15962,14 +15962,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 400",
       "timestamp": 1785779499.2115288
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785779726.818101
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 313",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3207,
-    "total_planned": 8,
+    "total_completed": 3208,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
