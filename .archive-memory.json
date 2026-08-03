@@ -14982,14 +14982,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 422",
       "timestamp": 1785734445.8860667
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785734635.5287118
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 383",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3011,
-    "total_planned": 62,
+    "total_completed": 3012,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
