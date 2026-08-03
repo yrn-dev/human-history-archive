@@ -14777,14 +14777,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 373",
       "timestamp": 1785725069.0381083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785725245.522958
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 371",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2970,
-    "total_planned": 32,
+    "total_completed": 2971,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
