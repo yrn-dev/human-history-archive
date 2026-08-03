@@ -15132,14 +15132,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 382",
       "timestamp": 1785741269.7821217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785741447.8428328
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 299",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3041,
-    "total_planned": 32,
+    "total_completed": 3042,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
