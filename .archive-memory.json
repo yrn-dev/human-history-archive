@@ -14712,14 +14712,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 412",
       "timestamp": 1785722137.7221706
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785722433.1531734
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 371",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2957,
-    "total_planned": 45,
+    "total_completed": 2958,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
