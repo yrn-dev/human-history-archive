@@ -15362,14 +15362,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 432",
       "timestamp": 1785752104.260443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1785752282.628511
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3087,
-    "total_planned": 57,
+    "total_completed": 3088,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
