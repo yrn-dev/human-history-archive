@@ -15477,14 +15477,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 306",
       "timestamp": 1785757030.1690161
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1785757245.6260543
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 389",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3110,
-    "total_planned": 34,
+    "total_completed": 3111,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
