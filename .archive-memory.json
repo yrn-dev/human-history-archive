@@ -16237,14 +16237,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 407",
       "timestamp": 1785791743.478657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785791904.8399875
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3262,
-    "total_planned": 24,
+    "total_completed": 3263,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
