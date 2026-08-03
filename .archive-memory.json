@@ -15007,14 +15007,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 422",
       "timestamp": 1785735586.7990792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785735771.8456752
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3016,
-    "total_planned": 57,
+    "total_completed": 3017,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
