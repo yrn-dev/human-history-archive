@@ -14857,14 +14857,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 374",
       "timestamp": 1785728711.9936588
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785728930.7461681
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2986,
-    "total_planned": 16,
+    "total_completed": 2987,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
