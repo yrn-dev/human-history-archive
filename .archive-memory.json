@@ -15642,18 +15642,17 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 306",
       "timestamp": 1785764616.3300152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 391",
-      "variation": true
+      "timestamp": 1785764761.06265
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 3143,
-    "total_planned": 1,
+    "total_completed": 3144,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
