@@ -16037,14 +16037,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 409",
       "timestamp": 1785783052.9471877
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785783207.525708
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 410",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3222,
-    "total_planned": 64,
+    "total_completed": 3223,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
