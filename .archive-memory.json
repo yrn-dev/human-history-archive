@@ -14632,14 +14632,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 371",
       "timestamp": 1785718468.4642315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 374",
-      "variation": true
-    },
+      "timestamp": 1785718748.0651972
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2941,
-    "total_planned": 61,
+    "total_completed": 2942,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
