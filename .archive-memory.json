@@ -16377,14 +16377,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 462",
       "timestamp": 1785797777.6643982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785797917.5130284
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3290,
-    "total_planned": 67,
+    "total_completed": 3291,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
