@@ -16437,14 +16437,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 416",
       "timestamp": 1785800744.3218875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785800937.8879392
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 419",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3302,
-    "total_planned": 55,
+    "total_completed": 3303,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
