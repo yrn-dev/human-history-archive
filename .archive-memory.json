@@ -16287,14 +16287,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 409",
       "timestamp": 1785793854.2803035
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 410",
-      "variation": true
-    },
+      "timestamp": 1785794072.5785823
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3272,
-    "total_planned": 14,
+    "total_completed": 3273,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
