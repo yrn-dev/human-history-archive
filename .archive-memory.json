@@ -15507,14 +15507,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 392",
       "timestamp": 1785758287.651383
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785758478.5959928
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 392",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3116,
-    "total_planned": 28,
+    "total_completed": 3117,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
