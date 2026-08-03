@@ -14782,14 +14782,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 371",
       "timestamp": 1785725245.522958
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785725472.919808
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2971,
-    "total_planned": 31,
+    "total_completed": 2972,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
