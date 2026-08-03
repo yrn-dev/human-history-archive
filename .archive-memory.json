@@ -15442,14 +15442,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 391",
       "timestamp": 1785755402.6108494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1785755693.2951572
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 306",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3103,
-    "total_planned": 41,
+    "total_completed": 3104,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
