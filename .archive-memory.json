@@ -16427,14 +16427,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 418",
       "timestamp": 1785800228.7299023
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785800441.877096
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3300,
-    "total_planned": 57,
+    "total_completed": 3301,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
