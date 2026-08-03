@@ -14902,14 +14902,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 292",
       "timestamp": 1785730776.634512
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785731048.5980918
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2995,
-    "total_planned": 7,
+    "total_completed": 2996,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
