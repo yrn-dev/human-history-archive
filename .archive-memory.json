@@ -16412,14 +16412,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 419",
       "timestamp": 1785799537.9065132
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 462",
-      "variation": true
-    },
+      "timestamp": 1785799776.6616578
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3297,
-    "total_planned": 60,
+    "total_completed": 3298,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
