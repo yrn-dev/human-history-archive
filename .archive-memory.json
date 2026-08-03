@@ -15972,14 +15972,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 313",
       "timestamp": 1785780023.1651955
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 442",
-      "variation": true
-    },
+      "timestamp": 1785780284.5478241
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3209,
-    "total_planned": 6,
+    "total_completed": 3210,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
