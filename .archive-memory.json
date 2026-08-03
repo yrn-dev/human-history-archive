@@ -15687,14 +15687,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 442",
       "timestamp": 1785766595.038556
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785766909.767333
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3152,
-    "total_planned": 63,
+    "total_completed": 3153,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
