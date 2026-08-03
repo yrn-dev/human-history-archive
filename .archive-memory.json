@@ -15427,14 +15427,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 432",
       "timestamp": 1785754819.3781314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 389",
-      "variation": true
-    },
+      "timestamp": 1785755015.133557
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 432",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3100,
-    "total_planned": 44,
+    "total_completed": 3101,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
