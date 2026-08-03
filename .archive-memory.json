@@ -15097,14 +15097,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 382",
       "timestamp": 1785739649.298724
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785739879.9056554
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3034,
-    "total_planned": 39,
+    "total_completed": 3035,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
