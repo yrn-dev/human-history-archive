@@ -14757,14 +14757,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 371",
       "timestamp": 1785724298.2345278
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785724448.771989
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 374",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2966,
-    "total_planned": 36,
+    "total_completed": 2967,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
