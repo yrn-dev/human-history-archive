@@ -15067,14 +15067,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 380",
       "timestamp": 1785738294.529011
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785738523.051763
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 422",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3028,
-    "total_planned": 45,
+    "total_completed": 3029,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
