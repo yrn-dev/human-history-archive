@@ -15807,14 +15807,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 400",
       "timestamp": 1785772649.2063136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785772865.8114035
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 401",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3176,
-    "total_planned": 39,
+    "total_completed": 3177,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
