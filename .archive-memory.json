@@ -15712,14 +15712,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 398",
       "timestamp": 1785767866.8950856
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785768051.8316464
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 442",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3157,
-    "total_planned": 58,
+    "total_completed": 3158,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
