@@ -16122,14 +16122,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 320",
       "timestamp": 1785786713.563659
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785786876.6510525
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3239,
-    "total_planned": 47,
+    "total_completed": 3240,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
