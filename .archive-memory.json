@@ -15252,14 +15252,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 380",
       "timestamp": 1785747093.0049403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785747248.0358648
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 299",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3065,
-    "total_planned": 8,
+    "total_completed": 3066,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
