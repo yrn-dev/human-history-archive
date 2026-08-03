@@ -14752,14 +14752,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 412",
       "timestamp": 1785724041.326026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785724298.2345278
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2965,
-    "total_planned": 37,
+    "total_completed": 2966,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
