@@ -14977,14 +14977,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 422",
       "timestamp": 1785734244.5990994
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 422",
-      "variation": true
-    },
+      "timestamp": 1785734445.8860667
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3010,
-    "total_planned": 63,
+    "total_completed": 3011,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
