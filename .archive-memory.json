@@ -14812,14 +14812,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 371",
       "timestamp": 1785726582.9348798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785726794.9413943
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 371",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2977,
-    "total_planned": 25,
+    "total_completed": 2978,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
