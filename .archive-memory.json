@@ -15887,14 +15887,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 313",
       "timestamp": 1785776340.6802952
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785776526.930419
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3192,
-    "total_planned": 23,
+    "total_completed": 3193,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
