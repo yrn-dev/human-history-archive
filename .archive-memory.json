@@ -15082,14 +15082,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 382",
       "timestamp": 1785739004.8542492
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785739190.3372405
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3031,
-    "total_planned": 42,
+    "total_completed": 3032,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
