@@ -16142,14 +16142,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 409",
       "timestamp": 1785787596.8935483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 407",
-      "variation": true
-    },
+      "timestamp": 1785787782.6259193
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3243,
-    "total_planned": 43,
+    "total_completed": 3244,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
