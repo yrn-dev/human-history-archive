@@ -15412,14 +15412,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 391",
       "timestamp": 1785754239.1781342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1785754408.8212056
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 392",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3097,
-    "total_planned": 47,
+    "total_completed": 3098,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
