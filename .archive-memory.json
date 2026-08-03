@@ -14682,14 +14682,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 373",
       "timestamp": 1785720909.2302938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785721087.3883965
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 374",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2951,
-    "total_planned": 51,
+    "total_completed": 2952,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
