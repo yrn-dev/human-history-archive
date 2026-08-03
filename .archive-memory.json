@@ -15617,14 +15617,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 391",
       "timestamp": 1785763045.8643935
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 392",
-      "variation": true
-    },
+      "timestamp": 1785763352.5508583
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 306",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3138,
-    "total_planned": 6,
+    "total_completed": 3139,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
