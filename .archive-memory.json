@@ -14587,14 +14587,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 373",
       "timestamp": 1785716259.907281
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 412",
-      "variation": true
-    },
+      "timestamp": 1785716448.3572872
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2932,
-    "total_planned": 70,
+    "total_completed": 2933,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
