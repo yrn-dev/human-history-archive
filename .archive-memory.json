@@ -15327,14 +15327,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 391",
       "timestamp": 1785750268.1977198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 389",
-      "variation": true
-    },
+      "timestamp": 1785750567.406339
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3080,
-    "total_planned": 64,
+    "total_completed": 3081,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
