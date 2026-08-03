@@ -15667,14 +15667,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 313",
       "timestamp": 1785765810.5133338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 442",
-      "variation": true
-    },
+      "timestamp": 1785765954.4655104
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3148,
-    "total_planned": 67,
+    "total_completed": 3149,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
