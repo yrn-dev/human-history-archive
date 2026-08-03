@@ -16362,14 +16362,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 327",
       "timestamp": 1785797205.6155963
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785797358.167954
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3287,
-    "total_planned": 70,
+    "total_completed": 3288,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
