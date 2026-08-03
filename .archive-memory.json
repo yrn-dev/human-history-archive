@@ -15537,14 +15537,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 389",
       "timestamp": 1785759565.2057147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785759906.1798584
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3122,
-    "total_planned": 22,
+    "total_completed": 3123,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
