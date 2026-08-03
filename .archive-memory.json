@@ -14842,14 +14842,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 412",
       "timestamp": 1785728002.9475148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 412",
-      "variation": true
-    },
+      "timestamp": 1785728267.5775857
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 374",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2983,
-    "total_planned": 19,
+    "total_completed": 2984,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
