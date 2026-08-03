@@ -15742,14 +15742,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 398",
       "timestamp": 1785769269.1615503
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785769549.4180045
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 401",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3163,
-    "total_planned": 52,
+    "total_completed": 3164,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
