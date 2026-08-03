@@ -15377,14 +15377,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 432",
       "timestamp": 1785752765.5790298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1785752962.9869921
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3090,
-    "total_planned": 54,
+    "total_completed": 3091,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
