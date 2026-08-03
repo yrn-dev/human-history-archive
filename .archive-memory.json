@@ -15047,14 +15047,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 382",
       "timestamp": 1785737309.9533024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785737561.7736669
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3024,
-    "total_planned": 49,
+    "total_completed": 3025,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
