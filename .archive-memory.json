@@ -15312,14 +15312,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 391",
       "timestamp": 1785749505.7596133
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 389",
-      "variation": true
-    },
+      "timestamp": 1785749791.390299
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 392",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3077,
-    "total_planned": 67,
+    "total_completed": 3078,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
