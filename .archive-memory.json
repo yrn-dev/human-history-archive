@@ -14837,14 +14837,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 412",
       "timestamp": 1785727784.295692
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 412",
-      "variation": true
-    },
+      "timestamp": 1785728002.9475148
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 412",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2982,
-    "total_planned": 20,
+    "total_completed": 2983,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
