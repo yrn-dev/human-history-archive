@@ -15787,14 +15787,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 400",
       "timestamp": 1785771663.7979116
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 313",
-      "variation": true
-    },
+      "timestamp": 1785771965.8774683
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 442",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3172,
-    "total_planned": 43,
+    "total_completed": 3173,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
