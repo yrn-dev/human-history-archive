@@ -14872,14 +14872,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 373",
       "timestamp": 1785729351.8039713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785729665.7526658
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 371",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2989,
-    "total_planned": 13,
+    "total_completed": 2990,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
