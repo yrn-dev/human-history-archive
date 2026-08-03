@@ -15792,14 +15792,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 313",
       "timestamp": 1785771965.8774683
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 442",
-      "variation": true
-    },
+      "timestamp": 1785772193.591067
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3173,
-    "total_planned": 42,
+    "total_completed": 3174,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
