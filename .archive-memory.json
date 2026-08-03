@@ -16402,14 +16402,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 419",
       "timestamp": 1785799089.5982432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785799288.6246076
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 419",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3295,
-    "total_planned": 62,
+    "total_completed": 3296,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
