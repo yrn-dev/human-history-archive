@@ -15747,14 +15747,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 398",
       "timestamp": 1785769549.4180045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 401",
-      "variation": true
-    },
+      "timestamp": 1785769834.4524603
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 442",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3164,
-    "total_planned": 51,
+    "total_completed": 3165,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
