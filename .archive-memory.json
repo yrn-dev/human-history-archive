@@ -15907,14 +15907,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 442",
       "timestamp": 1785777325.9779508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 401",
-      "variation": true
-    },
+      "timestamp": 1785777468.921921
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3196,
-    "total_planned": 19,
+    "total_completed": 3197,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
