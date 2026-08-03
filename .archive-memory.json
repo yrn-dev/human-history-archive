@@ -15797,14 +15797,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 442",
       "timestamp": 1785772193.591067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785772366.3262618
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3174,
-    "total_planned": 41,
+    "total_completed": 3175,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
