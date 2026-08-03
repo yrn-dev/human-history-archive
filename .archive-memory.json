@@ -15032,14 +15032,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 382",
       "timestamp": 1785736583.434579
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785736735.101084
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3021,
-    "total_planned": 52,
+    "total_completed": 3022,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
