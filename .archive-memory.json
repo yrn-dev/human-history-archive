@@ -14692,14 +14692,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 374",
       "timestamp": 1785721379.0699675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785721558.240763
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 412",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2953,
-    "total_planned": 49,
+    "total_completed": 2954,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
