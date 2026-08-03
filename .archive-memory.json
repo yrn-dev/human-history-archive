@@ -15452,14 +15452,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 306",
       "timestamp": 1785755834.1545343
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785756005.9790387
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3105,
-    "total_planned": 39,
+    "total_completed": 3106,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
