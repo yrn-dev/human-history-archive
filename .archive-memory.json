@@ -15387,14 +15387,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 391",
       "timestamp": 1785753202.3009596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 389",
-      "variation": true
-    },
+      "timestamp": 1785753349.46617
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3092,
-    "total_planned": 52,
+    "total_completed": 3093,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
