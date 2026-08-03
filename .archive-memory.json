@@ -14847,14 +14847,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 412",
       "timestamp": 1785728267.5775857
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 374",
-      "variation": true
-    },
+      "timestamp": 1785728453.0439425
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 374",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2984,
-    "total_planned": 18,
+    "total_completed": 2985,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
