@@ -16157,14 +16157,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 452",
       "timestamp": 1785788265.0351858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 410",
-      "variation": true
-    },
+      "timestamp": 1785788444.5918286
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3246,
-    "total_planned": 40,
+    "total_completed": 3247,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
