@@ -15527,14 +15527,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 391",
       "timestamp": 1785759201.5105295
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 392",
-      "variation": true
-    },
+      "timestamp": 1785759378.779708
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 389",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3120,
-    "total_planned": 24,
+    "total_completed": 3121,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
