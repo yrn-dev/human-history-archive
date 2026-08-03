@@ -16417,14 +16417,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 462",
       "timestamp": 1785799776.6616578
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785800089.3482747
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3298,
-    "total_planned": 59,
+    "total_completed": 3299,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
