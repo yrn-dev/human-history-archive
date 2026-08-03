@@ -14662,14 +14662,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 292",
       "timestamp": 1785720082.5603662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785720308.6723032
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2947,
-    "total_planned": 55,
+    "total_completed": 2948,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
