@@ -15447,14 +15447,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 432",
       "timestamp": 1785755693.2951572
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 306",
-      "variation": true
-    },
+      "timestamp": 1785755834.1545343
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3104,
-    "total_planned": 40,
+    "total_completed": 3105,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
