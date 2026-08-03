@@ -16147,14 +16147,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 407",
       "timestamp": 1785787782.6259193
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785787979.0793636
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3244,
-    "total_planned": 42,
+    "total_completed": 3245,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
