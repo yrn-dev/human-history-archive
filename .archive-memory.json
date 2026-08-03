@@ -15577,14 +15577,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 391",
       "timestamp": 1785761290.5748332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785761603.4319067
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 389",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3130,
-    "total_planned": 14,
+    "total_completed": 3131,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
