@@ -14997,14 +14997,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 380",
       "timestamp": 1785735166.3325734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785735419.0834026
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 422",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3014,
-    "total_planned": 59,
+    "total_completed": 3015,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
