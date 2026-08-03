@@ -15822,14 +15822,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 400",
       "timestamp": 1785773394.1620073
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785773670.966253
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3179,
-    "total_planned": 36,
+    "total_completed": 3180,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
