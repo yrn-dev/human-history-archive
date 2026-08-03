@@ -14927,14 +14927,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 373",
       "timestamp": 1785732032.0279868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 412",
-      "variation": true
-    },
+      "timestamp": 1785732283.2965975
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3000,
-    "total_planned": 2,
+    "total_completed": 3001,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
