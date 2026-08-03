@@ -15207,14 +15207,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 382",
       "timestamp": 1785744860.9323494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785745101.637744
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 299",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3056,
-    "total_planned": 17,
+    "total_completed": 3057,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
