@@ -14652,14 +14652,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 371",
       "timestamp": 1785719488.688238
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785719776.5348752
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 292",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2945,
-    "total_planned": 57,
+    "total_completed": 2946,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
