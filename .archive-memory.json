@@ -15347,14 +15347,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 389",
       "timestamp": 1785751277.0168583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785751589.1632617
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3084,
-    "total_planned": 60,
+    "total_completed": 3085,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
