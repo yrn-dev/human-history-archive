@@ -16032,14 +16032,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 407",
       "timestamp": 1785782753.7954018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785783052.9471877
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3221,
-    "total_planned": 65,
+    "total_completed": 3222,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
