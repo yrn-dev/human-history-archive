@@ -15522,14 +15522,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 389",
       "timestamp": 1785758981.40059
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785759201.5105295
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 392",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3119,
-    "total_planned": 25,
+    "total_completed": 3120,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
