@@ -16137,14 +16137,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 407",
       "timestamp": 1785787407.9422593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785787596.8935483
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3242,
-    "total_planned": 44,
+    "total_completed": 3243,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
