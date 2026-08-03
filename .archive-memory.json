@@ -16322,14 +16322,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 409",
       "timestamp": 1785795400.8037565
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 410",
-      "variation": true
-    },
+      "timestamp": 1785795706.1414816
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3279,
-    "total_planned": 7,
+    "total_completed": 3280,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
