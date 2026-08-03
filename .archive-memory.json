@@ -15092,14 +15092,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 380",
       "timestamp": 1785739462.6704361
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785739649.298724
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3033,
-    "total_planned": 40,
+    "total_completed": 3034,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
