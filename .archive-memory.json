@@ -15867,14 +15867,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 398",
       "timestamp": 1785775453.6934822
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785775616.7324057
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3188,
-    "total_planned": 27,
+    "total_completed": 3189,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
