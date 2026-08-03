@@ -15147,14 +15147,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 383",
       "timestamp": 1785741959.7008522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785742245.7277045
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 299",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3044,
-    "total_planned": 29,
+    "total_completed": 3045,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
