@@ -15827,14 +15827,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 400",
       "timestamp": 1785773670.966253
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785773981.8571885
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3180,
-    "total_planned": 35,
+    "total_completed": 3181,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
