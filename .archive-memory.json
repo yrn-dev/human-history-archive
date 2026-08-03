@@ -15987,14 +15987,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 400",
       "timestamp": 1785780876.7411332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785781054.8943598
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3212,
-    "total_planned": 3,
+    "total_completed": 3213,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
