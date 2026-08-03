@@ -16252,14 +16252,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 407",
       "timestamp": 1785792372.869142
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785792606.12493
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3265,
-    "total_planned": 21,
+    "total_completed": 3266,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
