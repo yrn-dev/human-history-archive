@@ -16177,14 +16177,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 407",
       "timestamp": 1785789036.6491797
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785789305.5697052
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3250,
-    "total_planned": 36,
+    "total_completed": 3251,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
