@@ -16017,14 +16017,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 409",
       "timestamp": 1785782225.546033
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785782368.7176924
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 320",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3218,
-    "total_planned": 68,
+    "total_completed": 3219,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
