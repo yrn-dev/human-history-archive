@@ -15782,14 +15782,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 401",
       "timestamp": 1785771390.9745593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785771663.7979116
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 313",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3171,
-    "total_planned": 44,
+    "total_completed": 3172,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
