@@ -14787,14 +14787,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 371",
       "timestamp": 1785725472.919808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785725701.4848394
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 374",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2972,
-    "total_planned": 30,
+    "total_completed": 2973,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
