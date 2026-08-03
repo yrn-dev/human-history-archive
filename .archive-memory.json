@@ -16282,14 +16282,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 407",
       "timestamp": 1785793637.771363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785793854.2803035
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 410",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3271,
-    "total_planned": 15,
+    "total_completed": 3272,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
