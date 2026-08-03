@@ -15297,14 +15297,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 391",
       "timestamp": 1785748939.7393303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785749128.3785222
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 389",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3074,
-    "total_planned": 70,
+    "total_completed": 3075,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
