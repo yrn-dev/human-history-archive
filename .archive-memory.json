@@ -15397,14 +15397,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 391",
       "timestamp": 1785753651.8160336
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 391",
-      "variation": true
-    },
+      "timestamp": 1785753878.1012473
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3094,
-    "total_planned": 50,
+    "total_completed": 3095,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
