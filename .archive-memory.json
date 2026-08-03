@@ -14737,14 +14737,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 292",
       "timestamp": 1785723328.1903448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785723489.7233396
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2962,
-    "total_planned": 40,
+    "total_completed": 2963,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
