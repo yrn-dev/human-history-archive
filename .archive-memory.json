@@ -15942,14 +15942,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 400",
       "timestamp": 1785778550.9275196
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785778851.1000118
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3203,
-    "total_planned": 12,
+    "total_completed": 3204,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
