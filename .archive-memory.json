@@ -15847,14 +15847,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 400",
       "timestamp": 1785774747.3872657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785774930.1844828
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3184,
-    "total_planned": 31,
+    "total_completed": 3185,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
