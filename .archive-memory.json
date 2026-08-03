@@ -14897,14 +14897,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 371",
       "timestamp": 1785730532.645729
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785730776.634512
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2994,
-    "total_planned": 8,
+    "total_completed": 2995,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
