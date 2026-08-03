@@ -14947,14 +14947,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 422",
       "timestamp": 1785732922.2650447
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 422",
-      "variation": true
-    },
+      "timestamp": 1785733218.9430108
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 383",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3004,
-    "total_planned": 69,
+    "total_completed": 3005,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
