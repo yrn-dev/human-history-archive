@@ -16087,14 +16087,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 409",
       "timestamp": 1785785141.1098297
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 407",
-      "variation": true
-    },
+      "timestamp": 1785785367.7807567
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 410",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3232,
-    "total_planned": 54,
+    "total_completed": 3233,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
