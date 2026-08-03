@@ -14912,14 +14912,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 373",
       "timestamp": 1785731262.6018846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 412",
-      "variation": true
-    },
+      "timestamp": 1785731538.901561
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2997,
-    "total_planned": 5,
+    "total_completed": 2998,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
