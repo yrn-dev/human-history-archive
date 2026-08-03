@@ -14722,14 +14722,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 371",
       "timestamp": 1785722698.2321782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 292",
-      "variation": true
-    },
+      "timestamp": 1785722906.807226
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2959,
-    "total_planned": 43,
+    "total_completed": 2960,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
