@@ -15657,14 +15657,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 401",
       "timestamp": 1785765306.0353622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785765503.2787547
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 313",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3146,
-    "total_planned": 69,
+    "total_completed": 3147,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
