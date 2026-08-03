@@ -15757,14 +15757,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 442",
       "timestamp": 1785770084.0206788
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 401",
-      "variation": true
-    },
+      "timestamp": 1785770357.0540357
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 442",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3166,
-    "total_planned": 49,
+    "total_completed": 3167,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
