@@ -16342,14 +16342,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 452",
       "timestamp": 1785796282.7069063
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 409",
-      "variation": true
-    },
+      "timestamp": 1785796568.314311
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3283,
-    "total_planned": 3,
+    "total_completed": 3284,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
