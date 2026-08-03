@@ -16172,14 +16172,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 409",
       "timestamp": 1785788834.4689403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 407",
-      "variation": true
-    },
+      "timestamp": 1785789036.6491797
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 320",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3249,
-    "total_planned": 37,
+    "total_completed": 3250,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
