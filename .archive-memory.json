@@ -14607,14 +14607,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 373",
       "timestamp": 1785717200.7704806
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 412",
-      "variation": true
-    },
+      "timestamp": 1785717501.2996767
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 373",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2936,
-    "total_planned": 66,
+    "total_completed": 2937,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
