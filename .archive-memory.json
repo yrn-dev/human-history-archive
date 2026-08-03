@@ -16332,14 +16332,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 452",
       "timestamp": 1785795881.5776663
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 410",
-      "variation": true
-    },
+      "timestamp": 1785796121.842346
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 452",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3281,
-    "total_planned": 5,
+    "total_completed": 3282,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
