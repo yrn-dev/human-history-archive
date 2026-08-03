@@ -16197,14 +16197,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 407",
       "timestamp": 1785789988.54309
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 410",
-      "variation": true
-    },
+      "timestamp": 1785790179.7911158
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3254,
-    "total_planned": 32,
+    "total_completed": 3255,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
