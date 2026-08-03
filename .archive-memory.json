@@ -15977,14 +15977,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 442",
       "timestamp": 1785780284.5478241
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785780575.262648
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3210,
-    "total_planned": 5,
+    "total_completed": 3211,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
