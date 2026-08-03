@@ -16047,14 +16047,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 410",
       "timestamp": 1785783351.0458229
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785783539.2273426
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 409",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3224,
-    "total_planned": 62,
+    "total_completed": 3225,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
