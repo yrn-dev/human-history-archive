@@ -15052,14 +15052,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 299",
       "timestamp": 1785737561.7736669
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 380",
-      "variation": true
-    },
+      "timestamp": 1785737789.5794065
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3025,
-    "total_planned": 48,
+    "total_completed": 3026,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
