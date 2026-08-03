@@ -16267,14 +16267,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 410",
       "timestamp": 1785793050.617908
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 320",
-      "variation": true
-    },
+      "timestamp": 1785793212.1218867
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3268,
-    "total_planned": 18,
+    "total_completed": 3269,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
