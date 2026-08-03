@@ -15897,14 +15897,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 398",
       "timestamp": 1785776826.7892559
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785777022.2431443
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 442",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3194,
-    "total_planned": 21,
+    "total_completed": 3195,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
