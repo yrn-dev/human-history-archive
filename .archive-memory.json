@@ -15157,14 +15157,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 299",
       "timestamp": 1785742492.9078243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 299",
-      "variation": true
-    },
+      "timestamp": 1785742650.7973917
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3046,
-    "total_planned": 27,
+    "total_completed": 3047,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
