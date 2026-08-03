@@ -15002,14 +15002,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 383",
       "timestamp": 1785735419.0834026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 422",
-      "variation": true
-    },
+      "timestamp": 1785735586.7990792
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3015,
-    "total_planned": 58,
+    "total_completed": 3016,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
