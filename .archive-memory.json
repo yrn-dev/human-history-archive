@@ -14987,14 +14987,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 380",
       "timestamp": 1785734635.5287118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785734849.4188037
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 380",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3012,
-    "total_planned": 61,
+    "total_completed": 3013,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
