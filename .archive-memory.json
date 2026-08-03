@@ -14567,14 +14567,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 364",
       "timestamp": 1785715143.517416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 365",
-      "variation": true
-    },
+      "timestamp": 1785715417.0184505
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 364",
@@ -14587,8 +14587,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2928,
-    "total_planned": 3,
+    "total_completed": 2929,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
