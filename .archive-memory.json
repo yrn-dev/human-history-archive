@@ -15467,14 +15467,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 389",
       "timestamp": 1785756512.5625517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 306",
-      "variation": true
-    },
+      "timestamp": 1785756815.4290197
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 306",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3108,
-    "total_planned": 36,
+    "total_completed": 3109,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
