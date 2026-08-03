@@ -15717,14 +15717,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 400",
       "timestamp": 1785768051.8316464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 442",
-      "variation": true
-    },
+      "timestamp": 1785768198.2834666
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 401",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3158,
-    "total_planned": 57,
+    "total_completed": 3159,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
