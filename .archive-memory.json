@@ -15812,14 +15812,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 400",
       "timestamp": 1785772865.8114035
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 401",
-      "variation": true
-    },
+      "timestamp": 1785773115.338314
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3177,
-    "total_planned": 38,
+    "total_completed": 3178,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
