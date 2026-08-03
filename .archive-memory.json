@@ -16242,14 +16242,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 409",
       "timestamp": 1785791904.8399875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 407",
-      "variation": true
-    },
+      "timestamp": 1785792094.6774435
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 407",
@@ -16362,8 +16362,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3263,
-    "total_planned": 23,
+    "total_completed": 3264,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
