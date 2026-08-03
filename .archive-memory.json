@@ -15202,14 +15202,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 380",
       "timestamp": 1785744550.2061214
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 382",
-      "variation": true
-    },
+      "timestamp": 1785744860.9323494
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 382",
@@ -15297,8 +15297,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3055,
-    "total_planned": 18,
+    "total_completed": 3056,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
