@@ -14922,14 +14922,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 373",
       "timestamp": 1785731816.1495843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 373",
-      "variation": true
-    },
+      "timestamp": 1785732032.0279868
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 412",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2999,
-    "total_planned": 3,
+    "total_completed": 3000,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
