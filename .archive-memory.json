@@ -15707,14 +15707,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 400",
       "timestamp": 1785767576.1375234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785767866.8950856
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 400",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3156,
-    "total_planned": 59,
+    "total_completed": 3157,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
