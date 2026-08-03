@@ -15737,14 +15737,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 442",
       "timestamp": 1785768961.5931418
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 398",
-      "variation": true
-    },
+      "timestamp": 1785769269.1615503
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3162,
-    "total_planned": 53,
+    "total_completed": 3163,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
