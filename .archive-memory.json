@@ -15692,14 +15692,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 398",
       "timestamp": 1785766909.767333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 400",
-      "variation": true
-    },
+      "timestamp": 1785767175.744078
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 398",
@@ -16007,8 +16007,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3153,
-    "total_planned": 62,
+    "total_completed": 3154,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
