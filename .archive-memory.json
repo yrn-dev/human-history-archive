@@ -15317,14 +15317,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 389",
       "timestamp": 1785749791.390299
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 392",
-      "variation": true
-    },
+      "timestamp": 1785750084.5598462
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 391",
@@ -15652,8 +15652,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3078,
-    "total_planned": 66,
+    "total_completed": 3079,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
