@@ -16387,14 +16387,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 416",
       "timestamp": 1785798230.3378305
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 462",
-      "variation": true
-    },
+      "timestamp": 1785798511.90621
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3292,
-    "total_planned": 65,
+    "total_completed": 3293,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
