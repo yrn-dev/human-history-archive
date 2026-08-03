@@ -14647,14 +14647,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 371",
       "timestamp": 1785719216.9179983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 371",
-      "variation": true
-    },
+      "timestamp": 1785719488.688238
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 371",
@@ -14942,8 +14942,8 @@
     }
   ],
   "stats": {
-    "total_completed": 2944,
-    "total_planned": 58,
+    "total_completed": 2945,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
