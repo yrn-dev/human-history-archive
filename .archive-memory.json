@@ -17082,14 +17082,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 434",
       "timestamp": 1785830770.4855025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785830909.2007382
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3431,
-    "total_planned": 68,
+    "total_completed": 3432,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
