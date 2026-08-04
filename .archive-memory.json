@@ -17097,14 +17097,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 482",
       "timestamp": 1785831385.041844
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785831635.9020894
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3434,
-    "total_planned": 65,
+    "total_completed": 3435,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
