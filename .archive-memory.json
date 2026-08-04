@@ -17822,14 +17822,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 355",
       "timestamp": 1785865158.7605617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785865383.3127608
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3579,
-    "total_planned": 62,
+    "total_completed": 3580,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
