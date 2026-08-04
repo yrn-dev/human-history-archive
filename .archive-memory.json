@@ -16552,14 +16552,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 418",
       "timestamp": 1785806127.1873202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785806316.7379708
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 419",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3325,
-    "total_planned": 32,
+    "total_completed": 3326,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
