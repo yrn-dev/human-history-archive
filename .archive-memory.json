@@ -17057,14 +17057,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 428",
       "timestamp": 1785829510.859798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785829785.1561143
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 334",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3426,
-    "total_planned": 2,
+    "total_completed": 3427,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
