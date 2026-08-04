@@ -17917,14 +17917,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 502",
       "timestamp": 1785869200.841501
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785869409.5730793
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 502",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3598,
-    "total_planned": 43,
+    "total_completed": 3599,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
