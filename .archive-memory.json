@@ -17297,14 +17297,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 436",
       "timestamp": 1785840781.8348508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785841055.4034982
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 482",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3474,
-    "total_planned": 25,
+    "total_completed": 3475,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
