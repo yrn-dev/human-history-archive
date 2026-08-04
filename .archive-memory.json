@@ -16877,14 +16877,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 472",
       "timestamp": 1785820391.88174
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785820652.4965377
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 334",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3390,
-    "total_planned": 38,
+    "total_completed": 3391,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
