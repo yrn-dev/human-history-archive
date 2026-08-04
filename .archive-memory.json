@@ -18097,14 +18097,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 455",
       "timestamp": 1785877557.9068289
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785877749.2808125
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 502",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3634,
-    "total_planned": 7,
+    "total_completed": 3635,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
