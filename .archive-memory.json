@@ -17292,14 +17292,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 341",
       "timestamp": 1785840549.7895782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785840781.8348508
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3473,
-    "total_planned": 26,
+    "total_completed": 3474,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
