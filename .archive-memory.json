@@ -18277,14 +18277,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 464",
       "timestamp": 1785885834.969916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785885993.7484157
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 362",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3670,
-    "total_planned": 42,
+    "total_completed": 3671,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
