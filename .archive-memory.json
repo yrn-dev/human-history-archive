@@ -17187,14 +17187,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 437",
       "timestamp": 1785835535.8636823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 341",
-      "variation": true
-    },
+      "timestamp": 1785835825.295797
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3452,
-    "total_planned": 47,
+    "total_completed": 3453,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
