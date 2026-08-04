@@ -16967,14 +16967,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 334",
       "timestamp": 1785824905.666822
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785825179.8794637
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 428",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3408,
-    "total_planned": 20,
+    "total_completed": 3409,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
