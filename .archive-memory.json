@@ -17182,14 +17182,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 436",
       "timestamp": 1785835309.069298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 437",
-      "variation": true
-    },
+      "timestamp": 1785835535.8636823
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 341",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3451,
-    "total_planned": 48,
+    "total_completed": 3452,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
