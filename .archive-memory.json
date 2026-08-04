@@ -16932,14 +16932,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 427",
       "timestamp": 1785823240.869035
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785823494.6131313
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3401,
-    "total_planned": 27,
+    "total_completed": 3402,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
