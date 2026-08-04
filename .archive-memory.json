@@ -16457,14 +16457,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 416",
       "timestamp": 1785801752.6550794
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785802021.4829712
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 462",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3306,
-    "total_planned": 51,
+    "total_completed": 3307,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
