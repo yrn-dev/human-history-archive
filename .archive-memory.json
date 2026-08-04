@@ -16462,14 +16462,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 416",
       "timestamp": 1785802021.4829712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 462",
-      "variation": true
-    },
+      "timestamp": 1785802311.6632373
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3307,
-    "total_planned": 50,
+    "total_completed": 3308,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
