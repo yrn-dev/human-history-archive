@@ -16812,14 +16812,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 427",
       "timestamp": 1785817498.1643777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785817655.448323
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3377,
-    "total_planned": 51,
+    "total_completed": 3378,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
