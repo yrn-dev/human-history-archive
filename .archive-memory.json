@@ -18242,14 +18242,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 512",
       "timestamp": 1785884268.3343656
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785884498.4342039
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3663,
-    "total_planned": 49,
+    "total_completed": 3664,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
