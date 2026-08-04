@@ -17817,14 +17817,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 452",
       "timestamp": 1785864859.94463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785865158.7605617
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3578,
-    "total_planned": 63,
+    "total_completed": 3579,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
