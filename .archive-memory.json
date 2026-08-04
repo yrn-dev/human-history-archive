@@ -17342,14 +17342,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 434",
       "timestamp": 1785843014.7235694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 437",
-      "variation": true
-    },
+      "timestamp": 1785843244.843632
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3483,
-    "total_planned": 16,
+    "total_completed": 3484,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
