@@ -16492,14 +16492,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 419",
       "timestamp": 1785803466.2242413
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785803769.5161486
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 419",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3313,
-    "total_planned": 44,
+    "total_completed": 3314,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
