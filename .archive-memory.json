@@ -17712,14 +17712,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 445",
       "timestamp": 1785860236.225977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785860427.8780336
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3557,
-    "total_planned": 13,
+    "total_completed": 3558,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
