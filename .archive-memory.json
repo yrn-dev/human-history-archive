@@ -17257,14 +17257,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 434",
       "timestamp": 1785838707.9346664
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785838971.6806226
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3466,
-    "total_planned": 33,
+    "total_completed": 3467,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
