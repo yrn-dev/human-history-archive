@@ -17172,14 +17172,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 436",
       "timestamp": 1785834932.7568452
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 341",
-      "variation": true
-    },
+      "timestamp": 1785835134.2112722
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3449,
-    "total_planned": 50,
+    "total_completed": 3450,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
