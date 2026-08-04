@@ -18072,14 +18072,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 455",
       "timestamp": 1785876520.3044734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785876703.225337
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3629,
-    "total_planned": 12,
+    "total_completed": 3630,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
