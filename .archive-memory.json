@@ -16452,14 +16452,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 418",
       "timestamp": 1785801437.0968583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785801752.6550794
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3305,
-    "total_planned": 52,
+    "total_completed": 3306,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
