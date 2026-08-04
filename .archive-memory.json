@@ -16617,14 +16617,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 416",
       "timestamp": 1785809102.4548452
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 327",
-      "variation": true
-    },
+      "timestamp": 1785809286.9264705
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 327",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3338,
-    "total_planned": 19,
+    "total_completed": 3339,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
