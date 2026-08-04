@@ -16992,14 +16992,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 472",
       "timestamp": 1785826224.4959912
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 428",
-      "variation": true
-    },
+      "timestamp": 1785826483.6108854
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3413,
-    "total_planned": 15,
+    "total_completed": 3414,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
