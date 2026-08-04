@@ -17102,14 +17102,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 436",
       "timestamp": 1785831635.9020894
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785831816.9521587
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3435,
-    "total_planned": 64,
+    "total_completed": 3436,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
