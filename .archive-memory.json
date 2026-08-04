@@ -17632,14 +17632,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 492",
       "timestamp": 1785856166.4331002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785856443.0631309
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 492",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3541,
-    "total_planned": 29,
+    "total_completed": 3542,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
