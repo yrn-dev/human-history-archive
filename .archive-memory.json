@@ -18062,14 +18062,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 454",
       "timestamp": 1785876019.0121288
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785876301.9362235
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 455",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3627,
-    "total_planned": 14,
+    "total_completed": 3628,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
