@@ -17007,14 +17007,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 428",
       "timestamp": 1785827036.39468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785827360.40892
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3416,
-    "total_planned": 12,
+    "total_completed": 3417,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
