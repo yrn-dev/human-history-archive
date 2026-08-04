@@ -18162,14 +18162,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 362",
       "timestamp": 1785880536.4759078
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785880721.840989
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3647,
-    "total_planned": 65,
+    "total_completed": 3648,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
