@@ -16962,14 +16962,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 427",
       "timestamp": 1785824763.6978354
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 334",
-      "variation": true
-    },
+      "timestamp": 1785824905.666822
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3407,
-    "total_planned": 21,
+    "total_completed": 3408,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
