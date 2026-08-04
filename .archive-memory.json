@@ -18057,14 +18057,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 355",
       "timestamp": 1785875715.515448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785876019.0121288
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3626,
-    "total_planned": 15,
+    "total_completed": 3627,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
