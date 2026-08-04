@@ -17812,14 +17812,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 455",
       "timestamp": 1785864717.559675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785864859.94463
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 355",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3577,
-    "total_planned": 64,
+    "total_completed": 3578,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
