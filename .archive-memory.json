@@ -17432,14 +17432,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 443",
       "timestamp": 1785846977.9606636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 492",
-      "variation": true
-    },
+      "timestamp": 1785847240.3077242
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 443",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3501,
-    "total_planned": 69,
+    "total_completed": 3502,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
