@@ -18127,18 +18127,17 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 452",
       "timestamp": 1785878946.7048573
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 455",
-      "variation": true
+      "timestamp": 1785879260.2205179
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 3640,
-    "total_planned": 1,
+    "total_completed": 3641,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
