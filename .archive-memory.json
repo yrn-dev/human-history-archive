@@ -17197,14 +17197,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 436",
       "timestamp": 1785836046.3388705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785836214.5364516
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3454,
-    "total_planned": 45,
+    "total_completed": 3455,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
