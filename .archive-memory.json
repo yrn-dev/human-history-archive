@@ -17107,14 +17107,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 436",
       "timestamp": 1785831816.9521587
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785832060.9909012
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3436,
-    "total_planned": 63,
+    "total_completed": 3437,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
