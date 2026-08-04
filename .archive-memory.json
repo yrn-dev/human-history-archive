@@ -17277,14 +17277,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 434",
       "timestamp": 1785839776.389974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785840041.507885
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3470,
-    "total_planned": 29,
+    "total_completed": 3471,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
