@@ -17477,14 +17477,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 445",
       "timestamp": 1785849146.6525536
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 492",
-      "variation": true
-    },
+      "timestamp": 1785849300.5984213
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 446",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3510,
-    "total_planned": 60,
+    "total_completed": 3511,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
