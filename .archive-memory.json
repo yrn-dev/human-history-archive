@@ -18032,14 +18032,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 454",
       "timestamp": 1785874537.756853
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785874794.6459568
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3621,
-    "total_planned": 20,
+    "total_completed": 3622,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
