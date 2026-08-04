@@ -17792,14 +17792,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 355",
       "timestamp": 1785864027.9452093
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785864171.279143
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3573,
-    "total_planned": 68,
+    "total_completed": 3574,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
