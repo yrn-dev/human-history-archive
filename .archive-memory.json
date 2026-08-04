@@ -18117,14 +18117,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 455",
       "timestamp": 1785878412.8891773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1785878650.6674242
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3638,
-    "total_planned": 3,
+    "total_completed": 3639,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
