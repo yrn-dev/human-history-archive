@@ -18077,14 +18077,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 452",
       "timestamp": 1785876703.225337
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785876937.6735034
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3630,
-    "total_planned": 11,
+    "total_completed": 3631,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
