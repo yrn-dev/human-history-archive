@@ -17897,14 +17897,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 452",
       "timestamp": 1785868441.7503433
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1785868588.0126882
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3594,
-    "total_planned": 47,
+    "total_completed": 3595,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
