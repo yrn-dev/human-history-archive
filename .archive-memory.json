@@ -16822,14 +16822,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 425",
       "timestamp": 1785817915.6270697
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785818208.583266
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3379,
-    "total_planned": 49,
+    "total_completed": 3380,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
