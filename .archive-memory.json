@@ -18192,14 +18192,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 362",
       "timestamp": 1785881833.3759224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785882077.8832781
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3653,
-    "total_planned": 59,
+    "total_completed": 3654,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
