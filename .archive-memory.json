@@ -16567,14 +16567,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 416",
       "timestamp": 1785806720.0022745
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785806949.7811513
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3328,
-    "total_planned": 29,
+    "total_completed": 3329,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
