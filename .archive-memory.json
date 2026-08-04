@@ -16817,14 +16817,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 427",
       "timestamp": 1785817655.448323
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785817915.6270697
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 472",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3378,
-    "total_planned": 50,
+    "total_completed": 3379,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
