@@ -17947,14 +17947,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 502",
       "timestamp": 1785870597.8810804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 455",
-      "variation": true
-    },
+      "timestamp": 1785870808.8752718
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3604,
-    "total_planned": 37,
+    "total_completed": 3605,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
