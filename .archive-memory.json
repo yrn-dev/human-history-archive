@@ -16547,14 +16547,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 462",
       "timestamp": 1785805896.6042624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785806127.1873202
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3324,
-    "total_planned": 33,
+    "total_completed": 3325,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
