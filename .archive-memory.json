@@ -16682,14 +16682,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 418",
       "timestamp": 1785812042.5892184
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785812207.1424747
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3351,
-    "total_planned": 6,
+    "total_completed": 3352,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
