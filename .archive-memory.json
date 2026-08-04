@@ -17457,14 +17457,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 348",
       "timestamp": 1785848143.9246979
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 348",
-      "variation": true
-    },
+      "timestamp": 1785848316.603962
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 492",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3506,
-    "total_planned": 64,
+    "total_completed": 3507,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
