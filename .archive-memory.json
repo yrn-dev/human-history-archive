@@ -17332,14 +17332,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 436",
       "timestamp": 1785842554.8021562
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785842733.9880483
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3481,
-    "total_planned": 18,
+    "total_completed": 3482,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
