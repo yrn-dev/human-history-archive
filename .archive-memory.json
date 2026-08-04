@@ -16527,14 +16527,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 418",
       "timestamp": 1785805021.283175
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 462",
-      "variation": true
-    },
+      "timestamp": 1785805221.0265348
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3320,
-    "total_planned": 37,
+    "total_completed": 3321,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
