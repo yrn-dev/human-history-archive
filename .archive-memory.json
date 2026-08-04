@@ -16507,14 +16507,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 416",
       "timestamp": 1785804192.2605894
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785804455.5124738
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3316,
-    "total_planned": 41,
+    "total_completed": 3317,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
