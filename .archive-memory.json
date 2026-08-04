@@ -16597,14 +16597,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 327",
       "timestamp": 1785808218.6448512
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785808531.9044163
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3334,
-    "total_planned": 23,
+    "total_completed": 3335,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
