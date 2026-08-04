@@ -18152,14 +18152,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 512",
       "timestamp": 1785880142.2369173
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785880369.1347408
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 362",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3645,
-    "total_planned": 67,
+    "total_completed": 3646,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
