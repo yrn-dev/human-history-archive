@@ -17397,14 +17397,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 482",
       "timestamp": 1785845386.651457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785845680.3486738
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3494,
-    "total_planned": 5,
+    "total_completed": 3495,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
