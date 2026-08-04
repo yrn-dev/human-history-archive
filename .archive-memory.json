@@ -17147,14 +17147,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 436",
       "timestamp": 1785833748.1236234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785833992.439206
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3444,
-    "total_planned": 55,
+    "total_completed": 3445,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
