@@ -17112,14 +17112,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 434",
       "timestamp": 1785832060.9909012
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785832367.5972679
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3437,
-    "total_planned": 62,
+    "total_completed": 3438,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
