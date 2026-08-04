@@ -18307,14 +18307,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 461",
       "timestamp": 1785887135.5309036
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785887334.2423913
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3676,
-    "total_planned": 36,
+    "total_completed": 3677,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
