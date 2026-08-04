@@ -17152,14 +17152,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 434",
       "timestamp": 1785833992.439206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785834191.4754083
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3445,
-    "total_planned": 54,
+    "total_completed": 3446,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
