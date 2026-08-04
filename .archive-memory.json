@@ -16862,14 +16862,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 472",
       "timestamp": 1785819711.052428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 334",
-      "variation": true
-    },
+      "timestamp": 1785819905.0588884
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 472",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3387,
-    "total_planned": 41,
+    "total_completed": 3388,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
