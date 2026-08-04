@@ -18082,14 +18082,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 454",
       "timestamp": 1785876937.6735034
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785877102.381232
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3631,
-    "total_planned": 10,
+    "total_completed": 3632,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
