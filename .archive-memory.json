@@ -17322,14 +17322,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 437",
       "timestamp": 1785842051.3467178
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 437",
-      "variation": true
-    },
+      "timestamp": 1785842360.1496115
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3479,
-    "total_planned": 20,
+    "total_completed": 3480,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
