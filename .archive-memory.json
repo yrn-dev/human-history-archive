@@ -17307,14 +17307,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 482",
       "timestamp": 1785841271.3098264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785841463.9858823
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3476,
-    "total_planned": 23,
+    "total_completed": 3477,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
