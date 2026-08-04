@@ -17662,14 +17662,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 443",
       "timestamp": 1785857542.5745654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 348",
-      "variation": true
-    },
+      "timestamp": 1785857855.5810018
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 443",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3547,
-    "total_planned": 23,
+    "total_completed": 3548,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
