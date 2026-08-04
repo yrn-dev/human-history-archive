@@ -18157,14 +18157,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 362",
       "timestamp": 1785880369.1347408
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785880536.4759078
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3646,
-    "total_planned": 66,
+    "total_completed": 3647,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
