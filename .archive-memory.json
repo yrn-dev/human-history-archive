@@ -18272,14 +18272,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 463",
       "timestamp": 1785885580.850609
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 464",
-      "variation": true
-    },
+      "timestamp": 1785885834.969916
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3669,
-    "total_planned": 43,
+    "total_completed": 3670,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
