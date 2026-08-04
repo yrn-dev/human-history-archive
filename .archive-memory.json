@@ -17757,14 +17757,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 445",
       "timestamp": 1785862495.01026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785862781.8511255
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 446",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3566,
-    "total_planned": 4,
+    "total_completed": 3567,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
