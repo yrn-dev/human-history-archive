@@ -17382,14 +17382,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 341",
       "timestamp": 1785844705.8635383
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785844861.69261
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 482",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3491,
-    "total_planned": 8,
+    "total_completed": 3492,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
