@@ -17927,14 +17927,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 502",
       "timestamp": 1785869667.3798876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 455",
-      "variation": true
-    },
+      "timestamp": 1785869982.3470948
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3600,
-    "total_planned": 41,
+    "total_completed": 3601,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
