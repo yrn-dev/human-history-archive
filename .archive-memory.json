@@ -17537,14 +17537,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 446",
       "timestamp": 1785851840.1702256
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785852127.790758
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 443",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3522,
-    "total_planned": 48,
+    "total_completed": 3523,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
