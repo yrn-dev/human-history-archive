@@ -16947,14 +16947,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 425",
       "timestamp": 1785823942.7821007
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785824237.6054916
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3404,
-    "total_planned": 24,
+    "total_completed": 3405,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
