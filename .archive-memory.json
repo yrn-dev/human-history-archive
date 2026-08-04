@@ -18197,14 +18197,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 461",
       "timestamp": 1785882077.8832781
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785882387.222155
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3654,
-    "total_planned": 58,
+    "total_completed": 3655,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
