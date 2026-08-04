@@ -17077,14 +17077,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 482",
       "timestamp": 1785830546.1127174
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785830770.4855025
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3430,
-    "total_planned": 69,
+    "total_completed": 3431,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
