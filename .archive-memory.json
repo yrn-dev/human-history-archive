@@ -17022,14 +17022,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 425",
       "timestamp": 1785827772.5532877
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 428",
-      "variation": true
-    },
+      "timestamp": 1785828053.643324
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3419,
-    "total_planned": 9,
+    "total_completed": 3420,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
