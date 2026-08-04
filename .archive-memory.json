@@ -17467,14 +17467,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 492",
       "timestamp": 1785848608.6189246
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785848900.6237206
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3508,
-    "total_planned": 62,
+    "total_completed": 3509,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
