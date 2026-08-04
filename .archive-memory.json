@@ -18267,14 +18267,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 461",
       "timestamp": 1785885402.885319
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785885580.850609
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 464",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3668,
-    "total_planned": 44,
+    "total_completed": 3669,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
