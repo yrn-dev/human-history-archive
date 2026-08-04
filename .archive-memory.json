@@ -17517,14 +17517,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 445",
       "timestamp": 1785850938.2919471
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 348",
-      "variation": true
-    },
+      "timestamp": 1785851194.788803
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3518,
-    "total_planned": 52,
+    "total_completed": 3519,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
