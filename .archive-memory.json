@@ -18107,14 +18107,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 502",
       "timestamp": 1785877962.2836661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785878100.1508942
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 455",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3636,
-    "total_planned": 5,
+    "total_completed": 3637,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
