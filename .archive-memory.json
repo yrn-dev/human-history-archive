@@ -16917,14 +16917,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 427",
       "timestamp": 1785822497.1950028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 428",
-      "variation": true
-    },
+      "timestamp": 1785822741.3820453
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3398,
-    "total_planned": 30,
+    "total_completed": 3399,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
