@@ -17462,14 +17462,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 348",
       "timestamp": 1785848316.603962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 492",
-      "variation": true
-    },
+      "timestamp": 1785848608.6189246
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3507,
-    "total_planned": 63,
+    "total_completed": 3508,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
