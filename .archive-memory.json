@@ -16707,18 +16707,17 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 419",
       "timestamp": 1785813170.901865
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 327",
-      "variation": true
+      "timestamp": 1785813334.2902036
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 3356,
-    "total_planned": 1,
+    "total_completed": 3357,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
