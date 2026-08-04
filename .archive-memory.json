@@ -16787,14 +16787,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 427",
       "timestamp": 1785816411.5524516
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785816602.541092
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 334",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3372,
-    "total_planned": 56,
+    "total_completed": 3373,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
