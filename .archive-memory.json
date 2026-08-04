@@ -18257,14 +18257,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 464",
       "timestamp": 1785884854.5411124
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 512",
-      "variation": true
-    },
+      "timestamp": 1785885114.8452008
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3666,
-    "total_planned": 46,
+    "total_completed": 3667,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
