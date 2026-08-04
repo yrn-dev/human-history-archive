@@ -18122,14 +18122,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 502",
       "timestamp": 1785878650.6674242
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785878946.7048573
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 455",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3639,
-    "total_planned": 2,
+    "total_completed": 3640,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
