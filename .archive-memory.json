@@ -17707,14 +17707,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 492",
       "timestamp": 1785860089.8703015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785860236.225977
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 443",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3556,
-    "total_planned": 14,
+    "total_completed": 3557,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
