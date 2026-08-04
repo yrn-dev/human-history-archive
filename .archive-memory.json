@@ -17912,14 +17912,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 452",
       "timestamp": 1785868917.7657835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1785869200.841501
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3597,
-    "total_planned": 44,
+    "total_completed": 3598,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
