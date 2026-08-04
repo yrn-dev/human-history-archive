@@ -17647,14 +17647,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 446",
       "timestamp": 1785856918.85261
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 348",
-      "variation": true
-    },
+      "timestamp": 1785857068.226365
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 492",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3544,
-    "total_planned": 26,
+    "total_completed": 3545,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
