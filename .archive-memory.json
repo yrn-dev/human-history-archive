@@ -16537,14 +16537,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 416",
       "timestamp": 1785805407.9528456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785805645.91285
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 462",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3322,
-    "total_planned": 35,
+    "total_completed": 3323,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
