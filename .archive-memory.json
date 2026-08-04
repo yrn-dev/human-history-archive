@@ -18052,14 +18052,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 502",
       "timestamp": 1785875479.0928895
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785875715.515448
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3625,
-    "total_planned": 16,
+    "total_completed": 3626,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
