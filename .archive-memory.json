@@ -16647,14 +16647,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 418",
       "timestamp": 1785810472.8722603
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785810691.300665
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 462",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3344,
-    "total_planned": 13,
+    "total_completed": 3345,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
