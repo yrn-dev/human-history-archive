@@ -17217,14 +17217,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 437",
       "timestamp": 1785836825.788913
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785837059.7480927
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3458,
-    "total_planned": 41,
+    "total_completed": 3459,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
