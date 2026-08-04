@@ -16847,14 +16847,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 334",
       "timestamp": 1785818930.1251514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785819236.6093996
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 472",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3384,
-    "total_planned": 44,
+    "total_completed": 3385,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
