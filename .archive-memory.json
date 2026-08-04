@@ -18202,14 +18202,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 463",
       "timestamp": 1785882387.222155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785882652.9933312
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3655,
-    "total_planned": 57,
+    "total_completed": 3656,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
