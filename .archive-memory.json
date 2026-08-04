@@ -16482,14 +16482,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 416",
       "timestamp": 1785803066.1207874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785803236.7128682
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 419",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3311,
-    "total_planned": 46,
+    "total_completed": 3312,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
