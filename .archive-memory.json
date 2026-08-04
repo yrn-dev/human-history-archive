@@ -17207,14 +17207,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 434",
       "timestamp": 1785836394.0830805
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785836630.3896677
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 437",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3456,
-    "total_planned": 43,
+    "total_completed": 3457,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
