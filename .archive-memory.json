@@ -17977,14 +17977,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 454",
       "timestamp": 1785872063.9969568
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785872263.8766456
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3610,
-    "total_planned": 31,
+    "total_completed": 3611,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
