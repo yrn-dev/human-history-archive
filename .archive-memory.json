@@ -18217,14 +18217,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 463",
       "timestamp": 1785883170.603716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785883424.998835
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 362",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3658,
-    "total_planned": 54,
+    "total_completed": 3659,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
