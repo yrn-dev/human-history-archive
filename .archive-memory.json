@@ -18012,14 +18012,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 452",
       "timestamp": 1785873640.332453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785873954.5001504
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3617,
-    "total_planned": 24,
+    "total_completed": 3618,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
