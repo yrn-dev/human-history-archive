@@ -18237,14 +18237,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 463",
       "timestamp": 1785884122.5064845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 512",
-      "variation": true
-    },
+      "timestamp": 1785884268.3343656
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3662,
-    "total_planned": 50,
+    "total_completed": 3663,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
