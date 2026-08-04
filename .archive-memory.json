@@ -17367,14 +17367,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 436",
       "timestamp": 1785844060.3086157
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 341",
-      "variation": true
-    },
+      "timestamp": 1785844211.0071588
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 341",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3488,
-    "total_planned": 11,
+    "total_completed": 3489,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
