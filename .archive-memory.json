@@ -17417,18 +17417,17 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 436",
       "timestamp": 1785846348.5929582
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 437",
-      "variation": true
+      "timestamp": 1785846576.237442
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 3498,
-    "total_planned": 1,
+    "total_completed": 3499,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
