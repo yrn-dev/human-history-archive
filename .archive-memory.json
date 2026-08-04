@@ -17882,14 +17882,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 454",
       "timestamp": 1785867724.4266229
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1785868010.6602502
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3591,
-    "total_planned": 50,
+    "total_completed": 3592,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
