@@ -17132,14 +17132,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 434",
       "timestamp": 1785833153.542351
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785833364.5386138
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3441,
-    "total_planned": 58,
+    "total_completed": 3442,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
