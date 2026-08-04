@@ -16852,14 +16852,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 472",
       "timestamp": 1785819236.6093996
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785819442.490035
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 472",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3385,
-    "total_planned": 43,
+    "total_completed": 3386,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
