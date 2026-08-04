@@ -18207,14 +18207,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 461",
       "timestamp": 1785882652.9933312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785882897.9933171
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3656,
-    "total_planned": 56,
+    "total_completed": 3657,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
