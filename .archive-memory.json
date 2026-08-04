@@ -17872,14 +17872,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 454",
       "timestamp": 1785867156.9371722
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785867457.1097116
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3589,
-    "total_planned": 52,
+    "total_completed": 3590,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
