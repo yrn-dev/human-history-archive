@@ -17122,14 +17122,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 436",
       "timestamp": 1785832501.9751687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785832849.7494192
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3439,
-    "total_planned": 60,
+    "total_completed": 3440,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
