@@ -16542,14 +16542,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 416",
       "timestamp": 1785805645.91285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 462",
-      "variation": true
-    },
+      "timestamp": 1785805896.6042624
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3323,
-    "total_planned": 34,
+    "total_completed": 3324,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
