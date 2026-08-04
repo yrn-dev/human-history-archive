@@ -18002,14 +18002,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 452",
       "timestamp": 1785873184.5420835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1785873346.8652089
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3615,
-    "total_planned": 26,
+    "total_completed": 3616,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
