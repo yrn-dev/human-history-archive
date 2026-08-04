@@ -17727,14 +17727,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 443",
       "timestamp": 1785860868.0514061
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785861188.3364706
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 446",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3560,
-    "total_planned": 10,
+    "total_completed": 3561,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
