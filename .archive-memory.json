@@ -16887,14 +16887,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 334",
       "timestamp": 1785820965.8483424
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785821211.0294158
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3392,
-    "total_planned": 36,
+    "total_completed": 3393,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
