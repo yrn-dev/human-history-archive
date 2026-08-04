@@ -16732,14 +16732,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 427",
       "timestamp": 1785814228.2372155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785814388.148405
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3361,
-    "total_planned": 67,
+    "total_completed": 3362,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
