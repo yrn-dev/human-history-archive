@@ -16987,14 +16987,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 425",
       "timestamp": 1785825925.3844452
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785826224.4959912
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 428",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3412,
-    "total_planned": 16,
+    "total_completed": 3413,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
