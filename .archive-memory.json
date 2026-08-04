@@ -16777,14 +16777,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 428",
       "timestamp": 1785816009.7427297
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785816254.1909509
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3370,
-    "total_planned": 58,
+    "total_completed": 3371,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
