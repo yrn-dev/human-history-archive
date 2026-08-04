@@ -16722,14 +16722,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 427",
       "timestamp": 1785813814.955563
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785814037.5007389
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3359,
-    "total_planned": 69,
+    "total_completed": 3360,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
