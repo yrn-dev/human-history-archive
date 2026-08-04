@@ -17692,14 +17692,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 445",
       "timestamp": 1785859145.5856104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785859441.6827214
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 446",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3553,
-    "total_planned": 17,
+    "total_completed": 3554,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
