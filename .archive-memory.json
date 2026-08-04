@@ -17032,14 +17032,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 427",
       "timestamp": 1785828348.2716944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785828609.4740524
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3421,
-    "total_planned": 7,
+    "total_completed": 3422,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
