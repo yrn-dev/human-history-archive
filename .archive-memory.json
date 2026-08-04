@@ -18292,14 +18292,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 463",
       "timestamp": 1785886566.060021
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785886744.672822
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3673,
-    "total_planned": 39,
+    "total_completed": 3674,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
