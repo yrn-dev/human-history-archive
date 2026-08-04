@@ -16912,14 +16912,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 427",
       "timestamp": 1785822293.9823086
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785822497.1950028
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 428",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3397,
-    "total_planned": 31,
+    "total_completed": 3398,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
