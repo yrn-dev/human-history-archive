@@ -16532,14 +16532,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 462",
       "timestamp": 1785805221.0265348
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785805407.9528456
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3321,
-    "total_planned": 36,
+    "total_completed": 3322,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
