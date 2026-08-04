@@ -16637,14 +16637,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 416",
       "timestamp": 1785809906.5999236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785810192.2087278
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3342,
-    "total_planned": 15,
+    "total_completed": 3343,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
