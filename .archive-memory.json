@@ -17227,14 +17227,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 436",
       "timestamp": 1785837372.2503984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785837646.5051858
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 341",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3460,
-    "total_planned": 39,
+    "total_completed": 3461,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
