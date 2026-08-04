@@ -18287,14 +18287,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 362",
       "timestamp": 1785886303.947172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785886566.060021
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3672,
-    "total_planned": 40,
+    "total_completed": 3673,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
