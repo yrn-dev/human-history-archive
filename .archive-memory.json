@@ -17412,14 +17412,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 434",
       "timestamp": 1785846112.17153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785846348.5929582
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 437",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3497,
-    "total_planned": 2,
+    "total_completed": 3498,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
