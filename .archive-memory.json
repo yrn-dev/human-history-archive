@@ -16872,14 +16872,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 472",
       "timestamp": 1785820127.3204901
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785820391.88174
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3389,
-    "total_planned": 39,
+    "total_completed": 3390,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
