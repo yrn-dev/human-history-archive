@@ -17602,14 +17602,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 445",
       "timestamp": 1785854799.4961681
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785855016.7157135
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3535,
-    "total_planned": 35,
+    "total_completed": 3536,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
