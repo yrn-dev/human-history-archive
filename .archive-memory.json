@@ -17192,14 +17192,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 341",
       "timestamp": 1785835825.295797
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785836046.3388705
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3453,
-    "total_planned": 46,
+    "total_completed": 3454,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
