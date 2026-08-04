@@ -16897,14 +16897,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 425",
       "timestamp": 1785821456.0718865
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 428",
-      "variation": true
-    },
+      "timestamp": 1785821676.6887002
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3394,
-    "total_planned": 34,
+    "total_completed": 3395,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
