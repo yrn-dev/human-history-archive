@@ -17892,14 +17892,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 454",
       "timestamp": 1785868190.9069536
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785868441.7503433
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 502",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3593,
-    "total_planned": 48,
+    "total_completed": 3594,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
