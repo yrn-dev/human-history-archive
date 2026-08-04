@@ -18047,14 +18047,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 454",
       "timestamp": 1785875256.064228
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1785875479.0928895
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 355",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3624,
-    "total_planned": 17,
+    "total_completed": 3625,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
