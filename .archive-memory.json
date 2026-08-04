@@ -17802,14 +17802,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 452",
       "timestamp": 1785864354.8035302
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785864573.0097141
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 455",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3575,
-    "total_planned": 66,
+    "total_completed": 3576,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
