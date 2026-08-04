@@ -18112,14 +18112,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 355",
       "timestamp": 1785878100.1508942
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 455",
-      "variation": true
-    },
+      "timestamp": 1785878412.8891773
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 502",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3637,
-    "total_planned": 4,
+    "total_completed": 3638,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
