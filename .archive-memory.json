@@ -16472,14 +16472,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 418",
       "timestamp": 1785802612.1077473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 327",
-      "variation": true
-    },
+      "timestamp": 1785802777.8518507
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3309,
-    "total_planned": 48,
+    "total_completed": 3310,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
