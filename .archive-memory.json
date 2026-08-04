@@ -17752,14 +17752,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 443",
       "timestamp": 1785862233.7392645
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785862495.01026
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3565,
-    "total_planned": 5,
+    "total_completed": 3566,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
