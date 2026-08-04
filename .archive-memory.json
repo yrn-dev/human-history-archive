@@ -16557,14 +16557,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 416",
       "timestamp": 1785806316.7379708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 419",
-      "variation": true
-    },
+      "timestamp": 1785806554.2815123
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3326,
-    "total_planned": 31,
+    "total_completed": 3327,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
