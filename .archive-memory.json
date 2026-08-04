@@ -16882,14 +16882,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 427",
       "timestamp": 1785820652.4965377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 334",
-      "variation": true
-    },
+      "timestamp": 1785820965.8483424
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3391,
-    "total_planned": 37,
+    "total_completed": 3392,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
