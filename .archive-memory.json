@@ -18187,14 +18187,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 461",
       "timestamp": 1785881653.7860484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785881833.3759224
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3652,
-    "total_planned": 60,
+    "total_completed": 3653,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
