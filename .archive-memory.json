@@ -16467,14 +16467,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 462",
       "timestamp": 1785802311.6632373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785802612.1077473
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 327",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3308,
-    "total_planned": 49,
+    "total_completed": 3309,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
