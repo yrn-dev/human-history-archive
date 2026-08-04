@@ -17852,14 +17852,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 454",
       "timestamp": 1785866484.252007
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785866636.8927245
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3585,
-    "total_planned": 56,
+    "total_completed": 3586,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
