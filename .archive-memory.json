@@ -17027,14 +17027,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 428",
       "timestamp": 1785828053.643324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785828348.2716944
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 427",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3420,
-    "total_planned": 8,
+    "total_completed": 3421,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
