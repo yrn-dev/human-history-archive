@@ -17607,14 +17607,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 445",
       "timestamp": 1785855016.7157135
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785855213.2521825
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3536,
-    "total_planned": 34,
+    "total_completed": 3537,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
