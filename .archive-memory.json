@@ -17052,14 +17052,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 427",
       "timestamp": 1785829278.2430005
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 428",
-      "variation": true
-    },
+      "timestamp": 1785829510.859798
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 472",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3425,
-    "total_planned": 3,
+    "total_completed": 3426,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
