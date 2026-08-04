@@ -16832,14 +16832,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 427",
       "timestamp": 1785818350.224858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785818525.6965902
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 334",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3381,
-    "total_planned": 47,
+    "total_completed": 3382,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
