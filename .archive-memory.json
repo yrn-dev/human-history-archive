@@ -18182,14 +18182,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 461",
       "timestamp": 1785881397.7754138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785881653.7860484
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 362",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3651,
-    "total_planned": 61,
+    "total_completed": 3652,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
