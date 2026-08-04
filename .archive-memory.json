@@ -16977,14 +16977,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 428",
       "timestamp": 1785825381.4700277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785825679.7858076
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3410,
-    "total_planned": 18,
+    "total_completed": 3411,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
