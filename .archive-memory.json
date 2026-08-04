@@ -17137,14 +17137,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 436",
       "timestamp": 1785833364.5386138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785833583.003227
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3442,
-    "total_planned": 57,
+    "total_completed": 3443,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
