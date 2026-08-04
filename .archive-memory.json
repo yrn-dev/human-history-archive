@@ -17502,14 +17502,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 445",
       "timestamp": 1785850357.9226756
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785850523.7335434
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3515,
-    "total_planned": 55,
+    "total_completed": 3516,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
