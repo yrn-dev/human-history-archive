@@ -18147,14 +18147,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 463",
       "timestamp": 1785879991.575524
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 512",
-      "variation": true
-    },
+      "timestamp": 1785880142.2369173
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 362",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3644,
-    "total_planned": 68,
+    "total_completed": 3645,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
