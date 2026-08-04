@@ -16562,14 +16562,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 419",
       "timestamp": 1785806554.2815123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785806720.0022745
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3327,
-    "total_planned": 30,
+    "total_completed": 3328,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
