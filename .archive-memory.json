@@ -17782,14 +17782,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 455",
       "timestamp": 1785863596.5835571
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785863783.1501155
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 355",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3571,
-    "total_planned": 70,
+    "total_completed": 3572,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
