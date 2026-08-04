@@ -18302,14 +18302,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 463",
       "timestamp": 1785886930.646654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785887135.5309036
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 362",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3675,
-    "total_planned": 37,
+    "total_completed": 3676,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
