@@ -16867,14 +16867,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 334",
       "timestamp": 1785819905.0588884
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785820127.3204901
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 472",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3388,
-    "total_planned": 40,
+    "total_completed": 3389,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
