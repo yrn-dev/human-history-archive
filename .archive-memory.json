@@ -17492,14 +17492,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 446",
       "timestamp": 1785849760.8084376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 348",
-      "variation": true
-    },
+      "timestamp": 1785850055.0698423
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3513,
-    "total_planned": 57,
+    "total_completed": 3514,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
