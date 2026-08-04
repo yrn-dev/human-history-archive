@@ -17167,14 +17167,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 436",
       "timestamp": 1785834768.4155226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785834932.7568452
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 341",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3448,
-    "total_planned": 51,
+    "total_completed": 3449,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
