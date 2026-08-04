@@ -16607,14 +16607,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 418",
       "timestamp": 1785808722.8050606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785808923.4253948
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3336,
-    "total_planned": 21,
+    "total_completed": 3337,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
