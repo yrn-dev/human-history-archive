@@ -17247,14 +17247,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 437",
       "timestamp": 1785838271.9773803
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785838445.3876457
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3464,
-    "total_planned": 35,
+    "total_completed": 3465,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
