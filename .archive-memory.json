@@ -17667,14 +17667,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 348",
       "timestamp": 1785857855.5810018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785858180.6159525
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 446",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3548,
-    "total_planned": 22,
+    "total_completed": 3549,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
