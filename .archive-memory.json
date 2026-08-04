@@ -17352,14 +17352,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 436",
       "timestamp": 1785843487.9153726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785843716.2522109
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3485,
-    "total_planned": 14,
+    "total_completed": 3486,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
