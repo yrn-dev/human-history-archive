@@ -17787,14 +17787,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 454",
       "timestamp": 1785863783.1501155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785864027.9452093
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 355",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3572,
-    "total_planned": 69,
+    "total_completed": 3573,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
