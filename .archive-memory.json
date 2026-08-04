@@ -16752,14 +16752,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 472",
       "timestamp": 1785814945.7440028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785815094.1299815
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3365,
-    "total_planned": 63,
+    "total_completed": 3366,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
