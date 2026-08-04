@@ -16662,14 +16662,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 462",
       "timestamp": 1785811125.1246114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785811399.5881655
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 462",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3347,
-    "total_planned": 10,
+    "total_completed": 3348,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
