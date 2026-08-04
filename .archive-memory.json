@@ -17522,14 +17522,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 348",
       "timestamp": 1785851194.788803
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785851415.6770713
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3519,
-    "total_planned": 51,
+    "total_completed": 3520,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
