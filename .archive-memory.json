@@ -16612,14 +16612,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 418",
       "timestamp": 1785808923.4253948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785809102.4548452
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 327",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3337,
-    "total_planned": 20,
+    "total_completed": 3338,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
