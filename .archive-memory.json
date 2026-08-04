@@ -16837,14 +16837,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 427",
       "timestamp": 1785818525.6965902
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 334",
-      "variation": true
-    },
+      "timestamp": 1785818784.6004074
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 334",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3382,
-    "total_planned": 46,
+    "total_completed": 3383,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
