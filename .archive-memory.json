@@ -17797,14 +17797,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 355",
       "timestamp": 1785864171.279143
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785864354.8035302
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3574,
-    "total_planned": 67,
+    "total_completed": 3575,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
