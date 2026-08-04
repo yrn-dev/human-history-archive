@@ -17557,14 +17557,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 492",
       "timestamp": 1785852939.6853166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785853130.3446789
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3526,
-    "total_planned": 44,
+    "total_completed": 3527,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
