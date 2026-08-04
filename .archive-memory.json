@@ -18172,14 +18172,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 463",
       "timestamp": 1785880962.4189804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785881129.0042582
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3649,
-    "total_planned": 63,
+    "total_completed": 3650,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
