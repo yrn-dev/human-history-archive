@@ -17942,14 +17942,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 454",
       "timestamp": 1785870360.4425955
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1785870597.8810804
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 455",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3603,
-    "total_planned": 38,
+    "total_completed": 3604,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
