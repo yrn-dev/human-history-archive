@@ -17907,14 +17907,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 454",
       "timestamp": 1785868781.2207282
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785868917.7657835
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 502",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3596,
-    "total_planned": 45,
+    "total_completed": 3597,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
