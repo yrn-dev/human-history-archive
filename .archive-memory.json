@@ -17957,14 +17957,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 454",
       "timestamp": 1785871102.8798492
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 455",
-      "variation": true
-    },
+      "timestamp": 1785871268.90468
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 355",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3606,
-    "total_planned": 35,
+    "total_completed": 3607,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
