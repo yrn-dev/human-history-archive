@@ -17142,14 +17142,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 434",
       "timestamp": 1785833583.003227
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785833748.1236234
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3443,
-    "total_planned": 56,
+    "total_completed": 3444,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
