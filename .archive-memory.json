@@ -17677,14 +17677,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 446",
       "timestamp": 1785858467.5173001
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785858674.1991968
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3550,
-    "total_planned": 20,
+    "total_completed": 3551,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
