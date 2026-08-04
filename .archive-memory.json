@@ -17472,14 +17472,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 445",
       "timestamp": 1785848900.6237206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785849146.6525536
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 492",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3509,
-    "total_planned": 61,
+    "total_completed": 3510,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
