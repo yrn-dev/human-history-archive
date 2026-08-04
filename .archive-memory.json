@@ -16497,14 +16497,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 416",
       "timestamp": 1785803769.5161486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 419",
-      "variation": true
-    },
+      "timestamp": 1785804046.0708828
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 416",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3314,
-    "total_planned": 43,
+    "total_completed": 3315,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
