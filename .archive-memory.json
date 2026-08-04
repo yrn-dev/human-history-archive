@@ -17262,14 +17262,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 434",
       "timestamp": 1785838971.6806226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785839111.8575964
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3467,
-    "total_planned": 32,
+    "total_completed": 3468,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
