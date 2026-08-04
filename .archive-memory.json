@@ -18322,14 +18322,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 512",
       "timestamp": 1785887747.8082855
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 464",
-      "variation": true
-    },
+      "timestamp": 1785887981.8620687
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 512",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3679,
-    "total_planned": 33,
+    "total_completed": 3680,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
