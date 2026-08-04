@@ -16792,14 +16792,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 427",
       "timestamp": 1785816602.541092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 334",
-      "variation": true
-    },
+      "timestamp": 1785816834.521447
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 428",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3373,
-    "total_planned": 55,
+    "total_completed": 3374,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
