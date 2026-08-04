@@ -16652,14 +16652,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 416",
       "timestamp": 1785810691.300665
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 462",
-      "variation": true
-    },
+      "timestamp": 1785810884.0420952
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 462",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3345,
-    "total_planned": 12,
+    "total_completed": 3346,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
