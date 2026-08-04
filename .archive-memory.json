@@ -17992,14 +17992,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 454",
       "timestamp": 1785872813.5079803
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785872962.9391649
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3613,
-    "total_planned": 28,
+    "total_completed": 3614,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
