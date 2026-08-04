@@ -17722,14 +17722,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 445",
       "timestamp": 1785860589.4155357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785860868.0514061
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 443",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3559,
-    "total_planned": 11,
+    "total_completed": 3560,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
