@@ -16857,14 +16857,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 472",
       "timestamp": 1785819442.490035
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785819711.052428
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 334",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3386,
-    "total_planned": 42,
+    "total_completed": 3387,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
