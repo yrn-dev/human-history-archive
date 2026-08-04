@@ -17837,14 +17837,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 454",
       "timestamp": 1785865814.7900393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785866034.476848
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3582,
-    "total_planned": 59,
+    "total_completed": 3583,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
