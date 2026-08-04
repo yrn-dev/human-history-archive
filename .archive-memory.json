@@ -17357,14 +17357,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 434",
       "timestamp": 1785843716.2522109
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785843899.3366125
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3486,
-    "total_planned": 13,
+    "total_completed": 3487,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
