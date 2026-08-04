@@ -17302,14 +17302,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 434",
       "timestamp": 1785841055.4034982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785841271.3098264
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3475,
-    "total_planned": 24,
+    "total_completed": 3476,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
