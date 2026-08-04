@@ -17162,14 +17162,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 436",
       "timestamp": 1785834516.6626627
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785834768.4155226
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3447,
-    "total_planned": 52,
+    "total_completed": 3448,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
