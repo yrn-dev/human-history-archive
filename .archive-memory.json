@@ -17212,14 +17212,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 482",
       "timestamp": 1785836630.3896677
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 437",
-      "variation": true
-    },
+      "timestamp": 1785836825.788913
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 482",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3457,
-    "total_planned": 42,
+    "total_completed": 3458,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
