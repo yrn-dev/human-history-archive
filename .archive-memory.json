@@ -17232,14 +17232,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 482",
       "timestamp": 1785837646.5051858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 341",
-      "variation": true
-    },
+      "timestamp": 1785837812.107612
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 437",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3461,
-    "total_planned": 38,
+    "total_completed": 3462,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
