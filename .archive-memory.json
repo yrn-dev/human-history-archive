@@ -17402,14 +17402,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 482",
       "timestamp": 1785845680.3486738
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785845878.5301101
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3495,
-    "total_planned": 4,
+    "total_completed": 3496,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
