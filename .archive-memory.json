@@ -18247,14 +18247,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 461",
       "timestamp": 1785884498.4342039
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785884652.7864692
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 464",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3664,
-    "total_planned": 48,
+    "total_completed": 3665,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
