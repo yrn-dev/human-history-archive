@@ -16687,14 +16687,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 418",
       "timestamp": 1785812207.1424747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785812458.4129052
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3352,
-    "total_planned": 5,
+    "total_completed": 3353,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
