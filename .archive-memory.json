@@ -17497,14 +17497,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 348",
       "timestamp": 1785850055.0698423
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785850357.9226756
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 443",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3514,
-    "total_planned": 56,
+    "total_completed": 3515,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
