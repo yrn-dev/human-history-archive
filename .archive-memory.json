@@ -17482,14 +17482,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 492",
       "timestamp": 1785849300.5984213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1785849550.6262426
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 446",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3511,
-    "total_planned": 59,
+    "total_completed": 3512,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
