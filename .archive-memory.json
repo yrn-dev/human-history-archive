@@ -18317,14 +18317,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 463",
       "timestamp": 1785887506.3684127
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 512",
-      "variation": true
-    },
+      "timestamp": 1785887747.8082855
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 464",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3678,
-    "total_planned": 34,
+    "total_completed": 3679,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
