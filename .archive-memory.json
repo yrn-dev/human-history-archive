@@ -16587,14 +16587,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 462",
       "timestamp": 1785807802.4835045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785808017.5285711
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 327",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3332,
-    "total_planned": 25,
+    "total_completed": 3333,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
