@@ -18222,14 +18222,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 463",
       "timestamp": 1785883424.998835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 362",
-      "variation": true
-    },
+      "timestamp": 1785883609.2358265
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3659,
-    "total_planned": 53,
+    "total_completed": 3660,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
