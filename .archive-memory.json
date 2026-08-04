@@ -16477,14 +16477,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 327",
       "timestamp": 1785802777.8518507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785803066.1207874
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3310,
-    "total_planned": 47,
+    "total_completed": 3311,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
