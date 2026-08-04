@@ -17862,14 +17862,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 454",
       "timestamp": 1785866874.632235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785867019.2480562
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 454",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3587,
-    "total_planned": 54,
+    "total_completed": 3588,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
