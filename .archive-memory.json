@@ -17452,14 +17452,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 445",
       "timestamp": 1785847936.269427
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 348",
-      "variation": true
-    },
+      "timestamp": 1785848143.9246979
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 348",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3505,
-    "total_planned": 65,
+    "total_completed": 3506,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
