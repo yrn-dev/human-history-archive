@@ -17847,14 +17847,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 452",
       "timestamp": 1785866226.995727
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785866484.252007
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3584,
-    "total_planned": 57,
+    "total_completed": 3585,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
