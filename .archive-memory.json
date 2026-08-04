@@ -17072,14 +17072,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 437",
       "timestamp": 1785830272.2055054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785830546.1127174
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3429,
-    "total_planned": 70,
+    "total_completed": 3430,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
