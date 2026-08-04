@@ -17407,14 +17407,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 436",
       "timestamp": 1785845878.5301101
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785846112.17153
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3496,
-    "total_planned": 3,
+    "total_completed": 3497,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
