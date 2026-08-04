@@ -16742,14 +16742,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 425",
       "timestamp": 1785814560.2976825
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785814698.598357
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 472",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3363,
-    "total_planned": 65,
+    "total_completed": 3364,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
