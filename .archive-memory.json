@@ -17587,14 +17587,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 492",
       "timestamp": 1785854224.6364598
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785854423.7763026
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3532,
-    "total_planned": 38,
+    "total_completed": 3533,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
