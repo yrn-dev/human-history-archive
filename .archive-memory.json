@@ -17592,14 +17592,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 443",
       "timestamp": 1785854423.7763026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785854633.8426387
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3533,
-    "total_planned": 37,
+    "total_completed": 3534,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
