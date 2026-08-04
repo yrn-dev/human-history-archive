@@ -17972,14 +17972,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 502",
       "timestamp": 1785871759.243895
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785872063.9969568
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3609,
-    "total_planned": 32,
+    "total_completed": 3610,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
