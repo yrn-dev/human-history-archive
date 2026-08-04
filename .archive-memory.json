@@ -17287,14 +17287,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 436",
       "timestamp": 1785840386.4522274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 341",
-      "variation": true
-    },
+      "timestamp": 1785840549.7895782
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 436",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3472,
-    "total_planned": 27,
+    "total_completed": 3473,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
