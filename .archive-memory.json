@@ -18212,14 +18212,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 461",
       "timestamp": 1785882897.9933171
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785883170.603716
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3657,
-    "total_planned": 55,
+    "total_completed": 3658,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
