@@ -17657,14 +17657,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 492",
       "timestamp": 1785857352.3296733
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785857542.5745654
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 348",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3546,
-    "total_planned": 24,
+    "total_completed": 3547,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
