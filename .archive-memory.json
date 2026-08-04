@@ -18027,14 +18027,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 454",
       "timestamp": 1785874350.992509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 454",
-      "variation": true
-    },
+      "timestamp": 1785874537.756853
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 452",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3620,
-    "total_planned": 21,
+    "total_completed": 3621,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
