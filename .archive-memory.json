@@ -17267,14 +17267,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 436",
       "timestamp": 1785839111.8575964
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785839461.212754
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3468,
-    "total_planned": 31,
+    "total_completed": 3469,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
