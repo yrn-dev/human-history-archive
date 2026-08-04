@@ -16677,14 +16677,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 327",
       "timestamp": 1785811867.3213584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785812042.5892184
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3350,
-    "total_planned": 7,
+    "total_completed": 3351,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
