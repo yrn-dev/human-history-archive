@@ -17997,14 +17997,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 355",
       "timestamp": 1785872962.9391649
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 452",
-      "variation": true
-    },
+      "timestamp": 1785873184.5420835
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 502",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3614,
-    "total_planned": 27,
+    "total_completed": 3615,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
