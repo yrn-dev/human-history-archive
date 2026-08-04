@@ -17542,14 +17542,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 445",
       "timestamp": 1785852127.790758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785852437.6885717
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3523,
-    "total_planned": 47,
+    "total_completed": 3524,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
