@@ -17377,14 +17377,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 341",
       "timestamp": 1785844500.9705215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 341",
-      "variation": true
-    },
+      "timestamp": 1785844705.8635383
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 434",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3490,
-    "total_planned": 9,
+    "total_completed": 3491,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
