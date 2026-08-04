@@ -16727,14 +16727,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 425",
       "timestamp": 1785814037.5007389
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 427",
-      "variation": true
-    },
+      "timestamp": 1785814228.2372155
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 472",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3360,
-    "total_planned": 68,
+    "total_completed": 3361,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
