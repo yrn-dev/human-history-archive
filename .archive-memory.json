@@ -17012,14 +17012,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 427",
       "timestamp": 1785827360.40892
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785827579.15444
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3417,
-    "total_planned": 11,
+    "total_completed": 3418,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
