@@ -17237,14 +17237,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 341",
       "timestamp": 1785837812.107612
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 437",
-      "variation": true
-    },
+      "timestamp": 1785838065.1471343
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 437",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3462,
-    "total_planned": 37,
+    "total_completed": 3463,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
