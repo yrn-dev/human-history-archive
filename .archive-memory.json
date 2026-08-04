@@ -17312,14 +17312,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 434",
       "timestamp": 1785841463.9858823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 434",
-      "variation": true
-    },
+      "timestamp": 1785841761.6556969
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 437",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3477,
-    "total_planned": 22,
+    "total_completed": 3478,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
