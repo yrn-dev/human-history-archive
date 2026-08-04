@@ -16747,14 +16747,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 427",
       "timestamp": 1785814698.598357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785814945.7440028
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3364,
-    "total_planned": 64,
+    "total_completed": 3365,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
