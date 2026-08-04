@@ -17567,14 +17567,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 445",
       "timestamp": 1785853363.9926434
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 443",
-      "variation": true
-    },
+      "timestamp": 1785853642.2045376
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 492",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3528,
-    "total_planned": 42,
+    "total_completed": 3529,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
