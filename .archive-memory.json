@@ -17282,14 +17282,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 482",
       "timestamp": 1785840041.507885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 436",
-      "variation": true
-    },
+      "timestamp": 1785840386.4522274
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 341",
@@ -17427,8 +17427,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3471,
-    "total_planned": 28,
+    "total_completed": 3472,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
