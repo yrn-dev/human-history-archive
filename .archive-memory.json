@@ -17642,14 +17642,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 492",
       "timestamp": 1785856747.700087
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1785856918.85261
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 348",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3543,
-    "total_planned": 27,
+    "total_completed": 3544,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
