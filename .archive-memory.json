@@ -16757,14 +16757,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 425",
       "timestamp": 1785815094.1299815
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1785815344.955253
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 425",
@@ -17072,8 +17072,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3366,
-    "total_planned": 62,
+    "total_completed": 3367,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
