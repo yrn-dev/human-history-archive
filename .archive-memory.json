@@ -16667,14 +16667,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 416",
       "timestamp": 1785811399.5881655
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 462",
-      "variation": true
-    },
+      "timestamp": 1785811660.925418
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 327",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3348,
-    "total_planned": 9,
+    "total_completed": 3349,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
