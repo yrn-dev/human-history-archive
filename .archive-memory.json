@@ -16632,14 +16632,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 419",
       "timestamp": 1785809708.5763216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 416",
-      "variation": true
-    },
+      "timestamp": 1785809906.5999236
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3341,
-    "total_planned": 16,
+    "total_completed": 3342,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
