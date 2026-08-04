@@ -17687,14 +17687,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 445",
       "timestamp": 1785858843.7867544
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785859145.5856104
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 443",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3552,
-    "total_planned": 18,
+    "total_completed": 3553,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
