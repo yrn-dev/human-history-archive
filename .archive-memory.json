@@ -17697,14 +17697,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 443",
       "timestamp": 1785859441.6827214
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1785859774.4006066
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 492",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3554,
-    "total_planned": 16,
+    "total_completed": 3555,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
