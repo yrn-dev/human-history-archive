@@ -17962,14 +17962,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 455",
       "timestamp": 1785871268.90468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 355",
-      "variation": true
-    },
+      "timestamp": 1785871551.9150922
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 502",
@@ -18137,8 +18137,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3607,
-    "total_planned": 34,
+    "total_completed": 3608,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
