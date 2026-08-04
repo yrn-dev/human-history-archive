@@ -16692,14 +16692,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 418",
       "timestamp": 1785812458.4129052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1785812722.0976815
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3353,
-    "total_planned": 4,
+    "total_completed": 3354,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
