@@ -17507,14 +17507,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 443",
       "timestamp": 1785850523.7335434
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785850789.377569
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 445",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3516,
-    "total_planned": 54,
+    "total_completed": 3517,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
