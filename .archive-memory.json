@@ -17622,14 +17622,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 445",
       "timestamp": 1785855754.9182878
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 445",
-      "variation": true
-    },
+      "timestamp": 1785855992.5523994
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 492",
@@ -17782,8 +17782,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3539,
-    "total_planned": 31,
+    "total_completed": 3540,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
