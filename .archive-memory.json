@@ -16592,14 +16592,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 418",
       "timestamp": 1785808017.5285711
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 327",
-      "variation": true
-    },
+      "timestamp": 1785808218.6448512
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 418",
@@ -16717,8 +16717,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3333,
-    "total_planned": 24,
+    "total_completed": 3334,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
