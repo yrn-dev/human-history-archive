@@ -19347,14 +19347,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 488",
       "timestamp": 1785936926.0450513
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785937187.0291033
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3884,
-    "total_planned": 41,
+    "total_completed": 3885,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
