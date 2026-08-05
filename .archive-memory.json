@@ -19512,14 +19512,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 490",
       "timestamp": 1785945019.2050512
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785945175.2193456
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3917,
-    "total_planned": 8,
+    "total_completed": 3918,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
