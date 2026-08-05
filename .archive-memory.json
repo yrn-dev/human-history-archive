@@ -18567,14 +18567,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 470",
       "timestamp": 1785899224.0954657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 470",
-      "variation": true
-    },
+      "timestamp": 1785899365.4225805
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3728,
-    "total_planned": 55,
+    "total_completed": 3729,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
