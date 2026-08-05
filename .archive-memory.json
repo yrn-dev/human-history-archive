@@ -18917,14 +18917,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 482",
       "timestamp": 1785915968.1003006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 479",
-      "variation": true
-    },
+      "timestamp": 1785916260.9229877
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3798,
-    "total_planned": 56,
+    "total_completed": 3799,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
