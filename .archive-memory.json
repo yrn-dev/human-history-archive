@@ -18342,14 +18342,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 512",
       "timestamp": 1785888810.5973444
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 464",
-      "variation": true
-    },
+      "timestamp": 1785889066.674085
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 464",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3683,
-    "total_planned": 29,
+    "total_completed": 3684,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
