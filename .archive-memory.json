@@ -19572,14 +19572,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 497",
       "timestamp": 1785947770.1038625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 552",
-      "variation": true
-    },
+      "timestamp": 1785948044.5763047
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3929,
-    "total_planned": 67,
+    "total_completed": 3930,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
