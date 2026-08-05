@@ -18817,14 +18817,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 470",
       "timestamp": 1785911116.4675264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 473",
-      "variation": true
-    },
+      "timestamp": 1785911389.109597
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 522",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3778,
-    "total_planned": 5,
+    "total_completed": 3779,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
