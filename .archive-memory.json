@@ -19067,14 +19067,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 479",
       "timestamp": 1785922849.4724214
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785923087.6023164
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3828,
-    "total_planned": 26,
+    "total_completed": 3829,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
