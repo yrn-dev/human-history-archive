@@ -18987,14 +18987,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 479",
       "timestamp": 1785919122.2594628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785919324.718969
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 482",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3812,
-    "total_planned": 42,
+    "total_completed": 3813,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
