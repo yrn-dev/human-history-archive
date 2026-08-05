@@ -18457,14 +18457,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 512",
       "timestamp": 1785894243.8890932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 512",
-      "variation": true
-    },
+      "timestamp": 1785894445.567549
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 512",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3706,
-    "total_planned": 6,
+    "total_completed": 3707,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
