@@ -19647,14 +19647,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 390",
       "timestamp": 1785951223.1971729
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1785951450.55934
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3944,
-    "total_planned": 52,
+    "total_completed": 3945,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
