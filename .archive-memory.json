@@ -19622,14 +19622,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 552",
       "timestamp": 1785950077.3536956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 500",
-      "variation": true
-    },
+      "timestamp": 1785950287.8868535
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3939,
-    "total_planned": 57,
+    "total_completed": 3940,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
