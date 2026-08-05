@@ -19432,14 +19432,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 488",
       "timestamp": 1785941256.8056777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785941413.040561
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 491",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3901,
-    "total_planned": 24,
+    "total_completed": 3902,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
