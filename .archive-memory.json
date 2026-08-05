@@ -18872,14 +18872,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 479",
       "timestamp": 1785913972.4971573
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785914209.3525805
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3789,
-    "total_planned": 65,
+    "total_completed": 3790,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
