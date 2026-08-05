@@ -18702,14 +18702,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 472",
       "timestamp": 1785905623.8942559
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785905897.168689
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 470",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3755,
-    "total_planned": 28,
+    "total_completed": 3756,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
