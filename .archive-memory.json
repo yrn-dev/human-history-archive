@@ -19372,14 +19372,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 488",
       "timestamp": 1785938130.0439293
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785938392.803072
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 491",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3889,
-    "total_planned": 36,
+    "total_completed": 3890,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
