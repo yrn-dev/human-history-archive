@@ -18982,14 +18982,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 376",
       "timestamp": 1785918903.998211
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 479",
-      "variation": true
-    },
+      "timestamp": 1785919122.2594628
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3811,
-    "total_planned": 43,
+    "total_completed": 3812,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
