@@ -18582,14 +18582,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 470",
       "timestamp": 1785899827.0254931
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 470",
-      "variation": true
-    },
+      "timestamp": 1785900073.453856
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3731,
-    "total_planned": 52,
+    "total_completed": 3732,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
