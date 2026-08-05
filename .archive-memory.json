@@ -19242,14 +19242,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 490",
       "timestamp": 1785931613.7764125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785931836.437287
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3863,
-    "total_planned": 62,
+    "total_completed": 3864,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
