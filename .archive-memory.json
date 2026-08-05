@@ -19177,14 +19177,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 481",
       "timestamp": 1785928006.0123653
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785928304.1494899
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 532",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3850,
-    "total_planned": 4,
+    "total_completed": 3851,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
