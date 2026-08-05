@@ -18347,14 +18347,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 464",
       "timestamp": 1785889066.674085
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 464",
-      "variation": true
-    },
+      "timestamp": 1785889212.8696496
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3684,
-    "total_planned": 28,
+    "total_completed": 3685,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
