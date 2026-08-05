@@ -18722,14 +18722,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 472",
       "timestamp": 1785906623.6324067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785906769.5961137
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 369",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3759,
-    "total_planned": 24,
+    "total_completed": 3760,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
