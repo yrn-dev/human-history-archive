@@ -18602,14 +18602,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 473",
       "timestamp": 1785900714.7718031
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 522",
-      "variation": true
-    },
+      "timestamp": 1785900976.549477
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 473",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3735,
-    "total_planned": 48,
+    "total_completed": 3736,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
