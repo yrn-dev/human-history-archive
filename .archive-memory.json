@@ -18957,14 +18957,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 482",
       "timestamp": 1785917874.6324766
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785918170.8957455
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3806,
-    "total_planned": 48,
+    "total_completed": 3807,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
