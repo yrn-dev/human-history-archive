@@ -19092,14 +19092,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 479",
       "timestamp": 1785923953.4418068
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 532",
-      "variation": true
-    },
+      "timestamp": 1785924220.3392026
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3833,
-    "total_planned": 21,
+    "total_completed": 3834,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
