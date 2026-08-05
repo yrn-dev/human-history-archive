@@ -18467,14 +18467,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 512",
       "timestamp": 1785894667.5158055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785894971.6140687
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3708,
-    "total_planned": 4,
+    "total_completed": 3709,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
