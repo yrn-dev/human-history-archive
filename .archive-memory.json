@@ -18512,14 +18512,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 472",
       "timestamp": 1785896856.995003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 473",
-      "variation": true
-    },
+      "timestamp": 1785896997.792063
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3717,
-    "total_planned": 66,
+    "total_completed": 3718,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
