@@ -18547,14 +18547,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 472",
       "timestamp": 1785898363.965515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785898508.7984204
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 470",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3724,
-    "total_planned": 59,
+    "total_completed": 3725,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
