@@ -18752,14 +18752,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 470",
       "timestamp": 1785908111.5604684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785908386.0614467
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3765,
-    "total_planned": 18,
+    "total_completed": 3766,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
