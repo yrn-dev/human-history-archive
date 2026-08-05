@@ -19447,14 +19447,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 490",
       "timestamp": 1785941917.2688026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1785942215.578386
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3904,
-    "total_planned": 21,
+    "total_completed": 3905,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
