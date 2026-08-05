@@ -19102,14 +19102,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 481",
       "timestamp": 1785924538.4005947
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785924764.3654394
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3835,
-    "total_planned": 19,
+    "total_completed": 3836,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
