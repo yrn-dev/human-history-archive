@@ -19427,14 +19427,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 542",
       "timestamp": 1785941022.9332345
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785941256.8056777
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3900,
-    "total_planned": 25,
+    "total_completed": 3901,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
