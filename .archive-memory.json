@@ -19507,14 +19507,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 383",
       "timestamp": 1785944766.9581301
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785945019.2050512
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3916,
-    "total_planned": 9,
+    "total_completed": 3917,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
