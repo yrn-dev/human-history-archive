@@ -18357,14 +18357,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 463",
       "timestamp": 1785889421.9927433
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785889600.4213521
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3686,
-    "total_planned": 26,
+    "total_completed": 3687,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
