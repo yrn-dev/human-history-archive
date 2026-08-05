@@ -19542,14 +19542,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 490",
       "timestamp": 1785946427.3171113
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785946621.4467554
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 542",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3923,
-    "total_planned": 2,
+    "total_completed": 3924,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
