@@ -19412,14 +19412,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 488",
       "timestamp": 1785940150.701109
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785940456.7104776
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3897,
-    "total_planned": 28,
+    "total_completed": 3898,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
