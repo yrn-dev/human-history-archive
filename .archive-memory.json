@@ -19147,14 +19147,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 376",
       "timestamp": 1785926654.3984926
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 532",
-      "variation": true
-    },
+      "timestamp": 1785926825.1451576
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3844,
-    "total_planned": 10,
+    "total_completed": 3845,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
