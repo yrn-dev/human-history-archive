@@ -19392,14 +19392,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 542",
       "timestamp": 1785939069.75864
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785939321.3860633
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 542",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3893,
-    "total_planned": 32,
+    "total_completed": 3894,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
