@@ -18402,14 +18402,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 463",
       "timestamp": 1785891600.852414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785891864.7037375
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3695,
-    "total_planned": 17,
+    "total_completed": 3696,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
