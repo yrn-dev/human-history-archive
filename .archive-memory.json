@@ -19117,14 +19117,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 479",
       "timestamp": 1785925173.3030581
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 376",
-      "variation": true
-    },
+      "timestamp": 1785925427.1159441
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 376",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3838,
-    "total_planned": 16,
+    "total_completed": 3839,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
