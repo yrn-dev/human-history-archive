@@ -18792,14 +18792,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 472",
       "timestamp": 1785910050.3993661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 369",
-      "variation": true
-    },
+      "timestamp": 1785910249.7155046
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3773,
-    "total_planned": 10,
+    "total_completed": 3774,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
