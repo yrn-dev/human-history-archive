@@ -19007,14 +19007,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 481",
       "timestamp": 1785919978.9572358
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785920249.7930534
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3816,
-    "total_planned": 38,
+    "total_completed": 3817,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
