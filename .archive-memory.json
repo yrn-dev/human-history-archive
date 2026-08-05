@@ -18902,14 +18902,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 481",
       "timestamp": 1785915335.850146
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785915503.4678435
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 482",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3795,
-    "total_planned": 59,
+    "total_completed": 3796,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
