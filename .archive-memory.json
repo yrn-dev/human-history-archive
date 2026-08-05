@@ -18652,14 +18652,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 473",
       "timestamp": 1785903155.9862554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 369",
-      "variation": true
-    },
+      "timestamp": 1785903442.2040918
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 369",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3745,
-    "total_planned": 38,
+    "total_completed": 3746,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
