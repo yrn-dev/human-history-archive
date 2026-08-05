@@ -19037,14 +19037,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 481",
       "timestamp": 1785921374.0202112
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785921688.3293712
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3822,
-    "total_planned": 32,
+    "total_completed": 3823,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
