@@ -18937,14 +18937,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 481",
       "timestamp": 1785916820.4327567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 532",
-      "variation": true
-    },
+      "timestamp": 1785917122.1454968
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3802,
-    "total_planned": 52,
+    "total_completed": 3803,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
