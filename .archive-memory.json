@@ -18867,14 +18867,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 376",
       "timestamp": 1785913665.7842152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 479",
-      "variation": true
-    },
+      "timestamp": 1785913972.4971573
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3788,
-    "total_planned": 66,
+    "total_completed": 3789,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
