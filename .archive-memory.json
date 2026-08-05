@@ -19387,14 +19387,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 490",
       "timestamp": 1785938845.2603636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1785939069.75864
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3892,
-    "total_planned": 33,
+    "total_completed": 3893,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
