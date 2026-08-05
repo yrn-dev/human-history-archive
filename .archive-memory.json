@@ -19467,14 +19467,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 491",
       "timestamp": 1785943006.5307593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785943280.477068
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3908,
-    "total_planned": 17,
+    "total_completed": 3909,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
