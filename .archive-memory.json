@@ -19637,14 +19637,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 497",
       "timestamp": 1785950857.160932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1785951033.2140274
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 390",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3942,
-    "total_planned": 54,
+    "total_completed": 3943,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
