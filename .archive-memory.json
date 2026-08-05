@@ -18922,14 +18922,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 479",
       "timestamp": 1785916260.9229877
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 479",
-      "variation": true
-    },
+      "timestamp": 1785916433.7898235
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3799,
-    "total_planned": 55,
+    "total_completed": 3800,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
