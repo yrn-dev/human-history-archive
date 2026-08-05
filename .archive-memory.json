@@ -18827,14 +18827,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 522",
       "timestamp": 1785911695.7318091
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 369",
-      "variation": true
-    },
+      "timestamp": 1785911882.2671068
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 522",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3780,
-    "total_planned": 3,
+    "total_completed": 3781,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
