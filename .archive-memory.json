@@ -18522,14 +18522,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 472",
       "timestamp": 1785897308.75699
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 470",
-      "variation": true
-    },
+      "timestamp": 1785897544.1890955
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3719,
-    "total_planned": 64,
+    "total_completed": 3720,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
