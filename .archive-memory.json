@@ -19402,14 +19402,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 542",
       "timestamp": 1785939612.8334522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785939780.171707
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3895,
-    "total_planned": 30,
+    "total_completed": 3896,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
