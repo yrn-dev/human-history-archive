@@ -18562,14 +18562,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 522",
       "timestamp": 1785898964.3287196
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 470",
-      "variation": true
-    },
+      "timestamp": 1785899224.0954657
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 470",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3727,
-    "total_planned": 56,
+    "total_completed": 3728,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
