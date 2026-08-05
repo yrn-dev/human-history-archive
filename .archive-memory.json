@@ -19522,14 +19522,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 488",
       "timestamp": 1785945320.4164567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785945628.3556037
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3919,
-    "total_planned": 6,
+    "total_completed": 3920,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
