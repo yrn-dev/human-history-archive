@@ -19417,14 +19417,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 488",
       "timestamp": 1785940456.7104776
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785940727.2271087
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 542",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3898,
-    "total_planned": 27,
+    "total_completed": 3899,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
