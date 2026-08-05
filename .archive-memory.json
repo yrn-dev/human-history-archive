@@ -19142,14 +19142,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 532",
       "timestamp": 1785926497.487368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 376",
-      "variation": true
-    },
+      "timestamp": 1785926654.3984926
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 532",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3843,
-    "total_planned": 11,
+    "total_completed": 3844,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
