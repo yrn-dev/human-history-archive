@@ -19462,14 +19462,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 383",
       "timestamp": 1785942672.046044
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 491",
-      "variation": true
-    },
+      "timestamp": 1785943006.5307593
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3907,
-    "total_planned": 18,
+    "total_completed": 3908,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
