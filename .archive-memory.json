@@ -18492,14 +18492,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 470",
       "timestamp": 1785895970.2725244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 470",
-      "variation": true
-    },
+      "timestamp": 1785896286.0940228
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 473",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3713,
-    "total_planned": 70,
+    "total_completed": 3714,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
