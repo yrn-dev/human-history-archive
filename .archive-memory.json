@@ -19107,14 +19107,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 481",
       "timestamp": 1785924764.3654394
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785924966.2627084
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3836,
-    "total_planned": 18,
+    "total_completed": 3837,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
