@@ -18637,14 +18637,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 369",
       "timestamp": 1785902447.7266881
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 522",
-      "variation": true
-    },
+      "timestamp": 1785902680.0285614
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 522",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3742,
-    "total_planned": 41,
+    "total_completed": 3743,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
