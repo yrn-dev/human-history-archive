@@ -19127,14 +19127,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 376",
       "timestamp": 1785925691.4413767
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 479",
-      "variation": true
-    },
+      "timestamp": 1785926010.423019
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 532",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3840,
-    "total_planned": 14,
+    "total_completed": 3841,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
