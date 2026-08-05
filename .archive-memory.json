@@ -19422,14 +19422,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 490",
       "timestamp": 1785940727.2271087
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1785941022.9332345
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3899,
-    "total_planned": 26,
+    "total_completed": 3900,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
