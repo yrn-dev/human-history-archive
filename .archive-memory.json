@@ -19602,14 +19602,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 552",
       "timestamp": 1785949281.1172252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 390",
-      "variation": true
-    },
+      "timestamp": 1785949570.5810697
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3935,
-    "total_planned": 61,
+    "total_completed": 3936,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
