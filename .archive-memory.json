@@ -18607,14 +18607,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 522",
       "timestamp": 1785900976.549477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 473",
-      "variation": true
-    },
+      "timestamp": 1785901118.8678577
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3736,
-    "total_planned": 47,
+    "total_completed": 3737,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
