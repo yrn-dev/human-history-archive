@@ -19562,14 +19562,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 500",
       "timestamp": 1785947204.505074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 497",
-      "variation": true
-    },
+      "timestamp": 1785947454.6088176
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3927,
-    "total_planned": 69,
+    "total_completed": 3928,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
