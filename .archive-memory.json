@@ -18687,14 +18687,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 470",
       "timestamp": 1785904846.7233293
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785905159.5564835
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 470",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3752,
-    "total_planned": 31,
+    "total_completed": 3753,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
