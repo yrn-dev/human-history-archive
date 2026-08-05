@@ -19702,14 +19702,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 390",
       "timestamp": 1785953758.5325704
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 390",
-      "variation": true
-    },
+      "timestamp": 1785954053.4364886
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3955,
-    "total_planned": 41,
+    "total_completed": 3956,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
