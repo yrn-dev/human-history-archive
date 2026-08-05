@@ -19547,18 +19547,17 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 383",
       "timestamp": 1785946621.4467554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 542",
-      "variation": true
+      "timestamp": 1785946787.9156158
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 3924,
-    "total_planned": 1,
+    "total_completed": 3925,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
