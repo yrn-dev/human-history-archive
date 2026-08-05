@@ -18787,14 +18787,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 472",
       "timestamp": 1785909815.9522023
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785910050.3993661
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 369",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3772,
-    "total_planned": 11,
+    "total_completed": 3773,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
