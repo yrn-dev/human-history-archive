@@ -18642,14 +18642,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 522",
       "timestamp": 1785902680.0285614
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 522",
-      "variation": true
-    },
+      "timestamp": 1785902976.7955484
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 473",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3743,
-    "total_planned": 40,
+    "total_completed": 3744,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
