@@ -19397,14 +19397,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 490",
       "timestamp": 1785939321.3860633
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1785939612.8334522
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 383",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3894,
-    "total_planned": 31,
+    "total_completed": 3895,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
