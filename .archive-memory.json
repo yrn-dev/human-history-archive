@@ -18432,14 +18432,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 512",
       "timestamp": 1785892962.2603824
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785893262.2561216
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3701,
-    "total_planned": 11,
+    "total_completed": 3702,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
