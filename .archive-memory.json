@@ -18797,14 +18797,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 369",
       "timestamp": 1785910249.7155046
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785910449.5742886
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 522",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3774,
-    "total_planned": 9,
+    "total_completed": 3775,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
