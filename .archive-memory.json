@@ -19337,14 +19337,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 542",
       "timestamp": 1785936326.657123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785936614.8127534
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3882,
-    "total_planned": 43,
+    "total_completed": 3883,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
