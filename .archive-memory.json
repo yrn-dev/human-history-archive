@@ -18912,14 +18912,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 482",
       "timestamp": 1785915664.949347
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785915968.1003006
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3797,
-    "total_planned": 57,
+    "total_completed": 3798,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
