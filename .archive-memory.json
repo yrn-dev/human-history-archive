@@ -18552,14 +18552,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 472",
       "timestamp": 1785898508.7984204
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 470",
-      "variation": true
-    },
+      "timestamp": 1785898705.7695124
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 522",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3725,
-    "total_planned": 58,
+    "total_completed": 3726,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
