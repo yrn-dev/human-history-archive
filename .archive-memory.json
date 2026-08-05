@@ -18472,14 +18472,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 463",
       "timestamp": 1785894971.6140687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785895130.9752197
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3709,
-    "total_planned": 3,
+    "total_completed": 3710,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
