@@ -19277,14 +19277,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 488",
       "timestamp": 1785933448.4804373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785933606.0016847
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3870,
-    "total_planned": 55,
+    "total_completed": 3871,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
