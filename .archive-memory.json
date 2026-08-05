@@ -19157,14 +19157,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 481",
       "timestamp": 1785927016.4088
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785927214.443123
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3846,
-    "total_planned": 8,
+    "total_completed": 3847,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
