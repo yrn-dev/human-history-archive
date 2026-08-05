@@ -18782,14 +18782,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 472",
       "timestamp": 1785909600.7335045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785909815.9522023
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3771,
-    "total_planned": 12,
+    "total_completed": 3772,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
