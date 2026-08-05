@@ -18727,14 +18727,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 472",
       "timestamp": 1785906769.5961137
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 369",
-      "variation": true
-    },
+      "timestamp": 1785907050.3112845
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3760,
-    "total_planned": 23,
+    "total_completed": 3761,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
