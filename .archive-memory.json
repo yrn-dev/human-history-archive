@@ -18387,14 +18387,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 464",
       "timestamp": 1785890798.015382
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785891080.395138
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3692,
-    "total_planned": 20,
+    "total_completed": 3693,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
