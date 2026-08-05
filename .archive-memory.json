@@ -19577,14 +19577,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 552",
       "timestamp": 1785948044.5763047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1785948273.0476222
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 552",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3930,
-    "total_planned": 66,
+    "total_completed": 3931,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
