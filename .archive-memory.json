@@ -19532,14 +19532,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 490",
       "timestamp": 1785945904.623036
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785946170.2841191
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3921,
-    "total_planned": 4,
+    "total_completed": 3922,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
