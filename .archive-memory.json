@@ -19367,14 +19367,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 491",
       "timestamp": 1785937894.7835069
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785938130.0439293
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3888,
-    "total_planned": 37,
+    "total_completed": 3889,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
