@@ -19722,14 +19722,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 497",
       "timestamp": 1785954598.1138244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 500",
-      "variation": true
-    },
+      "timestamp": 1785954860.4234755
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3959,
-    "total_planned": 37,
+    "total_completed": 3960,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
