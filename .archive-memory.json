@@ -18517,14 +18517,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 473",
       "timestamp": 1785896997.792063
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785897308.75699
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 470",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3718,
-    "total_planned": 65,
+    "total_completed": 3719,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
