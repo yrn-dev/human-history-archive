@@ -19292,14 +19292,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 490",
       "timestamp": 1785934052.613409
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 491",
-      "variation": true
-    },
+      "timestamp": 1785934261.5026386
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3873,
-    "total_planned": 52,
+    "total_completed": 3874,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
