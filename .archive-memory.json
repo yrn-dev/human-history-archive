@@ -19207,14 +19207,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 490",
       "timestamp": 1785929778.6941006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785930068.3262436
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3856,
-    "total_planned": 69,
+    "total_completed": 3857,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
