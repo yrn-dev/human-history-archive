@@ -19377,14 +19377,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 488",
       "timestamp": 1785938392.803072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 491",
-      "variation": true
-    },
+      "timestamp": 1785938577.8258142
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3890,
-    "total_planned": 35,
+    "total_completed": 3891,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
