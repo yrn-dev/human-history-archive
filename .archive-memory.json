@@ -18672,14 +18672,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 470",
       "timestamp": 1785904125.702374
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 473",
-      "variation": true
-    },
+      "timestamp": 1785904360.8926518
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 522",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3749,
-    "total_planned": 34,
+    "total_completed": 3750,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
