@@ -19302,14 +19302,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 490",
       "timestamp": 1785934572.9817474
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 491",
-      "variation": true
-    },
+      "timestamp": 1785934755.8609211
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3875,
-    "total_planned": 50,
+    "total_completed": 3876,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
