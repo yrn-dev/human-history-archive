@@ -19362,14 +19362,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 491",
       "timestamp": 1785937698.6598601
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 491",
-      "variation": true
-    },
+      "timestamp": 1785937894.7835069
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3887,
-    "total_planned": 38,
+    "total_completed": 3888,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
