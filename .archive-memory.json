@@ -19342,14 +19342,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 383",
       "timestamp": 1785936614.8127534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785936926.0450513
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3883,
-    "total_planned": 42,
+    "total_completed": 3884,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
