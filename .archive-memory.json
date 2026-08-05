@@ -19272,14 +19272,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 491",
       "timestamp": 1785933213.1715577
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785933448.4804373
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3869,
-    "total_planned": 56,
+    "total_completed": 3870,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
