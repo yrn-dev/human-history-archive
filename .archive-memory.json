@@ -19482,14 +19482,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 542",
       "timestamp": 1785943581.5577397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785943761.2285671
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 542",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3911,
-    "total_planned": 14,
+    "total_completed": 3912,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
