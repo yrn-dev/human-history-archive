@@ -19002,14 +19002,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 479",
       "timestamp": 1785919762.4107888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785919978.9572358
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3815,
-    "total_planned": 39,
+    "total_completed": 3816,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
