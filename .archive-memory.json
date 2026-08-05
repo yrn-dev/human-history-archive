@@ -19557,14 +19557,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 497",
       "timestamp": 1785946944.4116893
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 500",
-      "variation": true
-    },
+      "timestamp": 1785947204.505074
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3926,
-    "total_planned": 70,
+    "total_completed": 3927,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
