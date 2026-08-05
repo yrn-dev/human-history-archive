@@ -19317,14 +19317,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 490",
       "timestamp": 1785935181.5997183
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785935498.7539432
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3878,
-    "total_planned": 47,
+    "total_completed": 3879,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
