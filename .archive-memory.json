@@ -19672,14 +19672,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 497",
       "timestamp": 1785952395.846747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1785952636.826
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3949,
-    "total_planned": 47,
+    "total_completed": 3950,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
