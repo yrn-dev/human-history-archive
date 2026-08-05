@@ -19452,14 +19452,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 542",
       "timestamp": 1785942215.578386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785942452.3135374
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 383",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3905,
-    "total_planned": 20,
+    "total_completed": 3906,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
