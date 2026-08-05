@@ -19617,14 +19617,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 499",
       "timestamp": 1785949918.6884508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 552",
-      "variation": true
-    },
+      "timestamp": 1785950077.3536956
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 500",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3938,
-    "total_planned": 58,
+    "total_completed": 3939,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
