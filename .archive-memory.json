@@ -18822,14 +18822,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 473",
       "timestamp": 1785911389.109597
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 522",
-      "variation": true
-    },
+      "timestamp": 1785911695.7318091
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 369",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3779,
-    "total_planned": 4,
+    "total_completed": 3780,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
