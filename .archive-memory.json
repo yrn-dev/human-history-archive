@@ -19632,14 +19632,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 499",
       "timestamp": 1785950543.2837617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 497",
-      "variation": true
-    },
+      "timestamp": 1785950857.160932
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3941,
-    "total_planned": 55,
+    "total_completed": 3942,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
