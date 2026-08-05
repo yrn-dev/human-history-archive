@@ -19072,14 +19072,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 481",
       "timestamp": 1785923087.6023164
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785923342.4842508
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 376",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3829,
-    "total_planned": 25,
+    "total_completed": 3830,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
