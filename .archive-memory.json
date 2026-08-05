@@ -19757,14 +19757,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 499",
       "timestamp": 1785956417.471314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1785956726.630419
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3966,
-    "total_planned": 30,
+    "total_completed": 3967,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
