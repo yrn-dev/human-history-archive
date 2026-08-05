@@ -19657,14 +19657,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 499",
       "timestamp": 1785951747.6928122
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 497",
-      "variation": true
-    },
+      "timestamp": 1785951969.1081522
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 552",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3946,
-    "total_planned": 50,
+    "total_completed": 3947,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
