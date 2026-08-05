@@ -18427,14 +18427,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 463",
       "timestamp": 1785892796.0600502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 512",
-      "variation": true
-    },
+      "timestamp": 1785892962.2603824
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3700,
-    "total_planned": 12,
+    "total_completed": 3701,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
