@@ -18712,14 +18712,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 470",
       "timestamp": 1785906098.3026128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 473",
-      "variation": true
-    },
+      "timestamp": 1785906392.9701405
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3757,
-    "total_planned": 26,
+    "total_completed": 3758,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
