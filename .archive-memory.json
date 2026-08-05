@@ -19082,14 +19082,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 376",
       "timestamp": 1785923521.584415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 479",
-      "variation": true
-    },
+      "timestamp": 1785923664.7494276
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3831,
-    "total_planned": 23,
+    "total_completed": 3832,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
