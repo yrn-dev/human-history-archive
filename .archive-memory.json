@@ -19167,14 +19167,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 481",
       "timestamp": 1785927433.4924426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785927695.1645234
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3848,
-    "total_planned": 6,
+    "total_completed": 3849,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
