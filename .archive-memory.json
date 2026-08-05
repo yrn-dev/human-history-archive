@@ -19707,14 +19707,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 390",
       "timestamp": 1785954053.4364886
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1785954205.0934227
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3956,
-    "total_planned": 40,
+    "total_completed": 3957,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
