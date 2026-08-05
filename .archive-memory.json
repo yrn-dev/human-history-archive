@@ -18812,14 +18812,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 472",
       "timestamp": 1785910847.9623284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 470",
-      "variation": true
-    },
+      "timestamp": 1785911116.4675264
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 473",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3777,
-    "total_planned": 6,
+    "total_completed": 3778,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
