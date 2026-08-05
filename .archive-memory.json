@@ -18847,14 +18847,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 532",
       "timestamp": 1785912680.803829
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 532",
-      "variation": true
-    },
+      "timestamp": 1785912946.5262473
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3784,
-    "total_planned": 70,
+    "total_completed": 3785,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
