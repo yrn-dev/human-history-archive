@@ -19192,18 +19192,17 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 482",
       "timestamp": 1785928908.161028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 481",
-      "variation": true
+      "timestamp": 1785929221.6752894
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 3853,
-    "total_planned": 1,
+    "total_completed": 3854,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
