@@ -19252,14 +19252,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 490",
       "timestamp": 1785932216.0848417
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785932504.5370326
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 542",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3865,
-    "total_planned": 60,
+    "total_completed": 3866,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
