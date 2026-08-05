@@ -18362,14 +18362,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 463",
       "timestamp": 1785889600.4213521
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785889845.10484
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3687,
-    "total_planned": 25,
+    "total_completed": 3688,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
