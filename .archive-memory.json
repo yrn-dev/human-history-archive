@@ -19747,14 +19747,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 497",
       "timestamp": 1785955826.2214558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 552",
-      "variation": true
-    },
+      "timestamp": 1785956122.0609965
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3964,
-    "total_planned": 32,
+    "total_completed": 3965,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
