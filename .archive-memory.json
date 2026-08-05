@@ -19022,14 +19022,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 479",
       "timestamp": 1785920722.6110106
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785920915.5894337
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3819,
-    "total_planned": 35,
+    "total_completed": 3820,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
