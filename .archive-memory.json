@@ -19457,14 +19457,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 488",
       "timestamp": 1785942452.3135374
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785942672.046044
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 491",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3906,
-    "total_planned": 19,
+    "total_completed": 3907,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
