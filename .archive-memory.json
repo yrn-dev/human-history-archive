@@ -18977,14 +18977,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 481",
       "timestamp": 1785918756.1964176
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 376",
-      "variation": true
-    },
+      "timestamp": 1785918903.998211
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3810,
-    "total_planned": 44,
+    "total_completed": 3811,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
