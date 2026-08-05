@@ -19217,14 +19217,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 490",
       "timestamp": 1785930414.5848494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 383",
-      "variation": true
-    },
+      "timestamp": 1785930735.4050224
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3858,
-    "total_planned": 67,
+    "total_completed": 3859,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
