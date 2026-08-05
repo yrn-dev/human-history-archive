@@ -18632,14 +18632,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 470",
       "timestamp": 1785902128.4836154
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 369",
-      "variation": true
-    },
+      "timestamp": 1785902447.7266881
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 522",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3741,
-    "total_planned": 42,
+    "total_completed": 3742,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
