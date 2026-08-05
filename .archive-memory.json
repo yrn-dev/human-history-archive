@@ -19692,14 +19692,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 499",
       "timestamp": 1785953336.9118056
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1785953538.145897
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 390",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3953,
-    "total_planned": 43,
+    "total_completed": 3954,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
