@@ -18337,14 +18337,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 461",
       "timestamp": 1785888584.724125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 512",
-      "variation": true
-    },
+      "timestamp": 1785888810.5973444
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 464",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3682,
-    "total_planned": 30,
+    "total_completed": 3683,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
