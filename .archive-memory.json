@@ -19537,14 +19537,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 490",
       "timestamp": 1785946170.2841191
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785946427.3171113
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 383",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3922,
-    "total_planned": 3,
+    "total_completed": 3923,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
