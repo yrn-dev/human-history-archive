@@ -19257,14 +19257,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 490",
       "timestamp": 1785932504.5370326
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1785932774.6612616
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 491",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3866,
-    "total_planned": 59,
+    "total_completed": 3867,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
