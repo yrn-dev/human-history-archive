@@ -19052,14 +19052,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 482",
       "timestamp": 1785922158.9711406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 532",
-      "variation": true
-    },
+      "timestamp": 1785922435.6602721
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 376",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3825,
-    "total_planned": 29,
+    "total_completed": 3826,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
