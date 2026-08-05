@@ -18367,14 +18367,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 461",
       "timestamp": 1785889845.10484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 463",
-      "variation": true
-    },
+      "timestamp": 1785890004.4308066
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 464",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3688,
-    "total_planned": 24,
+    "total_completed": 3689,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
