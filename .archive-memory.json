@@ -18762,14 +18762,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 472",
       "timestamp": 1785908599.2556746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 522",
-      "variation": true
-    },
+      "timestamp": 1785908904.2026913
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 472",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3767,
-    "total_planned": 16,
+    "total_completed": 3768,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
