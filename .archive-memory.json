@@ -19737,14 +19737,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 552",
       "timestamp": 1785955362.671623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 552",
-      "variation": true
-    },
+      "timestamp": 1785955538.571536
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3962,
-    "total_planned": 34,
+    "total_completed": 3963,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
