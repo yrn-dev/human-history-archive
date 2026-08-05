@@ -19477,14 +19477,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 490",
       "timestamp": 1785943427.2399228
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1785943581.5577397
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3910,
-    "total_planned": 15,
+    "total_completed": 3911,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
