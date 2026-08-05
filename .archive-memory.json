@@ -19182,14 +19182,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 482",
       "timestamp": 1785928304.1494899
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 532",
-      "variation": true
-    },
+      "timestamp": 1785928633.3250988
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 482",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3851,
-    "total_planned": 3,
+    "total_completed": 3852,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
