@@ -19162,14 +19162,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 481",
       "timestamp": 1785927214.443123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785927433.4924426
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 482",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3847,
-    "total_planned": 7,
+    "total_completed": 3848,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
