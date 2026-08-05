@@ -19222,14 +19222,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 383",
       "timestamp": 1785930735.4050224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785930919.2368307
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3859,
-    "total_planned": 66,
+    "total_completed": 3860,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
