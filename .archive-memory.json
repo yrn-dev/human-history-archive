@@ -19407,14 +19407,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 383",
       "timestamp": 1785939780.171707
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785940150.701109
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3896,
-    "total_planned": 29,
+    "total_completed": 3897,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
