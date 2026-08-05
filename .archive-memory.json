@@ -18407,14 +18407,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 463",
       "timestamp": 1785891864.7037375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 461",
-      "variation": true
-    },
+      "timestamp": 1785892140.549382
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 461",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3696,
-    "total_planned": 16,
+    "total_completed": 3697,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
