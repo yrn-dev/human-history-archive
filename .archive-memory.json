@@ -19077,14 +19077,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 481",
       "timestamp": 1785923342.4842508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 376",
-      "variation": true
-    },
+      "timestamp": 1785923521.584415
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3830,
-    "total_planned": 24,
+    "total_completed": 3831,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
