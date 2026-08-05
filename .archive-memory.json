@@ -19322,14 +19322,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 490",
       "timestamp": 1785935498.7539432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785935778.212181
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3879,
-    "total_planned": 46,
+    "total_completed": 3880,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
