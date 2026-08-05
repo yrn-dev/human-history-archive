@@ -18992,14 +18992,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 481",
       "timestamp": 1785919324.718969
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 482",
-      "variation": true
-    },
+      "timestamp": 1785919611.64405
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3813,
-    "total_planned": 41,
+    "total_completed": 3814,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
