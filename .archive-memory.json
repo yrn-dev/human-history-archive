@@ -19247,14 +19247,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 488",
       "timestamp": 1785931836.437287
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785932216.0848417
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 490",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3864,
-    "total_planned": 61,
+    "total_completed": 3865,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
