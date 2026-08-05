@@ -18382,14 +18382,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 463",
       "timestamp": 1785890622.063405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 464",
-      "variation": true
-    },
+      "timestamp": 1785890798.015382
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 463",
@@ -18492,8 +18492,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3691,
-    "total_planned": 21,
+    "total_completed": 3692,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
