@@ -19012,14 +19012,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 481",
       "timestamp": 1785920249.7930534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 479",
-      "variation": true
-    },
+      "timestamp": 1785920488.1562843
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3817,
-    "total_planned": 37,
+    "total_completed": 3818,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
