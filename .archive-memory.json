@@ -18927,14 +18927,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 479",
       "timestamp": 1785916433.7898235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 479",
-      "variation": true
-    },
+      "timestamp": 1785916669.58704
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3800,
-    "total_planned": 54,
+    "total_completed": 3801,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
