@@ -19612,14 +19612,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 497",
       "timestamp": 1785949749.103018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1785949918.6884508
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 552",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3937,
-    "total_planned": 59,
+    "total_completed": 3938,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
