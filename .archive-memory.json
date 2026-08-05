@@ -19122,14 +19122,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 376",
       "timestamp": 1785925427.1159441
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 376",
-      "variation": true
-    },
+      "timestamp": 1785925691.4413767
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 479",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3839,
-    "total_planned": 15,
+    "total_completed": 3840,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
