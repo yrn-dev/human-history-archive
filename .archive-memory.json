@@ -19517,14 +19517,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 488",
       "timestamp": 1785945175.2193456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1785945320.4164567
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 488",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3918,
-    "total_planned": 7,
+    "total_completed": 3919,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
