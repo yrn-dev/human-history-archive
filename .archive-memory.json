@@ -19472,14 +19472,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 488",
       "timestamp": 1785943280.477068
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 490",
-      "variation": true
-    },
+      "timestamp": 1785943427.2399228
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 542",
@@ -19557,8 +19557,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3909,
-    "total_planned": 16,
+    "total_completed": 3910,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
