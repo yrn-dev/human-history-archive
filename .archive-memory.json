@@ -18892,14 +18892,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 481",
       "timestamp": 1785914881.6330657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1785915065.208148
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 481",
@@ -19202,8 +19202,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3793,
-    "total_planned": 61,
+    "total_completed": 3794,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
