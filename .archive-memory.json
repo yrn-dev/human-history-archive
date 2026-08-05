@@ -18532,14 +18532,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 472",
       "timestamp": 1785897745.829414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 472",
-      "variation": true
-    },
+      "timestamp": 1785897906.8221407
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 369",
@@ -18847,8 +18847,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3721,
-    "total_planned": 62,
+    "total_completed": 3722,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
