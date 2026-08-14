@@ -19967,14 +19967,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 508",
       "timestamp": 1786703793.2078238
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786703959.3832
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 397",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4008,
-    "total_planned": 59,
+    "total_completed": 4009,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
