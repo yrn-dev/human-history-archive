@@ -20227,14 +20227,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 509",
       "timestamp": 1786716061.1391592
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786716238.2706091
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 562",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4060,
-    "total_planned": 7,
+    "total_completed": 4061,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
