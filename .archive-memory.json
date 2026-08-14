@@ -20482,14 +20482,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 515",
       "timestamp": 1786727215.3365595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786727446.3770452
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 572",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4111,
-    "total_planned": 27,
+    "total_completed": 4112,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
