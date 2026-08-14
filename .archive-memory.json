@@ -20927,14 +20927,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 526",
       "timestamp": 1786747562.4403422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 411",
-      "variation": true
-    },
+      "timestamp": 1786747842.9201648
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 582",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4200,
-    "total_planned": 9,
+    "total_completed": 4201,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
