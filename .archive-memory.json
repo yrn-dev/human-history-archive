@@ -19837,14 +19837,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 497",
       "timestamp": 1786697924.6388624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 497",
-      "variation": true
-    },
+      "timestamp": 1786698080.0596611
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 500",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3982,
-    "total_planned": 14,
+    "total_completed": 3983,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
