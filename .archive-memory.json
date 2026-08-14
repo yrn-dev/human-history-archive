@@ -20457,14 +20457,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 404",
       "timestamp": 1786726139.1858516
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786726434.012919
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4106,
-    "total_planned": 32,
+    "total_completed": 4107,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
