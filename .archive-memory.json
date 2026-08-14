@@ -20697,14 +20697,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 526",
       "timestamp": 1786737246.563783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786737430.6235487
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4154,
-    "total_planned": 55,
+    "total_completed": 4155,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
