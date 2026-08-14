@@ -20022,14 +20022,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 508",
       "timestamp": 1786706534.6145608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786706768.9589899
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4019,
-    "total_planned": 48,
+    "total_completed": 4020,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
