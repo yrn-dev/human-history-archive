@@ -20792,14 +20792,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 524",
       "timestamp": 1786741417.3496838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 527",
-      "variation": true
-    },
+      "timestamp": 1786741559.449003
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4173,
-    "total_planned": 36,
+    "total_completed": 4174,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
