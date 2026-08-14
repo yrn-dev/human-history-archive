@@ -20462,14 +20462,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 517",
       "timestamp": 1786726434.012919
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786726579.9469635
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 518",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4107,
-    "total_planned": 31,
+    "total_completed": 4108,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
