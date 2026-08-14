@@ -20812,14 +20812,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 526",
       "timestamp": 1786742087.01621
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 527",
-      "variation": true
-    },
+      "timestamp": 1786742377.4409344
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4177,
-    "total_planned": 32,
+    "total_completed": 4178,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
