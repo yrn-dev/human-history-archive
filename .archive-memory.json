@@ -20722,14 +20722,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 524",
       "timestamp": 1786738316.357549
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786738511.5094924
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4159,
-    "total_planned": 50,
+    "total_completed": 4160,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
