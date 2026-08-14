@@ -20537,14 +20537,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 517",
       "timestamp": 1786729751.8692784
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786729931.880485
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 518",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4122,
-    "total_planned": 16,
+    "total_completed": 4123,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
