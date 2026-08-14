@@ -20757,14 +20757,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 526",
       "timestamp": 1786739855.4744465
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 527",
-      "variation": true
-    },
+      "timestamp": 1786740016.4255316
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4166,
-    "total_planned": 43,
+    "total_completed": 4167,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
