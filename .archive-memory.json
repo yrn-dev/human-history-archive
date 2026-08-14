@@ -19987,14 +19987,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 508",
       "timestamp": 1786704702.2766275
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786704992.119336
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4012,
-    "total_planned": 55,
+    "total_completed": 4013,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
