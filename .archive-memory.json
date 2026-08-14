@@ -21012,14 +21012,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 533",
       "timestamp": 1786751625.5657353
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786751915.1915085
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4217,
-    "total_planned": 63,
+    "total_completed": 4218,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
