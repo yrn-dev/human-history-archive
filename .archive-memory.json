@@ -19872,14 +19872,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 500",
       "timestamp": 1786699524.1508846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1786699681.243532
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3989,
-    "total_planned": 7,
+    "total_completed": 3990,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
