@@ -20342,14 +20342,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 517",
       "timestamp": 1786721087.0728118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786721336.3107793
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4083,
-    "total_planned": 55,
+    "total_completed": 4084,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
