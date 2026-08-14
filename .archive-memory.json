@@ -20237,14 +20237,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 562",
       "timestamp": 1786716555.3870618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786716850.617603
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4062,
-    "total_planned": 5,
+    "total_completed": 4063,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
