@@ -20732,14 +20732,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 524",
       "timestamp": 1786738813.8821816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 527",
-      "variation": true
-    },
+      "timestamp": 1786738952.2827406
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4161,
-    "total_planned": 48,
+    "total_completed": 4162,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
