@@ -20967,18 +20967,17 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 524",
       "timestamp": 1786749807.387235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 526",
-      "variation": true
+      "timestamp": 1786749965.8173923
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 4208,
-    "total_planned": 1,
+    "total_completed": 4209,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
