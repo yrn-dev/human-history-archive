@@ -19897,14 +19897,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 499",
       "timestamp": 1786700474.738749
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1786700695.8021238
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3994,
-    "total_planned": 2,
+    "total_completed": 3995,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
