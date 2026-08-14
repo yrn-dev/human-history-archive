@@ -20632,14 +20632,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 582",
       "timestamp": 1786734242.0805697
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 411",
-      "variation": true
-    },
+      "timestamp": 1786734552.0669494
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4141,
-    "total_planned": 68,
+    "total_completed": 4142,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
