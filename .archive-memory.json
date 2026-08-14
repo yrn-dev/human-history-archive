@@ -20822,14 +20822,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 526",
       "timestamp": 1786742640.9644887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 411",
-      "variation": true
-    },
+      "timestamp": 1786742923.5630548
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4179,
-    "total_planned": 30,
+    "total_completed": 4180,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
