@@ -19912,14 +19912,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 508",
       "timestamp": 1786701182.5597827
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786701414.6211274
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3997,
-    "total_planned": 70,
+    "total_completed": 3998,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
