@@ -20647,14 +20647,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 526",
       "timestamp": 1786734945.3080432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 582",
-      "variation": true
-    },
+      "timestamp": 1786735238.6685808
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 527",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4144,
-    "total_planned": 65,
+    "total_completed": 4145,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
