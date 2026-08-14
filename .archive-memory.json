@@ -19982,14 +19982,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 397",
       "timestamp": 1786704536.9329364
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786704702.2766275
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 509",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4011,
-    "total_planned": 56,
+    "total_completed": 4012,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
