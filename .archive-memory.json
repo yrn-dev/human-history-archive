@@ -20557,14 +20557,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 515",
       "timestamp": 1786730461.6431873
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 404",
-      "variation": true
-    },
+      "timestamp": 1786730703.6122038
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 404",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4126,
-    "total_planned": 12,
+    "total_completed": 4127,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
