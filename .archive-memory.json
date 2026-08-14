@@ -20852,14 +20852,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 526",
       "timestamp": 1786744193.243843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786744457.442393
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4185,
-    "total_planned": 24,
+    "total_completed": 4186,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
