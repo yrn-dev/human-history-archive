@@ -20977,14 +20977,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 592",
       "timestamp": 1786750139.4458735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786750273.9060652
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4210,
-    "total_planned": 70,
+    "total_completed": 4211,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
