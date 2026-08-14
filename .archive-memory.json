@@ -19812,14 +19812,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 499",
       "timestamp": 1786696712.8402517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 500",
-      "variation": true
-    },
+      "timestamp": 1786696886.701296
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3977,
-    "total_planned": 19,
+    "total_completed": 3978,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
