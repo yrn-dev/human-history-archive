@@ -20687,14 +20687,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 527",
       "timestamp": 1786736785.8463485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786736973.0346699
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4152,
-    "total_planned": 57,
+    "total_completed": 4153,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
