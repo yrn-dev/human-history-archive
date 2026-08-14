@@ -20092,14 +20092,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 506",
       "timestamp": 1786709719.3832161
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786709887.4030445
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 562",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4033,
-    "total_planned": 34,
+    "total_completed": 4034,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
