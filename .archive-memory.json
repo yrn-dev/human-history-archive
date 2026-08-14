@@ -20622,14 +20622,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 411",
       "timestamp": 1786733782.13114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 582",
-      "variation": true
-    },
+      "timestamp": 1786734087.9559379
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 582",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4139,
-    "total_planned": 70,
+    "total_completed": 4140,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
