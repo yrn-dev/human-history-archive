@@ -20842,14 +20842,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 524",
       "timestamp": 1786743714.241627
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 411",
-      "variation": true
-    },
+      "timestamp": 1786743994.2279875
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4183,
-    "total_planned": 26,
+    "total_completed": 4184,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
