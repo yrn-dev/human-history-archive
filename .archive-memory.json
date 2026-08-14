@@ -20512,14 +20512,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 515",
       "timestamp": 1786728597.9974625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786728886.851624
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4117,
-    "total_planned": 21,
+    "total_completed": 4118,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
