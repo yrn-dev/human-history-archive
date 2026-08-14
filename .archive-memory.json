@@ -19937,14 +19937,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 562",
       "timestamp": 1786702381.7502725
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786702667.1322615
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 509",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4002,
-    "total_planned": 65,
+    "total_completed": 4003,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
