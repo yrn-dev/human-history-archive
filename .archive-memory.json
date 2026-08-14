@@ -20252,14 +20252,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 508",
       "timestamp": 1786717277.11178
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786717479.8509643
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 397",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4065,
-    "total_planned": 2,
+    "total_completed": 4066,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
