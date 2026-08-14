@@ -20692,14 +20692,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 526",
       "timestamp": 1786736973.0346699
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786737246.563783
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4153,
-    "total_planned": 56,
+    "total_completed": 4154,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
