@@ -19972,14 +19972,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 509",
       "timestamp": 1786703959.3832
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 397",
-      "variation": true
-    },
+      "timestamp": 1786704254.9537647
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 397",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4009,
-    "total_planned": 58,
+    "total_completed": 4010,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
