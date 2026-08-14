@@ -20182,14 +20182,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 506",
       "timestamp": 1786713809.7142305
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786714107.0212262
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4051,
-    "total_planned": 16,
+    "total_completed": 4052,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
