@@ -19947,14 +19947,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 509",
       "timestamp": 1786702975.803691
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786703132.8409495
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4004,
-    "total_planned": 63,
+    "total_completed": 4005,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
