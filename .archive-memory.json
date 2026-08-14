@@ -20322,14 +20322,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 404",
       "timestamp": 1786720355.7261846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786720516.2577662
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4079,
-    "total_planned": 59,
+    "total_completed": 4080,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
