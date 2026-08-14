@@ -19802,14 +19802,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 552",
       "timestamp": 1786696197.911139
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 497",
-      "variation": true
-    },
+      "timestamp": 1786696455.3604755
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3975,
-    "total_planned": 21,
+    "total_completed": 3976,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
