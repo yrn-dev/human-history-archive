@@ -19772,14 +19772,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 497",
       "timestamp": 1785957148.3274887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1786695137.3279223
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3969,
-    "total_planned": 27,
+    "total_completed": 3970,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
