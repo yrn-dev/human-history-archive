@@ -20422,14 +20422,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 515",
       "timestamp": 1786724717.5565138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 518",
-      "variation": true
-    },
+      "timestamp": 1786724891.4610422
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 518",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4099,
-    "total_planned": 39,
+    "total_completed": 4100,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
