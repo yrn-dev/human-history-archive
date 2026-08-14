@@ -20102,14 +20102,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 562",
       "timestamp": 1786710042.368942
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786710188.2919593
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 509",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4035,
-    "total_planned": 32,
+    "total_completed": 4036,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
