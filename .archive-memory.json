@@ -19817,14 +19817,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 500",
       "timestamp": 1786696886.701296
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1786697152.7221062
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3978,
-    "total_planned": 18,
+    "total_completed": 3979,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
