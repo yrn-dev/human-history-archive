@@ -19852,14 +19852,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 500",
       "timestamp": 1786698554.5790706
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1786698867.017408
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 500",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3985,
-    "total_planned": 11,
+    "total_completed": 3986,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
