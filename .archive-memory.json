@@ -20467,14 +20467,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 517",
       "timestamp": 1786726579.9469635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 518",
-      "variation": true
-    },
+      "timestamp": 1786726842.2468393
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 404",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4108,
-    "total_planned": 30,
+    "total_completed": 4109,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
