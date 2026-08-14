@@ -20857,14 +20857,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 526",
       "timestamp": 1786744457.442393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786744700.5977645
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 582",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4186,
-    "total_planned": 23,
+    "total_completed": 4187,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
