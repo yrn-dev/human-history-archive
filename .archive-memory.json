@@ -20872,14 +20872,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 524",
       "timestamp": 1786745050.147398
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786745251.0869758
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4189,
-    "total_planned": 20,
+    "total_completed": 4190,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
