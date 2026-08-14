@@ -20327,14 +20327,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 515",
       "timestamp": 1786720516.2577662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786720719.3561423
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4080,
-    "total_planned": 58,
+    "total_completed": 4081,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
