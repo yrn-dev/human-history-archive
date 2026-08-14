@@ -20437,14 +20437,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 518",
       "timestamp": 1786725221.3383138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786725509.6070383
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4102,
-    "total_planned": 36,
+    "total_completed": 4103,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
