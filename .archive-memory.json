@@ -20207,14 +20207,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 508",
       "timestamp": 1786715210.5428207
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786715443.6509593
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4056,
-    "total_planned": 11,
+    "total_completed": 4057,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
