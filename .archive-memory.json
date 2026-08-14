@@ -20402,14 +20402,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 572",
       "timestamp": 1786723733.7721608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786723905.716709
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4095,
-    "total_planned": 43,
+    "total_completed": 4096,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
