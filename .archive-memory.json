@@ -20017,14 +20017,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 508",
       "timestamp": 1786706374.4915826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786706534.6145608
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4018,
-    "total_planned": 49,
+    "total_completed": 4019,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
