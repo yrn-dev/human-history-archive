@@ -20587,14 +20587,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 517",
       "timestamp": 1786732132.412922
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786732377.9735916
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4132,
-    "total_planned": 6,
+    "total_completed": 4133,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
