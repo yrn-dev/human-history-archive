@@ -20817,14 +20817,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 527",
       "timestamp": 1786742377.4409344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786742640.9644887
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 411",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4178,
-    "total_planned": 31,
+    "total_completed": 4179,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
