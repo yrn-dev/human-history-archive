@@ -20492,14 +20492,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 572",
       "timestamp": 1786727727.0971053
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 518",
-      "variation": true
-    },
+      "timestamp": 1786727933.3961673
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4113,
-    "total_planned": 25,
+    "total_completed": 4114,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
