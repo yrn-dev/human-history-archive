@@ -20837,14 +20837,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 524",
       "timestamp": 1786743417.6983562
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 524",
-      "variation": true
-    },
+      "timestamp": 1786743714.241627
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 411",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4182,
-    "total_planned": 27,
+    "total_completed": 4183,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
