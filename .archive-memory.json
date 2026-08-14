@@ -19827,14 +19827,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 497",
       "timestamp": 1786697357.6754155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 499",
-      "variation": true
-    },
+      "timestamp": 1786697614.440625
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 497",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3980,
-    "total_planned": 16,
+    "total_completed": 3981,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
