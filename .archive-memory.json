@@ -20012,14 +20012,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 562",
       "timestamp": 1786706061.7678094
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786706374.4915826
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4017,
-    "total_planned": 50,
+    "total_completed": 4018,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
