@@ -20922,14 +20922,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 526",
       "timestamp": 1786747292.0263588
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786747562.4403422
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 411",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4199,
-    "total_planned": 10,
+    "total_completed": 4200,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
