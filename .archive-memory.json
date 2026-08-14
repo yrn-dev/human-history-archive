@@ -20137,14 +20137,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 509",
       "timestamp": 1786711539.3249738
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786711825.2310572
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4042,
-    "total_planned": 25,
+    "total_completed": 4043,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
