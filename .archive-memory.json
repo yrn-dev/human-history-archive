@@ -20177,14 +20177,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 397",
       "timestamp": 1786713499.736348
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786713809.7142305
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4050,
-    "total_planned": 17,
+    "total_completed": 4051,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
