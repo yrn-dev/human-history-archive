@@ -20737,14 +20737,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 527",
       "timestamp": 1786738952.2827406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 524",
-      "variation": true
-    },
+      "timestamp": 1786739259.2848346
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4162,
-    "total_planned": 47,
+    "total_completed": 4163,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
