@@ -20662,14 +20662,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 582",
       "timestamp": 1786735697.5288875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 411",
-      "variation": true
-    },
+      "timestamp": 1786735898.422383
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4147,
-    "total_planned": 62,
+    "total_completed": 4148,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
