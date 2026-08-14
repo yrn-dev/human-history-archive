@@ -20517,14 +20517,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 515",
       "timestamp": 1786728886.851624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786729136.208352
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 572",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4118,
-    "total_planned": 20,
+    "total_completed": 4119,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
