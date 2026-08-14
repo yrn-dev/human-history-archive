@@ -20897,14 +20897,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 582",
       "timestamp": 1786746154.0167093
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786746392.6426923
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 582",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4194,
-    "total_planned": 15,
+    "total_completed": 4195,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
