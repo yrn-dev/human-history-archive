@@ -20162,14 +20162,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 506",
       "timestamp": 1786712735.2839668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786713019.464411
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4047,
-    "total_planned": 20,
+    "total_completed": 4048,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
