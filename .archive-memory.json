@@ -20062,14 +20062,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 508",
       "timestamp": 1786708520.6651213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 397",
-      "variation": true
-    },
+      "timestamp": 1786708737.779021
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 562",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4027,
-    "total_planned": 40,
+    "total_completed": 4028,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
