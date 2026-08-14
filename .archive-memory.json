@@ -20572,14 +20572,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 518",
       "timestamp": 1786731302.114469
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786731518.934617
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 572",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4129,
-    "total_planned": 9,
+    "total_completed": 4130,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
