@@ -19787,14 +19787,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 499",
       "timestamp": 1786695631.2245562
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 390",
-      "variation": true
-    },
+      "timestamp": 1786695804.3426862
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3972,
-    "total_planned": 24,
+    "total_completed": 3973,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
