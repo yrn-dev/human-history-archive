@@ -20612,18 +20612,17 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 517",
       "timestamp": 1786733371.7713904
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 517",
-      "variation": true
+      "timestamp": 1786733520.7319462
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 4137,
-    "total_planned": 1,
+    "total_completed": 4138,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
