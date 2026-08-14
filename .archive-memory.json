@@ -20657,14 +20657,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 527",
       "timestamp": 1786735430.365131
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 582",
-      "variation": true
-    },
+      "timestamp": 1786735697.5288875
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 411",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4146,
-    "total_planned": 63,
+    "total_completed": 4147,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
