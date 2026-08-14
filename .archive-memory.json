@@ -20382,14 +20382,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 572",
       "timestamp": 1786722886.1541462
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 518",
-      "variation": true
-    },
+      "timestamp": 1786723139.6356606
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 572",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4091,
-    "total_planned": 47,
+    "total_completed": 4092,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
