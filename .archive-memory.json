@@ -20097,14 +20097,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 508",
       "timestamp": 1786709887.4030445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786710042.368942
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4034,
-    "total_planned": 33,
+    "total_completed": 4035,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
