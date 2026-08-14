@@ -20267,14 +20267,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 515",
       "timestamp": 1786717914.0045028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786718127.9894984
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4068,
-    "total_planned": 70,
+    "total_completed": 4069,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
