@@ -20502,14 +20502,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 517",
       "timestamp": 1786728149.4551728
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786728422.7222688
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4115,
-    "total_planned": 23,
+    "total_completed": 4116,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
