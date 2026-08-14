@@ -19917,14 +19917,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 508",
       "timestamp": 1786701414.6211274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786701647.758615
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3998,
-    "total_planned": 69,
+    "total_completed": 3999,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
