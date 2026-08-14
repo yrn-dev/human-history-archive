@@ -20527,14 +20527,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 572",
       "timestamp": 1786729421.2984185
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 518",
-      "variation": true
-    },
+      "timestamp": 1786729564.156769
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4120,
-    "total_planned": 18,
+    "total_completed": 4121,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
