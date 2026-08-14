@@ -20047,14 +20047,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 508",
       "timestamp": 1786707787.1978471
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786708030.0495574
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4024,
-    "total_planned": 43,
+    "total_completed": 4025,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
