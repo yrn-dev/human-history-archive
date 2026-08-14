@@ -20782,14 +20782,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 526",
       "timestamp": 1786740949.0660207
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 582",
-      "variation": true
-    },
+      "timestamp": 1786741114.9569085
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4171,
-    "total_planned": 38,
+    "total_completed": 4172,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
