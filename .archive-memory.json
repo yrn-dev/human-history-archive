@@ -20762,14 +20762,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 527",
       "timestamp": 1786740016.4255316
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786740214.904033
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4167,
-    "total_planned": 42,
+    "total_completed": 4168,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
