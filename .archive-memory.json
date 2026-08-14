@@ -20627,14 +20627,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 582",
       "timestamp": 1786734087.9559379
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 582",
-      "variation": true
-    },
+      "timestamp": 1786734242.0805697
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 411",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4140,
-    "total_planned": 69,
+    "total_completed": 4141,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
