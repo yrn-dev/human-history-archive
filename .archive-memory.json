@@ -20292,14 +20292,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 517",
       "timestamp": 1786719051.0497684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786719317.2001054
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4073,
-    "total_planned": 65,
+    "total_completed": 4074,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
