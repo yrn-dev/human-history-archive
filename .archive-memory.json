@@ -20772,14 +20772,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 524",
       "timestamp": 1786740450.4579587
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 524",
-      "variation": true
-    },
+      "timestamp": 1786740678.7915993
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4169,
-    "total_planned": 40,
+    "total_completed": 4170,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
