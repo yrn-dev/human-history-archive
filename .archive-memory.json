@@ -20982,14 +20982,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 535",
       "timestamp": 1786750273.9060652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786750561.1121356
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4211,
-    "total_planned": 69,
+    "total_completed": 4212,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
