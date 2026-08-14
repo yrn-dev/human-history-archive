@@ -20067,14 +20067,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 397",
       "timestamp": 1786708737.779021
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786708904.2786608
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4028,
-    "total_planned": 39,
+    "total_completed": 4029,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
