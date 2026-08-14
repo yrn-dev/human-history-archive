@@ -19777,14 +19777,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 499",
       "timestamp": 1786695137.3279223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 497",
-      "variation": true
-    },
+      "timestamp": 1786695384.6748357
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3970,
-    "total_planned": 26,
+    "total_completed": 3971,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
