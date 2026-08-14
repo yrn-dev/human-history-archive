@@ -20167,14 +20167,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 508",
       "timestamp": 1786713019.464411
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786713282.4923024
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 397",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4048,
-    "total_planned": 19,
+    "total_completed": 4049,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
