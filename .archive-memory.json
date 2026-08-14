@@ -20952,14 +20952,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 527",
       "timestamp": 1786748983.7703567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 411",
-      "variation": true
-    },
+      "timestamp": 1786749298.419303
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4205,
-    "total_planned": 4,
+    "total_completed": 4206,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
