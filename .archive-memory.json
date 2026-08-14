@@ -20797,14 +20797,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 527",
       "timestamp": 1786741559.449003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786741733.2920532
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 582",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4174,
-    "total_planned": 35,
+    "total_completed": 4175,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
