@@ -20947,14 +20947,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 526",
       "timestamp": 1786748698.8858783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 527",
-      "variation": true
-    },
+      "timestamp": 1786748983.7703567
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 411",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4204,
-    "total_planned": 5,
+    "total_completed": 4205,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
