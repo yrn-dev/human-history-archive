@@ -19887,14 +19887,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 500",
       "timestamp": 1786700036.3525753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 390",
-      "variation": true
-    },
+      "timestamp": 1786700331.8624012
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 499",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3992,
-    "total_planned": 4,
+    "total_completed": 3993,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
