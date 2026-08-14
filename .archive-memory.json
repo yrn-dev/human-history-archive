@@ -20807,14 +20807,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 582",
       "timestamp": 1786741940.316309
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786742087.01621
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 527",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4176,
-    "total_planned": 33,
+    "total_completed": 4177,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
