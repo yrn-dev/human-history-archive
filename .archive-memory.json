@@ -21007,14 +21007,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 536",
       "timestamp": 1786751475.8249936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786751625.5657353
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4216,
-    "total_planned": 64,
+    "total_completed": 4217,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
