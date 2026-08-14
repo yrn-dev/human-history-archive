@@ -20057,14 +20057,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 506",
       "timestamp": 1786708216.825292
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786708520.6651213
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 397",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4026,
-    "total_planned": 41,
+    "total_completed": 4027,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
