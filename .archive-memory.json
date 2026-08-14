@@ -20832,14 +20832,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 524",
       "timestamp": 1786743230.0212564
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 524",
-      "variation": true
-    },
+      "timestamp": 1786743417.6983562
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4181,
-    "total_planned": 28,
+    "total_completed": 4182,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
