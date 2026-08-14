@@ -20802,14 +20802,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 526",
       "timestamp": 1786741733.2920532
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 582",
-      "variation": true
-    },
+      "timestamp": 1786741940.316309
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4175,
-    "total_planned": 34,
+    "total_completed": 4176,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
