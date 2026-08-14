@@ -19977,14 +19977,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 397",
       "timestamp": 1786704254.9537647
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 397",
-      "variation": true
-    },
+      "timestamp": 1786704536.9329364
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4010,
-    "total_planned": 57,
+    "total_completed": 4011,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
