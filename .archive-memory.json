@@ -20387,14 +20387,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 518",
       "timestamp": 1786723139.6356606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786723403.951157
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4092,
-    "total_planned": 46,
+    "total_completed": 4093,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
