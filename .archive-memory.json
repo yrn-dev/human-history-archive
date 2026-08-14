@@ -20312,14 +20312,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 517",
       "timestamp": 1786719826.5933187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786720044.4036505
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 404",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4077,
-    "total_planned": 61,
+    "total_completed": 4078,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
