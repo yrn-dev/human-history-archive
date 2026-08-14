@@ -20957,14 +20957,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 411",
       "timestamp": 1786749298.419303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 524",
-      "variation": true
-    },
+      "timestamp": 1786749543.3869202
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4206,
-    "total_planned": 3,
+    "total_completed": 4207,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
