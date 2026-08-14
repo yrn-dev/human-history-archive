@@ -20742,14 +20742,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 524",
       "timestamp": 1786739259.2848346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786739483.3986895
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4163,
-    "total_planned": 46,
+    "total_completed": 4164,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
