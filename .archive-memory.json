@@ -20242,14 +20242,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 506",
       "timestamp": 1786716850.617603
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786717079.547033
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4063,
-    "total_planned": 4,
+    "total_completed": 4064,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
