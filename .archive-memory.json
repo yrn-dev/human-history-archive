@@ -20152,14 +20152,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 506",
       "timestamp": 1786712245.1800387
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786712516.8554988
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4045,
-    "total_planned": 22,
+    "total_completed": 4046,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
