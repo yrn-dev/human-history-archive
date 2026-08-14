@@ -20567,14 +20567,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 404",
       "timestamp": 1786731023.1229908
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 518",
-      "variation": true
-    },
+      "timestamp": 1786731302.114469
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 572",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4128,
-    "total_planned": 10,
+    "total_completed": 4129,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
