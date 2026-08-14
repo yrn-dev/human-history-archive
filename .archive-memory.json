@@ -20117,14 +20117,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 508",
       "timestamp": 1786710711.0300262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786710876.3537767
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 506",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4038,
-    "total_planned": 29,
+    "total_completed": 4039,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
