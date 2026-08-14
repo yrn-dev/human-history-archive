@@ -20472,14 +20472,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 518",
       "timestamp": 1786726842.2468393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 404",
-      "variation": true
-    },
+      "timestamp": 1786727031.3332596
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4109,
-    "total_planned": 29,
+    "total_completed": 4110,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
