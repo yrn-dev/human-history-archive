@@ -20937,14 +20937,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 582",
       "timestamp": 1786748141.6498818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 524",
-      "variation": true
-    },
+      "timestamp": 1786748379.3285372
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4202,
-    "total_planned": 7,
+    "total_completed": 4203,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
