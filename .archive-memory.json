@@ -20377,14 +20377,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 517",
       "timestamp": 1786722634.5398664
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786722886.1541462
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 518",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4090,
-    "total_planned": 48,
+    "total_completed": 4091,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
