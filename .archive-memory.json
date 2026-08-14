@@ -20357,14 +20357,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 404",
       "timestamp": 1786721784.3573885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786721991.9329412
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 517",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4086,
-    "total_planned": 52,
+    "total_completed": 4087,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
