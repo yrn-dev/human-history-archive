@@ -20507,14 +20507,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 517",
       "timestamp": 1786728422.7222688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786728597.9974625
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4116,
-    "total_planned": 22,
+    "total_completed": 4117,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
