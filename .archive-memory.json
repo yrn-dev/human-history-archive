@@ -20347,14 +20347,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 517",
       "timestamp": 1786721336.3107793
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786721595.9767635
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 404",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4084,
-    "total_planned": 54,
+    "total_completed": 4085,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
