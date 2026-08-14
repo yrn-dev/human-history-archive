@@ -19927,14 +19927,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 506",
       "timestamp": 1786701891.4332297
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786702109.3252811
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 562",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4000,
-    "total_planned": 67,
+    "total_completed": 4001,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
