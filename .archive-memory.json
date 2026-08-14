@@ -20522,14 +20522,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 515",
       "timestamp": 1786729136.208352
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786729421.2984185
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 518",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4119,
-    "total_planned": 19,
+    "total_completed": 4120,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
