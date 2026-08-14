@@ -20917,14 +20917,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 526",
       "timestamp": 1786747087.0405183
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786747292.0263588
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4198,
-    "total_planned": 11,
+    "total_completed": 4199,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
