@@ -20932,14 +20932,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 411",
       "timestamp": 1786747842.9201648
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 582",
-      "variation": true
-    },
+      "timestamp": 1786748141.6498818
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4201,
-    "total_planned": 8,
+    "total_completed": 4202,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
