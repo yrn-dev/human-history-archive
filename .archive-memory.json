@@ -20592,14 +20592,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 517",
       "timestamp": 1786732377.9735916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 517",
-      "variation": true
-    },
+      "timestamp": 1786732645.6062465
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 404",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4133,
-    "total_planned": 5,
+    "total_completed": 4134,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
