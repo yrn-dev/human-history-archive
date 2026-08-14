@@ -20107,14 +20107,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 506",
       "timestamp": 1786710188.2919593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786710399.394265
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4036,
-    "total_planned": 31,
+    "total_completed": 4037,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
