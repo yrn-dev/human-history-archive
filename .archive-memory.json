@@ -20877,14 +20877,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 526",
       "timestamp": 1786745251.0869758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 526",
-      "variation": true
-    },
+      "timestamp": 1786745549.816235
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 527",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4190,
-    "total_planned": 19,
+    "total_completed": 4191,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
