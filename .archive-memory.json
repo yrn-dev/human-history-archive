@@ -20427,14 +20427,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 518",
       "timestamp": 1786724891.4610422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 518",
-      "variation": true
-    },
+      "timestamp": 1786725077.7190316
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 518",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4100,
-    "total_planned": 38,
+    "total_completed": 4101,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
