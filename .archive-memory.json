@@ -20052,14 +20052,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 508",
       "timestamp": 1786708030.0495574
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786708216.825292
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4025,
-    "total_planned": 42,
+    "total_completed": 4026,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
