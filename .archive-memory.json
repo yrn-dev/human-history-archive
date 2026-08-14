@@ -20477,14 +20477,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 404",
       "timestamp": 1786727031.3332596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 515",
-      "variation": true
-    },
+      "timestamp": 1786727215.3365595
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 515",
@@ -20622,8 +20622,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4110,
-    "total_planned": 28,
+    "total_completed": 4111,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
