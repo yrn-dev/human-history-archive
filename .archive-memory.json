@@ -20132,14 +20132,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 509",
       "timestamp": 1786711336.9736598
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786711539.3249738
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 562",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4041,
-    "total_planned": 26,
+    "total_completed": 4042,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
