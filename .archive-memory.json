@@ -19877,14 +19877,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 499",
       "timestamp": 1786699681.243532
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 497",
-      "variation": true
-    },
+      "timestamp": 1786699854.141501
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 500",
@@ -19912,8 +19912,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3990,
-    "total_planned": 6,
+    "total_completed": 3991,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
