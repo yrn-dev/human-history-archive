@@ -20147,14 +20147,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 506",
       "timestamp": 1786712019.196538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786712245.1800387
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 508",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4044,
-    "total_planned": 23,
+    "total_completed": 4045,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
