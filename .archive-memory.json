@@ -19922,14 +19922,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 508",
       "timestamp": 1786701647.758615
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 506",
-      "variation": true
-    },
+      "timestamp": 1786701891.4332297
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 509",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 3999,
-    "total_planned": 68,
+    "total_completed": 4000,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
