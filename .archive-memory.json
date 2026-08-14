@@ -19962,14 +19962,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 508",
       "timestamp": 1786703589.9993925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 508",
-      "variation": true
-    },
+      "timestamp": 1786703793.2078238
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 509",
@@ -20267,8 +20267,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4007,
-    "total_planned": 60,
+    "total_completed": 4008,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
