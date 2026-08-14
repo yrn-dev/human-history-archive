@@ -20962,14 +20962,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 524",
       "timestamp": 1786749543.3869202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 524",
-      "variation": true
-    },
+      "timestamp": 1786749807.387235
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 526",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4207,
-    "total_planned": 2,
+    "total_completed": 4208,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
