@@ -20827,14 +20827,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 411",
       "timestamp": 1786742923.5630548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 524",
-      "variation": true
-    },
+      "timestamp": 1786743230.0212564
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 524",
@@ -20977,8 +20977,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4180,
-    "total_planned": 29,
+    "total_completed": 4181,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
