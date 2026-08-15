@@ -21952,14 +21952,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 553",
       "timestamp": 1786796995.4768822
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786797167.882517
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4405,
-    "total_planned": 17,
+    "total_completed": 4406,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
