@@ -22172,14 +22172,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 563",
       "timestamp": 1786807359.0561812
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786807629.0264704
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4449,
-    "total_planned": 44,
+    "total_completed": 4450,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
