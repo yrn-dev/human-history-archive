@@ -21822,14 +21822,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 551",
       "timestamp": 1786790768.3075702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786790933.0669513
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4379,
-    "total_planned": 43,
+    "total_completed": 4380,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
