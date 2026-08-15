@@ -22022,14 +22022,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 432",
       "timestamp": 1786800483.7475677
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786800671.820411
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4419,
-    "total_planned": 3,
+    "total_completed": 4420,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
