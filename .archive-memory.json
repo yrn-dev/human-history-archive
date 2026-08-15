@@ -21652,14 +21652,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 602",
       "timestamp": 1786782062.4819074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786782351.7963572
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 425",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4345,
-    "total_planned": 6,
+    "total_completed": 4346,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
