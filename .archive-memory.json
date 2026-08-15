@@ -21772,14 +21772,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 551",
       "timestamp": 1786788045.7565076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786788276.7799938
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4369,
-    "total_planned": 53,
+    "total_completed": 4370,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
