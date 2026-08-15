@@ -21737,14 +21737,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 553",
       "timestamp": 1786786213.0362742
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786786514.8694148
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 612",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4362,
-    "total_planned": 60,
+    "total_completed": 4363,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
