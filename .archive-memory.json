@@ -21727,14 +21727,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 553",
       "timestamp": 1786785582.1994603
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 612",
-      "variation": true
-    },
+      "timestamp": 1786785851.0088263
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4360,
-    "total_planned": 62,
+    "total_completed": 4361,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
