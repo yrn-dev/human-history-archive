@@ -22412,14 +22412,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 571",
       "timestamp": 1786819380.0155966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786819661.5542045
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4497,
-    "total_planned": 67,
+    "total_completed": 4498,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
