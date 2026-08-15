@@ -21572,14 +21572,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 602",
       "timestamp": 1786777443.5588317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786777601.0983377
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4329,
-    "total_planned": 22,
+    "total_completed": 4330,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
