@@ -22547,14 +22547,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 571",
       "timestamp": 1786825862.3964982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786826123.1804721
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 446",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4524,
-    "total_planned": 40,
+    "total_completed": 4525,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
