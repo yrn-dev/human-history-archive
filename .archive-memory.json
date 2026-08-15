@@ -22057,14 +22057,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 562",
       "timestamp": 1786801983.8447187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786802242.260875
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4426,
-    "total_planned": 67,
+    "total_completed": 4427,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
