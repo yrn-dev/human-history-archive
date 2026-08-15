@@ -22597,14 +22597,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 572",
       "timestamp": 1786828299.7747254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1786828437.7812707
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4534,
-    "total_planned": 30,
+    "total_completed": 4535,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
