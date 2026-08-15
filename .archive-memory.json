@@ -21452,14 +21452,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 545",
       "timestamp": 1786772020.7587667
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786772299.6232097
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4305,
-    "total_planned": 46,
+    "total_completed": 4306,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
