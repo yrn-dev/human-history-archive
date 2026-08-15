@@ -21382,14 +21382,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 542",
       "timestamp": 1786768906.6159067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786769048.2529469
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4291,
-    "total_planned": 60,
+    "total_completed": 4292,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
