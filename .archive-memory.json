@@ -21697,14 +21697,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 553",
       "timestamp": 1786784237.0279508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 554",
-      "variation": true
-    },
+      "timestamp": 1786784501.1301188
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4354,
-    "total_planned": 68,
+    "total_completed": 4355,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
