@@ -21047,14 +21047,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 535",
       "timestamp": 1786753341.6228247
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 592",
-      "variation": true
-    },
+      "timestamp": 1786753599.1260474
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4224,
-    "total_planned": 56,
+    "total_completed": 4225,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
