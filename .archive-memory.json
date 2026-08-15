@@ -21852,14 +21852,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 432",
       "timestamp": 1786792009.9238997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 554",
-      "variation": true
-    },
+      "timestamp": 1786792232.9406736
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 554",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4385,
-    "total_planned": 37,
+    "total_completed": 4386,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
