@@ -21157,14 +21157,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 535",
       "timestamp": 1786758640.8567443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 592",
-      "variation": true
-    },
+      "timestamp": 1786758891.6173878
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 536",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4246,
-    "total_planned": 34,
+    "total_completed": 4247,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
