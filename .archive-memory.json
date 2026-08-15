@@ -22332,14 +22332,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 622",
       "timestamp": 1786815681.2518482
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 622",
-      "variation": true
-    },
+      "timestamp": 1786815863.4818459
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4481,
-    "total_planned": 12,
+    "total_completed": 4482,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
