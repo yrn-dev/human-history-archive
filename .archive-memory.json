@@ -21607,14 +21607,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 544",
       "timestamp": 1786779415.5931334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786779697.9987578
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4336,
-    "total_planned": 15,
+    "total_completed": 4337,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
