@@ -22272,14 +22272,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 622",
       "timestamp": 1786812610.3588634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786812917.788829
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4469,
-    "total_planned": 24,
+    "total_completed": 4470,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
