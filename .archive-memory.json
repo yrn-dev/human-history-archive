@@ -21272,14 +21272,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 418",
       "timestamp": 1786763779.8119783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 536",
-      "variation": true
-    },
+      "timestamp": 1786764033.7109087
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4269,
-    "total_planned": 11,
+    "total_completed": 4270,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
