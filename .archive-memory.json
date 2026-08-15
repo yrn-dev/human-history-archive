@@ -22217,14 +22217,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 622",
       "timestamp": 1786809754.9656837
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 439",
-      "variation": true
-    },
+      "timestamp": 1786810021.563979
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4458,
-    "total_planned": 35,
+    "total_completed": 4459,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
