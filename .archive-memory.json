@@ -21712,14 +21712,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 553",
       "timestamp": 1786784992.7844489
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786785259.3669422
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 612",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4357,
-    "total_planned": 65,
+    "total_completed": 4358,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
