@@ -21042,14 +21042,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 533",
       "timestamp": 1786753190.5517948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786753341.6228247
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 592",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4223,
-    "total_planned": 57,
+    "total_completed": 4224,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
