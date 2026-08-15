@@ -21227,14 +21227,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 533",
       "timestamp": 1786761777.6937141
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786761977.420341
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4260,
-    "total_planned": 20,
+    "total_completed": 4261,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
