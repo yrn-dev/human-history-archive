@@ -22292,14 +22292,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 562",
       "timestamp": 1786813592.7726734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 563",
-      "variation": true
-    },
+      "timestamp": 1786813913.47985
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 563",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4473,
-    "total_planned": 20,
+    "total_completed": 4474,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
