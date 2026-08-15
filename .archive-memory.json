@@ -21522,14 +21522,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 544",
       "timestamp": 1786775363.2151837
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786775598.4330242
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4319,
-    "total_planned": 32,
+    "total_completed": 4320,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
