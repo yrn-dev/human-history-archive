@@ -21247,14 +21247,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 535",
       "timestamp": 1786762694.4172115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 536",
-      "variation": true
-    },
+      "timestamp": 1786762958.8731647
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4264,
-    "total_planned": 16,
+    "total_completed": 4265,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
