@@ -22282,14 +22282,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 560",
       "timestamp": 1786813125.2468152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786813400.1954606
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4471,
-    "total_planned": 22,
+    "total_completed": 4472,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
