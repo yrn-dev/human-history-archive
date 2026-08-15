@@ -21507,14 +21507,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 425",
       "timestamp": 1786774691.1683083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 545",
-      "variation": true
-    },
+      "timestamp": 1786774883.9222085
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4316,
-    "total_planned": 35,
+    "total_completed": 4317,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
