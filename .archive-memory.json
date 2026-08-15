@@ -21617,14 +21617,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 542",
       "timestamp": 1786779908.660939
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786780281.519366
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 602",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4338,
-    "total_planned": 13,
+    "total_completed": 4339,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
