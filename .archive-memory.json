@@ -22132,14 +22132,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 439",
       "timestamp": 1786805506.6017802
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786805748.8653426
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4441,
-    "total_planned": 52,
+    "total_completed": 4442,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
