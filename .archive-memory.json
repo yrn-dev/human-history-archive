@@ -22397,14 +22397,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 632",
       "timestamp": 1786818681.3768537
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786818859.6114736
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4494,
-    "total_planned": 70,
+    "total_completed": 4495,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
