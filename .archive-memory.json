@@ -22727,14 +22727,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 569",
       "timestamp": 1786833811.7476292
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786834076.8008752
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4560,
-    "total_planned": 4,
+    "total_completed": 4561,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
