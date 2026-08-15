@@ -21322,18 +21322,17 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 418",
       "timestamp": 1786766128.936994
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 533",
-      "variation": true
+      "timestamp": 1786766273.9607553
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 4279,
-    "total_planned": 1,
+    "total_completed": 4280,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
