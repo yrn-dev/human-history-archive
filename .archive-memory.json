@@ -21242,14 +21242,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 418",
       "timestamp": 1786762436.6935682
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786762694.4172115
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 536",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4263,
-    "total_planned": 17,
+    "total_completed": 4264,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
