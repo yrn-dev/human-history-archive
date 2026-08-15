@@ -21837,14 +21837,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 553",
       "timestamp": 1786791366.1443002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786791509.9891055
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4382,
-    "total_planned": 40,
+    "total_completed": 4383,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
