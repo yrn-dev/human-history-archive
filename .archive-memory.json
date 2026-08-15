@@ -22792,14 +22792,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 580",
       "timestamp": 1786836628.0484285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 581",
-      "variation": true
-    },
+      "timestamp": 1786836922.979604
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4573,
-    "total_planned": 62,
+    "total_completed": 4574,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
