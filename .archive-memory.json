@@ -22427,14 +22427,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 569",
       "timestamp": 1786820013.6373348
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786820297.021519
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4500,
-    "total_planned": 64,
+    "total_completed": 4501,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
