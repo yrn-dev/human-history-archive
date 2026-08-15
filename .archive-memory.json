@@ -21632,14 +21632,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 545",
       "timestamp": 1786780843.9905446
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786781270.3336632
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4341,
-    "total_planned": 10,
+    "total_completed": 4342,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
