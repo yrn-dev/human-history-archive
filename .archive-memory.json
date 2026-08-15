@@ -22322,14 +22322,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 560",
       "timestamp": 1786815164.1171784
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 563",
-      "variation": true
-    },
+      "timestamp": 1786815477.7884195
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 622",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4479,
-    "total_planned": 14,
+    "total_completed": 4480,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
