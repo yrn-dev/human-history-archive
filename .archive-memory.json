@@ -21337,14 +21337,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 425",
       "timestamp": 1786766756.8055074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786766998.9937463
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 545",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4282,
-    "total_planned": 69,
+    "total_completed": 4283,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
