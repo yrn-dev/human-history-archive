@@ -21092,14 +21092,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 535",
       "timestamp": 1786755317.4605663
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786755578.1320214
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4233,
-    "total_planned": 47,
+    "total_completed": 4234,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
