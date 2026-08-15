@@ -21077,14 +21077,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 535",
       "timestamp": 1786754717.1228826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786754926.7963703
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4230,
-    "total_planned": 50,
+    "total_completed": 4231,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
