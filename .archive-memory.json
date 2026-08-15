@@ -22777,14 +22777,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 453",
       "timestamp": 1786836016.2269084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1786836254.386895
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 642",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4570,
-    "total_planned": 65,
+    "total_completed": 4571,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
