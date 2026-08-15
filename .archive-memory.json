@@ -22767,14 +22767,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 578",
       "timestamp": 1786835665.3576872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1786835868.1596143
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 453",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4568,
-    "total_planned": 67,
+    "total_completed": 4569,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
