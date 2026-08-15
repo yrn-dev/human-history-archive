@@ -22422,14 +22422,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 571",
       "timestamp": 1786819832.7181215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786820013.6373348
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4499,
-    "total_planned": 65,
+    "total_completed": 4500,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
