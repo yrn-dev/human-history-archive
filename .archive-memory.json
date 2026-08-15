@@ -21537,14 +21537,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 542",
       "timestamp": 1786776067.9004695
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1786776343.7619843
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4322,
-    "total_planned": 29,
+    "total_completed": 4323,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
