@@ -21892,14 +21892,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 553",
       "timestamp": 1786793848.147187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786794076.002514
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 554",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4393,
-    "total_planned": 29,
+    "total_completed": 4394,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
