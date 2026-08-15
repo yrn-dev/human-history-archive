@@ -22492,14 +22492,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 572",
       "timestamp": 1786823247.2406304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786823535.3711395
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4513,
-    "total_planned": 51,
+    "total_completed": 4514,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
