@@ -21642,14 +21642,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 542",
       "timestamp": 1786781496.729432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786781895.382694
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 602",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4343,
-    "total_planned": 8,
+    "total_completed": 4344,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
