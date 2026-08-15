@@ -21127,14 +21127,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 535",
       "timestamp": 1786757044.2375042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786757226.1820707
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 592",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4240,
-    "total_planned": 40,
+    "total_completed": 4241,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
