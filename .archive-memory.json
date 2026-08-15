@@ -22082,14 +22082,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 562",
       "timestamp": 1786803061.873546
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 622",
-      "variation": true
-    },
+      "timestamp": 1786803258.4645681
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4431,
-    "total_planned": 62,
+    "total_completed": 4432,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
