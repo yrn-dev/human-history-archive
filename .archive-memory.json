@@ -21482,14 +21482,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 542",
       "timestamp": 1786773542.105495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786773786.0468774
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4311,
-    "total_planned": 40,
+    "total_completed": 4312,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
