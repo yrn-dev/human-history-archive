@@ -21282,14 +21282,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 535",
       "timestamp": 1786764254.8559208
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 592",
-      "variation": true
-    },
+      "timestamp": 1786764559.3558466
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 536",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4271,
-    "total_planned": 9,
+    "total_completed": 4272,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
