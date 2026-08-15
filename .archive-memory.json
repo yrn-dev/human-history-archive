@@ -22297,14 +22297,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 563",
       "timestamp": 1786813913.47985
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 563",
-      "variation": true
-    },
+      "timestamp": 1786814112.3937972
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4474,
-    "total_planned": 19,
+    "total_completed": 4475,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
