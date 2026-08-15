@@ -21992,14 +21992,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 551",
       "timestamp": 1786799001.5374956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 554",
-      "variation": true
-    },
+      "timestamp": 1786799241.5588634
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4413,
-    "total_planned": 9,
+    "total_completed": 4414,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
