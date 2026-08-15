@@ -21842,14 +21842,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 553",
       "timestamp": 1786791509.9891055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786791744.2815464
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 432",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4383,
-    "total_planned": 39,
+    "total_completed": 4384,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
