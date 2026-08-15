@@ -22247,14 +22247,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 560",
       "timestamp": 1786811360.1877153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 563",
-      "variation": true
-    },
+      "timestamp": 1786811631.4421568
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4464,
-    "total_planned": 29,
+    "total_completed": 4465,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
