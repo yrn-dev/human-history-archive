@@ -22667,14 +22667,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 571",
       "timestamp": 1786831393.5898347
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786831542.660808
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 572",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4548,
-    "total_planned": 16,
+    "total_completed": 4549,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
