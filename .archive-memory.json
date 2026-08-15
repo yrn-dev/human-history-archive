@@ -22677,14 +22677,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 572",
       "timestamp": 1786831841.840676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786832020.2851055
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 632",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4550,
-    "total_planned": 14,
+    "total_completed": 4551,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
