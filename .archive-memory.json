@@ -22687,14 +22687,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 632",
       "timestamp": 1786832165.709676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786832316.0917006
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4552,
-    "total_planned": 12,
+    "total_completed": 4553,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
