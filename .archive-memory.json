@@ -21832,14 +21832,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 553",
       "timestamp": 1786791122.4203486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786791366.1443002
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4381,
-    "total_planned": 41,
+    "total_completed": 4382,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
