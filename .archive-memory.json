@@ -22737,14 +22737,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 571",
       "timestamp": 1786834325.6347597
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786834556.8299925
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4562,
-    "total_planned": 2,
+    "total_completed": 4563,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
