@@ -22662,14 +22662,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 571",
       "timestamp": 1786831224.4464316
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786831393.5898347
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4547,
-    "total_planned": 17,
+    "total_completed": 4548,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
