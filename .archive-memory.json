@@ -21757,14 +21757,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 432",
       "timestamp": 1786787306.8970284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1786787573.1718102
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 612",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4366,
-    "total_planned": 56,
+    "total_completed": 4367,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
