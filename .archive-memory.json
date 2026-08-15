@@ -21307,14 +21307,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 418",
       "timestamp": 1786765413.974935
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786765567.6642137
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4276,
-    "total_planned": 4,
+    "total_completed": 4277,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
