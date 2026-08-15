@@ -21492,14 +21492,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 542",
       "timestamp": 1786773933.6192396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786774194.284176
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4313,
-    "total_planned": 38,
+    "total_completed": 4314,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
