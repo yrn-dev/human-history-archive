@@ -21702,14 +21702,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 554",
       "timestamp": 1786784501.1301188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786784765.463369
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4355,
-    "total_planned": 67,
+    "total_completed": 4356,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
