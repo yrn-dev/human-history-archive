@@ -22712,14 +22712,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 571",
       "timestamp": 1786833129.4237905
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786833440.933523
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4557,
-    "total_planned": 7,
+    "total_completed": 4558,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
