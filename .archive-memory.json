@@ -22532,14 +22532,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 571",
       "timestamp": 1786825156.751862
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786825354.1324923
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4521,
-    "total_planned": 43,
+    "total_completed": 4522,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
