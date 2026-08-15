@@ -21122,14 +21122,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 535",
       "timestamp": 1786756715.169965
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786757044.2375042
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4239,
-    "total_planned": 41,
+    "total_completed": 4240,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
