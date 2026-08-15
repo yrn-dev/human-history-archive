@@ -21847,14 +21847,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 551",
       "timestamp": 1786791744.2815464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1786792009.9238997
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 554",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4384,
-    "total_planned": 38,
+    "total_completed": 4385,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
