@@ -22567,14 +22567,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 569",
       "timestamp": 1786826805.9548671
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786827103.4151437
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 572",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4528,
-    "total_planned": 36,
+    "total_completed": 4529,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
