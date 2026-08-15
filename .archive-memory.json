@@ -22592,14 +22592,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 571",
       "timestamp": 1786828104.3858101
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786828299.7747254
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 446",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4533,
-    "total_planned": 31,
+    "total_completed": 4534,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
