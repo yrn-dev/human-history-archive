@@ -22622,14 +22622,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 571",
       "timestamp": 1786829396.4172401
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786829710.2050147
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4539,
-    "total_planned": 25,
+    "total_completed": 4540,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
