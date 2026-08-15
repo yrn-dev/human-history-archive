@@ -21802,14 +21802,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 553",
       "timestamp": 1786789844.9178686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786790003.2825072
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4375,
-    "total_planned": 47,
+    "total_completed": 4376,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
