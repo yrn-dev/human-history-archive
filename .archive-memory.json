@@ -21467,14 +21467,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 602",
       "timestamp": 1786772848.472411
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786773129.1853678
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 545",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4308,
-    "total_planned": 43,
+    "total_completed": 4309,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
