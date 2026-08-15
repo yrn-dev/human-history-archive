@@ -21622,14 +21622,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 544",
       "timestamp": 1786780281.519366
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786780614.8359857
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 545",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4339,
-    "total_planned": 12,
+    "total_completed": 4340,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
