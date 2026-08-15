@@ -22822,14 +22822,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 580",
       "timestamp": 1786837967.7012603
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786838123.9321477
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4579,
-    "total_planned": 56,
+    "total_completed": 4580,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
