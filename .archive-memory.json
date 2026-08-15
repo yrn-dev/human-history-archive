@@ -21637,14 +21637,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 544",
       "timestamp": 1786781270.3336632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786781496.729432
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 602",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4342,
-    "total_planned": 9,
+    "total_completed": 4343,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
