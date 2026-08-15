@@ -21667,14 +21667,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 545",
       "timestamp": 1786782908.850729
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786783175.2155173
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4348,
-    "total_planned": 3,
+    "total_completed": 4349,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
