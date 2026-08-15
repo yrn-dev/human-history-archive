@@ -22112,14 +22112,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 562",
       "timestamp": 1786804360.1102028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 439",
-      "variation": true
-    },
+      "timestamp": 1786804647.8834758
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4437,
-    "total_planned": 56,
+    "total_completed": 4438,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
