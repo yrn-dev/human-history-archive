@@ -22672,14 +22672,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 569",
       "timestamp": 1786831542.660808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786831841.840676
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4549,
-    "total_planned": 15,
+    "total_completed": 4550,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
