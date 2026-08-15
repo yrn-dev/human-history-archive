@@ -21017,14 +21017,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 535",
       "timestamp": 1786751915.1915085
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786752185.3395956
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4218,
-    "total_planned": 62,
+    "total_completed": 4219,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
