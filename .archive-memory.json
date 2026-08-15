@@ -21577,14 +21577,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 602",
       "timestamp": 1786777601.0983377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786777905.6831713
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4330,
-    "total_planned": 21,
+    "total_completed": 4331,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
