@@ -21612,14 +21612,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 542",
       "timestamp": 1786779697.9987578
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786779908.660939
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4337,
-    "total_planned": 14,
+    "total_completed": 4338,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
