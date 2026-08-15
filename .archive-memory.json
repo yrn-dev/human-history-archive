@@ -21142,14 +21142,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 535",
       "timestamp": 1786757838.5522885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1786758105.0174484
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4243,
-    "total_planned": 37,
+    "total_completed": 4244,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
