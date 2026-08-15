@@ -21817,14 +21817,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 553",
       "timestamp": 1786790619.6163013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786790768.3075702
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4378,
-    "total_planned": 44,
+    "total_completed": 4379,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
