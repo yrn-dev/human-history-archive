@@ -22207,14 +22207,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 560",
       "timestamp": 1786809131.0325823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786809440.407186
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 622",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4456,
-    "total_planned": 37,
+    "total_completed": 4457,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
