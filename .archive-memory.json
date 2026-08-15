@@ -22212,14 +22212,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 562",
       "timestamp": 1786809440.407186
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 622",
-      "variation": true
-    },
+      "timestamp": 1786809754.9656837
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 439",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4457,
-    "total_planned": 36,
+    "total_completed": 4458,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
