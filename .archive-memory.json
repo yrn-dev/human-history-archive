@@ -22252,14 +22252,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 563",
       "timestamp": 1786811631.4421568
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786811954.7037663
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 439",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4465,
-    "total_planned": 28,
+    "total_completed": 4466,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
