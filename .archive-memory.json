@@ -21967,14 +21967,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 612",
       "timestamp": 1786797730.371389
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786798029.552461
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 612",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4408,
-    "total_planned": 14,
+    "total_completed": 4409,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
