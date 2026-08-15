@@ -21782,14 +21782,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 551",
       "timestamp": 1786788691.8989167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786789006.517872
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 554",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4371,
-    "total_planned": 51,
+    "total_completed": 4372,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
