@@ -22107,14 +22107,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 562",
       "timestamp": 1786804224.3249614
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786804360.1102028
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 439",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4436,
-    "total_planned": 57,
+    "total_completed": 4437,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
