@@ -21067,14 +21067,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 533",
       "timestamp": 1786754406.0282555
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786754547.5872147
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4228,
-    "total_planned": 52,
+    "total_completed": 4229,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
