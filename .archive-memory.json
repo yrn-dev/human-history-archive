@@ -22512,14 +22512,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 632",
       "timestamp": 1786824275.6729152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786824521.2538393
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4517,
-    "total_planned": 47,
+    "total_completed": 4518,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
