@@ -21267,14 +21267,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 533",
       "timestamp": 1786763625.1894984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1786763779.8119783
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 536",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4268,
-    "total_planned": 12,
+    "total_completed": 4269,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
