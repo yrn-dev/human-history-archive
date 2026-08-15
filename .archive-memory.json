@@ -21807,14 +21807,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 553",
       "timestamp": 1786790003.2825072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786790308.3115933
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4376,
-    "total_planned": 46,
+    "total_completed": 4377,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
