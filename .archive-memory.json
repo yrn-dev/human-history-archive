@@ -21277,14 +21277,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 536",
       "timestamp": 1786764033.7109087
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786764254.8559208
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 592",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4270,
-    "total_planned": 10,
+    "total_completed": 4271,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
