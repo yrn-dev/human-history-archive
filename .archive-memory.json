@@ -21312,14 +21312,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 533",
       "timestamp": 1786765567.6642137
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786765880.3661828
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 418",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4277,
-    "total_planned": 3,
+    "total_completed": 4278,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
