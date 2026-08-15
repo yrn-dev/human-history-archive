@@ -22167,14 +22167,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 562",
       "timestamp": 1786807080.3997953
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 563",
-      "variation": true
-    },
+      "timestamp": 1786807359.0561812
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4448,
-    "total_planned": 45,
+    "total_completed": 4449,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
