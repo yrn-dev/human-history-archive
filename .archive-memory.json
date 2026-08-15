@@ -22352,14 +22352,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 563",
       "timestamp": 1786816514.1124644
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 622",
-      "variation": true
-    },
+      "timestamp": 1786816705.0865712
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 622",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4485,
-    "total_planned": 8,
+    "total_completed": 4486,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
