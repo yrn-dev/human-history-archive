@@ -22542,14 +22542,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 569",
       "timestamp": 1786825609.3631923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786825862.3964982
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4523,
-    "total_planned": 41,
+    "total_completed": 4524,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
