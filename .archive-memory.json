@@ -21662,14 +21662,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 425",
       "timestamp": 1786782571.756482
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 545",
-      "variation": true
-    },
+      "timestamp": 1786782908.850729
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4347,
-    "total_planned": 4,
+    "total_completed": 4348,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
