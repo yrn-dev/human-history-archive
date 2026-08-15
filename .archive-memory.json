@@ -21717,14 +21717,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 551",
       "timestamp": 1786785259.3669422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 612",
-      "variation": true
-    },
+      "timestamp": 1786785410.2055924
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4358,
-    "total_planned": 64,
+    "total_completed": 4359,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
