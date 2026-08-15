@@ -21022,14 +21022,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 533",
       "timestamp": 1786752185.3395956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786752456.7024598
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4219,
-    "total_planned": 61,
+    "total_completed": 4220,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
