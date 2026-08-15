@@ -22802,14 +22802,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 580",
       "timestamp": 1786837219.8646183
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786837387.8683617
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4575,
-    "total_planned": 60,
+    "total_completed": 4576,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
