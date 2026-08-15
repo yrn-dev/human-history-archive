@@ -21162,14 +21162,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 592",
       "timestamp": 1786758891.6173878
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 536",
-      "variation": true
-    },
+      "timestamp": 1786759118.4909055
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 418",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4247,
-    "total_planned": 33,
+    "total_completed": 4248,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
