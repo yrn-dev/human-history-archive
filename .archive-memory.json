@@ -22617,14 +22617,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 572",
       "timestamp": 1786829156.0091379
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786829396.4172401
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 572",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4538,
-    "total_planned": 26,
+    "total_completed": 4539,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
