@@ -21692,14 +21692,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 554",
       "timestamp": 1786784080.9256785
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786784237.0279508
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 554",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4353,
-    "total_planned": 69,
+    "total_completed": 4354,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
