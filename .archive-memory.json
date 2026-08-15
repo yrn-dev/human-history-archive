@@ -22582,14 +22582,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 571",
       "timestamp": 1786827569.8387666
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1786827830.8904393
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4531,
-    "total_planned": 33,
+    "total_completed": 4532,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
