@@ -21872,14 +21872,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 553",
       "timestamp": 1786792876.5588791
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1786793088.6047132
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4389,
-    "total_planned": 33,
+    "total_completed": 4390,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
