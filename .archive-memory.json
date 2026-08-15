@@ -21742,14 +21742,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 551",
       "timestamp": 1786786514.8694148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 612",
-      "variation": true
-    },
+      "timestamp": 1786786681.0795064
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 432",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4363,
-    "total_planned": 59,
+    "total_completed": 4364,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
