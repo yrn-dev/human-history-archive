@@ -21172,14 +21172,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 418",
       "timestamp": 1786759427.4379916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786759676.7024734
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 536",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4249,
-    "total_planned": 31,
+    "total_completed": 4250,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
