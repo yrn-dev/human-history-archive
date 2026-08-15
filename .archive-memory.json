@@ -21582,14 +21582,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 544",
       "timestamp": 1786777905.6831713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786778218.1597004
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4331,
-    "total_planned": 20,
+    "total_completed": 4332,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
