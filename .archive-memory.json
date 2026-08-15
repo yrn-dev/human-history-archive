@@ -21462,14 +21462,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 544",
       "timestamp": 1786772544.2598147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786772848.472411
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4307,
-    "total_planned": 44,
+    "total_completed": 4308,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
