@@ -22772,14 +22772,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 642",
       "timestamp": 1786835868.1596143
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 453",
-      "variation": true
-    },
+      "timestamp": 1786836016.2269084
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 642",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4569,
-    "total_planned": 66,
+    "total_completed": 4570,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
