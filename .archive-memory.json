@@ -21082,14 +21082,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 533",
       "timestamp": 1786754926.7963703
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786755086.3417182
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4231,
-    "total_planned": 49,
+    "total_completed": 4232,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
