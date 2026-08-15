@@ -22552,14 +22552,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 571",
       "timestamp": 1786826123.1804721
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1786826384.0849736
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 632",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4525,
-    "total_planned": 39,
+    "total_completed": 4526,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
