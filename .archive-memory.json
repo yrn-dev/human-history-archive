@@ -21882,14 +21882,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 551",
       "timestamp": 1786793334.82522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 554",
-      "variation": true
-    },
+      "timestamp": 1786793636.3634033
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4391,
-    "total_planned": 31,
+    "total_completed": 4392,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
