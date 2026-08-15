@@ -22222,14 +22222,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 439",
       "timestamp": 1786810021.563979
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786810324.3017907
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 622",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4459,
-    "total_planned": 34,
+    "total_completed": 4460,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
