@@ -22527,14 +22527,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 632",
       "timestamp": 1786825002.79932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786825156.751862
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4520,
-    "total_planned": 44,
+    "total_completed": 4521,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
