@@ -22817,14 +22817,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 580",
       "timestamp": 1786837699.2393053
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786837967.7012603
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4578,
-    "total_planned": 57,
+    "total_completed": 4579,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
