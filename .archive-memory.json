@@ -22702,14 +22702,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 571",
       "timestamp": 1786832657.0117311
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786832865.4931574
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4555,
-    "total_planned": 9,
+    "total_completed": 4556,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
