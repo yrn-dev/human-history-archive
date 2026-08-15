@@ -21707,14 +21707,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 551",
       "timestamp": 1786784765.463369
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786784992.7844489
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4356,
-    "total_planned": 66,
+    "total_completed": 4357,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
