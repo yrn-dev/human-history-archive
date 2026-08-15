@@ -22517,14 +22517,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 572",
       "timestamp": 1786824521.2538393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786824809.4139743
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 632",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4518,
-    "total_planned": 46,
+    "total_completed": 4519,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
