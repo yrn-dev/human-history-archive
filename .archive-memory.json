@@ -21677,18 +21677,17 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 542",
       "timestamp": 1786783375.3441076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 545",
-      "variation": true
+      "timestamp": 1786783622.7880569
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 4350,
-    "total_planned": 1,
+    "total_completed": 4351,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
