@@ -22317,14 +22317,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 562",
       "timestamp": 1786814984.9347756
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786815164.1171784
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 563",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4478,
-    "total_planned": 15,
+    "total_completed": 4479,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
