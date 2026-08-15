@@ -21367,14 +21367,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 425",
       "timestamp": 1786768112.113636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786768396.791383
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4288,
-    "total_planned": 63,
+    "total_completed": 4289,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
