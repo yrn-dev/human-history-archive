@@ -21332,14 +21332,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 544",
       "timestamp": 1786766453.6017995
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1786766756.8055074
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4281,
-    "total_planned": 70,
+    "total_completed": 4282,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
