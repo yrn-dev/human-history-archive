@@ -22312,14 +22312,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 439",
       "timestamp": 1786814657.0489626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786814984.9347756
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4477,
-    "total_planned": 16,
+    "total_completed": 4478,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
