@@ -21932,14 +21932,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 612",
       "timestamp": 1786796054.8618486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786796192.2863064
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4401,
-    "total_planned": 21,
+    "total_completed": 4402,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
