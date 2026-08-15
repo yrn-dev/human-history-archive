@@ -21102,14 +21102,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 535",
       "timestamp": 1786755867.9732156
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786756041.1679184
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4235,
-    "total_planned": 45,
+    "total_completed": 4236,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
