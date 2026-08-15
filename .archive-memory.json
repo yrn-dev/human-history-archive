@@ -21982,14 +21982,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 553",
       "timestamp": 1786798604.046968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786798841.2611735
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4411,
-    "total_planned": 11,
+    "total_completed": 4412,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
