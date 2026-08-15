@@ -21512,14 +21512,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 545",
       "timestamp": 1786774883.9222085
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786775178.6747339
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4317,
-    "total_planned": 34,
+    "total_completed": 4318,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
