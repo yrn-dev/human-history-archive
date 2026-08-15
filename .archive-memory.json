@@ -21437,14 +21437,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 544",
       "timestamp": 1786771361.8271866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786771533.7549205
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4302,
-    "total_planned": 49,
+    "total_completed": 4303,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
