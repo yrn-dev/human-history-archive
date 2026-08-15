@@ -21487,14 +21487,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 544",
       "timestamp": 1786773786.0468774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786773933.6192396
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 602",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4312,
-    "total_planned": 39,
+    "total_completed": 4313,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
