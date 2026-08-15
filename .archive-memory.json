@@ -21372,14 +21372,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 544",
       "timestamp": 1786768396.791383
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786768597.9613557
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4289,
-    "total_planned": 62,
+    "total_completed": 4290,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
