@@ -21687,14 +21687,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 432",
       "timestamp": 1786783869.8658075
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 554",
-      "variation": true
-    },
+      "timestamp": 1786784080.9256785
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4352,
-    "total_planned": 70,
+    "total_completed": 4353,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
