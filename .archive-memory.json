@@ -22047,14 +22047,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 560",
       "timestamp": 1786801555.069224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786801763.2222526
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4424,
-    "total_planned": 69,
+    "total_completed": 4425,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
