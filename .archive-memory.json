@@ -22232,14 +22232,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 622",
       "timestamp": 1786810597.4123483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 439",
-      "variation": true
-    },
+      "timestamp": 1786810841.1643164
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4461,
-    "total_planned": 32,
+    "total_completed": 4462,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
