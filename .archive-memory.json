@@ -21557,14 +21557,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 544",
       "timestamp": 1786776877.308791
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786777114.327434
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 602",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4326,
-    "total_planned": 25,
+    "total_completed": 4327,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
