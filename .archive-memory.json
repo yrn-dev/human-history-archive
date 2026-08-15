@@ -22577,14 +22577,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 572",
       "timestamp": 1786827302.4839652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786827569.8387666
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 446",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4530,
-    "total_planned": 34,
+    "total_completed": 4531,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
