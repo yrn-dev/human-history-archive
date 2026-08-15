@@ -21732,14 +21732,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 612",
       "timestamp": 1786785851.0088263
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786786213.0362742
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4361,
-    "total_planned": 61,
+    "total_completed": 4362,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
