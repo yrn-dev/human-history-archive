@@ -22487,14 +22487,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 569",
       "timestamp": 1786823105.4432373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1786823247.2406304
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 632",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4512,
-    "total_planned": 52,
+    "total_completed": 4513,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
