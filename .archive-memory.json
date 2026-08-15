@@ -22267,14 +22267,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 562",
       "timestamp": 1786812393.1733549
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 622",
-      "variation": true
-    },
+      "timestamp": 1786812610.3588634
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4468,
-    "total_planned": 25,
+    "total_completed": 4469,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
