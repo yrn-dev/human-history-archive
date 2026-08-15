@@ -21647,14 +21647,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 602",
       "timestamp": 1786781895.382694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786782062.4819074
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4344,
-    "total_planned": 7,
+    "total_completed": 4345,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
