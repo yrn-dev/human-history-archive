@@ -21792,14 +21792,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 554",
       "timestamp": 1786789381.3468335
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786789551.0549755
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4373,
-    "total_planned": 49,
+    "total_completed": 4374,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
