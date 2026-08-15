@@ -22227,14 +22227,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 560",
       "timestamp": 1786810324.3017907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 622",
-      "variation": true
-    },
+      "timestamp": 1786810597.4123483
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 439",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4460,
-    "total_planned": 33,
+    "total_completed": 4461,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
