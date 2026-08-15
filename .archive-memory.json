@@ -22032,18 +22032,17 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 553",
       "timestamp": 1786800959.7599123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 612",
-      "variation": true
+      "timestamp": 1786801122.280306
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 4421,
-    "total_planned": 1,
+    "total_completed": 4422,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
