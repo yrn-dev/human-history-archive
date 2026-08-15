@@ -22367,14 +22367,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 560",
       "timestamp": 1786817216.144893
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786817422.4286945
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4488,
-    "total_planned": 5,
+    "total_completed": 4489,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
