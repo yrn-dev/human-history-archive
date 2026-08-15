@@ -22477,14 +22477,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 569",
       "timestamp": 1786822721.0043056
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1786822948.552749
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4510,
-    "total_planned": 54,
+    "total_completed": 4511,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
