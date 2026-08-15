@@ -21112,14 +21112,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 533",
       "timestamp": 1786756216.6236959
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786756540.2248178
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4237,
-    "total_planned": 43,
+    "total_completed": 4238,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
