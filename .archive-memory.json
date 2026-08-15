@@ -21072,14 +21072,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 533",
       "timestamp": 1786754547.5872147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786754717.1228826
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4229,
-    "total_planned": 51,
+    "total_completed": 4230,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
