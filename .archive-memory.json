@@ -22307,14 +22307,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 560",
       "timestamp": 1786814394.4922898
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 439",
-      "variation": true
-    },
+      "timestamp": 1786814657.0489626
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4476,
-    "total_planned": 17,
+    "total_completed": 4477,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
