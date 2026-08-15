@@ -22387,18 +22387,17 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 560",
       "timestamp": 1786818228.98244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 562",
-      "variation": true
+      "timestamp": 1786818531.5861943
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 4492,
-    "total_planned": 1,
+    "total_completed": 4493,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
