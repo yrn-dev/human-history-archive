@@ -22762,14 +22762,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 578",
       "timestamp": 1786835497.5493333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786835665.3576872
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 642",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4567,
-    "total_planned": 68,
+    "total_completed": 4568,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
