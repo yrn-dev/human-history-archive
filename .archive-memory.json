@@ -21232,14 +21232,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 535",
       "timestamp": 1786761977.420341
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786762142.7961462
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 418",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4261,
-    "total_planned": 19,
+    "total_completed": 4262,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
