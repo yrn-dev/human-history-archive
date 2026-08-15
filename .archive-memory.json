@@ -22122,14 +22122,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 562",
       "timestamp": 1786804901.045479
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786805244.0675614
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 439",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4439,
-    "total_planned": 54,
+    "total_completed": 4440,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
