@@ -22692,14 +22692,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 569",
       "timestamp": 1786832316.0917006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786832495.4991658
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4553,
-    "total_planned": 11,
+    "total_completed": 4554,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
