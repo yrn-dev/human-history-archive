@@ -21177,14 +21177,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 535",
       "timestamp": 1786759676.7024734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 536",
-      "variation": true
-    },
+      "timestamp": 1786759844.090379
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 418",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4250,
-    "total_planned": 30,
+    "total_completed": 4251,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
