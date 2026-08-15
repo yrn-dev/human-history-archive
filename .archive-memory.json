@@ -21752,14 +21752,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 432",
       "timestamp": 1786786999.9503121
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 432",
-      "variation": true
-    },
+      "timestamp": 1786787306.8970284
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 432",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4365,
-    "total_planned": 57,
+    "total_completed": 4366,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
