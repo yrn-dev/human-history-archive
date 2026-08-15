@@ -22142,14 +22142,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 562",
       "timestamp": 1786805924.8044384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 563",
-      "variation": true
-    },
+      "timestamp": 1786806076.0556524
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4443,
-    "total_planned": 50,
+    "total_completed": 4444,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
