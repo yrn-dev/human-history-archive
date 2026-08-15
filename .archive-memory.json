@@ -22002,14 +22002,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 553",
       "timestamp": 1786799536.3145485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786799780.7790115
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 612",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4415,
-    "total_planned": 7,
+    "total_completed": 4416,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
