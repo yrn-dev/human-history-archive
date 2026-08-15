@@ -21057,14 +21057,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 535",
       "timestamp": 1786753908.9712396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 535",
-      "variation": true
-    },
+      "timestamp": 1786754194.8068552
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4226,
-    "total_planned": 54,
+    "total_completed": 4227,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
