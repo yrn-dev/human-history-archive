@@ -22442,14 +22442,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 569",
       "timestamp": 1786820862.6389763
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786821094.5661528
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 569",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4503,
-    "total_planned": 61,
+    "total_completed": 4504,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
