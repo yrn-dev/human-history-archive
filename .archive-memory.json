@@ -21032,14 +21032,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 535",
       "timestamp": 1786752764.9343085
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 536",
-      "variation": true
-    },
+      "timestamp": 1786752972.781965
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4221,
-    "total_planned": 59,
+    "total_completed": 4222,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
