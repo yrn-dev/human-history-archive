@@ -22462,14 +22462,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 571",
       "timestamp": 1786821868.057641
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1786822196.9641027
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 446",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4507,
-    "total_planned": 57,
+    "total_completed": 4508,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
