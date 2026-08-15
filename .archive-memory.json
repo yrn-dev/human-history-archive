@@ -22157,14 +22157,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 562",
       "timestamp": 1786806466.0606692
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786806772.2925072
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4446,
-    "total_planned": 47,
+    "total_completed": 4447,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
