@@ -22102,14 +22102,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 622",
       "timestamp": 1786803959.3759692
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786804224.3249614
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4435,
-    "total_planned": 58,
+    "total_completed": 4436,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
