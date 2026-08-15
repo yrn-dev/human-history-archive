@@ -22407,14 +22407,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 571",
       "timestamp": 1786819067.1597416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 571",
-      "variation": true
-    },
+      "timestamp": 1786819380.0155966
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4496,
-    "total_planned": 68,
+    "total_completed": 4497,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
