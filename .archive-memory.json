@@ -21237,14 +21237,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 535",
       "timestamp": 1786762142.7961462
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1786762436.6935682
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4262,
-    "total_planned": 18,
+    "total_completed": 4263,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
