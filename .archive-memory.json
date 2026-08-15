@@ -22342,14 +22342,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 562",
       "timestamp": 1786816130.2073927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786816276.8003888
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 563",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4483,
-    "total_planned": 10,
+    "total_completed": 4484,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
