@@ -22787,14 +22787,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 642",
       "timestamp": 1786836493.0909357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786836628.0484285
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 581",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4572,
-    "total_planned": 63,
+    "total_completed": 4573,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
