@@ -22092,14 +22092,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 562",
       "timestamp": 1786803556.9387329
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 563",
-      "variation": true
-    },
+      "timestamp": 1786803816.300555
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 622",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4433,
-    "total_planned": 60,
+    "total_completed": 4434,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
