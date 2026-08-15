@@ -21252,14 +21252,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 536",
       "timestamp": 1786762958.8731647
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 533",
-      "variation": true
-    },
+      "timestamp": 1786763223.3230977
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 592",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4265,
-    "total_planned": 15,
+    "total_completed": 4266,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
