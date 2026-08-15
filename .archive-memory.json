@@ -22012,14 +22012,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 612",
       "timestamp": 1786800062.855769
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786800300.8733199
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 432",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4417,
-    "total_planned": 5,
+    "total_completed": 4418,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
