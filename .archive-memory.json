@@ -21502,14 +21502,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 544",
       "timestamp": 1786774428.9437754
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 425",
-      "variation": true
-    },
+      "timestamp": 1786774691.1683083
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 545",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4315,
-    "total_planned": 36,
+    "total_completed": 4316,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
