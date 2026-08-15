@@ -22077,14 +22077,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 562",
       "timestamp": 1786802874.3279042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786803061.873546
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 622",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4430,
-    "total_planned": 63,
+    "total_completed": 4431,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
