@@ -22137,14 +22137,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 562",
       "timestamp": 1786805748.8653426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786805924.8044384
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 563",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4442,
-    "total_planned": 51,
+    "total_completed": 4443,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
