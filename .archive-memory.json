@@ -22347,14 +22347,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 560",
       "timestamp": 1786816276.8003888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 563",
-      "variation": true
-    },
+      "timestamp": 1786816514.1124644
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 622",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4484,
-    "total_planned": 9,
+    "total_completed": 4485,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
