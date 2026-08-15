@@ -22827,14 +22827,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 578",
       "timestamp": 1786838123.9321477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786838339.8237758
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 581",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4580,
-    "total_planned": 55,
+    "total_completed": 4581,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
