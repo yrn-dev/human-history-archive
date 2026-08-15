@@ -21257,14 +21257,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 533",
       "timestamp": 1786763223.3230977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 592",
-      "variation": true
-    },
+      "timestamp": 1786763368.9719646
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 533",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4266,
-    "total_planned": 14,
+    "total_completed": 4267,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
