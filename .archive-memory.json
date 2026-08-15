@@ -21997,14 +21997,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 554",
       "timestamp": 1786799241.5588634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 553",
-      "variation": true
-    },
+      "timestamp": 1786799536.3145485
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4414,
-    "total_planned": 8,
+    "total_completed": 4415,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
