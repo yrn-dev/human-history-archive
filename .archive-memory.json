@@ -21167,14 +21167,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 536",
       "timestamp": 1786759118.4909055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 418",
-      "variation": true
-    },
+      "timestamp": 1786759427.4379916
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4248,
-    "total_planned": 32,
+    "total_completed": 4249,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
