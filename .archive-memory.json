@@ -22257,14 +22257,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 560",
       "timestamp": 1786811954.7037663
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 439",
-      "variation": true
-    },
+      "timestamp": 1786812114.7668169
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4466,
-    "total_planned": 27,
+    "total_completed": 4467,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
