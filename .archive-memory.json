@@ -21132,14 +21132,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 533",
       "timestamp": 1786757226.1820707
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 592",
-      "variation": true
-    },
+      "timestamp": 1786757566.7582223
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 535",
@@ -21332,8 +21332,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4241,
-    "total_planned": 39,
+    "total_completed": 4242,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
