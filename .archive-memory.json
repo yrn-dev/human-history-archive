@@ -21987,14 +21987,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 553",
       "timestamp": 1786798841.2611735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786799001.5374956
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 554",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4412,
-    "total_planned": 10,
+    "total_completed": 4413,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
