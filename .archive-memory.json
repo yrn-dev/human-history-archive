@@ -22797,14 +22797,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 581",
       "timestamp": 1786836922.979604
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786837219.8646183
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4574,
-    "total_planned": 61,
+    "total_completed": 4575,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
