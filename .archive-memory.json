@@ -21412,14 +21412,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 544",
       "timestamp": 1786770189.9023771
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786770423.5316048
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 542",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4297,
-    "total_planned": 54,
+    "total_completed": 4298,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
