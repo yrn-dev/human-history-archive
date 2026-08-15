@@ -22642,14 +22642,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 572",
       "timestamp": 1786830266.4188914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786830539.9340034
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4543,
-    "total_planned": 21,
+    "total_completed": 4544,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
