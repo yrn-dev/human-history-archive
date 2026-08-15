@@ -22452,14 +22452,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 569",
       "timestamp": 1786821287.8699617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786821564.006045
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4505,
-    "total_planned": 59,
+    "total_completed": 4506,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
