@@ -21922,14 +21922,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 554",
       "timestamp": 1786795334.7460542
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786795755.2724724
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 612",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4399,
-    "total_planned": 23,
+    "total_completed": 4400,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
