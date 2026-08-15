@@ -21777,14 +21777,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 553",
       "timestamp": 1786788276.7799938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786788691.8989167
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 551",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4370,
-    "total_planned": 52,
+    "total_completed": 4371,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
