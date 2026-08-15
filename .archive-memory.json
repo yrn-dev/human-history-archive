@@ -21767,14 +21767,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 612",
       "timestamp": 1786787752.7152386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1786788045.7565076
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4368,
-    "total_planned": 54,
+    "total_completed": 4369,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
