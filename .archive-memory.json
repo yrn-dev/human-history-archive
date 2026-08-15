@@ -21567,14 +21567,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 602",
       "timestamp": 1786777300.8197353
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786777443.5588317
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 602",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4328,
-    "total_planned": 23,
+    "total_completed": 4329,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
