@@ -22052,14 +22052,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 560",
       "timestamp": 1786801763.2222526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 562",
-      "variation": true
-    },
+      "timestamp": 1786801983.8447187
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4425,
-    "total_planned": 68,
+    "total_completed": 4426,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
