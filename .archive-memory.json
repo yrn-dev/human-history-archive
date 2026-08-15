@@ -21347,14 +21347,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 545",
       "timestamp": 1786767134.6926937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786767442.7795854
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 602",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4284,
-    "total_planned": 67,
+    "total_completed": 4285,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
