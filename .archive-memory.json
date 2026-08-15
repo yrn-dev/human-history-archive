@@ -22382,14 +22382,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 562",
       "timestamp": 1786818037.045559
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 560",
-      "variation": true
-    },
+      "timestamp": 1786818228.98244
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 562",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4491,
-    "total_planned": 2,
+    "total_completed": 4492,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
