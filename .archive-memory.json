@@ -22562,14 +22562,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 632",
       "timestamp": 1786826557.4048874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 569",
-      "variation": true
-    },
+      "timestamp": 1786826805.9548671
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 571",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4527,
-    "total_planned": 37,
+    "total_completed": 4528,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
