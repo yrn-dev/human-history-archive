@@ -21542,14 +21542,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 425",
       "timestamp": 1786776343.7619843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 542",
-      "variation": true
-    },
+      "timestamp": 1786776552.3061478
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4323,
-    "total_planned": 28,
+    "total_completed": 4324,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
