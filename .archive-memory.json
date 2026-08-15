@@ -21352,14 +21352,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 542",
       "timestamp": 1786767442.7795854
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 602",
-      "variation": true
-    },
+      "timestamp": 1786767684.3403542
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 544",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4285,
-    "total_planned": 66,
+    "total_completed": 4286,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
