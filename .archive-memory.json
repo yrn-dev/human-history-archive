@@ -21357,14 +21357,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 602",
       "timestamp": 1786767684.3403542
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1786767872.8982732
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 425",
@@ -21687,8 +21687,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4286,
-    "total_planned": 65,
+    "total_completed": 4287,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
