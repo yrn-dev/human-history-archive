@@ -22607,14 +22607,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 571",
       "timestamp": 1786828712.947776
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786828963.9561212
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 572",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4536,
-    "total_planned": 28,
+    "total_completed": 4537,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
