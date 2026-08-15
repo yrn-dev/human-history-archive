@@ -22632,14 +22632,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 571",
       "timestamp": 1786829862.8921483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 446",
-      "variation": true
-    },
+      "timestamp": 1786830008.0152574
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 572",
@@ -22752,8 +22752,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4541,
-    "total_planned": 23,
+    "total_completed": 4542,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
