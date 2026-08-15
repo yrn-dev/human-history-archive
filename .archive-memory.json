@@ -22357,14 +22357,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 622",
       "timestamp": 1786816705.0865712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 622",
-      "variation": true
-    },
+      "timestamp": 1786816946.9196298
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 560",
@@ -22397,8 +22397,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4486,
-    "total_planned": 7,
+    "total_completed": 4487,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
