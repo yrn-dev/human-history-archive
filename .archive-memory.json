@@ -21962,14 +21962,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 551",
       "timestamp": 1786797438.3358076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 612",
-      "variation": true
-    },
+      "timestamp": 1786797730.371389
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 553",
@@ -22042,8 +22042,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4407,
-    "total_planned": 15,
+    "total_completed": 4408,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
