@@ -24127,14 +24127,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 672",
       "timestamp": 1786898358.2753956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 474",
-      "variation": true
-    },
+      "timestamp": 1786898537.6196086
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4840,
-    "total_planned": 8,
+    "total_completed": 4841,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
