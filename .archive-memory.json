@@ -23197,14 +23197,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 589",
       "timestamp": 1786855066.691818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 590",
-      "variation": true
-    },
+      "timestamp": 1786855281.37361
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4654,
-    "total_planned": 52,
+    "total_completed": 4655,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
