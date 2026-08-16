@@ -23657,14 +23657,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 598",
       "timestamp": 1786876112.8127391
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786876255.539903
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 467",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4746,
-    "total_planned": 31,
+    "total_completed": 4747,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
