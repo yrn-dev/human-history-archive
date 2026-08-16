@@ -23922,14 +23922,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 607",
       "timestamp": 1786888615.1736898
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786888845.5177257
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4799,
-    "total_planned": 49,
+    "total_completed": 4800,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
