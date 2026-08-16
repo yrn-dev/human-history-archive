@@ -24677,14 +24677,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 625",
       "timestamp": 1786924268.327057
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1786924460.5679636
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4950,
-    "total_planned": 40,
+    "total_completed": 4951,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
