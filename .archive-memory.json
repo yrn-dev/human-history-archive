@@ -24492,14 +24492,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 616",
       "timestamp": 1786915541.9118495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1786915693.9115205
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 617",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4913,
-    "total_planned": 6,
+    "total_completed": 4914,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
