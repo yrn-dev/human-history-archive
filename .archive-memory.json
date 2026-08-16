@@ -24302,14 +24302,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 682",
       "timestamp": 1786906565.0110037
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 617",
-      "variation": true
-    },
+      "timestamp": 1786906790.8945615
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 617",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4875,
-    "total_planned": 44,
+    "total_completed": 4876,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
