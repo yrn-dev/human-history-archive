@@ -23282,14 +23282,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 652",
       "timestamp": 1786858926.7370284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786859224.9599378
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 652",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4671,
-    "total_planned": 35,
+    "total_completed": 4672,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
