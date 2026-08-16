@@ -24252,14 +24252,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 616",
       "timestamp": 1786904399.546014
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786904676.588628
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 617",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4865,
-    "total_planned": 54,
+    "total_completed": 4866,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
