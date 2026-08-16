@@ -23597,14 +23597,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 596",
       "timestamp": 1786873462.770526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786873666.1882012
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4734,
-    "total_planned": 43,
+    "total_completed": 4735,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
