@@ -23442,14 +23442,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 652",
       "timestamp": 1786866137.9981225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786866283.7165074
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4703,
-    "total_planned": 3,
+    "total_completed": 4704,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
