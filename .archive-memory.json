@@ -24457,14 +24457,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 616",
       "timestamp": 1786914039.9462385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786914177.9169886
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 481",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4906,
-    "total_planned": 13,
+    "total_completed": 4907,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
