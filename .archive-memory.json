@@ -23292,14 +23292,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 652",
       "timestamp": 1786859491.6724234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786859659.5454357
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 590",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4673,
-    "total_planned": 33,
+    "total_completed": 4674,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
