@@ -23432,14 +23432,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 587",
       "timestamp": 1786865628.1336107
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 460",
-      "variation": true
-    },
+      "timestamp": 1786865949.789518
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 652",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4701,
-    "total_planned": 5,
+    "total_completed": 4702,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
