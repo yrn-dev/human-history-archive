@@ -23357,14 +23357,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 589",
       "timestamp": 1786862045.7514448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786862183.9439356
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4686,
-    "total_planned": 20,
+    "total_completed": 4687,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
