@@ -23337,14 +23337,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 589",
       "timestamp": 1786861346.2718916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 590",
-      "variation": true
-    },
+      "timestamp": 1786861486.7708218
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4682,
-    "total_planned": 24,
+    "total_completed": 4683,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
