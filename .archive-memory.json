@@ -23057,14 +23057,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 580",
       "timestamp": 1786848268.539489
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 453",
-      "variation": true
-    },
+      "timestamp": 1786848572.3202069
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4626,
-    "total_planned": 9,
+    "total_completed": 4627,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
