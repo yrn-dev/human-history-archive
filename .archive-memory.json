@@ -24082,14 +24082,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 474",
       "timestamp": 1786896296.1827672
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 608",
-      "variation": true
-    },
+      "timestamp": 1786896442.1295648
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 608",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4831,
-    "total_planned": 17,
+    "total_completed": 4832,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
