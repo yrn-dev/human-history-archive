@@ -23807,18 +23807,17 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 467",
       "timestamp": 1786882689.2144132
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 662",
-      "variation": true
+      "timestamp": 1786883016.17079
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 4776,
-    "total_planned": 1,
+    "total_completed": 4777,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
