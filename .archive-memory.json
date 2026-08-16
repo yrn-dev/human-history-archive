@@ -24022,14 +24022,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 672",
       "timestamp": 1786893122.9167056
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786893378.312333
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4819,
-    "total_planned": 29,
+    "total_completed": 4820,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
