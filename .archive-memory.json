@@ -23832,14 +23832,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 605",
       "timestamp": 1786883952.3905203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786884209.9349058
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 474",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4781,
-    "total_planned": 67,
+    "total_completed": 4782,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
