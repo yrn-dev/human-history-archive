@@ -22927,14 +22927,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 578",
       "timestamp": 1786842747.5312517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 581",
-      "variation": true
-    },
+      "timestamp": 1786843064.1859996
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4600,
-    "total_planned": 35,
+    "total_completed": 4601,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
