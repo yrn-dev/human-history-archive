@@ -23667,14 +23667,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 467",
       "timestamp": 1786876559.4137006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786876730.547246
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 662",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4748,
-    "total_planned": 29,
+    "total_completed": 4749,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
