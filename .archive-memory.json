@@ -22922,14 +22922,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 580",
       "timestamp": 1786842459.474229
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786842747.5312517
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 581",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4599,
-    "total_planned": 36,
+    "total_completed": 4600,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
