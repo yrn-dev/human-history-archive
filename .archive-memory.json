@@ -24672,14 +24672,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 625",
       "timestamp": 1786924028.3765512
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786924268.327057
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 488",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4949,
-    "total_planned": 41,
+    "total_completed": 4950,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
