@@ -23802,14 +23802,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 598",
       "timestamp": 1786882454.2994468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 467",
-      "variation": true
-    },
+      "timestamp": 1786882689.2144132
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 662",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4775,
-    "total_planned": 2,
+    "total_completed": 4776,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
