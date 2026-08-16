@@ -23822,14 +23822,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 474",
       "timestamp": 1786883520.9984105
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786883716.398715
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4779,
-    "total_planned": 69,
+    "total_completed": 4780,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
