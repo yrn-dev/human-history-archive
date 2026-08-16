@@ -24012,14 +24012,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 605",
       "timestamp": 1786892734.2155526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 608",
-      "variation": true
-    },
+      "timestamp": 1786892963.3256707
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 672",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4817,
-    "total_planned": 31,
+    "total_completed": 4818,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
