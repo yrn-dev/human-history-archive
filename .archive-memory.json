@@ -23162,14 +23162,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 587",
       "timestamp": 1786853298.5231721
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 590",
-      "variation": true
-    },
+      "timestamp": 1786853611.5744984
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4647,
-    "total_planned": 59,
+    "total_completed": 4648,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
