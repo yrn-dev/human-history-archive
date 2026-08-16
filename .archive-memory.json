@@ -24337,14 +24337,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 614",
       "timestamp": 1786908265.8118985
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786908446.9548666
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 682",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4882,
-    "total_planned": 37,
+    "total_completed": 4883,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
