@@ -24322,14 +24322,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 616",
       "timestamp": 1786907617.205339
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786907783.9351819
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 617",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4879,
-    "total_planned": 40,
+    "total_completed": 4880,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
