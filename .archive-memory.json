@@ -23687,14 +23687,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 598",
       "timestamp": 1786877453.6897428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786877624.1248431
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4752,
-    "total_planned": 25,
+    "total_completed": 4753,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
