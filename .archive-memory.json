@@ -23177,14 +23177,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 587",
       "timestamp": 1786854107.48762
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786854422.2698658
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 652",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4650,
-    "total_planned": 56,
+    "total_completed": 4651,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
