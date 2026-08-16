@@ -22862,14 +22862,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 453",
       "timestamp": 1786839710.7662737
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 581",
-      "variation": true
-    },
+      "timestamp": 1786839904.374616
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4587,
-    "total_planned": 48,
+    "total_completed": 4588,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
