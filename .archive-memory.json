@@ -23722,14 +23722,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 467",
       "timestamp": 1786879130.2225845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 599",
-      "variation": true
-    },
+      "timestamp": 1786879380.3233376
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4759,
-    "total_planned": 18,
+    "total_completed": 4760,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
