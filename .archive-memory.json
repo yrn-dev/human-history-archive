@@ -24467,14 +24467,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 481",
       "timestamp": 1786914361.0154986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 617",
-      "variation": true
-    },
+      "timestamp": 1786914619.1252413
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 617",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4908,
-    "total_planned": 11,
+    "total_completed": 4909,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
