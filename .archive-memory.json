@@ -23302,14 +23302,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 590",
       "timestamp": 1786859959.024453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786860130.86514
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4675,
-    "total_planned": 31,
+    "total_completed": 4676,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
