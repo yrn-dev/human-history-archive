@@ -23077,14 +23077,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 642",
       "timestamp": 1786849470.3109894
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786849663.5224793
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 642",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4630,
-    "total_planned": 5,
+    "total_completed": 4631,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
