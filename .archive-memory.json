@@ -24602,14 +24602,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 625",
       "timestamp": 1786920947.675745
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786921198.178954
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 626",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4935,
-    "total_planned": 55,
+    "total_completed": 4936,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
