@@ -24557,14 +24557,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 692",
       "timestamp": 1786918703.1646116
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 626",
-      "variation": true
-    },
+      "timestamp": 1786918879.554805
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4926,
-    "total_planned": 64,
+    "total_completed": 4927,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
