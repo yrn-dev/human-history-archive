@@ -23297,14 +23297,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 589",
       "timestamp": 1786859659.5454357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 590",
-      "variation": true
-    },
+      "timestamp": 1786859959.024453
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4674,
-    "total_planned": 32,
+    "total_completed": 4675,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
