@@ -24527,14 +24527,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 626",
       "timestamp": 1786917120.836292
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 623",
-      "variation": true
-    },
+      "timestamp": 1786917423.0970416
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 692",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4920,
-    "total_planned": 70,
+    "total_completed": 4921,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
