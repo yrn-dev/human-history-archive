@@ -23777,14 +23777,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 662",
       "timestamp": 1786881374.743752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 467",
-      "variation": true
-    },
+      "timestamp": 1786881585.971045
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4770,
-    "total_planned": 7,
+    "total_completed": 4771,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
