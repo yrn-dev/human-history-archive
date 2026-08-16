@@ -24067,14 +24067,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 607",
       "timestamp": 1786895499.891196
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786895811.1367114
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4828,
-    "total_planned": 20,
+    "total_completed": 4829,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
