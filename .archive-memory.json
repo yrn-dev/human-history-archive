@@ -23542,14 +23542,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 596",
       "timestamp": 1786870649.2256181
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786870918.073979
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4723,
-    "total_planned": 54,
+    "total_completed": 4724,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
