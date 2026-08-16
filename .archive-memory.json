@@ -23902,14 +23902,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 605",
       "timestamp": 1786887735.8764982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 672",
-      "variation": true
-    },
+      "timestamp": 1786887995.228302
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4795,
-    "total_planned": 53,
+    "total_completed": 4796,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
