@@ -24392,14 +24392,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 614",
       "timestamp": 1786910850.8820994
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1786911150.4723513
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 682",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4893,
-    "total_planned": 26,
+    "total_completed": 4894,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
