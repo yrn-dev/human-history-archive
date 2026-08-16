@@ -22832,14 +22832,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 580",
       "timestamp": 1786838339.8237758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 581",
-      "variation": true
-    },
+      "timestamp": 1786838499.2426658
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 581",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4581,
-    "total_planned": 54,
+    "total_completed": 4582,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
