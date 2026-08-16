@@ -24327,14 +24327,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 614",
       "timestamp": 1786907783.9351819
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 617",
-      "variation": true
-    },
+      "timestamp": 1786908000.8034873
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 614",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4880,
-    "total_planned": 39,
+    "total_completed": 4881,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
