@@ -23992,14 +23992,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 607",
       "timestamp": 1786891741.361573
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786892038.506923
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4813,
-    "total_planned": 35,
+    "total_completed": 4814,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
