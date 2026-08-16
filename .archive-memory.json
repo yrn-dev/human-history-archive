@@ -23712,14 +23712,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 596",
       "timestamp": 1786878698.8823426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786878877.946677
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 467",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4757,
-    "total_planned": 20,
+    "total_completed": 4758,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
