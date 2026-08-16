@@ -23707,14 +23707,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 596",
       "timestamp": 1786878492.0308695
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786878698.8823426
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4756,
-    "total_planned": 21,
+    "total_completed": 4757,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
