@@ -22947,14 +22947,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 453",
       "timestamp": 1786843827.525014
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 581",
-      "variation": true
-    },
+      "timestamp": 1786844083.1003444
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4604,
-    "total_planned": 31,
+    "total_completed": 4605,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
