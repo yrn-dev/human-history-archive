@@ -23742,14 +23742,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 599",
       "timestamp": 1786879991.9587047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786880254.0157878
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4763,
-    "total_planned": 14,
+    "total_completed": 4764,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
