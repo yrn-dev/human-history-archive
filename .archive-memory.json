@@ -23272,14 +23272,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 460",
       "timestamp": 1786858314.260213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786858619.1229966
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 652",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4669,
-    "total_planned": 37,
+    "total_completed": 4670,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
