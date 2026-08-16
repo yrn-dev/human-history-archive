@@ -24027,14 +24027,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 605",
       "timestamp": 1786893378.312333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786893714.0275156
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4820,
-    "total_planned": 28,
+    "total_completed": 4821,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
