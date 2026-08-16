@@ -24147,14 +24147,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 608",
       "timestamp": 1786899221.2569392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 672",
-      "variation": true
-    },
+      "timestamp": 1786899445.223768
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4844,
-    "total_planned": 4,
+    "total_completed": 4845,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
