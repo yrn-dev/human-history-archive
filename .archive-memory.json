@@ -23962,14 +23962,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 607",
       "timestamp": 1786890388.8383613
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786890594.7572193
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 608",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4807,
-    "total_planned": 41,
+    "total_completed": 4808,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
