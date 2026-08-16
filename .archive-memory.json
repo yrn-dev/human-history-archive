@@ -24417,14 +24417,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 616",
       "timestamp": 1786912005.7585948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786912208.2063837
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 614",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4898,
-    "total_planned": 21,
+    "total_completed": 4899,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
