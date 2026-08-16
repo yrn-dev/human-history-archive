@@ -22957,14 +22957,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 578",
       "timestamp": 1786844220.5769687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786844422.9415114
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4606,
-    "total_planned": 29,
+    "total_completed": 4607,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
