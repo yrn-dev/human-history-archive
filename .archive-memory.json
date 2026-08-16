@@ -24537,14 +24537,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 692",
       "timestamp": 1786917676.070821
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786917950.776319
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 692",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4922,
-    "total_planned": 68,
+    "total_completed": 4923,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
