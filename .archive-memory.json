@@ -24317,14 +24317,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 614",
       "timestamp": 1786907305.0083709
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786907617.205339
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 614",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4878,
-    "total_planned": 41,
+    "total_completed": 4879,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
