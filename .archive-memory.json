@@ -23872,14 +23872,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 474",
       "timestamp": 1786886072.5236342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786886310.7318406
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 672",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4789,
-    "total_planned": 59,
+    "total_completed": 4790,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
