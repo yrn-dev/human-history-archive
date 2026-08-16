@@ -24482,14 +24482,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 481",
       "timestamp": 1786915109.7078314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786915326.1356745
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4911,
-    "total_planned": 8,
+    "total_completed": 4912,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
