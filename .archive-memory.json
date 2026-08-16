@@ -24377,14 +24377,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 616",
       "timestamp": 1786910163.2485104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786910461.8697643
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4890,
-    "total_planned": 29,
+    "total_completed": 4891,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
