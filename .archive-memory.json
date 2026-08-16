@@ -23672,14 +23672,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 598",
       "timestamp": 1786876730.547246
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786876890.3133595
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 662",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4749,
-    "total_planned": 28,
+    "total_completed": 4750,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
