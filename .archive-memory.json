@@ -24367,14 +24367,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 616",
       "timestamp": 1786909662.3209147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786909936.425305
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4888,
-    "total_planned": 31,
+    "total_completed": 4889,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
