@@ -22997,14 +22997,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 642",
       "timestamp": 1786845737.0946457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1786846048.1124554
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4614,
-    "total_planned": 21,
+    "total_completed": 4615,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
