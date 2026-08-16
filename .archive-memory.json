@@ -23592,14 +23592,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 598",
       "timestamp": 1786873273.516754
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786873462.770526
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4733,
-    "total_planned": 44,
+    "total_completed": 4734,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
