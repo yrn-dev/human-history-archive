@@ -24057,14 +24057,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 607",
       "timestamp": 1786894967.665513
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 672",
-      "variation": true
-    },
+      "timestamp": 1786895254.4427476
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4826,
-    "total_planned": 22,
+    "total_completed": 4827,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
