@@ -24387,14 +24387,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 616",
       "timestamp": 1786910666.1412961
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786910850.8820994
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 481",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4892,
-    "total_planned": 27,
+    "total_completed": 4893,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
