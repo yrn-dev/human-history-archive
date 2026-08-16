@@ -24097,14 +24097,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 607",
       "timestamp": 1786896835.5178885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 608",
-      "variation": true
-    },
+      "timestamp": 1786897140.7545037
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4834,
-    "total_planned": 14,
+    "total_completed": 4835,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
