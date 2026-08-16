@@ -24587,14 +24587,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 625",
       "timestamp": 1786920197.7227688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786920507.6598928
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4932,
-    "total_planned": 58,
+    "total_completed": 4933,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
