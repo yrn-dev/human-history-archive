@@ -24507,14 +24507,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 616",
       "timestamp": 1786916027.9296002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 682",
-      "variation": true
-    },
+      "timestamp": 1786916310.2596967
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 614",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4916,
-    "total_planned": 3,
+    "total_completed": 4917,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
