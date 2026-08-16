@@ -23372,14 +23372,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 587",
       "timestamp": 1786862589.3897853
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786862828.3726244
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 590",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4689,
-    "total_planned": 17,
+    "total_completed": 4690,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
