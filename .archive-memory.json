@@ -23227,14 +23227,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 589",
       "timestamp": 1786856366.8073103
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786856604.1484568
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4660,
-    "total_planned": 46,
+    "total_completed": 4661,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
