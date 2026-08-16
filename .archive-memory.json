@@ -24042,14 +24042,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 672",
       "timestamp": 1786894259.2723138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 608",
-      "variation": true
-    },
+      "timestamp": 1786894440.4047127
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 474",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4823,
-    "total_planned": 25,
+    "total_completed": 4824,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
