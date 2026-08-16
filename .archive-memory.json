@@ -24247,14 +24247,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 616",
       "timestamp": 1786904110.8972602
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786904399.546014
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4864,
-    "total_planned": 55,
+    "total_completed": 4865,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
