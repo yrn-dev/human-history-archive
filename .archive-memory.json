@@ -23677,14 +23677,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 662",
       "timestamp": 1786876890.3133595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786877195.458619
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4750,
-    "total_planned": 27,
+    "total_completed": 4751,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
