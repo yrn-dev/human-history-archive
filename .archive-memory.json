@@ -23547,14 +23547,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 596",
       "timestamp": 1786870918.073979
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786871144.8199732
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4724,
-    "total_planned": 53,
+    "total_completed": 4725,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
