@@ -23482,14 +23482,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 596",
       "timestamp": 1786867907.8355234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786868202.1740363
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4711,
-    "total_planned": 66,
+    "total_completed": 4712,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
