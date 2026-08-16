@@ -23437,14 +23437,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 460",
       "timestamp": 1786865949.789518
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786866137.9981225
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4702,
-    "total_planned": 4,
+    "total_completed": 4703,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
