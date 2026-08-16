@@ -24092,14 +24092,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 608",
       "timestamp": 1786896632.7752671
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786896835.5178885
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 608",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4833,
-    "total_planned": 15,
+    "total_completed": 4834,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
