@@ -23527,14 +23527,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 596",
       "timestamp": 1786870018.0806785
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786870251.8498166
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 467",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4720,
-    "total_planned": 57,
+    "total_completed": 4721,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
