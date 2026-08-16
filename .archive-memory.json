@@ -22877,14 +22877,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 581",
       "timestamp": 1786840415.1065404
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786840724.4534872
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4590,
-    "total_planned": 45,
+    "total_completed": 4591,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
