@@ -24627,14 +24627,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 623",
       "timestamp": 1786922144.6031823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786922288.0584998
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4940,
-    "total_planned": 50,
+    "total_completed": 4941,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
