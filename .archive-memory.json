@@ -24562,14 +24562,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 626",
       "timestamp": 1786918879.554805
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 623",
-      "variation": true
-    },
+      "timestamp": 1786919134.904215
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 626",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4927,
-    "total_planned": 63,
+    "total_completed": 4928,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
