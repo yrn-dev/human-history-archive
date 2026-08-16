@@ -24297,14 +24297,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 614",
       "timestamp": 1786906294.4571888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 682",
-      "variation": true
-    },
+      "timestamp": 1786906565.0110037
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 617",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4874,
-    "total_planned": 45,
+    "total_completed": 4875,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
