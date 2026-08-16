@@ -23532,14 +23532,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 598",
       "timestamp": 1786870251.8498166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 467",
-      "variation": true
-    },
+      "timestamp": 1786870436.4580202
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4721,
-    "total_planned": 56,
+    "total_completed": 4722,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
