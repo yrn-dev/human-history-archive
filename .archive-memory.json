@@ -24547,14 +24547,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 692",
       "timestamp": 1786918250.9898243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786918390.53893
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 692",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4924,
-    "total_planned": 66,
+    "total_completed": 4925,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
