@@ -24137,14 +24137,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 607",
       "timestamp": 1786898752.308542
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786898955.8207145
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 608",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4842,
-    "total_planned": 6,
+    "total_completed": 4843,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
