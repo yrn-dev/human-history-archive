@@ -23362,14 +23362,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 587",
       "timestamp": 1786862183.9439356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786862341.8966277
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4687,
-    "total_planned": 19,
+    "total_completed": 4688,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
