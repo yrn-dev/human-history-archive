@@ -22932,14 +22932,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 581",
       "timestamp": 1786843064.1859996
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786843336.8062055
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4601,
-    "total_planned": 34,
+    "total_completed": 4602,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
