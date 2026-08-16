@@ -24072,14 +24072,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 607",
       "timestamp": 1786895811.1367114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786896131.6002507
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 474",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4829,
-    "total_planned": 19,
+    "total_completed": 4830,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
