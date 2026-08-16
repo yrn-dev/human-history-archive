@@ -23682,14 +23682,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 662",
       "timestamp": 1786877195.458619
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786877453.6897428
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4751,
-    "total_planned": 26,
+    "total_completed": 4752,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
