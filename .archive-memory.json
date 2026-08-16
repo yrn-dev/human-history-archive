@@ -23207,14 +23207,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 589",
       "timestamp": 1786855462.3754761
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 590",
-      "variation": true
-    },
+      "timestamp": 1786855687.836524
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4656,
-    "total_planned": 50,
+    "total_completed": 4657,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
