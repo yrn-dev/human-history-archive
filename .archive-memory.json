@@ -23907,14 +23907,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 672",
       "timestamp": 1786887995.228302
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786888246.7960148
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 608",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4796,
-    "total_planned": 52,
+    "total_completed": 4797,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
