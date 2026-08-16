@@ -23267,14 +23267,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 587",
       "timestamp": 1786858137.2880456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 460",
-      "variation": true
-    },
+      "timestamp": 1786858314.260213
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4668,
-    "total_planned": 38,
+    "total_completed": 4669,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
