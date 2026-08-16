@@ -24567,14 +24567,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 623",
       "timestamp": 1786919134.904215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 626",
-      "variation": true
-    },
+      "timestamp": 1786919401.8611526
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4928,
-    "total_planned": 62,
+    "total_completed": 4929,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
