@@ -24142,14 +24142,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 607",
       "timestamp": 1786898955.8207145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 608",
-      "variation": true
-    },
+      "timestamp": 1786899221.2569392
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 672",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4843,
-    "total_planned": 5,
+    "total_completed": 4844,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
