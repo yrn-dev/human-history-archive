@@ -24062,14 +24062,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 672",
       "timestamp": 1786895254.4427476
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786895499.891196
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4827,
-    "total_planned": 21,
+    "total_completed": 4828,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
