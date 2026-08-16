@@ -23787,14 +23787,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 596",
       "timestamp": 1786881790.6668746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786882075.620478
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4772,
-    "total_planned": 5,
+    "total_completed": 4773,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
