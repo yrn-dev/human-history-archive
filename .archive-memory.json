@@ -23417,14 +23417,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 587",
       "timestamp": 1786864872.0842595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786865189.097399
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4698,
-    "total_planned": 8,
+    "total_completed": 4699,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
