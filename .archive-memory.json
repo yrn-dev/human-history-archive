@@ -23247,14 +23247,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 589",
       "timestamp": 1786857266.396073
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 460",
-      "variation": true
-    },
+      "timestamp": 1786857454.3891852
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4664,
-    "total_planned": 42,
+    "total_completed": 4665,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
