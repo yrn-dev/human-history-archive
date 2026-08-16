@@ -24357,14 +24357,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 616",
       "timestamp": 1786909217.6304626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786909472.9856806
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4886,
-    "total_planned": 33,
+    "total_completed": 4887,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
