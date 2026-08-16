@@ -24267,14 +24267,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 614",
       "timestamp": 1786905116.3670375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786905256.667006
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4868,
-    "total_planned": 51,
+    "total_completed": 4869,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
