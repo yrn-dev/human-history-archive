@@ -24572,14 +24572,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 626",
       "timestamp": 1786919401.8611526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786919660.4001644
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4929,
-    "total_planned": 61,
+    "total_completed": 4930,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
