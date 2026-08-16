@@ -23772,14 +23772,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 598",
       "timestamp": 1786881189.6947796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786881374.743752
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 467",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4769,
-    "total_planned": 8,
+    "total_completed": 4770,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
