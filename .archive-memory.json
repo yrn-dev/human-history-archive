@@ -23277,14 +23277,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 589",
       "timestamp": 1786858619.1229966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786858926.7370284
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4670,
-    "total_planned": 36,
+    "total_completed": 4671,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
