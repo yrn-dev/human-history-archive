@@ -23137,14 +23137,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 587",
       "timestamp": 1786852090.6205606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 590",
-      "variation": true
-    },
+      "timestamp": 1786852353.5242236
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4642,
-    "total_planned": 64,
+    "total_completed": 4643,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
