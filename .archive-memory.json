@@ -23327,14 +23327,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 652",
       "timestamp": 1786860949.2297895
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786861165.093808
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4680,
-    "total_planned": 26,
+    "total_completed": 4681,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
