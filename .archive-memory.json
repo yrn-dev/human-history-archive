@@ -24037,14 +24037,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 607",
       "timestamp": 1786894024.1879237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 672",
-      "variation": true
-    },
+      "timestamp": 1786894259.2723138
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 608",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4822,
-    "total_planned": 26,
+    "total_completed": 4823,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
