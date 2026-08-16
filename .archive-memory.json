@@ -23122,14 +23122,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 460",
       "timestamp": 1786851465.0954618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786851717.8322418
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4639,
-    "total_planned": 67,
+    "total_completed": 4640,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
