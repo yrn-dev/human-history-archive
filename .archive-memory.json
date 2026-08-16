@@ -22977,14 +22977,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 580",
       "timestamp": 1786845021.3588185
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786845194.1019
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4610,
-    "total_planned": 25,
+    "total_completed": 4611,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
