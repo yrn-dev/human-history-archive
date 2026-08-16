@@ -23032,14 +23032,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 580",
       "timestamp": 1786847219.915416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786847528.962959
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 642",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4621,
-    "total_planned": 14,
+    "total_completed": 4622,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
