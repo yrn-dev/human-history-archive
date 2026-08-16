@@ -23617,14 +23617,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 598",
       "timestamp": 1786874326.0396447
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786874510.1358705
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4738,
-    "total_planned": 39,
+    "total_completed": 4739,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
