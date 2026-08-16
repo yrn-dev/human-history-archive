@@ -23237,14 +23237,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 587",
       "timestamp": 1786856817.1411517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786857116.4805126
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4662,
-    "total_planned": 44,
+    "total_completed": 4663,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
