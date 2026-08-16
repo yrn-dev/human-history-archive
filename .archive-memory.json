@@ -23792,14 +23792,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 598",
       "timestamp": 1786882075.620478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786882297.745006
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4773,
-    "total_planned": 4,
+    "total_completed": 4774,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
