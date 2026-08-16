@@ -23257,14 +23257,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 587",
       "timestamp": 1786857720.442478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786857966.8091238
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4666,
-    "total_planned": 40,
+    "total_completed": 4667,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
