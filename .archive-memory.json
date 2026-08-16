@@ -22847,14 +22847,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 642",
       "timestamp": 1786838995.8086336
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786839299.419806
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4584,
-    "total_planned": 51,
+    "total_completed": 4585,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
