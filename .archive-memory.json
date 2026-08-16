@@ -23622,14 +23622,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 598",
       "timestamp": 1786874510.1358705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786874758.5022264
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 599",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4739,
-    "total_planned": 38,
+    "total_completed": 4740,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
