@@ -24112,14 +24112,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 607",
       "timestamp": 1786897468.2739074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786897719.833802
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4837,
-    "total_planned": 11,
+    "total_completed": 4838,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
