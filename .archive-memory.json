@@ -23612,14 +23612,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 467",
       "timestamp": 1786874045.2086518
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786874326.0396447
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4737,
-    "total_planned": 40,
+    "total_completed": 4738,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
