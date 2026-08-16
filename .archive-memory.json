@@ -24637,14 +24637,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 623",
       "timestamp": 1786922467.1523595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 692",
-      "variation": true
-    },
+      "timestamp": 1786922716.5437374
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 692",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4942,
-    "total_planned": 48,
+    "total_completed": 4943,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
