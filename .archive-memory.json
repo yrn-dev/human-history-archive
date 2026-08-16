@@ -23187,14 +23187,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 652",
       "timestamp": 1786854653.0405183
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786854891.366233
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4652,
-    "total_planned": 54,
+    "total_completed": 4653,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
