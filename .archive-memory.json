@@ -23107,14 +23107,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 589",
       "timestamp": 1786850910.7115195
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786851091.9032
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 590",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4636,
-    "total_planned": 70,
+    "total_completed": 4637,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
