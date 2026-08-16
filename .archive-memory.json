@@ -23387,14 +23387,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 460",
       "timestamp": 1786863312.0767746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786863567.5800683
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4692,
-    "total_planned": 14,
+    "total_completed": 4693,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
