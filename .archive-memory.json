@@ -23577,14 +23577,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 596",
       "timestamp": 1786872423.0126333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 599",
-      "variation": true
-    },
+      "timestamp": 1786872715.991357
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 467",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4730,
-    "total_planned": 47,
+    "total_completed": 4731,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
