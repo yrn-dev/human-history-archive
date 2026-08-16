@@ -23587,14 +23587,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 467",
       "timestamp": 1786872971.5024722
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786873273.516754
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4732,
-    "total_planned": 45,
+    "total_completed": 4733,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
