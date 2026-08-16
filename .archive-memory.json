@@ -24272,14 +24272,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 616",
       "timestamp": 1786905256.667006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786905490.9886317
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 682",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4869,
-    "total_planned": 50,
+    "total_completed": 4870,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
