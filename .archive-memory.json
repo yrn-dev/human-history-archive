@@ -23642,14 +23642,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 596",
       "timestamp": 1786875473.0975204
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786875701.8812466
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4743,
-    "total_planned": 34,
+    "total_completed": 4744,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
