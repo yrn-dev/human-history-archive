@@ -23852,14 +23852,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 605",
       "timestamp": 1786885002.414384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786885302.63204
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4785,
-    "total_planned": 63,
+    "total_completed": 4786,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
