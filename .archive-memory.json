@@ -24232,14 +24232,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 616",
       "timestamp": 1786903405.091978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 617",
-      "variation": true
-    },
+      "timestamp": 1786903703.3250191
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 682",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4861,
-    "total_planned": 58,
+    "total_completed": 4862,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
