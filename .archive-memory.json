@@ -23082,14 +23082,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 578",
       "timestamp": 1786849663.5224793
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1786849866.1897001
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4631,
-    "total_planned": 4,
+    "total_completed": 4632,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
