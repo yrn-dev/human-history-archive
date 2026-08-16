@@ -23002,14 +23002,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 642",
       "timestamp": 1786846048.1124554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786846217.0404012
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 453",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4615,
-    "total_planned": 20,
+    "total_completed": 4616,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
