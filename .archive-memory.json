@@ -22852,14 +22852,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 578",
       "timestamp": 1786839299.419806
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786839525.8865087
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 453",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4585,
-    "total_planned": 50,
+    "total_completed": 4586,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
