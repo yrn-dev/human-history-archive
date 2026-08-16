@@ -22912,14 +22912,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 578",
       "timestamp": 1786841987.4007542
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786842194.5208545
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4597,
-    "total_planned": 38,
+    "total_completed": 4598,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
