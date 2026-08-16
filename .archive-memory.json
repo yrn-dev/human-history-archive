@@ -24502,14 +24502,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 617",
       "timestamp": 1786915877.3783224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786916027.9296002
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 682",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4915,
-    "total_planned": 4,
+    "total_completed": 4916,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
