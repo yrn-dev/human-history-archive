@@ -22867,14 +22867,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 581",
       "timestamp": 1786839904.374616
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786840152.9653413
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 581",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4588,
-    "total_planned": 47,
+    "total_completed": 4589,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
