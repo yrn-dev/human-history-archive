@@ -23017,14 +23017,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 581",
       "timestamp": 1786846667.3979714
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786846836.1251638
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 453",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4618,
-    "total_planned": 17,
+    "total_completed": 4619,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
