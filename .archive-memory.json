@@ -23987,14 +23987,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 607",
       "timestamp": 1786891559.0669205
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786891741.361573
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4812,
-    "total_planned": 36,
+    "total_completed": 4813,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
