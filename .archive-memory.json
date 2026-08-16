@@ -23972,14 +23972,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 608",
       "timestamp": 1786890733.375661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786891036.6442606
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4809,
-    "total_planned": 39,
+    "total_completed": 4810,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
