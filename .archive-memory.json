@@ -23537,14 +23537,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 467",
       "timestamp": 1786870436.4580202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786870649.2256181
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4722,
-    "total_planned": 55,
+    "total_completed": 4723,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
