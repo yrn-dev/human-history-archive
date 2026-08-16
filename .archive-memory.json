@@ -23477,14 +23477,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 599",
       "timestamp": 1786867709.6205015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786867907.8355234
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 662",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4710,
-    "total_planned": 67,
+    "total_completed": 4711,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
