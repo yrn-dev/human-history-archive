@@ -24052,14 +24052,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 474",
       "timestamp": 1786894751.9235373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786894967.665513
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 672",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4825,
-    "total_planned": 23,
+    "total_completed": 4826,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
