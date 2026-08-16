@@ -23947,14 +23947,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 607",
       "timestamp": 1786889751.4848723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 672",
-      "variation": true
-    },
+      "timestamp": 1786889919.5424404
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4804,
-    "total_planned": 44,
+    "total_completed": 4805,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
