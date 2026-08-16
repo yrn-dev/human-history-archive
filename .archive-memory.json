@@ -23867,14 +23867,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 607",
       "timestamp": 1786885875.2197618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 474",
-      "variation": true
-    },
+      "timestamp": 1786886072.5236342
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4788,
-    "total_planned": 60,
+    "total_completed": 4789,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
