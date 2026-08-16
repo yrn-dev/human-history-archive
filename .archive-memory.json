@@ -23397,14 +23397,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 587",
       "timestamp": 1786863833.3892589
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 460",
-      "variation": true
-    },
+      "timestamp": 1786863978.087028
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4694,
-    "total_planned": 12,
+    "total_completed": 4695,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
