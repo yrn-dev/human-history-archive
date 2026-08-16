@@ -24642,14 +24642,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 692",
       "timestamp": 1786922716.5437374
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 692",
-      "variation": true
-    },
+      "timestamp": 1786923023.18494
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 488",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4943,
-    "total_planned": 47,
+    "total_completed": 4944,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
