@@ -24347,14 +24347,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 682",
       "timestamp": 1786908769.3566816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1786909074.6465983
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4884,
-    "total_planned": 35,
+    "total_completed": 4885,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
