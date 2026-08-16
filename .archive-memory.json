@@ -23427,14 +23427,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 587",
       "timestamp": 1786865350.8689167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786865628.1336107
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 460",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4700,
-    "total_planned": 6,
+    "total_completed": 4701,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
