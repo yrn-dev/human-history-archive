@@ -23042,14 +23042,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 642",
       "timestamp": 1786847733.288404
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786847906.6267233
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 642",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4623,
-    "total_planned": 12,
+    "total_completed": 4624,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
