@@ -23882,14 +23882,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 672",
       "timestamp": 1786886657.420104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786886951.0426514
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4791,
-    "total_planned": 57,
+    "total_completed": 4792,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
