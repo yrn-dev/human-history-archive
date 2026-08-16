@@ -23142,14 +23142,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 590",
       "timestamp": 1786852353.5242236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786852595.755181
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4643,
-    "total_planned": 63,
+    "total_completed": 4644,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
