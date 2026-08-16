@@ -24402,14 +24402,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 682",
       "timestamp": 1786911355.6891792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786911628.8941798
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 614",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4895,
-    "total_planned": 24,
+    "total_completed": 4896,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
