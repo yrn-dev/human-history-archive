@@ -24207,14 +24207,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 614",
       "timestamp": 1786902268.4677985
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786902511.269964
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 614",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4856,
-    "total_planned": 63,
+    "total_completed": 4857,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
