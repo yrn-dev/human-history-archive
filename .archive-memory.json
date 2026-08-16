@@ -23422,14 +23422,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 589",
       "timestamp": 1786865189.097399
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786865350.8689167
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4699,
-    "total_planned": 7,
+    "total_completed": 4700,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
