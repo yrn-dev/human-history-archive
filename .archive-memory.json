@@ -23602,14 +23602,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 598",
       "timestamp": 1786873666.1882012
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786873886.893138
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 467",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4735,
-    "total_planned": 42,
+    "total_completed": 4736,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
