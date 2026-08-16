@@ -23217,14 +23217,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 589",
       "timestamp": 1786855933.6489384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 590",
-      "variation": true
-    },
+      "timestamp": 1786856097.8392117
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4658,
-    "total_planned": 48,
+    "total_completed": 4659,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
