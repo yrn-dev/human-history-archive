@@ -23317,14 +23317,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 589",
       "timestamp": 1786860561.3708756
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786860777.1624184
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 652",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4678,
-    "total_planned": 28,
+    "total_completed": 4679,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
