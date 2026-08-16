@@ -23132,14 +23132,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 589",
       "timestamp": 1786851899.3870165
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786852090.6205606
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 590",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4641,
-    "total_planned": 65,
+    "total_completed": 4642,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
