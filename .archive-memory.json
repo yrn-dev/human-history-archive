@@ -24442,14 +24442,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 617",
       "timestamp": 1786913263.2969153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1786913496.8419075
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4903,
-    "total_planned": 16,
+    "total_completed": 4904,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
