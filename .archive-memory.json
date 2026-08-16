@@ -22892,14 +22892,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 580",
       "timestamp": 1786841144.631422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786841431.5196328
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4593,
-    "total_planned": 42,
+    "total_completed": 4594,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
