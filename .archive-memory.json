@@ -23862,14 +23862,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 607",
       "timestamp": 1786885534.605358
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786885875.2197618
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 474",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4787,
-    "total_planned": 61,
+    "total_completed": 4788,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
