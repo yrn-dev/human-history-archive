@@ -23252,14 +23252,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 460",
       "timestamp": 1786857454.3891852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786857720.442478
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4665,
-    "total_planned": 41,
+    "total_completed": 4666,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
