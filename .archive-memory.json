@@ -22907,14 +22907,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 580",
       "timestamp": 1786841738.490545
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786841987.4007542
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4596,
-    "total_planned": 39,
+    "total_completed": 4597,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
