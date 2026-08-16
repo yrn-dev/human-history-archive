@@ -24432,14 +24432,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 616",
       "timestamp": 1786912672.4877374
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786912969.2245169
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 617",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4901,
-    "total_planned": 18,
+    "total_completed": 4902,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
