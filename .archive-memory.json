@@ -22962,14 +22962,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 578",
       "timestamp": 1786844422.9415114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786844681.8153024
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4607,
-    "total_planned": 28,
+    "total_completed": 4608,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
