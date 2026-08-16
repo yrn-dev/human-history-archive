@@ -23842,14 +23842,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 474",
       "timestamp": 1786884491.2623832
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786884725.1126745
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4783,
-    "total_planned": 65,
+    "total_completed": 4784,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
