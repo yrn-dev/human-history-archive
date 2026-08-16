@@ -23182,14 +23182,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 652",
       "timestamp": 1786854422.2698658
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786854653.0405183
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4651,
-    "total_planned": 55,
+    "total_completed": 4652,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
