@@ -23172,14 +23172,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 589",
       "timestamp": 1786853830.4617507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786854107.48762
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 652",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4649,
-    "total_planned": 57,
+    "total_completed": 4650,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
