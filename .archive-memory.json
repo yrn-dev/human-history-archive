@@ -23007,14 +23007,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 578",
       "timestamp": 1786846217.0404012
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 453",
-      "variation": true
-    },
+      "timestamp": 1786846453.1928897
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 581",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4616,
-    "total_planned": 19,
+    "total_completed": 4617,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
