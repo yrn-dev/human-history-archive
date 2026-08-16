@@ -22842,14 +22842,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 581",
       "timestamp": 1786838707.633208
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1786838995.8086336
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4583,
-    "total_planned": 52,
+    "total_completed": 4584,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
