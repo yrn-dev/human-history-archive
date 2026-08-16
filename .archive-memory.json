@@ -23557,14 +23557,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 598",
       "timestamp": 1786871367.0339684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786871652.4670472
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4726,
-    "total_planned": 51,
+    "total_completed": 4727,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
