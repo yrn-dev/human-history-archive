@@ -23027,14 +23027,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 453",
       "timestamp": 1786847081.4847052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786847219.915416
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4620,
-    "total_planned": 15,
+    "total_completed": 4621,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
