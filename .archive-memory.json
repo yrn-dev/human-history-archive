@@ -24262,14 +24262,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 617",
       "timestamp": 1786904916.4969983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786905116.3670375
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4867,
-    "total_planned": 52,
+    "total_completed": 4868,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
