@@ -24582,14 +24582,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 625",
       "timestamp": 1786919919.856023
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786920197.7227688
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4931,
-    "total_planned": 59,
+    "total_completed": 4932,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
