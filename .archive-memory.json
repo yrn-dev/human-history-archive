@@ -23997,14 +23997,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 605",
       "timestamp": 1786892038.506923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786892340.5698164
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4814,
-    "total_planned": 34,
+    "total_completed": 4815,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
