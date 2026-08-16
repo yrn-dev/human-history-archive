@@ -24002,14 +24002,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 607",
       "timestamp": 1786892340.5698164
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786892594.2196767
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4815,
-    "total_planned": 33,
+    "total_completed": 4816,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
