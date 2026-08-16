@@ -24157,14 +24157,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 605",
       "timestamp": 1786899752.0913143
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 608",
-      "variation": true
-    },
+      "timestamp": 1786899977.1764483
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4846,
-    "total_planned": 2,
+    "total_completed": 4847,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
