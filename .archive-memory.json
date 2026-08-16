@@ -23022,14 +23022,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 578",
       "timestamp": 1786846836.1251638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 453",
-      "variation": true
-    },
+      "timestamp": 1786847081.4847052
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4619,
-    "total_planned": 16,
+    "total_completed": 4620,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
