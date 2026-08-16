@@ -23967,14 +23967,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 607",
       "timestamp": 1786890594.7572193
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 608",
-      "variation": true
-    },
+      "timestamp": 1786890733.375661
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4808,
-    "total_planned": 40,
+    "total_completed": 4809,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
