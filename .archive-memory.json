@@ -23012,14 +23012,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 453",
       "timestamp": 1786846453.1928897
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 581",
-      "variation": true
-    },
+      "timestamp": 1786846667.3979714
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4617,
-    "total_planned": 18,
+    "total_completed": 4618,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
