@@ -24187,14 +24187,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 616",
       "timestamp": 1786901258.5785997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786901498.7531812
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4852,
-    "total_planned": 67,
+    "total_completed": 4853,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
