@@ -24182,14 +24182,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 682",
       "timestamp": 1786901052.5403397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 616",
-      "variation": true
-    },
+      "timestamp": 1786901258.5785997
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 614",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4851,
-    "total_planned": 68,
+    "total_completed": 4852,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
