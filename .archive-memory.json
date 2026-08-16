@@ -24652,14 +24652,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 488",
       "timestamp": 1786923301.4140651
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 626",
-      "variation": true
-    },
+      "timestamp": 1786923473.2724447
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4945,
-    "total_planned": 45,
+    "total_completed": 4946,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
