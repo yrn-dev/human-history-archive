@@ -23167,14 +23167,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 590",
       "timestamp": 1786853611.5744984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786853830.4617507
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4648,
-    "total_planned": 58,
+    "total_completed": 4649,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
