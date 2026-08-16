@@ -24617,14 +24617,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 625",
       "timestamp": 1786921739.2837493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 626",
-      "variation": true
-    },
+      "timestamp": 1786922010.105328
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4938,
-    "total_planned": 52,
+    "total_completed": 4939,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
