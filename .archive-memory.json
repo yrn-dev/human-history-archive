@@ -23507,14 +23507,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 598",
       "timestamp": 1786869154.5910466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786869435.230575
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4716,
-    "total_planned": 61,
+    "total_completed": 4717,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
