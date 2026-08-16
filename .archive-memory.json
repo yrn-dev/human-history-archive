@@ -23957,14 +23957,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 605",
       "timestamp": 1786890124.5448067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786890388.8383613
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4806,
-    "total_planned": 42,
+    "total_completed": 4807,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
