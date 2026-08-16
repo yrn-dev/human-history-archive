@@ -23757,14 +23757,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 598",
       "timestamp": 1786880692.78485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786880835.9318192
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4766,
-    "total_planned": 11,
+    "total_completed": 4767,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
