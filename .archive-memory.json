@@ -24177,14 +24177,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 481",
       "timestamp": 1786900784.1319394
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 682",
-      "variation": true
-    },
+      "timestamp": 1786901052.5403397
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 616",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4850,
-    "total_planned": 69,
+    "total_completed": 4851,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
