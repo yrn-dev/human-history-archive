@@ -23552,14 +23552,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 598",
       "timestamp": 1786871144.8199732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786871367.0339684
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 596",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4725,
-    "total_planned": 52,
+    "total_completed": 4726,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
