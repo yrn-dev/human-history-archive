@@ -23342,14 +23342,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 590",
       "timestamp": 1786861486.7708218
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 587",
-      "variation": true
-    },
+      "timestamp": 1786861667.6894882
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4683,
-    "total_planned": 23,
+    "total_completed": 4684,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
