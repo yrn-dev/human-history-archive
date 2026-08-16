@@ -22882,14 +22882,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 578",
       "timestamp": 1786840724.4534872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786840998.0761638
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4591,
-    "total_planned": 44,
+    "total_completed": 4592,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
