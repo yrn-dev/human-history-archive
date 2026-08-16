@@ -23127,14 +23127,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 589",
       "timestamp": 1786851717.8322418
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 589",
-      "variation": true
-    },
+      "timestamp": 1786851899.3870165
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 587",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4640,
-    "total_planned": 66,
+    "total_completed": 4641,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
