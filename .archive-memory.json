@@ -23892,14 +23892,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 605",
       "timestamp": 1786887253.1198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786887562.2128258
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4793,
-    "total_planned": 55,
+    "total_completed": 4794,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
