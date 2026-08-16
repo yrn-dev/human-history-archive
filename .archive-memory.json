@@ -23782,14 +23782,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 467",
       "timestamp": 1786881585.971045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 596",
-      "variation": true
-    },
+      "timestamp": 1786881790.6668746
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4771,
-    "total_planned": 6,
+    "total_completed": 4772,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
