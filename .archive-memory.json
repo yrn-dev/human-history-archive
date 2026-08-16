@@ -23287,14 +23287,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 589",
       "timestamp": 1786859224.9599378
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786859491.6724234
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 589",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4672,
-    "total_planned": 34,
+    "total_completed": 4673,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
