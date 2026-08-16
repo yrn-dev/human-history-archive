@@ -23717,14 +23717,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 598",
       "timestamp": 1786878877.946677
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 467",
-      "variation": true
-    },
+      "timestamp": 1786879130.2225845
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 599",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4758,
-    "total_planned": 19,
+    "total_completed": 4759,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
