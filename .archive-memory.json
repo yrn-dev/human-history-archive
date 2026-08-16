@@ -24472,14 +24472,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 617",
       "timestamp": 1786914619.1252413
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 617",
-      "variation": true
-    },
+      "timestamp": 1786914850.9061263
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 481",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4909,
-    "total_planned": 10,
+    "total_completed": 4910,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
