@@ -24102,14 +24102,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 608",
       "timestamp": 1786897140.7545037
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786897297.6344762
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4835,
-    "total_planned": 13,
+    "total_completed": 4836,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
