@@ -23092,14 +23092,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 578",
       "timestamp": 1786850130.0922728
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786850322.2204354
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4633,
-    "total_planned": 2,
+    "total_completed": 4634,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
