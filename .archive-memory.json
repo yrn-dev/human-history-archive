@@ -23497,14 +23497,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 662",
       "timestamp": 1786868630.842833
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 599",
-      "variation": true
-    },
+      "timestamp": 1786868836.6999385
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 598",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4714,
-    "total_planned": 63,
+    "total_completed": 4715,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
