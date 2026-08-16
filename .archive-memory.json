@@ -23052,14 +23052,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 642",
       "timestamp": 1786848049.0235887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786848268.539489
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 453",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4625,
-    "total_planned": 10,
+    "total_completed": 4626,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
