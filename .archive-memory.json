@@ -24172,14 +24172,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 614",
       "timestamp": 1786900496.3774495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 481",
-      "variation": true
-    },
+      "timestamp": 1786900784.1319394
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 682",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4849,
-    "total_planned": 70,
+    "total_completed": 4850,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
