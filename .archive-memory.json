@@ -22967,14 +22967,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 578",
       "timestamp": 1786844681.8153024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 578",
-      "variation": true
-    },
+      "timestamp": 1786844820.2598617
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 580",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4608,
-    "total_planned": 27,
+    "total_completed": 4609,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
