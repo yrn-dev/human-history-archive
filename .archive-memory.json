@@ -23877,14 +23877,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 607",
       "timestamp": 1786886310.7318406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 672",
-      "variation": true
-    },
+      "timestamp": 1786886657.420104
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 605",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4790,
-    "total_planned": 58,
+    "total_completed": 4791,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
