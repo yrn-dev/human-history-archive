@@ -24292,14 +24292,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 616",
       "timestamp": 1786906075.8623695
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1786906294.4571888
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 682",
@@ -24527,8 +24527,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4873,
-    "total_planned": 46,
+    "total_completed": 4874,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
