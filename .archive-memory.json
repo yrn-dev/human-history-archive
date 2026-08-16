@@ -23112,14 +23112,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 652",
       "timestamp": 1786851091.9032
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 590",
-      "variation": true
-    },
+      "timestamp": 1786851295.417717
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 460",
@@ -23462,8 +23462,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4637,
-    "total_planned": 69,
+    "total_completed": 4638,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
