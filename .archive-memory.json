@@ -23072,14 +23072,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 578",
       "timestamp": 1786849197.7461612
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1786849470.3109894
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4629,
-    "total_planned": 6,
+    "total_completed": 4630,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
