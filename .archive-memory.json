@@ -23927,14 +23927,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 605",
       "timestamp": 1786888845.5177257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786889134.193439
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 672",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4800,
-    "total_planned": 48,
+    "total_completed": 4801,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
