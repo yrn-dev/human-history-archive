@@ -23847,14 +23847,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 607",
       "timestamp": 1786884725.1126745
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 605",
-      "variation": true
-    },
+      "timestamp": 1786885002.414384
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 607",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4784,
-    "total_planned": 64,
+    "total_completed": 4785,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
