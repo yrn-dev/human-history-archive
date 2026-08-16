@@ -24117,14 +24117,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 607",
       "timestamp": 1786897719.833802
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1786898057.4844673
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 672",
@@ -24172,8 +24172,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4838,
-    "total_planned": 10,
+    "total_completed": 4839,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
