@@ -23462,14 +23462,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 599",
       "timestamp": 1786866951.6944396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 598",
-      "variation": true
-    },
+      "timestamp": 1786867259.6207747
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 599",
@@ -23817,8 +23817,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4707,
-    "total_planned": 70,
+    "total_completed": 4708,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
