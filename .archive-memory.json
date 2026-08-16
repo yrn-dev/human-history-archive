@@ -22917,14 +22917,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 580",
       "timestamp": 1786842194.5208545
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 580",
-      "variation": true
-    },
+      "timestamp": 1786842459.474229
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 578",
@@ -23107,8 +23107,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4598,
-    "total_planned": 37,
+    "total_completed": 4599,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
