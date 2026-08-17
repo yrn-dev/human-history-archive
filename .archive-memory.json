@@ -25312,14 +25312,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 502",
       "timestamp": 1786952974.7516065
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786953175.8601868
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5077,
-    "total_planned": 55,
+    "total_completed": 5078,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
