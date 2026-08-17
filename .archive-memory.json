@@ -25652,14 +25652,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 650",
       "timestamp": 1786968642.115927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786968821.4888637
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5145,
-    "total_planned": 58,
+    "total_completed": 5146,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
