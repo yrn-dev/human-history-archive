@@ -24902,14 +24902,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 702",
       "timestamp": 1786934908.8719897
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786935110.8729322
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4995,
-    "total_planned": 66,
+    "total_completed": 4996,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
