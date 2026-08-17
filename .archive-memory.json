@@ -24867,14 +24867,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 488",
       "timestamp": 1786933345.9648097
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 623",
-      "variation": true
-    },
+      "timestamp": 1786933506.6000218
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4988,
-    "total_planned": 2,
+    "total_completed": 4989,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
