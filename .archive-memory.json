@@ -25567,14 +25567,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 643",
       "timestamp": 1786964743.960129
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1786964933.2292006
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5128,
-    "total_planned": 4,
+    "total_completed": 5129,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
