@@ -26512,14 +26512,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 671",
       "timestamp": 1787010548.4149945
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 523",
-      "variation": true
-    },
+      "timestamp": 1787010857.311536
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5317,
-    "total_planned": 28,
+    "total_completed": 5318,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
