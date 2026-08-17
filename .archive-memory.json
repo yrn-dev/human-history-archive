@@ -25952,14 +25952,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 516",
       "timestamp": 1786983412.541483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 732",
-      "variation": true
-    },
+      "timestamp": 1786983718.1124713
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5205,
-    "total_planned": 69,
+    "total_completed": 5206,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
