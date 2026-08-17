@@ -25202,14 +25202,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 632",
       "timestamp": 1786948086.9351315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1786948249.6508615
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 702",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5055,
-    "total_planned": 6,
+    "total_completed": 5056,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
