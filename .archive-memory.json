@@ -25672,14 +25672,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 722",
       "timestamp": 1786969518.8835282
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786969656.5325356
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5149,
-    "total_planned": 54,
+    "total_completed": 5150,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
