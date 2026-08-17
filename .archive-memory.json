@@ -25272,14 +25272,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 712",
       "timestamp": 1786951062.0098398
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786951327.3256776
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 641",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5069,
-    "total_planned": 63,
+    "total_completed": 5070,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
