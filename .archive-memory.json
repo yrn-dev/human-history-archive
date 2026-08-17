@@ -25457,14 +25457,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 644",
       "timestamp": 1786959301.950215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1786959487.4872234
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5106,
-    "total_planned": 26,
+    "total_completed": 5107,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
