@@ -25577,14 +25577,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 643",
       "timestamp": 1786965196.8698845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786965435.5863242
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 502",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5130,
-    "total_planned": 2,
+    "total_completed": 5131,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
