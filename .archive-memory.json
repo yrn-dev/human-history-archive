@@ -26507,14 +26507,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 670",
       "timestamp": 1787010293.9414809
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 671",
-      "variation": true
-    },
+      "timestamp": 1787010548.4149945
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 523",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5316,
-    "total_planned": 29,
+    "total_completed": 5317,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
