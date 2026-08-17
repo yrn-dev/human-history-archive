@@ -26442,14 +26442,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 668",
       "timestamp": 1787007841.648858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787008103.6207914
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5303,
-    "total_planned": 42,
+    "total_completed": 5304,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
