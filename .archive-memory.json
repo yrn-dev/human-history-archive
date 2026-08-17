@@ -25367,14 +25367,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 644",
       "timestamp": 1786955378.245385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786955607.1104784
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 502",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5088,
-    "total_planned": 44,
+    "total_completed": 5089,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
