@@ -25892,14 +25892,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 650",
       "timestamp": 1786980288.0525262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 650",
-      "variation": true
-    },
+      "timestamp": 1786980573.9063046
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 650",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5193,
-    "total_planned": 10,
+    "total_completed": 5194,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
