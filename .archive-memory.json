@@ -25097,14 +25097,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 634",
       "timestamp": 1786943264.6471462
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1786943455.5556047
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 635",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5034,
-    "total_planned": 27,
+    "total_completed": 5035,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
