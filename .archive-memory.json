@@ -24787,14 +24787,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 625",
       "timestamp": 1786929639.095028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 623",
-      "variation": true
-    },
+      "timestamp": 1786929856.1588624
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 692",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4972,
-    "total_planned": 18,
+    "total_completed": 4973,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
