@@ -26262,14 +26262,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 661",
       "timestamp": 1786999539.8974113
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786999749.271333
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 662",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5267,
-    "total_planned": 7,
+    "total_completed": 5268,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
