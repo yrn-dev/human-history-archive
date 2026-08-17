@@ -25837,14 +25837,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 650",
       "timestamp": 1786977163.0251188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 653",
-      "variation": true
-    },
+      "timestamp": 1786977381.9289625
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5182,
-    "total_planned": 21,
+    "total_completed": 5183,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
