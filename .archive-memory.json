@@ -26367,14 +26367,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 671",
       "timestamp": 1787004116.8477075
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787004393.2883787
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5288,
-    "total_planned": 57,
+    "total_completed": 5289,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
