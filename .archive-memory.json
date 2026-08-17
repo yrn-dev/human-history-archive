@@ -25082,14 +25082,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 495",
       "timestamp": 1786942609.5964303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 495",
-      "variation": true
-    },
+      "timestamp": 1786942827.241954
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5031,
-    "total_planned": 30,
+    "total_completed": 5032,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
