@@ -25502,14 +25502,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 712",
       "timestamp": 1786961394.5982566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786961685.7340477
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5115,
-    "total_planned": 17,
+    "total_completed": 5116,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
