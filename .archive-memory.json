@@ -25037,14 +25037,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 632",
       "timestamp": 1786940663.7938795
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786940926.4447849
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5022,
-    "total_planned": 39,
+    "total_completed": 5023,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
