@@ -25322,14 +25322,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 643",
       "timestamp": 1786953458.694765
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 644",
-      "variation": true
-    },
+      "timestamp": 1786953596.4682486
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5079,
-    "total_planned": 53,
+    "total_completed": 5080,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
