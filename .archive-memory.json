@@ -26427,14 +26427,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 670",
       "timestamp": 1787007109.071508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787007365.6452284
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5300,
-    "total_planned": 45,
+    "total_completed": 5301,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
