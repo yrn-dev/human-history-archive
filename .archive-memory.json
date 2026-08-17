@@ -26327,14 +26327,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 668",
       "timestamp": 1787002385.885997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787002528.6905696
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5280,
-    "total_planned": 65,
+    "total_completed": 5281,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
