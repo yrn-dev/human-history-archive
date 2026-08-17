@@ -24922,14 +24922,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 702",
       "timestamp": 1786935700.1846788
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786935885.5615175
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4999,
-    "total_planned": 62,
+    "total_completed": 5000,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
