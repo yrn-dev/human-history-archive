@@ -25257,14 +25257,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 644",
       "timestamp": 1786950352.9128716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786950589.8781087
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 502",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5066,
-    "total_planned": 66,
+    "total_completed": 5067,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
