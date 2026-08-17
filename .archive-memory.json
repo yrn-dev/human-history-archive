@@ -24887,14 +24887,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 634",
       "timestamp": 1786934176.5175548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786934452.7978954
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 495",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4992,
-    "total_planned": 69,
+    "total_completed": 4993,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
