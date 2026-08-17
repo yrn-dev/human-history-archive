@@ -25222,14 +25222,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 702",
       "timestamp": 1786948850.3709342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786949093.2332597
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 635",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5059,
-    "total_planned": 2,
+    "total_completed": 5060,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
