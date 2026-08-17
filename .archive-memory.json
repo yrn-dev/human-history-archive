@@ -25347,14 +25347,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 641",
       "timestamp": 1786954638.2473838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786954822.5850072
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 644",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5084,
-    "total_planned": 48,
+    "total_completed": 5085,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
