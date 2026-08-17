@@ -25627,14 +25627,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 652",
       "timestamp": 1786967398.4098725
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 650",
-      "variation": true
-    },
+      "timestamp": 1786967585.587809
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5140,
-    "total_planned": 63,
+    "total_completed": 5141,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
