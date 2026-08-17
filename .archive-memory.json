@@ -24837,14 +24837,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 623",
       "timestamp": 1786931817.885167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786932086.9961226
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 488",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4982,
-    "total_planned": 8,
+    "total_completed": 4983,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
