@@ -24732,14 +24732,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 626",
       "timestamp": 1786926688.6673715
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786926975.7325783
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 488",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4961,
-    "total_planned": 29,
+    "total_completed": 4962,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
