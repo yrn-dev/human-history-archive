@@ -26282,14 +26282,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 662",
       "timestamp": 1787000489.0709476
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1787000753.8839102
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5271,
-    "total_planned": 3,
+    "total_completed": 5272,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
