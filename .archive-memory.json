@@ -24737,14 +24737,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 625",
       "timestamp": 1786926975.7325783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1786927275.4155815
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4962,
-    "total_planned": 28,
+    "total_completed": 4963,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
