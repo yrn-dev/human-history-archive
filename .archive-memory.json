@@ -25472,14 +25472,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 643",
       "timestamp": 1786959936.2832937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786960106.7256658
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 641",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5109,
-    "total_planned": 23,
+    "total_completed": 5110,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
