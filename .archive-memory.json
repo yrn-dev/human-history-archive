@@ -25017,14 +25017,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 702",
       "timestamp": 1786939635.7219496
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 495",
-      "variation": true
-    },
+      "timestamp": 1786939851.9820302
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5018,
-    "total_planned": 43,
+    "total_completed": 5019,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
