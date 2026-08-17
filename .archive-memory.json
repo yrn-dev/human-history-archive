@@ -25317,14 +25317,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 641",
       "timestamp": 1786953175.8601868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786953458.694765
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 644",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5078,
-    "total_planned": 54,
+    "total_completed": 5079,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
