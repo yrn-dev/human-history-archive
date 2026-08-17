@@ -25787,14 +25787,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 650",
       "timestamp": 1786974736.0670042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 653",
-      "variation": true
-    },
+      "timestamp": 1786974999.9613233
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 650",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5172,
-    "total_planned": 31,
+    "total_completed": 5173,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
