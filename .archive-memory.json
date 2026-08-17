@@ -25712,14 +25712,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 652",
       "timestamp": 1786971449.1890652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786971642.3392768
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5157,
-    "total_planned": 46,
+    "total_completed": 5158,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
