@@ -26022,14 +26022,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 732",
       "timestamp": 1786987755.9039903
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 516",
-      "variation": true
-    },
+      "timestamp": 1786988046.0655258
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5219,
-    "total_planned": 55,
+    "total_completed": 5220,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
