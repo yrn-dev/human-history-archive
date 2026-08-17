@@ -26227,14 +26227,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 516",
       "timestamp": 1786997945.697997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786998201.1157346
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 662",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5260,
-    "total_planned": 14,
+    "total_completed": 5261,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
