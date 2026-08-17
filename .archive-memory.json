@@ -25732,14 +25732,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 652",
       "timestamp": 1786972210.30189
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1786972497.2678065
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 509",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5161,
-    "total_planned": 42,
+    "total_completed": 5162,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
