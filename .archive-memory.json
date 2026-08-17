@@ -25737,14 +25737,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 722",
       "timestamp": 1786972497.2678065
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786972716.2755635
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 653",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5162,
-    "total_planned": 41,
+    "total_completed": 5163,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
