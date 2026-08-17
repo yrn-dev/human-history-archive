@@ -25782,14 +25782,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 652",
       "timestamp": 1786974563.9509392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 650",
-      "variation": true
-    },
+      "timestamp": 1786974736.0670042
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 653",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5171,
-    "total_planned": 32,
+    "total_completed": 5172,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
