@@ -25517,14 +25517,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 643",
       "timestamp": 1786962124.5827405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786962446.678438
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 641",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5118,
-    "total_planned": 14,
+    "total_completed": 5119,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
