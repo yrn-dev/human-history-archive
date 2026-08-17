@@ -25012,14 +25012,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 702",
       "timestamp": 1786939325.1286151
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 702",
-      "variation": true
-    },
+      "timestamp": 1786939635.7219496
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 495",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5017,
-    "total_planned": 44,
+    "total_completed": 5018,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
