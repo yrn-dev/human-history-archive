@@ -26237,14 +26237,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 662",
       "timestamp": 1786998458.0448143
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786998691.905431
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 516",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5262,
-    "total_planned": 12,
+    "total_completed": 5263,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
