@@ -25557,14 +25557,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 641",
       "timestamp": 1786964313.2517536
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786964587.3094838
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5126,
-    "total_planned": 6,
+    "total_completed": 5127,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
