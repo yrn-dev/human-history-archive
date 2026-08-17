@@ -26007,14 +26007,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 662",
       "timestamp": 1786986045.5424168
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786986303.1712756
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5216,
-    "total_planned": 58,
+    "total_completed": 5217,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
