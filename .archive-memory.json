@@ -25267,14 +25267,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 502",
       "timestamp": 1786950777.017421
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1786951062.0098398
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5068,
-    "total_planned": 64,
+    "total_completed": 5069,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
