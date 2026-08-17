@@ -24847,14 +24847,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 488",
       "timestamp": 1786932289.728637
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1786932550.5914164
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4984,
-    "total_planned": 6,
+    "total_completed": 4985,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
