@@ -25052,14 +25052,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 495",
       "timestamp": 1786941304.7773092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786941488.3228555
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5025,
-    "total_planned": 36,
+    "total_completed": 5026,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
