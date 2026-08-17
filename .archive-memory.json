@@ -24692,14 +24692,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 623",
       "timestamp": 1786924865.0792098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 623",
-      "variation": true
-    },
+      "timestamp": 1786925155.351645
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 626",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4953,
-    "total_planned": 37,
+    "total_completed": 4954,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
