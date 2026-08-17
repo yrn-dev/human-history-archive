@@ -24702,14 +24702,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 626",
       "timestamp": 1786925459.7876723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 692",
-      "variation": true
-    },
+      "timestamp": 1786925598.4783826
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4955,
-    "total_planned": 35,
+    "total_completed": 4956,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
