@@ -24987,14 +24987,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 634",
       "timestamp": 1786938241.004934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786938467.1577885
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5012,
-    "total_planned": 49,
+    "total_completed": 5013,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
