@@ -25042,14 +25042,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 634",
       "timestamp": 1786940926.4447849
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786941083.7836347
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 495",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5023,
-    "total_planned": 38,
+    "total_completed": 5024,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
