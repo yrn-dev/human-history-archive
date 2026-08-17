@@ -26182,14 +26182,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 662",
       "timestamp": 1786996118.2043548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 659",
-      "variation": true
-    },
+      "timestamp": 1786996378.8901103
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5251,
-    "total_planned": 23,
+    "total_completed": 5252,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
