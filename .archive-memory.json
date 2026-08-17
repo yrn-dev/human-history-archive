@@ -25307,14 +25307,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 644",
       "timestamp": 1786952690.8768244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1786952974.7516065
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 641",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5076,
-    "total_planned": 56,
+    "total_completed": 5077,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
