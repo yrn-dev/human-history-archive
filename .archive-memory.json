@@ -24762,14 +24762,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 488",
       "timestamp": 1786928340.2551224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 623",
-      "variation": true
-    },
+      "timestamp": 1786928550.2943985
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4967,
-    "total_planned": 23,
+    "total_completed": 4968,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
