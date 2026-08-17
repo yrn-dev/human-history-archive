@@ -25752,14 +25752,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 653",
       "timestamp": 1786973277.2265618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786973506.3364236
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 653",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5165,
-    "total_planned": 38,
+    "total_completed": 5166,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
