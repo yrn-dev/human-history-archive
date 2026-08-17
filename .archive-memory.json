@@ -25727,14 +25727,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 652",
       "timestamp": 1786972001.1333668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786972210.30189
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 722",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5160,
-    "total_planned": 43,
+    "total_completed": 5161,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
