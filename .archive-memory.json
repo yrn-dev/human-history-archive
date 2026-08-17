@@ -25987,14 +25987,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 661",
       "timestamp": 1786985145.75354
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 516",
-      "variation": true
-    },
+      "timestamp": 1786985444.9258735
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5212,
-    "total_planned": 62,
+    "total_completed": 5213,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
