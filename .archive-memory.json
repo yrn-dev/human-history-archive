@@ -25682,14 +25682,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 652",
       "timestamp": 1786969968.1504126
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1786970196.582213
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5151,
-    "total_planned": 52,
+    "total_completed": 5152,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
