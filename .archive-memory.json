@@ -24722,14 +24722,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 625",
       "timestamp": 1786926348.661559
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 692",
-      "variation": true
-    },
+      "timestamp": 1786926536.673119
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 626",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4959,
-    "total_planned": 31,
+    "total_completed": 4960,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
