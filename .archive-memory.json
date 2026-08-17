@@ -25687,14 +25687,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 722",
       "timestamp": 1786970196.582213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786970453.8934226
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 722",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5152,
-    "total_planned": 51,
+    "total_completed": 5153,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
