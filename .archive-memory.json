@@ -25957,14 +25957,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 732",
       "timestamp": 1786983718.1124713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786983937.8234384
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5206,
-    "total_planned": 68,
+    "total_completed": 5207,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
