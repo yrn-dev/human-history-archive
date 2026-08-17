@@ -26207,14 +26207,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 661",
       "timestamp": 1786997125.9279313
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786997262.7655969
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5256,
-    "total_planned": 18,
+    "total_completed": 5257,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
