@@ -25417,14 +25417,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 712",
       "timestamp": 1786957636.4125562
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786957802.6868954
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 712",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5098,
-    "total_planned": 34,
+    "total_completed": 5099,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
