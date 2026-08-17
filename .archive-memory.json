@@ -26457,14 +26457,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 670",
       "timestamp": 1787008483.2852485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 671",
-      "variation": true
-    },
+      "timestamp": 1787008647.2704144
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5306,
-    "total_planned": 39,
+    "total_completed": 5307,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
