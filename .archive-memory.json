@@ -25152,14 +25152,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 634",
       "timestamp": 1786945705.2855136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786945932.3864207
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 635",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5045,
-    "total_planned": 16,
+    "total_completed": 5046,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
