@@ -26332,14 +26332,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 742",
       "timestamp": 1787002528.6905696
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 668",
-      "variation": true
-    },
+      "timestamp": 1787002707.7909157
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5281,
-    "total_planned": 64,
+    "total_completed": 5282,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
