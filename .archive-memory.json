@@ -26392,14 +26392,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 670",
       "timestamp": 1787005408.8625956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787005570.2545745
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5293,
-    "total_planned": 52,
+    "total_completed": 5294,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
