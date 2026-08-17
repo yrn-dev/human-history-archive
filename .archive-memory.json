@@ -25857,14 +25857,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 652",
       "timestamp": 1786978138.0796788
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1786978443.483747
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 509",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5186,
-    "total_planned": 17,
+    "total_completed": 5187,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
