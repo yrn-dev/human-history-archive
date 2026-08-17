@@ -25137,14 +25137,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 632",
       "timestamp": 1786944977.9077072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786945251.3736556
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 635",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5042,
-    "total_planned": 19,
+    "total_completed": 5043,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
