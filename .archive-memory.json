@@ -25632,14 +25632,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 650",
       "timestamp": 1786967585.587809
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786967835.057806
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5141,
-    "total_planned": 62,
+    "total_completed": 5142,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
