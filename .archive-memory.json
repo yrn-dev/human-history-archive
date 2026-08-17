@@ -26377,14 +26377,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 668",
       "timestamp": 1787004638.286324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787004811.9428387
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5290,
-    "total_planned": 55,
+    "total_completed": 5291,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
