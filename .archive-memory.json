@@ -26482,14 +26482,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 670",
       "timestamp": 1787009427.7934694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787009561.551751
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 671",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5311,
-    "total_planned": 34,
+    "total_completed": 5312,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
