@@ -25167,14 +25167,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 634",
       "timestamp": 1786946418.1296995
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786946654.9146194
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5048,
-    "total_planned": 13,
+    "total_completed": 5049,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
