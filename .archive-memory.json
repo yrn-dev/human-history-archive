@@ -25602,14 +25602,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 722",
       "timestamp": 1786966321.9346824
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786966572.2078772
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 722",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5135,
-    "total_planned": 68,
+    "total_completed": 5136,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
