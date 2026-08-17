@@ -26462,14 +26462,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 671",
       "timestamp": 1787008647.2704144
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 668",
-      "variation": true
-    },
+      "timestamp": 1787008892.5383804
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 523",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5307,
-    "total_planned": 38,
+    "total_completed": 5308,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
