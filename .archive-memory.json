@@ -25107,14 +25107,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 635",
       "timestamp": 1786943679.353052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786943868.3202326
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5036,
-    "total_planned": 25,
+    "total_completed": 5037,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
