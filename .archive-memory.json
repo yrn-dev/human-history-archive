@@ -24947,14 +24947,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 632",
       "timestamp": 1786936689.7480576
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 702",
-      "variation": true
-    },
+      "timestamp": 1786936870.2008502
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5004,
-    "total_planned": 57,
+    "total_completed": 5005,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
