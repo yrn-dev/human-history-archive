@@ -25487,14 +25487,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 641",
       "timestamp": 1786960715.1391673
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786960928.2518291
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5112,
-    "total_planned": 20,
+    "total_completed": 5113,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
