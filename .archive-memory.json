@@ -26247,14 +26247,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 516",
       "timestamp": 1786998886.9130118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 659",
-      "variation": true
-    },
+      "timestamp": 1786999020.1872659
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5264,
-    "total_planned": 10,
+    "total_completed": 5265,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
