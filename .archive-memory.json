@@ -25377,14 +25377,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 502",
       "timestamp": 1786955907.1205258
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 644",
-      "variation": true
-    },
+      "timestamp": 1786956051.3213599
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 641",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5090,
-    "total_planned": 42,
+    "total_completed": 5091,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
