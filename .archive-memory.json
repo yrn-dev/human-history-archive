@@ -24967,14 +24967,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 632",
       "timestamp": 1786937534.5340114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786937700.1489751
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5008,
-    "total_planned": 53,
+    "total_completed": 5009,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
