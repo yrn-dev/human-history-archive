@@ -25637,14 +25637,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 652",
       "timestamp": 1786967835.057806
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786968128.8425162
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 650",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5142,
-    "total_planned": 61,
+    "total_completed": 5143,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
