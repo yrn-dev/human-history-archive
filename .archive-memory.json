@@ -24752,14 +24752,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 623",
       "timestamp": 1786927755.1566358
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786928060.6553965
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 488",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4965,
-    "total_planned": 25,
+    "total_completed": 4966,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
