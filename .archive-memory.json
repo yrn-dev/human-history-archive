@@ -25022,14 +25022,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 495",
       "timestamp": 1786939851.9820302
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786940093.7304714
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 702",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5019,
-    "total_planned": 42,
+    "total_completed": 5020,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
