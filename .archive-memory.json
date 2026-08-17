@@ -26112,14 +26112,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 659",
       "timestamp": 1786993121.7247624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 659",
-      "variation": true
-    },
+      "timestamp": 1786993265.6768682
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5237,
-    "total_planned": 37,
+    "total_completed": 5238,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
