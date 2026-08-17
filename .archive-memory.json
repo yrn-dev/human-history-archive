@@ -25217,14 +25217,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 632",
       "timestamp": 1786948570.8818152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 702",
-      "variation": true
-    },
+      "timestamp": 1786948850.3709342
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5058,
-    "total_planned": 3,
+    "total_completed": 5059,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
