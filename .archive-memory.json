@@ -24932,14 +24932,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 632",
       "timestamp": 1786936190.149692
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1786936363.0003185
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 702",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5001,
-    "total_planned": 60,
+    "total_completed": 5002,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
