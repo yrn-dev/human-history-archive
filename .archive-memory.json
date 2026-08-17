@@ -24757,14 +24757,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 625",
       "timestamp": 1786928060.6553965
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 488",
-      "variation": true
-    },
+      "timestamp": 1786928340.2551224
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4966,
-    "total_planned": 24,
+    "total_completed": 4967,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
