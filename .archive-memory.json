@@ -25647,14 +25647,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 650",
       "timestamp": 1786968435.2547035
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 650",
-      "variation": true
-    },
+      "timestamp": 1786968642.115927
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5144,
-    "total_planned": 59,
+    "total_completed": 5145,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
