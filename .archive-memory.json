@@ -25597,14 +25597,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 653",
       "timestamp": 1786966009.3934376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1786966321.9346824
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5134,
-    "total_planned": 69,
+    "total_completed": 5135,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
