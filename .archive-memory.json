@@ -24782,14 +24782,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 625",
       "timestamp": 1786929349.244541
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786929639.095028
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4971,
-    "total_planned": 19,
+    "total_completed": 4972,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
