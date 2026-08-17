@@ -26127,14 +26127,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 661",
       "timestamp": 1786993571.5198014
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 732",
-      "variation": true
-    },
+      "timestamp": 1786993818.5781868
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5240,
-    "total_planned": 34,
+    "total_completed": 5241,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
