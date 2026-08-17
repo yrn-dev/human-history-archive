@@ -25822,14 +25822,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 653",
       "timestamp": 1786976430.9945343
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 653",
-      "variation": true
-    },
+      "timestamp": 1786976650.9818587
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 722",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5179,
-    "total_planned": 24,
+    "total_completed": 5180,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
