@@ -24937,14 +24937,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 635",
       "timestamp": 1786936363.0003185
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 702",
-      "variation": true
-    },
+      "timestamp": 1786936516.2474325
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5002,
-    "total_planned": 59,
+    "total_completed": 5003,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
