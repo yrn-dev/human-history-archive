@@ -25937,18 +25937,17 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 509",
       "timestamp": 1786982499.9294155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 650",
-      "variation": true
+      "timestamp": 1786982811.074738
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5202,
-    "total_planned": 1,
+    "total_completed": 5203,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
