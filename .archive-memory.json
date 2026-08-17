@@ -26422,14 +26422,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 668",
       "timestamp": 1787006888.1891854
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787007109.071508
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5299,
-    "total_planned": 46,
+    "total_completed": 5300,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
