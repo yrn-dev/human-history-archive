@@ -26302,14 +26302,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 523",
       "timestamp": 1787001275.2972693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787001478.615367
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5275,
-    "total_planned": 70,
+    "total_completed": 5276,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
