@@ -25147,14 +25147,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 635",
       "timestamp": 1786945553.705645
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786945705.2855136
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5044,
-    "total_planned": 17,
+    "total_completed": 5045,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
