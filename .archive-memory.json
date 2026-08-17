@@ -26052,14 +26052,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 732",
       "timestamp": 1786989775.9931617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 732",
-      "variation": true
-    },
+      "timestamp": 1786990333.944073
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 732",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5225,
-    "total_planned": 49,
+    "total_completed": 5226,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
