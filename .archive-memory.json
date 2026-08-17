@@ -26407,14 +26407,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 670",
       "timestamp": 1787006069.5198493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787006312.545575
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 742",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5296,
-    "total_planned": 49,
+    "total_completed": 5297,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
