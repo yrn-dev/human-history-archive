@@ -25552,14 +25552,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 643",
       "timestamp": 1786964016.6479013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786964313.2517536
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5125,
-    "total_planned": 7,
+    "total_completed": 5126,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
