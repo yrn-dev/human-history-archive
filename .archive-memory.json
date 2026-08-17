@@ -25722,14 +25722,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 652",
       "timestamp": 1786971840.0086858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786972001.1333668
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5159,
-    "total_planned": 44,
+    "total_completed": 5160,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
