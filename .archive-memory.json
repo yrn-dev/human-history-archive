@@ -25962,14 +25962,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 661",
       "timestamp": 1786983937.8234384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786984239.9047265
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 662",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5207,
-    "total_planned": 67,
+    "total_completed": 5208,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
