@@ -24777,14 +24777,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 625",
       "timestamp": 1786929178.173642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786929349.244541
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4970,
-    "total_planned": 20,
+    "total_completed": 4971,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
