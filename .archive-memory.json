@@ -25907,14 +25907,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 653",
       "timestamp": 1786981290.9299703
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786981502.8132653
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 722",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5196,
-    "total_planned": 7,
+    "total_completed": 5197,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
