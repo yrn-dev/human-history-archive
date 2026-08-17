@@ -26117,14 +26117,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 659",
       "timestamp": 1786993265.6768682
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786993425.301221
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5238,
-    "total_planned": 36,
+    "total_completed": 5239,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
