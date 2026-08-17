@@ -25702,14 +25702,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 509",
       "timestamp": 1786970941.8445961
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786971256.5686793
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5155,
-    "total_planned": 48,
+    "total_completed": 5156,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
