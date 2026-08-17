@@ -26107,14 +26107,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 661",
       "timestamp": 1786992935.0164313
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 659",
-      "variation": true
-    },
+      "timestamp": 1786993121.7247624
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5236,
-    "total_planned": 38,
+    "total_completed": 5237,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
