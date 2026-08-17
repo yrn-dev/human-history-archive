@@ -25882,14 +25882,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 650",
       "timestamp": 1786979807.7444773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 650",
-      "variation": true
-    },
+      "timestamp": 1786980031.646031
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 650",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5191,
-    "total_planned": 12,
+    "total_completed": 5192,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
