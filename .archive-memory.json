@@ -25162,14 +25162,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 635",
       "timestamp": 1786946155.3260653
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786946418.1296995
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5047,
-    "total_planned": 14,
+    "total_completed": 5048,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
