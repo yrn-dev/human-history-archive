@@ -25437,14 +25437,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 641",
       "timestamp": 1786958244.503254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786958544.8212492
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 712",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5102,
-    "total_planned": 30,
+    "total_completed": 5103,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
