@@ -26437,14 +26437,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 670",
       "timestamp": 1787007588.282016
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 668",
-      "variation": true
-    },
+      "timestamp": 1787007841.648858
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 742",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5302,
-    "total_planned": 43,
+    "total_completed": 5303,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
