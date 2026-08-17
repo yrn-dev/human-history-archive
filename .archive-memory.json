@@ -26177,14 +26177,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 659",
       "timestamp": 1786995861.2837422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786996118.2043548
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5250,
-    "total_planned": 24,
+    "total_completed": 5251,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
