@@ -25077,14 +25077,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 634",
       "timestamp": 1786942350.2436001
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 495",
-      "variation": true
-    },
+      "timestamp": 1786942609.5964303
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 495",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5030,
-    "total_planned": 31,
+    "total_completed": 5031,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
