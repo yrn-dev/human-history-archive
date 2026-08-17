@@ -25757,14 +25757,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 652",
       "timestamp": 1786973506.3364236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 653",
-      "variation": true
-    },
+      "timestamp": 1786973670.415506
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5166,
-    "total_planned": 37,
+    "total_completed": 5167,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
