@@ -25027,14 +25027,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 634",
       "timestamp": 1786940093.7304714
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 702",
-      "variation": true
-    },
+      "timestamp": 1786940397.4841824
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5020,
-    "total_planned": 41,
+    "total_completed": 5021,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
