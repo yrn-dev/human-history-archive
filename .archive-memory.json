@@ -24912,14 +24912,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 632",
       "timestamp": 1786935374.408773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786935539.780769
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 702",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4997,
-    "total_planned": 64,
+    "total_completed": 4998,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
