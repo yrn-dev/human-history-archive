@@ -26027,14 +26027,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 516",
       "timestamp": 1786988046.0655258
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786988197.4812021
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 732",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5220,
-    "total_planned": 54,
+    "total_completed": 5221,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
