@@ -25067,14 +25067,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 495",
       "timestamp": 1786941861.7395391
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786942100.2927356
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5028,
-    "total_planned": 33,
+    "total_completed": 5029,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
