@@ -26397,14 +26397,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 670",
       "timestamp": 1787005570.2545745
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787005761.081481
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5294,
-    "total_planned": 51,
+    "total_completed": 5295,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
