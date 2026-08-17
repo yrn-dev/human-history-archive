@@ -24797,14 +24797,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 692",
       "timestamp": 1786930095.309432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 692",
-      "variation": true
-    },
+      "timestamp": 1786930282.3681457
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4974,
-    "total_planned": 16,
+    "total_completed": 4975,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
