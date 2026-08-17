@@ -25242,14 +25242,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 712",
       "timestamp": 1786949595.8221605
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 644",
-      "variation": true
-    },
+      "timestamp": 1786949899.997988
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5063,
-    "total_planned": 69,
+    "total_completed": 5064,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
