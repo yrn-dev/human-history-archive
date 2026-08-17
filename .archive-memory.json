@@ -24802,14 +24802,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 692",
       "timestamp": 1786930282.3681457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786930449.2819529
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4975,
-    "total_planned": 15,
+    "total_completed": 4976,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
