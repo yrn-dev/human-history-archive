@@ -24832,14 +24832,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 626",
       "timestamp": 1786931580.7435346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 623",
-      "variation": true
-    },
+      "timestamp": 1786931817.885167
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 625",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4981,
-    "total_planned": 9,
+    "total_completed": 4982,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
