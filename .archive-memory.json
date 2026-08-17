@@ -25362,14 +25362,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 643",
       "timestamp": 1786955191.016112
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 644",
-      "variation": true
-    },
+      "timestamp": 1786955378.245385
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5087,
-    "total_planned": 45,
+    "total_completed": 5088,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
