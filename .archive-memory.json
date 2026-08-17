@@ -25512,14 +25512,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 643",
       "timestamp": 1786961858.3036618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786962124.5827405
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 641",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5117,
-    "total_planned": 15,
+    "total_completed": 5118,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
