@@ -25827,14 +25827,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 653",
       "timestamp": 1786976650.9818587
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1786976853.608238
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 650",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5180,
-    "total_planned": 23,
+    "total_completed": 5181,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
