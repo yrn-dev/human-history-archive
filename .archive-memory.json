@@ -26097,14 +26097,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 659",
       "timestamp": 1786992512.029298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 516",
-      "variation": true
-    },
+      "timestamp": 1786992786.919908
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5234,
-    "total_planned": 40,
+    "total_completed": 5235,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
