@@ -26432,14 +26432,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 670",
       "timestamp": 1787007365.6452284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787007588.282016
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5301,
-    "total_planned": 44,
+    "total_completed": 5302,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
