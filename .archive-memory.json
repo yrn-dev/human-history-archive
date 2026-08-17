@@ -25872,14 +25872,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 652",
       "timestamp": 1786979133.8976357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 650",
-      "variation": true
-    },
+      "timestamp": 1786979498.8569536
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 650",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5189,
-    "total_planned": 14,
+    "total_completed": 5190,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
