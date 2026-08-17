@@ -26242,14 +26242,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 661",
       "timestamp": 1786998691.905431
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 516",
-      "variation": true
-    },
+      "timestamp": 1786998886.9130118
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5263,
-    "total_planned": 11,
+    "total_completed": 5264,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
