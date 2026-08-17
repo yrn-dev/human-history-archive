@@ -25212,14 +25212,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 702",
       "timestamp": 1786948384.1164577
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786948570.8818152
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 702",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5057,
-    "total_planned": 4,
+    "total_completed": 5058,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
