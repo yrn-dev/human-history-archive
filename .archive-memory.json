@@ -26122,14 +26122,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 661",
       "timestamp": 1786993425.301221
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786993571.5198014
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 732",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5239,
-    "total_planned": 35,
+    "total_completed": 5240,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
