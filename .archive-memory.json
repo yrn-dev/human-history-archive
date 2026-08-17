@@ -25697,14 +25697,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 722",
       "timestamp": 1786970733.2183623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 509",
-      "variation": true
-    },
+      "timestamp": 1786970941.8445961
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 509",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5154,
-    "total_planned": 49,
+    "total_completed": 5155,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
