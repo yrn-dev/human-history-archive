@@ -25407,14 +25407,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 643",
       "timestamp": 1786957156.4532163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786957371.1553738
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 712",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5096,
-    "total_planned": 36,
+    "total_completed": 5097,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
