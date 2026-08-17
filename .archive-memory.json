@@ -26272,14 +26272,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 662",
       "timestamp": 1786999992.2298708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 659",
-      "variation": true
-    },
+      "timestamp": 1787000293.3772335
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 662",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5269,
-    "total_planned": 5,
+    "total_completed": 5270,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
