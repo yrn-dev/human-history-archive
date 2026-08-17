@@ -25967,14 +25967,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 661",
       "timestamp": 1786984239.9047265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786984467.3090177
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5208,
-    "total_planned": 66,
+    "total_completed": 5209,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
