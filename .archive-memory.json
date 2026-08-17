@@ -25062,14 +25062,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 634",
       "timestamp": 1786941653.7054315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 495",
-      "variation": true
-    },
+      "timestamp": 1786941861.7395391
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5027,
-    "total_planned": 34,
+    "total_completed": 5028,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
