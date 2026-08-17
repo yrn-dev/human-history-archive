@@ -25047,14 +25047,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 632",
       "timestamp": 1786941083.7836347
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 495",
-      "variation": true
-    },
+      "timestamp": 1786941304.7773092
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5024,
-    "total_planned": 37,
+    "total_completed": 5025,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
