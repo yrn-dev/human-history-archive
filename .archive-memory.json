@@ -25297,14 +25297,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 641",
       "timestamp": 1786952102.4343913
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 502",
-      "variation": true
-    },
+      "timestamp": 1786952400.0755413
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 644",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5074,
-    "total_planned": 58,
+    "total_completed": 5075,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
