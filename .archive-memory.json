@@ -26102,14 +26102,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 516",
       "timestamp": 1786992786.919908
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786992935.0164313
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5235,
-    "total_planned": 39,
+    "total_completed": 5236,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
