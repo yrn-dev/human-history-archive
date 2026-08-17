@@ -25192,14 +25192,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 632",
       "timestamp": 1786947496.7273023
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 702",
-      "variation": true
-    },
+      "timestamp": 1786947762.7126603
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5053,
-    "total_planned": 8,
+    "total_completed": 5054,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
