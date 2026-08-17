@@ -25852,14 +25852,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 652",
       "timestamp": 1786977873.8202286
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786978138.0796788
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 722",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5185,
-    "total_planned": 18,
+    "total_completed": 5186,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
