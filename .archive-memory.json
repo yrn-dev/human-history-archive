@@ -25657,14 +25657,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 652",
       "timestamp": 1786968821.4888637
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786969062.4776127
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5146,
-    "total_planned": 57,
+    "total_completed": 5147,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
