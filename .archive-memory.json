@@ -26217,14 +26217,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 661",
       "timestamp": 1786997541.9316678
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 659",
-      "variation": true
-    },
+      "timestamp": 1786997749.179708
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 516",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5258,
-    "total_planned": 16,
+    "total_completed": 5259,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
