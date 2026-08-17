@@ -24962,14 +24962,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 635",
       "timestamp": 1786937309.6958978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786937534.5340114
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5007,
-    "total_planned": 54,
+    "total_completed": 5008,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
