@@ -26172,14 +26172,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 659",
       "timestamp": 1786995589.1684344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 659",
-      "variation": true
-    },
+      "timestamp": 1786995861.2837422
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 662",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5249,
-    "total_planned": 25,
+    "total_completed": 5250,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
