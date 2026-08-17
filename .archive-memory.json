@@ -25092,14 +25092,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 634",
       "timestamp": 1786942987.8529928
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786943264.6471462
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 635",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5033,
-    "total_planned": 28,
+    "total_completed": 5034,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
