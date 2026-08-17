@@ -25442,14 +25442,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 643",
       "timestamp": 1786958544.8212492
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1786958712.5974228
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 641",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5103,
-    "total_planned": 29,
+    "total_completed": 5104,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
