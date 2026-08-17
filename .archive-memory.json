@@ -26137,14 +26137,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 659",
       "timestamp": 1786994082.516359
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 732",
-      "variation": true
-    },
+      "timestamp": 1786994244.9432237
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5242,
-    "total_planned": 32,
+    "total_completed": 5243,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
