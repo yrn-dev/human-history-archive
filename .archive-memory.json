@@ -25817,14 +25817,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 650",
       "timestamp": 1786976141.0151048
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 653",
-      "variation": true
-    },
+      "timestamp": 1786976430.9945343
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 653",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5178,
-    "total_planned": 25,
+    "total_completed": 5179,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
