@@ -25292,14 +25292,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 712",
       "timestamp": 1786951936.2963555
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786952102.4343913
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 502",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5073,
-    "total_planned": 59,
+    "total_completed": 5074,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
