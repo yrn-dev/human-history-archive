@@ -25992,14 +25992,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 516",
       "timestamp": 1786985444.9258735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 659",
-      "variation": true
-    },
+      "timestamp": 1786985640.395894
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5213,
-    "total_planned": 61,
+    "total_completed": 5214,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
