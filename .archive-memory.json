@@ -24992,14 +24992,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 634",
       "timestamp": 1786938467.1577885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786938606.756121
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5013,
-    "total_planned": 48,
+    "total_completed": 5014,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
