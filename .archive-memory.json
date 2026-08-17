@@ -26487,14 +26487,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 742",
       "timestamp": 1787009561.551751
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 671",
-      "variation": true
-    },
+      "timestamp": 1787009749.1097476
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5312,
-    "total_planned": 33,
+    "total_completed": 5313,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
