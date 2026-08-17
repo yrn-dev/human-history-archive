@@ -25977,14 +25977,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 661",
       "timestamp": 1786984653.7386003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786984921.6967235
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5210,
-    "total_planned": 64,
+    "total_completed": 5211,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
