@@ -26157,14 +26157,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 661",
       "timestamp": 1786995015.1871052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786995300.8436823
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5246,
-    "total_planned": 28,
+    "total_completed": 5247,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
