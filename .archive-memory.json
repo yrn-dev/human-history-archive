@@ -25237,14 +25237,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 502",
       "timestamp": 1786949428.0018256
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1786949595.8221605
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 644",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5062,
-    "total_planned": 70,
+    "total_completed": 5063,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
