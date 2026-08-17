@@ -25812,14 +25812,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 652",
       "timestamp": 1786975974.4762154
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 650",
-      "variation": true
-    },
+      "timestamp": 1786976141.0151048
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 653",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5177,
-    "total_planned": 26,
+    "total_completed": 5178,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
