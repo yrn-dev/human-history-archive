@@ -24957,14 +24957,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 632",
       "timestamp": 1786937097.601741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1786937309.6958978
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 632",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5006,
-    "total_planned": 55,
+    "total_completed": 5007,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
