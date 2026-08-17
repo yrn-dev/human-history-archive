@@ -26472,14 +26472,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 523",
       "timestamp": 1787009075.8826308
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 668",
-      "variation": true
-    },
+      "timestamp": 1787009251.7721558
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5309,
-    "total_planned": 36,
+    "total_completed": 5310,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
