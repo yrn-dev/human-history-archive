@@ -25642,14 +25642,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 652",
       "timestamp": 1786968128.8425162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 650",
-      "variation": true
-    },
+      "timestamp": 1786968435.2547035
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 650",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5143,
-    "total_planned": 60,
+    "total_completed": 5144,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
