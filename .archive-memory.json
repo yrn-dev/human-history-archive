@@ -25132,14 +25132,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 495",
       "timestamp": 1786944729.0986629
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786944977.9077072
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5041,
-    "total_planned": 20,
+    "total_completed": 5042,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
