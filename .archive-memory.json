@@ -25432,14 +25432,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 641",
       "timestamp": 1786958094.1908197
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786958244.503254
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5101,
-    "total_planned": 31,
+    "total_completed": 5102,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
