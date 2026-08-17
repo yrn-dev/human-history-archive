@@ -26042,14 +26042,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 661",
       "timestamp": 1786989156.8433444
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 732",
-      "variation": true
-    },
+      "timestamp": 1786989493.27982
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 732",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5223,
-    "total_planned": 51,
+    "total_completed": 5224,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
