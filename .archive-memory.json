@@ -25117,14 +25117,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 634",
       "timestamp": 1786944084.994148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786944219.1007574
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5038,
-    "total_planned": 23,
+    "total_completed": 5039,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
