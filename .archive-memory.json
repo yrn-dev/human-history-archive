@@ -25187,14 +25187,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 632",
       "timestamp": 1786947336.279648
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786947496.7273023
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 702",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5052,
-    "total_planned": 9,
+    "total_completed": 5053,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
