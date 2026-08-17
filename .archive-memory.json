@@ -25412,14 +25412,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 641",
       "timestamp": 1786957371.1553738
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1786957636.4125562
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5097,
-    "total_planned": 35,
+    "total_completed": 5098,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
