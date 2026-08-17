@@ -26412,14 +26412,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 670",
       "timestamp": 1787006312.545575
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787006626.2264445
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5297,
-    "total_planned": 48,
+    "total_completed": 5298,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
