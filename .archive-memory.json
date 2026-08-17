@@ -24942,14 +24942,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 702",
       "timestamp": 1786936516.2474325
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786936689.7480576
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 702",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5003,
-    "total_planned": 58,
+    "total_completed": 5004,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
