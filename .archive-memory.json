@@ -25252,14 +25252,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 643",
       "timestamp": 1786950144.3285177
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 644",
-      "variation": true
-    },
+      "timestamp": 1786950352.9128716
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5065,
-    "total_planned": 67,
+    "total_completed": 5066,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
