@@ -25707,14 +25707,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 509",
       "timestamp": 1786971256.5686793
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786971449.1890652
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 652",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5156,
-    "total_planned": 47,
+    "total_completed": 5157,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
