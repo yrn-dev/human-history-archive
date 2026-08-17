@@ -25032,14 +25032,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 702",
       "timestamp": 1786940397.4841824
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786940663.7938795
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5021,
-    "total_planned": 40,
+    "total_completed": 5022,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
