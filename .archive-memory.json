@@ -24972,14 +24972,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 634",
       "timestamp": 1786937700.1489751
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786937935.1032681
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5009,
-    "total_planned": 52,
+    "total_completed": 5010,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
