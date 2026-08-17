@@ -25497,14 +25497,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 643",
       "timestamp": 1786961178.7167802
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1786961394.5982566
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5114,
-    "total_planned": 18,
+    "total_completed": 5115,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
