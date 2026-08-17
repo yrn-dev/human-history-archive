@@ -25382,14 +25382,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 644",
       "timestamp": 1786956051.3213599
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 641",
-      "variation": true
-    },
+      "timestamp": 1786956299.1843483
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 644",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5091,
-    "total_planned": 41,
+    "total_completed": 5092,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
