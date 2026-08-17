@@ -25532,14 +25532,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 643",
       "timestamp": 1786962942.556962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786963263.5852065
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 712",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5121,
-    "total_planned": 11,
+    "total_completed": 5122,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
