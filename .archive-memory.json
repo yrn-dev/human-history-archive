@@ -24952,14 +24952,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 702",
       "timestamp": 1786936870.2008502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 632",
-      "variation": true
-    },
+      "timestamp": 1786937097.601741
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 635",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5005,
-    "total_planned": 56,
+    "total_completed": 5006,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
