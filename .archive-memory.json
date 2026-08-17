@@ -24882,14 +24882,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 632",
       "timestamp": 1786933987.5411768
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786934176.5175548
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4991,
-    "total_planned": 70,
+    "total_completed": 4992,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
