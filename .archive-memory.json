@@ -25807,14 +25807,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 652",
       "timestamp": 1786975711.6644478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 652",
-      "variation": true
-    },
+      "timestamp": 1786975974.4762154
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 650",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5176,
-    "total_planned": 27,
+    "total_completed": 5177,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
