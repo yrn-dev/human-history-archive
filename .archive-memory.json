@@ -25692,14 +25692,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 652",
       "timestamp": 1786970453.8934226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1786970733.2183623
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 509",
@@ -25947,8 +25947,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5153,
-    "total_planned": 50,
+    "total_completed": 5154,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
