@@ -25947,14 +25947,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 659",
       "timestamp": 1786983119.8980064
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 516",
-      "variation": true
-    },
+      "timestamp": 1786983412.541483
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 732",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5204,
-    "total_planned": 70,
+    "total_completed": 5205,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
