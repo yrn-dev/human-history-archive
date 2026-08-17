@@ -26452,14 +26452,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 670",
       "timestamp": 1787008344.128369
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787008483.2852485
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 671",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5305,
-    "total_planned": 40,
+    "total_completed": 5306,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
