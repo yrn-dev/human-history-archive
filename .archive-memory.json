@@ -26062,14 +26062,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 732",
       "timestamp": 1786990687.6710706
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786990933.4215097
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5227,
-    "total_planned": 47,
+    "total_completed": 5228,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
