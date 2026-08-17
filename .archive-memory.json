@@ -26362,14 +26362,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 670",
       "timestamp": 1787003900.9303946
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 671",
-      "variation": true
-    },
+      "timestamp": 1787004116.8477075
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5287,
-    "total_planned": 58,
+    "total_completed": 5288,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
