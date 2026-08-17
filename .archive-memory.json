@@ -25327,14 +25327,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 644",
       "timestamp": 1786953596.4682486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786953734.8514063
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 643",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5080,
-    "total_planned": 52,
+    "total_completed": 5081,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
