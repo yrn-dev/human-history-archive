@@ -26497,14 +26497,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 668",
       "timestamp": 1787009888.8721726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 671",
-      "variation": true
-    },
+      "timestamp": 1787010149.4390178
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5314,
-    "total_planned": 31,
+    "total_completed": 5315,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
