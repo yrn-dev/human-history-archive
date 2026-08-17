@@ -24807,14 +24807,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 625",
       "timestamp": 1786930449.2819529
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 623",
-      "variation": true
-    },
+      "timestamp": 1786930700.3613775
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 623",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4976,
-    "total_planned": 14,
+    "total_completed": 4977,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
