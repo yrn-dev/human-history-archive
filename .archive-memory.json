@@ -25282,14 +25282,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 641",
       "timestamp": 1786951565.5673633
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786951779.6577954
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 712",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5071,
-    "total_planned": 61,
+    "total_completed": 5072,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
