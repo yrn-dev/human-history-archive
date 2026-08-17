@@ -25072,14 +25072,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 632",
       "timestamp": 1786942100.2927356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 634",
-      "variation": true
-    },
+      "timestamp": 1786942350.2436001
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 495",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5029,
-    "total_planned": 32,
+    "total_completed": 5030,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
