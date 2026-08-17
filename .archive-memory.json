@@ -25002,14 +25002,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 634",
       "timestamp": 1786938899.3925517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1786939148.4664032
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 702",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5015,
-    "total_planned": 46,
+    "total_completed": 5016,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
