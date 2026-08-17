@@ -26292,18 +26292,17 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 661",
       "timestamp": 1787000940.6386492
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 659",
-      "variation": true
+      "timestamp": 1787001137.8027816
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5273,
-    "total_planned": 1,
+    "total_completed": 5274,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
