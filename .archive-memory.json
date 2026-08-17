@@ -25227,18 +25227,17 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 632",
       "timestamp": 1786949093.2332597
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 635",
-      "variation": true
+      "timestamp": 1786949269.9361875
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5060,
-    "total_planned": 1,
+    "total_completed": 5061,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
