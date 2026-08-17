@@ -24897,14 +24897,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 495",
       "timestamp": 1786934701.8354888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 702",
-      "variation": true
-    },
+      "timestamp": 1786934908.8719897
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4994,
-    "total_planned": 67,
+    "total_completed": 4995,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
