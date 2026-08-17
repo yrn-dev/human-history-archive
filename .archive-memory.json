@@ -24717,14 +24717,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 623",
       "timestamp": 1786926059.87895
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 625",
-      "variation": true
-    },
+      "timestamp": 1786926348.661559
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 692",
@@ -24882,8 +24882,8 @@
     }
   ],
   "stats": {
-    "total_completed": 4958,
-    "total_planned": 32,
+    "total_completed": 4959,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
