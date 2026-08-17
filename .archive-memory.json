@@ -25972,14 +25972,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 662",
       "timestamp": 1786984467.3090177
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 661",
-      "variation": true
-    },
+      "timestamp": 1786984653.7386003
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 661",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5209,
-    "total_planned": 65,
+    "total_completed": 5210,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
