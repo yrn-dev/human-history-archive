@@ -26502,14 +26502,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 671",
       "timestamp": 1787010149.4390178
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787010293.9414809
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 671",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5315,
-    "total_planned": 30,
+    "total_completed": 5316,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
