@@ -26342,14 +26342,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 670",
       "timestamp": 1787002941.0090475
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787003202.8221226
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 523",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5283,
-    "total_planned": 62,
+    "total_completed": 5284,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
