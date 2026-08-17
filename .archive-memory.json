@@ -25332,14 +25332,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 643",
       "timestamp": 1786953734.8514063
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 643",
-      "variation": true
-    },
+      "timestamp": 1786954043.7361643
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 502",
@@ -25592,8 +25592,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5081,
-    "total_planned": 51,
+    "total_completed": 5082,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
