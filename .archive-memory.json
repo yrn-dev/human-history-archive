@@ -26267,14 +26267,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 661",
       "timestamp": 1786999749.271333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 662",
-      "variation": true
-    },
+      "timestamp": 1786999992.2298708
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 659",
@@ -26302,8 +26302,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5268,
-    "total_planned": 6,
+    "total_completed": 5269,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
