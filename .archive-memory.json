@@ -25142,14 +25142,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 634",
       "timestamp": 1786945251.3736556
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1786945553.705645
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 634",
@@ -25237,8 +25237,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5043,
-    "total_planned": 18,
+    "total_completed": 5044,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
