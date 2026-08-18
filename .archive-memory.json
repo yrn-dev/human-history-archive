@@ -27487,14 +27487,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 695",
       "timestamp": 1787054756.5818071
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787054972.0954819
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5512,
-    "total_planned": 46,
+    "total_completed": 5513,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
