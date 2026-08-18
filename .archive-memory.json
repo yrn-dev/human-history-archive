@@ -27862,14 +27862,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 706",
       "timestamp": 1787072778.885752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787072940.7309303
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5587,
-    "total_planned": 42,
+    "total_completed": 5588,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
