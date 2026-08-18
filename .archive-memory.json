@@ -27872,14 +27872,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 706",
       "timestamp": 1787073130.8474867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787073397.6976066
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 551",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5589,
-    "total_planned": 40,
+    "total_completed": 5590,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
