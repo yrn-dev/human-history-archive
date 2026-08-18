@@ -27957,14 +27957,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 704",
       "timestamp": 1787078477.1394742
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787078689.1651993
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 782",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5606,
-    "total_planned": 23,
+    "total_completed": 5607,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
