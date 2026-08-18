@@ -27072,14 +27072,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 537",
       "timestamp": 1787035603.5164502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787035756.7226584
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5429,
-    "total_planned": 58,
+    "total_completed": 5430,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
