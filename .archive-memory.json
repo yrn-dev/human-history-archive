@@ -27907,14 +27907,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 706",
       "timestamp": 1787076159.6873813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787076353.4655392
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5596,
-    "total_planned": 33,
+    "total_completed": 5597,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
