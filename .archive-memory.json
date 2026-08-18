@@ -27697,14 +27697,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 697",
       "timestamp": 1787064517.8595235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787064765.8497326
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5554,
-    "total_planned": 4,
+    "total_completed": 5555,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
