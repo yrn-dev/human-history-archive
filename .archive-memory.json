@@ -27297,14 +27297,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 689",
       "timestamp": 1787046248.0382395
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787046482.359058
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5474,
-    "total_planned": 13,
+    "total_completed": 5475,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
