@@ -26602,14 +26602,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 742",
       "timestamp": 1787014847.308364
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787014983.7111306
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5335,
-    "total_planned": 10,
+    "total_completed": 5336,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
