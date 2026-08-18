@@ -26837,14 +26837,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 752",
       "timestamp": 1787025381.0833921
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 680",
-      "variation": true
-    },
+      "timestamp": 1787025565.218126
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 752",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5382,
-    "total_planned": 34,
+    "total_completed": 5383,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
