@@ -28277,14 +28277,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 558",
       "timestamp": 1787093126.5719905
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787093373.4482856
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5670,
-    "total_planned": 30,
+    "total_completed": 5671,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
