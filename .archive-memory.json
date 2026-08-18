@@ -27832,14 +27832,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 707",
       "timestamp": 1787071335.536746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787071620.0148559
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5581,
-    "total_planned": 48,
+    "total_completed": 5582,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
