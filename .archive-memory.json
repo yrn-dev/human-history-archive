@@ -27492,14 +27492,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 698",
       "timestamp": 1787054972.0954819
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787055263.4399483
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 698",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5513,
-    "total_planned": 45,
+    "total_completed": 5514,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
