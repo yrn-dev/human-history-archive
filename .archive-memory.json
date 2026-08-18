@@ -26717,14 +26717,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 530",
       "timestamp": 1787020163.456944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787020366.391126
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 752",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5358,
-    "total_planned": 58,
+    "total_completed": 5359,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
