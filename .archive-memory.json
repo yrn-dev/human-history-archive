@@ -28067,18 +28067,17 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 551",
       "timestamp": 1787084127.0037847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 707",
-      "variation": true
+      "timestamp": 1787084337.1822808
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5628,
-    "total_planned": 1,
+    "total_completed": 5629,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
