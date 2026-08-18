@@ -27782,14 +27782,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 706",
       "timestamp": 1787068989.9070632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1787069175.2109044
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5571,
-    "total_planned": 58,
+    "total_completed": 5572,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
