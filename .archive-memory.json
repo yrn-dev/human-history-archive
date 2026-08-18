@@ -28117,14 +28117,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 713",
       "timestamp": 1787086142.8015866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787086340.288812
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5638,
-    "total_planned": 62,
+    "total_completed": 5639,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
