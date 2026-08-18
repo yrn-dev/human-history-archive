@@ -27387,14 +27387,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 695",
       "timestamp": 1787050272.3328564
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787050522.464101
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 544",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5492,
-    "total_planned": 66,
+    "total_completed": 5493,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
