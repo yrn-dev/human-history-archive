@@ -27822,14 +27822,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 707",
       "timestamp": 1787070871.6226804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787071102.473999
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 707",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5579,
-    "total_planned": 50,
+    "total_completed": 5580,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
