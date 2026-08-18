@@ -27057,14 +27057,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 686",
       "timestamp": 1787035027.3301294
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787035283.5884848
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5426,
-    "total_planned": 61,
+    "total_completed": 5427,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
