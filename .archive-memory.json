@@ -27547,14 +27547,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 697",
       "timestamp": 1787057767.1054814
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1787057973.5899959
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 544",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5524,
-    "total_planned": 34,
+    "total_completed": 5525,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
