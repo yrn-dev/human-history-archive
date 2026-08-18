@@ -27252,14 +27252,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 689",
       "timestamp": 1787044180.4817488
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787044503.0197594
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5465,
-    "total_planned": 22,
+    "total_completed": 5466,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
