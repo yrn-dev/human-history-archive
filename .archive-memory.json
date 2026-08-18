@@ -27427,14 +27427,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 697",
       "timestamp": 1787052120.1131184
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787052294.5359774
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5500,
-    "total_planned": 58,
+    "total_completed": 5501,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
