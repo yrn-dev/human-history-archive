@@ -27317,14 +27317,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 689",
       "timestamp": 1787047119.388829
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 537",
-      "variation": true
-    },
+      "timestamp": 1787047259.166911
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 686",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5478,
-    "total_planned": 9,
+    "total_completed": 5479,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
