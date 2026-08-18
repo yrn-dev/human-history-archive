@@ -28147,14 +28147,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 792",
       "timestamp": 1787087398.534566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787087544.1794252
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5644,
-    "total_planned": 56,
+    "total_completed": 5645,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
