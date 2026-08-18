@@ -27667,14 +27667,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 697",
       "timestamp": 1787063253.077923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 772",
-      "variation": true
-    },
+      "timestamp": 1787063497.7550218
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5548,
-    "total_planned": 10,
+    "total_completed": 5549,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
