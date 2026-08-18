@@ -27372,14 +27372,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 697",
       "timestamp": 1787049685.026304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 772",
-      "variation": true
-    },
+      "timestamp": 1787049848.9109313
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5489,
-    "total_planned": 69,
+    "total_completed": 5490,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
