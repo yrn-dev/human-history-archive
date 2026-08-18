@@ -27117,14 +27117,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 686",
       "timestamp": 1787037410.814807
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 689",
-      "variation": true
-    },
+      "timestamp": 1787037603.5945494
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5438,
-    "total_planned": 49,
+    "total_completed": 5439,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
