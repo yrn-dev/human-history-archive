@@ -28237,14 +28237,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 715",
       "timestamp": 1787091495.1658206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787091694.065635
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 558",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5662,
-    "total_planned": 38,
+    "total_completed": 5663,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
