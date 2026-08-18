@@ -26527,14 +26527,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 671",
       "timestamp": 1787011303.9144351
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787011577.6081944
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 742",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5320,
-    "total_planned": 25,
+    "total_completed": 5321,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
