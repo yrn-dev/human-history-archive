@@ -27027,14 +27027,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 686",
       "timestamp": 1787033608.7452002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787033843.9639041
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 689",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5420,
-    "total_planned": 67,
+    "total_completed": 5421,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
