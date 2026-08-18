@@ -28227,14 +28227,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 713",
       "timestamp": 1787091057.3068798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 792",
-      "variation": true
-    },
+      "timestamp": 1787091277.6313748
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5660,
-    "total_planned": 40,
+    "total_completed": 5661,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
