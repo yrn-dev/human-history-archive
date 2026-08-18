@@ -27062,14 +27062,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 688",
       "timestamp": 1787035283.5884848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787035456.6259007
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 537",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5427,
-    "total_planned": 60,
+    "total_completed": 5428,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
