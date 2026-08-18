@@ -27142,14 +27142,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 686",
       "timestamp": 1787038710.749851
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787038914.979813
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 762",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5443,
-    "total_planned": 44,
+    "total_completed": 5444,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
