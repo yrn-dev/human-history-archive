@@ -27637,14 +27637,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 772",
       "timestamp": 1787062009.7592945
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787062217.457054
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5542,
-    "total_planned": 16,
+    "total_completed": 5543,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
