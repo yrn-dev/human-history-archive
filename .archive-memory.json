@@ -27542,14 +27542,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 695",
       "timestamp": 1787057515.0861182
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787057767.1054814
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 544",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5523,
-    "total_planned": 35,
+    "total_completed": 5524,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
