@@ -26547,14 +26547,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 523",
       "timestamp": 1787012274.8979952
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 671",
-      "variation": true
-    },
+      "timestamp": 1787012508.400011
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 742",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5324,
-    "total_planned": 21,
+    "total_completed": 5325,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
