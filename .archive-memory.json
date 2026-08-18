@@ -26637,14 +26637,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 668",
       "timestamp": 1787016421.0928948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787016596.2452781
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5342,
-    "total_planned": 3,
+    "total_completed": 5343,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
