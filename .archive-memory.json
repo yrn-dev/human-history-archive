@@ -27867,14 +27867,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 782",
       "timestamp": 1787072940.7309303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787073130.8474867
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 782",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5588,
-    "total_planned": 41,
+    "total_completed": 5589,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
