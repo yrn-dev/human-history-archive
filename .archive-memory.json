@@ -27992,14 +27992,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 706",
       "timestamp": 1787080150.6418128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787080381.7923741
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5613,
-    "total_planned": 16,
+    "total_completed": 5614,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
