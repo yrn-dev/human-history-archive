@@ -26537,14 +26537,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 742",
       "timestamp": 1787011880.20176
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 668",
-      "variation": true
-    },
+      "timestamp": 1787012069.4763288
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 523",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5322,
-    "total_planned": 23,
+    "total_completed": 5323,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
