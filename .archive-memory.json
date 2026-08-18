@@ -27077,14 +27077,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 688",
       "timestamp": 1787035756.7226584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787035939.2249358
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 762",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5430,
-    "total_planned": 57,
+    "total_completed": 5431,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
