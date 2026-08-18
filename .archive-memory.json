@@ -27292,14 +27292,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 686",
       "timestamp": 1787046051.823174
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 689",
-      "variation": true
-    },
+      "timestamp": 1787046248.0382395
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 686",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5473,
-    "total_planned": 14,
+    "total_completed": 5474,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
