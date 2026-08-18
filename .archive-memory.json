@@ -27997,14 +27997,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 706",
       "timestamp": 1787080381.7923741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787080663.0143995
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5614,
-    "total_planned": 15,
+    "total_completed": 5615,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
