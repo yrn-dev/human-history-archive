@@ -26797,14 +26797,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 680",
       "timestamp": 1787023598.184198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 679",
-      "variation": true
-    },
+      "timestamp": 1787023831.0262473
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 680",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5374,
-    "total_planned": 42,
+    "total_completed": 5375,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
