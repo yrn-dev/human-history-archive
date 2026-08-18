@@ -27682,14 +27682,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 772",
       "timestamp": 1787063819.8031244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787064015.9998932
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 772",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5551,
-    "total_planned": 7,
+    "total_completed": 5552,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
