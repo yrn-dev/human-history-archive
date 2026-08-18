@@ -28012,14 +28012,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 706",
       "timestamp": 1787081100.994594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787081358.3285813
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5617,
-    "total_planned": 12,
+    "total_completed": 5618,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
