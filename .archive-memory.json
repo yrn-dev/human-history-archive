@@ -26587,14 +26587,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 670",
       "timestamp": 1787014174.4832873
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787014361.116914
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5332,
-    "total_planned": 13,
+    "total_completed": 5333,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
