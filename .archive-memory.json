@@ -27687,14 +27687,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 697",
       "timestamp": 1787064015.9998932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 772",
-      "variation": true
-    },
+      "timestamp": 1787064235.0936594
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5552,
-    "total_planned": 6,
+    "total_completed": 5553,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
