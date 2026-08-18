@@ -28212,14 +28212,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 715",
       "timestamp": 1787090226.224659
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 792",
-      "variation": true
-    },
+      "timestamp": 1787090485.3675272
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 558",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5657,
-    "total_planned": 43,
+    "total_completed": 5658,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
