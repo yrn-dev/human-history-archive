@@ -27012,14 +27012,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 686",
       "timestamp": 1787033050.1705632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 762",
-      "variation": true
-    },
+      "timestamp": 1787033211.798272
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5417,
-    "total_planned": 70,
+    "total_completed": 5418,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
