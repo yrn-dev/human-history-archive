@@ -27932,14 +27932,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 704",
       "timestamp": 1787077342.5152705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1787077563.5044665
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 707",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5601,
-    "total_planned": 28,
+    "total_completed": 5602,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
