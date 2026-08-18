@@ -27522,14 +27522,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 698",
       "timestamp": 1787056559.3194528
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787056867.0737944
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 544",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5519,
-    "total_planned": 39,
+    "total_completed": 5520,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
