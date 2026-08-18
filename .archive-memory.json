@@ -28087,14 +28087,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 716",
       "timestamp": 1787084874.0908887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787085025.2043495
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 792",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5632,
-    "total_planned": 68,
+    "total_completed": 5633,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
