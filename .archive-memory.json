@@ -26557,14 +26557,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 742",
       "timestamp": 1787012788.146011
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787012956.3438807
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5326,
-    "total_planned": 19,
+    "total_completed": 5327,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
