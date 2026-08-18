@@ -28197,14 +28197,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 792",
       "timestamp": 1787089542.853312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 716",
-      "variation": true
-    },
+      "timestamp": 1787089794.968603
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 558",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5654,
-    "total_planned": 46,
+    "total_completed": 5655,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
