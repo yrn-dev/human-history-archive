@@ -27967,14 +27967,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 782",
       "timestamp": 1787078966.0596867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1787079206.3936195
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5608,
-    "total_planned": 21,
+    "total_completed": 5609,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
