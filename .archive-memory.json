@@ -27462,14 +27462,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 695",
       "timestamp": 1787053510.6143987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787053739.1076436
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5507,
-    "total_planned": 51,
+    "total_completed": 5508,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
