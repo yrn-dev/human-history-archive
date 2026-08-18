@@ -27207,14 +27207,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 537",
       "timestamp": 1787041840.438189
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787042005.4278224
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 537",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5456,
-    "total_planned": 31,
+    "total_completed": 5457,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
