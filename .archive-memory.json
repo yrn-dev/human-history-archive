@@ -27107,14 +27107,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 688",
       "timestamp": 1787036847.7851458
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 762",
-      "variation": true
-    },
+      "timestamp": 1787037108.002035
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 686",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5436,
-    "total_planned": 51,
+    "total_completed": 5437,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
