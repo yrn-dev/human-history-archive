@@ -26567,14 +26567,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 668",
       "timestamp": 1787013210.1054385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787013420.3022153
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 671",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5328,
-    "total_planned": 17,
+    "total_completed": 5329,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
