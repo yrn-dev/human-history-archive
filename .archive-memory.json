@@ -27507,14 +27507,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 695",
       "timestamp": 1787055856.759964
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787056135.6510432
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 772",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5516,
-    "total_planned": 42,
+    "total_completed": 5517,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
