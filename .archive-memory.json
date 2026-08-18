@@ -26697,14 +26697,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 677",
       "timestamp": 1787019156.1997924
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 679",
-      "variation": true
-    },
+      "timestamp": 1787019422.8677342
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 677",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5354,
-    "total_planned": 62,
+    "total_completed": 5355,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
