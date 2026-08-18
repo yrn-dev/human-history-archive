@@ -26942,14 +26942,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 677",
       "timestamp": 1787030104.219512
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787030293.0649145
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 679",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5403,
-    "total_planned": 13,
+    "total_completed": 5404,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
