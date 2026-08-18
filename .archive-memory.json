@@ -28152,14 +28152,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 713",
       "timestamp": 1787087544.1794252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787087814.5589416
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5645,
-    "total_planned": 55,
+    "total_completed": 5646,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
