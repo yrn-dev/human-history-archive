@@ -27877,14 +27877,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 782",
       "timestamp": 1787073397.6976066
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1787073768.1140487
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 707",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5590,
-    "total_planned": 39,
+    "total_completed": 5591,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
