@@ -27497,14 +27497,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 697",
       "timestamp": 1787055263.4399483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787055490.2260041
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5514,
-    "total_planned": 44,
+    "total_completed": 5515,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
