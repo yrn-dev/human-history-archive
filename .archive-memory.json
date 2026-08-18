@@ -27532,14 +27532,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 544",
       "timestamp": 1787057061.828736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1787057358.875487
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5521,
-    "total_planned": 37,
+    "total_completed": 5522,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
