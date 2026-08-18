@@ -28292,14 +28292,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 716",
       "timestamp": 1787093870.64966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787094138.1757984
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5673,
-    "total_planned": 27,
+    "total_completed": 5674,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
