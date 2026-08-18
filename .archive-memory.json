@@ -28222,14 +28222,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 558",
       "timestamp": 1787090750.7374535
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787091057.3068798
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 792",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5659,
-    "total_planned": 41,
+    "total_completed": 5660,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
