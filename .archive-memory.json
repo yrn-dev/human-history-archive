@@ -27922,14 +27922,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 706",
       "timestamp": 1787076904.5124934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787077123.700476
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5599,
-    "total_planned": 30,
+    "total_completed": 5600,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
