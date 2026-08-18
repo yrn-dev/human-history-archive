@@ -28062,14 +28062,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 706",
       "timestamp": 1787083826.3728452
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1787084127.0037847
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 707",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5627,
-    "total_planned": 2,
+    "total_completed": 5628,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
