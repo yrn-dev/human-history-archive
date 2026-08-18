@@ -27802,14 +27802,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 704",
       "timestamp": 1787069902.4635334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787070133.5015533
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5575,
-    "total_planned": 54,
+    "total_completed": 5576,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
