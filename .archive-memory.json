@@ -28282,14 +28282,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 713",
       "timestamp": 1787093373.4482856
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787093624.895181
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 716",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5671,
-    "total_planned": 29,
+    "total_completed": 5672,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
