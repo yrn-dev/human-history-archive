@@ -28247,14 +28247,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 558",
       "timestamp": 1787091852.1294851
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 716",
-      "variation": true
-    },
+      "timestamp": 1787092143.4802215
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5664,
-    "total_planned": 36,
+    "total_completed": 5665,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
