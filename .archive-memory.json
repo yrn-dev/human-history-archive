@@ -27597,14 +27597,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 695",
       "timestamp": 1787060108.4334688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787060407.9608085
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 772",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5534,
-    "total_planned": 24,
+    "total_completed": 5535,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
