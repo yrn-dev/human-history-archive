@@ -27947,14 +27947,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 782",
       "timestamp": 1787077865.2079039
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787078182.9712012
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5604,
-    "total_planned": 25,
+    "total_completed": 5605,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
