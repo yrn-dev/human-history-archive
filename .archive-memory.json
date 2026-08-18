@@ -26657,14 +26657,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 530",
       "timestamp": 1787017307.6331108
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 679",
-      "variation": true
-    },
+      "timestamp": 1787017570.8873394
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 680",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5346,
-    "total_planned": 70,
+    "total_completed": 5347,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
