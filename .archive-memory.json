@@ -26642,14 +26642,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 670",
       "timestamp": 1787016596.2452781
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 668",
-      "variation": true
-    },
+      "timestamp": 1787016855.1411936
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 742",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5343,
-    "total_planned": 2,
+    "total_completed": 5344,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
