@@ -26727,14 +26727,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 752",
       "timestamp": 1787020648.495143
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 679",
-      "variation": true
-    },
+      "timestamp": 1787020823.8458788
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 677",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5360,
-    "total_planned": 56,
+    "total_completed": 5361,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
