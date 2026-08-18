@@ -27612,14 +27612,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 772",
       "timestamp": 1787060955.1232066
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1787061113.637497
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5537,
-    "total_planned": 21,
+    "total_completed": 5538,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
