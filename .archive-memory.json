@@ -27982,14 +27982,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 707",
       "timestamp": 1787079745.2966015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787079972.2479014
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5611,
-    "total_planned": 18,
+    "total_completed": 5612,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
