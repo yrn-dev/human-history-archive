@@ -28297,14 +28297,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 713",
       "timestamp": 1787094138.1757984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787094396.8374128
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5674,
-    "total_planned": 26,
+    "total_completed": 5675,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
