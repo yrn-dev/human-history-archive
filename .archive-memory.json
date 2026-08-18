@@ -27197,14 +27197,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 688",
       "timestamp": 1787041282.5611825
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 537",
-      "variation": true
-    },
+      "timestamp": 1787041586.500597
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 537",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5454,
-    "total_planned": 33,
+    "total_completed": 5455,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
