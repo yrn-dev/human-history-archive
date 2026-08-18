@@ -27962,14 +27962,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 706",
       "timestamp": 1787078689.1651993
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787078966.0596867
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 551",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5607,
-    "total_planned": 22,
+    "total_completed": 5608,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
