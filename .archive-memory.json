@@ -28037,14 +28037,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 706",
       "timestamp": 1787082449.5945144
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787082649.4161918
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 551",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5622,
-    "total_planned": 7,
+    "total_completed": 5623,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
