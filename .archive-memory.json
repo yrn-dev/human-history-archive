@@ -27152,14 +27152,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 762",
       "timestamp": 1787039224.7503252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787039477.4266331
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5445,
-    "total_planned": 42,
+    "total_completed": 5446,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
