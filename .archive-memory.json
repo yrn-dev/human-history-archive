@@ -28232,14 +28232,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 792",
       "timestamp": 1787091277.6313748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787091495.1658206
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5661,
-    "total_planned": 39,
+    "total_completed": 5662,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
