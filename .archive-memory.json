@@ -27312,14 +27312,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 688",
       "timestamp": 1787046875.4632826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 689",
-      "variation": true
-    },
+      "timestamp": 1787047119.388829
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 537",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5477,
-    "total_planned": 10,
+    "total_completed": 5478,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
