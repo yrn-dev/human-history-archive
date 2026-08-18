@@ -27577,14 +27577,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 697",
       "timestamp": 1787059270.4683318
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787059443.2867942
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 698",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5530,
-    "total_planned": 28,
+    "total_completed": 5531,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
