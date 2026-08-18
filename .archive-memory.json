@@ -27502,14 +27502,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 698",
       "timestamp": 1787055490.2260041
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787055856.759964
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 698",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5515,
-    "total_planned": 43,
+    "total_completed": 5516,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
