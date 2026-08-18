@@ -27187,14 +27187,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 686",
       "timestamp": 1787040796.354237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787041084.2477155
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5452,
-    "total_planned": 35,
+    "total_completed": 5453,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
