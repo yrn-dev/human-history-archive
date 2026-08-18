@@ -27902,14 +27902,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 706",
       "timestamp": 1787075918.4807167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787076159.6873813
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5595,
-    "total_planned": 34,
+    "total_completed": 5596,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
