@@ -26737,14 +26737,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 677",
       "timestamp": 1787020970.5897622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 680",
-      "variation": true
-    },
+      "timestamp": 1787021133.8022966
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 677",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5362,
-    "total_planned": 54,
+    "total_completed": 5363,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
