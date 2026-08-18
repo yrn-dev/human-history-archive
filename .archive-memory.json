@@ -26647,18 +26647,17 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 668",
       "timestamp": 1787016855.1411936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 742",
-      "variation": true
+      "timestamp": 1787017033.9162123
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5344,
-    "total_planned": 1,
+    "total_completed": 5345,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
