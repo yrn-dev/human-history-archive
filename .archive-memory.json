@@ -26532,14 +26532,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 670",
       "timestamp": 1787011577.6081944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787011880.20176
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 668",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5321,
-    "total_planned": 24,
+    "total_completed": 5322,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
