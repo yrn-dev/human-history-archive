@@ -28187,14 +28187,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 715",
       "timestamp": 1787089195.5810661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 792",
-      "variation": true
-    },
+      "timestamp": 1787089382.037514
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 792",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5652,
-    "total_planned": 48,
+    "total_completed": 5653,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
