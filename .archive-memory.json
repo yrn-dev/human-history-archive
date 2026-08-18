@@ -28122,14 +28122,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 715",
       "timestamp": 1787086340.288812
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787086633.989199
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5639,
-    "total_planned": 61,
+    "total_completed": 5640,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
