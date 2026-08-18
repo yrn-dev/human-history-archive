@@ -26572,14 +26572,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 742",
       "timestamp": 1787013420.3022153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 671",
-      "variation": true
-    },
+      "timestamp": 1787013701.2653599
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 523",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5329,
-    "total_planned": 16,
+    "total_completed": 5330,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
