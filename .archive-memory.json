@@ -26592,14 +26592,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 742",
       "timestamp": 1787014361.116914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787014586.0798275
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 742",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5333,
-    "total_planned": 12,
+    "total_completed": 5334,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
