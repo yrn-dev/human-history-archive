@@ -27692,14 +27692,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 772",
       "timestamp": 1787064235.0936594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787064517.8595235
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5553,
-    "total_planned": 5,
+    "total_completed": 5554,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
