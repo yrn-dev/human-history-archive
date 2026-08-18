@@ -27237,14 +27237,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 762",
       "timestamp": 1787043388.4399908
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 689",
-      "variation": true
-    },
+      "timestamp": 1787043680.0971868
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 537",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5462,
-    "total_planned": 25,
+    "total_completed": 5463,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
