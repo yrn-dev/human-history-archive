@@ -27642,14 +27642,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 695",
       "timestamp": 1787062217.457054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787062366.831189
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5543,
-    "total_planned": 15,
+    "total_completed": 5544,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
