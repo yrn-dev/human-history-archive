@@ -26832,14 +26832,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 677",
       "timestamp": 1787025136.3453448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 752",
-      "variation": true
-    },
+      "timestamp": 1787025381.0833921
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 680",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5381,
-    "total_planned": 35,
+    "total_completed": 5382,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
