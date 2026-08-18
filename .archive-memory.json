@@ -27157,14 +27157,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 688",
       "timestamp": 1787039477.4266331
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787039655.3079815
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5446,
-    "total_planned": 41,
+    "total_completed": 5447,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
