@@ -27322,14 +27322,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 537",
       "timestamp": 1787047259.166911
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787047416.804315
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 762",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5479,
-    "total_planned": 8,
+    "total_completed": 5480,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
