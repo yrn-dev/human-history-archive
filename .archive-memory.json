@@ -28077,14 +28077,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 558",
       "timestamp": 1787084558.7547092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787084719.582048
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 716",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5630,
-    "total_planned": 70,
+    "total_completed": 5631,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
