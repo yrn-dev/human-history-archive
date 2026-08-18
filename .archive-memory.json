@@ -27287,14 +27287,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 686",
       "timestamp": 1787045851.3149974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787046051.823174
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 689",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5472,
-    "total_planned": 15,
+    "total_completed": 5473,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
