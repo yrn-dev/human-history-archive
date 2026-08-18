@@ -27617,14 +27617,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 544",
       "timestamp": 1787061113.637497
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787061267.8710153
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 772",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5538,
-    "total_planned": 20,
+    "total_completed": 5539,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
