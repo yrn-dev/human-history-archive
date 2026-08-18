@@ -28047,14 +28047,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 551",
       "timestamp": 1787082971.255748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787083309.9389224
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5624,
-    "total_planned": 5,
+    "total_completed": 5625,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
