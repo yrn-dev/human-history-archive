@@ -27402,14 +27402,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 697",
       "timestamp": 1787051120.108868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787051293.4317374
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5495,
-    "total_planned": 63,
+    "total_completed": 5496,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
