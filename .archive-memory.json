@@ -27602,14 +27602,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 695",
       "timestamp": 1787060407.9608085
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 772",
-      "variation": true
-    },
+      "timestamp": 1787060693.3935993
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 772",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5535,
-    "total_planned": 23,
+    "total_completed": 5536,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
