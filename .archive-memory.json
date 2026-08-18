@@ -27392,14 +27392,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 698",
       "timestamp": 1787050522.464101
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1787050859.7474961
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5493,
-    "total_planned": 65,
+    "total_completed": 5494,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
