@@ -27897,14 +27897,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 782",
       "timestamp": 1787075686.848339
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787075918.4807167
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5594,
-    "total_planned": 35,
+    "total_completed": 5595,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
