@@ -27432,14 +27432,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 697",
       "timestamp": 1787052294.5359774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787052469.327811
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5501,
-    "total_planned": 57,
+    "total_completed": 5502,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
