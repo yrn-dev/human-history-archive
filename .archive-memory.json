@@ -27582,14 +27582,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 697",
       "timestamp": 1787059443.2867942
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787059661.238737
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5531,
-    "total_planned": 27,
+    "total_completed": 5532,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
