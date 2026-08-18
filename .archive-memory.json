@@ -27882,14 +27882,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 551",
       "timestamp": 1787073768.1140487
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 707",
-      "variation": true
-    },
+      "timestamp": 1787074015.8613636
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 551",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5591,
-    "total_planned": 38,
+    "total_completed": 5592,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
