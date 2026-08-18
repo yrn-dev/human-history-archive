@@ -26842,14 +26842,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 680",
       "timestamp": 1787025565.218126
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 752",
-      "variation": true
-    },
+      "timestamp": 1787025775.0441546
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 679",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5383,
-    "total_planned": 33,
+    "total_completed": 5384,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
