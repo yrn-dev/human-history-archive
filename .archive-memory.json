@@ -27112,14 +27112,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 762",
       "timestamp": 1787037108.002035
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787037410.814807
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 689",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5437,
-    "total_planned": 50,
+    "total_completed": 5438,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
