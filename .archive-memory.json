@@ -26947,14 +26947,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 677",
       "timestamp": 1787030293.0649145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 679",
-      "variation": true
-    },
+      "timestamp": 1787030470.6334965
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 680",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5404,
-    "total_planned": 12,
+    "total_completed": 5405,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
