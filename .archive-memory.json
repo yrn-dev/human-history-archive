@@ -28052,14 +28052,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 706",
       "timestamp": 1787083309.9389224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787083596.3206315
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5625,
-    "total_planned": 4,
+    "total_completed": 5626,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
