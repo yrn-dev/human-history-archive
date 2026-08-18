@@ -27347,14 +27347,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 686",
       "timestamp": 1787048550.573384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787048714.623513
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5484,
-    "total_planned": 3,
+    "total_completed": 5485,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
