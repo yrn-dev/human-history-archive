@@ -27797,14 +27797,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 704",
       "timestamp": 1787069753.192237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787069902.4635334
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 782",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5574,
-    "total_planned": 55,
+    "total_completed": 5575,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
