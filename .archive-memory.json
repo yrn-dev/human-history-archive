@@ -28272,14 +28272,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 713",
       "timestamp": 1787092923.1952906
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 558",
-      "variation": true
-    },
+      "timestamp": 1787093126.5719905
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5669,
-    "total_planned": 31,
+    "total_completed": 5670,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
