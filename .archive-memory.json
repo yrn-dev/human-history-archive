@@ -26807,14 +26807,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 680",
       "timestamp": 1787023967.731394
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 530",
-      "variation": true
-    },
+      "timestamp": 1787024236.9427767
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 677",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5376,
-    "total_planned": 40,
+    "total_completed": 5377,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
