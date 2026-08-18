@@ -27752,14 +27752,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 704",
       "timestamp": 1787067463.3863306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787067694.9685793
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 707",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5565,
-    "total_planned": 64,
+    "total_completed": 5566,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
