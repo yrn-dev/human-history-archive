@@ -28092,14 +28092,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 713",
       "timestamp": 1787085025.2043495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 792",
-      "variation": true
-    },
+      "timestamp": 1787085220.342252
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5633,
-    "total_planned": 67,
+    "total_completed": 5634,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
