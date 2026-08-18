@@ -28112,14 +28112,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 713",
       "timestamp": 1787085923.922241
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787086142.8015866
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5637,
-    "total_planned": 63,
+    "total_completed": 5638,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
