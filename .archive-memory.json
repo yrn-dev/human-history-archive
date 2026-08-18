@@ -27892,14 +27892,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 551",
       "timestamp": 1787074441.8400712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787075686.848339
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5593,
-    "total_planned": 36,
+    "total_completed": 5594,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
