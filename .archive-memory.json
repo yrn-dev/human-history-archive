@@ -28347,14 +28347,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 715",
       "timestamp": 1787096385.2626326
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787096651.8790019
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5684,
-    "total_planned": 16,
+    "total_completed": 5685,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
