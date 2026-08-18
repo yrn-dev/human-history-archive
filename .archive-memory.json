@@ -27527,14 +27527,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 697",
       "timestamp": 1787056867.0737944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 544",
-      "variation": true
-    },
+      "timestamp": 1787057061.828736
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 544",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5520,
-    "total_planned": 38,
+    "total_completed": 5521,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
