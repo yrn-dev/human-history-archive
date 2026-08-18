@@ -28302,14 +28302,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 715",
       "timestamp": 1787094396.8374128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787094655.4524634
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5675,
-    "total_planned": 25,
+    "total_completed": 5676,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
