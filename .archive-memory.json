@@ -27722,14 +27722,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 704",
       "timestamp": 1787065952.6058416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 707",
-      "variation": true
-    },
+      "timestamp": 1787066120.0418227
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5559,
-    "total_planned": 70,
+    "total_completed": 5560,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
