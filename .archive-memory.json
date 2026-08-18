@@ -27622,14 +27622,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 697",
       "timestamp": 1787061267.8710153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 772",
-      "variation": true
-    },
+      "timestamp": 1787061454.7252889
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 698",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5539,
-    "total_planned": 19,
+    "total_completed": 5540,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
