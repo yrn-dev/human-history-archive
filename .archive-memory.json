@@ -26957,14 +26957,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 680",
       "timestamp": 1787030646.6195693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 752",
-      "variation": true
-    },
+      "timestamp": 1787030832.1374688
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 677",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5406,
-    "total_planned": 10,
+    "total_completed": 5407,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
