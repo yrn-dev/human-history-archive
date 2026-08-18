@@ -27192,14 +27192,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 686",
       "timestamp": 1787041084.2477155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787041282.5611825
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 537",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5453,
-    "total_planned": 34,
+    "total_completed": 5454,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
