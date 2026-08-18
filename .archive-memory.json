@@ -27672,14 +27672,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 772",
       "timestamp": 1787063497.7550218
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787063656.1277149
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 772",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5549,
-    "total_planned": 9,
+    "total_completed": 5550,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
