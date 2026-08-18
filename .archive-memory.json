@@ -27807,14 +27807,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 782",
       "timestamp": 1787070133.5015533
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787070438.1671722
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5576,
-    "total_planned": 53,
+    "total_completed": 5577,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
