@@ -27987,14 +27987,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 706",
       "timestamp": 1787079972.2479014
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787080150.6418128
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5612,
-    "total_planned": 17,
+    "total_completed": 5613,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
