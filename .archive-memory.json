@@ -28322,14 +28322,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 716",
       "timestamp": 1787095232.6924417
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 792",
-      "variation": true
-    },
+      "timestamp": 1787095377.538809
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5679,
-    "total_planned": 21,
+    "total_completed": 5680,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
