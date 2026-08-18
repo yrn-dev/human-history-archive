@@ -26582,14 +26582,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 523",
       "timestamp": 1787013885.2541237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787014174.4832873
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 742",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5331,
-    "total_planned": 14,
+    "total_completed": 5332,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
