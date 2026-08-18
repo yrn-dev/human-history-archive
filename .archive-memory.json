@@ -28362,14 +28362,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 716",
       "timestamp": 1787097216.3138087
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787097441.8399327
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5687,
-    "total_planned": 13,
+    "total_completed": 5688,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
