@@ -27217,14 +27217,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 537",
       "timestamp": 1787042287.09072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787042499.1745622
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 762",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5458,
-    "total_planned": 29,
+    "total_completed": 5459,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
