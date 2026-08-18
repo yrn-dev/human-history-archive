@@ -28267,14 +28267,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 715",
       "timestamp": 1787092736.4280546
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787092923.1952906
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 558",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5668,
-    "total_planned": 32,
+    "total_completed": 5669,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
