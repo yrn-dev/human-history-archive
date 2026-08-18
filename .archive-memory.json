@@ -27647,14 +27647,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 695",
       "timestamp": 1787062366.831189
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787062562.5457346
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5544,
-    "total_planned": 14,
+    "total_completed": 5545,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
