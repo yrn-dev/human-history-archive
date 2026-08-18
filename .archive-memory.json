@@ -27837,14 +27837,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 704",
       "timestamp": 1787071620.0148559
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787071774.462954
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 782",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5582,
-    "total_planned": 47,
+    "total_completed": 5583,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
