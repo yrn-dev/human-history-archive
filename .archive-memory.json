@@ -27887,14 +27887,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 707",
       "timestamp": 1787074015.8613636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 551",
-      "variation": true
-    },
+      "timestamp": 1787074441.8400712
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 782",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5592,
-    "total_planned": 37,
+    "total_completed": 5593,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
