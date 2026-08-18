@@ -27122,14 +27122,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 689",
       "timestamp": 1787037603.5945494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787037920.0984888
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 686",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5439,
-    "total_planned": 48,
+    "total_completed": 5440,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
