@@ -27517,14 +27517,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 772",
       "timestamp": 1787056360.6784465
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787056559.3194528
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5518,
-    "total_planned": 40,
+    "total_completed": 5519,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
