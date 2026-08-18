@@ -27727,14 +27727,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 707",
       "timestamp": 1787066120.0418227
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787066368.199707
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 782",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5560,
-    "total_planned": 69,
+    "total_completed": 5561,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
