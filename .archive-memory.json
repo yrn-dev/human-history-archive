@@ -26632,14 +26632,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 668",
       "timestamp": 1787016124.4134216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 668",
-      "variation": true
-    },
+      "timestamp": 1787016421.0928948
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 670",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5341,
-    "total_planned": 4,
+    "total_completed": 5342,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
