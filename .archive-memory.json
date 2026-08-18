@@ -27472,14 +27472,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 697",
       "timestamp": 1787054034.2054136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787054205.6923285
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5509,
-    "total_planned": 49,
+    "total_completed": 5510,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
