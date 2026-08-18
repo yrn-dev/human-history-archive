@@ -27712,18 +27712,17 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 698",
       "timestamp": 1787065342.528542
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 697",
-      "variation": true
+      "timestamp": 1787065636.174894
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5557,
-    "total_planned": 1,
+    "total_completed": 5558,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
