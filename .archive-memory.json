@@ -28082,14 +28082,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 713",
       "timestamp": 1787084719.582048
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 716",
-      "variation": true
-    },
+      "timestamp": 1787084874.0908887
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5631,
-    "total_planned": 69,
+    "total_completed": 5632,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
