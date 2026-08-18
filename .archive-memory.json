@@ -26542,14 +26542,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 668",
       "timestamp": 1787012069.4763288
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 523",
-      "variation": true
-    },
+      "timestamp": 1787012274.8979952
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 671",
@@ -26657,8 +26657,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5323,
-    "total_planned": 22,
+    "total_completed": 5324,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
