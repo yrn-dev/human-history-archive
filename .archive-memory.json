@@ -26787,14 +26787,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 679",
       "timestamp": 1787023057.1082177
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 680",
-      "variation": true
-    },
+      "timestamp": 1787023317.963304
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 680",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5372,
-    "total_planned": 44,
+    "total_completed": 5373,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
