@@ -27607,14 +27607,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 772",
       "timestamp": 1787060693.3935993
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 772",
-      "variation": true
-    },
+      "timestamp": 1787060955.1232066
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 544",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5536,
-    "total_planned": 22,
+    "total_completed": 5537,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
