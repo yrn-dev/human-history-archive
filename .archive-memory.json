@@ -27777,14 +27777,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 706",
       "timestamp": 1787068686.6903756
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787068989.9070632
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 551",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5570,
-    "total_planned": 59,
+    "total_completed": 5571,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
