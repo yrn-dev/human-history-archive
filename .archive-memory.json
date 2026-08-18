@@ -26687,14 +26687,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 679",
       "timestamp": 1787018768.9475205
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 530",
-      "variation": true
-    },
+      "timestamp": 1787018956.1431928
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 677",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5352,
-    "total_planned": 64,
+    "total_completed": 5353,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
