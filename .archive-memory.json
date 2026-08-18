@@ -27787,14 +27787,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 551",
       "timestamp": 1787069175.2109044
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787069457.3754447
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5572,
-    "total_planned": 57,
+    "total_completed": 5573,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
