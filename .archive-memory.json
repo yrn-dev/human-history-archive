@@ -28217,14 +28217,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 792",
       "timestamp": 1787090485.3675272
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 558",
-      "variation": true
-    },
+      "timestamp": 1787090750.7374535
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5658,
-    "total_planned": 42,
+    "total_completed": 5659,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
