@@ -27917,14 +27917,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 706",
       "timestamp": 1787076635.0052066
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787076904.5124934
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5598,
-    "total_planned": 31,
+    "total_completed": 5599,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
