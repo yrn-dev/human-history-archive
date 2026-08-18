@@ -27332,14 +27332,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 762",
       "timestamp": 1787047656.8213944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787047972.294177
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 762",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5481,
-    "total_planned": 6,
+    "total_completed": 5482,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
