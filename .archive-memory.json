@@ -28142,14 +28142,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 715",
       "timestamp": 1787087218.8213525
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 792",
-      "variation": true
-    },
+      "timestamp": 1787087398.534566
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5643,
-    "total_planned": 57,
+    "total_completed": 5644,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
