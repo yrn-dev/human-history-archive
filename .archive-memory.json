@@ -28307,14 +28307,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 715",
       "timestamp": 1787094655.4524634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787094858.164555
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 716",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5676,
-    "total_planned": 24,
+    "total_completed": 5677,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
