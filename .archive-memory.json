@@ -27357,18 +27357,17 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 688",
       "timestamp": 1787048906.870325
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 689",
-      "variation": true
+      "timestamp": 1787049186.3904843
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5486,
-    "total_planned": 1,
+    "total_completed": 5487,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
