@@ -27537,14 +27537,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 544",
       "timestamp": 1787057358.875487
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787057515.0861182
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5522,
-    "total_planned": 36,
+    "total_completed": 5523,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
