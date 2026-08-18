@@ -28137,14 +28137,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 716",
       "timestamp": 1787087078.607469
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787087218.8213525
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 792",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5642,
-    "total_planned": 58,
+    "total_completed": 5643,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
