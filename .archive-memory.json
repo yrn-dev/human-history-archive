@@ -28017,14 +28017,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 704",
       "timestamp": 1787081358.3285813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787081631.7976918
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5618,
-    "total_planned": 11,
+    "total_completed": 5619,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
