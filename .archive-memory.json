@@ -28167,14 +28167,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 715",
       "timestamp": 1787088355.828422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787088505.9172163
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5648,
-    "total_planned": 52,
+    "total_completed": 5649,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
