@@ -27482,14 +27482,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 697",
       "timestamp": 1787054492.1080368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787054756.5818071
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 698",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5511,
-    "total_planned": 47,
+    "total_completed": 5512,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
