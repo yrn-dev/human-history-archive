@@ -27272,14 +27272,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 762",
       "timestamp": 1787045234.9563498
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787045424.739508
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5469,
-    "total_planned": 18,
+    "total_completed": 5470,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
