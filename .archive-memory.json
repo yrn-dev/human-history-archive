@@ -28327,14 +28327,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 792",
       "timestamp": 1787095377.538809
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787095676.2613475
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 716",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5680,
-    "total_planned": 20,
+    "total_completed": 5681,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
