@@ -26732,14 +26732,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 679",
       "timestamp": 1787020823.8458788
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787020970.5897622
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 680",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5361,
-    "total_planned": 55,
+    "total_completed": 5362,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
