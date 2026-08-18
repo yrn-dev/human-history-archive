@@ -28242,14 +28242,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 713",
       "timestamp": 1787091694.065635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 558",
-      "variation": true
-    },
+      "timestamp": 1787091852.1294851
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 716",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5663,
-    "total_planned": 37,
+    "total_completed": 5664,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
