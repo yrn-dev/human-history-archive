@@ -27162,14 +27162,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 688",
       "timestamp": 1787039655.3079815
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787039883.587989
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 689",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5447,
-    "total_planned": 40,
+    "total_completed": 5448,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
