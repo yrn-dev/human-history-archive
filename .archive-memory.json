@@ -27817,14 +27817,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 704",
       "timestamp": 1787070727.9608834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 707",
-      "variation": true
-    },
+      "timestamp": 1787070871.6226804
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5578,
-    "total_planned": 51,
+    "total_completed": 5579,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
