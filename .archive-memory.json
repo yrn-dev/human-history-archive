@@ -27042,14 +27042,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 688",
       "timestamp": 1787034261.7154398
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787034521.969848
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5423,
-    "total_planned": 64,
+    "total_completed": 5424,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
