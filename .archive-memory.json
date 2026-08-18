@@ -27702,14 +27702,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 695",
       "timestamp": 1787064765.8497326
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787065106.5914135
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 698",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5555,
-    "total_planned": 3,
+    "total_completed": 5556,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
