@@ -27342,14 +27342,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 762",
       "timestamp": 1787048268.694071
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787048550.573384
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5483,
-    "total_planned": 4,
+    "total_completed": 5484,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
