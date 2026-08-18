@@ -27827,14 +27827,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 704",
       "timestamp": 1787071102.473999
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 707",
-      "variation": true
-    },
+      "timestamp": 1787071335.536746
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5580,
-    "total_planned": 49,
+    "total_completed": 5581,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
