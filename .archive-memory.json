@@ -27172,14 +27172,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 689",
       "timestamp": 1787040033.9026244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 762",
-      "variation": true
-    },
+      "timestamp": 1787040273.5247726
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5449,
-    "total_planned": 38,
+    "total_completed": 5450,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
