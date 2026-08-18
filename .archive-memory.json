@@ -26892,14 +26892,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 677",
       "timestamp": 1787027779.545732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 530",
-      "variation": true
-    },
+      "timestamp": 1787028063.56405
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 677",
@@ -27012,8 +27012,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5393,
-    "total_planned": 23,
+    "total_completed": 5394,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
