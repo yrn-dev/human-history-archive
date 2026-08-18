@@ -27127,14 +27127,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 688",
       "timestamp": 1787037920.0984888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787038152.1805212
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 686",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5440,
-    "total_planned": 47,
+    "total_completed": 5441,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
