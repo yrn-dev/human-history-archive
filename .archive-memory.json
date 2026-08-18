@@ -27002,18 +27002,17 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 679",
       "timestamp": 1787032644.5773282
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 752",
-      "variation": true
+      "timestamp": 1787032778.9168122
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5415,
-    "total_planned": 1,
+    "total_completed": 5416,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
