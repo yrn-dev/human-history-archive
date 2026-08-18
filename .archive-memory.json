@@ -28027,14 +28027,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 706",
       "timestamp": 1787081891.879516
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787082176.239688
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5620,
-    "total_planned": 9,
+    "total_completed": 5621,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
