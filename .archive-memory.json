@@ -27767,14 +27767,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 707",
       "timestamp": 1787068195.2154346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787068523.6527193
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5568,
-    "total_planned": 61,
+    "total_completed": 5569,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
