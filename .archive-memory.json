@@ -28172,14 +28172,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 715",
       "timestamp": 1787088505.9172163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 713",
-      "variation": true
-    },
+      "timestamp": 1787088754.1370485
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5649,
-    "total_planned": 51,
+    "total_completed": 5650,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
