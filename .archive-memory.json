@@ -27182,14 +27182,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 688",
       "timestamp": 1787040556.2432337
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 686",
-      "variation": true
-    },
+      "timestamp": 1787040796.354237
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 686",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5451,
-    "total_planned": 36,
+    "total_completed": 5452,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
