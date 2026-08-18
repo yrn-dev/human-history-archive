@@ -27212,14 +27212,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 688",
       "timestamp": 1787042005.4278224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 537",
-      "variation": true
-    },
+      "timestamp": 1787042287.09072
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 688",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5457,
-    "total_planned": 30,
+    "total_completed": 5458,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
