@@ -27927,14 +27927,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 704",
       "timestamp": 1787077123.700476
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787077342.5152705
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 551",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5600,
-    "total_planned": 29,
+    "total_completed": 5601,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
