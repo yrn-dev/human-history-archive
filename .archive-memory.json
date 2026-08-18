@@ -27092,14 +27092,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 537",
       "timestamp": 1787036392.965806
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 689",
-      "variation": true
-    },
+      "timestamp": 1787036538.414686
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 686",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5433,
-    "total_planned": 54,
+    "total_completed": 5434,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
