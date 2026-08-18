@@ -27417,14 +27417,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 695",
       "timestamp": 1787051760.256802
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787051951.0849013
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5498,
-    "total_planned": 60,
+    "total_completed": 5499,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
