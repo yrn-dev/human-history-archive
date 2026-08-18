@@ -27737,14 +27737,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 782",
       "timestamp": 1787066645.7789142
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787066944.8195512
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 704",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5562,
-    "total_planned": 67,
+    "total_completed": 5563,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
