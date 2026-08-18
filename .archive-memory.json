@@ -27632,14 +27632,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 698",
       "timestamp": 1787061748.8806047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 772",
-      "variation": true
-    },
+      "timestamp": 1787062009.7592945
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5541,
-    "total_planned": 17,
+    "total_completed": 5542,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
