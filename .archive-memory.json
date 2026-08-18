@@ -27377,14 +27377,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 772",
       "timestamp": 1787049848.9109313
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 697",
-      "variation": true
-    },
+      "timestamp": 1787050077.5795083
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 695",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5490,
-    "total_planned": 68,
+    "total_completed": 5491,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
