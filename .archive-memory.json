@@ -27177,14 +27177,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 762",
       "timestamp": 1787040273.5247726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 688",
-      "variation": true
-    },
+      "timestamp": 1787040556.2432337
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 686",
@@ -27367,8 +27367,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5450,
-    "total_planned": 37,
+    "total_completed": 5451,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
