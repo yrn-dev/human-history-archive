@@ -27942,14 +27942,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 707",
       "timestamp": 1787077729.9812677
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787077865.2079039
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5603,
-    "total_planned": 26,
+    "total_completed": 5604,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
