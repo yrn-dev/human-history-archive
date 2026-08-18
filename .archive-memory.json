@@ -27457,14 +27457,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 697",
       "timestamp": 1787053359.0665762
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 695",
-      "variation": true
-    },
+      "timestamp": 1787053510.6143987
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 697",
@@ -27722,8 +27722,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5506,
-    "total_planned": 52,
+    "total_completed": 5507,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
