@@ -27852,14 +27852,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 782",
       "timestamp": 1787072305.8338017
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 704",
-      "variation": true
-    },
+      "timestamp": 1787072542.212783
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 706",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5585,
-    "total_planned": 44,
+    "total_completed": 5586,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
