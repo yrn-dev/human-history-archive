@@ -27857,14 +27857,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 704",
       "timestamp": 1787072542.212783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 706",
-      "variation": true
-    },
+      "timestamp": 1787072778.885752
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 782",
@@ -28077,8 +28077,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5586,
-    "total_planned": 43,
+    "total_completed": 5587,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
