@@ -28287,14 +28287,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 713",
       "timestamp": 1787093624.895181
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 716",
-      "variation": true
-    },
+      "timestamp": 1787093870.64966
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5672,
-    "total_planned": 28,
+    "total_completed": 5673,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
