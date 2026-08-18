@@ -28102,14 +28102,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 715",
       "timestamp": 1787085439.4515727
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787085680.4807498
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5635,
-    "total_planned": 65,
+    "total_completed": 5636,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
