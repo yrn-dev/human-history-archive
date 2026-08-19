@@ -30237,14 +30237,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 769",
       "timestamp": 1787182851.05915
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787183030.9041948
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 852",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6062,
-    "total_planned": 64,
+    "total_completed": 6063,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
