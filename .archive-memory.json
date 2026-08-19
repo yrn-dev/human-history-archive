@@ -28687,14 +28687,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 802",
       "timestamp": 1787111442.2577791
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 802",
-      "variation": true
-    },
+      "timestamp": 1787111761.308072
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5752,
-    "total_planned": 19,
+    "total_completed": 5753,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
