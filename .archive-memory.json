@@ -28557,14 +28557,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 725",
       "timestamp": 1787105787.6287212
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787106055.8417006
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5726,
-    "total_planned": 45,
+    "total_completed": 5727,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
