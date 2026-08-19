@@ -28407,14 +28407,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 715",
       "timestamp": 1787099179.979249
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787099430.2104826
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5696,
-    "total_planned": 4,
+    "total_completed": 5697,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
