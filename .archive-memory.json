@@ -29562,14 +29562,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 749",
       "timestamp": 1787151534.2546566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787151734.9526029
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 752",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5927,
-    "total_planned": 57,
+    "total_completed": 5928,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
