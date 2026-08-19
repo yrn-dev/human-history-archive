@@ -29662,14 +29662,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 752",
       "timestamp": 1787155973.4454308
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787156285.7601712
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 751",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5947,
-    "total_planned": 37,
+    "total_completed": 5948,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
