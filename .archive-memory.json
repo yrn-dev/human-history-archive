@@ -29312,14 +29312,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 743",
       "timestamp": 1787140631.549826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787140889.1151245
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 822",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5877,
-    "total_planned": 36,
+    "total_completed": 5878,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
