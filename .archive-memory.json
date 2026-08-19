@@ -29352,14 +29352,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 579",
       "timestamp": 1787142434.1795905
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 743",
-      "variation": true
-    },
+      "timestamp": 1787142745.74673
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 822",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5885,
-    "total_planned": 28,
+    "total_completed": 5886,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
