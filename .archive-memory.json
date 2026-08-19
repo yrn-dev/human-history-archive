@@ -28657,14 +28657,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 565",
       "timestamp": 1787110192.287661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787110358.331895
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 722",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5746,
-    "total_planned": 25,
+    "total_completed": 5747,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
