@@ -29072,14 +29072,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 731",
       "timestamp": 1787129335.6640017
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787129648.7127626
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5829,
-    "total_planned": 13,
+    "total_completed": 5830,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
