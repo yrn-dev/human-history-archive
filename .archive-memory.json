@@ -30077,14 +30077,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 842",
       "timestamp": 1787175022.475534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 593",
-      "variation": true
-    },
+      "timestamp": 1787175273.4445326
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 593",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6030,
-    "total_planned": 25,
+    "total_completed": 6031,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
