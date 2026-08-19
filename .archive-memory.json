@@ -29592,14 +29592,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 752",
       "timestamp": 1787152845.940976
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787153066.3983839
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 832",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5933,
-    "total_planned": 51,
+    "total_completed": 5934,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
