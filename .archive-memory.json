@@ -29362,14 +29362,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 822",
       "timestamp": 1787142936.2681448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 579",
-      "variation": true
-    },
+      "timestamp": 1787143110.2082074
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 740",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5887,
-    "total_planned": 26,
+    "total_completed": 5888,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
