@@ -29342,14 +29342,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 743",
       "timestamp": 1787141922.5402696
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 822",
-      "variation": true
-    },
+      "timestamp": 1787142175.8569686
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 579",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5883,
-    "total_planned": 30,
+    "total_completed": 5884,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
