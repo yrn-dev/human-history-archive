@@ -29172,14 +29172,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 579",
       "timestamp": 1787134190.6244519
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787134491.539672
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 743",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5849,
-    "total_planned": 64,
+    "total_completed": 5850,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
