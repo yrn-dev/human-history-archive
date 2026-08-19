@@ -29467,14 +29467,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 579",
       "timestamp": 1787147525.6178663
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787147732.1966655
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5908,
-    "total_planned": 5,
+    "total_completed": 5909,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
