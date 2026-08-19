@@ -28372,14 +28372,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 713",
       "timestamp": 1787097759.269998
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 792",
-      "variation": true
-    },
+      "timestamp": 1787097905.7029226
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 558",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5689,
-    "total_planned": 11,
+    "total_completed": 5690,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
