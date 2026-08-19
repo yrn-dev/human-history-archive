@@ -29062,14 +29062,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 734",
       "timestamp": 1787128853.5052772
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787129066.4537997
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5827,
-    "total_planned": 15,
+    "total_completed": 5828,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
