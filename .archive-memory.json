@@ -29037,14 +29037,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 812",
       "timestamp": 1787127563.000971
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787127781.2854652
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 734",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5822,
-    "total_planned": 20,
+    "total_completed": 5823,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
