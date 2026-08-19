@@ -30072,14 +30072,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 760",
       "timestamp": 1787174870.0779443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787175022.475534
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 593",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6029,
-    "total_planned": 26,
+    "total_completed": 6030,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
