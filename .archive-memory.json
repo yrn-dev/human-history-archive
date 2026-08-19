@@ -29067,14 +29067,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 731",
       "timestamp": 1787129066.4537997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787129335.6640017
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5828,
-    "total_planned": 14,
+    "total_completed": 5829,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
