@@ -28857,14 +28857,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 734",
       "timestamp": 1787119076.1250367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787119319.6910331
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 572",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5786,
-    "total_planned": 56,
+    "total_completed": 5787,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
