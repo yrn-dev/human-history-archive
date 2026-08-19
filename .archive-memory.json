@@ -28932,14 +28932,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 731",
       "timestamp": 1787122531.6468363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1787122713.6154091
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 572",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5801,
-    "total_planned": 41,
+    "total_completed": 5802,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
