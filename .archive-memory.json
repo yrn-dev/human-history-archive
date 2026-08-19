@@ -29922,14 +29922,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 593",
       "timestamp": 1787167853.053522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787168010.0061262
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 761",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5999,
-    "total_planned": 56,
+    "total_completed": 6000,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
