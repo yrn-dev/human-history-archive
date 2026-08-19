@@ -29322,14 +29322,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 822",
       "timestamp": 1787141121.2911925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787141274.491042
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 740",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5879,
-    "total_planned": 34,
+    "total_completed": 5880,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
