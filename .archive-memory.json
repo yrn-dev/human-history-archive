@@ -29542,14 +29542,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 751",
       "timestamp": 1787150819.3365912
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787151016.5321252
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5923,
-    "total_planned": 61,
+    "total_completed": 5924,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
