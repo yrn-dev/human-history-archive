@@ -29962,14 +29962,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 842",
       "timestamp": 1787169580.2107418
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787169888.199067
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 758",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6007,
-    "total_planned": 48,
+    "total_completed": 6008,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
