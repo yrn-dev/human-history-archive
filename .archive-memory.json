@@ -29347,14 +29347,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 822",
       "timestamp": 1787142175.8569686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 579",
-      "variation": true
-    },
+      "timestamp": 1787142434.1795905
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 743",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5884,
-    "total_planned": 29,
+    "total_completed": 5885,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
