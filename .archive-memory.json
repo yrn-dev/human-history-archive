@@ -29087,14 +29087,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 812",
       "timestamp": 1787130000.4704847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787130222.908154
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 812",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5832,
-    "total_planned": 10,
+    "total_completed": 5833,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
