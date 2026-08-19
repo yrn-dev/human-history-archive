@@ -30157,14 +30157,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 758",
       "timestamp": 1787179056.1939971
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787179214.7188592
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6046,
-    "total_planned": 9,
+    "total_completed": 6047,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
