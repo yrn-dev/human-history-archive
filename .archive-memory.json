@@ -29177,14 +29177,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 742",
       "timestamp": 1787134491.539672
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 743",
-      "variation": true
-    },
+      "timestamp": 1787134752.7261498
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 579",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5850,
-    "total_planned": 63,
+    "total_completed": 5851,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
