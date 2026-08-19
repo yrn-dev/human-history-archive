@@ -30127,14 +30127,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 760",
       "timestamp": 1787177444.25789
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787177762.2775133
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6040,
-    "total_planned": 15,
+    "total_completed": 6041,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
