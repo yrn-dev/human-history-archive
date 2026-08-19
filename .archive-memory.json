@@ -30152,14 +30152,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 761",
       "timestamp": 1787178879.3365934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787179056.1939971
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 758",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6045,
-    "total_planned": 10,
+    "total_completed": 6046,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
