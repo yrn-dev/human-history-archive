@@ -28887,14 +28887,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 733",
       "timestamp": 1787120565.1995625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787120814.8934808
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5792,
-    "total_planned": 50,
+    "total_completed": 5793,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
