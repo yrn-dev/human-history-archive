@@ -29872,14 +29872,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 758",
       "timestamp": 1787165478.7874827
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787165698.0725877
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 758",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5989,
-    "total_planned": 66,
+    "total_completed": 5990,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
