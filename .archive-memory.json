@@ -30087,14 +30087,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 593",
       "timestamp": 1787175582.3602545
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787175730.1579673
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6032,
-    "total_planned": 23,
+    "total_completed": 6033,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
