@@ -29722,14 +29722,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 751",
       "timestamp": 1787158837.5994966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787159135.685579
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 751",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5959,
-    "total_planned": 25,
+    "total_completed": 5960,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
