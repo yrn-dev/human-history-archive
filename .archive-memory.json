@@ -28662,14 +28662,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 724",
       "timestamp": 1787110358.331895
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787110563.7422283
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5747,
-    "total_planned": 24,
+    "total_completed": 5748,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
