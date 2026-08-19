@@ -30062,14 +30062,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 758",
       "timestamp": 1787174455.6923125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787174650.674853
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6027,
-    "total_planned": 28,
+    "total_completed": 6028,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
