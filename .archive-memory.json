@@ -29887,14 +29887,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 842",
       "timestamp": 1787166121.760712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787166426.9735246
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 842",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5992,
-    "total_planned": 63,
+    "total_completed": 5993,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
