@@ -28492,14 +28492,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 722",
       "timestamp": 1787102855.4407983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787103032.5833697
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5713,
-    "total_planned": 58,
+    "total_completed": 5714,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
