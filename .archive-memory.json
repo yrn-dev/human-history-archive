@@ -29982,14 +29982,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 761",
       "timestamp": 1787170805.7264946
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787171048.5309606
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 842",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6011,
-    "total_planned": 44,
+    "total_completed": 6012,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
