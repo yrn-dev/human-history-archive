@@ -29297,14 +29297,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 742",
       "timestamp": 1787139987.9234831
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787140189.9798744
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 740",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5874,
-    "total_planned": 39,
+    "total_completed": 5875,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
