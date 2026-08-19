@@ -30092,14 +30092,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 761",
       "timestamp": 1787175730.1579673
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787175873.311843
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 758",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6033,
-    "total_planned": 22,
+    "total_completed": 6034,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
