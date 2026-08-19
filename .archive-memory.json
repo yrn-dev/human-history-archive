@@ -30112,14 +30112,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 842",
       "timestamp": 1787176649.3816295
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787176957.0727632
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 593",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6037,
-    "total_planned": 18,
+    "total_completed": 6038,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
