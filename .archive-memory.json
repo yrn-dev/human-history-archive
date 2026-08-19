@@ -28852,14 +28852,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 572",
       "timestamp": 1787118807.8317852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 734",
-      "variation": true
-    },
+      "timestamp": 1787119076.1250367
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5785,
-    "total_planned": 57,
+    "total_completed": 5786,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
