@@ -30002,14 +30002,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 760",
       "timestamp": 1787171643.7484052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787171900.697763
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6015,
-    "total_planned": 40,
+    "total_completed": 6016,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
