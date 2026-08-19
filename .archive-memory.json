@@ -28727,14 +28727,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 722",
       "timestamp": 1787113421.3697848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787113679.089929
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 722",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5760,
-    "total_planned": 11,
+    "total_completed": 5761,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
