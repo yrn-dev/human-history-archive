@@ -29057,14 +29057,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 731",
       "timestamp": 1787128557.6098566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 734",
-      "variation": true
-    },
+      "timestamp": 1787128853.5052772
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5826,
-    "total_planned": 16,
+    "total_completed": 5827,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
