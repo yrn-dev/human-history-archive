@@ -29147,14 +29147,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 822",
       "timestamp": 1787132854.3834789
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787133115.1515682
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 743",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5844,
-    "total_planned": 69,
+    "total_completed": 5845,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
