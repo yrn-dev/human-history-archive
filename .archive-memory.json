@@ -29477,14 +29477,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 742",
       "timestamp": 1787147888.9230363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787148130.6575453
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 822",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5910,
-    "total_planned": 3,
+    "total_completed": 5911,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
