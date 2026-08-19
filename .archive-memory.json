@@ -28867,14 +28867,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 572",
       "timestamp": 1787119622.4075606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787119804.5735402
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 734",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5788,
-    "total_planned": 54,
+    "total_completed": 5789,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
