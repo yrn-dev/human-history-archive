@@ -29082,14 +29082,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 731",
       "timestamp": 1787129834.851942
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787130000.4704847
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5831,
-    "total_planned": 11,
+    "total_completed": 5832,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
