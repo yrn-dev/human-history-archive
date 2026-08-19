@@ -28922,14 +28922,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 733",
       "timestamp": 1787122149.083206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 734",
-      "variation": true
-    },
+      "timestamp": 1787122317.715037
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5799,
-    "total_planned": 43,
+    "total_completed": 5800,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
