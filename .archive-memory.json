@@ -29417,14 +29417,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 740",
       "timestamp": 1787145332.813047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787145569.092332
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 743",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5898,
-    "total_planned": 15,
+    "total_completed": 5899,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
