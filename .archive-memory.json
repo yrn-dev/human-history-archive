@@ -29692,14 +29692,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 586",
       "timestamp": 1787157477.717887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787157734.6435168
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 832",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5953,
-    "total_planned": 31,
+    "total_completed": 5954,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
