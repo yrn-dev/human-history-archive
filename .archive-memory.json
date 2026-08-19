@@ -29832,14 +29832,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 749",
       "timestamp": 1787163795.2366917
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 586",
-      "variation": true
-    },
+      "timestamp": 1787164005.8119278
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5981,
-    "total_planned": 3,
+    "total_completed": 5982,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
