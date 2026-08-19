@@ -29257,14 +29257,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 740",
       "timestamp": 1787138196.808397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787138407.6131349
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 822",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5866,
-    "total_planned": 47,
+    "total_completed": 5867,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
