@@ -28737,14 +28737,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 722",
       "timestamp": 1787113846.2017863
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787114085.1117566
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 722",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5762,
-    "total_planned": 9,
+    "total_completed": 5763,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
