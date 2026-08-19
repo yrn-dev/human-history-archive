@@ -29182,14 +29182,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 743",
       "timestamp": 1787134752.7261498
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 579",
-      "variation": true
-    },
+      "timestamp": 1787134936.016875
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 740",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5851,
-    "total_planned": 62,
+    "total_completed": 5852,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
