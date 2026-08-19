@@ -29687,14 +29687,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 749",
       "timestamp": 1787157338.63182
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 586",
-      "variation": true
-    },
+      "timestamp": 1787157477.717887
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 751",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5952,
-    "total_planned": 32,
+    "total_completed": 5953,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
