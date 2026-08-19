@@ -29917,14 +29917,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 758",
       "timestamp": 1787167564.0872025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 593",
-      "variation": true
-    },
+      "timestamp": 1787167853.053522
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 758",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5998,
-    "total_planned": 57,
+    "total_completed": 5999,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
