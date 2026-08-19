@@ -29437,14 +29437,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 743",
       "timestamp": 1787146215.644684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787146398.3013246
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5902,
-    "total_planned": 11,
+    "total_completed": 5903,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
