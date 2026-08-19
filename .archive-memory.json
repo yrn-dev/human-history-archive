@@ -29287,14 +29287,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 822",
       "timestamp": 1787139528.6988332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787139783.3018012
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5872,
-    "total_planned": 41,
+    "total_completed": 5873,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
