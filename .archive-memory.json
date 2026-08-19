@@ -29617,14 +29617,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 749",
       "timestamp": 1787153900.94758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787154132.5184314
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5938,
-    "total_planned": 46,
+    "total_completed": 5939,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
