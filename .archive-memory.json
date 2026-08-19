@@ -29737,14 +29737,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 832",
       "timestamp": 1787159522.9600134
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787159713.7805896
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5962,
-    "total_planned": 22,
+    "total_completed": 5963,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
