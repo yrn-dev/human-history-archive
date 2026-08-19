@@ -29842,18 +29842,17 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 749",
       "timestamp": 1787164152.207353
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 586",
-      "variation": true
+      "timestamp": 1787164335.5767362
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5983,
-    "total_planned": 1,
+    "total_completed": 5984,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
