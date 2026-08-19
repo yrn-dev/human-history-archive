@@ -28967,14 +28967,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 812",
       "timestamp": 1787124324.005599
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787124588.003158
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5808,
-    "total_planned": 34,
+    "total_completed": 5809,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
