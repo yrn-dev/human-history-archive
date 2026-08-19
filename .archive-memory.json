@@ -29867,14 +29867,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 760",
       "timestamp": 1787165269.857069
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787165478.7874827
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 842",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5988,
-    "total_planned": 67,
+    "total_completed": 5989,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
