@@ -28752,14 +28752,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 724",
       "timestamp": 1787114564.251324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 725",
-      "variation": true
-    },
+      "timestamp": 1787114834.3592
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 565",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5765,
-    "total_planned": 6,
+    "total_completed": 5766,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
