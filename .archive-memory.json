@@ -30252,14 +30252,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 769",
       "timestamp": 1787183530.4948642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787183820.5031838
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 767",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6065,
-    "total_planned": 61,
+    "total_completed": 6066,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
