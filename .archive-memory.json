@@ -28417,14 +28417,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 715",
       "timestamp": 1787099652.9212966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 558",
-      "variation": true
-    },
+      "timestamp": 1787099842.7408752
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5698,
-    "total_planned": 2,
+    "total_completed": 5699,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
