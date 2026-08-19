@@ -29697,14 +29697,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 751",
       "timestamp": 1787157734.6435168
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787157923.489696
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 751",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5954,
-    "total_planned": 30,
+    "total_completed": 5955,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
