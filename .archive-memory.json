@@ -29217,14 +29217,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 742",
       "timestamp": 1787136329.3626564
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787136489.6701913
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5858,
-    "total_planned": 55,
+    "total_completed": 5859,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
