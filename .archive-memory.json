@@ -29222,14 +29222,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 742",
       "timestamp": 1787136489.6701913
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787136666.0336318
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5859,
-    "total_planned": 54,
+    "total_completed": 5860,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
