@@ -29007,14 +29007,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 734",
       "timestamp": 1787126228.5915048
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787126456.0829844
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5816,
-    "total_planned": 26,
+    "total_completed": 5817,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
