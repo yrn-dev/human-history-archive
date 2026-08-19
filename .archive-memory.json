@@ -28942,14 +28942,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 572",
       "timestamp": 1787122972.7640595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1787123268.568071
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5803,
-    "total_planned": 39,
+    "total_completed": 5804,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
