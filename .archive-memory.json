@@ -29097,14 +29097,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 812",
       "timestamp": 1787130409.2795253
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787130638.2476974
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5834,
-    "total_planned": 8,
+    "total_completed": 5835,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
