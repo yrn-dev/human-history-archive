@@ -29142,14 +29142,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 742",
       "timestamp": 1787132661.0462453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 822",
-      "variation": true
-    },
+      "timestamp": 1787132854.3834789
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 740",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5843,
-    "total_planned": 70,
+    "total_completed": 5844,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
