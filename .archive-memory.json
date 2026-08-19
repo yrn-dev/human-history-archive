@@ -28672,14 +28672,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 724",
       "timestamp": 1787110705.0058203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787110937.2622561
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 722",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5749,
-    "total_planned": 22,
+    "total_completed": 5750,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
