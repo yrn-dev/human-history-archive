@@ -29997,14 +29997,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 760",
       "timestamp": 1787171506.4945111
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787171643.7484052
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6014,
-    "total_planned": 41,
+    "total_completed": 6015,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
