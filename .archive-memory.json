@@ -30102,14 +30102,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 758",
       "timestamp": 1787176122.4548984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787176364.1526346
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 842",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6035,
-    "total_planned": 20,
+    "total_completed": 6036,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
