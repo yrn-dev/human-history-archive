@@ -30182,14 +30182,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 760",
       "timestamp": 1787180256.1734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787180520.6720486
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6051,
-    "total_planned": 4,
+    "total_completed": 6052,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
