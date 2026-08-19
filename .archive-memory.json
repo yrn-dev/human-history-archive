@@ -29557,14 +29557,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 752",
       "timestamp": 1787151308.378749
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787151534.2546566
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 751",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5926,
-    "total_planned": 58,
+    "total_completed": 5927,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
