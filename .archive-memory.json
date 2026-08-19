@@ -29987,14 +29987,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 758",
       "timestamp": 1787171048.5309606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787171188.710341
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6012,
-    "total_planned": 43,
+    "total_completed": 6013,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
