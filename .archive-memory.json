@@ -28562,14 +28562,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 724",
       "timestamp": 1787106055.8417006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787106199.293609
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 725",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5727,
-    "total_planned": 44,
+    "total_completed": 5728,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
