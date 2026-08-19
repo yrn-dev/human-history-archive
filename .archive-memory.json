@@ -29812,14 +29812,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 751",
       "timestamp": 1787163018.786243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787163186.528136
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 832",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5977,
-    "total_planned": 7,
+    "total_completed": 5978,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
