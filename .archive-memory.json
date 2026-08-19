@@ -28757,14 +28757,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 725",
       "timestamp": 1787114834.3592
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 565",
-      "variation": true
-    },
+      "timestamp": 1787115005.831767
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5766,
-    "total_planned": 5,
+    "total_completed": 5767,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
