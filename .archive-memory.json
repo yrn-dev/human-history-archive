@@ -28832,14 +28832,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 733",
       "timestamp": 1787118074.3058634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787118214.426273
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5781,
-    "total_planned": 61,
+    "total_completed": 5782,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
