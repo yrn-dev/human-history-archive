@@ -29627,14 +29627,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 749",
       "timestamp": 1787154294.7654223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787154564.986798
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 832",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5940,
-    "total_planned": 44,
+    "total_completed": 5941,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
