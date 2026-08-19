@@ -28507,14 +28507,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 722",
       "timestamp": 1787103455.3915794
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 725",
-      "variation": true
-    },
+      "timestamp": 1787103754.1005445
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 802",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5716,
-    "total_planned": 55,
+    "total_completed": 5717,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
