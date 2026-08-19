@@ -29002,14 +29002,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 733",
       "timestamp": 1787126024.821444
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 734",
-      "variation": true
-    },
+      "timestamp": 1787126228.5915048
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5815,
-    "total_planned": 27,
+    "total_completed": 5816,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
