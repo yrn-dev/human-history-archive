@@ -28532,14 +28532,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 565",
       "timestamp": 1787104601.128573
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 725",
-      "variation": true
-    },
+      "timestamp": 1787104875.997934
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5721,
-    "total_planned": 50,
+    "total_completed": 5722,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
