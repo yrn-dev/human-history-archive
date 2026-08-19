@@ -29047,14 +29047,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 734",
       "timestamp": 1787128017.3925507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787128311.0904076
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5824,
-    "total_planned": 18,
+    "total_completed": 5825,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
