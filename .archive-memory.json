@@ -30132,14 +30132,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 760",
       "timestamp": 1787177762.2775133
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787178015.360594
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6041,
-    "total_planned": 14,
+    "total_completed": 6042,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
