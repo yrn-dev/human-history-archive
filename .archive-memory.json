@@ -29537,14 +29537,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 749",
       "timestamp": 1787150593.4864504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787150819.3365912
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5922,
-    "total_planned": 62,
+    "total_completed": 5923,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
