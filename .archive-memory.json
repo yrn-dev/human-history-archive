@@ -30042,14 +30042,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 758",
       "timestamp": 1787173632.2833152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787173805.4736242
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 761",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6023,
-    "total_planned": 32,
+    "total_completed": 6024,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
