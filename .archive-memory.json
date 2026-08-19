@@ -29747,14 +29747,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 749",
       "timestamp": 1787159949.0948484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787160089.9659166
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 751",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5964,
-    "total_planned": 20,
+    "total_completed": 5965,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
