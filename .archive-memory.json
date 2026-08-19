@@ -28842,14 +28842,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 731",
       "timestamp": 1787118387.6024435
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787118662.859496
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 572",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5783,
-    "total_planned": 59,
+    "total_completed": 5784,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
