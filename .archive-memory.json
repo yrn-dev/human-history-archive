@@ -30082,14 +30082,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 593",
       "timestamp": 1787175273.4445326
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 593",
-      "variation": true
-    },
+      "timestamp": 1787175582.3602545
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 761",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6031,
-    "total_planned": 24,
+    "total_completed": 6032,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
