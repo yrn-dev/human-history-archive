@@ -29032,14 +29032,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 733",
       "timestamp": 1787127410.1642637
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787127563.000971
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5821,
-    "total_planned": 21,
+    "total_completed": 5822,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
