@@ -29232,14 +29232,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 742",
       "timestamp": 1787136930.6069996
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 579",
-      "variation": true
-    },
+      "timestamp": 1787137079.0985265
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 740",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5861,
-    "total_planned": 52,
+    "total_completed": 5862,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
