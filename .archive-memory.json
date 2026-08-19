@@ -28647,14 +28647,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 802",
       "timestamp": 1787109886.1807957
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 565",
-      "variation": true
-    },
+      "timestamp": 1787110031.0853915
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 565",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5744,
-    "total_planned": 27,
+    "total_completed": 5745,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
