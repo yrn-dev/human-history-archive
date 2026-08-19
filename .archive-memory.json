@@ -28937,14 +28937,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 572",
       "timestamp": 1787122713.6154091
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1787122972.7640595
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 572",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5802,
-    "total_planned": 40,
+    "total_completed": 5803,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
