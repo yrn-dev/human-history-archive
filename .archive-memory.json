@@ -29462,14 +29462,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 740",
       "timestamp": 1787147230.7653084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 579",
-      "variation": true
-    },
+      "timestamp": 1787147525.6178663
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5907,
-    "total_planned": 6,
+    "total_completed": 5908,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
