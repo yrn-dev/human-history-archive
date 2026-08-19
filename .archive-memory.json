@@ -28952,14 +28952,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 733",
       "timestamp": 1787123443.490473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787123754.9028003
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5805,
-    "total_planned": 37,
+    "total_completed": 5806,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
