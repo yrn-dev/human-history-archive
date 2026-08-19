@@ -29102,14 +29102,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 731",
       "timestamp": 1787130638.2476974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787130868.6744277
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 812",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5835,
-    "total_planned": 7,
+    "total_completed": 5836,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
