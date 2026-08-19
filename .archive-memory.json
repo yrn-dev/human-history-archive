@@ -28457,14 +28457,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 565",
       "timestamp": 1787101397.8807485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787101656.7922688
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5706,
-    "total_planned": 65,
+    "total_completed": 5707,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
