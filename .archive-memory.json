@@ -30217,14 +30217,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 852",
       "timestamp": 1787181855.7239342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787182093.5628507
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 600",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6058,
-    "total_planned": 68,
+    "total_completed": 6059,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
