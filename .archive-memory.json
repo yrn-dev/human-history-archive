@@ -28467,14 +28467,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 724",
       "timestamp": 1787101832.5422866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 802",
-      "variation": true
-    },
+      "timestamp": 1787102128.3797643
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 722",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5708,
-    "total_planned": 63,
+    "total_completed": 5709,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
