@@ -29972,14 +29972,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 758",
       "timestamp": 1787170220.4889743
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 760",
-      "variation": true
-    },
+      "timestamp": 1787170520.8516843
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 761",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6009,
-    "total_planned": 46,
+    "total_completed": 6010,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
