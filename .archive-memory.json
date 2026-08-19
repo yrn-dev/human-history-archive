@@ -30207,14 +30207,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 769",
       "timestamp": 1787181465.8907373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787181667.3181362
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 852",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6056,
-    "total_planned": 70,
+    "total_completed": 6057,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
