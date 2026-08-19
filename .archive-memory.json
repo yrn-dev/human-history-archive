@@ -28747,14 +28747,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 722",
       "timestamp": 1787114390.4164155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787114564.251324
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 725",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5764,
-    "total_planned": 7,
+    "total_completed": 5765,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
