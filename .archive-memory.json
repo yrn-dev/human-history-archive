@@ -28512,14 +28512,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 725",
       "timestamp": 1787103754.1005445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 802",
-      "variation": true
-    },
+      "timestamp": 1787103996.2996442
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 565",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5717,
-    "total_planned": 54,
+    "total_completed": 5718,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
