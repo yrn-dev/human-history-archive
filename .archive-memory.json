@@ -29482,14 +29482,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 740",
       "timestamp": 1787148130.6575453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 822",
-      "variation": true
-    },
+      "timestamp": 1787148409.1411192
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5911,
-    "total_planned": 2,
+    "total_completed": 5912,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
