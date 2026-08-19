@@ -28627,14 +28627,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 802",
       "timestamp": 1787108908.184899
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 802",
-      "variation": true
-    },
+      "timestamp": 1787109130.843462
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5740,
-    "total_planned": 31,
+    "total_completed": 5741,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
