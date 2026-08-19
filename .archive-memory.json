@@ -29457,14 +29457,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 740",
       "timestamp": 1787147072.488465
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787147230.7653084
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 579",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5906,
-    "total_planned": 7,
+    "total_completed": 5907,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
