@@ -30097,14 +30097,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 760",
       "timestamp": 1787175873.311843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787176122.4548984
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6034,
-    "total_planned": 21,
+    "total_completed": 6035,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
