@@ -28732,14 +28732,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 724",
       "timestamp": 1787113679.089929
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787113846.2017863
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5761,
-    "total_planned": 10,
+    "total_completed": 5762,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
