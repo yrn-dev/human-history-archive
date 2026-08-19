@@ -29772,14 +29772,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 751",
       "timestamp": 1787161240.6732368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 752",
-      "variation": true
-    },
+      "timestamp": 1787161467.6013556
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 832",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5969,
-    "total_planned": 15,
+    "total_completed": 5970,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
