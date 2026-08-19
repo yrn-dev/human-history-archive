@@ -29502,14 +29502,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 752",
       "timestamp": 1787149093.8254611
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787149395.1487775
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 586",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5915,
-    "total_planned": 69,
+    "total_completed": 5916,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
