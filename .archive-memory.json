@@ -30047,14 +30047,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 760",
       "timestamp": 1787173805.4736242
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787173943.6157086
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 593",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6024,
-    "total_planned": 31,
+    "total_completed": 6025,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
