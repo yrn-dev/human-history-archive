@@ -28432,14 +28432,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 722",
       "timestamp": 1787100373.8197477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787100549.0835683
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5701,
-    "total_planned": 70,
+    "total_completed": 5702,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
