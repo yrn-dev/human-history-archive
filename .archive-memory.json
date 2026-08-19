@@ -29527,14 +29527,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 751",
       "timestamp": 1787150126.8488052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 586",
-      "variation": true
-    },
+      "timestamp": 1787150281.7138455
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5920,
-    "total_planned": 64,
+    "total_completed": 5921,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
