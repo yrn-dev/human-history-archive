@@ -29742,14 +29742,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 751",
       "timestamp": 1787159713.7805896
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787159949.0948484
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 832",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5963,
-    "total_planned": 21,
+    "total_completed": 5964,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
