@@ -29902,14 +29902,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 761",
       "timestamp": 1787166807.7013206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 593",
-      "variation": true
-    },
+      "timestamp": 1787167034.834311
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5995,
-    "total_planned": 60,
+    "total_completed": 5996,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
