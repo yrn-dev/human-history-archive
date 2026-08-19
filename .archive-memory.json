@@ -29792,14 +29792,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 749",
       "timestamp": 1787162225.7969298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787162457.4898655
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 751",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5973,
-    "total_planned": 11,
+    "total_completed": 5974,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
