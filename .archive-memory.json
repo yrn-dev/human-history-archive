@@ -29282,14 +29282,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 743",
       "timestamp": 1787139299.7624195
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 822",
-      "variation": true
-    },
+      "timestamp": 1787139528.6988332
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5871,
-    "total_planned": 42,
+    "total_completed": 5872,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
