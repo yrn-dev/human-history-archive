@@ -30027,14 +30027,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 758",
       "timestamp": 1787172898.799366
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787173107.8265653
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 761",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6020,
-    "total_planned": 35,
+    "total_completed": 6021,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
