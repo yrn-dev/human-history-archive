@@ -29567,14 +29567,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 751",
       "timestamp": 1787151734.9526029
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 752",
-      "variation": true
-    },
+      "timestamp": 1787151900.437991
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5928,
-    "total_planned": 56,
+    "total_completed": 5929,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
