@@ -28387,14 +28387,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 713",
       "timestamp": 1787098299.3003776
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787098507.0581431
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 792",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5692,
-    "total_planned": 8,
+    "total_completed": 5693,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
