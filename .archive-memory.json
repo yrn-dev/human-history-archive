@@ -29827,14 +29827,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 752",
       "timestamp": 1787163618.8562431
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787163795.2366917
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 586",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5980,
-    "total_planned": 4,
+    "total_completed": 5981,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
