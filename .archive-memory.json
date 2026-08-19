@@ -29157,14 +29157,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 743",
       "timestamp": 1787133391.2029793
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787133724.8739157
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 579",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5846,
-    "total_planned": 67,
+    "total_completed": 5847,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
