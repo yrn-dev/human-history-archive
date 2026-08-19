@@ -30212,14 +30212,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 767",
       "timestamp": 1787181667.3181362
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787181855.7239342
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 767",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6057,
-    "total_planned": 69,
+    "total_completed": 6058,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
