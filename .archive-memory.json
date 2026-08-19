@@ -29112,14 +29112,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 812",
       "timestamp": 1787131125.7809916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 572",
-      "variation": true
-    },
+      "timestamp": 1787131338.696836
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5837,
-    "total_planned": 5,
+    "total_completed": 5838,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
