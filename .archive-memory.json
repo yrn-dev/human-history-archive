@@ -29402,14 +29402,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 740",
       "timestamp": 1787144639.783986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787144837.2358003
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5895,
-    "total_planned": 18,
+    "total_completed": 5896,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
