@@ -30227,14 +30227,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 600",
       "timestamp": 1787182399.142333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787182627.6921725
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6060,
-    "total_planned": 66,
+    "total_completed": 6061,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
