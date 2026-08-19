@@ -28502,14 +28502,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 724",
       "timestamp": 1787103296.8255365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787103455.3915794
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 725",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5715,
-    "total_planned": 56,
+    "total_completed": 5716,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
