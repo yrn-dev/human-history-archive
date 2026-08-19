@@ -28567,14 +28567,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 724",
       "timestamp": 1787106199.293609
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 725",
-      "variation": true
-    },
+      "timestamp": 1787106420.5493982
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5728,
-    "total_planned": 43,
+    "total_completed": 5729,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
