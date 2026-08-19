@@ -28377,14 +28377,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 792",
       "timestamp": 1787097905.7029226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 558",
-      "variation": true
-    },
+      "timestamp": 1787098075.4232137
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 713",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5690,
-    "total_planned": 10,
+    "total_completed": 5691,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
