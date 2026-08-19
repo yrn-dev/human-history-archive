@@ -29652,14 +29652,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 586",
       "timestamp": 1787155518.8081844
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787155726.1717513
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 752",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5945,
-    "total_planned": 39,
+    "total_completed": 5946,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
