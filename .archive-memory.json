@@ -28392,14 +28392,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 715",
       "timestamp": 1787098507.0581431
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 792",
-      "variation": true
-    },
+      "timestamp": 1787098738.004446
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5693,
-    "total_planned": 7,
+    "total_completed": 5694,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
