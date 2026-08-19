@@ -29252,14 +29252,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 742",
       "timestamp": 1787137908.0427418
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787138196.808397
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5865,
-    "total_planned": 48,
+    "total_completed": 5866,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
