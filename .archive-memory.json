@@ -29237,14 +29237,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 579",
       "timestamp": 1787137079.0985265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787137349.1032906
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 822",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5862,
-    "total_planned": 51,
+    "total_completed": 5863,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
