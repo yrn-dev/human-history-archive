@@ -28447,14 +28447,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 802",
       "timestamp": 1787101030.0318105
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787101258.8228052
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 565",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5704,
-    "total_planned": 67,
+    "total_completed": 5705,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
