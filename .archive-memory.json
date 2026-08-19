@@ -28712,14 +28712,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 722",
       "timestamp": 1787112652.955505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787112926.1014464
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5757,
-    "total_planned": 14,
+    "total_completed": 5758,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
