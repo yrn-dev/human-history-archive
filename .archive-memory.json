@@ -29357,14 +29357,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 743",
       "timestamp": 1787142745.74673
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 822",
-      "variation": true
-    },
+      "timestamp": 1787142936.2681448
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 579",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5886,
-    "total_planned": 27,
+    "total_completed": 5887,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
