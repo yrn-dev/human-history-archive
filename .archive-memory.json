@@ -29042,14 +29042,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 731",
       "timestamp": 1787127781.2854652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 734",
-      "variation": true
-    },
+      "timestamp": 1787128017.3925507
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5823,
-    "total_planned": 19,
+    "total_completed": 5824,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
