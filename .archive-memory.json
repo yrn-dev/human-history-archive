@@ -29877,14 +29877,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 842",
       "timestamp": 1787165698.0725877
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787165893.0111406
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 842",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5990,
-    "total_planned": 65,
+    "total_completed": 5991,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
