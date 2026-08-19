@@ -28777,18 +28777,17 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 725",
       "timestamp": 1787115690.8876216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 722",
-      "variation": true
+      "timestamp": 1787115864.9514828
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5770,
-    "total_planned": 1,
+    "total_completed": 5771,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
