@@ -30107,14 +30107,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 760",
       "timestamp": 1787176364.1526346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787176649.3816295
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6036,
-    "total_planned": 19,
+    "total_completed": 6037,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
