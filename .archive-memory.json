@@ -29797,14 +29797,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 751",
       "timestamp": 1787162457.4898655
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787162675.113444
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 832",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5974,
-    "total_planned": 10,
+    "total_completed": 5975,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
