@@ -29782,14 +29782,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 832",
       "timestamp": 1787161620.1424584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787161916.6944215
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5971,
-    "total_planned": 13,
+    "total_completed": 5972,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
