@@ -28462,14 +28462,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 722",
       "timestamp": 1787101656.7922688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787101832.5422866
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 802",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5707,
-    "total_planned": 64,
+    "total_completed": 5708,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
