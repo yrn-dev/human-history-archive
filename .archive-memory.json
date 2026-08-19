@@ -29952,14 +29952,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 758",
       "timestamp": 1787169105.4969819
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 593",
-      "variation": true
-    },
+      "timestamp": 1787169407.903142
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 842",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6005,
-    "total_planned": 50,
+    "total_completed": 6006,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
