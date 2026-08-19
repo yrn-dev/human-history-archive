@@ -28592,14 +28592,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 802",
       "timestamp": 1787107280.2755167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787107588.0952704
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5733,
-    "total_planned": 38,
+    "total_completed": 5734,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
