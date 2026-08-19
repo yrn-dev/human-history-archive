@@ -29442,14 +29442,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 742",
       "timestamp": 1787146398.3013246
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787146617.8165457
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5903,
-    "total_planned": 10,
+    "total_completed": 5904,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
