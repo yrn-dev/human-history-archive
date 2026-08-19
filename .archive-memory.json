@@ -29487,18 +29487,17 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 822",
       "timestamp": 1787148409.1411192
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 742",
-      "variation": true
+      "timestamp": 1787148618.6624107
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5912,
-    "total_planned": 1,
+    "total_completed": 5913,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
