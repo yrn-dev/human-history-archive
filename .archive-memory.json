@@ -28397,14 +28397,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 792",
       "timestamp": 1787098738.004446
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787098902.4783618
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 715",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5694,
-    "total_planned": 6,
+    "total_completed": 5695,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
