@@ -28997,14 +28997,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 812",
       "timestamp": 1787125772.1989808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787126024.821444
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 734",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5814,
-    "total_planned": 28,
+    "total_completed": 5815,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
