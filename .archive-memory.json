@@ -28972,14 +28972,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 733",
       "timestamp": 1787124588.003158
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787124761.598154
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 734",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5809,
-    "total_planned": 33,
+    "total_completed": 5810,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
