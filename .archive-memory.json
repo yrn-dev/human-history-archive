@@ -29682,14 +29682,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 749",
       "timestamp": 1787157137.9245245
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787157338.63182
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 586",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5951,
-    "total_planned": 33,
+    "total_completed": 5952,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
