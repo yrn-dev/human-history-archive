@@ -29912,14 +29912,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 760",
       "timestamp": 1787167275.452987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787167564.0872025
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 593",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5997,
-    "total_planned": 58,
+    "total_completed": 5998,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
