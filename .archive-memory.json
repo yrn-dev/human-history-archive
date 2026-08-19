@@ -29672,14 +29672,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 751",
       "timestamp": 1787156576.8266873
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787156842.324694
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5949,
-    "total_planned": 35,
+    "total_completed": 5950,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
