@@ -30117,14 +30117,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 760",
       "timestamp": 1787176957.0727632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 593",
-      "variation": true
-    },
+      "timestamp": 1787177234.087282
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6038,
-    "total_planned": 17,
+    "total_completed": 6039,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
