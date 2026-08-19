@@ -29892,14 +29892,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 761",
       "timestamp": 1787166426.9735246
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787166620.0264914
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 761",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5993,
-    "total_planned": 62,
+    "total_completed": 5994,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
