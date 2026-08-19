@@ -29727,14 +29727,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 832",
       "timestamp": 1787159135.685579
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787159281.898789
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 832",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5960,
-    "total_planned": 24,
+    "total_completed": 5961,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
