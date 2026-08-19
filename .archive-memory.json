@@ -28412,14 +28412,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 715",
       "timestamp": 1787099430.2104826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 715",
-      "variation": true
-    },
+      "timestamp": 1787099652.9212966
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 558",
@@ -28432,8 +28432,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5697,
-    "total_planned": 3,
+    "total_completed": 5698,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
