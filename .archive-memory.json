@@ -28547,14 +28547,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 724",
       "timestamp": 1787105387.8583398
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 725",
-      "variation": true
-    },
+      "timestamp": 1787105618.820581
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 725",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5724,
-    "total_planned": 47,
+    "total_completed": 5725,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
