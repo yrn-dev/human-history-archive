@@ -28982,14 +28982,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 734",
       "timestamp": 1787125001.8247714
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787125161.525916
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 734",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5811,
-    "total_planned": 31,
+    "total_completed": 5812,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
