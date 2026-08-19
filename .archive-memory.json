@@ -28827,14 +28827,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 733",
       "timestamp": 1787117854.9933724
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787118074.3058634
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5780,
-    "total_planned": 62,
+    "total_completed": 5781,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
