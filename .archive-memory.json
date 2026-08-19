@@ -28677,14 +28677,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 724",
       "timestamp": 1787110937.2622561
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787111164.3805423
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 802",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5750,
-    "total_planned": 21,
+    "total_completed": 5751,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
