@@ -29677,14 +29677,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 751",
       "timestamp": 1787156842.324694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787157137.9245245
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5950,
-    "total_planned": 34,
+    "total_completed": 5951,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
