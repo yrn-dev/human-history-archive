@@ -28822,14 +28822,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 731",
       "timestamp": 1787117541.200484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787117854.9933724
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5779,
-    "total_planned": 63,
+    "total_completed": 5780,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
