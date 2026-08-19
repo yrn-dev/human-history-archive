@@ -28792,14 +28792,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 733",
       "timestamp": 1787116270.2996771
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787116462.9438865
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5773,
-    "total_planned": 69,
+    "total_completed": 5774,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
