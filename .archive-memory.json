@@ -28487,14 +28487,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 724",
       "timestamp": 1787102713.2873642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787102855.4407983
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5712,
-    "total_planned": 59,
+    "total_completed": 5713,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
