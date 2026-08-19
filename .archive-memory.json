@@ -29497,14 +29497,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 832",
       "timestamp": 1787148869.9727893
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 752",
-      "variation": true
-    },
+      "timestamp": 1787149093.8254611
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5914,
-    "total_planned": 70,
+    "total_completed": 5915,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
