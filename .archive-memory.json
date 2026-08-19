@@ -28472,14 +28472,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 802",
       "timestamp": 1787102128.3797643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 722",
-      "variation": true
-    },
+      "timestamp": 1787102281.5462148
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5709,
-    "total_planned": 62,
+    "total_completed": 5710,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
