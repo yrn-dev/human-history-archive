@@ -28642,14 +28642,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 724",
       "timestamp": 1787109613.2642524
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 802",
-      "variation": true
-    },
+      "timestamp": 1787109886.1807957
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 565",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5743,
-    "total_planned": 28,
+    "total_completed": 5744,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
