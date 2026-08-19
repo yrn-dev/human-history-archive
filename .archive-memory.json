@@ -29277,14 +29277,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 742",
       "timestamp": 1787139063.3670595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 743",
-      "variation": true
-    },
+      "timestamp": 1787139299.7624195
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 822",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5870,
-    "total_planned": 43,
+    "total_completed": 5871,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
