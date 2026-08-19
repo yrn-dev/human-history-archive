@@ -29857,14 +29857,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 761",
       "timestamp": 1787164802.6931393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787165029.8094172
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5986,
-    "total_planned": 69,
+    "total_completed": 5987,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
