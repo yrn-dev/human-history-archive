@@ -28482,14 +28482,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 724",
       "timestamp": 1787102496.3581746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787102713.2873642
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 722",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5711,
-    "total_planned": 60,
+    "total_completed": 5712,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
