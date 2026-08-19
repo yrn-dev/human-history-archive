@@ -28807,14 +28807,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 733",
       "timestamp": 1787116817.8780403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787117103.7364106
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5776,
-    "total_planned": 66,
+    "total_completed": 5777,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
