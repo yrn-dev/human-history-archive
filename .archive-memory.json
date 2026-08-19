@@ -29162,14 +29162,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 742",
       "timestamp": 1787133724.8739157
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 579",
-      "variation": true
-    },
+      "timestamp": 1787133977.2631888
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 579",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5847,
-    "total_planned": 66,
+    "total_completed": 5848,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
