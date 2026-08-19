@@ -29397,14 +29397,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 740",
       "timestamp": 1787144438.1003408
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787144639.783986
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5894,
-    "total_planned": 19,
+    "total_completed": 5895,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
