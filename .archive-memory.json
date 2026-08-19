@@ -29412,14 +29412,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 742",
       "timestamp": 1787145067.4322815
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787145332.813047
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5897,
-    "total_planned": 16,
+    "total_completed": 5898,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
