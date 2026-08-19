@@ -29602,14 +29602,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 832",
       "timestamp": 1787153213.5191262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787153419.0647023
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 752",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5935,
-    "total_planned": 49,
+    "total_completed": 5936,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
