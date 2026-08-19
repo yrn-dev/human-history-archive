@@ -28572,14 +28572,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 725",
       "timestamp": 1787106420.5493982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787106606.9086363
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 725",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5729,
-    "total_planned": 42,
+    "total_completed": 5730,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
