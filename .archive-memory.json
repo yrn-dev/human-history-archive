@@ -29092,14 +29092,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 733",
       "timestamp": 1787130222.908154
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787130409.2795253
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 731",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5833,
-    "total_planned": 9,
+    "total_completed": 5834,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
