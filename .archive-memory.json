@@ -29882,14 +29882,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 758",
       "timestamp": 1787165893.0111406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787166121.760712
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 761",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5991,
-    "total_planned": 64,
+    "total_completed": 5992,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
