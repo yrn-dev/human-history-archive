@@ -28537,14 +28537,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 725",
       "timestamp": 1787104875.997934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787105119.8062115
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5722,
-    "total_planned": 49,
+    "total_completed": 5723,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
