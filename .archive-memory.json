@@ -29272,14 +29272,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 822",
       "timestamp": 1787138855.1572003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 742",
-      "variation": true
-    },
+      "timestamp": 1787139063.3670595
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 743",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5869,
-    "total_planned": 44,
+    "total_completed": 5870,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
