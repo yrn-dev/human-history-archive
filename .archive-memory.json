@@ -29167,14 +29167,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 579",
       "timestamp": 1787133977.2631888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 579",
-      "variation": true
-    },
+      "timestamp": 1787134190.6244519
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5848,
-    "total_planned": 65,
+    "total_completed": 5849,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
