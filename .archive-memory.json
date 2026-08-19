@@ -29522,14 +29522,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 751",
       "timestamp": 1787149980.465718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 751",
-      "variation": true
-    },
+      "timestamp": 1787150126.8488052
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 586",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5919,
-    "total_planned": 65,
+    "total_completed": 5920,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
