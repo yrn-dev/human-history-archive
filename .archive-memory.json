@@ -28607,14 +28607,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 722",
       "timestamp": 1787107986.437441
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787108205.7922537
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 724",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5736,
-    "total_planned": 35,
+    "total_completed": 5737,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
