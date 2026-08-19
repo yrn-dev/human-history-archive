@@ -28527,14 +28527,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 722",
       "timestamp": 1787104350.5963466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 565",
-      "variation": true
-    },
+      "timestamp": 1787104601.128573
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 725",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5720,
-    "total_planned": 51,
+    "total_completed": 5721,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
