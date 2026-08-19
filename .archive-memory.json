@@ -30172,14 +30172,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 842",
       "timestamp": 1787179723.3179038
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787179991.0154245
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6049,
-    "total_planned": 6,
+    "total_completed": 6050,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
