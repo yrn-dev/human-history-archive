@@ -29942,14 +29942,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 760",
       "timestamp": 1787168654.8035202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787168847.4628203
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 758",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6003,
-    "total_planned": 52,
+    "total_completed": 6004,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
