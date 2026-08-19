@@ -28817,14 +28817,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 731",
       "timestamp": 1787117321.20403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787117541.200484
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5778,
-    "total_planned": 64,
+    "total_completed": 5779,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
