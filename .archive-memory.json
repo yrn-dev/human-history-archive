@@ -28587,14 +28587,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 565",
       "timestamp": 1787106964.2547622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 802",
-      "variation": true
-    },
+      "timestamp": 1787107280.2755167
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 722",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5732,
-    "total_planned": 39,
+    "total_completed": 5733,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
