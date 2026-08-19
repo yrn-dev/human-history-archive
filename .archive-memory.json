@@ -28612,14 +28612,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 724",
       "timestamp": 1787108205.7922537
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 724",
-      "variation": true
-    },
+      "timestamp": 1787108422.8470564
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 722",
@@ -28787,8 +28787,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5737,
-    "total_planned": 34,
+    "total_completed": 5738,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
