@@ -29532,14 +29532,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 586",
       "timestamp": 1787150281.7138455
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 749",
-      "variation": true
-    },
+      "timestamp": 1787150593.4864504
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 751",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5921,
-    "total_planned": 63,
+    "total_completed": 5922,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
