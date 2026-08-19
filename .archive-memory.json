@@ -29822,14 +29822,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 832",
       "timestamp": 1787163397.233233
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 752",
-      "variation": true
-    },
+      "timestamp": 1787163618.8562431
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 749",
@@ -29852,8 +29852,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5979,
-    "total_planned": 5,
+    "total_completed": 5980,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
