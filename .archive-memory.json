@@ -28892,14 +28892,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 733",
       "timestamp": 1787120814.8934808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 731",
-      "variation": true
-    },
+      "timestamp": 1787121069.671459
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 733",
@@ -29142,8 +29142,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5793,
-    "total_planned": 49,
+    "total_completed": 5794,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
