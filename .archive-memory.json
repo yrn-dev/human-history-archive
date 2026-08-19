@@ -30052,14 +30052,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 761",
       "timestamp": 1787173943.6157086
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 593",
-      "variation": true
-    },
+      "timestamp": 1787174235.9152012
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 758",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6025,
-    "total_planned": 30,
+    "total_completed": 6026,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
