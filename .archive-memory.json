@@ -29367,14 +29367,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 579",
       "timestamp": 1787143110.2082074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787143408.5243242
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 742",
@@ -29497,8 +29497,8 @@
     }
   ],
   "stats": {
-    "total_completed": 5888,
-    "total_planned": 25,
+    "total_completed": 5889,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
