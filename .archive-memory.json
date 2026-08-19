@@ -28422,18 +28422,17 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 558",
       "timestamp": 1787099842.7408752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 715",
-      "variation": true
+      "timestamp": 1787100133.4969058
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 5699,
-    "total_planned": 1,
+    "total_completed": 5700,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
