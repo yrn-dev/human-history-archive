@@ -29967,14 +29967,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 760",
       "timestamp": 1787169888.199067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 758",
-      "variation": true
-    },
+      "timestamp": 1787170220.4889743
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 760",
@@ -30207,8 +30207,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6008,
-    "total_planned": 47,
+    "total_completed": 6009,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
