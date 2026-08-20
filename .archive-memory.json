@@ -31632,14 +31632,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 806",
       "timestamp": 1787249584.7851148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787249809.4590142
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6341,
-    "total_planned": 69,
+    "total_completed": 6342,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
