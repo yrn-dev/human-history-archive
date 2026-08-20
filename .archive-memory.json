@@ -31387,14 +31387,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 794",
       "timestamp": 1787236429.4261403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787236654.0440495
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6292,
-    "total_planned": 47,
+    "total_completed": 6293,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
