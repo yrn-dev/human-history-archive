@@ -30707,14 +30707,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 776",
       "timestamp": 1787204449.158139
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787204752.2164686
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6156,
-    "total_planned": 41,
+    "total_completed": 6157,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
