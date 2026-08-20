@@ -31192,14 +31192,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 872",
       "timestamp": 1787227395.9956477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1787227717.2181547
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6253,
-    "total_planned": 15,
+    "total_completed": 6254,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
