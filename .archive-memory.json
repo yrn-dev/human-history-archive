@@ -31812,14 +31812,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 803",
       "timestamp": 1787257128.2641938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787257395.4896598
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 806",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6377,
-    "total_planned": 33,
+    "total_completed": 6378,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
