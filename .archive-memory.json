@@ -30487,14 +30487,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 767",
       "timestamp": 1787194231.1606483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787194509.9484441
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 770",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6112,
-    "total_planned": 14,
+    "total_completed": 6113,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
