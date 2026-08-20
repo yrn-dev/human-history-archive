@@ -31982,14 +31982,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 814",
       "timestamp": 1787264831.5744863
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787265120.6954548
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6411,
-    "total_planned": 70,
+    "total_completed": 6412,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
