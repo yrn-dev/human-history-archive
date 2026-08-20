@@ -30757,14 +30757,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 776",
       "timestamp": 1787206529.17452
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787206671.8204205
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6166,
-    "total_planned": 31,
+    "total_completed": 6167,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
