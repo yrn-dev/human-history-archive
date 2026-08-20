@@ -31607,14 +31607,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 796",
       "timestamp": 1787248192.6275232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 882",
-      "variation": true
-    },
+      "timestamp": 1787248550.0253537
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 797",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6336,
-    "total_planned": 3,
+    "total_completed": 6337,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
