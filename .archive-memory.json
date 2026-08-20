@@ -30337,14 +30337,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 769",
       "timestamp": 1787187304.4742293
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787187543.603723
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 767",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6082,
-    "total_planned": 44,
+    "total_completed": 6083,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
