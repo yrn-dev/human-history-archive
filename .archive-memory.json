@@ -31862,14 +31862,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 805",
       "timestamp": 1787259556.8645816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787259746.5389276
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 892",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6387,
-    "total_planned": 23,
+    "total_completed": 6388,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
