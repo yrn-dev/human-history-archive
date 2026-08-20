@@ -30427,14 +30427,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 769",
       "timestamp": 1787191421.1398046
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787191647.4683871
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 767",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6100,
-    "total_planned": 26,
+    "total_completed": 6101,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
