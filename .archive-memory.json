@@ -31882,14 +31882,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 805",
       "timestamp": 1787260435.8055558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787260584.3505454
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 892",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6391,
-    "total_planned": 19,
+    "total_completed": 6392,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
