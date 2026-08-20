@@ -31407,14 +31407,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 796",
       "timestamp": 1787237339.938721
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 797",
-      "variation": true
-    },
+      "timestamp": 1787237578.2301192
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 882",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6296,
-    "total_planned": 43,
+    "total_completed": 6297,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
