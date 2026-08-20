@@ -30272,14 +30272,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 770",
       "timestamp": 1787184329.1994827
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787184480.5471504
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 600",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6069,
-    "total_planned": 57,
+    "total_completed": 6070,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
