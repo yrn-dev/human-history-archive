@@ -31027,14 +31027,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 787",
       "timestamp": 1787219427.210162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 788",
-      "variation": true
-    },
+      "timestamp": 1787219751.7987268
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6220,
-    "total_planned": 48,
+    "total_completed": 6221,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
