@@ -31842,14 +31842,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 805",
       "timestamp": 1787258646.1711907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787258846.5011013
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6383,
-    "total_planned": 27,
+    "total_completed": 6384,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
