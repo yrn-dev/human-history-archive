@@ -30722,14 +30722,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 776",
       "timestamp": 1787205047.6846976
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787205218.8167446
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 779",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6159,
-    "total_planned": 38,
+    "total_completed": 6160,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
