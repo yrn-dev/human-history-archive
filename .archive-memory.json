@@ -31182,14 +31182,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 788",
       "timestamp": 1787226890.4628983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787227198.0008547
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 872",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6251,
-    "total_planned": 17,
+    "total_completed": 6252,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
