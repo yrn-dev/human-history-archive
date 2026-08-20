@@ -30627,14 +30627,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 778",
       "timestamp": 1787200626.2951882
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787200858.161499
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 862",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6140,
-    "total_planned": 57,
+    "total_completed": 6141,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
