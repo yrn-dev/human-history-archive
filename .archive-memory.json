@@ -31492,14 +31492,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 794",
       "timestamp": 1787241579.8619592
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 882",
-      "variation": true
-    },
+      "timestamp": 1787241840.490461
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6313,
-    "total_planned": 26,
+    "total_completed": 6314,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
