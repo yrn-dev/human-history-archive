@@ -30702,14 +30702,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 776",
       "timestamp": 1787204141.078223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787204449.158139
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6155,
-    "total_planned": 42,
+    "total_completed": 6156,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
