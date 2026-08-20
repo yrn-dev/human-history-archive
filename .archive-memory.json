@@ -31117,14 +31117,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 787",
       "timestamp": 1787223699.618428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787223989.090194
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6238,
-    "total_planned": 30,
+    "total_completed": 6239,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
