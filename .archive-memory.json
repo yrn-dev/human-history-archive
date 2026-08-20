@@ -31527,14 +31527,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 794",
       "timestamp": 1787243617.6221077
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787243913.5016675
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6320,
-    "total_planned": 19,
+    "total_completed": 6321,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
