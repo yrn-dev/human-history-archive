@@ -30767,14 +30767,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 778",
       "timestamp": 1787206928.2264884
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787207122.0916388
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 862",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6168,
-    "total_planned": 29,
+    "total_completed": 6169,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
