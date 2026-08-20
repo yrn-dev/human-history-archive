@@ -30812,14 +30812,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 607",
       "timestamp": 1787209045.696782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 862",
-      "variation": true
-    },
+      "timestamp": 1787209237.794506
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6177,
-    "total_planned": 20,
+    "total_completed": 6178,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
