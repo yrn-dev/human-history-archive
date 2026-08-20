@@ -31502,14 +31502,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 796",
       "timestamp": 1787242086.4321563
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787242412.2925584
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 797",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6315,
-    "total_planned": 24,
+    "total_completed": 6316,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
