@@ -31072,14 +31072,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 785",
       "timestamp": 1787221623.9173238
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787221921.5953572
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 614",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6229,
-    "total_planned": 39,
+    "total_completed": 6230,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
