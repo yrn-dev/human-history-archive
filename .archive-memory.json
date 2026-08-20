@@ -31242,14 +31242,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 872",
       "timestamp": 1787229838.253862
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 788",
-      "variation": true
-    },
+      "timestamp": 1787230016.1325283
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 788",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6263,
-    "total_planned": 5,
+    "total_completed": 6264,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
