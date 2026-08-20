@@ -30902,14 +30902,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 778",
       "timestamp": 1787213352.5744054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787213582.767629
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6195,
-    "total_planned": 2,
+    "total_completed": 6196,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
