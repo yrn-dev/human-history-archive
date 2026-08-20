@@ -30832,14 +30832,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 779",
       "timestamp": 1787210042.1719406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787210305.5889125
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 607",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6181,
-    "total_planned": 16,
+    "total_completed": 6182,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
