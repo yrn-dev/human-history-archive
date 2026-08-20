@@ -31987,14 +31987,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 902",
       "timestamp": 1787265120.6954548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787265358.9838898
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6412,
-    "total_planned": 69,
+    "total_completed": 6413,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
