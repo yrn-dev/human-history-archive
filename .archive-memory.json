@@ -31147,14 +31147,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 785",
       "timestamp": 1787225310.8301954
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787225574.5046103
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6244,
-    "total_planned": 24,
+    "total_completed": 6245,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
