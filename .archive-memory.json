@@ -31547,14 +31547,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 797",
       "timestamp": 1787244746.2098956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 882",
-      "variation": true
-    },
+      "timestamp": 1787245079.3106792
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6324,
-    "total_planned": 15,
+    "total_completed": 6325,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
