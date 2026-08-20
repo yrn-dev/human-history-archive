@@ -31687,14 +31687,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 628",
       "timestamp": 1787252189.3294938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 806",
-      "variation": true
-    },
+      "timestamp": 1787252352.6287336
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6352,
-    "total_planned": 58,
+    "total_completed": 6353,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
