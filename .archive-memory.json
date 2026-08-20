@@ -31287,14 +31287,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 796",
       "timestamp": 1787231923.849548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787232115.017046
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6272,
-    "total_planned": 67,
+    "total_completed": 6273,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
