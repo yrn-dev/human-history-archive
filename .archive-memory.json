@@ -30792,14 +30792,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 776",
       "timestamp": 1787207962.3738618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 779",
-      "variation": true
-    },
+      "timestamp": 1787208136.537193
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 779",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6173,
-    "total_planned": 24,
+    "total_completed": 6174,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
