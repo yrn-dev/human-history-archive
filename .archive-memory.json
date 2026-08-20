@@ -30267,14 +30267,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 767",
       "timestamp": 1787184166.1268132
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 770",
-      "variation": true
-    },
+      "timestamp": 1787184329.1994827
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6068,
-    "total_planned": 58,
+    "total_completed": 6069,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
