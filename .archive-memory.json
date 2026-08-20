@@ -31302,14 +31302,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 621",
       "timestamp": 1787232509.0294323
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787232686.181208
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6275,
-    "total_planned": 64,
+    "total_completed": 6276,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
