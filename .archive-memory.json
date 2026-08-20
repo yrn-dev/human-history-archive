@@ -30697,14 +30697,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 776",
       "timestamp": 1787203920.388652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787204141.078223
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6154,
-    "total_planned": 43,
+    "total_completed": 6155,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
