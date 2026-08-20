@@ -30982,14 +30982,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 787",
       "timestamp": 1787217412.4533198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 872",
-      "variation": true
-    },
+      "timestamp": 1787217653.3896828
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6211,
-    "total_planned": 57,
+    "total_completed": 6212,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
