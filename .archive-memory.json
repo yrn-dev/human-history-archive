@@ -30837,14 +30837,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 778",
       "timestamp": 1787210305.5889125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1787210546.5872977
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 779",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6182,
-    "total_planned": 15,
+    "total_completed": 6183,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
