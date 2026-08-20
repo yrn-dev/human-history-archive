@@ -30462,14 +30462,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 767",
       "timestamp": 1787192986.446309
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787193225.5447273
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6107,
-    "total_planned": 19,
+    "total_completed": 6108,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
