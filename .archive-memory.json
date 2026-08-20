@@ -32007,14 +32007,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 814",
       "timestamp": 1787266126.5090046
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 815",
-      "variation": true
-    },
+      "timestamp": 1787266407.9624596
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 902",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6416,
-    "total_planned": 65,
+    "total_completed": 6417,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
