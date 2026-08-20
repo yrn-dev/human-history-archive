@@ -31437,14 +31437,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 794",
       "timestamp": 1787238757.7880092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787239038.4871132
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6302,
-    "total_planned": 37,
+    "total_completed": 6303,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
