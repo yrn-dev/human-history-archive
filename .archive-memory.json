@@ -31332,14 +31332,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 796",
       "timestamp": 1787234008.2878947
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787234166.448504
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 882",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6281,
-    "total_planned": 58,
+    "total_completed": 6282,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
