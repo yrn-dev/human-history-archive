@@ -31097,14 +31097,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 787",
       "timestamp": 1787222839.0787256
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787222996.4963243
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6234,
-    "total_planned": 34,
+    "total_completed": 6235,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
