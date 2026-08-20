@@ -30632,14 +30632,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 776",
       "timestamp": 1787200858.161499
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 862",
-      "variation": true
-    },
+      "timestamp": 1787201171.399467
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6141,
-    "total_planned": 56,
+    "total_completed": 6142,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
