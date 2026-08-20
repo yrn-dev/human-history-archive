@@ -30442,14 +30442,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 770",
       "timestamp": 1787192168.5881
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787192433.973591
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 852",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6103,
-    "total_planned": 23,
+    "total_completed": 6104,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
