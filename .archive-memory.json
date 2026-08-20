@@ -31542,14 +31542,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 797",
       "timestamp": 1787244453.7540054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 797",
-      "variation": true
-    },
+      "timestamp": 1787244746.2098956
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 882",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6323,
-    "total_planned": 16,
+    "total_completed": 6324,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
