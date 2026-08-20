@@ -31677,14 +31677,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 892",
       "timestamp": 1787251604.4615643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787251911.8532934
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 628",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6350,
-    "total_planned": 60,
+    "total_completed": 6351,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
