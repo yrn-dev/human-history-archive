@@ -31597,14 +31597,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 796",
       "timestamp": 1787247657.0829
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 797",
-      "variation": true
-    },
+      "timestamp": 1787248015.0538688
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6334,
-    "total_planned": 5,
+    "total_completed": 6335,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
