@@ -30727,14 +30727,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 776",
       "timestamp": 1787205218.8167446
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 779",
-      "variation": true
-    },
+      "timestamp": 1787205401.2621257
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 607",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6160,
-    "total_planned": 37,
+    "total_completed": 6161,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
