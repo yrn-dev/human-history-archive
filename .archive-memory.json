@@ -31352,14 +31352,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 796",
       "timestamp": 1787234757.9860055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787234940.0401032
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 621",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6285,
-    "total_planned": 54,
+    "total_completed": 6286,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
