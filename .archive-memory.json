@@ -31322,14 +31322,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 794",
       "timestamp": 1787233468.188063
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787233691.789434
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6279,
-    "total_planned": 60,
+    "total_completed": 6280,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
