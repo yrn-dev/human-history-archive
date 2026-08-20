@@ -32017,14 +32017,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 902",
       "timestamp": 1787266619.0759249
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787266877.5883422
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 815",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6418,
-    "total_planned": 63,
+    "total_completed": 6419,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
