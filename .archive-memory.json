@@ -30412,14 +30412,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 767",
       "timestamp": 1787190751.3969197
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787190976.325672
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 770",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6097,
-    "total_planned": 29,
+    "total_completed": 6098,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
