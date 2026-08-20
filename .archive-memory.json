@@ -30977,14 +30977,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 785",
       "timestamp": 1787217087.6324794
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787217412.4533198
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 872",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6210,
-    "total_planned": 58,
+    "total_completed": 6211,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
