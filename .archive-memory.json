@@ -30282,14 +30282,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 600",
       "timestamp": 1787184762.7715287
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787184968.8233469
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6071,
-    "total_planned": 55,
+    "total_completed": 6072,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
