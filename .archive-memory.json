@@ -31602,14 +31602,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 797",
       "timestamp": 1787248015.0538688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787248192.6275232
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 882",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6335,
-    "total_planned": 4,
+    "total_completed": 6336,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
