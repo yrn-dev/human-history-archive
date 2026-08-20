@@ -30532,14 +30532,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 769",
       "timestamp": 1787196278.8344464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787196503.2833972
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 767",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6121,
-    "total_planned": 5,
+    "total_completed": 6122,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
