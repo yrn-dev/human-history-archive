@@ -31047,14 +31047,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 614",
       "timestamp": 1787220555.456974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787220729.725164
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6224,
-    "total_planned": 44,
+    "total_completed": 6225,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
