@@ -31762,14 +31762,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 806",
       "timestamp": 1787254912.855619
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 806",
-      "variation": true
-    },
+      "timestamp": 1787255226.0569324
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6367,
-    "total_planned": 43,
+    "total_completed": 6368,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
