@@ -31337,14 +31337,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 796",
       "timestamp": 1787234166.448504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 882",
-      "variation": true
-    },
+      "timestamp": 1787234393.586064
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 882",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6282,
-    "total_planned": 57,
+    "total_completed": 6283,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
