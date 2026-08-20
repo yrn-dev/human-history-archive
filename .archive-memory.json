@@ -31867,14 +31867,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 805",
       "timestamp": 1787259746.5389276
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 892",
-      "variation": true
-    },
+      "timestamp": 1787260024.8403208
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 892",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6388,
-    "total_planned": 22,
+    "total_completed": 6389,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
