@@ -30972,14 +30972,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 785",
       "timestamp": 1787216876.8814666
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787217087.6324794
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6209,
-    "total_planned": 59,
+    "total_completed": 6210,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
