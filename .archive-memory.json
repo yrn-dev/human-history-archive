@@ -30562,14 +30562,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 778",
       "timestamp": 1787197483.2653968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787197755.7693405
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6127,
-    "total_planned": 70,
+    "total_completed": 6128,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
