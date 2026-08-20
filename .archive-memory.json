@@ -30882,14 +30882,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 862",
       "timestamp": 1787212348.871267
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787212536.4415345
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6191,
-    "total_planned": 6,
+    "total_completed": 6192,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
