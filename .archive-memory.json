@@ -30567,14 +30567,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 776",
       "timestamp": 1787197755.7693405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787197982.40268
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 779",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6128,
-    "total_planned": 69,
+    "total_completed": 6129,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
