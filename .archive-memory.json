@@ -30597,14 +30597,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 862",
       "timestamp": 1787199142.1459928
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1787199337.8746717
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6134,
-    "total_planned": 63,
+    "total_completed": 6135,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
