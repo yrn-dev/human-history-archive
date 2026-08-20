@@ -30617,14 +30617,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 778",
       "timestamp": 1787200123.103417
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787200342.2419336
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6138,
-    "total_planned": 59,
+    "total_completed": 6139,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
