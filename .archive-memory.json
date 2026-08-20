@@ -30857,14 +30857,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 776",
       "timestamp": 1787211230.332816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787211409.31222
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 607",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6186,
-    "total_planned": 11,
+    "total_completed": 6187,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
