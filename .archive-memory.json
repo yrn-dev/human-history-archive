@@ -31682,14 +31682,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 805",
       "timestamp": 1787251911.8532934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 628",
-      "variation": true
-    },
+      "timestamp": 1787252189.3294938
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 806",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6351,
-    "total_planned": 59,
+    "total_completed": 6352,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
