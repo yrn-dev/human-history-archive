@@ -31657,14 +31657,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 805",
       "timestamp": 1787250760.221835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 628",
-      "variation": true
-    },
+      "timestamp": 1787251000.4215133
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6346,
-    "total_planned": 64,
+    "total_completed": 6347,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
