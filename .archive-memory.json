@@ -31112,14 +31112,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 785",
       "timestamp": 1787223406.0642748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787223699.618428
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6237,
-    "total_planned": 31,
+    "total_completed": 6238,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
