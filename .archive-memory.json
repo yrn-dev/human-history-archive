@@ -31067,14 +31067,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 788",
       "timestamp": 1787221438.9869685
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787221623.9173238
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6228,
-    "total_planned": 40,
+    "total_completed": 6229,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
