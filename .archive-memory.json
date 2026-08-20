@@ -31487,14 +31487,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 794",
       "timestamp": 1787241294.2165055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787241579.8619592
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 882",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6312,
-    "total_planned": 27,
+    "total_completed": 6313,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
