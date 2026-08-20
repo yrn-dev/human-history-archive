@@ -30377,14 +30377,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 600",
       "timestamp": 1787189081.8872023
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787189343.7917812
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6090,
-    "total_planned": 36,
+    "total_completed": 6091,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
