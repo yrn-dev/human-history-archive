@@ -30307,14 +30307,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 769",
       "timestamp": 1787185928.1131556
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787186083.0749526
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 852",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6076,
-    "total_planned": 50,
+    "total_completed": 6077,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
