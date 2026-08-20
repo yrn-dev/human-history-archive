@@ -31512,14 +31512,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 797",
       "timestamp": 1787242733.0511508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787242992.4749432
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 621",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6317,
-    "total_planned": 22,
+    "total_completed": 6318,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
