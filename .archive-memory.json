@@ -30987,14 +30987,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 872",
       "timestamp": 1787217653.3896828
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787217847.6144197
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 872",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6212,
-    "total_planned": 56,
+    "total_completed": 6213,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
