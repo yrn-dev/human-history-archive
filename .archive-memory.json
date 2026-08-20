@@ -31792,14 +31792,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 628",
       "timestamp": 1787256291.7257097
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787256507.5774982
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6373,
-    "total_planned": 37,
+    "total_completed": 6374,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
