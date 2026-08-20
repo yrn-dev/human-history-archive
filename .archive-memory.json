@@ -31647,14 +31647,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 803",
       "timestamp": 1787250290.9744358
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 806",
-      "variation": true
-    },
+      "timestamp": 1787250479.7095127
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6344,
-    "total_planned": 66,
+    "total_completed": 6345,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
