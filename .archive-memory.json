@@ -31732,14 +31732,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 803",
       "timestamp": 1787253879.1036136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787254063.2092435
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6361,
-    "total_planned": 49,
+    "total_completed": 6362,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
