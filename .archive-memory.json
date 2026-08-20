@@ -31797,14 +31797,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 805",
       "timestamp": 1787256507.5774982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787256690.9413662
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6374,
-    "total_planned": 36,
+    "total_completed": 6375,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
