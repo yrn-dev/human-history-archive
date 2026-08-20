@@ -30687,14 +30687,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 862",
       "timestamp": 1787203360.2069662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 862",
-      "variation": true
-    },
+      "timestamp": 1787203664.0367045
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6152,
-    "total_planned": 45,
+    "total_completed": 6153,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
