@@ -30362,14 +30362,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 769",
       "timestamp": 1787188403.1165497
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787188578.69561
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6087,
-    "total_planned": 39,
+    "total_completed": 6088,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
