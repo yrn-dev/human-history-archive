@@ -31892,14 +31892,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 892",
       "timestamp": 1787260856.327996
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 892",
-      "variation": true
-    },
+      "timestamp": 1787261000.6694198
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 892",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6393,
-    "total_planned": 17,
+    "total_completed": 6394,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
