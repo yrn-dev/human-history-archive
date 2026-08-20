@@ -31482,14 +31482,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 796",
       "timestamp": 1787241079.9592054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787241294.2165055
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6311,
-    "total_planned": 28,
+    "total_completed": 6312,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
