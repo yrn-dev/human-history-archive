@@ -31197,14 +31197,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 614",
       "timestamp": 1787227717.2181547
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787228008.7968416
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 614",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6254,
-    "total_planned": 14,
+    "total_completed": 6255,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
