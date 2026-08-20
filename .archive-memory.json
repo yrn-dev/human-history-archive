@@ -31572,14 +31572,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 621",
       "timestamp": 1787246284.8349292
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787246493.289664
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 882",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6329,
-    "total_planned": 10,
+    "total_completed": 6330,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
