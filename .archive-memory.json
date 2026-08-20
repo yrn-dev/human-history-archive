@@ -30602,14 +30602,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 607",
       "timestamp": 1787199337.8746717
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787199509.243813
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6135,
-    "total_planned": 62,
+    "total_completed": 6136,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
