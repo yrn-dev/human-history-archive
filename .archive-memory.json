@@ -31367,14 +31367,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 794",
       "timestamp": 1787235377.2399127
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 621",
-      "variation": true
-    },
+      "timestamp": 1787235653.3196685
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6288,
-    "total_planned": 51,
+    "total_completed": 6289,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
