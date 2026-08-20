@@ -30512,14 +30512,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 600",
       "timestamp": 1787195438.7034752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787195618.4049838
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 770",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6117,
-    "total_planned": 9,
+    "total_completed": 6118,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
