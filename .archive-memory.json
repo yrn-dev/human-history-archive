@@ -32072,14 +32072,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 812",
       "timestamp": 1787268988.1863594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1787269199.1885643
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6429,
-    "total_planned": 52,
+    "total_completed": 6430,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
