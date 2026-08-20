@@ -30352,14 +30352,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 769",
       "timestamp": 1787187963.3017085
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 770",
-      "variation": true
-    },
+      "timestamp": 1787188260.2425866
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6085,
-    "total_planned": 41,
+    "total_completed": 6086,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
