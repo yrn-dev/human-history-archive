@@ -30907,18 +30907,17 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 778",
       "timestamp": 1787213582.767629
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 778",
-      "variation": true
+      "timestamp": 1787213818.7588058
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 6196,
-    "total_planned": 1,
+    "total_completed": 6197,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
