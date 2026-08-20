@@ -30372,14 +30372,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 769",
       "timestamp": 1787188839.9848423
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 600",
-      "variation": true
-    },
+      "timestamp": 1787189081.8872023
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6089,
-    "total_planned": 37,
+    "total_completed": 6090,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
