@@ -30342,14 +30342,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 767",
       "timestamp": 1787187543.603723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787187757.7128706
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6083,
-    "total_planned": 43,
+    "total_completed": 6084,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
