@@ -31577,14 +31577,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 796",
       "timestamp": 1787246493.289664
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 882",
-      "variation": true
-    },
+      "timestamp": 1787246911.5838187
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6330,
-    "total_planned": 9,
+    "total_completed": 6331,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
