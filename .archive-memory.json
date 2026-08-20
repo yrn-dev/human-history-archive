@@ -32032,14 +32032,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 902",
       "timestamp": 1787267283.051735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1787267544.6825914
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6421,
-    "total_planned": 60,
+    "total_completed": 6422,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
