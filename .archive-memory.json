@@ -31967,14 +31967,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 805",
       "timestamp": 1787264220.525162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 628",
-      "variation": true
-    },
+      "timestamp": 1787264417.720933
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 892",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6408,
-    "total_planned": 2,
+    "total_completed": 6409,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
