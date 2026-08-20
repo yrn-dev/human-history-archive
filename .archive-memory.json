@@ -32077,14 +32077,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 635",
       "timestamp": 1787269199.1885643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787269448.7534845
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 815",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6430,
-    "total_planned": 51,
+    "total_completed": 6431,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
