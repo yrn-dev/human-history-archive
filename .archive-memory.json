@@ -31742,14 +31742,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 803",
       "timestamp": 1787254202.8986554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 628",
-      "variation": true
-    },
+      "timestamp": 1787254438.1768827
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6363,
-    "total_planned": 47,
+    "total_completed": 6364,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
