@@ -30542,14 +30542,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 767",
       "timestamp": 1787196648.8779328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 600",
-      "variation": true
-    },
+      "timestamp": 1787196871.6049764
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6123,
-    "total_planned": 3,
+    "total_completed": 6124,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
