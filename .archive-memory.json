@@ -32002,14 +32002,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 812",
       "timestamp": 1787265858.962156
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787266126.5090046
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 815",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6415,
-    "total_planned": 66,
+    "total_completed": 6416,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
