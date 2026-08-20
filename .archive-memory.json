@@ -31037,14 +31037,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 785",
       "timestamp": 1787219935.1283848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787220249.2281463
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 614",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6222,
-    "total_planned": 46,
+    "total_completed": 6223,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
