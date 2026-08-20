@@ -30962,14 +30962,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 787",
       "timestamp": 1787216465.1603127
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787216635.3972113
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6207,
-    "total_planned": 61,
+    "total_completed": 6208,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
