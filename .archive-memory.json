@@ -31952,14 +31952,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 805",
       "timestamp": 1787263573.0778074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787263789.2597978
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6405,
-    "total_planned": 5,
+    "total_completed": 6406,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
