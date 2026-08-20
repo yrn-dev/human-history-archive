@@ -30942,14 +30942,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 872",
       "timestamp": 1787215446.657948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787215676.749631
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6203,
-    "total_planned": 65,
+    "total_completed": 6204,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
