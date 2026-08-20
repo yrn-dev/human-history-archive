@@ -31177,14 +31177,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 788",
       "timestamp": 1787226643.4699428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 788",
-      "variation": true
-    },
+      "timestamp": 1787226890.4628983
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6250,
-    "total_planned": 18,
+    "total_completed": 6251,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
