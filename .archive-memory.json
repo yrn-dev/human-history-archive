@@ -32012,14 +32012,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 815",
       "timestamp": 1787266407.9624596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787266619.0759249
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6417,
-    "total_planned": 64,
+    "total_completed": 6418,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
