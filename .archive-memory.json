@@ -31772,14 +31772,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 805",
       "timestamp": 1787255376.1741874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787255655.1855028
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6369,
-    "total_planned": 41,
+    "total_completed": 6370,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
