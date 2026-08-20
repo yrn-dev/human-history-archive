@@ -31282,14 +31282,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 796",
       "timestamp": 1787231675.0496438
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787231923.849548
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6271,
-    "total_planned": 68,
+    "total_completed": 6272,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
