@@ -31662,14 +31662,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 628",
       "timestamp": 1787251000.4215133
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787251161.3144822
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6347,
-    "total_planned": 63,
+    "total_completed": 6348,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
