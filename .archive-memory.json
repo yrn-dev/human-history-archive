@@ -31052,14 +31052,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 785",
       "timestamp": 1787220729.725164
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787220923.3465648
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6225,
-    "total_planned": 43,
+    "total_completed": 6226,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
