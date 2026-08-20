@@ -31137,14 +31137,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 788",
       "timestamp": 1787224695.9716978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 872",
-      "variation": true
-    },
+      "timestamp": 1787225016.504043
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6242,
-    "total_planned": 26,
+    "total_completed": 6243,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
