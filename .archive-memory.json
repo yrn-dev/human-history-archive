@@ -30922,14 +30922,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 788",
       "timestamp": 1787214323.312141
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787214607.1860046
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 872",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6199,
-    "total_planned": 69,
+    "total_completed": 6200,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
