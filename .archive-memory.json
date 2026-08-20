@@ -30402,14 +30402,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 770",
       "timestamp": 1787190404.4110367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787190587.6509323
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 767",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6095,
-    "total_planned": 31,
+    "total_completed": 6096,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
