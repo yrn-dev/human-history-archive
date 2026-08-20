@@ -31782,14 +31782,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 805",
       "timestamp": 1787255798.348718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787256083.0970547
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 628",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6371,
-    "total_planned": 39,
+    "total_completed": 6372,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
