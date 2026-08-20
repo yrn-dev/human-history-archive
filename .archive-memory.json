@@ -31722,14 +31722,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 892",
       "timestamp": 1787253590.178169
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787253742.8587058
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6359,
-    "total_planned": 51,
+    "total_completed": 6360,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
