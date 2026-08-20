@@ -30287,14 +30287,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 767",
       "timestamp": 1787184968.8233469
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787185131.1495147
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6072,
-    "total_planned": 54,
+    "total_completed": 6073,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
