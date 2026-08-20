@@ -30927,14 +30927,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 785",
       "timestamp": 1787214607.1860046
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 872",
-      "variation": true
-    },
+      "timestamp": 1787214902.1629188
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6200,
-    "total_planned": 68,
+    "total_completed": 6201,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
