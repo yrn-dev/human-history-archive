@@ -30747,14 +30747,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 778",
       "timestamp": 1787206076.9843776
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787206350.6661887
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6164,
-    "total_planned": 33,
+    "total_completed": 6165,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
