@@ -31567,14 +31567,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 796",
       "timestamp": 1787245835.424908
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 621",
-      "variation": true
-    },
+      "timestamp": 1787246284.8349292
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6328,
-    "total_planned": 11,
+    "total_completed": 6329,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
