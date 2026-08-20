@@ -31857,14 +31857,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 805",
       "timestamp": 1787259299.8279772
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787259556.8645816
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6386,
-    "total_planned": 24,
+    "total_completed": 6387,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
