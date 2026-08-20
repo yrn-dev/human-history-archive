@@ -31472,14 +31472,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 796",
       "timestamp": 1787240450.4752696
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 621",
-      "variation": true
-    },
+      "timestamp": 1787240773.91417
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6309,
-    "total_planned": 30,
+    "total_completed": 6310,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
