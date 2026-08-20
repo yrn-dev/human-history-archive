@@ -31042,14 +31042,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 787",
       "timestamp": 1787220249.2281463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1787220555.456974
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6223,
-    "total_planned": 45,
+    "total_completed": 6224,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
