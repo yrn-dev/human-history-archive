@@ -31922,14 +31922,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 892",
       "timestamp": 1787262260.429552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787262497.8071866
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6399,
-    "total_planned": 11,
+    "total_completed": 6400,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
