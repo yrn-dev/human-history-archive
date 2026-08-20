@@ -30452,14 +30452,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 852",
       "timestamp": 1787192600.6187577
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787192806.3370616
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 767",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6105,
-    "total_planned": 21,
+    "total_completed": 6106,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
