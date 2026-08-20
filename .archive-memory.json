@@ -30572,14 +30572,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 778",
       "timestamp": 1787197982.40268
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 779",
-      "variation": true
-    },
+      "timestamp": 1787198301.0630925
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 607",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6129,
-    "total_planned": 68,
+    "total_completed": 6130,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
