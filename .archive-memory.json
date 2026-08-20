@@ -30622,14 +30622,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 778",
       "timestamp": 1787200342.2419336
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 778",
-      "variation": true
-    },
+      "timestamp": 1787200626.2951882
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6139,
-    "total_planned": 58,
+    "total_completed": 6140,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
