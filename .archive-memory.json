@@ -31887,14 +31887,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 803",
       "timestamp": 1787260584.3505454
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 892",
-      "variation": true
-    },
+      "timestamp": 1787260856.327996
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 892",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6392,
-    "total_planned": 18,
+    "total_completed": 6393,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
