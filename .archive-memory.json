@@ -31062,14 +31062,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 787",
       "timestamp": 1787221128.862068
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 788",
-      "variation": true
-    },
+      "timestamp": 1787221438.9869685
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6227,
-    "total_planned": 41,
+    "total_completed": 6228,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
