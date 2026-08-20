@@ -31517,14 +31517,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 794",
       "timestamp": 1787242992.4749432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 621",
-      "variation": true
-    },
+      "timestamp": 1787243326.6514153
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6318,
-    "total_planned": 21,
+    "total_completed": 6319,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
