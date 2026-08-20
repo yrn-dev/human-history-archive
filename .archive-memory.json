@@ -32062,14 +32062,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 815",
       "timestamp": 1787268529.3837264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787268744.7886353
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6427,
-    "total_planned": 54,
+    "total_completed": 6428,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
