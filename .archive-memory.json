@@ -31912,14 +31912,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 805",
       "timestamp": 1787261738.2578275
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787262014.122709
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 892",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6397,
-    "total_planned": 13,
+    "total_completed": 6398,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
