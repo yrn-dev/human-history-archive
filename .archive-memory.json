@@ -31022,14 +31022,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 787",
       "timestamp": 1787219120.8218422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787219427.210162
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 788",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6219,
-    "total_planned": 49,
+    "total_completed": 6220,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
