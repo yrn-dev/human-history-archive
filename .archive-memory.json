@@ -30827,14 +30827,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 778",
       "timestamp": 1787209767.8867345
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 779",
-      "variation": true
-    },
+      "timestamp": 1787210042.1719406
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6180,
-    "total_planned": 17,
+    "total_completed": 6181,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
