@@ -31917,14 +31917,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 803",
       "timestamp": 1787262014.122709
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 892",
-      "variation": true
-    },
+      "timestamp": 1787262260.429552
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6398,
-    "total_planned": 12,
+    "total_completed": 6399,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
