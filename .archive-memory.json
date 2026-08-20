@@ -30642,14 +30642,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 778",
       "timestamp": 1787201363.8617988
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 862",
-      "variation": true
-    },
+      "timestamp": 1787201540.3413482
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6143,
-    "total_planned": 54,
+    "total_completed": 6144,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
