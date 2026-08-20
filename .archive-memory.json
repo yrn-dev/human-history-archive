@@ -30692,14 +30692,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 862",
       "timestamp": 1787203664.0367045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787203920.388652
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6153,
-    "total_planned": 44,
+    "total_completed": 6154,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
