@@ -31637,14 +31637,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 803",
       "timestamp": 1787249809.4590142
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787250069.0477278
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6342,
-    "total_planned": 68,
+    "total_completed": 6343,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
