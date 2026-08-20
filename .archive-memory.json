@@ -31717,14 +31717,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 806",
       "timestamp": 1787253292.1273098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 892",
-      "variation": true
-    },
+      "timestamp": 1787253590.178169
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6358,
-    "total_planned": 52,
+    "total_completed": 6359,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
