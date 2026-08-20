@@ -31747,14 +31747,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 628",
       "timestamp": 1787254438.1768827
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787254605.0355997
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6364,
-    "total_planned": 46,
+    "total_completed": 6365,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
