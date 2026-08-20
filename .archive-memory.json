@@ -31907,14 +31907,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 803",
       "timestamp": 1787261426.4965243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787261738.2578275
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6396,
-    "total_planned": 14,
+    "total_completed": 6397,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
