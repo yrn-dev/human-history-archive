@@ -31942,14 +31942,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 803",
       "timestamp": 1787263194.211609
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 628",
-      "variation": true
-    },
+      "timestamp": 1787263333.9120178
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6403,
-    "total_planned": 7,
+    "total_completed": 6404,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
