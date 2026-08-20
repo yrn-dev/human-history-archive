@@ -31237,14 +31237,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 614",
       "timestamp": 1787229702.0459447
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 872",
-      "variation": true
-    },
+      "timestamp": 1787229838.253862
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 788",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6262,
-    "total_planned": 6,
+    "total_completed": 6263,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
