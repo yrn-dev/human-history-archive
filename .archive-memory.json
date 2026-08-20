@@ -30517,14 +30517,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 767",
       "timestamp": 1787195618.4049838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 770",
-      "variation": true
-    },
+      "timestamp": 1787195894.6177707
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6118,
-    "total_planned": 8,
+    "total_completed": 6119,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
