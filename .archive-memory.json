@@ -31522,14 +31522,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 621",
       "timestamp": 1787243326.6514153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787243617.6221077
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6319,
-    "total_planned": 20,
+    "total_completed": 6320,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
