@@ -30502,14 +30502,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 600",
       "timestamp": 1787194908.512507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 769",
-      "variation": true
-    },
+      "timestamp": 1787195206.1312845
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 600",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6115,
-    "total_planned": 11,
+    "total_completed": 6116,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
