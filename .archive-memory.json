@@ -31807,14 +31807,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 805",
       "timestamp": 1787256847.4136093
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787257128.2641938
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6376,
-    "total_planned": 34,
+    "total_completed": 6377,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
