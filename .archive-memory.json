@@ -31652,14 +31652,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 806",
       "timestamp": 1787250479.7095127
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787250760.221835
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 628",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6345,
-    "total_planned": 65,
+    "total_completed": 6346,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
