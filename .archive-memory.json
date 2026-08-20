@@ -30457,14 +30457,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 767",
       "timestamp": 1787192806.3370616
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787192986.446309
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 852",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6106,
-    "total_planned": 20,
+    "total_completed": 6107,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
