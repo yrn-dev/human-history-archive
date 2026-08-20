@@ -30592,14 +30592,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 778",
       "timestamp": 1787198890.8393114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 862",
-      "variation": true
-    },
+      "timestamp": 1787199142.1459928
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 607",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6133,
-    "total_planned": 64,
+    "total_completed": 6134,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
