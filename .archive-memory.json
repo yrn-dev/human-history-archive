@@ -31767,14 +31767,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 806",
       "timestamp": 1787255226.0569324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787255376.1741874
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6368,
-    "total_planned": 42,
+    "total_completed": 6369,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
