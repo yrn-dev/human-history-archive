@@ -30472,14 +30472,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 769",
       "timestamp": 1787193497.964379
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787193756.7063262
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 770",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6109,
-    "total_planned": 17,
+    "total_completed": 6110,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
