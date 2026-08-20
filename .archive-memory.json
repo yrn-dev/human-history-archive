@@ -31897,14 +31897,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 892",
       "timestamp": 1787261000.6694198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 892",
-      "variation": true
-    },
+      "timestamp": 1787261276.6054394
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6394,
-    "total_planned": 16,
+    "total_completed": 6395,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
