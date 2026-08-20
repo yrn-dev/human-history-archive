@@ -31142,14 +31142,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 872",
       "timestamp": 1787225016.504043
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787225310.8301954
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6243,
-    "total_planned": 25,
+    "total_completed": 6244,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
