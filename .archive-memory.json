@@ -31102,14 +31102,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 787",
       "timestamp": 1787222996.4963243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787223178.872208
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 785",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6235,
-    "total_planned": 33,
+    "total_completed": 6236,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
