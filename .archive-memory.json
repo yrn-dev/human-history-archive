@@ -31832,14 +31832,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 892",
       "timestamp": 1787258063.6968377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 628",
-      "variation": true
-    },
+      "timestamp": 1787258363.4389656
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6381,
-    "total_planned": 29,
+    "total_completed": 6382,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
