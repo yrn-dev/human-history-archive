@@ -31802,14 +31802,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 805",
       "timestamp": 1787256690.9413662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787256847.4136093
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6375,
-    "total_planned": 35,
+    "total_completed": 6376,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
