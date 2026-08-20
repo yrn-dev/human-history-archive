@@ -31402,14 +31402,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 796",
       "timestamp": 1787237081.232483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787237339.938721
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 797",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6295,
-    "total_planned": 44,
+    "total_completed": 6296,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
