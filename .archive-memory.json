@@ -30607,14 +30607,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 778",
       "timestamp": 1787199509.243813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 776",
-      "variation": true
-    },
+      "timestamp": 1787199823.495341
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6136,
-    "total_planned": 61,
+    "total_completed": 6137,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
