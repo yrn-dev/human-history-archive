@@ -30997,14 +30997,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 872",
       "timestamp": 1787218062.2431872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787218310.8223639
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 872",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6214,
-    "total_planned": 54,
+    "total_completed": 6215,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
