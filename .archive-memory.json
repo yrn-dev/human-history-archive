@@ -31342,14 +31342,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 882",
       "timestamp": 1787234393.586064
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 882",
-      "variation": true
-    },
+      "timestamp": 1787234569.089438
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6283,
-    "total_planned": 56,
+    "total_completed": 6284,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
