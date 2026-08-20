@@ -31252,14 +31252,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 788",
       "timestamp": 1787230181.840183
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787230471.5797076
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 872",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6265,
-    "total_planned": 3,
+    "total_completed": 6266,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
