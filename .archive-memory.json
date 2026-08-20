@@ -31312,14 +31312,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 794",
       "timestamp": 1787232914.5079074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787233191.0181944
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6277,
-    "total_planned": 62,
+    "total_completed": 6278,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
