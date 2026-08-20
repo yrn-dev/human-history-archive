@@ -31377,14 +31377,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 794",
       "timestamp": 1787235966.336327
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787236150.056841
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6290,
-    "total_planned": 49,
+    "total_completed": 6291,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
