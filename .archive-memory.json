@@ -30737,14 +30737,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 607",
       "timestamp": 1787205550.2022297
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 862",
-      "variation": true
-    },
+      "timestamp": 1787205810.8866458
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6162,
-    "total_planned": 35,
+    "total_completed": 6163,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
