@@ -31587,14 +31587,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 794",
       "timestamp": 1787247141.5799775
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 797",
-      "variation": true
-    },
+      "timestamp": 1787247422.7862291
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6332,
-    "total_planned": 7,
+    "total_completed": 6333,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
