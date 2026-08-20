@@ -31672,14 +31672,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 803",
       "timestamp": 1787251435.938834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 892",
-      "variation": true
-    },
+      "timestamp": 1787251604.4615643
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 805",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6349,
-    "total_planned": 61,
+    "total_completed": 6350,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
