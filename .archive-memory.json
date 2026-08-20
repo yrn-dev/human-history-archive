@@ -30772,14 +30772,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 778",
       "timestamp": 1787207122.0916388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 862",
-      "variation": true
-    },
+      "timestamp": 1787207305.6186304
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6169,
-    "total_planned": 28,
+    "total_completed": 6170,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
