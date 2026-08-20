@@ -32022,14 +32022,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 814",
       "timestamp": 1787266877.5883422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 815",
-      "variation": true
-    },
+      "timestamp": 1787267024.429634
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 902",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6419,
-    "total_planned": 62,
+    "total_completed": 6420,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
