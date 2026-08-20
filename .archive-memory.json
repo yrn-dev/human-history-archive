@@ -31017,14 +31017,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 787",
       "timestamp": 1787218956.8123488
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 787",
-      "variation": true
-    },
+      "timestamp": 1787219120.8218422
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6218,
-    "total_planned": 50,
+    "total_completed": 6219,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
