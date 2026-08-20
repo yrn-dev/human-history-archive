@@ -31372,14 +31372,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 621",
       "timestamp": 1787235653.3196685
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787235966.336327
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 794",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6289,
-    "total_planned": 50,
+    "total_completed": 6290,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
