@@ -30937,14 +30937,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 787",
       "timestamp": 1787215141.5711677
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 872",
-      "variation": true
-    },
+      "timestamp": 1787215446.657948
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6202,
-    "total_planned": 66,
+    "total_completed": 6203,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
