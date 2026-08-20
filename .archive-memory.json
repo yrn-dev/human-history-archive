@@ -31877,14 +31877,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 892",
       "timestamp": 1787260219.2571177
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787260435.8055558
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6390,
-    "total_planned": 20,
+    "total_completed": 6391,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
