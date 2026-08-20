@@ -31557,14 +31557,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 796",
       "timestamp": 1787245307.6042628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787245618.6874435
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6326,
-    "total_planned": 13,
+    "total_completed": 6327,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
