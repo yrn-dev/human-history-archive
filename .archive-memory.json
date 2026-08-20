@@ -32042,14 +32042,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 814",
       "timestamp": 1787267712.8098662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787267987.067597
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6423,
-    "total_planned": 58,
+    "total_completed": 6424,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
