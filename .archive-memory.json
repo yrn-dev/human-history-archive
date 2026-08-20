@@ -30577,14 +30577,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 779",
       "timestamp": 1787198301.0630925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1787198512.27753
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 776",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6130,
-    "total_planned": 67,
+    "total_completed": 6131,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
