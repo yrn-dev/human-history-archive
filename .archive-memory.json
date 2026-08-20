@@ -31277,14 +31277,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 797",
       "timestamp": 1787231485.5025337
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787231675.0496438
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6270,
-    "total_planned": 69,
+    "total_completed": 6271,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
