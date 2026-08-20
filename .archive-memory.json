@@ -31157,14 +31157,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 785",
       "timestamp": 1787225772.4364502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 614",
-      "variation": true
-    },
+      "timestamp": 1787225930.6889117
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6246,
-    "total_planned": 22,
+    "total_completed": 6247,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
