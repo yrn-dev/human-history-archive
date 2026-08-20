@@ -31927,14 +31927,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 805",
       "timestamp": 1787262497.8071866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 805",
-      "variation": true
-    },
+      "timestamp": 1787262811.139932
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 806",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6400,
-    "total_planned": 10,
+    "total_completed": 6401,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
