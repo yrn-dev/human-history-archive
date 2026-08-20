@@ -31262,18 +31262,17 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 872",
       "timestamp": 1787230736.5024624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 787",
-      "variation": true
+      "timestamp": 1787231011.7451024
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 6267,
-    "total_planned": 1,
+    "total_completed": 6268,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
