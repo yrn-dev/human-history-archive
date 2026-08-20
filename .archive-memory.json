@@ -31347,14 +31347,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 882",
       "timestamp": 1787234569.089438
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787234757.9860055
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6284,
-    "total_planned": 55,
+    "total_completed": 6285,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
