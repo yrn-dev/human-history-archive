@@ -31582,14 +31582,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 882",
       "timestamp": 1787246911.5838187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 794",
-      "variation": true
-    },
+      "timestamp": 1787247141.5799775
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 797",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6331,
-    "total_planned": 8,
+    "total_completed": 6332,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
