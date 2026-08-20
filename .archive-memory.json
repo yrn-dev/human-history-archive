@@ -30497,14 +30497,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 770",
       "timestamp": 1787194737.4715943
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 600",
-      "variation": true
-    },
+      "timestamp": 1787194908.512507
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6114,
-    "total_planned": 12,
+    "total_completed": 6115,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
