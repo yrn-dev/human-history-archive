@@ -30327,14 +30327,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 769",
       "timestamp": 1787186882.250217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 767",
-      "variation": true
-    },
+      "timestamp": 1787187119.4805543
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 769",
@@ -30562,8 +30562,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6080,
-    "total_planned": 46,
+    "total_completed": 6081,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
