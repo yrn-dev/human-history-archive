@@ -31627,14 +31627,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 805",
       "timestamp": 1787249371.3733811
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 806",
-      "variation": true
-    },
+      "timestamp": 1787249584.7851148
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 803",
@@ -31982,8 +31982,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6340,
-    "total_planned": 70,
+    "total_completed": 6341,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
