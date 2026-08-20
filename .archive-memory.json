@@ -30952,14 +30952,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 785",
       "timestamp": 1787215830.6674716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 785",
-      "variation": true
-    },
+      "timestamp": 1787216156.8501196
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 787",
@@ -31272,8 +31272,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6205,
-    "total_planned": 63,
+    "total_completed": 6206,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
