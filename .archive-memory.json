@@ -31272,14 +31272,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 796",
       "timestamp": 1787231302.3279283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 797",
-      "variation": true
-    },
+      "timestamp": 1787231485.5025337
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6269,
-    "total_planned": 70,
+    "total_completed": 6270,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
