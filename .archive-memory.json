@@ -30802,14 +30802,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 779",
       "timestamp": 1787208453.9314232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 779",
-      "variation": true
-    },
+      "timestamp": 1787208767.5330606
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 607",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6175,
-    "total_planned": 22,
+    "total_completed": 6176,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
