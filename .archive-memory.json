@@ -31457,14 +31457,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 882",
       "timestamp": 1787239668.331654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 621",
-      "variation": true
-    },
+      "timestamp": 1787239940.582596
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 796",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6306,
-    "total_planned": 33,
+    "total_completed": 6307,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
