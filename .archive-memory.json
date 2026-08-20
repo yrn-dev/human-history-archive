@@ -30672,14 +30672,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 778",
       "timestamp": 1787202571.6348994
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 607",
-      "variation": true
-    },
+      "timestamp": 1787202771.1911488
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 778",
@@ -30917,8 +30917,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6149,
-    "total_planned": 48,
+    "total_completed": 6150,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
