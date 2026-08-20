@@ -31562,14 +31562,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 796",
       "timestamp": 1787245618.6874435
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787245835.424908
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 621",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6327,
-    "total_planned": 12,
+    "total_completed": 6328,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
