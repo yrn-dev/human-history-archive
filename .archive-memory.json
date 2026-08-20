@@ -31592,14 +31592,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 797",
       "timestamp": 1787247422.7862291
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787247657.0829
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 797",
@@ -31627,8 +31627,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6333,
-    "total_planned": 6,
+    "total_completed": 6334,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
