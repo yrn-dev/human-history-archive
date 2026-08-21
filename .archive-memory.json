@@ -32617,14 +32617,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 912",
       "timestamp": 1787294220.2827406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 912",
-      "variation": true
-    },
+      "timestamp": 1787294502.8523302
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 642",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6538,
-    "total_planned": 14,
+    "total_completed": 6539,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
