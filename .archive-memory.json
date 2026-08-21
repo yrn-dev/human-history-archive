@@ -33097,14 +33097,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 842",
       "timestamp": 1787316397.1324306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787316667.6452243
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6634,
-    "total_planned": 60,
+    "total_completed": 6635,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
