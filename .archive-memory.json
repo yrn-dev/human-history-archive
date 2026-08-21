@@ -32437,14 +32437,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 912",
       "timestamp": 1787285995.571732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787286228.0846856
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 824",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6502,
-    "total_planned": 50,
+    "total_completed": 6503,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
