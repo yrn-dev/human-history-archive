@@ -33412,14 +33412,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 848",
       "timestamp": 1787330670.8461094
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787330972.2352078
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6697,
-    "total_planned": 68,
+    "total_completed": 6698,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
