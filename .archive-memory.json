@@ -32677,14 +32677,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 823",
       "timestamp": 1787296856.188271
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787297108.6971061
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6550,
-    "total_planned": 2,
+    "total_completed": 6551,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
