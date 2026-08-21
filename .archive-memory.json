@@ -33052,14 +33052,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 839",
       "timestamp": 1787314668.645631
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787314981.3722248
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 839",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6625,
-    "total_planned": 69,
+    "total_completed": 6626,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
