@@ -32537,14 +32537,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 821",
       "timestamp": 1787290561.5829296
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1787290852.1361747
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6522,
-    "total_planned": 30,
+    "total_completed": 6523,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
