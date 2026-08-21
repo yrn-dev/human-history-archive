@@ -33037,18 +33037,17 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 833",
       "timestamp": 1787313848.7581785
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 832",
-      "variation": true
+      "timestamp": 1787314097.6315756
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 6622,
-    "total_planned": 1,
+    "total_completed": 6623,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
