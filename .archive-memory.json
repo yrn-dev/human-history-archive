@@ -33857,14 +33857,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 859",
       "timestamp": 1787351111.2507336
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 860",
-      "variation": true
-    },
+      "timestamp": 1787351329.9302938
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 670",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6786,
-    "total_planned": 50,
+    "total_completed": 6787,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
