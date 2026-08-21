@@ -32322,14 +32322,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 814",
       "timestamp": 1787280771.281364
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787280911.2769217
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6479,
-    "total_planned": 2,
+    "total_completed": 6480,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
