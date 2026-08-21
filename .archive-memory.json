@@ -33777,14 +33777,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 859",
       "timestamp": 1787347395.8944569
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787347594.3177905
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6770,
-    "total_planned": 66,
+    "total_completed": 6771,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
