@@ -32137,14 +32137,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 635",
       "timestamp": 1787272067.436664
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787272374.6159284
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 902",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6442,
-    "total_planned": 39,
+    "total_completed": 6443,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
