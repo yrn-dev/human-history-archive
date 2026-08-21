@@ -32562,14 +32562,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 823",
       "timestamp": 1787291859.8228838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1787292008.9350047
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 824",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6527,
-    "total_planned": 25,
+    "total_completed": 6528,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
