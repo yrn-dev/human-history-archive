@@ -32417,14 +32417,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 821",
       "timestamp": 1787285219.52283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787285368.5253167
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6498,
-    "total_planned": 54,
+    "total_completed": 6499,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
