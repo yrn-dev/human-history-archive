@@ -33667,14 +33667,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 851",
       "timestamp": 1787342538.3199077
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787342776.8758624
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6748,
-    "total_planned": 17,
+    "total_completed": 6749,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
