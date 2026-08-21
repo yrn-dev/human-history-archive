@@ -33732,14 +33732,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 848",
       "timestamp": 1787345272.881363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 851",
-      "variation": true
-    },
+      "timestamp": 1787345489.0954921
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6761,
-    "total_planned": 4,
+    "total_completed": 6762,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
