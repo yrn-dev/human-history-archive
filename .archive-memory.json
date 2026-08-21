@@ -33842,14 +33842,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 859",
       "timestamp": 1787350369.40464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787350654.5984943
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6783,
-    "total_planned": 53,
+    "total_completed": 6784,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
