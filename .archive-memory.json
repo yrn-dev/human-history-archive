@@ -32972,14 +32972,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 833",
       "timestamp": 1787310596.1531632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787310793.6199453
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 833",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6609,
-    "total_planned": 14,
+    "total_completed": 6610,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
