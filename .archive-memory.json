@@ -32762,14 +32762,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 832",
       "timestamp": 1787300955.5448887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 649",
-      "variation": true
-    },
+      "timestamp": 1787301244.0402956
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 833",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6567,
-    "total_planned": 56,
+    "total_completed": 6568,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
