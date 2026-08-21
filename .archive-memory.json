@@ -32807,14 +32807,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 830",
       "timestamp": 1787303124.096042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787303424.5915809
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 922",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6576,
-    "total_planned": 47,
+    "total_completed": 6577,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
