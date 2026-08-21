@@ -33782,14 +33782,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 857",
       "timestamp": 1787347594.3177905
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787347840.5649674
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 670",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6771,
-    "total_planned": 65,
+    "total_completed": 6772,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
