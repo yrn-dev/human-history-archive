@@ -32607,14 +32607,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 823",
       "timestamp": 1787293636.3074975
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787293950.1481192
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 912",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6536,
-    "total_planned": 16,
+    "total_completed": 6537,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
