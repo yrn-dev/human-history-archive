@@ -33287,14 +33287,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 841",
       "timestamp": 1787325104.718495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787325303.205369
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6672,
-    "total_planned": 22,
+    "total_completed": 6673,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
