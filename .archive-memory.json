@@ -32957,14 +32957,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 830",
       "timestamp": 1787309941.7648337
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 830",
-      "variation": true
-    },
+      "timestamp": 1787310259.0302932
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6606,
-    "total_planned": 17,
+    "total_completed": 6607,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
