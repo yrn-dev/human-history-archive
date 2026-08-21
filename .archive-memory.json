@@ -33622,14 +33622,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 850",
       "timestamp": 1787340641.994569
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787340934.251211
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 942",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6739,
-    "total_planned": 26,
+    "total_completed": 6740,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
