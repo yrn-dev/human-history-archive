@@ -33402,14 +33402,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 663",
       "timestamp": 1787330242.5044637
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787330423.7238364
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6695,
-    "total_planned": 70,
+    "total_completed": 6696,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
