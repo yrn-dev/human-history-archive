@@ -32697,14 +32697,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 649",
       "timestamp": 1787297907.484107
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787298119.3622885
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6554,
-    "total_planned": 69,
+    "total_completed": 6555,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
