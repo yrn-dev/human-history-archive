@@ -33862,14 +33862,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 860",
       "timestamp": 1787351329.9302938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787351470.9685478
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 857",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6787,
-    "total_planned": 49,
+    "total_completed": 6788,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
