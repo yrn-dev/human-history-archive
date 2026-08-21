@@ -33392,18 +33392,17 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 839",
       "timestamp": 1787329713.5414143
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 841",
-      "variation": true
+      "timestamp": 1787329968.778466
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 6693,
-    "total_planned": 1,
+    "total_completed": 6694,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
