@@ -33737,14 +33737,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 851",
       "timestamp": 1787345489.0954921
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787345687.208536
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6762,
-    "total_planned": 3,
+    "total_completed": 6763,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
