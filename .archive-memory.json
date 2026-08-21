@@ -32327,18 +32327,17 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 812",
       "timestamp": 1787280911.2769217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 812",
-      "variation": true
+      "timestamp": 1787281156.1643548
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 6480,
-    "total_planned": 1,
+    "total_completed": 6481,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
