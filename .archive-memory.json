@@ -32342,14 +32342,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 642",
       "timestamp": 1787281641.500128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787281936.593865
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 912",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6483,
-    "total_planned": 69,
+    "total_completed": 6484,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
