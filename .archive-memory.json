@@ -33977,14 +33977,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 860",
       "timestamp": 1787356422.3200088
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787356631.963936
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6810,
-    "total_planned": 26,
+    "total_completed": 6811,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
