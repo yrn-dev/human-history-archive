@@ -33452,14 +33452,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 942",
       "timestamp": 1787332656.0528731
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787332845.7378316
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6705,
-    "total_planned": 60,
+    "total_completed": 6706,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
