@@ -32577,14 +32577,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 642",
       "timestamp": 1787292348.2387505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787292561.1984174
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 824",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6530,
-    "total_planned": 22,
+    "total_completed": 6531,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
