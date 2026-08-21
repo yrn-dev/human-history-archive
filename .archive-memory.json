@@ -33417,14 +33417,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 850",
       "timestamp": 1787330972.2352078
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787331175.0721714
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 663",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6698,
-    "total_planned": 67,
+    "total_completed": 6699,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
