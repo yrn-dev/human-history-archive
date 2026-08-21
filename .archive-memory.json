@@ -32682,18 +32682,17 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 824",
       "timestamp": 1787297108.6971061
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 823",
-      "variation": true
+      "timestamp": 1787297405.0194213
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 6551,
-    "total_planned": 1,
+    "total_completed": 6552,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
