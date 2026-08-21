@@ -33307,14 +33307,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 656",
       "timestamp": 1787325926.5047953
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787326067.9035366
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6676,
-    "total_planned": 18,
+    "total_completed": 6677,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
