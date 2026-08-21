@@ -33792,14 +33792,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 670",
       "timestamp": 1787348106.959286
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787348386.1014664
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6773,
-    "total_planned": 63,
+    "total_completed": 6774,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
