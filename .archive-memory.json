@@ -32427,14 +32427,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 823",
       "timestamp": 1787285564.219808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787285795.1515293
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 912",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6500,
-    "total_planned": 52,
+    "total_completed": 6501,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
