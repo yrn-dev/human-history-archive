@@ -32632,14 +32632,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 821",
       "timestamp": 1787294955.1765473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787295139.6701179
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6541,
-    "total_planned": 11,
+    "total_completed": 6542,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
