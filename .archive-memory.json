@@ -33462,14 +33462,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 850",
       "timestamp": 1787333148.4513009
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 663",
-      "variation": true
-    },
+      "timestamp": 1787333454.1496499
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 663",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6707,
-    "total_planned": 58,
+    "total_completed": 6708,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
