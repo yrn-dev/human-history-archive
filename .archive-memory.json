@@ -32882,14 +32882,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 830",
       "timestamp": 1787306890.2642071
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787307075.2513206
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 830",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6591,
-    "total_planned": 32,
+    "total_completed": 6592,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
