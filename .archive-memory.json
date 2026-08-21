@@ -33062,14 +33062,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 839",
       "timestamp": 1787315126.4759738
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787315269.8343852
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 839",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6627,
-    "total_planned": 67,
+    "total_completed": 6628,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
