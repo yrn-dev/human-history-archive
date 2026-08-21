@@ -33497,14 +33497,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 848",
       "timestamp": 1787335023.5585232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787335182.4173243
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6714,
-    "total_planned": 51,
+    "total_completed": 6715,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
