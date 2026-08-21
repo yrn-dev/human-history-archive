@@ -32517,14 +32517,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 642",
       "timestamp": 1787289572.1036913
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787289819.598156
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6518,
-    "total_planned": 34,
+    "total_completed": 6519,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
