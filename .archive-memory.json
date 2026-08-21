@@ -32872,14 +32872,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 830",
       "timestamp": 1787306390.7200654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 830",
-      "variation": true
-    },
+      "timestamp": 1787306580.5707324
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 830",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6589,
-    "total_planned": 34,
+    "total_completed": 6590,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
