@@ -33182,14 +33182,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 656",
       "timestamp": 1787320279.7472646
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787320423.8714318
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 842",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6651,
-    "total_planned": 43,
+    "total_completed": 6652,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
