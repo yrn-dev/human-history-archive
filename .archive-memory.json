@@ -33437,14 +33437,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 663",
       "timestamp": 1787331889.7322783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787332168.6213305
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6702,
-    "total_planned": 63,
+    "total_completed": 6703,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
