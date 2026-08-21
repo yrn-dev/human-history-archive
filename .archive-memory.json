@@ -33127,14 +33127,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 932",
       "timestamp": 1787317893.2099605
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787318097.2566094
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6640,
-    "total_planned": 54,
+    "total_completed": 6641,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
