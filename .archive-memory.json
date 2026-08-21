@@ -33952,14 +33952,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 857",
       "timestamp": 1787355359.3854046
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787355541.554815
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 952",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6805,
-    "total_planned": 31,
+    "total_completed": 6806,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
