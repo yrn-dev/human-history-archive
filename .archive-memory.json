@@ -32457,14 +32457,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 912",
       "timestamp": 1787287046.1982782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787287340.7144144
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6506,
-    "total_planned": 46,
+    "total_completed": 6507,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
