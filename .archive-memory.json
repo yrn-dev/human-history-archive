@@ -33707,14 +33707,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 850",
       "timestamp": 1787344226.1801515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 663",
-      "variation": true
-    },
+      "timestamp": 1787344420.5075622
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 942",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6756,
-    "total_planned": 9,
+    "total_completed": 6757,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
