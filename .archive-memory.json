@@ -32822,14 +32822,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 833",
       "timestamp": 1787303891.9939013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787304050.3091245
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6579,
-    "total_planned": 44,
+    "total_completed": 6580,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
