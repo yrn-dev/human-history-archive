@@ -32197,14 +32197,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 812",
       "timestamp": 1787274877.4003923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787275168.093588
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6454,
-    "total_planned": 27,
+    "total_completed": 6455,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
