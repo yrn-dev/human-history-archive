@@ -33812,14 +33812,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 860",
       "timestamp": 1787349188.0703526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787349425.3927805
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 670",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6777,
-    "total_planned": 59,
+    "total_completed": 6778,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
