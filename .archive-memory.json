@@ -33192,14 +33192,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 842",
       "timestamp": 1787320652.3649142
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787320831.5976791
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 839",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6653,
-    "total_planned": 41,
+    "total_completed": 6654,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
