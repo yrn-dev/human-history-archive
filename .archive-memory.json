@@ -33172,14 +33172,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 841",
       "timestamp": 1787319906.0698152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787320071.357186
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 656",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6649,
-    "total_planned": 45,
+    "total_completed": 6650,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
