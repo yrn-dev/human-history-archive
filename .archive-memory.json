@@ -33377,14 +33377,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 842",
       "timestamp": 1787329117.8868234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787329299.3142376
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 932",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6690,
-    "total_planned": 4,
+    "total_completed": 6691,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
