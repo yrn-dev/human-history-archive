@@ -33942,14 +33942,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 859",
       "timestamp": 1787354806.9121568
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787355110.0795815
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 857",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6803,
-    "total_planned": 33,
+    "total_completed": 6804,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
