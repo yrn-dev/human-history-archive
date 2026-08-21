@@ -33472,14 +33472,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 663",
       "timestamp": 1787333781.1867712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787333925.402434
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6709,
-    "total_planned": 56,
+    "total_completed": 6710,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
