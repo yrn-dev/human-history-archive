@@ -33772,14 +33772,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 859",
       "timestamp": 1787347082.2790549
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787347395.8944569
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 857",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6769,
-    "total_planned": 67,
+    "total_completed": 6770,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
