@@ -33617,14 +33617,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 851",
       "timestamp": 1787340490.92726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787340641.994569
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6738,
-    "total_planned": 27,
+    "total_completed": 6739,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
