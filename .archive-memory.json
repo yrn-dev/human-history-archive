@@ -33877,14 +33877,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 857",
       "timestamp": 1787352055.1026356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 952",
-      "variation": true
-    },
+      "timestamp": 1787352277.7150097
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 857",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6790,
-    "total_planned": 46,
+    "total_completed": 6791,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
