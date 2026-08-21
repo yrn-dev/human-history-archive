@@ -33057,14 +33057,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 841",
       "timestamp": 1787314981.3722248
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787315126.4759738
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6626,
-    "total_planned": 68,
+    "total_completed": 6627,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
