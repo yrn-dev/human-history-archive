@@ -32772,14 +32772,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 833",
       "timestamp": 1787301475.564874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 833",
-      "variation": true
-    },
+      "timestamp": 1787301641.7417462
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6569,
-    "total_planned": 54,
+    "total_completed": 6570,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
