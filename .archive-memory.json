@@ -33222,14 +33222,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 932",
       "timestamp": 1787322024.7139673
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 656",
-      "variation": true
-    },
+      "timestamp": 1787322332.0275888
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 656",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6659,
-    "total_planned": 35,
+    "total_completed": 6660,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
