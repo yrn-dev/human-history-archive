@@ -32257,14 +32257,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 814",
       "timestamp": 1787277492.3504617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787277746.9968016
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6466,
-    "total_planned": 15,
+    "total_completed": 6467,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
