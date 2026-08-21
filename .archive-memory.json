@@ -33742,14 +33742,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 850",
       "timestamp": 1787345687.208536
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787345848.741442
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 851",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6763,
-    "total_planned": 2,
+    "total_completed": 6764,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
