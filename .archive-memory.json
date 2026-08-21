@@ -32277,14 +32277,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 814",
       "timestamp": 1787278673.615705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787279014.6556466
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6470,
-    "total_planned": 11,
+    "total_completed": 6471,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
