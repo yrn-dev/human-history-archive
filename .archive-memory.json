@@ -32392,14 +32392,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 821",
       "timestamp": 1787284085.3484633
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787284249.0568388
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6493,
-    "total_planned": 59,
+    "total_completed": 6494,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
