@@ -33352,14 +33352,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 841",
       "timestamp": 1787327829.132244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787328078.1543608
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 842",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6685,
-    "total_planned": 9,
+    "total_completed": 6686,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
