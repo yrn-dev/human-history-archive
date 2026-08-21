@@ -33167,14 +33167,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 841",
       "timestamp": 1787319729.9050593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787319906.0698152
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 839",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6648,
-    "total_planned": 46,
+    "total_completed": 6649,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
