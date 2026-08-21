@@ -33257,14 +33257,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 842",
       "timestamp": 1787323695.1882837
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787323941.4086213
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6666,
-    "total_planned": 28,
+    "total_completed": 6667,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
