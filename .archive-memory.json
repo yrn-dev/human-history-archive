@@ -33652,14 +33652,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 848",
       "timestamp": 1787341998.5785887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787342204.4500594
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 942",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6745,
-    "total_planned": 20,
+    "total_completed": 6746,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
