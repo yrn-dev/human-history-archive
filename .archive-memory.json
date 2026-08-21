@@ -32292,14 +32292,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 815",
       "timestamp": 1787279319.6442509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 815",
-      "variation": true
-    },
+      "timestamp": 1787279588.116138
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 902",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6473,
-    "total_planned": 8,
+    "total_completed": 6474,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
