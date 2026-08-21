@@ -33357,14 +33357,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 841",
       "timestamp": 1787328078.1543608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787328305.3841238
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6686,
-    "total_planned": 8,
+    "total_completed": 6687,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
