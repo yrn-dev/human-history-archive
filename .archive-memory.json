@@ -32897,14 +32897,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 922",
       "timestamp": 1787307380.8358746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787307542.953399
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 830",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6594,
-    "total_planned": 29,
+    "total_completed": 6595,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
