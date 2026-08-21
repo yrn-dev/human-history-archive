@@ -33147,14 +33147,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 932",
       "timestamp": 1787318826.0190625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787319099.5217395
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 656",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6644,
-    "total_planned": 50,
+    "total_completed": 6645,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
