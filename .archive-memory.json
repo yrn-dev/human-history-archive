@@ -32262,14 +32262,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 814",
       "timestamp": 1787277746.9968016
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787278058.660362
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6467,
-    "total_planned": 14,
+    "total_completed": 6468,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
