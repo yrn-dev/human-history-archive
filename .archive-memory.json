@@ -32987,14 +32987,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 832",
       "timestamp": 1787311297.0103848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787311517.0785291
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 830",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6612,
-    "total_planned": 11,
+    "total_completed": 6613,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
