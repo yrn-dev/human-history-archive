@@ -32472,14 +32472,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 821",
       "timestamp": 1787287674.2992353
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787287860.3303547
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6509,
-    "total_planned": 43,
+    "total_completed": 6510,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
