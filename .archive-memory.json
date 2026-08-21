@@ -33717,14 +33717,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 942",
       "timestamp": 1787344583.1799433
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 942",
-      "variation": true
-    },
+      "timestamp": 1787344807.3142157
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 942",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6758,
-    "total_planned": 7,
+    "total_completed": 6759,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
