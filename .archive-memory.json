@@ -33467,14 +33467,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 663",
       "timestamp": 1787333454.1496499
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 663",
-      "variation": true
-    },
+      "timestamp": 1787333781.1867712
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6708,
-    "total_planned": 57,
+    "total_completed": 6709,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
