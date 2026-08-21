@@ -33572,14 +33572,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 850",
       "timestamp": 1787338255.6619277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787338524.452909
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6729,
-    "total_planned": 36,
+    "total_completed": 6730,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
