@@ -32097,14 +32097,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 814",
       "timestamp": 1787270146.9883733
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787270442.8961778
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 902",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6434,
-    "total_planned": 47,
+    "total_completed": 6435,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
