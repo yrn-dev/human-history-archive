@@ -33067,14 +33067,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 841",
       "timestamp": 1787315269.8343852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787315423.4297965
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 839",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6628,
-    "total_planned": 66,
+    "total_completed": 6629,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
