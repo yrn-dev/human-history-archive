@@ -33212,14 +33212,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 932",
       "timestamp": 1787321673.5422614
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787321830.1279356
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 932",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6657,
-    "total_planned": 37,
+    "total_completed": 6658,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
