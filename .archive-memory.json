@@ -32247,14 +32247,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 902",
       "timestamp": 1787277077.208288
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787277300.4341457
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6464,
-    "total_planned": 17,
+    "total_completed": 6465,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
