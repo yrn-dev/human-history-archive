@@ -32727,14 +32727,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 830",
       "timestamp": 1787299289.434399
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787299443.827376
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6560,
-    "total_planned": 63,
+    "total_completed": 6561,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
