@@ -33112,14 +33112,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 656",
       "timestamp": 1787317075.391808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787317385.809761
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 839",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6637,
-    "total_planned": 57,
+    "total_completed": 6638,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
