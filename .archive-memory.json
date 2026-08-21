@@ -33557,14 +33557,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 848",
       "timestamp": 1787337640.2254426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787337898.9236825
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 942",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6726,
-    "total_planned": 39,
+    "total_completed": 6727,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
