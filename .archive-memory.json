@@ -32732,14 +32732,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 832",
       "timestamp": 1787299443.827376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787299736.9084675
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 833",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6561,
-    "total_planned": 62,
+    "total_completed": 6562,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
