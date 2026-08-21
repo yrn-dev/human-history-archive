@@ -32377,14 +32377,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 821",
       "timestamp": 1787283305.3738303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787283549.9383843
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6490,
-    "total_planned": 62,
+    "total_completed": 6491,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
