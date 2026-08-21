@@ -33937,14 +33937,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 859",
       "timestamp": 1787354490.9060047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787354806.9121568
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6802,
-    "total_planned": 34,
+    "total_completed": 6803,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
