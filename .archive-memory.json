@@ -33547,14 +33547,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 850",
       "timestamp": 1787337087.5119097
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787337336.7164192
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6724,
-    "total_planned": 41,
+    "total_completed": 6725,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
