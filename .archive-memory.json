@@ -33932,14 +33932,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 859",
       "timestamp": 1787354240.3543782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787354490.9060047
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6801,
-    "total_planned": 35,
+    "total_completed": 6802,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
