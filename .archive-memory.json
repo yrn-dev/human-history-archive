@@ -33072,14 +33072,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 839",
       "timestamp": 1787315423.4297965
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787315570.0619314
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6629,
-    "total_planned": 65,
+    "total_completed": 6630,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
