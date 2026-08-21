@@ -32132,14 +32132,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 812",
       "timestamp": 1787271915.2843914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1787272067.436664
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6441,
-    "total_planned": 40,
+    "total_completed": 6442,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
