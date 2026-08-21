@@ -33562,14 +33562,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 850",
       "timestamp": 1787337898.9236825
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 942",
-      "variation": true
-    },
+      "timestamp": 1787338110.0264904
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6727,
-    "total_planned": 38,
+    "total_completed": 6728,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
