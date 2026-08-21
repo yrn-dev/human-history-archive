@@ -32982,14 +32982,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 833",
       "timestamp": 1787311069.9094982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787311297.0103848
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 922",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6611,
-    "total_planned": 12,
+    "total_completed": 6612,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
