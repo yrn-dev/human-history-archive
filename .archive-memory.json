@@ -33677,14 +33677,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 850",
       "timestamp": 1787342964.7650416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787343129.1935678
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6750,
-    "total_planned": 15,
+    "total_completed": 6751,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
