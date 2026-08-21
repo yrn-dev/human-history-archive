@@ -33077,14 +33077,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 839",
       "timestamp": 1787315570.0619314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787315822.0241046
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 842",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6630,
-    "total_planned": 64,
+    "total_completed": 6631,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
