@@ -32297,14 +32297,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 815",
       "timestamp": 1787279588.116138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787279791.5458484
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 635",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6474,
-    "total_planned": 7,
+    "total_completed": 6475,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
