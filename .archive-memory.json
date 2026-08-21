@@ -33087,14 +33087,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 842",
       "timestamp": 1787315961.074647
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787316199.163255
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 842",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6632,
-    "total_planned": 62,
+    "total_completed": 6633,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
