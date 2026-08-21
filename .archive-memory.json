@@ -33227,14 +33227,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 656",
       "timestamp": 1787322332.0275888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 656",
-      "variation": true
-    },
+      "timestamp": 1787322642.9374754
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 839",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6660,
-    "total_planned": 34,
+    "total_completed": 6661,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
