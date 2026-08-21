@@ -32482,14 +32482,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 823",
       "timestamp": 1787288167.283969
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787288426.739333
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6511,
-    "total_planned": 41,
+    "total_completed": 6512,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
