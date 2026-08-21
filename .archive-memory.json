@@ -33817,14 +33817,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 857",
       "timestamp": 1787349425.3927805
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787349670.3173752
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 860",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6778,
-    "total_planned": 58,
+    "total_completed": 6779,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
