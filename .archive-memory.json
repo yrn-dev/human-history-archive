@@ -33322,14 +33322,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 932",
       "timestamp": 1787326549.9200232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787326758.4458475
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 842",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6679,
-    "total_planned": 15,
+    "total_completed": 6680,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
