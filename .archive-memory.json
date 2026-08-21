@@ -33027,14 +33027,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 832",
       "timestamp": 1787313311.6920002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 830",
-      "variation": true
-    },
+      "timestamp": 1787313537.6159916
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 833",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6620,
-    "total_planned": 3,
+    "total_completed": 6621,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
