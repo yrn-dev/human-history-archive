@@ -32182,14 +32182,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 812",
       "timestamp": 1787274274.1749332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787274516.4203389
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6451,
-    "total_planned": 30,
+    "total_completed": 6452,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
