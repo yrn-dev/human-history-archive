@@ -32837,14 +32837,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 832",
       "timestamp": 1787304518.275417
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787304835.0840392
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 649",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6582,
-    "total_planned": 41,
+    "total_completed": 6583,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
