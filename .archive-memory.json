@@ -33807,14 +33807,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 859",
       "timestamp": 1787348921.9888234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 860",
-      "variation": true
-    },
+      "timestamp": 1787349188.0703526
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 857",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6776,
-    "total_planned": 60,
+    "total_completed": 6777,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
