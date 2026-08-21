@@ -32737,14 +32737,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 832",
       "timestamp": 1787299736.9084675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 833",
-      "variation": true
-    },
+      "timestamp": 1787300058.6259353
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6562,
-    "total_planned": 61,
+    "total_completed": 6563,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
