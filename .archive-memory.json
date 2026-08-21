@@ -32382,14 +32382,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 823",
       "timestamp": 1787283549.9383843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787283821.5358546
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6491,
-    "total_planned": 61,
+    "total_completed": 6492,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
