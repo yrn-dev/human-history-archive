@@ -32232,14 +32232,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 812",
       "timestamp": 1787276410.842115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787276711.5121021
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6461,
-    "total_planned": 20,
+    "total_completed": 6462,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
