@@ -32642,14 +32642,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 823",
       "timestamp": 1787295415.865119
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787295606.4014485
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 912",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6543,
-    "total_planned": 9,
+    "total_completed": 6544,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
