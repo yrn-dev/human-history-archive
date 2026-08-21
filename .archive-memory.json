@@ -32337,14 +32337,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 912",
       "timestamp": 1787281384.9962502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 642",
-      "variation": true
-    },
+      "timestamp": 1787281641.500128
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6482,
-    "total_planned": 70,
+    "total_completed": 6483,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
