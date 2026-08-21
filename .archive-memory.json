@@ -33107,14 +33107,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 841",
       "timestamp": 1787316936.1518884
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 656",
-      "variation": true
-    },
+      "timestamp": 1787317075.391808
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6636,
-    "total_planned": 58,
+    "total_completed": 6637,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
