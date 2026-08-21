@@ -33837,14 +33837,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 859",
       "timestamp": 1787350222.7857687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787350369.40464
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6782,
-    "total_planned": 54,
+    "total_completed": 6783,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
