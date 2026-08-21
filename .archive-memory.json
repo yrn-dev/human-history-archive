@@ -33567,14 +33567,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 942",
       "timestamp": 1787338110.0264904
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787338255.6619277
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6728,
-    "total_planned": 37,
+    "total_completed": 6729,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
