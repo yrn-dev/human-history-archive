@@ -32907,14 +32907,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 830",
       "timestamp": 1787307802.0887015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 649",
-      "variation": true
-    },
+      "timestamp": 1787307991.9236164
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 833",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6596,
-    "total_planned": 27,
+    "total_completed": 6597,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
