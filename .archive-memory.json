@@ -33247,14 +33247,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 839",
       "timestamp": 1787323204.7517736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787323470.8189504
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 842",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6664,
-    "total_planned": 30,
+    "total_completed": 6665,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
