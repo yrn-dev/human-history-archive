@@ -32887,14 +32887,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 922",
       "timestamp": 1787307075.2513206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 830",
-      "variation": true
-    },
+      "timestamp": 1787307218.6078563
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 922",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6592,
-    "total_planned": 31,
+    "total_completed": 6593,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
