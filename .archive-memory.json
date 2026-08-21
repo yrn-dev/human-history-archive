@@ -33582,14 +33582,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 850",
       "timestamp": 1787338847.3852298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 851",
-      "variation": true
-    },
+      "timestamp": 1787339053.8614912
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 942",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6731,
-    "total_planned": 34,
+    "total_completed": 6732,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
