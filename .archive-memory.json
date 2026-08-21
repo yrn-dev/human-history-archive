@@ -33122,14 +33122,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 839",
       "timestamp": 1787317617.2389104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787317893.2099605
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6639,
-    "total_planned": 55,
+    "total_completed": 6640,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
