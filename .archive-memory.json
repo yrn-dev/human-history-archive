@@ -32192,14 +32192,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 812",
       "timestamp": 1787274726.061233
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787274877.4003923
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6453,
-    "total_planned": 28,
+    "total_completed": 6454,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
