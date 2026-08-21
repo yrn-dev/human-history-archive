@@ -33612,14 +33612,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 851",
       "timestamp": 1787340231.1043568
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 851",
-      "variation": true
-    },
+      "timestamp": 1787340490.92726
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6737,
-    "total_planned": 28,
+    "total_completed": 6738,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
