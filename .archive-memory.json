@@ -32747,14 +32747,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 832",
       "timestamp": 1787300253.721717
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787300568.9263086
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 922",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6564,
-    "total_planned": 59,
+    "total_completed": 6565,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
