@@ -32452,14 +32452,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 823",
       "timestamp": 1787286795.7855659
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 912",
-      "variation": true
-    },
+      "timestamp": 1787287046.1982782
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6505,
-    "total_planned": 47,
+    "total_completed": 6506,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
