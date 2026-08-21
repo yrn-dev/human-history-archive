@@ -32922,14 +32922,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 832",
       "timestamp": 1787308401.4064689
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 830",
-      "variation": true
-    },
+      "timestamp": 1787308589.333308
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 922",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6599,
-    "total_planned": 24,
+    "total_completed": 6600,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
