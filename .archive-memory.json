@@ -33432,14 +33432,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 848",
       "timestamp": 1787331681.054342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 663",
-      "variation": true
-    },
+      "timestamp": 1787331889.7322783
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6701,
-    "total_planned": 64,
+    "total_completed": 6702,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
