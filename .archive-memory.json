@@ -32672,14 +32672,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 823",
       "timestamp": 1787296549.362206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787296856.188271
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 824",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6549,
-    "total_planned": 3,
+    "total_completed": 6550,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
