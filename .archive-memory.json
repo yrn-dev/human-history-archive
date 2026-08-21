@@ -32782,14 +32782,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 832",
       "timestamp": 1787301803.1803436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 649",
-      "variation": true
-    },
+      "timestamp": 1787302049.7506063
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 922",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6571,
-    "total_planned": 52,
+    "total_completed": 6572,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
