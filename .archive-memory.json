@@ -32827,14 +32827,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 832",
       "timestamp": 1787304050.3091245
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787304298.9008036
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6580,
-    "total_planned": 43,
+    "total_completed": 6581,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
