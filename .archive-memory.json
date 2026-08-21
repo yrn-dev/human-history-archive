@@ -33387,14 +33387,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 932",
       "timestamp": 1787329488.7373888
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787329713.5414143
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6692,
-    "total_planned": 2,
+    "total_completed": 6693,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
