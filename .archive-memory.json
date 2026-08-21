@@ -33802,14 +33802,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 859",
       "timestamp": 1787348696.7713797
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787348921.9888234
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 860",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6775,
-    "total_planned": 61,
+    "total_completed": 6776,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
