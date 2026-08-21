@@ -32602,14 +32602,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 823",
       "timestamp": 1787293456.3935983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787293636.3074975
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6535,
-    "total_planned": 17,
+    "total_completed": 6536,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
