@@ -32667,14 +32667,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 823",
       "timestamp": 1787296407.2721283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787296549.362206
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6548,
-    "total_planned": 4,
+    "total_completed": 6549,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
