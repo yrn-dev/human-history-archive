@@ -32127,14 +32127,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 814",
       "timestamp": 1787271747.9251215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787271915.2843914
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 635",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6440,
-    "total_planned": 41,
+    "total_completed": 6441,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
