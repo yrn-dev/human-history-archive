@@ -32222,14 +32222,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 814",
       "timestamp": 1787275889.7716396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787276098.4459941
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6459,
-    "total_planned": 22,
+    "total_completed": 6460,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
