@@ -32172,14 +32172,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 814",
       "timestamp": 1787273820.650136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 635",
-      "variation": true
-    },
+      "timestamp": 1787274026.1871483
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 812",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6449,
-    "total_planned": 32,
+    "total_completed": 6450,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
