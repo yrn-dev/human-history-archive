@@ -33762,14 +33762,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 857",
       "timestamp": 1787346539.9187486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 860",
-      "variation": true
-    },
+      "timestamp": 1787346821.6152694
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6767,
-    "total_planned": 69,
+    "total_completed": 6768,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
