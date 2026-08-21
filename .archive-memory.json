@@ -33947,14 +33947,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 859",
       "timestamp": 1787355110.0795815
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787355359.3854046
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 857",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6804,
-    "total_planned": 32,
+    "total_completed": 6805,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
