@@ -32252,14 +32252,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 902",
       "timestamp": 1787277300.4341457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 814",
-      "variation": true
-    },
+      "timestamp": 1787277492.3504617
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 814",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6465,
-    "total_planned": 16,
+    "total_completed": 6466,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
