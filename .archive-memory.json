@@ -32652,14 +32652,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 912",
       "timestamp": 1787295784.050675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787296008.6777925
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 912",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6545,
-    "total_planned": 7,
+    "total_completed": 6546,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
