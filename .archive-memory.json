@@ -33552,14 +33552,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 848",
       "timestamp": 1787337336.7164192
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787337640.2254426
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6725,
-    "total_planned": 40,
+    "total_completed": 6726,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
