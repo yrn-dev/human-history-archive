@@ -32492,14 +32492,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 823",
       "timestamp": 1787288631.2416742
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787288838.3438911
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6513,
-    "total_planned": 39,
+    "total_completed": 6514,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
