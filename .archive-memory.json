@@ -32397,14 +32397,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 823",
       "timestamp": 1787284249.0568388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787284504.205465
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 824",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6494,
-    "total_planned": 58,
+    "total_completed": 6495,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
