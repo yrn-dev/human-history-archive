@@ -33117,14 +33117,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 841",
       "timestamp": 1787317385.809761
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 839",
-      "variation": true
-    },
+      "timestamp": 1787317617.2389104
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 932",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6638,
-    "total_planned": 56,
+    "total_completed": 6639,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
