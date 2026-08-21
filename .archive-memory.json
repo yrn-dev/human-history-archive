@@ -33367,14 +33367,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 841",
       "timestamp": 1787328529.6393695
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787328848.9188342
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 842",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6688,
-    "total_planned": 6,
+    "total_completed": 6689,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
