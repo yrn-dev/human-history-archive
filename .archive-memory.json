@@ -32702,14 +32702,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 832",
       "timestamp": 1787298119.3622885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787298425.4059842
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 922",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6555,
-    "total_planned": 68,
+    "total_completed": 6556,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
