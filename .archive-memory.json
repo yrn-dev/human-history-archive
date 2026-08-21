@@ -32467,14 +32467,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 823",
       "timestamp": 1787287531.4209404
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787287674.2992353
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6508,
-    "total_planned": 44,
+    "total_completed": 6509,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
