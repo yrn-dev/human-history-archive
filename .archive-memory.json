@@ -32997,14 +32997,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 830",
       "timestamp": 1787311758.1256456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 830",
-      "variation": true
-    },
+      "timestamp": 1787312059.861133
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6614,
-    "total_planned": 9,
+    "total_completed": 6615,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
