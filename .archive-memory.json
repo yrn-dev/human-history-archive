@@ -32912,14 +32912,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 649",
       "timestamp": 1787307991.9236164
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 833",
-      "variation": true
-    },
+      "timestamp": 1787308172.6644504
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6597,
-    "total_planned": 26,
+    "total_completed": 6598,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
