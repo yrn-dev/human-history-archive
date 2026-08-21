@@ -32802,14 +32802,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 832",
       "timestamp": 1787302902.1956642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 830",
-      "variation": true
-    },
+      "timestamp": 1787303124.096042
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6575,
-    "total_planned": 48,
+    "total_completed": 6576,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
