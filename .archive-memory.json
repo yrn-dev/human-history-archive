@@ -33972,14 +33972,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 857",
       "timestamp": 1787356271.8584852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 860",
-      "variation": true
-    },
+      "timestamp": 1787356422.3200088
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6809,
-    "total_planned": 27,
+    "total_completed": 6810,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
