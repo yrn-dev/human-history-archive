@@ -32487,14 +32487,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 823",
       "timestamp": 1787288426.739333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787288631.2416742
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6512,
-    "total_planned": 40,
+    "total_completed": 6513,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
