@@ -32362,14 +32362,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 823",
       "timestamp": 1787282575.3927026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787282732.828507
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6487,
-    "total_planned": 65,
+    "total_completed": 6488,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
