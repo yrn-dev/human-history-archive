@@ -33207,14 +33207,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 839",
       "timestamp": 1787321408.390904
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787321673.5422614
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6656,
-    "total_planned": 38,
+    "total_completed": 6657,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
