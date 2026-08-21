@@ -33217,14 +33217,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 841",
       "timestamp": 1787321830.1279356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787322024.7139673
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 656",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6658,
-    "total_planned": 36,
+    "total_completed": 6659,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
