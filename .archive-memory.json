@@ -33362,14 +33362,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 842",
       "timestamp": 1787328305.3841238
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787328529.6393695
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 932",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6687,
-    "total_planned": 7,
+    "total_completed": 6688,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
