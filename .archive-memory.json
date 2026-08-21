@@ -33522,14 +33522,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 663",
       "timestamp": 1787336080.709267
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787336300.4965804
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6719,
-    "total_planned": 46,
+    "total_completed": 6720,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
