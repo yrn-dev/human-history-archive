@@ -32862,14 +32862,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 922",
       "timestamp": 1787305872.77335
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787306154.430706
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 830",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6587,
-    "total_planned": 36,
+    "total_completed": 6588,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
