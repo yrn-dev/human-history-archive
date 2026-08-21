@@ -32692,14 +32692,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 830",
       "timestamp": 1787297684.988281
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 649",
-      "variation": true
-    },
+      "timestamp": 1787297907.484107
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6553,
-    "total_planned": 70,
+    "total_completed": 6554,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
