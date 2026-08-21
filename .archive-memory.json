@@ -32412,14 +32412,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 823",
       "timestamp": 1787284949.4488068
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787285219.52283
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6497,
-    "total_planned": 55,
+    "total_completed": 6498,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
