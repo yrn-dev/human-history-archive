@@ -32502,14 +32502,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 823",
       "timestamp": 1787289005.5362668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787289252.1564536
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6515,
-    "total_planned": 37,
+    "total_completed": 6516,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
