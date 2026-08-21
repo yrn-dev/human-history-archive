@@ -33642,14 +33642,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 851",
       "timestamp": 1787341578.6095848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787341736.5509558
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6743,
-    "total_planned": 22,
+    "total_completed": 6744,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
