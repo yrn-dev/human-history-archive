@@ -33327,14 +33327,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 841",
       "timestamp": 1787326758.4458475
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787326915.7855139
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 656",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6680,
-    "total_planned": 14,
+    "total_completed": 6681,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
