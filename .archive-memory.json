@@ -33892,14 +33892,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 670",
       "timestamp": 1787352616.608696
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787352837.0701401
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6793,
-    "total_planned": 43,
+    "total_completed": 6794,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
