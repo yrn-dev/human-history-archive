@@ -32237,14 +32237,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 814",
       "timestamp": 1787276711.5121021
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 812",
-      "variation": true
-    },
+      "timestamp": 1787276918.0025485
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 902",
@@ -32337,8 +32337,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6462,
-    "total_planned": 19,
+    "total_completed": 6463,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
