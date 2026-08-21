@@ -33687,14 +33687,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 850",
       "timestamp": 1787343278.7102923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787343464.1791666
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6752,
-    "total_planned": 13,
+    "total_completed": 6753,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
