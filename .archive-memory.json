@@ -32842,14 +32842,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 922",
       "timestamp": 1787304835.0840392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 649",
-      "variation": true
-    },
+      "timestamp": 1787305118.4496267
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6583,
-    "total_planned": 40,
+    "total_completed": 6584,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
