@@ -32752,14 +32752,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 832",
       "timestamp": 1787300568.9263086
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787300790.655548
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6565,
-    "total_planned": 58,
+    "total_completed": 6566,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
