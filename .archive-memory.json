@@ -32852,14 +32852,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 832",
       "timestamp": 1787305419.7311568
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 832",
-      "variation": true
-    },
+      "timestamp": 1787305636.1406066
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 922",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6585,
-    "total_planned": 38,
+    "total_completed": 6586,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
