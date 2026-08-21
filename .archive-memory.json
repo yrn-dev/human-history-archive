@@ -32552,14 +32552,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 912",
       "timestamp": 1787291383.374461
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787291587.8448598
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6525,
-    "total_planned": 27,
+    "total_completed": 6526,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
