@@ -33632,14 +33632,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 942",
       "timestamp": 1787341104.3544722
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 851",
-      "variation": true
-    },
+      "timestamp": 1787341405.259005
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 851",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6741,
-    "total_planned": 24,
+    "total_completed": 6742,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
