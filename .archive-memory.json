@@ -33757,14 +33757,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 670",
       "timestamp": 1787346244.5175157
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787346539.9187486
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 860",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6766,
-    "total_planned": 70,
+    "total_completed": 6767,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
