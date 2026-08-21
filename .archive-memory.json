@@ -32347,14 +32347,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 821",
       "timestamp": 1787281936.593865
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 912",
-      "variation": true
-    },
+      "timestamp": 1787282076.4691541
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6484,
-    "total_planned": 68,
+    "total_completed": 6485,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
