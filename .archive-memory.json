@@ -33282,14 +33282,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 841",
       "timestamp": 1787324938.0908303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 841",
-      "variation": true
-    },
+      "timestamp": 1787325104.718495
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6671,
-    "total_planned": 23,
+    "total_completed": 6672,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
