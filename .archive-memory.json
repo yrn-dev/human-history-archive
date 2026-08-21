@@ -33317,14 +33317,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 841",
       "timestamp": 1787326323.0518346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787326549.9200232
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 841",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6678,
-    "total_planned": 16,
+    "total_completed": 6679,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
