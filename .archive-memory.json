@@ -32367,14 +32367,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 821",
       "timestamp": 1787282732.828507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787283020.1895938
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 821",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6488,
-    "total_planned": 64,
+    "total_completed": 6489,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
