@@ -33967,14 +33967,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 857",
       "timestamp": 1787356133.9658422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787356271.8584852
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 860",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6808,
-    "total_planned": 28,
+    "total_completed": 6809,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
