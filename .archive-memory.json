@@ -33137,14 +33137,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 841",
       "timestamp": 1787318409.6844196
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 842",
-      "variation": true
-    },
+      "timestamp": 1787318632.4771755
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 932",
@@ -33402,8 +33402,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6642,
-    "total_planned": 52,
+    "total_completed": 6643,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
