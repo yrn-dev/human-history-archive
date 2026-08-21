@@ -33532,14 +33532,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 850",
       "timestamp": 1787336512.8861418
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 848",
-      "variation": true
-    },
+      "timestamp": 1787336734.937611
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 848",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6721,
-    "total_planned": 44,
+    "total_completed": 6722,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
