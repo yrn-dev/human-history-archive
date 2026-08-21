@@ -33512,14 +33512,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 850",
       "timestamp": 1787335643.0888839
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787335798.9406383
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 663",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6717,
-    "total_planned": 48,
+    "total_completed": 6718,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
