@@ -32422,14 +32422,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 823",
       "timestamp": 1787285368.5253167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 823",
-      "variation": true
-    },
+      "timestamp": 1787285564.219808
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 823",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6499,
-    "total_planned": 53,
+    "total_completed": 6500,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
