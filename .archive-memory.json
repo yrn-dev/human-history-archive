@@ -32627,14 +32627,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 642",
       "timestamp": 1787294682.151274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 821",
-      "variation": true
-    },
+      "timestamp": 1787294955.1765473
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 824",
@@ -32692,8 +32692,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6540,
-    "total_planned": 12,
+    "total_completed": 6541,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
