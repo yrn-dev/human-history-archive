@@ -33662,14 +33662,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 942",
       "timestamp": 1787342366.2085502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 851",
-      "variation": true
-    },
+      "timestamp": 1787342538.3199077
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 850",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6747,
-    "total_planned": 18,
+    "total_completed": 6748,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
