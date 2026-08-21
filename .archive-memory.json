@@ -33832,14 +33832,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 860",
       "timestamp": 1787350018.6015754
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787350222.7857687
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6781,
-    "total_planned": 55,
+    "total_completed": 6782,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
