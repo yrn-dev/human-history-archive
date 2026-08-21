@@ -32977,14 +32977,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 832",
       "timestamp": 1787310793.6199453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 833",
-      "variation": true
-    },
+      "timestamp": 1787311069.9094982
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 832",
@@ -33047,8 +33047,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6610,
-    "total_planned": 13,
+    "total_completed": 6611,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
