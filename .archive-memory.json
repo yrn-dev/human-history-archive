@@ -33457,14 +33457,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 850",
       "timestamp": 1787332845.7378316
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 850",
-      "variation": true
-    },
+      "timestamp": 1787333148.4513009
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 663",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6706,
-    "total_planned": 59,
+    "total_completed": 6707,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
