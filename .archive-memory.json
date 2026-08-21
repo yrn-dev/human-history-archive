@@ -33657,14 +33657,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 848",
       "timestamp": 1787342204.4500594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 942",
-      "variation": true
-    },
+      "timestamp": 1787342366.2085502
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 851",
@@ -33757,8 +33757,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6746,
-    "total_planned": 19,
+    "total_completed": 6747,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
