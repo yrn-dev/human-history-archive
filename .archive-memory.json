@@ -35342,14 +35342,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 895",
       "timestamp": 1787419249.3428104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787419449.6174278
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 698",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7083,
-    "total_planned": 37,
+    "total_completed": 7084,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
