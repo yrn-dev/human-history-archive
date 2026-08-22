@@ -34307,14 +34307,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 866",
       "timestamp": 1787371746.869578
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787372021.2179031
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 869",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6876,
-    "total_planned": 31,
+    "total_completed": 6877,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
