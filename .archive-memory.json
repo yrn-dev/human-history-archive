@@ -34547,14 +34547,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 877",
       "timestamp": 1787382195.5416965
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787382416.870054
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6924,
-    "total_planned": 54,
+    "total_completed": 6925,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
