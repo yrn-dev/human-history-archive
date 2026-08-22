@@ -35777,14 +35777,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 905",
       "timestamp": 1787438789.793135
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1002",
-      "variation": true
-    },
+      "timestamp": 1787439023.2179768
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1002",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7170,
-    "total_planned": 21,
+    "total_completed": 7171,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
