@@ -34457,18 +34457,17 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 866",
       "timestamp": 1787378283.2873769
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 962",
-      "variation": true
+      "timestamp": 1787378469.625269
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 6906,
-    "total_planned": 1,
+    "total_completed": 6907,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
