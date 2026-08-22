@@ -34247,14 +34247,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 869",
       "timestamp": 1787368984.9107792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787369335.9861252
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6864,
-    "total_planned": 43,
+    "total_completed": 6865,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
