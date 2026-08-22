@@ -34897,14 +34897,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 886",
       "timestamp": 1787398319.095911
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 691",
-      "variation": true
-    },
+      "timestamp": 1787398596.4553003
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 691",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6994,
-    "total_planned": 55,
+    "total_completed": 6995,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
