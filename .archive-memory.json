@@ -34517,14 +34517,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 972",
       "timestamp": 1787380785.484482
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 875",
-      "variation": true
-    },
+      "timestamp": 1787381091.7562256
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6918,
-    "total_planned": 60,
+    "total_completed": 6919,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
