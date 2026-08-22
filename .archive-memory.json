@@ -35117,14 +35117,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 886",
       "timestamp": 1787408426.7781322
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787408612.9663055
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7038,
-    "total_planned": 11,
+    "total_completed": 7039,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
