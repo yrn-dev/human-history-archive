@@ -35372,14 +35372,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 698",
       "timestamp": 1787420621.549027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787420762.297188
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7089,
-    "total_planned": 31,
+    "total_completed": 7090,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
