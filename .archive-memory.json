@@ -35567,14 +35567,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 902",
       "timestamp": 1787428706.9383578
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787428959.42496
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 705",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7128,
-    "total_planned": 63,
+    "total_completed": 7129,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
