@@ -35232,14 +35232,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 893",
       "timestamp": 1787414139.0855463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 896",
-      "variation": true
-    },
+      "timestamp": 1787414458.7678177
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7061,
-    "total_planned": 59,
+    "total_completed": 7062,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
