@@ -34507,14 +34507,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 877",
       "timestamp": 1787380354.3469362
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787380548.2550323
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 972",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6916,
-    "total_planned": 62,
+    "total_completed": 6917,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
