@@ -34337,14 +34337,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 866",
       "timestamp": 1787373155.8792522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 962",
-      "variation": true
-    },
+      "timestamp": 1787373429.3912742
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6882,
-    "total_planned": 25,
+    "total_completed": 6883,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
