@@ -35367,14 +35367,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 893",
       "timestamp": 1787420357.7964292
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787420621.549027
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 992",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7088,
-    "total_planned": 32,
+    "total_completed": 7089,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
