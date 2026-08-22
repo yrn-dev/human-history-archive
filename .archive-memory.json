@@ -35022,14 +35022,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 886",
       "timestamp": 1787404134.333137
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787404302.316042
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 691",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7019,
-    "total_planned": 30,
+    "total_completed": 7020,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
