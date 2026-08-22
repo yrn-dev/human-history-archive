@@ -34917,14 +34917,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 886",
       "timestamp": 1787399182.8328552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787399457.302044
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6998,
-    "total_planned": 51,
+    "total_completed": 6999,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
