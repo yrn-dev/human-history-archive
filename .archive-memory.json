@@ -34082,14 +34082,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 952",
       "timestamp": 1787361514.199257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787361722.0177155
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 860",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6831,
-    "total_planned": 5,
+    "total_completed": 6832,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
