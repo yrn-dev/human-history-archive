@@ -35722,14 +35722,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 705",
       "timestamp": 1787436032.6234431
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787436333.6089
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 905",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7159,
-    "total_planned": 32,
+    "total_completed": 7160,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
