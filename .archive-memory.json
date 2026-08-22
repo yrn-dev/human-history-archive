@@ -34762,14 +34762,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 972",
       "timestamp": 1787392313.6214156
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 972",
-      "variation": true
-    },
+      "timestamp": 1787392552.8127635
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6967,
-    "total_planned": 11,
+    "total_completed": 6968,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
