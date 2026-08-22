@@ -35097,14 +35097,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 886",
       "timestamp": 1787407427.6006477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787407630.1486907
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 982",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7034,
-    "total_planned": 15,
+    "total_completed": 7035,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
