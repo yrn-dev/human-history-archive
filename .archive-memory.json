@@ -35417,14 +35417,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 895",
       "timestamp": 1787422115.4946132
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787422338.5464118
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7098,
-    "total_planned": 22,
+    "total_completed": 7099,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
