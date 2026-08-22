@@ -34992,14 +34992,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 691",
       "timestamp": 1787402666.9675822
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787402933.2498672
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 887",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7013,
-    "total_planned": 36,
+    "total_completed": 7014,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
