@@ -34512,14 +34512,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 877",
       "timestamp": 1787380548.2550323
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 972",
-      "variation": true
-    },
+      "timestamp": 1787380785.484482
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6917,
-    "total_planned": 61,
+    "total_completed": 6918,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
