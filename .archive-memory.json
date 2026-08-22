@@ -34767,14 +34767,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 972",
       "timestamp": 1787392552.8127635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787392689.7384999
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6968,
-    "total_planned": 10,
+    "total_completed": 6969,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
