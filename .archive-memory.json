@@ -34977,14 +34977,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 982",
       "timestamp": 1787401976.78552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 982",
-      "variation": true
-    },
+      "timestamp": 1787402173.957226
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7010,
-    "total_planned": 39,
+    "total_completed": 7011,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
