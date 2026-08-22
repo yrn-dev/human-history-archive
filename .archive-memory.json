@@ -34392,14 +34392,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 677",
       "timestamp": 1787375549.6568198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787375837.065401
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6893,
-    "total_planned": 14,
+    "total_completed": 6894,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
