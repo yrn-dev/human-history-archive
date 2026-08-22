@@ -34492,14 +34492,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 972",
       "timestamp": 1787379682.2576442
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787379836.3718786
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6913,
-    "total_planned": 65,
+    "total_completed": 6914,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
