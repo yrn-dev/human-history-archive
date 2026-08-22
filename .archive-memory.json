@@ -35842,14 +35842,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 904",
       "timestamp": 1787441946.9888637
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787442132.318409
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1002",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7183,
-    "total_planned": 8,
+    "total_completed": 7184,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
