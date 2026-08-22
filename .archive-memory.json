@@ -34267,14 +34267,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 868",
       "timestamp": 1787369987.2077827
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787370243.5333529
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 962",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6868,
-    "total_planned": 39,
+    "total_completed": 6869,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
