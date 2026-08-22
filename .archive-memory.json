@@ -35247,14 +35247,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 893",
       "timestamp": 1787414950.8917055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787415209.8808184
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7064,
-    "total_planned": 56,
+    "total_completed": 7065,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
