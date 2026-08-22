@@ -35657,14 +35657,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1002",
       "timestamp": 1787433046.4985473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787433200.871607
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7146,
-    "total_planned": 45,
+    "total_completed": 7147,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
