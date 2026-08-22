@@ -34472,14 +34472,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 875",
       "timestamp": 1787378771.0953634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 972",
-      "variation": true
-    },
+      "timestamp": 1787379055.7245457
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 684",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6909,
-    "total_planned": 69,
+    "total_completed": 6910,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
