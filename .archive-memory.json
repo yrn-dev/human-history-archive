@@ -35732,14 +35732,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 905",
       "timestamp": 1787436622.6973257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 905",
-      "variation": true
-    },
+      "timestamp": 1787436802.772889
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 705",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7161,
-    "total_planned": 30,
+    "total_completed": 7162,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
