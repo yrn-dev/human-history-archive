@@ -34532,14 +34532,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 875",
       "timestamp": 1787381553.1438663
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 972",
-      "variation": true
-    },
+      "timestamp": 1787381805.7585554
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 878",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6921,
-    "total_planned": 57,
+    "total_completed": 6922,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
