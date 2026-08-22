@@ -35487,14 +35487,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 895",
       "timestamp": 1787424924.8031862
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 896",
-      "variation": true
-    },
+      "timestamp": 1787425233.9713237
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7112,
-    "total_planned": 8,
+    "total_completed": 7113,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
