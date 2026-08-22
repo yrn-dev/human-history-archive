@@ -34367,14 +34367,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 677",
       "timestamp": 1787374495.221754
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787374688.5043514
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6888,
-    "total_planned": 19,
+    "total_completed": 6889,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
