@@ -35667,14 +35667,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 902",
       "timestamp": 1787433354.2547224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787433513.2503011
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7148,
-    "total_planned": 43,
+    "total_completed": 7149,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
