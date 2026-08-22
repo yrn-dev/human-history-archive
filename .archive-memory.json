@@ -34857,14 +34857,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 982",
       "timestamp": 1787396496.7811415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 982",
-      "variation": true
-    },
+      "timestamp": 1787396650.1935413
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6986,
-    "total_planned": 63,
+    "total_completed": 6987,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
