@@ -34927,14 +34927,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 884",
       "timestamp": 1787399760.3171668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787399905.4921498
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7000,
-    "total_planned": 49,
+    "total_completed": 7001,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
