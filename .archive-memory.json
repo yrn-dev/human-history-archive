@@ -35532,14 +35532,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 904",
       "timestamp": 1787427056.6147158
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787427345.064779
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1002",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7121,
-    "total_planned": 70,
+    "total_completed": 7122,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
