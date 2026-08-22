@@ -34097,14 +34097,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 859",
       "timestamp": 1787362073.9014986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787362287.5472977
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 859",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6834,
-    "total_planned": 2,
+    "total_completed": 6835,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
