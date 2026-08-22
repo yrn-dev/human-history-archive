@@ -35212,14 +35212,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 895",
       "timestamp": 1787413124.0316505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787413397.6466415
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 896",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7057,
-    "total_planned": 63,
+    "total_completed": 7058,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
