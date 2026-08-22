@@ -35557,14 +35557,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 902",
       "timestamp": 1787428286.482977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 705",
-      "variation": true
-    },
+      "timestamp": 1787428458.8030138
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7126,
-    "total_planned": 65,
+    "total_completed": 7127,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
