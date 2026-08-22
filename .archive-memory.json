@@ -34197,14 +34197,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 868",
       "timestamp": 1787366676.7016232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787366959.5689116
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6854,
-    "total_planned": 53,
+    "total_completed": 6855,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
