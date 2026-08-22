@@ -35822,14 +35822,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 905",
       "timestamp": 1787440924.8859773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787441221.954686
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7179,
-    "total_planned": 12,
+    "total_completed": 7180,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
