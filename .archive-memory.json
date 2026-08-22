@@ -35042,14 +35042,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 886",
       "timestamp": 1787404940.4111254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787405165.1073236
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 691",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7023,
-    "total_planned": 26,
+    "total_completed": 7024,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
