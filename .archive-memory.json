@@ -35442,14 +35442,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 895",
       "timestamp": 1787423093.2771084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 896",
-      "variation": true
-    },
+      "timestamp": 1787423279.4104223
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7103,
-    "total_planned": 17,
+    "total_completed": 7104,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
