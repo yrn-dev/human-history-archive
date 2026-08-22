@@ -35312,14 +35312,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 698",
       "timestamp": 1787417805.4472406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787418094.3281643
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7077,
-    "total_planned": 43,
+    "total_completed": 7078,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
