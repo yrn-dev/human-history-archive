@@ -35542,14 +35542,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1002",
       "timestamp": 1787427608.4621744
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787427781.7740023
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7123,
-    "total_planned": 68,
+    "total_completed": 7124,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
