@@ -34502,14 +34502,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 875",
       "timestamp": 1787380147.8717787
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787380354.3469362
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6915,
-    "total_planned": 63,
+    "total_completed": 6916,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
