@@ -34332,14 +34332,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 868",
       "timestamp": 1787373000.3514144
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787373155.8792522
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 962",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6881,
-    "total_planned": 26,
+    "total_completed": 6882,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
