@@ -35017,14 +35017,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 886",
       "timestamp": 1787403986.8577108
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787404134.333137
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 887",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7018,
-    "total_planned": 31,
+    "total_completed": 7019,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
