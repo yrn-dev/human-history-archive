@@ -34407,14 +34407,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 868",
       "timestamp": 1787376278.4298487
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787376512.9668279
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6896,
-    "total_planned": 11,
+    "total_completed": 6897,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
