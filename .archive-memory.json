@@ -35347,14 +35347,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 895",
       "timestamp": 1787419449.6174278
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787419654.6545012
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 698",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7084,
-    "total_planned": 36,
+    "total_completed": 7085,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
