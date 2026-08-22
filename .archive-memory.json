@@ -33987,14 +33987,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 859",
       "timestamp": 1787356823.8719451
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787357128.869829
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 952",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6812,
-    "total_planned": 24,
+    "total_completed": 6813,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
