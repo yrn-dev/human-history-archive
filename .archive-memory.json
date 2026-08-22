@@ -34632,14 +34632,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 878",
       "timestamp": 1787386245.0941818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787386506.2818477
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6941,
-    "total_planned": 37,
+    "total_completed": 6942,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
