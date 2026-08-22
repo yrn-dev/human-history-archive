@@ -34032,14 +34032,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 859",
       "timestamp": 1787359191.722997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787359416.8647614
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 857",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6821,
-    "total_planned": 15,
+    "total_completed": 6822,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
