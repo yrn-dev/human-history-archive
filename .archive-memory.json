@@ -34982,14 +34982,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 982",
       "timestamp": 1787402173.957226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787402464.815694
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 691",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7011,
-    "total_planned": 38,
+    "total_completed": 7012,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
