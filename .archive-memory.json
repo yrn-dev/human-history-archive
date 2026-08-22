@@ -34907,14 +34907,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 691",
       "timestamp": 1787398753.4108746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 982",
-      "variation": true
-    },
+      "timestamp": 1787398922.395975
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6996,
-    "total_planned": 53,
+    "total_completed": 6997,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
