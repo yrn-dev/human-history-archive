@@ -35462,14 +35462,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 992",
       "timestamp": 1787423913.1492436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787424091.757902
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 896",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7107,
-    "total_planned": 13,
+    "total_completed": 7108,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
