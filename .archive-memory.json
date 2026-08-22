@@ -34112,14 +34112,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 866",
       "timestamp": 1787362750.8039408
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787362990.7870505
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6837,
-    "total_planned": 70,
+    "total_completed": 6838,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
