@@ -35747,14 +35747,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 905",
       "timestamp": 1787437350.1197264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787437570.4362597
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 905",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7164,
-    "total_planned": 27,
+    "total_completed": 7165,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
