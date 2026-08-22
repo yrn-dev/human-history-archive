@@ -35292,14 +35292,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 992",
       "timestamp": 1787417019.9723966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787417205.666359
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7073,
-    "total_planned": 47,
+    "total_completed": 7074,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
