@@ -34487,14 +34487,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 877",
       "timestamp": 1787379485.8667722
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 972",
-      "variation": true
-    },
+      "timestamp": 1787379682.2576442
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6912,
-    "total_planned": 66,
+    "total_completed": 6913,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
