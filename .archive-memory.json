@@ -35397,14 +35397,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 893",
       "timestamp": 1787421379.5974746
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787421540.724999
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7094,
-    "total_planned": 26,
+    "total_completed": 7095,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
