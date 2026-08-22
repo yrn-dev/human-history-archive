@@ -35562,14 +35562,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 705",
       "timestamp": 1787428458.8030138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787428706.9383578
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7127,
-    "total_planned": 64,
+    "total_completed": 7128,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
