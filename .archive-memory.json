@@ -35187,14 +35187,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 992",
       "timestamp": 1787411764.6341858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787412070.359999
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7052,
-    "total_planned": 68,
+    "total_completed": 7053,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
