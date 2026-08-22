@@ -34372,14 +34372,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 866",
       "timestamp": 1787374688.5043514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787374933.9049666
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 869",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6889,
-    "total_planned": 18,
+    "total_completed": 6890,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
