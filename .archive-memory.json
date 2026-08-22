@@ -35537,14 +35537,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 902",
       "timestamp": 1787427345.064779
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1002",
-      "variation": true
-    },
+      "timestamp": 1787427608.4621744
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7122,
-    "total_planned": 69,
+    "total_completed": 7123,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
