@@ -35337,14 +35337,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 992",
       "timestamp": 1787419021.493793
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787419249.3428104
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7082,
-    "total_planned": 38,
+    "total_completed": 7083,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
