@@ -35427,14 +35427,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 895",
       "timestamp": 1787422525.6784768
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787422792.8926525
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7100,
-    "total_planned": 20,
+    "total_completed": 7101,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
