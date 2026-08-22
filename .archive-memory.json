@@ -34442,14 +34442,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 868",
       "timestamp": 1787377848.733653
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787377902.0399058
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 869",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6903,
-    "total_planned": 4,
+    "total_completed": 6904,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
