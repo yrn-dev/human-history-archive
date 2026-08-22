@@ -34302,14 +34302,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 869",
       "timestamp": 1787371476.9829535
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787371746.869578
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6875,
-    "total_planned": 32,
+    "total_completed": 6876,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
