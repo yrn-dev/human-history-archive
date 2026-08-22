@@ -35332,14 +35332,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 895",
       "timestamp": 1787418723.8241415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787419021.493793
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7081,
-    "total_planned": 39,
+    "total_completed": 7082,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
