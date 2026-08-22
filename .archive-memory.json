@@ -35162,14 +35162,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 886",
       "timestamp": 1787410425.0442412
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787410726.1431458
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7047,
-    "total_planned": 2,
+    "total_completed": 7048,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
