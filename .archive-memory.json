@@ -34832,14 +34832,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 887",
       "timestamp": 1787395293.5924118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787395592.4943826
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6981,
-    "total_planned": 68,
+    "total_completed": 6982,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
