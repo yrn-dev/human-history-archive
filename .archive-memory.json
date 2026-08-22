@@ -34557,14 +34557,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 875",
       "timestamp": 1787382676.8491743
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 878",
-      "variation": true
-    },
+      "timestamp": 1787382917.3057654
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6926,
-    "total_planned": 52,
+    "total_completed": 6927,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
