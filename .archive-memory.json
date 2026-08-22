@@ -35112,14 +35112,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 886",
       "timestamp": 1787408240.2589405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787408426.7781322
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7037,
-    "total_planned": 12,
+    "total_completed": 7038,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
