@@ -35242,14 +35242,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 893",
       "timestamp": 1787414645.7640905
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787414950.8917055
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7063,
-    "total_planned": 57,
+    "total_completed": 7064,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
