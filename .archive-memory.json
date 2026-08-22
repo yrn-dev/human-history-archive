@@ -34257,14 +34257,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 866",
       "timestamp": 1787369552.8255258
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787369699.7296202
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6866,
-    "total_planned": 41,
+    "total_completed": 6867,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
