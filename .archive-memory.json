@@ -35547,14 +35547,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 904",
       "timestamp": 1787427781.7740023
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787428044.2599854
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7124,
-    "total_planned": 67,
+    "total_completed": 7125,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
