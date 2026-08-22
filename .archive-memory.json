@@ -34417,14 +34417,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 868",
       "timestamp": 1787376704.9006124
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787376887.993014
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6898,
-    "total_planned": 9,
+    "total_completed": 6899,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
