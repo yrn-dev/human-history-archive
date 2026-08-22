@@ -34117,14 +34117,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 868",
       "timestamp": 1787362990.7870505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787363217.5856295
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6838,
-    "total_planned": 69,
+    "total_completed": 6839,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
