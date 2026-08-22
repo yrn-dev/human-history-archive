@@ -34192,14 +34192,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 868",
       "timestamp": 1787366416.949876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787366676.7016232
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6853,
-    "total_planned": 54,
+    "total_completed": 6854,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
