@@ -35832,14 +35832,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 904",
       "timestamp": 1787441495.0911748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1002",
-      "variation": true
-    },
+      "timestamp": 1787441791.2793536
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7181,
-    "total_planned": 10,
+    "total_completed": 7182,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
