@@ -34147,14 +34147,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 868",
       "timestamp": 1787364335.4304643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787364521.1657205
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 869",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6844,
-    "total_planned": 63,
+    "total_completed": 6845,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
