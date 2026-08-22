@@ -35137,14 +35137,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 886",
       "timestamp": 1787409370.319024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787409563.3484793
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7042,
-    "total_planned": 7,
+    "total_completed": 7043,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
