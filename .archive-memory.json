@@ -35622,14 +35622,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 904",
       "timestamp": 1787431315.8110332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787431525.3571532
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7139,
-    "total_planned": 52,
+    "total_completed": 7140,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
