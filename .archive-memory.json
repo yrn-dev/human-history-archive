@@ -34602,14 +34602,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 878",
       "timestamp": 1787384795.322847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 875",
-      "variation": true
-    },
+      "timestamp": 1787385049.0680625
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6935,
-    "total_planned": 43,
+    "total_completed": 6936,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
