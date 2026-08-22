@@ -34642,14 +34642,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 875",
       "timestamp": 1787386678.508856
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787386903.1049004
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6943,
-    "total_planned": 35,
+    "total_completed": 6944,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
