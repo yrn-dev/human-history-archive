@@ -34177,14 +34177,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 868",
       "timestamp": 1787365753.580873
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787365939.2370045
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6850,
-    "total_planned": 57,
+    "total_completed": 6851,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
