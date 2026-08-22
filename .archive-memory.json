@@ -35297,14 +35297,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 992",
       "timestamp": 1787417205.666359
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787417402.484912
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7074,
-    "total_planned": 46,
+    "total_completed": 7075,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
