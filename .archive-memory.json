@@ -35837,14 +35837,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1002",
       "timestamp": 1787441791.2793536
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787441946.9888637
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7182,
-    "total_planned": 9,
+    "total_completed": 7183,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
