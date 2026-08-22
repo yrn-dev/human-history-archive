@@ -34732,14 +34732,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 877",
       "timestamp": 1787390882.2476223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 878",
-      "variation": true
-    },
+      "timestamp": 1787391036.7480104
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 684",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6961,
-    "total_planned": 17,
+    "total_completed": 6962,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
