@@ -35597,14 +35597,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 904",
       "timestamp": 1787430214.0072632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787430458.7715962
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7134,
-    "total_planned": 57,
+    "total_completed": 7135,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
