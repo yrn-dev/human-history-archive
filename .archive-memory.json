@@ -35222,14 +35222,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 896",
       "timestamp": 1787413655.9959257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787413939.8238857
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7059,
-    "total_planned": 61,
+    "total_completed": 7060,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
