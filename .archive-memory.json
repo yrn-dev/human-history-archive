@@ -35587,14 +35587,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1002",
       "timestamp": 1787429606.3554506
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787429902.8059886
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7132,
-    "total_planned": 59,
+    "total_completed": 7133,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
