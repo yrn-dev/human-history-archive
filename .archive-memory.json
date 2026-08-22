@@ -34652,14 +34652,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 875",
       "timestamp": 1787387135.3545399
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 875",
-      "variation": true
-    },
+      "timestamp": 1787387407.915403
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 684",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6945,
-    "total_planned": 33,
+    "total_completed": 6946,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
