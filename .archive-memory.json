@@ -35057,14 +35057,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 887",
       "timestamp": 1787405647.261558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787405795.4297123
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7026,
-    "total_planned": 23,
+    "total_completed": 7027,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
