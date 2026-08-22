@@ -34932,14 +34932,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 886",
       "timestamp": 1787399905.4921498
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787400086.2424648
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7001,
-    "total_planned": 48,
+    "total_completed": 7002,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
