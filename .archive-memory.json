@@ -34957,14 +34957,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 886",
       "timestamp": 1787400922.08662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787401208.6122222
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7006,
-    "total_planned": 43,
+    "total_completed": 7007,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
