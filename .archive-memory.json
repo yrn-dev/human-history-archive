@@ -35072,14 +35072,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 886",
       "timestamp": 1787406230.2604232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787406480.859184
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 982",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7029,
-    "total_planned": 20,
+    "total_completed": 7030,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
