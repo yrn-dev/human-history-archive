@@ -35797,14 +35797,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 904",
       "timestamp": 1787439791.677717
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787440010.87227
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 705",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7174,
-    "total_planned": 17,
+    "total_completed": 7175,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
