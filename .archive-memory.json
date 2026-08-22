@@ -34942,14 +34942,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 886",
       "timestamp": 1787400261.3993828
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787400477.0212336
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 887",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7003,
-    "total_planned": 46,
+    "total_completed": 7004,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
