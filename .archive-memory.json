@@ -35107,14 +35107,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 982",
       "timestamp": 1787407944.7958586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787408240.2589405
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7036,
-    "total_planned": 13,
+    "total_completed": 7037,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
