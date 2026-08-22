@@ -34797,14 +34797,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 877",
       "timestamp": 1787393842.1658971
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 875",
-      "variation": true
-    },
+      "timestamp": 1787394107.953239
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 972",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6974,
-    "total_planned": 4,
+    "total_completed": 6975,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
