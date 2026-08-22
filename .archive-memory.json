@@ -34062,14 +34062,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 859",
       "timestamp": 1787360668.7735415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787360888.8803034
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 952",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6827,
-    "total_planned": 9,
+    "total_completed": 6828,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
