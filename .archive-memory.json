@@ -34217,14 +34217,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 866",
       "timestamp": 1787367623.0643215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787367799.389114
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6858,
-    "total_planned": 49,
+    "total_completed": 6859,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
