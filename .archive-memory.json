@@ -34802,14 +34802,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 875",
       "timestamp": 1787394107.953239
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 972",
-      "variation": true
-    },
+      "timestamp": 1787394251.8263843
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6975,
-    "total_planned": 3,
+    "total_completed": 6976,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
