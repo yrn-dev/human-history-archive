@@ -35392,14 +35392,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 895",
       "timestamp": 1787421235.3796072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787421379.5974746
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7093,
-    "total_planned": 27,
+    "total_completed": 7094,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
