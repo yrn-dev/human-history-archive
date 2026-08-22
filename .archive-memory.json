@@ -34387,14 +34387,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 962",
       "timestamp": 1787375388.0002372
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787375549.6568198
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6892,
-    "total_planned": 15,
+    "total_completed": 6893,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
