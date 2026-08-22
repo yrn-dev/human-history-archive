@@ -34692,14 +34692,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 875",
       "timestamp": 1787389047.582586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 878",
-      "variation": true
-    },
+      "timestamp": 1787389355.0823846
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6953,
-    "total_planned": 25,
+    "total_completed": 6954,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
