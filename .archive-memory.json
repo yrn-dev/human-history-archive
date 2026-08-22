@@ -34902,14 +34902,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 691",
       "timestamp": 1787398596.4553003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 691",
-      "variation": true
-    },
+      "timestamp": 1787398753.4108746
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 982",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6995,
-    "total_planned": 54,
+    "total_completed": 6996,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
