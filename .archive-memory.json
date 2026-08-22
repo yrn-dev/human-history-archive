@@ -35322,14 +35322,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 893",
       "timestamp": 1787418368.2047954
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787418524.046846
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7079,
-    "total_planned": 41,
+    "total_completed": 7080,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
