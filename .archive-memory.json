@@ -34277,14 +34277,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 962",
       "timestamp": 1787370431.876852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 962",
-      "variation": true
-    },
+      "timestamp": 1787370586.506954
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 869",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6870,
-    "total_planned": 37,
+    "total_completed": 6871,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
