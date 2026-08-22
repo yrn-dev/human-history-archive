@@ -34072,14 +34072,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 952",
       "timestamp": 1787361039.5927773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 952",
-      "variation": true
-    },
+      "timestamp": 1787361229.9255872
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 952",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6829,
-    "total_planned": 7,
+    "total_completed": 6830,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
