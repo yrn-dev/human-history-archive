@@ -35412,14 +35412,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 895",
       "timestamp": 1787421916.6741698
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787422115.4946132
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7097,
-    "total_planned": 23,
+    "total_completed": 7098,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
