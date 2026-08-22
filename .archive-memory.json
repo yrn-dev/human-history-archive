@@ -34892,14 +34892,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 884",
       "timestamp": 1787398050.8388586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787398319.095911
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 691",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6993,
-    "total_planned": 56,
+    "total_completed": 6994,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
