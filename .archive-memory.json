@@ -35492,14 +35492,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 896",
       "timestamp": 1787425233.9713237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787425435.0984669
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7113,
-    "total_planned": 7,
+    "total_completed": 7114,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
