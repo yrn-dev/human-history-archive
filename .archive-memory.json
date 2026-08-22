@@ -35047,14 +35047,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 884",
       "timestamp": 1787405165.1073236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 691",
-      "variation": true
-    },
+      "timestamp": 1787405366.6864357
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 887",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7024,
-    "total_planned": 25,
+    "total_completed": 7025,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
