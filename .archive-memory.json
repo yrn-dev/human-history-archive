@@ -34167,14 +34167,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 962",
       "timestamp": 1787365290.3991785
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787365556.7483938
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6848,
-    "total_planned": 59,
+    "total_completed": 6849,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
