@@ -35677,14 +35677,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 904",
       "timestamp": 1787433720.5625312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 905",
-      "variation": true
-    },
+      "timestamp": 1787433915.6001937
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1002",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7150,
-    "total_planned": 41,
+    "total_completed": 7151,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
