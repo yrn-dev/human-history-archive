@@ -34937,14 +34937,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 884",
       "timestamp": 1787400086.2424648
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787400261.3993828
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 887",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7002,
-    "total_planned": 47,
+    "total_completed": 7003,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
