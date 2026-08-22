@@ -34157,14 +34157,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 869",
       "timestamp": 1787364833.539987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787365104.3954148
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 962",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6846,
-    "total_planned": 61,
+    "total_completed": 6847,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
