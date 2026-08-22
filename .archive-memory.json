@@ -35277,14 +35277,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 895",
       "timestamp": 1787416460.8004048
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 896",
-      "variation": true
-    },
+      "timestamp": 1787416640.6801503
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7070,
-    "total_planned": 50,
+    "total_completed": 7071,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
