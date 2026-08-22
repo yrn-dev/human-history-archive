@@ -34437,14 +34437,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 868",
       "timestamp": 1787377706.4776652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787377848.733653
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 677",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6902,
-    "total_planned": 5,
+    "total_completed": 6903,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
