@@ -35852,14 +35852,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1002",
       "timestamp": 1787442416.7077026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787442647.1060224
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7185,
-    "total_planned": 6,
+    "total_completed": 7186,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
