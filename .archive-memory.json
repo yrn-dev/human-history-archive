@@ -35812,14 +35812,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 902",
       "timestamp": 1787440496.497019
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1002",
-      "variation": true
-    },
+      "timestamp": 1787440782.682257
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 905",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7177,
-    "total_planned": 14,
+    "total_completed": 7178,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
