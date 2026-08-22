@@ -35252,14 +35252,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 893",
       "timestamp": 1787415209.8808184
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787415463.4921505
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 896",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7065,
-    "total_planned": 55,
+    "total_completed": 7066,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
