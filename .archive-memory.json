@@ -35742,14 +35742,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 705",
       "timestamp": 1787437088.6148953
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 905",
-      "variation": true
-    },
+      "timestamp": 1787437350.1197264
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7163,
-    "total_planned": 28,
+    "total_completed": 7164,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
