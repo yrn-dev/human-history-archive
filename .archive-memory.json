@@ -35267,14 +35267,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 896",
       "timestamp": 1787415988.5736284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787416272.1350641
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7068,
-    "total_planned": 52,
+    "total_completed": 7069,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
