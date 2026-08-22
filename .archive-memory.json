@@ -34042,14 +34042,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 857",
       "timestamp": 1787359628.5106032
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 952",
-      "variation": true
-    },
+      "timestamp": 1787359825.7178333
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 952",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6823,
-    "total_planned": 13,
+    "total_completed": 6824,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
