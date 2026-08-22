@@ -35352,14 +35352,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 698",
       "timestamp": 1787419654.6545012
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787419895.795006
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 698",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7085,
-    "total_planned": 35,
+    "total_completed": 7086,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
