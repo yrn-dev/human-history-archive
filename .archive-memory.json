@@ -35787,14 +35787,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1002",
       "timestamp": 1787439227.2549443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787439516.7670426
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7172,
-    "total_planned": 19,
+    "total_completed": 7173,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
