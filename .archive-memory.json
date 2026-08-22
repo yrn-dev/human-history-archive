@@ -34212,14 +34212,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 677",
       "timestamp": 1787367380.1062796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787367623.0643215
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6857,
-    "total_planned": 50,
+    "total_completed": 6858,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
