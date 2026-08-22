@@ -35052,14 +35052,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 691",
       "timestamp": 1787405366.6864357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787405647.261558
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 887",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7025,
-    "total_planned": 24,
+    "total_completed": 7026,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
