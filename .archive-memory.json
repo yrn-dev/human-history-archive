@@ -34207,14 +34207,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 866",
       "timestamp": 1787367104.2550595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787367380.1062796
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6856,
-    "total_planned": 51,
+    "total_completed": 6857,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
