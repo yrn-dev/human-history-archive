@@ -34172,14 +34172,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 866",
       "timestamp": 1787365556.7483938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787365753.580873
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6849,
-    "total_planned": 58,
+    "total_completed": 6850,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
