@@ -35327,14 +35327,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 893",
       "timestamp": 1787418524.046846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787418723.8241415
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 992",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7080,
-    "total_planned": 40,
+    "total_completed": 7081,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
