@@ -34737,14 +34737,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 878",
       "timestamp": 1787391036.7480104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 684",
-      "variation": true
-    },
+      "timestamp": 1787391320.5980594
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6962,
-    "total_planned": 16,
+    "total_completed": 6963,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
