@@ -34662,14 +34662,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 684",
       "timestamp": 1787387578.0506434
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787387771.9425654
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6947,
-    "total_planned": 31,
+    "total_completed": 6948,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
