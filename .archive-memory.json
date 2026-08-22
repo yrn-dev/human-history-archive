@@ -34622,14 +34622,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 877",
       "timestamp": 1787385820.246937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 684",
-      "variation": true
-    },
+      "timestamp": 1787386081.7975209
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 878",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6939,
-    "total_planned": 39,
+    "total_completed": 6940,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
