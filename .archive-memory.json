@@ -34357,14 +34357,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 677",
       "timestamp": 1787374137.3436017
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 962",
-      "variation": true
-    },
+      "timestamp": 1787374343.826014
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 677",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6886,
-    "total_planned": 21,
+    "total_completed": 6887,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
