@@ -34187,14 +34187,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 868",
       "timestamp": 1787366104.0614653
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787366416.949876
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6852,
-    "total_planned": 55,
+    "total_completed": 6853,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
