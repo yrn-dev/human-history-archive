@@ -35002,14 +35002,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 887",
       "timestamp": 1787403195.025203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 982",
-      "variation": true
-    },
+      "timestamp": 1787403432.3512983
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7015,
-    "total_planned": 34,
+    "total_completed": 7016,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
