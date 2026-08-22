@@ -35637,14 +35637,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 904",
       "timestamp": 1787432088.0759983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787432268.882433
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1002",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7142,
-    "total_planned": 49,
+    "total_completed": 7143,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
