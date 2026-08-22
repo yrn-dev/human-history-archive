@@ -34322,14 +34322,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 962",
       "timestamp": 1787372511.7967727
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787372824.9316204
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6879,
-    "total_planned": 28,
+    "total_completed": 6880,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
