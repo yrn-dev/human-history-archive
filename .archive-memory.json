@@ -35447,14 +35447,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 896",
       "timestamp": 1787423279.4104223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787423534.429799
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7104,
-    "total_planned": 16,
+    "total_completed": 7105,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
