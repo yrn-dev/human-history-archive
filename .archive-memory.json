@@ -34347,14 +34347,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 868",
       "timestamp": 1787373626.0900714
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787373935.260644
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 677",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6884,
-    "total_planned": 23,
+    "total_completed": 6885,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
