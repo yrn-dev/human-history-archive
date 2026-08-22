@@ -35642,14 +35642,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 902",
       "timestamp": 1787432268.882433
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1002",
-      "variation": true
-    },
+      "timestamp": 1787432480.0538547
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7143,
-    "total_planned": 48,
+    "total_completed": 7144,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
