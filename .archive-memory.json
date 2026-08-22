@@ -35152,14 +35152,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 884",
       "timestamp": 1787410035.5716956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787410285.377724
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7045,
-    "total_planned": 4,
+    "total_completed": 7046,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
