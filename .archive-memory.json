@@ -34727,14 +34727,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 875",
       "timestamp": 1787390579.3229055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787390882.2476223
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 878",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6960,
-    "total_planned": 18,
+    "total_completed": 6961,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
