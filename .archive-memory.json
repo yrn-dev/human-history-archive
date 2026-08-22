@@ -35217,14 +35217,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 698",
       "timestamp": 1787413397.6466415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 896",
-      "variation": true
-    },
+      "timestamp": 1787413655.9959257
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7058,
-    "total_planned": 62,
+    "total_completed": 7059,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
