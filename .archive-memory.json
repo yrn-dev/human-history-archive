@@ -35612,14 +35612,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 904",
       "timestamp": 1787430854.4215322
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 705",
-      "variation": true
-    },
+      "timestamp": 1787431117.3811376
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7137,
-    "total_planned": 54,
+    "total_completed": 7138,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
