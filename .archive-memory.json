@@ -34627,14 +34627,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 684",
       "timestamp": 1787386081.7975209
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 878",
-      "variation": true
-    },
+      "timestamp": 1787386245.0941818
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6940,
-    "total_planned": 38,
+    "total_completed": 6941,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
