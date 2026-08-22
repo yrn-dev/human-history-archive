@@ -34637,14 +34637,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 877",
       "timestamp": 1787386506.2818477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 875",
-      "variation": true
-    },
+      "timestamp": 1787386678.508856
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6942,
-    "total_planned": 36,
+    "total_completed": 6943,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
