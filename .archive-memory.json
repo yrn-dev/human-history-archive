@@ -34567,14 +34567,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 877",
       "timestamp": 1787383195.2772987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 972",
-      "variation": true
-    },
+      "timestamp": 1787383336.0542252
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6928,
-    "total_planned": 50,
+    "total_completed": 6929,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
