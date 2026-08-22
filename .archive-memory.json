@@ -34747,14 +34747,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 877",
       "timestamp": 1787391598.6712248
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 684",
-      "variation": true
-    },
+      "timestamp": 1787391882.6505127
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 684",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6964,
-    "total_planned": 14,
+    "total_completed": 6965,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
