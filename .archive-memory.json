@@ -35577,14 +35577,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 705",
       "timestamp": 1787429190.4756718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787429414.60933
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1002",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7130,
-    "total_planned": 61,
+    "total_completed": 7131,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
