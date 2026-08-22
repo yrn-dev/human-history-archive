@@ -34607,14 +34607,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 875",
       "timestamp": 1787385049.0680625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 875",
-      "variation": true
-    },
+      "timestamp": 1787385292.3985074
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 878",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6936,
-    "total_planned": 42,
+    "total_completed": 6937,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
