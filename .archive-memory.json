@@ -35227,14 +35227,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 895",
       "timestamp": 1787413939.8238857
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787414139.0855463
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 896",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7060,
-    "total_planned": 60,
+    "total_completed": 7061,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
