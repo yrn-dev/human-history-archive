@@ -34262,14 +34262,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 868",
       "timestamp": 1787369699.7296202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787369987.2077827
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 677",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6867,
-    "total_planned": 40,
+    "total_completed": 6868,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
