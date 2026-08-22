@@ -35087,14 +35087,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 884",
       "timestamp": 1787406928.7092755
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 691",
-      "variation": true
-    },
+      "timestamp": 1787407146.4044063
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7032,
-    "total_planned": 17,
+    "total_completed": 7033,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
