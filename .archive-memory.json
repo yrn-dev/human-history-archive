@@ -34202,14 +34202,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 866",
       "timestamp": 1787366959.5689116
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787367104.2550595
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 677",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6855,
-    "total_planned": 52,
+    "total_completed": 6856,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
