@@ -35847,14 +35847,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 904",
       "timestamp": 1787442132.318409
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1002",
-      "variation": true
-    },
+      "timestamp": 1787442416.7077026
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7184,
-    "total_planned": 7,
+    "total_completed": 7185,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
