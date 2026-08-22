@@ -34412,14 +34412,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 868",
       "timestamp": 1787376512.9668279
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787376704.9006124
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 677",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6897,
-    "total_planned": 10,
+    "total_completed": 6898,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
