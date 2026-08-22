@@ -35632,14 +35632,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 904",
       "timestamp": 1787431779.6754606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787432088.0759983
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7141,
-    "total_planned": 50,
+    "total_completed": 7142,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
