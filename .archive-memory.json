@@ -35317,14 +35317,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 893",
       "timestamp": 1787418094.3281643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787418368.2047954
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7078,
-    "total_planned": 42,
+    "total_completed": 7079,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
