@@ -34467,14 +34467,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 684",
       "timestamp": 1787378606.6131277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 875",
-      "variation": true
-    },
+      "timestamp": 1787378771.0953634
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 972",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6908,
-    "total_planned": 70,
+    "total_completed": 6909,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
