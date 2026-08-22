@@ -34362,14 +34362,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 962",
       "timestamp": 1787374343.826014
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 677",
-      "variation": true
-    },
+      "timestamp": 1787374495.221754
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6887,
-    "total_planned": 20,
+    "total_completed": 6888,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
