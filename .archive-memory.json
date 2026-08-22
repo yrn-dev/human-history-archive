@@ -35522,18 +35522,17 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 895",
       "timestamp": 1787426597.5457733
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 896",
-      "variation": true
+      "timestamp": 1787426754.0536802
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7119,
-    "total_planned": 1,
+    "total_completed": 7120,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
