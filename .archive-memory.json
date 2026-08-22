@@ -34007,14 +34007,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 857",
       "timestamp": 1787357857.2431252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 670",
-      "variation": true
-    },
+      "timestamp": 1787358075.8574774
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 857",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6816,
-    "total_planned": 20,
+    "total_completed": 6817,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
