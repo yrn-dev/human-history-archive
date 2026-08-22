@@ -35027,14 +35027,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 887",
       "timestamp": 1787404302.316042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 691",
-      "variation": true
-    },
+      "timestamp": 1787404485.1552453
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7020,
-    "total_planned": 29,
+    "total_completed": 7021,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
