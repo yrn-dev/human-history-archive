@@ -34792,14 +34792,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 877",
       "timestamp": 1787393600.3578978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787393842.1658971
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6973,
-    "total_planned": 5,
+    "total_completed": 6974,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
