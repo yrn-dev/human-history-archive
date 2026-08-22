@@ -34327,14 +34327,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 868",
       "timestamp": 1787372824.9316204
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787373000.3514144
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6880,
-    "total_planned": 27,
+    "total_completed": 6881,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
