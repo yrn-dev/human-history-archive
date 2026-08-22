@@ -34452,14 +34452,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 869",
       "timestamp": 1787378044.0737398
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787378283.2873769
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 962",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6905,
-    "total_planned": 2,
+    "total_completed": 6906,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
