@@ -35857,14 +35857,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 902",
       "timestamp": 1787442647.1060224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787442964.1901622
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 905",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7186,
-    "total_planned": 5,
+    "total_completed": 7187,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
