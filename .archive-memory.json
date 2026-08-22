@@ -34542,14 +34542,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 878",
       "timestamp": 1787381978.7264104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787382195.5416965
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6923,
-    "total_planned": 55,
+    "total_completed": 6924,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
