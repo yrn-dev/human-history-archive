@@ -34562,14 +34562,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 878",
       "timestamp": 1787382917.3057654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787383195.2772987
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 972",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6927,
-    "total_planned": 51,
+    "total_completed": 6928,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
