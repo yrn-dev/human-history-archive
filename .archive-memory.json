@@ -34127,14 +34127,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 868",
       "timestamp": 1787363419.0016904
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787363662.2973294
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6840,
-    "total_planned": 67,
+    "total_completed": 6841,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
