@@ -34137,14 +34137,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 868",
       "timestamp": 1787363822.837301
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787364060.1275773
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6842,
-    "total_planned": 65,
+    "total_completed": 6843,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
