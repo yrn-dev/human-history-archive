@@ -34617,14 +34617,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 878",
       "timestamp": 1787385499.508849
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787385820.246937
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 684",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6938,
-    "total_planned": 40,
+    "total_completed": 6939,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
