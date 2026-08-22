@@ -34717,14 +34717,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 877",
       "timestamp": 1787390203.788846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787390368.8836818
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 875",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6958,
-    "total_planned": 20,
+    "total_completed": 6959,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
