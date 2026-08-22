@@ -34782,14 +34782,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 877",
       "timestamp": 1787393089.8916914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 972",
-      "variation": true
-    },
+      "timestamp": 1787393395.9587088
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6971,
-    "total_planned": 7,
+    "total_completed": 6972,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
