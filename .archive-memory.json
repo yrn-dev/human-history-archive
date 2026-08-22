@@ -35357,14 +35357,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 698",
       "timestamp": 1787419895.795006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 698",
-      "variation": true
-    },
+      "timestamp": 1787420183.5566232
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7086,
-    "total_planned": 34,
+    "total_completed": 7087,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
