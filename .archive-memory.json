@@ -35202,14 +35202,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 893",
       "timestamp": 1787412584.1413405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787412847.5227876
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7055,
-    "total_planned": 65,
+    "total_completed": 7056,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
