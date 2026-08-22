@@ -34972,14 +34972,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 887",
       "timestamp": 1787401709.6493185
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 982",
-      "variation": true
-    },
+      "timestamp": 1787401976.78552
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 982",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7009,
-    "total_planned": 40,
+    "total_completed": 7010,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
