@@ -34182,14 +34182,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 866",
       "timestamp": 1787365939.2370045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787366104.0614653
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6851,
-    "total_planned": 56,
+    "total_completed": 6852,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
