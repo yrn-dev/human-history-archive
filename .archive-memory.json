@@ -35817,14 +35817,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1002",
       "timestamp": 1787440782.682257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 905",
-      "variation": true
-    },
+      "timestamp": 1787440924.8859773
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 904",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7178,
-    "total_planned": 13,
+    "total_completed": 7179,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
