@@ -35497,14 +35497,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 895",
       "timestamp": 1787425435.0984669
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787425669.2487526
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7114,
-    "total_planned": 6,
+    "total_completed": 7115,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
