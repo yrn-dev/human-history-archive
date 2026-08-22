@@ -35182,14 +35182,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 893",
       "timestamp": 1787411505.0419726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787411764.6341858
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 895",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7051,
-    "total_planned": 69,
+    "total_completed": 7052,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
