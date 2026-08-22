@@ -34427,14 +34427,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 866",
       "timestamp": 1787377190.1094134
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787377425.0151134
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6900,
-    "total_planned": 7,
+    "total_completed": 6901,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
