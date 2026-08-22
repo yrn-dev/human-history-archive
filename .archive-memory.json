@@ -34222,14 +34222,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 866",
       "timestamp": 1787367799.389114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787367976.0245702
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 869",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6859,
-    "total_planned": 48,
+    "total_completed": 6860,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
