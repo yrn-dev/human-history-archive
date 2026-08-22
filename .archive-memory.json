@@ -34537,14 +34537,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 972",
       "timestamp": 1787381805.7585554
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 878",
-      "variation": true
-    },
+      "timestamp": 1787381978.7264104
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6922,
-    "total_planned": 56,
+    "total_completed": 6923,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
