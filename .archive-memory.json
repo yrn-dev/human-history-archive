@@ -34102,18 +34102,17 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 857",
       "timestamp": 1787362287.5472977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 859",
-      "variation": true
+      "timestamp": 1787362599.682751
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 6835,
-    "total_planned": 1,
+    "total_completed": 6836,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
