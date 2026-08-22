@@ -34887,14 +34887,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 886",
       "timestamp": 1787397826.6794076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787398050.8388586
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6992,
-    "total_planned": 57,
+    "total_completed": 6993,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
