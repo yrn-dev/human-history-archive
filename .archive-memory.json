@@ -35102,14 +35102,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 886",
       "timestamp": 1787407630.1486907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 982",
-      "variation": true
-    },
+      "timestamp": 1787407944.7958586
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7035,
-    "total_planned": 14,
+    "total_completed": 7036,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
