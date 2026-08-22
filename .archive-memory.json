@@ -34827,14 +34827,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 884",
       "timestamp": 1787395033.5028045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787395293.5924118
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 884",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6980,
-    "total_planned": 69,
+    "total_completed": 6981,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
