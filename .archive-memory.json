@@ -34477,14 +34477,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 972",
       "timestamp": 1787379055.7245457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 684",
-      "variation": true
-    },
+      "timestamp": 1787379336.0755785
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6910,
-    "total_planned": 68,
+    "total_completed": 6911,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
