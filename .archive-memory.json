@@ -34577,14 +34577,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 877",
       "timestamp": 1787383603.9029155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787383838.630622
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6930,
-    "total_planned": 48,
+    "total_completed": 6931,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
