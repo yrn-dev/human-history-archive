@@ -34572,14 +34572,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 972",
       "timestamp": 1787383336.0542252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 877",
-      "variation": true
-    },
+      "timestamp": 1787383603.9029155
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6929,
-    "total_planned": 49,
+    "total_completed": 6930,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
