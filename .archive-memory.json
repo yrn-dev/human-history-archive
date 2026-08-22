@@ -35122,14 +35122,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 884",
       "timestamp": 1787408612.9663055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787408854.2860165
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 691",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7039,
-    "total_planned": 10,
+    "total_completed": 7040,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
