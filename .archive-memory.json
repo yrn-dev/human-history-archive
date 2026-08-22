@@ -34012,14 +34012,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 670",
       "timestamp": 1787358075.8574774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787358377.3779895
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 860",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6817,
-    "total_planned": 19,
+    "total_completed": 6818,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
