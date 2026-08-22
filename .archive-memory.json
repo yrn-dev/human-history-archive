@@ -35502,14 +35502,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 895",
       "timestamp": 1787425669.2487526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787425940.4949799
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 992",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7115,
-    "total_planned": 5,
+    "total_completed": 7116,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
