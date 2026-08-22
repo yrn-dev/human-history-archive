@@ -35437,14 +35437,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 895",
       "timestamp": 1787422938.5692098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787423093.2771084
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 896",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7102,
-    "total_planned": 18,
+    "total_completed": 7103,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
