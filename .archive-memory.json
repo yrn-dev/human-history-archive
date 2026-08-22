@@ -34842,14 +34842,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 886",
       "timestamp": 1787395812.7312365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 982",
-      "variation": true
-    },
+      "timestamp": 1787395989.6202943
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6983,
-    "total_planned": 66,
+    "total_completed": 6984,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
