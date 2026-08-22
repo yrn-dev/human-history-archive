@@ -34237,14 +34237,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 962",
       "timestamp": 1787368450.555676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 962",
-      "variation": true
-    },
+      "timestamp": 1787368751.5284386
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 869",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6862,
-    "total_planned": 45,
+    "total_completed": 6863,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
