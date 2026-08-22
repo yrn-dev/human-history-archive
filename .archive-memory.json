@@ -34002,14 +34002,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 859",
       "timestamp": 1787357659.2664914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 857",
-      "variation": true
-    },
+      "timestamp": 1787357857.2431252
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 670",
@@ -34112,8 +34112,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6815,
-    "total_planned": 21,
+    "total_completed": 6816,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
