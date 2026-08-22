@@ -34612,14 +34612,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 875",
       "timestamp": 1787385292.3985074
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 878",
-      "variation": true
-    },
+      "timestamp": 1787385499.508849
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 877",
@@ -34822,8 +34822,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6937,
-    "total_planned": 41,
+    "total_completed": 6938,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
