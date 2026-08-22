@@ -35607,14 +35607,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 904",
       "timestamp": 1787430631.4028711
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 904",
-      "variation": true
-    },
+      "timestamp": 1787430854.4215322
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 705",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7136,
-    "total_planned": 55,
+    "total_completed": 7137,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
