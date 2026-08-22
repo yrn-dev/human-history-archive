@@ -34292,14 +34292,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 866",
       "timestamp": 1787371122.5601265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 869",
-      "variation": true
-    },
+      "timestamp": 1787371313.7974122
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 869",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6873,
-    "total_planned": 34,
+    "total_completed": 6874,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
