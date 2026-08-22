@@ -34162,14 +34162,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 868",
       "timestamp": 1787365104.3954148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 962",
-      "variation": true
-    },
+      "timestamp": 1787365290.3991785
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 866",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6847,
-    "total_planned": 60,
+    "total_completed": 6848,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
