@@ -34922,14 +34922,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 884",
       "timestamp": 1787399457.302044
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 884",
-      "variation": true
-    },
+      "timestamp": 1787399760.3171668
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6999,
-    "total_planned": 50,
+    "total_completed": 7000,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
