@@ -35132,14 +35132,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 691",
       "timestamp": 1787409104.4173489
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 886",
-      "variation": true
-    },
+      "timestamp": 1787409370.319024
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 886",
@@ -35177,8 +35177,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7041,
-    "total_planned": 8,
+    "total_completed": 7042,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
