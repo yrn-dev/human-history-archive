@@ -35192,14 +35192,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 895",
       "timestamp": 1787412070.359999
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 895",
-      "variation": true
-    },
+      "timestamp": 1787412388.2261899
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 893",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7053,
-    "total_planned": 67,
+    "total_completed": 7054,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
