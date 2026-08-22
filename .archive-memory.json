@@ -34402,14 +34402,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 868",
       "timestamp": 1787376004.6445057
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 868",
-      "variation": true
-    },
+      "timestamp": 1787376278.4298487
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 868",
@@ -34467,8 +34467,8 @@
     }
   ],
   "stats": {
-    "total_completed": 6895,
-    "total_planned": 12,
+    "total_completed": 6896,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
