@@ -35377,14 +35377,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 992",
       "timestamp": 1787420762.297188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 893",
-      "variation": true
-    },
+      "timestamp": 1787420908.6163046
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 992",
@@ -35532,8 +35532,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7090,
-    "total_planned": 30,
+    "total_completed": 7091,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
