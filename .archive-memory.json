@@ -35712,14 +35712,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 705",
       "timestamp": 1787435484.339409
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787435771.55942
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 705",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7157,
-    "total_planned": 34,
+    "total_completed": 7158,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
