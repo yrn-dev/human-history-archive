@@ -37052,14 +37052,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 938",
       "timestamp": 1787497312.1408777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 941",
-      "variation": true
-    },
+      "timestamp": 1787497620.346351
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 733",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7425,
-    "total_planned": 50,
+    "total_completed": 7426,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
