@@ -36507,14 +36507,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 922",
       "timestamp": 1787472638.9546614
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787472848.0883987
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7316,
-    "total_planned": 17,
+    "total_completed": 7317,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
