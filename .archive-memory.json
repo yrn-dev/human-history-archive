@@ -36292,14 +36292,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1022",
       "timestamp": 1787462612.3603256
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787462880.2984178
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7273,
-    "total_planned": 60,
+    "total_completed": 7274,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
