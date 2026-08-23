@@ -36107,14 +36107,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 913",
       "timestamp": 1787454015.4950602
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787454281.6582336
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1012",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7236,
-    "total_planned": 26,
+    "total_completed": 7237,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
