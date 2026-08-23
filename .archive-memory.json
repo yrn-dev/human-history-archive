@@ -35972,14 +35972,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 913",
       "timestamp": 1787447748.5267842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 914",
-      "variation": true
-    },
+      "timestamp": 1787448052.6685734
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 911",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7209,
-    "total_planned": 53,
+    "total_completed": 7210,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
