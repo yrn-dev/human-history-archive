@@ -37157,14 +37157,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 940",
       "timestamp": 1787502419.2223632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 938",
-      "variation": true
-    },
+      "timestamp": 1787502751.931847
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7446,
-    "total_planned": 29,
+    "total_completed": 7447,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
