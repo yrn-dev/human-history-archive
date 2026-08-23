@@ -37097,14 +37097,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 940",
       "timestamp": 1787499484.716115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787499790.6332676
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 941",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7434,
-    "total_planned": 41,
+    "total_completed": 7435,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
