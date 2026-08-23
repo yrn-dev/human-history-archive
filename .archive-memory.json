@@ -37027,14 +37027,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 940",
       "timestamp": 1787496002.329716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 941",
-      "variation": true
-    },
+      "timestamp": 1787496263.4923403
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7420,
-    "total_planned": 55,
+    "total_completed": 7421,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
