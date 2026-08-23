@@ -37017,14 +37017,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 940",
       "timestamp": 1787495573.1615639
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 938",
-      "variation": true
-    },
+      "timestamp": 1787495850.241036
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 940",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7418,
-    "total_planned": 57,
+    "total_completed": 7419,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
