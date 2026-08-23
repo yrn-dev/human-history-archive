@@ -36442,14 +36442,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1022",
       "timestamp": 1787469574.9026747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787469812.0611959
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7303,
-    "total_planned": 30,
+    "total_completed": 7304,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
