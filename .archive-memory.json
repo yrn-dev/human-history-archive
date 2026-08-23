@@ -36892,14 +36892,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 931",
       "timestamp": 1787490323.880789
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787490462.2934165
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7393,
-    "total_planned": 11,
+    "total_completed": 7394,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
