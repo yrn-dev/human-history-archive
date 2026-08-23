@@ -35912,14 +35912,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 913",
       "timestamp": 1787445272.296627
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787445534.1207194
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 911",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7197,
-    "total_planned": 65,
+    "total_completed": 7198,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
