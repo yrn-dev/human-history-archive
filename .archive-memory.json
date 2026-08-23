@@ -36062,14 +36062,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 913",
       "timestamp": 1787452043.1746652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787452255.0573442
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7227,
-    "total_planned": 35,
+    "total_completed": 7228,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
