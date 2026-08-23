@@ -36342,14 +36342,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 922",
       "timestamp": 1787464977.8143027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787465192.607312
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7283,
-    "total_planned": 50,
+    "total_completed": 7284,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
