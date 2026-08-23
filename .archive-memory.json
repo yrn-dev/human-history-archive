@@ -37522,14 +37522,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 950",
       "timestamp": 1787520090.7938418
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787520289.8450127
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7519,
-    "total_planned": 27,
+    "total_completed": 7520,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
