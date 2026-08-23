@@ -36252,14 +36252,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 923",
       "timestamp": 1787460760.1599681
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787461048.3697064
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 719",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7265,
-    "total_planned": 68,
+    "total_completed": 7266,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
