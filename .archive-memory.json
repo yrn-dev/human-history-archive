@@ -37202,14 +37202,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 940",
       "timestamp": 1787504558.4115307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 938",
-      "variation": true
-    },
+      "timestamp": 1787504841.6843953
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 941",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7455,
-    "total_planned": 20,
+    "total_completed": 7456,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
