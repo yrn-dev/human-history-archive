@@ -36962,14 +36962,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 941",
       "timestamp": 1787493236.371732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787493486.0412893
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1042",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7407,
-    "total_planned": 68,
+    "total_completed": 7408,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
