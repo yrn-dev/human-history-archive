@@ -37682,14 +37682,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 956",
       "timestamp": 1787527094.130719
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787527343.0818348
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 747",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7551,
-    "total_planned": 66,
+    "total_completed": 7552,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
