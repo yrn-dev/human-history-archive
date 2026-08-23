@@ -36302,14 +36302,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 922",
       "timestamp": 1787463219.2690396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787463522.3219144
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1022",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7275,
-    "total_planned": 58,
+    "total_completed": 7276,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
