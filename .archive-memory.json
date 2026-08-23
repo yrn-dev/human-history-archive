@@ -37392,14 +37392,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 740",
       "timestamp": 1787513906.3089411
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787514060.7276702
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 740",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7493,
-    "total_planned": 53,
+    "total_completed": 7494,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
