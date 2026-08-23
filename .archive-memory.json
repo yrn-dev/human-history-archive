@@ -35917,14 +35917,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 913",
       "timestamp": 1787445534.1207194
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787445691.3360376
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 712",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7198,
-    "total_planned": 64,
+    "total_completed": 7199,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
