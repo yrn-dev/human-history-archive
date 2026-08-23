@@ -37327,14 +37327,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 950",
       "timestamp": 1787510818.4887338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787511053.477004
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7480,
-    "total_planned": 66,
+    "total_completed": 7481,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
