@@ -36397,14 +36397,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 923",
       "timestamp": 1787467642.2385013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 923",
-      "variation": true
-    },
+      "timestamp": 1787467820.0644054
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7294,
-    "total_planned": 39,
+    "total_completed": 7295,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
