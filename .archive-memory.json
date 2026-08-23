@@ -37347,14 +37347,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1052",
       "timestamp": 1787511648.4619474
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787511876.303589
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7484,
-    "total_planned": 62,
+    "total_completed": 7485,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
