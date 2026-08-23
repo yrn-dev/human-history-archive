@@ -36377,14 +36377,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 923",
       "timestamp": 1787466592.8052552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787466834.8266509
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7290,
-    "total_planned": 43,
+    "total_completed": 7291,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
