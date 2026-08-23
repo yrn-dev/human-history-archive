@@ -36827,14 +36827,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 931",
       "timestamp": 1787487274.778216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787487561.4175098
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1032",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7380,
-    "total_planned": 24,
+    "total_completed": 7381,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
