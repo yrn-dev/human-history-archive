@@ -36522,14 +36522,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 922",
       "timestamp": 1787473280.8566349
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787473550.5707417
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7319,
-    "total_planned": 14,
+    "total_completed": 7320,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
