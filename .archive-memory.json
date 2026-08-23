@@ -37367,14 +37367,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 950",
       "timestamp": 1787512539.4855926
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 950",
-      "variation": true
-    },
+      "timestamp": 1787512834.2553456
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 740",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7488,
-    "total_planned": 58,
+    "total_completed": 7489,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
