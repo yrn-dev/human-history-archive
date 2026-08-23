@@ -37697,14 +37697,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 958",
       "timestamp": 1787527826.9598248
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 956",
-      "variation": true
-    },
+      "timestamp": 1787528013.9606078
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 747",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7554,
-    "total_planned": 63,
+    "total_completed": 7555,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
