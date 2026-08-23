@@ -36752,14 +36752,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 726",
       "timestamp": 1787483708.8540623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1032",
-      "variation": true
-    },
+      "timestamp": 1787483989.1824021
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7365,
-    "total_planned": 39,
+    "total_completed": 7366,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
