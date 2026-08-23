@@ -35997,14 +35997,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1012",
       "timestamp": 1787449201.5770972
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787449396.1449668
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 914",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7214,
-    "total_planned": 48,
+    "total_completed": 7215,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
