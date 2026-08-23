@@ -36942,18 +36942,17 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 929",
       "timestamp": 1787492431.9213097
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 929",
-      "variation": true
+      "timestamp": 1787492591.7984505
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7403,
-    "total_planned": 1,
+    "total_completed": 7404,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
