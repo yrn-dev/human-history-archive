@@ -36557,14 +36557,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 920",
       "timestamp": 1787475007.1823237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 719",
-      "variation": true
-    },
+      "timestamp": 1787475203.7036643
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1022",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7326,
-    "total_planned": 7,
+    "total_completed": 7327,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
