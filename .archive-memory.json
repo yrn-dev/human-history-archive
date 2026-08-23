@@ -36552,14 +36552,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 922",
       "timestamp": 1787474798.777812
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787475007.1823237
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 719",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7325,
-    "total_planned": 8,
+    "total_completed": 7326,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
