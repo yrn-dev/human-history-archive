@@ -37222,14 +37222,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 940",
       "timestamp": 1787505574.7577195
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1042",
-      "variation": true
-    },
+      "timestamp": 1787505748.968732
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 940",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7459,
-    "total_planned": 16,
+    "total_completed": 7460,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
