@@ -37582,14 +37582,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 949",
       "timestamp": 1787522711.2629275
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787522934.873251
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7531,
-    "total_planned": 15,
+    "total_completed": 7532,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
