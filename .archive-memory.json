@@ -37622,14 +37622,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 950",
       "timestamp": 1787524359.792445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787524538.912294
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7539,
-    "total_planned": 7,
+    "total_completed": 7540,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
