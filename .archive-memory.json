@@ -37547,14 +37547,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 947",
       "timestamp": 1787521174.7772388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787521480.3950558
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 950",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7524,
-    "total_planned": 22,
+    "total_completed": 7525,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
