@@ -36832,14 +36832,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 931",
       "timestamp": 1787487561.4175098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1032",
-      "variation": true
-    },
+      "timestamp": 1787487881.4900339
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7381,
-    "total_planned": 23,
+    "total_completed": 7382,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
