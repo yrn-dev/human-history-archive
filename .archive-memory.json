@@ -36097,14 +36097,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1012",
       "timestamp": 1787453498.4240406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787453770.1535015
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7234,
-    "total_planned": 28,
+    "total_completed": 7235,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
