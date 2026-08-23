@@ -35967,14 +35967,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 913",
       "timestamp": 1787447561.423135
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787447748.5267842
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 914",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7208,
-    "total_planned": 54,
+    "total_completed": 7209,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
