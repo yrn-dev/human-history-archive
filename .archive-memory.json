@@ -36837,14 +36837,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1032",
       "timestamp": 1787487881.4900339
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787488108.2933247
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 726",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7382,
-    "total_planned": 22,
+    "total_completed": 7383,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
