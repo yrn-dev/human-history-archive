@@ -36617,14 +36617,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 931",
       "timestamp": 1787477658.9146469
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1032",
-      "variation": true
-    },
+      "timestamp": 1787477928.1256967
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7338,
-    "total_planned": 66,
+    "total_completed": 7339,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
