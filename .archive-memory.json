@@ -37732,14 +37732,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 959",
       "timestamp": 1787529222.0121505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787529535.5170202
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1062",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7561,
-    "total_planned": 56,
+    "total_completed": 7562,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
