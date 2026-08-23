@@ -36747,14 +36747,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 931",
       "timestamp": 1787483479.7575574
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 726",
-      "variation": true
-    },
+      "timestamp": 1787483708.8540623
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1032",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7364,
-    "total_planned": 40,
+    "total_completed": 7365,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
