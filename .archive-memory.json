@@ -37402,14 +37402,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 740",
       "timestamp": 1787514307.3460367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787514450.2805283
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 740",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7495,
-    "total_planned": 51,
+    "total_completed": 7496,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
