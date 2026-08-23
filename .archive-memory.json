@@ -36917,14 +36917,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 931",
       "timestamp": 1787491327.1604424
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787491624.0117135
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7398,
-    "total_planned": 6,
+    "total_completed": 7399,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
