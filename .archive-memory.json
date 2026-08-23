@@ -37107,14 +37107,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 941",
       "timestamp": 1787500032.773608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 938",
-      "variation": true
-    },
+      "timestamp": 1787500340.1846628
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 940",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7436,
-    "total_planned": 39,
+    "total_completed": 7437,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
