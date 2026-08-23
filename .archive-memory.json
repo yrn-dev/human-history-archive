@@ -37637,14 +37637,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1052",
       "timestamp": 1787525023.2154796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787525306.1189363
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7542,
-    "total_planned": 4,
+    "total_completed": 7543,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
