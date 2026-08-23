@@ -36257,14 +36257,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 920",
       "timestamp": 1787461048.3697064
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 719",
-      "variation": true
-    },
+      "timestamp": 1787461221.5023627
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7266,
-    "total_planned": 67,
+    "total_completed": 7267,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
