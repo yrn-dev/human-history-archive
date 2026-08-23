@@ -36417,14 +36417,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 923",
       "timestamp": 1787468482.464834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 923",
-      "variation": true
-    },
+      "timestamp": 1787468725.4355447
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1022",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7298,
-    "total_planned": 35,
+    "total_completed": 7299,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
