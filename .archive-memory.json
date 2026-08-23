@@ -36002,14 +36002,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 913",
       "timestamp": 1787449396.1449668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 914",
-      "variation": true
-    },
+      "timestamp": 1787449536.4164999
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 712",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7215,
-    "total_planned": 47,
+    "total_completed": 7216,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
