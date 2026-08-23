@@ -36652,14 +36652,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 932",
       "timestamp": 1787479221.1794567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1032",
-      "variation": true
-    },
+      "timestamp": 1787479436.8922727
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1032",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7345,
-    "total_planned": 59,
+    "total_completed": 7346,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
