@@ -36172,14 +36172,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 913",
       "timestamp": 1787457036.887295
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 914",
-      "variation": true
-    },
+      "timestamp": 1787457202.1236477
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 712",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7249,
-    "total_planned": 13,
+    "total_completed": 7250,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
