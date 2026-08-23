@@ -37562,14 +37562,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1052",
       "timestamp": 1787521813.6121306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 950",
-      "variation": true
-    },
+      "timestamp": 1787522085.0303729
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 950",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7527,
-    "total_planned": 19,
+    "total_completed": 7528,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
