@@ -36322,14 +36322,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 922",
       "timestamp": 1787464070.4940178
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787464225.5752647
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1022",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7279,
-    "total_planned": 54,
+    "total_completed": 7280,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
