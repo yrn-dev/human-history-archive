@@ -36197,14 +36197,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 911",
       "timestamp": 1787458158.454494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787458461.7024925
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 911",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7254,
-    "total_planned": 8,
+    "total_completed": 7255,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
