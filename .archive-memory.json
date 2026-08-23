@@ -36762,14 +36762,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 931",
       "timestamp": 1787484281.2773411
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787484616.8203208
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7367,
-    "total_planned": 37,
+    "total_completed": 7368,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
