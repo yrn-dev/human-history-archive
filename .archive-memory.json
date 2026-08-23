@@ -37477,14 +37477,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 947",
       "timestamp": 1787517760.5691056
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787518017.6849542
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 950",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7510,
-    "total_planned": 36,
+    "total_completed": 7511,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
