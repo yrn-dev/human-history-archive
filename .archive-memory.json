@@ -36597,14 +36597,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 931",
       "timestamp": 1787476631.1354923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787476814.4640462
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7334,
-    "total_planned": 70,
+    "total_completed": 7335,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
