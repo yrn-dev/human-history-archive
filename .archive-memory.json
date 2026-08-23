@@ -36817,14 +36817,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 931",
       "timestamp": 1787486910.1721804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787487107.6655164
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7378,
-    "total_planned": 26,
+    "total_completed": 7379,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
