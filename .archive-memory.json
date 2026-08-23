@@ -36492,14 +36492,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 920",
       "timestamp": 1787472118.1217668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 923",
-      "variation": true
-    },
+      "timestamp": 1787472307.226506
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7313,
-    "total_planned": 20,
+    "total_completed": 7314,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
