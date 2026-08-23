@@ -36272,14 +36272,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 719",
       "timestamp": 1787461653.7938774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787461936.2253087
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7269,
-    "total_planned": 64,
+    "total_completed": 7270,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
