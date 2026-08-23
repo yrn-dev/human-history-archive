@@ -36337,14 +36337,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 920",
       "timestamp": 1787464726.1031868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787464977.8143027
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7282,
-    "total_planned": 51,
+    "total_completed": 7283,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
