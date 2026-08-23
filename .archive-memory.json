@@ -37612,14 +37612,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 949",
       "timestamp": 1787523938.431825
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787524180.7359862
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 950",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7537,
-    "total_planned": 9,
+    "total_completed": 7538,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
