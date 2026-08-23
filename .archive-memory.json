@@ -37487,14 +37487,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 950",
       "timestamp": 1787518308.585772
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787518582.3213656
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7512,
-    "total_planned": 34,
+    "total_completed": 7513,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
