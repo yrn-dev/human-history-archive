@@ -37587,14 +37587,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 947",
       "timestamp": 1787522934.873251
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787523199.167928
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7532,
-    "total_planned": 14,
+    "total_completed": 7533,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
