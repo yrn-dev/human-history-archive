@@ -37077,14 +37077,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 940",
       "timestamp": 1787498436.781454
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1042",
-      "variation": true
-    },
+      "timestamp": 1787498705.0880332
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7430,
-    "total_planned": 45,
+    "total_completed": 7431,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
