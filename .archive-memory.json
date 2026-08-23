@@ -36582,14 +36582,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 922",
       "timestamp": 1787476033.0026453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787476244.7445312
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7331,
-    "total_planned": 2,
+    "total_completed": 7332,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
