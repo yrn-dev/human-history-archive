@@ -36142,14 +36142,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 914",
       "timestamp": 1787455749.976543
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787455898.8243375
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7243,
-    "total_planned": 19,
+    "total_completed": 7244,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
