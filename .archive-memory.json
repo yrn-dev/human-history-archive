@@ -36967,14 +36967,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 940",
       "timestamp": 1787493486.0412893
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1042",
-      "variation": true
-    },
+      "timestamp": 1787493701.53697
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7408,
-    "total_planned": 67,
+    "total_completed": 7409,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
