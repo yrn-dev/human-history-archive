@@ -37207,14 +37207,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 938",
       "timestamp": 1787504841.6843953
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 941",
-      "variation": true
-    },
+      "timestamp": 1787505064.5666134
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 941",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7456,
-    "total_planned": 19,
+    "total_completed": 7457,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
