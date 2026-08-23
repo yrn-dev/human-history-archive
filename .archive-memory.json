@@ -36232,18 +36232,17 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 913",
       "timestamp": 1787459870.0311027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 913",
-      "variation": true
+      "timestamp": 1787460174.1694107
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7261,
-    "total_planned": 1,
+    "total_completed": 7262,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
