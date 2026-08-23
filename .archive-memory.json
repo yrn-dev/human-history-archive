@@ -35947,14 +35947,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 913",
       "timestamp": 1787446570.680024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787446857.3437042
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1012",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7204,
-    "total_planned": 58,
+    "total_completed": 7205,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
