@@ -36787,14 +36787,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 932",
       "timestamp": 1787485476.962675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 726",
-      "variation": true
-    },
+      "timestamp": 1787485635.9239974
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1032",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7372,
-    "total_planned": 32,
+    "total_completed": 7373,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
