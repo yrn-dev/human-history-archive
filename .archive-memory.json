@@ -36542,14 +36542,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 719",
       "timestamp": 1787474352.6354616
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787474490.7834136
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7323,
-    "total_planned": 10,
+    "total_completed": 7324,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
