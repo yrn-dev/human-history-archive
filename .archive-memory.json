@@ -36932,14 +36932,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 929",
       "timestamp": 1787492097.7311025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787492261.5592604
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7401,
-    "total_planned": 3,
+    "total_completed": 7402,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
