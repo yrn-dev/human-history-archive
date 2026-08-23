@@ -37112,14 +37112,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 938",
       "timestamp": 1787500340.1846628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787500587.8562622
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7437,
-    "total_planned": 38,
+    "total_completed": 7438,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
