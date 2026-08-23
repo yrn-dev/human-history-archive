@@ -36952,14 +36952,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 733",
       "timestamp": 1787492847.7602298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 941",
-      "variation": true
-    },
+      "timestamp": 1787493035.4580314
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 941",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7405,
-    "total_planned": 70,
+    "total_completed": 7406,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
