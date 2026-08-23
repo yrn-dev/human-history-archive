@@ -37362,14 +37362,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 947",
       "timestamp": 1787512319.324639
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 950",
-      "variation": true
-    },
+      "timestamp": 1787512539.4855926
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 950",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7487,
-    "total_planned": 59,
+    "total_completed": 7488,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
