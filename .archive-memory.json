@@ -37142,14 +37142,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 940",
       "timestamp": 1787501839.3561106
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787502064.001125
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 940",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7443,
-    "total_planned": 32,
+    "total_completed": 7444,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
