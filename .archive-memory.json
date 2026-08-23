@@ -36772,14 +36772,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 929",
       "timestamp": 1787484857.9979541
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 726",
-      "variation": true
-    },
+      "timestamp": 1787485095.4145033
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 932",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7369,
-    "total_planned": 35,
+    "total_completed": 7370,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
