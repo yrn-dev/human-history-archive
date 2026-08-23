@@ -37727,14 +37727,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 956",
       "timestamp": 1787529041.2931254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 959",
-      "variation": true
-    },
+      "timestamp": 1787529222.0121505
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7560,
-    "total_planned": 57,
+    "total_completed": 7561,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
