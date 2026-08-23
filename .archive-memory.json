@@ -36392,14 +36392,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 923",
       "timestamp": 1787467373.9261317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 923",
-      "variation": true
-    },
+      "timestamp": 1787467642.2385013
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 923",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7293,
-    "total_planned": 40,
+    "total_completed": 7294,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
