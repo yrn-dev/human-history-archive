@@ -37407,14 +37407,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 949",
       "timestamp": 1787514450.2805283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787514689.801167
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7496,
-    "total_planned": 50,
+    "total_completed": 7497,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
