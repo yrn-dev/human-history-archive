@@ -37422,14 +37422,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 947",
       "timestamp": 1787515188.2468789
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787515497.5983493
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1052",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7499,
-    "total_planned": 47,
+    "total_completed": 7500,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
