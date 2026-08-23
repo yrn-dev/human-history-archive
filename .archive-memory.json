@@ -36447,14 +36447,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 922",
       "timestamp": 1787469812.0611959
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787470078.6025422
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7304,
-    "total_planned": 29,
+    "total_completed": 7305,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
