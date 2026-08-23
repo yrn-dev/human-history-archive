@@ -36867,14 +36867,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 929",
       "timestamp": 1787489174.9349318
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1032",
-      "variation": true
-    },
+      "timestamp": 1787489446.1002843
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7388,
-    "total_planned": 16,
+    "total_completed": 7389,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
