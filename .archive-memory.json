@@ -37607,14 +37607,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 949",
       "timestamp": 1787523793.2001514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787523938.431825
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7536,
-    "total_planned": 10,
+    "total_completed": 7537,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
