@@ -36702,14 +36702,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 929",
       "timestamp": 1787481285.3922255
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787481502.2400594
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7355,
-    "total_planned": 49,
+    "total_completed": 7356,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
