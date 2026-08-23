@@ -36382,14 +36382,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 922",
       "timestamp": 1787466834.8266509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787467089.9871752
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 923",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7291,
-    "total_planned": 42,
+    "total_completed": 7292,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
