@@ -36022,14 +36022,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 911",
       "timestamp": 1787450341.664181
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787450499.4536433
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7219,
-    "total_planned": 43,
+    "total_completed": 7220,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
