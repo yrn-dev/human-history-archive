@@ -35937,14 +35937,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 712",
       "timestamp": 1787446222.585365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787446402.1869125
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7202,
-    "total_planned": 60,
+    "total_completed": 7203,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
