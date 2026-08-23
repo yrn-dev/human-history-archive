@@ -37272,14 +37272,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 940",
       "timestamp": 1787508222.9127483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787508545.4392717
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1042",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7469,
-    "total_planned": 6,
+    "total_completed": 7470,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
