@@ -36567,14 +36567,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1022",
       "timestamp": 1787475480.475419
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787475671.1559849
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7328,
-    "total_planned": 5,
+    "total_completed": 7329,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
