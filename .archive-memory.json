@@ -36572,14 +36572,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 920",
       "timestamp": 1787475671.1559849
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787475891.719775
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7329,
-    "total_planned": 4,
+    "total_completed": 7330,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
