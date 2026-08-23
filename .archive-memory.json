@@ -36247,14 +36247,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1022",
       "timestamp": 1787460606.7366498
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 923",
-      "variation": true
-    },
+      "timestamp": 1787460760.1599681
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7264,
-    "total_planned": 69,
+    "total_completed": 7265,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
