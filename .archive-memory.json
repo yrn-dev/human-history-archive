@@ -36632,14 +36632,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 931",
       "timestamp": 1787478410.0976453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 726",
-      "variation": true
-    },
+      "timestamp": 1787478588.5579002
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 932",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7341,
-    "total_planned": 63,
+    "total_completed": 7342,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
