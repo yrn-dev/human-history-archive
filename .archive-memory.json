@@ -37597,14 +37597,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 949",
       "timestamp": 1787523435.0653808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787523595.855406
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7534,
-    "total_planned": 12,
+    "total_completed": 7535,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
