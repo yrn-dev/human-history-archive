@@ -36452,14 +36452,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 922",
       "timestamp": 1787470078.6025422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787470319.134983
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7305,
-    "total_planned": 28,
+    "total_completed": 7306,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
