@@ -36802,14 +36802,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1032",
       "timestamp": 1787486241.9086936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787486432.9578624
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7375,
-    "total_planned": 29,
+    "total_completed": 7376,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
