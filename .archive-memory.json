@@ -37297,18 +37297,17 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 938",
       "timestamp": 1787509381.680582
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 733",
-      "variation": true
+      "timestamp": 1787509576.367792
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7474,
-    "total_planned": 1,
+    "total_completed": 7475,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
