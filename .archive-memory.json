@@ -36562,14 +36562,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 719",
       "timestamp": 1787475203.7036643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787475480.475419
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7327,
-    "total_planned": 6,
+    "total_completed": 7328,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
