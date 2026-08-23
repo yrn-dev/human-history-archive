@@ -37442,14 +37442,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 949",
       "timestamp": 1787516102.3611236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787516351.0834134
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 740",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7503,
-    "total_planned": 43,
+    "total_completed": 7504,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
