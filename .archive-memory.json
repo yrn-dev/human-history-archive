@@ -36312,14 +36312,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1022",
       "timestamp": 1787463658.208441
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787463886.23872
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7277,
-    "total_planned": 56,
+    "total_completed": 7278,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
