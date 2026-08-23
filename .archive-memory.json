@@ -37337,14 +37337,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 949",
       "timestamp": 1787511275.9928656
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787511427.900736
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1052",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7482,
-    "total_planned": 64,
+    "total_completed": 7483,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
