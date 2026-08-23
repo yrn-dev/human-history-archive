@@ -37022,14 +37022,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 938",
       "timestamp": 1787495850.241036
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787496002.329716
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 941",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7419,
-    "total_planned": 56,
+    "total_completed": 7420,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
