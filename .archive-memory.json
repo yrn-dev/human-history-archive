@@ -36897,14 +36897,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 929",
       "timestamp": 1787490462.2934165
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787490626.6051867
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1032",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7394,
-    "total_planned": 10,
+    "total_completed": 7395,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
