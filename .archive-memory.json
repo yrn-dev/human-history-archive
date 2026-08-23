@@ -37632,14 +37632,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 947",
       "timestamp": 1787524851.1756835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787525023.2154796
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7541,
-    "total_planned": 5,
+    "total_completed": 7542,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
