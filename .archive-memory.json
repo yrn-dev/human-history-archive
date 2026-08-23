@@ -37577,14 +37577,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 949",
       "timestamp": 1787522514.9276414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787522711.2629275
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7530,
-    "total_planned": 16,
+    "total_completed": 7531,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
