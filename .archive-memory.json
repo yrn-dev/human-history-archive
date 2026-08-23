@@ -36122,14 +36122,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 914",
       "timestamp": 1787454762.1037507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787455057.138232
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7239,
-    "total_planned": 23,
+    "total_completed": 7240,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
