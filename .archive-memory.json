@@ -36512,14 +36512,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 920",
       "timestamp": 1787472848.0883987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787473026.4818585
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7317,
-    "total_planned": 16,
+    "total_completed": 7318,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
