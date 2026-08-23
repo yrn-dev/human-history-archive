@@ -37342,14 +37342,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 949",
       "timestamp": 1787511427.900736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787511648.4619474
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1052",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7483,
-    "total_planned": 63,
+    "total_completed": 7484,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
