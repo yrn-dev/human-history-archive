@@ -36047,14 +36047,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 914",
       "timestamp": 1787451472.7719152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787451675.1102035
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7224,
-    "total_planned": 38,
+    "total_completed": 7225,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
