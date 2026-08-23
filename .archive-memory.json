@@ -37172,14 +37172,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 940",
       "timestamp": 1787503220.350782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787503434.6443908
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 941",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7449,
-    "total_planned": 26,
+    "total_completed": 7450,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
