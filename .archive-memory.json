@@ -37557,14 +37557,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 950",
       "timestamp": 1787521668.266291
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787521813.6121306
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 950",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7526,
-    "total_planned": 20,
+    "total_completed": 7527,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
