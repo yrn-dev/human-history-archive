@@ -37677,14 +37677,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 747",
       "timestamp": 1787526785.230703
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 956",
-      "variation": true
-    },
+      "timestamp": 1787527094.130719
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7550,
-    "total_planned": 67,
+    "total_completed": 7551,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
