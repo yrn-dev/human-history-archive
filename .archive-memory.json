@@ -36137,14 +36137,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1012",
       "timestamp": 1787455460.6280658
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 914",
-      "variation": true
-    },
+      "timestamp": 1787455749.976543
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7242,
-    "total_planned": 20,
+    "total_completed": 7243,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
