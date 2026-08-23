@@ -37092,14 +37092,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 938",
       "timestamp": 1787499169.252775
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787499484.716115
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 940",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7433,
-    "total_planned": 42,
+    "total_completed": 7434,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
