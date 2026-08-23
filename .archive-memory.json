@@ -36622,14 +36622,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1032",
       "timestamp": 1787477928.1256967
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787478198.0486152
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7339,
-    "total_planned": 65,
+    "total_completed": 7340,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
