@@ -36742,14 +36742,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 931",
       "timestamp": 1787483282.84421
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787483479.7575574
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 726",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7363,
-    "total_planned": 41,
+    "total_completed": 7364,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
