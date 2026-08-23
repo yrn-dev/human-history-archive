@@ -37527,14 +37527,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 947",
       "timestamp": 1787520289.8450127
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787520452.8783064
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7520,
-    "total_planned": 26,
+    "total_completed": 7521,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
