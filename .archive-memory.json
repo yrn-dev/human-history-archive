@@ -36147,14 +36147,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 913",
       "timestamp": 1787455898.8243375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787456151.7567751
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7244,
-    "total_planned": 18,
+    "total_completed": 7245,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
