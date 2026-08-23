@@ -37267,14 +37267,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1042",
       "timestamp": 1787507902.7953365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787508222.9127483
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 733",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7468,
-    "total_planned": 7,
+    "total_completed": 7469,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
