@@ -37457,14 +37457,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1052",
       "timestamp": 1787516861.915607
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787517072.5714083
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7506,
-    "total_planned": 40,
+    "total_completed": 7507,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
