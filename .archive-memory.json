@@ -36687,14 +36687,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 929",
       "timestamp": 1787480733.5607727
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787480925.6481075
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 932",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7352,
-    "total_planned": 52,
+    "total_completed": 7353,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
