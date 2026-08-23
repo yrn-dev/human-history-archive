@@ -37722,14 +37722,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 958",
       "timestamp": 1787528726.6348217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 956",
-      "variation": true
-    },
+      "timestamp": 1787529041.2931254
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 959",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7559,
-    "total_planned": 58,
+    "total_completed": 7560,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
