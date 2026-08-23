@@ -37467,14 +37467,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 947",
       "timestamp": 1787517232.269846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787517446.86091
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7508,
-    "total_planned": 38,
+    "total_completed": 7509,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
