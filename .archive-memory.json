@@ -36352,14 +36352,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 922",
       "timestamp": 1787465470.3407464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787465608.1846585
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7285,
-    "total_planned": 48,
+    "total_completed": 7286,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
