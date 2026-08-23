@@ -37232,14 +37232,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 940",
       "timestamp": 1787505966.8646908
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787506282.82236
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 940",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7461,
-    "total_planned": 14,
+    "total_completed": 7462,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
