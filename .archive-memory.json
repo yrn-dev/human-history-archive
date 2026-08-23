@@ -37667,14 +37667,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 958",
       "timestamp": 1787526307.5177357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787526519.1548278
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 747",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7548,
-    "total_planned": 69,
+    "total_completed": 7549,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
