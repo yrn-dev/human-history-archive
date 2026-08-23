@@ -37462,14 +37462,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 947",
       "timestamp": 1787517072.5714083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787517232.269846
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7507,
-    "total_planned": 39,
+    "total_completed": 7508,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
