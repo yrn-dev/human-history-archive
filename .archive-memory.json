@@ -36912,14 +36912,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 929",
       "timestamp": 1787491056.7418654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787491327.1604424
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7397,
-    "total_planned": 7,
+    "total_completed": 7398,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
