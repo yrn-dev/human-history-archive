@@ -37357,14 +37357,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 949",
       "timestamp": 1787512135.232334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787512319.324639
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 950",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7486,
-    "total_planned": 60,
+    "total_completed": 7487,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
