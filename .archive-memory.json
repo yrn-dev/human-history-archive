@@ -36887,14 +36887,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 726",
       "timestamp": 1787490026.4277384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787490323.880789
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7392,
-    "total_planned": 12,
+    "total_completed": 7393,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
