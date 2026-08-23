@@ -36387,14 +36387,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 922",
       "timestamp": 1787467089.9871752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 923",
-      "variation": true
-    },
+      "timestamp": 1787467373.9261317
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 923",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7292,
-    "total_planned": 41,
+    "total_completed": 7293,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
