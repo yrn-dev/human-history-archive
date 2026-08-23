@@ -37627,14 +37627,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 947",
       "timestamp": 1787524538.912294
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787524851.1756835
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1052",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7540,
-    "total_planned": 6,
+    "total_completed": 7541,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
