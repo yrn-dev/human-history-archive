@@ -37152,14 +37152,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 940",
       "timestamp": 1787502250.6365676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787502419.2223632
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7445,
-    "total_planned": 30,
+    "total_completed": 7446,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
