@@ -36847,14 +36847,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 726",
       "timestamp": 1787488302.8266425
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787488509.176882
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1032",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7384,
-    "total_planned": 20,
+    "total_completed": 7385,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
