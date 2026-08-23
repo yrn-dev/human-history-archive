@@ -37642,14 +37642,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 947",
       "timestamp": 1787525306.1189363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787525443.6689413
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7543,
-    "total_planned": 3,
+    "total_completed": 7544,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
