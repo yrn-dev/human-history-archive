@@ -36117,14 +36117,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1012",
       "timestamp": 1787454549.248808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 914",
-      "variation": true
-    },
+      "timestamp": 1787454762.1037507
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 911",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7238,
-    "total_planned": 24,
+    "total_completed": 7239,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
