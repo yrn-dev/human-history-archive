@@ -36307,14 +36307,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 922",
       "timestamp": 1787463522.3219144
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787463658.208441
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1022",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7276,
-    "total_planned": 57,
+    "total_completed": 7277,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
