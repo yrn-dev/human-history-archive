@@ -36822,14 +36822,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 931",
       "timestamp": 1787487107.6655164
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787487274.778216
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7379,
-    "total_planned": 25,
+    "total_completed": 7380,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
