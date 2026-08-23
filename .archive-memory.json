@@ -37432,14 +37432,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1052",
       "timestamp": 1787515639.509445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787515787.5732443
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7501,
-    "total_planned": 45,
+    "total_completed": 7502,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
