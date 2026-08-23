@@ -37662,14 +37662,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 956",
       "timestamp": 1787526111.1174605
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787526307.5177357
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7547,
-    "total_planned": 70,
+    "total_completed": 7548,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
