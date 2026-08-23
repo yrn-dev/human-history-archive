@@ -36267,14 +36267,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 920",
       "timestamp": 1787461459.3362021
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 719",
-      "variation": true
-    },
+      "timestamp": 1787461653.7938774
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7268,
-    "total_planned": 65,
+    "total_completed": 7269,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
