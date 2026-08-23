@@ -36727,14 +36727,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 929",
       "timestamp": 1787482476.8793383
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787482729.1349483
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 726",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7360,
-    "total_planned": 44,
+    "total_completed": 7361,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
