@@ -37497,14 +37497,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 949",
       "timestamp": 1787518790.5799444
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787519082.2577927
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7514,
-    "total_planned": 32,
+    "total_completed": 7515,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
