@@ -36757,14 +36757,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1032",
       "timestamp": 1787483989.1824021
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787484281.2773411
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7366,
-    "total_planned": 38,
+    "total_completed": 7367,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
