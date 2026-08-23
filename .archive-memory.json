@@ -37692,14 +37692,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 747",
       "timestamp": 1787527563.7340338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787527826.9598248
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 956",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7553,
-    "total_planned": 64,
+    "total_completed": 7554,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
