@@ -35942,14 +35942,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1012",
       "timestamp": 1787446402.1869125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787446570.680024
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7203,
-    "total_planned": 59,
+    "total_completed": 7204,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
