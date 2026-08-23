@@ -37427,14 +37427,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1052",
       "timestamp": 1787515497.5983493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787515639.509445
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7500,
-    "total_planned": 46,
+    "total_completed": 7501,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
