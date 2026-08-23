@@ -36202,14 +36202,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 911",
       "timestamp": 1787458461.7024925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787458657.6970255
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 914",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7255,
-    "total_planned": 7,
+    "total_completed": 7256,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
