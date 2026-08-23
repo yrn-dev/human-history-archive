@@ -36642,14 +36642,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 932",
       "timestamp": 1787478758.1225257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787479040.7210257
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 932",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7343,
-    "total_planned": 61,
+    "total_completed": 7344,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
