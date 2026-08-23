@@ -36502,14 +36502,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 922",
       "timestamp": 1787472480.0383997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787472638.9546614
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7315,
-    "total_planned": 18,
+    "total_completed": 7316,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
