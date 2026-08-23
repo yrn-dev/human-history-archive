@@ -36037,14 +36037,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 712",
       "timestamp": 1787450910.6915102
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787451213.268658
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 914",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7222,
-    "total_planned": 40,
+    "total_completed": 7223,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
