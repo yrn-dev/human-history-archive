@@ -36707,14 +36707,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 932",
       "timestamp": 1787481502.2400594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787481824.2027671
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 932",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7356,
-    "total_planned": 48,
+    "total_completed": 7357,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
