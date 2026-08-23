@@ -37102,14 +37102,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 940",
       "timestamp": 1787499790.6332676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 941",
-      "variation": true
-    },
+      "timestamp": 1787500032.773608
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7435,
-    "total_planned": 40,
+    "total_completed": 7436,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
