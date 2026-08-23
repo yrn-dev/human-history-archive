@@ -36332,14 +36332,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1022",
       "timestamp": 1787464426.459201
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787464726.1031868
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7281,
-    "total_planned": 52,
+    "total_completed": 7282,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
