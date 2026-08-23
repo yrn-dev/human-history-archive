@@ -37382,14 +37382,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 949",
       "timestamp": 1787513374.1586566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787513656.6381912
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 740",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7491,
-    "total_planned": 55,
+    "total_completed": 7492,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
