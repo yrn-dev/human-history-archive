@@ -37277,14 +37277,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 733",
       "timestamp": 1787508545.4392717
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1042",
-      "variation": true
-    },
+      "timestamp": 1787508770.6219645
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 940",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7470,
-    "total_planned": 5,
+    "total_completed": 7471,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
