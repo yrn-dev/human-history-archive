@@ -36412,14 +36412,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 922",
       "timestamp": 1787468226.5402083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 923",
-      "variation": true
-    },
+      "timestamp": 1787468482.464834
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 923",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7297,
-    "total_planned": 36,
+    "total_completed": 7298,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
