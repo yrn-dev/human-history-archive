@@ -37412,14 +37412,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 740",
       "timestamp": 1787514689.801167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787514962.7573125
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7497,
-    "total_planned": 49,
+    "total_completed": 7498,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
