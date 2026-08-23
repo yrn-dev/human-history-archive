@@ -37512,14 +37512,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 949",
       "timestamp": 1787519492.8692644
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 949",
-      "variation": true
-    },
+      "timestamp": 1787519787.1094792
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 950",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7517,
-    "total_planned": 29,
+    "total_completed": 7518,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
