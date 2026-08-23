@@ -35872,14 +35872,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 902",
       "timestamp": 1787443409.0167656
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 902",
-      "variation": true
-    },
+      "timestamp": 1787443687.084314
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 902",
@@ -35887,8 +35887,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7189,
-    "total_planned": 2,
+    "total_completed": 7190,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
