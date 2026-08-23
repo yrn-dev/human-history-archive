@@ -37042,14 +37042,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 940",
       "timestamp": 1787496703.6560307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787496991.1534753
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7423,
-    "total_planned": 52,
+    "total_completed": 7424,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
