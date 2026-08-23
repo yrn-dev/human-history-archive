@@ -35987,14 +35987,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 911",
       "timestamp": 1787448677.1955192
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1787448935.741207
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1012",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7212,
-    "total_planned": 50,
+    "total_completed": 7213,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
