@@ -37322,14 +37322,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 949",
       "timestamp": 1787510551.3674548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 950",
-      "variation": true
-    },
+      "timestamp": 1787510818.4887338
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1052",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7479,
-    "total_planned": 67,
+    "total_completed": 7480,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
