@@ -36927,14 +36927,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 931",
       "timestamp": 1787491943.8971484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787492097.7311025
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7400,
-    "total_planned": 4,
+    "total_completed": 7401,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
