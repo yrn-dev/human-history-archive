@@ -35922,14 +35922,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 911",
       "timestamp": 1787445691.3360376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1787445841.7917895
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1012",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7199,
-    "total_planned": 63,
+    "total_completed": 7200,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
