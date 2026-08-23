@@ -37187,14 +37187,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1042",
       "timestamp": 1787503832.3867466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787504168.071424
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1042",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7452,
-    "total_planned": 23,
+    "total_completed": 7453,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
