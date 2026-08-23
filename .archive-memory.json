@@ -36807,14 +36807,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 931",
       "timestamp": 1787486432.9578624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787486671.1397111
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7376,
-    "total_planned": 28,
+    "total_completed": 7377,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
