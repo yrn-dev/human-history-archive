@@ -36372,14 +36372,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 719",
       "timestamp": 1787466367.2206154
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 923",
-      "variation": true
-    },
+      "timestamp": 1787466592.8052552
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7289,
-    "total_planned": 44,
+    "total_completed": 7290,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
