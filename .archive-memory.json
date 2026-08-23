@@ -36842,14 +36842,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 929",
       "timestamp": 1787488108.2933247
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 726",
-      "variation": true
-    },
+      "timestamp": 1787488302.8266425
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 932",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7383,
-    "total_planned": 21,
+    "total_completed": 7384,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
