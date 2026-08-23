@@ -36182,14 +36182,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 712",
       "timestamp": 1787457388.2433734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787457678.0138478
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 911",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7251,
-    "total_planned": 11,
+    "total_completed": 7252,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
