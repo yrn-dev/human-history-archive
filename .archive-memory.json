@@ -36472,14 +36472,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 922",
       "timestamp": 1787471099.3628907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787471414.7692115
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 719",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7309,
-    "total_planned": 24,
+    "total_completed": 7310,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
