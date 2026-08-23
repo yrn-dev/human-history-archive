@@ -36627,14 +36627,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 931",
       "timestamp": 1787478198.0486152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787478410.0976453
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 726",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7340,
-    "total_planned": 64,
+    "total_completed": 7341,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
