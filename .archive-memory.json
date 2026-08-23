@@ -36852,14 +36852,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 932",
       "timestamp": 1787488509.176882
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1032",
-      "variation": true
-    },
+      "timestamp": 1787488698.6413894
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7385,
-    "total_planned": 19,
+    "total_completed": 7386,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
