@@ -36647,14 +36647,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 929",
       "timestamp": 1787479040.7210257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787479221.1794567
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1032",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7344,
-    "total_planned": 60,
+    "total_completed": 7345,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
