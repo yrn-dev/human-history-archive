@@ -36032,14 +36032,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 913",
       "timestamp": 1787450695.709514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 712",
-      "variation": true
-    },
+      "timestamp": 1787450910.6915102
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 911",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7221,
-    "total_planned": 41,
+    "total_completed": 7222,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
