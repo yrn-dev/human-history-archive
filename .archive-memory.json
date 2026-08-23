@@ -36977,14 +36977,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 938",
       "timestamp": 1787493996.8605638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1042",
-      "variation": true
-    },
+      "timestamp": 1787494269.4427466
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 938",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7410,
-    "total_planned": 65,
+    "total_completed": 7411,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
