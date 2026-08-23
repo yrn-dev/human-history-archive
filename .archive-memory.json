@@ -36662,14 +36662,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1032",
       "timestamp": 1787479655.5714576
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787479804.1443565
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7347,
-    "total_planned": 57,
+    "total_completed": 7348,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
