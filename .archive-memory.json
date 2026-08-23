@@ -36017,14 +36017,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 913",
       "timestamp": 1787450103.6605818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787450341.664181
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7218,
-    "total_planned": 44,
+    "total_completed": 7219,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
