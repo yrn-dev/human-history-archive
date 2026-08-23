@@ -36262,14 +36262,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 719",
       "timestamp": 1787461221.5023627
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 920",
-      "variation": true
-    },
+      "timestamp": 1787461459.3362021
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 719",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7267,
-    "total_planned": 66,
+    "total_completed": 7268,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
