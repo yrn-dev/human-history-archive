@@ -37162,14 +37162,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 938",
       "timestamp": 1787502751.931847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 938",
-      "variation": true
-    },
+      "timestamp": 1787502934.667174
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 940",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7447,
-    "total_planned": 28,
+    "total_completed": 7448,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
