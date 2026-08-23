@@ -36347,14 +36347,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 920",
       "timestamp": 1787465192.607312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787465470.3407464
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 922",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7284,
-    "total_planned": 49,
+    "total_completed": 7285,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
