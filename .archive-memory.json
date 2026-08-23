@@ -37057,14 +37057,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 941",
       "timestamp": 1787497620.346351
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 733",
-      "variation": true
-    },
+      "timestamp": 1787497778.0524967
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 733",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7426,
-    "total_planned": 49,
+    "total_completed": 7427,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
