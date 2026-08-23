@@ -36607,14 +36607,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 929",
       "timestamp": 1787477073.5170672
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 931",
-      "variation": true
-    },
+      "timestamp": 1787477375.3863072
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7336,
-    "total_planned": 68,
+    "total_completed": 7337,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
