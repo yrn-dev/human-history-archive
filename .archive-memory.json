@@ -36972,14 +36972,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1042",
       "timestamp": 1787493701.53697
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 938",
-      "variation": true
-    },
+      "timestamp": 1787493996.8605638
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1042",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7409,
-    "total_planned": 66,
+    "total_completed": 7410,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
