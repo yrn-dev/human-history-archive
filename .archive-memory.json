@@ -36057,14 +36057,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 913",
       "timestamp": 1787451822.796369
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787452043.1746652
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7226,
-    "total_planned": 36,
+    "total_completed": 7227,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
