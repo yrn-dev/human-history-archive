@@ -37542,14 +37542,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1052",
       "timestamp": 1787520964.831868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787521174.7772388
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7523,
-    "total_planned": 23,
+    "total_completed": 7524,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
