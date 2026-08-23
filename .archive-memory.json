@@ -37307,14 +37307,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 947",
       "timestamp": 1787509870.3095303
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 947",
-      "variation": true
-    },
+      "timestamp": 1787510051.7354527
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 949",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7476,
-    "total_planned": 70,
+    "total_completed": 7477,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
