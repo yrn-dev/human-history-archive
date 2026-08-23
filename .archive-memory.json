@@ -37447,14 +37447,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 949",
       "timestamp": 1787516351.0834134
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 740",
-      "variation": true
-    },
+      "timestamp": 1787516647.675532
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1052",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7504,
-    "total_planned": 42,
+    "total_completed": 7505,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
