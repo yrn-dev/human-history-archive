@@ -35962,14 +35962,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 913",
       "timestamp": 1787447375.6276975
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787447561.423135
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7207,
-    "total_planned": 55,
+    "total_completed": 7208,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
