@@ -35982,14 +35982,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 911",
       "timestamp": 1787448371.6385264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 911",
-      "variation": true
-    },
+      "timestamp": 1787448677.1955192
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 712",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7211,
-    "total_planned": 51,
+    "total_completed": 7212,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
