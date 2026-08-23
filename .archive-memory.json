@@ -37652,18 +37652,17 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 947",
       "timestamp": 1787525635.0534334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 949",
-      "variation": true
+      "timestamp": 1787525895.7042708
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7545,
-    "total_planned": 1,
+    "total_completed": 7546,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
