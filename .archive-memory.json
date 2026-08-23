@@ -36482,14 +36482,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 719",
       "timestamp": 1787471626.106987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787471832.440778
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 920",
@@ -36597,8 +36597,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7311,
-    "total_planned": 22,
+    "total_completed": 7312,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
