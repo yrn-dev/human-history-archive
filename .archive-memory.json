@@ -36637,14 +36637,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 726",
       "timestamp": 1787478588.5579002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 932",
-      "variation": true
-    },
+      "timestamp": 1787478758.1225257
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 929",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7342,
-    "total_planned": 62,
+    "total_completed": 7343,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
