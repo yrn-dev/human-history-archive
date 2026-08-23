@@ -35927,14 +35927,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 712",
       "timestamp": 1787445841.7917895
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787446013.005337
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 712",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7200,
-    "total_planned": 62,
+    "total_completed": 7201,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
