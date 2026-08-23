@@ -37247,14 +37247,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1042",
       "timestamp": 1787506882.045283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 938",
-      "variation": true
-    },
+      "timestamp": 1787507135.4567792
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 733",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7464,
-    "total_planned": 11,
+    "total_completed": 7465,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
