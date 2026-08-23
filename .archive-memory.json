@@ -37217,14 +37217,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 941",
       "timestamp": 1787505302.3434882
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 940",
-      "variation": true
-    },
+      "timestamp": 1787505574.7577195
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1042",
@@ -37307,8 +37307,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7458,
-    "total_planned": 17,
+    "total_completed": 7459,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
