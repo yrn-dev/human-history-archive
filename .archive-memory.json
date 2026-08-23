@@ -37537,14 +37537,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 949",
       "timestamp": 1787520670.409534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1052",
-      "variation": true
-    },
+      "timestamp": 1787520964.831868
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 947",
@@ -37662,8 +37662,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7522,
-    "total_planned": 24,
+    "total_completed": 7523,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
