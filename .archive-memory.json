@@ -35907,14 +35907,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 911",
       "timestamp": 1787445118.5867026
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 913",
-      "variation": true
-    },
+      "timestamp": 1787445272.296627
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 913",
@@ -36242,8 +36242,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7196,
-    "total_planned": 66,
+    "total_completed": 7197,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
