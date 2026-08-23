@@ -36697,14 +36697,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 932",
       "timestamp": 1787481110.963032
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787481285.3922255
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 932",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7354,
-    "total_planned": 50,
+    "total_completed": 7355,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
