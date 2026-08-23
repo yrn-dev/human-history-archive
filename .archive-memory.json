@@ -36907,14 +36907,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1032",
       "timestamp": 1787490884.1031325
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787491056.7418654
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 931",
@@ -36952,8 +36952,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7396,
-    "total_planned": 8,
+    "total_completed": 7397,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
