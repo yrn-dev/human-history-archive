@@ -38182,14 +38182,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 967",
       "timestamp": 1787549335.8257723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1072",
-      "variation": true
-    },
+      "timestamp": 1787549488.4347768
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7651,
-    "total_planned": 37,
+    "total_completed": 7652,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
