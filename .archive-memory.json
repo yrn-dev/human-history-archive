@@ -38687,14 +38687,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 976",
       "timestamp": 1787572498.5045369
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787572749.9384906
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1082",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7752,
-    "total_planned": 7,
+    "total_completed": 7753,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
