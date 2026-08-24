@@ -38232,14 +38232,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1072",
       "timestamp": 1787551820.4121792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787552059.035712
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7661,
-    "total_planned": 27,
+    "total_completed": 7662,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
