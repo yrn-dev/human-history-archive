@@ -38747,14 +38747,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 768",
       "timestamp": 1787575371.5028708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1092",
-      "variation": true
-    },
+      "timestamp": 1787575527.6449542
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7764,
-    "total_planned": 66,
+    "total_completed": 7765,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
