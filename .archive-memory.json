@@ -39087,14 +39087,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 994",
       "timestamp": 1787591284.1548176
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787591592.9438486
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7832,
-    "total_planned": 69,
+    "total_completed": 7833,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
