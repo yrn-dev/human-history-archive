@@ -38607,14 +38607,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 977",
       "timestamp": 1787568334.1055233
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787568584.5757642
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7736,
-    "total_planned": 23,
+    "total_completed": 7737,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
