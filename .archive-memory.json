@@ -39387,14 +39387,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 994",
       "timestamp": 1787604513.9053466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787604676.5515904
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7892,
-    "total_planned": 9,
+    "total_completed": 7893,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
