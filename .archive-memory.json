@@ -39547,14 +39547,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1112",
       "timestamp": 1787611700.3582559
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787611993.717815
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7924,
-    "total_planned": 48,
+    "total_completed": 7925,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
