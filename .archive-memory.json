@@ -39557,14 +39557,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1003",
       "timestamp": 1787612202.3261747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787612365.3883655
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1112",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7926,
-    "total_planned": 46,
+    "total_completed": 7927,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
