@@ -38132,14 +38132,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 965",
       "timestamp": 1787547124.3311975
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787547371.4222422
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7641,
-    "total_planned": 47,
+    "total_completed": 7642,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
