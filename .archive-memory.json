@@ -39127,14 +39127,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 775",
       "timestamp": 1787593029.020159
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787593304.5936587
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1102",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7840,
-    "total_planned": 61,
+    "total_completed": 7841,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
