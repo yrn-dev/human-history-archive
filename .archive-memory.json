@@ -38862,14 +38862,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 983",
       "timestamp": 1787580322.0365205
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787580490.1298153
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7787,
-    "total_planned": 43,
+    "total_completed": 7788,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
