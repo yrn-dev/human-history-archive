@@ -38817,14 +38817,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 985",
       "timestamp": 1787578319.0156558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1092",
-      "variation": true
-    },
+      "timestamp": 1787578491.9311724
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7778,
-    "total_planned": 52,
+    "total_completed": 7779,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
