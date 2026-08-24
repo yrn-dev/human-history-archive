@@ -39602,14 +39602,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 782",
       "timestamp": 1787614285.4169803
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787614455.2531376
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1004",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7935,
-    "total_planned": 37,
+    "total_completed": 7936,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
