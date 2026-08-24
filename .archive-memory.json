@@ -39112,14 +39112,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1102",
       "timestamp": 1787592344.5372872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 775",
-      "variation": true
-    },
+      "timestamp": 1787592544.777708
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7837,
-    "total_planned": 64,
+    "total_completed": 7838,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
