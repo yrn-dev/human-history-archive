@@ -39567,14 +39567,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1112",
       "timestamp": 1787612615.3841472
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787612906.0435567
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7928,
-    "total_planned": 44,
+    "total_completed": 7929,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
