@@ -38932,14 +38932,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 983",
       "timestamp": 1787583744.511054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787584018.726482
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7801,
-    "total_planned": 29,
+    "total_completed": 7802,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
