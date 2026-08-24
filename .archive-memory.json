@@ -38502,14 +38502,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 974",
       "timestamp": 1787563422.7761517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787563723.1363466
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7715,
-    "total_planned": 44,
+    "total_completed": 7716,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
