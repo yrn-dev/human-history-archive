@@ -39252,14 +39252,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 994",
       "timestamp": 1787598947.9403489
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787599175.1407595
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7865,
-    "total_planned": 36,
+    "total_completed": 7866,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
