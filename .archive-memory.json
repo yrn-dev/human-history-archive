@@ -38402,14 +38402,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 976",
       "timestamp": 1787559473.9100335
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 977",
-      "variation": true
-    },
+      "timestamp": 1787559707.7412086
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1082",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7695,
-    "total_planned": 64,
+    "total_completed": 7696,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
