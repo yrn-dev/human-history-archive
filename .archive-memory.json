@@ -39452,14 +39452,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1003",
       "timestamp": 1787607337.9934576
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787607573.1428006
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1112",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7905,
-    "total_planned": 67,
+    "total_completed": 7906,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
