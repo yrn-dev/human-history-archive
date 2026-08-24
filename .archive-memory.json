@@ -37782,14 +37782,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1062",
       "timestamp": 1787531632.1099832
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 747",
-      "variation": true
-    },
+      "timestamp": 1787531800.069969
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 956",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7571,
-    "total_planned": 46,
+    "total_completed": 7572,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
