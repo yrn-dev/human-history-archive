@@ -38962,14 +38962,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 983",
       "timestamp": 1787584960.6088207
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787585164.3114789
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 986",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7807,
-    "total_planned": 23,
+    "total_completed": 7808,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
