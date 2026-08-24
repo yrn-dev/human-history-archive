@@ -38147,14 +38147,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 965",
       "timestamp": 1787547843.6514115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 968",
-      "variation": true
-    },
+      "timestamp": 1787548019.5378425
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 754",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7644,
-    "total_planned": 44,
+    "total_completed": 7645,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
