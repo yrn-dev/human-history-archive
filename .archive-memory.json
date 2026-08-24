@@ -38552,14 +38552,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 976",
       "timestamp": 1787565804.1759586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787566012.5991807
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7725,
-    "total_planned": 34,
+    "total_completed": 7726,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
