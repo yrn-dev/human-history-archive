@@ -38262,14 +38262,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 967",
       "timestamp": 1787553022.005506
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 968",
-      "variation": true
-    },
+      "timestamp": 1787553229.386122
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 754",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7667,
-    "total_planned": 21,
+    "total_completed": 7668,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
