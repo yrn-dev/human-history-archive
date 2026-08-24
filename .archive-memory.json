@@ -38867,14 +38867,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 985",
       "timestamp": 1787580490.1298153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787580771.3640962
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 768",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7788,
-    "total_planned": 42,
+    "total_completed": 7789,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
