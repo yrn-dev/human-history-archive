@@ -38792,14 +38792,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 985",
       "timestamp": 1787577214.923375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 986",
-      "variation": true
-    },
+      "timestamp": 1787577395.5721393
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7773,
-    "total_planned": 57,
+    "total_completed": 7774,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
