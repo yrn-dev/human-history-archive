@@ -38017,14 +38017,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 754",
       "timestamp": 1787542541.9971523
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787542679.0492272
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7618,
-    "total_planned": 70,
+    "total_completed": 7619,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
