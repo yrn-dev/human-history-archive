@@ -37797,14 +37797,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1062",
       "timestamp": 1787532245.861826
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 956",
-      "variation": true
-    },
+      "timestamp": 1787532555.7238808
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 956",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7574,
-    "total_planned": 43,
+    "total_completed": 7575,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
