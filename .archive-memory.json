@@ -37767,14 +37767,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 956",
       "timestamp": 1787530935.186584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787531124.2757783
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7568,
-    "total_planned": 49,
+    "total_completed": 7569,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
