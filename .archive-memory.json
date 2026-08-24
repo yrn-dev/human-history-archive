@@ -38702,14 +38702,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 974",
       "timestamp": 1787573131.99254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787573291.0866323
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 761",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7755,
-    "total_planned": 4,
+    "total_completed": 7756,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
