@@ -38362,18 +38362,17 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 965",
       "timestamp": 1787557529.1396937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 967",
-      "variation": true
+      "timestamp": 1787557739.035743
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7687,
-    "total_planned": 1,
+    "total_completed": 7688,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
