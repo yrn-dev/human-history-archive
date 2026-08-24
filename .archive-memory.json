@@ -38037,14 +38037,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 968",
       "timestamp": 1787543271.256462
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787543437.520264
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7622,
-    "total_planned": 66,
+    "total_completed": 7623,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
