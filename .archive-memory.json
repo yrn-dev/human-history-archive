@@ -39437,14 +39437,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1112",
       "timestamp": 1787606724.5354984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787606931.2708604
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1112",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7902,
-    "total_planned": 70,
+    "total_completed": 7903,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
