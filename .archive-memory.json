@@ -38382,14 +38382,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 976",
       "timestamp": 1787558457.0537162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787558743.0434306
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7691,
-    "total_planned": 68,
+    "total_completed": 7692,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
