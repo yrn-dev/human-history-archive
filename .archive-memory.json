@@ -38072,14 +38072,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 967",
       "timestamp": 1787544758.266816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787544907.3838494
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7629,
-    "total_planned": 59,
+    "total_completed": 7630,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
