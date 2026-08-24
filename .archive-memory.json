@@ -38432,14 +38432,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 977",
       "timestamp": 1787560735.687796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787561010.7433445
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7701,
-    "total_planned": 58,
+    "total_completed": 7702,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
