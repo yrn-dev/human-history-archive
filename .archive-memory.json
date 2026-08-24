@@ -38802,14 +38802,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 983",
       "timestamp": 1787577685.242286
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 768",
-      "variation": true
-    },
+      "timestamp": 1787577968.9266574
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 768",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7775,
-    "total_planned": 55,
+    "total_completed": 7776,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
