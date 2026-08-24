@@ -38942,14 +38942,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 985",
       "timestamp": 1787584157.2094107
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 986",
-      "variation": true
-    },
+      "timestamp": 1787584336.0242867
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7803,
-    "total_planned": 27,
+    "total_completed": 7804,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
