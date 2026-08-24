@@ -39442,14 +39442,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1001",
       "timestamp": 1787606931.2708604
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787607124.899837
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7903,
-    "total_planned": 69,
+    "total_completed": 7904,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
