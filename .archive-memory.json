@@ -39147,14 +39147,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 995",
       "timestamp": 1787593994.2269483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787594219.9818575
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 995",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7844,
-    "total_planned": 57,
+    "total_completed": 7845,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
