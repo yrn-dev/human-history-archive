@@ -37837,14 +37837,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 747",
       "timestamp": 1787534125.8857005
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787534340.1463726
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1062",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7582,
-    "total_planned": 35,
+    "total_completed": 7583,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
