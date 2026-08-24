@@ -38317,14 +38317,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 754",
       "timestamp": 1787555281.7904675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787555467.3624587
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1072",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7678,
-    "total_planned": 10,
+    "total_completed": 7679,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
