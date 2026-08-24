@@ -38312,14 +38312,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 967",
       "timestamp": 1787555044.5345051
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 754",
-      "variation": true
-    },
+      "timestamp": 1787555281.7904675
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7677,
-    "total_planned": 11,
+    "total_completed": 7678,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
