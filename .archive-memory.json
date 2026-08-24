@@ -38027,14 +38027,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 965",
       "timestamp": 1787542905.8413281
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787543077.7044482
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 968",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7620,
-    "total_planned": 68,
+    "total_completed": 7621,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
