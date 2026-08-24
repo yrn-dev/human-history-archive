@@ -39022,14 +39022,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1092",
       "timestamp": 1787587843.2441275
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1092",
-      "variation": true
-    },
+      "timestamp": 1787588143.2764485
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7819,
-    "total_planned": 11,
+    "total_completed": 7820,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
