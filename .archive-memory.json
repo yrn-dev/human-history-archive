@@ -38602,14 +38602,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 974",
       "timestamp": 1787568126.2987032
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 977",
-      "variation": true
-    },
+      "timestamp": 1787568334.1055233
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7735,
-    "total_planned": 24,
+    "total_completed": 7736,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
