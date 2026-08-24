@@ -38667,14 +38667,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 976",
       "timestamp": 1787571486.6339796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787571798.380639
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7748,
-    "total_planned": 11,
+    "total_completed": 7749,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
