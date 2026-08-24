@@ -38122,14 +38122,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 967",
       "timestamp": 1787546732.0447552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787546883.951455
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7639,
-    "total_planned": 49,
+    "total_completed": 7640,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
