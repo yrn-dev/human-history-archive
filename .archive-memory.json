@@ -37757,14 +37757,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 959",
       "timestamp": 1787530502.7253394
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 956",
-      "variation": true
-    },
+      "timestamp": 1787530703.7406003
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 956",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7566,
-    "total_planned": 51,
+    "total_completed": 7567,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
