@@ -38307,14 +38307,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 967",
       "timestamp": 1787554785.663657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787555044.5345051
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 754",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7676,
-    "total_planned": 12,
+    "total_completed": 7677,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
