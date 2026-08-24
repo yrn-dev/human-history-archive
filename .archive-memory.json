@@ -38707,14 +38707,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 761",
       "timestamp": 1787573291.0866323
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787573569.5605736
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 977",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7756,
-    "total_planned": 3,
+    "total_completed": 7757,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
