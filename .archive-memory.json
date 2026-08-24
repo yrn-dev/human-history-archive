@@ -39487,14 +39487,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1003",
       "timestamp": 1787608836.425506
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787609094.2854116
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1004",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7912,
-    "total_planned": 60,
+    "total_completed": 7913,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
