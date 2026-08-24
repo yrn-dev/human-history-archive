@@ -38047,14 +38047,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 967",
       "timestamp": 1787543579.87341
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 968",
-      "variation": true
-    },
+      "timestamp": 1787543873.0058434
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7624,
-    "total_planned": 64,
+    "total_completed": 7625,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
