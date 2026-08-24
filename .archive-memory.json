@@ -38767,14 +38767,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 768",
       "timestamp": 1787576289.133062
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 768",
-      "variation": true
-    },
+      "timestamp": 1787576446.472216
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 768",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7768,
-    "total_planned": 62,
+    "total_completed": 7769,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
