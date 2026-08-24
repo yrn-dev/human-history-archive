@@ -38032,14 +38032,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 967",
       "timestamp": 1787543077.7044482
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 968",
-      "variation": true
-    },
+      "timestamp": 1787543271.256462
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7621,
-    "total_planned": 67,
+    "total_completed": 7622,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
