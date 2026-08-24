@@ -39497,14 +39497,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1004",
       "timestamp": 1787609367.9546306
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787609510.1980498
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1004",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7914,
-    "total_planned": 58,
+    "total_completed": 7915,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
