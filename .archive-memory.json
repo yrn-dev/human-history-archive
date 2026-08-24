@@ -39552,14 +39552,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1001",
       "timestamp": 1787611993.717815
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787612202.3261747
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7925,
-    "total_planned": 47,
+    "total_completed": 7926,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
