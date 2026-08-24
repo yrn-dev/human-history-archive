@@ -38252,14 +38252,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 968",
       "timestamp": 1787552591.964798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 754",
-      "variation": true
-    },
+      "timestamp": 1787552837.1194968
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7665,
-    "total_planned": 23,
+    "total_completed": 7666,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
