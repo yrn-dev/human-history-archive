@@ -39522,14 +39522,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1003",
       "timestamp": 1787610432.9476924
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787610714.9391234
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7919,
-    "total_planned": 53,
+    "total_completed": 7920,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
