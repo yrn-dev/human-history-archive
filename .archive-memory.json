@@ -37942,14 +37942,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1062",
       "timestamp": 1787539372.6920063
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 956",
-      "variation": true
-    },
+      "timestamp": 1787539575.6132135
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1062",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7603,
-    "total_planned": 14,
+    "total_completed": 7604,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
