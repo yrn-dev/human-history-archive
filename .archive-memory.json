@@ -39092,14 +39092,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 994",
       "timestamp": 1787591592.9438486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787591776.8907487
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7833,
-    "total_planned": 68,
+    "total_completed": 7834,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
