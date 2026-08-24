@@ -39002,14 +39002,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 983",
       "timestamp": 1787586985.148154
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787587169.6425645
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 986",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7815,
-    "total_planned": 15,
+    "total_completed": 7816,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
