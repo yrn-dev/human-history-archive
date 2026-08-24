@@ -38437,14 +38437,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 976",
       "timestamp": 1787561010.7433445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787561153.8286004
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7702,
-    "total_planned": 57,
+    "total_completed": 7703,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
