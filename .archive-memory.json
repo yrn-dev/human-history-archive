@@ -38587,14 +38587,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 976",
       "timestamp": 1787567359.9934883
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 977",
-      "variation": true
-    },
+      "timestamp": 1787567592.877235
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7732,
-    "total_planned": 27,
+    "total_completed": 7733,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
