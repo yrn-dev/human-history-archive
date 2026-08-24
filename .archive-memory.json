@@ -38772,14 +38772,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 768",
       "timestamp": 1787576446.472216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 768",
-      "variation": true
-    },
+      "timestamp": 1787576589.8729386
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7769,
-    "total_planned": 61,
+    "total_completed": 7770,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
