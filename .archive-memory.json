@@ -38842,14 +38842,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 985",
       "timestamp": 1787579242.945515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787579505.7075942
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7783,
-    "total_planned": 47,
+    "total_completed": 7784,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
