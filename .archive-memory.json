@@ -38472,14 +38472,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 761",
       "timestamp": 1787562100.449625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787562277.685432
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7709,
-    "total_planned": 50,
+    "total_completed": 7710,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
