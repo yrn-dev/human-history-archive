@@ -38417,14 +38417,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 977",
       "timestamp": 1787560179.7744215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787560315.165611
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 977",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7698,
-    "total_planned": 61,
+    "total_completed": 7699,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
