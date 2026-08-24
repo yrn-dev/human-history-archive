@@ -38092,14 +38092,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 965",
       "timestamp": 1787545646.1461387
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 754",
-      "variation": true
-    },
+      "timestamp": 1787545910.2595835
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7633,
-    "total_planned": 55,
+    "total_completed": 7634,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
