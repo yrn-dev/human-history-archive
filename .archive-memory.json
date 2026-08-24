@@ -38117,14 +38117,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1072",
       "timestamp": 1787546577.5914235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787546732.0447552
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7638,
-    "total_planned": 50,
+    "total_completed": 7639,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
