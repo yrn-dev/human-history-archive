@@ -38827,14 +38827,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 985",
       "timestamp": 1787578629.763849
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1092",
-      "variation": true
-    },
+      "timestamp": 1787578824.9855983
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7780,
-    "total_planned": 50,
+    "total_completed": 7781,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
