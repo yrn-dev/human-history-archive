@@ -38297,14 +38297,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 965",
       "timestamp": 1787554407.6148646
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 754",
-      "variation": true
-    },
+      "timestamp": 1787554595.953453
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7674,
-    "total_planned": 14,
+    "total_completed": 7675,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
