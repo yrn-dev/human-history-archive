@@ -39117,14 +39117,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 775",
       "timestamp": 1787592544.777708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787592828.6989374
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 775",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7838,
-    "total_planned": 63,
+    "total_completed": 7839,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
