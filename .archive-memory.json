@@ -37957,14 +37957,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 958",
       "timestamp": 1787539868.441864
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787540025.6648684
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 747",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7606,
-    "total_planned": 11,
+    "total_completed": 7607,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
