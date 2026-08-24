@@ -38872,14 +38872,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 985",
       "timestamp": 1787580771.3640962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 768",
-      "variation": true
-    },
+      "timestamp": 1787581094.3413098
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7789,
-    "total_planned": 41,
+    "total_completed": 7790,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
