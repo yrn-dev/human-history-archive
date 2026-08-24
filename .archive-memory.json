@@ -38237,14 +38237,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 965",
       "timestamp": 1787552059.035712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787552222.905913
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7662,
-    "total_planned": 26,
+    "total_completed": 7663,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
