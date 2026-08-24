@@ -38077,14 +38077,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 967",
       "timestamp": 1787544907.3838494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787545216.583454
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1072",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7630,
-    "total_planned": 58,
+    "total_completed": 7631,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
