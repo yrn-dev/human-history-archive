@@ -37802,14 +37802,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 956",
       "timestamp": 1787532555.7238808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 956",
-      "variation": true
-    },
+      "timestamp": 1787532718.0753818
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7575,
-    "total_planned": 42,
+    "total_completed": 7576,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
