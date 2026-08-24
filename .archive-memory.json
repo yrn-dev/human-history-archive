@@ -38247,14 +38247,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 967",
       "timestamp": 1787552430.0227659
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 968",
-      "variation": true
-    },
+      "timestamp": 1787552591.964798
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 754",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7664,
-    "total_planned": 24,
+    "total_completed": 7665,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
