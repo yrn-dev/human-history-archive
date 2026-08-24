@@ -38907,14 +38907,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 985",
       "timestamp": 1787582531.9732113
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787582764.3735526
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7796,
-    "total_planned": 34,
+    "total_completed": 7797,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
