@@ -38332,14 +38332,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 965",
       "timestamp": 1787556008.8111377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787556278.7756693
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7681,
-    "total_planned": 7,
+    "total_completed": 7682,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
