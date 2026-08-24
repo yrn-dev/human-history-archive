@@ -39527,14 +39527,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 782",
       "timestamp": 1787610714.9391234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787610972.6858573
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7920,
-    "total_planned": 52,
+    "total_completed": 7921,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
