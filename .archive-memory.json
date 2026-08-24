@@ -39517,14 +39517,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1003",
       "timestamp": 1787610174.1255612
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787610432.9476924
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 782",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7918,
-    "total_planned": 54,
+    "total_completed": 7919,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
