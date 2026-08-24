@@ -38822,14 +38822,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1092",
       "timestamp": 1787578491.9311724
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787578629.763849
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1092",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7779,
-    "total_planned": 51,
+    "total_completed": 7780,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
