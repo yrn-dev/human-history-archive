@@ -38187,14 +38187,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1072",
       "timestamp": 1787549488.4347768
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787549793.8516905
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7652,
-    "total_planned": 36,
+    "total_completed": 7653,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
