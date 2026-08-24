@@ -38082,14 +38082,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 967",
       "timestamp": 1787545216.583454
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1072",
-      "variation": true
-    },
+      "timestamp": 1787545479.0946696
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7631,
-    "total_planned": 57,
+    "total_completed": 7632,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
