@@ -38467,14 +38467,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 976",
       "timestamp": 1787561925.5737693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787562100.449625
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 761",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7708,
-    "total_planned": 51,
+    "total_completed": 7709,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
