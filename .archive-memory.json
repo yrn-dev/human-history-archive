@@ -38737,14 +38737,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 985",
       "timestamp": 1787574895.8215065
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787575162.6296828
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 768",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7762,
-    "total_planned": 68,
+    "total_completed": 7763,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
