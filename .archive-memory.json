@@ -38422,14 +38422,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 974",
       "timestamp": 1787560315.165611
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 977",
-      "variation": true
-    },
+      "timestamp": 1787560598.9539354
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 977",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7699,
-    "total_planned": 60,
+    "total_completed": 7700,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
