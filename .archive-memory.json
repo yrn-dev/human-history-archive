@@ -39152,14 +39152,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 992",
       "timestamp": 1787594219.9818575
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 995",
-      "variation": true
-    },
+      "timestamp": 1787594507.640283
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7845,
-    "total_planned": 56,
+    "total_completed": 7846,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
