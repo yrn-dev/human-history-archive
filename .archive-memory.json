@@ -38042,14 +38042,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 965",
       "timestamp": 1787543437.520264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787543579.87341
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 968",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7623,
-    "total_planned": 65,
+    "total_completed": 7624,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
