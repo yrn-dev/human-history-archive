@@ -38407,14 +38407,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 977",
       "timestamp": 1787559707.7412086
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787559897.2877874
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 977",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7696,
-    "total_planned": 63,
+    "total_completed": 7697,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
