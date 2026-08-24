@@ -38622,14 +38622,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 976",
       "timestamp": 1787569176.10914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787569428.111732
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7739,
-    "total_planned": 20,
+    "total_completed": 7740,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
