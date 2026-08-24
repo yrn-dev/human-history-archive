@@ -38067,14 +38067,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1072",
       "timestamp": 1787544520.5906022
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787544758.266816
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7628,
-    "total_planned": 60,
+    "total_completed": 7629,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
