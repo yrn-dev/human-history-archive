@@ -38352,14 +38352,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 968",
       "timestamp": 1787556961.8644493
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787557264.4381328
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7685,
-    "total_planned": 3,
+    "total_completed": 7686,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
