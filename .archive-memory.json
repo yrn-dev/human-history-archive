@@ -38512,14 +38512,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 974",
       "timestamp": 1787563915.6016214
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787564184.6566415
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1082",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7717,
-    "total_planned": 42,
+    "total_completed": 7718,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
