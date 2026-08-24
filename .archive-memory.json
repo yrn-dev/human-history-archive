@@ -39467,14 +39467,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1003",
       "timestamp": 1787607989.0364745
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787608169.1808684
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7908,
-    "total_planned": 64,
+    "total_completed": 7909,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
