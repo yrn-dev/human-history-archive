@@ -39237,14 +39237,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 994",
       "timestamp": 1787598325.4733057
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787598484.040453
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7862,
-    "total_planned": 39,
+    "total_completed": 7863,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
