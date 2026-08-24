@@ -38442,14 +38442,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 976",
       "timestamp": 1787561153.8286004
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787561323.6713748
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7703,
-    "total_planned": 56,
+    "total_completed": 7704,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
