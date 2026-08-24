@@ -38627,14 +38627,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 976",
       "timestamp": 1787569428.111732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787569673.1948128
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7740,
-    "total_planned": 19,
+    "total_completed": 7741,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
