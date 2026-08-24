@@ -37832,14 +37832,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 958",
       "timestamp": 1787533908.27537
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 747",
-      "variation": true
-    },
+      "timestamp": 1787534125.8857005
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7581,
-    "total_planned": 36,
+    "total_completed": 7582,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
