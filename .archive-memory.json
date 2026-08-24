@@ -38272,14 +38272,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 754",
       "timestamp": 1787553375.0745957
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787553524.6118007
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7669,
-    "total_planned": 19,
+    "total_completed": 7670,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
