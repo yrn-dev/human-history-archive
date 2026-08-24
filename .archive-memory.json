@@ -37962,14 +37962,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 958",
       "timestamp": 1787540025.6648684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 747",
-      "variation": true
-    },
+      "timestamp": 1787540333.1819549
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7607,
-    "total_planned": 10,
+    "total_completed": 7608,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
