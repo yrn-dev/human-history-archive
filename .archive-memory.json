@@ -37842,14 +37842,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 958",
       "timestamp": 1787534340.1463726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1062",
-      "variation": true
-    },
+      "timestamp": 1787534540.2612736
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7583,
-    "total_planned": 34,
+    "total_completed": 7584,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
