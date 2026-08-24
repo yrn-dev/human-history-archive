@@ -39122,14 +39122,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 994",
       "timestamp": 1787592828.6989374
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 775",
-      "variation": true
-    },
+      "timestamp": 1787593029.020159
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7839,
-    "total_planned": 62,
+    "total_completed": 7840,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
