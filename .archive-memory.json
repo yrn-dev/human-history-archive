@@ -38957,14 +38957,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 983",
       "timestamp": 1787584808.2484798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787584960.6088207
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7806,
-    "total_planned": 24,
+    "total_completed": 7807,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
