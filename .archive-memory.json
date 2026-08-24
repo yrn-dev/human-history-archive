@@ -37792,14 +37792,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 956",
       "timestamp": 1787531976.882001
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1062",
-      "variation": true
-    },
+      "timestamp": 1787532245.861826
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 956",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7573,
-    "total_planned": 44,
+    "total_completed": 7574,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
