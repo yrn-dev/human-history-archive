@@ -38197,14 +38197,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 967",
       "timestamp": 1787550039.8718636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787550242.8579338
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7654,
-    "total_planned": 34,
+    "total_completed": 7655,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
