@@ -39462,14 +39462,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1112",
       "timestamp": 1787607837.8064334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787607989.0364745
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7907,
-    "total_planned": 65,
+    "total_completed": 7908,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
