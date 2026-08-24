@@ -38002,14 +38002,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 956",
       "timestamp": 1787541906.3949614
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787542079.5844662
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7615,
-    "total_planned": 2,
+    "total_completed": 7616,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
