@@ -38372,14 +38372,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1082",
       "timestamp": 1787558027.0602021
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787558284.166341
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7689,
-    "total_planned": 70,
+    "total_completed": 7690,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
