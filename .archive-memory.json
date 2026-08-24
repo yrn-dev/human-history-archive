@@ -39187,14 +39187,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 992",
       "timestamp": 1787596039.7282429
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787596340.0905077
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 995",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7852,
-    "total_planned": 49,
+    "total_completed": 7853,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
