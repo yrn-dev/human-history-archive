@@ -39457,14 +39457,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1003",
       "timestamp": 1787607573.1428006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787607837.8064334
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7906,
-    "total_planned": 66,
+    "total_completed": 7907,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
