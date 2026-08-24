@@ -37892,14 +37892,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 958",
       "timestamp": 1787536872.6646397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787537152.8136516
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7593,
-    "total_planned": 24,
+    "total_completed": 7594,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
