@@ -38897,14 +38897,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 985",
       "timestamp": 1787581985.1592846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787582274.156511
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7794,
-    "total_planned": 36,
+    "total_completed": 7795,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
