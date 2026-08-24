@@ -38912,14 +38912,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 983",
       "timestamp": 1787582764.3735526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787583076.9511971
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 986",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7797,
-    "total_planned": 33,
+    "total_completed": 7798,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
