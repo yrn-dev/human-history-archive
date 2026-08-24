@@ -38342,14 +38342,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 967",
       "timestamp": 1787556490.0278795
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787556784.8240395
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 968",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7683,
-    "total_planned": 5,
+    "total_completed": 7684,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
