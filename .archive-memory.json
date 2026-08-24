@@ -39052,14 +39052,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 983",
       "timestamp": 1787589399.9123683
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787589705.4104116
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 986",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7825,
-    "total_planned": 5,
+    "total_completed": 7826,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
