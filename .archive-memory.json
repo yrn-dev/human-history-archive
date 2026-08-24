@@ -39542,14 +39542,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1003",
       "timestamp": 1787611419.593073
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787611700.3582559
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7923,
-    "total_planned": 49,
+    "total_completed": 7924,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
