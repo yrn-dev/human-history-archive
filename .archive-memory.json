@@ -38172,14 +38172,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 965",
       "timestamp": 1787548836.9229505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787549063.9217672
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7649,
-    "total_planned": 39,
+    "total_completed": 7650,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
