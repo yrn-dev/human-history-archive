@@ -39562,14 +39562,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1003",
       "timestamp": 1787612365.3883655
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787612615.3841472
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7927,
-    "total_planned": 45,
+    "total_completed": 7928,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
