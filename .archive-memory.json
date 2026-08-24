@@ -39172,14 +39172,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 995",
       "timestamp": 1787595254.8183732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 775",
-      "variation": true
-    },
+      "timestamp": 1787595532.2249415
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7849,
-    "total_planned": 52,
+    "total_completed": 7850,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
