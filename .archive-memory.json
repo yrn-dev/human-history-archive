@@ -38087,14 +38087,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1072",
       "timestamp": 1787545479.0946696
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787545646.1461387
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 754",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7632,
-    "total_planned": 56,
+    "total_completed": 7633,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
