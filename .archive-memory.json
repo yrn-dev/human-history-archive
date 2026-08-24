@@ -39507,14 +39507,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1004",
       "timestamp": 1787609647.8805947
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787609941.2849367
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7916,
-    "total_planned": 56,
+    "total_completed": 7917,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
