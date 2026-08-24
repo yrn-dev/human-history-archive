@@ -39417,14 +39417,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 775",
       "timestamp": 1787605622.9731858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787605892.4716735
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7898,
-    "total_planned": 3,
+    "total_completed": 7899,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
