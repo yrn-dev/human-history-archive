@@ -39182,14 +39182,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 992",
       "timestamp": 1787595820.9712229
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787596039.7282429
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7851,
-    "total_planned": 50,
+    "total_completed": 7852,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
