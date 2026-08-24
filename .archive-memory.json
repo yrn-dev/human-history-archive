@@ -39347,14 +39347,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 994",
       "timestamp": 1787602937.7110536
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787603111.2822547
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 995",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7884,
-    "total_planned": 17,
+    "total_completed": 7885,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
