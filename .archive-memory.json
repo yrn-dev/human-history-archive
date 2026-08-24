@@ -39362,14 +39362,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 992",
       "timestamp": 1787603509.5721345
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787603772.4590437
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1102",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7887,
-    "total_planned": 14,
+    "total_completed": 7888,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
