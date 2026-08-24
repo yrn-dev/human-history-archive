@@ -39137,14 +39137,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1102",
       "timestamp": 1787593489.183622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787593656.865486
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 995",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7842,
-    "total_planned": 59,
+    "total_completed": 7843,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
