@@ -38762,14 +38762,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 983",
       "timestamp": 1787576017.1377428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 768",
-      "variation": true
-    },
+      "timestamp": 1787576289.133062
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 768",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7767,
-    "total_planned": 63,
+    "total_completed": 7768,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
