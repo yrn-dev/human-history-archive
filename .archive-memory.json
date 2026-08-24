@@ -37872,14 +37872,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1062",
       "timestamp": 1787535882.1318853
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787536114.1205752
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7589,
-    "total_planned": 28,
+    "total_completed": 7590,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
