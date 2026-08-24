@@ -38592,14 +38592,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 977",
       "timestamp": 1787567592.877235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787567827.3044522
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7733,
-    "total_planned": 26,
+    "total_completed": 7734,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
