@@ -38487,14 +38487,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 761",
       "timestamp": 1787562807.614461
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787563005.4041088
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7712,
-    "total_planned": 47,
+    "total_completed": 7713,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
