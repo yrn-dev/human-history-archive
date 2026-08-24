@@ -39502,14 +39502,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1001",
       "timestamp": 1787609510.1980498
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1004",
-      "variation": true
-    },
+      "timestamp": 1787609647.8805947
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7915,
-    "total_planned": 57,
+    "total_completed": 7916,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
