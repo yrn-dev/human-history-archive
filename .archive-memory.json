@@ -38287,14 +38287,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 965",
       "timestamp": 1787553951.7046733
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1072",
-      "variation": true
-    },
+      "timestamp": 1787554122.469486
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7672,
-    "total_planned": 16,
+    "total_completed": 7673,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
