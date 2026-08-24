@@ -37937,14 +37937,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 958",
       "timestamp": 1787539192.1934514
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1062",
-      "variation": true
-    },
+      "timestamp": 1787539372.6920063
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 956",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7602,
-    "total_planned": 15,
+    "total_completed": 7603,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
