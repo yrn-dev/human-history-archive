@@ -39332,14 +39332,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 994",
       "timestamp": 1787602330.034209
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787602480.5748851
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7881,
-    "total_planned": 20,
+    "total_completed": 7882,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
