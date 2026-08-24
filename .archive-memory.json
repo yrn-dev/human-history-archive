@@ -39317,14 +39317,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 994",
       "timestamp": 1787601600.5462456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 995",
-      "variation": true
-    },
+      "timestamp": 1787601790.6309392
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7878,
-    "total_planned": 23,
+    "total_completed": 7879,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
