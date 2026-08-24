@@ -38952,14 +38952,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 985",
       "timestamp": 1787584590.3893096
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787584808.2484798
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7805,
-    "total_planned": 25,
+    "total_completed": 7806,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
