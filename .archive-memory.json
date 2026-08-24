@@ -39177,14 +39177,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 775",
       "timestamp": 1787595532.2249415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787595820.9712229
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7850,
-    "total_planned": 51,
+    "total_completed": 7851,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
