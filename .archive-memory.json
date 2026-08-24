@@ -39057,14 +39057,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 983",
       "timestamp": 1787589705.4104116
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 986",
-      "variation": true
-    },
+      "timestamp": 1787590002.8221297
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7826,
-    "total_planned": 4,
+    "total_completed": 7827,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
