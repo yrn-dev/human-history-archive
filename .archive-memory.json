@@ -38577,14 +38577,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 976",
       "timestamp": 1787566957.9019694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 977",
-      "variation": true
-    },
+      "timestamp": 1787567110.3149245
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7730,
-    "total_planned": 29,
+    "total_completed": 7731,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
