@@ -37812,14 +37812,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 958",
       "timestamp": 1787532933.8597999
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 956",
-      "variation": true
-    },
+      "timestamp": 1787533170.0675392
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 959",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7577,
-    "total_planned": 40,
+    "total_completed": 7578,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
