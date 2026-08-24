@@ -38222,14 +38222,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1072",
       "timestamp": 1787551308.291366
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787551523.1503968
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1072",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7659,
-    "total_planned": 29,
+    "total_completed": 7660,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
