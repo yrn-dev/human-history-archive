@@ -38977,14 +38977,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1092",
       "timestamp": 1787585681.5489142
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787585973.1987338
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1092",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7810,
-    "total_planned": 20,
+    "total_completed": 7811,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
