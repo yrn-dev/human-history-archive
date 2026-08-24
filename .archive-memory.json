@@ -37897,14 +37897,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 958",
       "timestamp": 1787537152.8136516
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787537464.3118167
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 956",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7594,
-    "total_planned": 23,
+    "total_completed": 7595,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
