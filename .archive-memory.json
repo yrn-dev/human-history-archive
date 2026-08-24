@@ -38477,14 +38477,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 761",
       "timestamp": 1787562277.685432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787562510.235692
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 761",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7710,
-    "total_planned": 49,
+    "total_completed": 7711,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
