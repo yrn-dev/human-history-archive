@@ -38397,14 +38397,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 976",
       "timestamp": 1787559159.9952395
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787559473.9100335
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 977",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7694,
-    "total_planned": 65,
+    "total_completed": 7695,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
