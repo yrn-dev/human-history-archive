@@ -39062,14 +39062,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 986",
       "timestamp": 1787590002.8221297
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787590272.3932686
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 986",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7827,
-    "total_planned": 3,
+    "total_completed": 7828,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
