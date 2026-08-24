@@ -38522,14 +38522,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1082",
       "timestamp": 1787564479.2048507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787564650.9895346
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7719,
-    "total_planned": 40,
+    "total_completed": 7720,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
