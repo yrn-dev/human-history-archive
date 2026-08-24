@@ -39257,14 +39257,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 992",
       "timestamp": 1787599175.1407595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787599345.2142553
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1102",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7866,
-    "total_planned": 35,
+    "total_completed": 7867,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
