@@ -38537,14 +38537,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 974",
       "timestamp": 1787565200.4323823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787565351.9433508
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 977",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7722,
-    "total_planned": 37,
+    "total_completed": 7723,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
