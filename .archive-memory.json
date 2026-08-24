@@ -39422,14 +39422,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 994",
       "timestamp": 1787605892.4716735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787606138.0452704
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 992",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7899,
-    "total_planned": 2,
+    "total_completed": 7900,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
