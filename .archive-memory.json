@@ -38852,14 +38852,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 985",
       "timestamp": 1787579796.8069596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787580015.9914486
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7785,
-    "total_planned": 45,
+    "total_completed": 7786,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
