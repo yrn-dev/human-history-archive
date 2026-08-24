@@ -38057,14 +38057,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 967",
       "timestamp": 1787544059.7406642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 968",
-      "variation": true
-    },
+      "timestamp": 1787544307.1288223
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1072",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7626,
-    "total_planned": 62,
+    "total_completed": 7627,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
