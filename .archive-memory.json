@@ -38697,14 +38697,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1082",
       "timestamp": 1787572964.6481595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787573131.99254
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 761",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7754,
-    "total_planned": 5,
+    "total_completed": 7755,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
