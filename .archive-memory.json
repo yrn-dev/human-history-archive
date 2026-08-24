@@ -38022,14 +38022,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 967",
       "timestamp": 1787542679.0492272
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787542905.8413281
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7619,
-    "total_planned": 69,
+    "total_completed": 7620,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
