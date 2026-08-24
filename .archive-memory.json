@@ -38102,14 +38102,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 965",
       "timestamp": 1787546064.9504144
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 968",
-      "variation": true
-    },
+      "timestamp": 1787546262.6545153
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1072",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7635,
-    "total_planned": 53,
+    "total_completed": 7636,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
