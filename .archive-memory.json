@@ -38227,14 +38227,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 965",
       "timestamp": 1787551523.1503968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1072",
-      "variation": true
-    },
+      "timestamp": 1787551820.4121792
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7660,
-    "total_planned": 28,
+    "total_completed": 7661,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
