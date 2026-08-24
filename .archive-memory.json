@@ -39587,14 +39587,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1004",
       "timestamp": 1787613554.8836043
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787613780.0018258
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7932,
-    "total_planned": 40,
+    "total_completed": 7933,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
