@@ -38257,14 +38257,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 754",
       "timestamp": 1787552837.1194968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787553022.005506
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 968",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7666,
-    "total_planned": 22,
+    "total_completed": 7667,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
