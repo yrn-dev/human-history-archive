@@ -39482,14 +39482,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1001",
       "timestamp": 1787608690.7736883
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787608836.425506
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7911,
-    "total_planned": 61,
+    "total_completed": 7912,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
