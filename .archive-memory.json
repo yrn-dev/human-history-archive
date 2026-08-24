@@ -38107,14 +38107,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 968",
       "timestamp": 1787546262.6545153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1072",
-      "variation": true
-    },
+      "timestamp": 1787546416.9732952
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1072",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7636,
-    "total_planned": 52,
+    "total_completed": 7637,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
