@@ -37922,14 +37922,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 956",
       "timestamp": 1787538527.1237938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 959",
-      "variation": true
-    },
+      "timestamp": 1787538716.34361
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 956",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7599,
-    "total_planned": 18,
+    "total_completed": 7600,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
