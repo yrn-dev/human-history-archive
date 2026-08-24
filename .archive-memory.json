@@ -38282,14 +38282,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 967",
       "timestamp": 1787553807.3758461
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787553951.7046733
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1072",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7671,
-    "total_planned": 17,
+    "total_completed": 7672,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
