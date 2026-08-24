@@ -37777,14 +37777,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 958",
       "timestamp": 1787531388.026833
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1062",
-      "variation": true
-    },
+      "timestamp": 1787531632.1099832
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 747",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7570,
-    "total_planned": 47,
+    "total_completed": 7571,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
