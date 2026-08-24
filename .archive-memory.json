@@ -38617,14 +38617,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 976",
       "timestamp": 1787568898.23107
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787569176.10914
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7738,
-    "total_planned": 21,
+    "total_completed": 7739,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
