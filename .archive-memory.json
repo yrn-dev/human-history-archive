@@ -38987,14 +38987,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1092",
       "timestamp": 1787586256.6611323
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787586429.0944128
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7812,
-    "total_planned": 18,
+    "total_completed": 7813,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
