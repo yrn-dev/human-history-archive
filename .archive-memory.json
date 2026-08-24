@@ -39067,14 +39067,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 985",
       "timestamp": 1787590272.3932686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 986",
-      "variation": true
-    },
+      "timestamp": 1787590557.4732876
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1092",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7828,
-    "total_planned": 2,
+    "total_completed": 7829,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
