@@ -39447,14 +39447,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1112",
       "timestamp": 1787607124.899837
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787607337.9934576
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7904,
-    "total_planned": 68,
+    "total_completed": 7905,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
