@@ -38052,14 +38052,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 968",
       "timestamp": 1787543873.0058434
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787544059.7406642
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 968",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7625,
-    "total_planned": 63,
+    "total_completed": 7626,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
