@@ -37977,14 +37977,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 956",
       "timestamp": 1787540844.9630222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787541075.678846
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 959",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7610,
-    "total_planned": 7,
+    "total_completed": 7611,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
