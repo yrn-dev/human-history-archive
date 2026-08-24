@@ -38137,14 +38137,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 965",
       "timestamp": 1787547371.4222422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787547554.387454
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7642,
-    "total_planned": 46,
+    "total_completed": 7643,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
