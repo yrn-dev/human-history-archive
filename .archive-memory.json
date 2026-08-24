@@ -38482,14 +38482,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 974",
       "timestamp": 1787562510.235692
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 761",
-      "variation": true
-    },
+      "timestamp": 1787562807.614461
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7711,
-    "total_planned": 48,
+    "total_completed": 7712,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
