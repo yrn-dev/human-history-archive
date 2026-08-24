@@ -38982,14 +38982,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 983",
       "timestamp": 1787585973.1987338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1092",
-      "variation": true
-    },
+      "timestamp": 1787586256.6611323
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7811,
-    "total_planned": 19,
+    "total_completed": 7812,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
