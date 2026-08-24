@@ -39072,18 +39072,17 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 986",
       "timestamp": 1787590557.4732876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1092",
-      "variation": true
+      "timestamp": 1787590785.6136837
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7829,
-    "total_planned": 1,
+    "total_completed": 7830,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
