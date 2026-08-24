@@ -39027,14 +39027,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1092",
       "timestamp": 1787588143.2764485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787588376.6597028
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7820,
-    "total_planned": 10,
+    "total_completed": 7821,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
