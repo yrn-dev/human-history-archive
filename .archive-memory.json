@@ -38392,14 +38392,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 974",
       "timestamp": 1787558910.4360628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787559159.9952395
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7693,
-    "total_planned": 66,
+    "total_completed": 7694,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
