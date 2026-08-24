@@ -39377,14 +39377,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1102",
       "timestamp": 1787604092.1725512
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787604325.9855921
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7890,
-    "total_planned": 11,
+    "total_completed": 7891,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
