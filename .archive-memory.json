@@ -38277,14 +38277,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 967",
       "timestamp": 1787553524.6118007
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787553807.3758461
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7670,
-    "total_planned": 18,
+    "total_completed": 7671,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
