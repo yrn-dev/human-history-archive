@@ -38922,14 +38922,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 986",
       "timestamp": 1787583250.57579
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 986",
-      "variation": true
-    },
+      "timestamp": 1787583492.3194635
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7799,
-    "total_planned": 31,
+    "total_completed": 7800,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
