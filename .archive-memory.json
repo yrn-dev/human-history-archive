@@ -38532,14 +38532,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 976",
       "timestamp": 1787564938.3048968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787565200.4323823
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7721,
-    "total_planned": 38,
+    "total_completed": 7722,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
