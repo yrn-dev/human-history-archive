@@ -38682,14 +38682,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1082",
       "timestamp": 1787572240.553816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787572498.5045369
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7751,
-    "total_planned": 8,
+    "total_completed": 7752,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
