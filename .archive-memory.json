@@ -39157,14 +39157,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 995",
       "timestamp": 1787594507.640283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787594770.7285194
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1102",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7846,
-    "total_planned": 55,
+    "total_completed": 7847,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
