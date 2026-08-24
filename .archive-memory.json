@@ -38642,14 +38642,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 761",
       "timestamp": 1787570161.5049415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 974",
-      "variation": true
-    },
+      "timestamp": 1787570478.5201566
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7743,
-    "total_planned": 16,
+    "total_completed": 7744,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
