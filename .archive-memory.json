@@ -38292,14 +38292,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1072",
       "timestamp": 1787554122.469486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787554407.6148646
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 754",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7673,
-    "total_planned": 15,
+    "total_completed": 7674,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
