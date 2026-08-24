@@ -37857,14 +37857,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 958",
       "timestamp": 1787535049.674676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787535333.1343718
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 958",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7586,
-    "total_planned": 31,
+    "total_completed": 7587,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
