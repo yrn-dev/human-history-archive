@@ -38877,14 +38877,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 768",
       "timestamp": 1787581094.3413098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787581273.9035785
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1092",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7790,
-    "total_planned": 40,
+    "total_completed": 7791,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
