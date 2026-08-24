@@ -38347,14 +38347,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 967",
       "timestamp": 1787556784.8240395
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 968",
-      "variation": true
-    },
+      "timestamp": 1787556961.8644493
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 965",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7684,
-    "total_planned": 4,
+    "total_completed": 7685,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
