@@ -37772,14 +37772,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 958",
       "timestamp": 1787531124.2757783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 958",
-      "variation": true
-    },
+      "timestamp": 1787531388.026833
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1062",
@@ -38017,8 +38017,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7569,
-    "total_planned": 48,
+    "total_completed": 7570,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
