@@ -38992,14 +38992,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 985",
       "timestamp": 1787586429.0944128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787586739.2059023
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7813,
-    "total_planned": 17,
+    "total_completed": 7814,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
