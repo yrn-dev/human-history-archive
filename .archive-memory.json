@@ -38832,14 +38832,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1092",
       "timestamp": 1787578824.9855983
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787579021.31395
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7781,
-    "total_planned": 49,
+    "total_completed": 7782,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
