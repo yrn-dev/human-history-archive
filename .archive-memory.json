@@ -39607,14 +39607,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 782",
       "timestamp": 1787614455.2531376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1004",
-      "variation": true
-    },
+      "timestamp": 1787614630.2897146
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7936,
-    "total_planned": 36,
+    "total_completed": 7937,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
