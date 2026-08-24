@@ -39402,14 +39402,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 992",
       "timestamp": 1787605033.2734141
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 994",
-      "variation": true
-    },
+      "timestamp": 1787605251.075133
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7895,
-    "total_planned": 6,
+    "total_completed": 7896,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
