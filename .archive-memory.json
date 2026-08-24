@@ -38547,14 +38547,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 977",
       "timestamp": 1787565521.6750503
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 976",
-      "variation": true
-    },
+      "timestamp": 1787565804.1759586
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 976",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7724,
-    "total_planned": 35,
+    "total_completed": 7725,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
