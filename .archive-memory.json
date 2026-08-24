@@ -39032,14 +39032,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 983",
       "timestamp": 1787588376.6597028
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787588682.2931774
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7821,
-    "total_planned": 9,
+    "total_completed": 7822,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
