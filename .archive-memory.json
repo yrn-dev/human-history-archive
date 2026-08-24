@@ -38412,14 +38412,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1082",
       "timestamp": 1787559897.2877874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 977",
-      "variation": true
-    },
+      "timestamp": 1787560179.7744215
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 974",
@@ -38727,8 +38727,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7697,
-    "total_planned": 62,
+    "total_completed": 7698,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
