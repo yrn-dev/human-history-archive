@@ -38167,14 +38167,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 967",
       "timestamp": 1787548624.63466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 965",
-      "variation": true
-    },
+      "timestamp": 1787548836.9229505
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 967",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7648,
-    "total_planned": 40,
+    "total_completed": 7649,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
