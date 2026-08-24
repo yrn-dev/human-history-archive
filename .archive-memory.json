@@ -38717,18 +38717,17 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 977",
       "timestamp": 1787573787.5776372
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1082",
-      "variation": true
+      "timestamp": 1787574026.9746912
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7758,
-    "total_planned": 1,
+    "total_completed": 7759,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
