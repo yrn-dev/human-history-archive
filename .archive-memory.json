@@ -38807,14 +38807,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 768",
       "timestamp": 1787577968.9266574
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 768",
-      "variation": true
-    },
+      "timestamp": 1787578155.7988434
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 985",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7776,
-    "total_planned": 54,
+    "total_completed": 7777,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
