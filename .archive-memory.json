@@ -38947,14 +38947,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 986",
       "timestamp": 1787584336.0242867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1787584590.3893096
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7804,
-    "total_planned": 26,
+    "total_completed": 7805,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
