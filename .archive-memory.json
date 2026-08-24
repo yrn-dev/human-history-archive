@@ -39047,14 +39047,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 985",
       "timestamp": 1787589102.233502
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 983",
-      "variation": true
-    },
+      "timestamp": 1787589399.9123683
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 983",
@@ -39082,8 +39082,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7824,
-    "total_planned": 6,
+    "total_completed": 7825,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
