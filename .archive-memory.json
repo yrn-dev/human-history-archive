@@ -38177,14 +38177,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 967",
       "timestamp": 1787549063.9217672
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 967",
-      "variation": true
-    },
+      "timestamp": 1787549335.8257723
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1072",
@@ -38372,8 +38372,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7650,
-    "total_planned": 38,
+    "total_completed": 7651,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
