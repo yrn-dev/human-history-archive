@@ -39397,14 +39397,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 994",
       "timestamp": 1787604847.8277607
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1787605033.2734141
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 994",
@@ -39437,8 +39437,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7894,
-    "total_planned": 7,
+    "total_completed": 7895,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
