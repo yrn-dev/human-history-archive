@@ -39822,14 +39822,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1010",
       "timestamp": 1787623955.2399848
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787624132.7877703
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1122",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7979,
-    "total_planned": 64,
+    "total_completed": 7980,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
