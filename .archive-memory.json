@@ -40307,14 +40307,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1022",
       "timestamp": 1787647052.8659854
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787647349.112354
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1132",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8076,
-    "total_planned": 38,
+    "total_completed": 8077,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
