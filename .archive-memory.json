@@ -39937,14 +39937,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1010",
       "timestamp": 1787629180.307013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787629334.4386857
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8002,
-    "total_planned": 41,
+    "total_completed": 8003,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
