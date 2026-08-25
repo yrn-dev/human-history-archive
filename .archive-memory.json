@@ -41292,14 +41292,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1048",
       "timestamp": 1787692002.6778798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787692184.557323
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8273,
-    "total_planned": 54,
+    "total_completed": 8274,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
