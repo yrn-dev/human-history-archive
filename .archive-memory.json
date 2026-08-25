@@ -40377,14 +40377,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1132",
       "timestamp": 1787650178.4150274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787650452.559367
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8090,
-    "total_planned": 24,
+    "total_completed": 8091,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
