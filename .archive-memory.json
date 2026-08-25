@@ -39917,14 +39917,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1010",
       "timestamp": 1787628305.42439
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1122",
-      "variation": true
-    },
+      "timestamp": 1787628442.0613976
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7998,
-    "total_planned": 45,
+    "total_completed": 7999,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
