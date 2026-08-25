@@ -40627,14 +40627,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 803",
       "timestamp": 1787661450.4354992
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787661700.4010122
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1028",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8140,
-    "total_planned": 45,
+    "total_completed": 8141,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
