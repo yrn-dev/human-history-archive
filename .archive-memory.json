@@ -40657,14 +40657,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1028",
       "timestamp": 1787662897.6349275
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787663127.154621
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8146,
-    "total_planned": 39,
+    "total_completed": 8147,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
