@@ -39792,14 +39792,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1122",
       "timestamp": 1787622680.295619
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787622875.1548486
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7973,
-    "total_planned": 70,
+    "total_completed": 7974,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
