@@ -40927,14 +40927,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1039",
       "timestamp": 1787675713.7127478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787675915.3018084
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8200,
-    "total_planned": 56,
+    "total_completed": 8201,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
