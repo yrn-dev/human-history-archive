@@ -40452,14 +40452,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1019",
       "timestamp": 1787653670.0112648
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787653865.0323112
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8105,
-    "total_planned": 9,
+    "total_completed": 8106,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
