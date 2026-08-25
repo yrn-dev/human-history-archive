@@ -41312,14 +41312,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1048",
       "timestamp": 1787692878.7329445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1162",
-      "variation": true
-    },
+      "timestamp": 1787693104.2772388
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 817",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8277,
-    "total_planned": 50,
+    "total_completed": 8278,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
