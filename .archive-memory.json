@@ -39902,14 +39902,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1010",
       "timestamp": 1787627654.1810625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1122",
-      "variation": true
-    },
+      "timestamp": 1787627939.7646132
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7995,
-    "total_planned": 48,
+    "total_completed": 7996,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
