@@ -41032,14 +41032,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 810",
       "timestamp": 1787680604.0285654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1040",
-      "variation": true
-    },
+      "timestamp": 1787680800.59638
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8221,
-    "total_planned": 35,
+    "total_completed": 8222,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
