@@ -40412,14 +40412,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1019",
       "timestamp": 1787651841.1763618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787652129.0356119
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8097,
-    "total_planned": 17,
+    "total_completed": 8098,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
