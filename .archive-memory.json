@@ -41192,14 +41192,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 810",
       "timestamp": 1787687761.7579217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787688071.8035505
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1152",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8253,
-    "total_planned": 3,
+    "total_completed": 8254,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
