@@ -40812,14 +40812,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 803",
       "timestamp": 1787670452.656048
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787670620.881117
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1031",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8177,
-    "total_planned": 8,
+    "total_completed": 8178,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
