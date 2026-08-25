@@ -39922,14 +39922,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1122",
       "timestamp": 1787628442.0613976
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787628728.5815713
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7999,
-    "total_planned": 44,
+    "total_completed": 8000,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
