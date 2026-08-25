@@ -40907,14 +40907,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1037",
       "timestamp": 1787674950.2484236
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787675133.8223717
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1040",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8196,
-    "total_planned": 60,
+    "total_completed": 8197,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
