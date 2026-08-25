@@ -41422,14 +41422,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1046",
       "timestamp": 1787697754.601588
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1162",
-      "variation": true
-    },
+      "timestamp": 1787698023.649269
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 817",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8299,
-    "total_planned": 28,
+    "total_completed": 8300,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
