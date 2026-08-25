@@ -39907,14 +39907,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1122",
       "timestamp": 1787627939.7646132
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787628106.1587157
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7996,
-    "total_planned": 47,
+    "total_completed": 7997,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
