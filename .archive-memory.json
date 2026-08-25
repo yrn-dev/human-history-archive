@@ -40032,14 +40032,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1010",
       "timestamp": 1787633600.3264165
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 789",
-      "variation": true
-    },
+      "timestamp": 1787633809.3584316
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8021,
-    "total_planned": 22,
+    "total_completed": 8022,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
