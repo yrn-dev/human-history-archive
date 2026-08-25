@@ -41467,14 +41467,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 817",
       "timestamp": 1787699897.7456255
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787700041.6238341
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8308,
-    "total_planned": 19,
+    "total_completed": 8309,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
