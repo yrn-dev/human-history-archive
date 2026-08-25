@@ -40292,14 +40292,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1132",
       "timestamp": 1787646350.2890258
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787646613.4350405
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8073,
-    "total_planned": 41,
+    "total_completed": 8074,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
