@@ -39967,14 +39967,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1012",
       "timestamp": 1787630641.6573687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1013",
-      "variation": true
-    },
+      "timestamp": 1787630851.795316
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8008,
-    "total_planned": 35,
+    "total_completed": 8009,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
