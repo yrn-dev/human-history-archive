@@ -40132,14 +40132,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1013",
       "timestamp": 1787638443.1959147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787638635.5147116
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8041,
-    "total_planned": 2,
+    "total_completed": 8042,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
