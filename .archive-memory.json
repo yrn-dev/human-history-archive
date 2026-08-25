@@ -39677,14 +39677,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 782",
       "timestamp": 1787617570.2339692
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787617843.697152
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7950,
-    "total_planned": 22,
+    "total_completed": 7951,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
