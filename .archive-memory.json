@@ -40732,14 +40732,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1031",
       "timestamp": 1787666732.9563208
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787666930.9898179
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8161,
-    "total_planned": 24,
+    "total_completed": 8162,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
