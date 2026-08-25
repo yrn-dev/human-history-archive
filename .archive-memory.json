@@ -40502,14 +40502,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1030",
       "timestamp": 1787655965.6210108
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1031",
-      "variation": true
-    },
+      "timestamp": 1787656188.0656486
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8115,
-    "total_planned": 70,
+    "total_completed": 8116,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
