@@ -41257,14 +41257,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1048",
       "timestamp": 1787690596.1620553
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787690779.6296518
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8266,
-    "total_planned": 61,
+    "total_completed": 8267,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
