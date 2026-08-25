@@ -40937,14 +40937,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1039",
       "timestamp": 1787676197.1595128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1152",
-      "variation": true
-    },
+      "timestamp": 1787676454.7565205
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8202,
-    "total_planned": 54,
+    "total_completed": 8203,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
