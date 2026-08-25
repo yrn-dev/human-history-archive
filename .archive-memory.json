@@ -41317,14 +41317,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1162",
       "timestamp": 1787693104.2772388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 817",
-      "variation": true
-    },
+      "timestamp": 1787693390.7072709
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8278,
-    "total_planned": 49,
+    "total_completed": 8279,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
