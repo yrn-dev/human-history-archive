@@ -40302,14 +40302,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1021",
       "timestamp": 1787646791.0394335
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787647052.8659854
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8075,
-    "total_planned": 39,
+    "total_completed": 8076,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
