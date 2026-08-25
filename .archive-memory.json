@@ -39857,14 +39857,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1013",
       "timestamp": 1787625540.1124861
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787625724.0172684
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7986,
-    "total_planned": 57,
+    "total_completed": 7987,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
