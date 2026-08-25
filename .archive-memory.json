@@ -41027,14 +41027,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1040",
       "timestamp": 1787680410.6298792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 810",
-      "variation": true
-    },
+      "timestamp": 1787680604.0285654
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1040",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8220,
-    "total_planned": 36,
+    "total_completed": 8221,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
