@@ -40887,14 +40887,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1039",
       "timestamp": 1787673979.8589709
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787674285.269478
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8192,
-    "total_planned": 64,
+    "total_completed": 8193,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
