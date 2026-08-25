@@ -41462,14 +41462,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1048",
       "timestamp": 1787699624.2645018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 817",
-      "variation": true
-    },
+      "timestamp": 1787699897.7456255
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8307,
-    "total_planned": 20,
+    "total_completed": 8308,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
