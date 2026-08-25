@@ -40237,14 +40237,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1021",
       "timestamp": 1787643394.8203259
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787643655.0486796
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8062,
-    "total_planned": 52,
+    "total_completed": 8063,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
