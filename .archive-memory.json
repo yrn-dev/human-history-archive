@@ -41347,14 +41347,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1048",
       "timestamp": 1787694317.2111187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1162",
-      "variation": true
-    },
+      "timestamp": 1787694574.597127
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8284,
-    "total_planned": 43,
+    "total_completed": 8285,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
