@@ -40847,18 +40847,17 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1142",
       "timestamp": 1787672254.6324165
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1142",
-      "variation": true
+      "timestamp": 1787672503.16406
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8184,
-    "total_planned": 1,
+    "total_completed": 8185,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
