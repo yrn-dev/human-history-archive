@@ -39827,14 +39827,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1012",
       "timestamp": 1787624132.7877703
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1122",
-      "variation": true
-    },
+      "timestamp": 1787624301.9043944
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1013",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7980,
-    "total_planned": 63,
+    "total_completed": 7981,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
