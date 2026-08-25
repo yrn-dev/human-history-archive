@@ -41037,14 +41037,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1040",
       "timestamp": 1787680800.59638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787681018.0700657
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1037",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8222,
-    "total_planned": 34,
+    "total_completed": 8223,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
