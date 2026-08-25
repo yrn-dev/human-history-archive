@@ -40542,14 +40542,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 803",
       "timestamp": 1787657760.650282
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787657927.8989577
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1028",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8123,
-    "total_planned": 62,
+    "total_completed": 8124,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
