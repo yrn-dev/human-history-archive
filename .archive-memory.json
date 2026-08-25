@@ -40777,14 +40777,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1030",
       "timestamp": 1787668786.3347752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787668951.2577934
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8170,
-    "total_planned": 15,
+    "total_completed": 8171,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
