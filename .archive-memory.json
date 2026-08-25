@@ -40397,14 +40397,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1021",
       "timestamp": 1787651131.466425
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1132",
-      "variation": true
-    },
+      "timestamp": 1787651450.1168213
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8094,
-    "total_planned": 20,
+    "total_completed": 8095,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
