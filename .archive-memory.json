@@ -39672,14 +39672,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1003",
       "timestamp": 1787617282.2913392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787617570.2339692
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7949,
-    "total_planned": 23,
+    "total_completed": 7950,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
