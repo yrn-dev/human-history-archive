@@ -41232,14 +41232,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1162",
       "timestamp": 1787689491.5075278
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1162",
-      "variation": true
-    },
+      "timestamp": 1787689712.6454237
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8261,
-    "total_planned": 66,
+    "total_completed": 8262,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
