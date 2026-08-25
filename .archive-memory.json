@@ -41042,14 +41042,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1039",
       "timestamp": 1787681018.0700657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787681238.333142
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8223,
-    "total_planned": 33,
+    "total_completed": 8224,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
