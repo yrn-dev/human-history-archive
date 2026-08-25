@@ -40117,14 +40117,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1013",
       "timestamp": 1787637660.405952
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787637947.6291351
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8038,
-    "total_planned": 5,
+    "total_completed": 8039,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
