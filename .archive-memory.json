@@ -41497,14 +41497,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1162",
       "timestamp": 1787701499.1462634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787701645.6856637
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1049",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8314,
-    "total_planned": 13,
+    "total_completed": 8315,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
