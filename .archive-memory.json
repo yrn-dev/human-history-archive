@@ -40727,14 +40727,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1030",
       "timestamp": 1787666596.095044
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1031",
-      "variation": true
-    },
+      "timestamp": 1787666732.9563208
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8160,
-    "total_planned": 25,
+    "total_completed": 8161,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
