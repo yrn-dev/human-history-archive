@@ -40422,14 +40422,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1019",
       "timestamp": 1787652442.3134356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787652631.7908645
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8099,
-    "total_planned": 15,
+    "total_completed": 8100,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
