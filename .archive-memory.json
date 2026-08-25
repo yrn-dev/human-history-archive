@@ -41272,14 +41272,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1046",
       "timestamp": 1787691261.39803
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787691482.7291129
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 817",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8269,
-    "total_planned": 58,
+    "total_completed": 8270,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
