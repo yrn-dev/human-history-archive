@@ -40572,14 +40572,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1030",
       "timestamp": 1787659111.2985027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787659329.2174215
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8129,
-    "total_planned": 56,
+    "total_completed": 8130,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
