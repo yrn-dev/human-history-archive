@@ -40742,14 +40742,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1030",
       "timestamp": 1787667153.1047816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787667452.5847354
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1142",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8163,
-    "total_planned": 22,
+    "total_completed": 8164,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
