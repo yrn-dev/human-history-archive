@@ -40227,14 +40227,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1019",
       "timestamp": 1787642845.5648932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787643115.0342302
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8060,
-    "total_planned": 54,
+    "total_completed": 8061,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
