@@ -41002,14 +41002,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1037",
       "timestamp": 1787679316.2885144
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787679469.964803
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1040",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8215,
-    "total_planned": 41,
+    "total_completed": 8216,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
