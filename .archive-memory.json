@@ -41477,14 +41477,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1048",
       "timestamp": 1787700286.1292892
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787700570.3008163
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8310,
-    "total_planned": 17,
+    "total_completed": 8311,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
