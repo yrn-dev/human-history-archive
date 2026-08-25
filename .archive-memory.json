@@ -41237,14 +41237,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1162",
       "timestamp": 1787689712.6454237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787689874.7643304
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8262,
-    "total_planned": 65,
+    "total_completed": 8263,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
