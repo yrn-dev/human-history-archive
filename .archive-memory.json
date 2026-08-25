@@ -41242,14 +41242,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1046",
       "timestamp": 1787689874.7643304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787690189.4113572
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8263,
-    "total_planned": 64,
+    "total_completed": 8264,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
