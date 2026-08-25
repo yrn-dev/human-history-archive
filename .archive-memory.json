@@ -39762,14 +39762,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1001",
       "timestamp": 1787621336.6788406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787621610.3602693
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7967,
-    "total_planned": 5,
+    "total_completed": 7968,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
