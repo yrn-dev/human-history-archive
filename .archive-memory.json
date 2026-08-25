@@ -41157,14 +41157,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1037",
       "timestamp": 1787686384.6482213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1152",
-      "variation": true
-    },
+      "timestamp": 1787686522.2958093
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1037",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8246,
-    "total_planned": 10,
+    "total_completed": 8247,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
