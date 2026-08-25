@@ -40217,14 +40217,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1021",
       "timestamp": 1787642348.61373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1132",
-      "variation": true
-    },
+      "timestamp": 1787642596.2158449
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8058,
-    "total_planned": 56,
+    "total_completed": 8059,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
