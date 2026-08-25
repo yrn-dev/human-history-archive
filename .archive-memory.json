@@ -40752,14 +40752,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1142",
       "timestamp": 1787667606.8705451
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787667813.4003725
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1028",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8165,
-    "total_planned": 20,
+    "total_completed": 8166,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
