@@ -41007,14 +41007,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1039",
       "timestamp": 1787679469.964803
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1040",
-      "variation": true
-    },
+      "timestamp": 1787679754.1740685
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8216,
-    "total_planned": 40,
+    "total_completed": 8217,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
