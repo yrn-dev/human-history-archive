@@ -41097,14 +41097,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1037",
       "timestamp": 1787683509.425657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 810",
-      "variation": true
-    },
+      "timestamp": 1787683809.899651
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1037",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8234,
-    "total_planned": 22,
+    "total_completed": 8235,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
