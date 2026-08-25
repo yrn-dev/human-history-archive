@@ -40462,14 +40462,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1021",
       "timestamp": 1787654131.9173684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787654417.5944054
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1132",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8107,
-    "total_planned": 7,
+    "total_completed": 8108,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
