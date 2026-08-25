@@ -40062,14 +40062,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1010",
       "timestamp": 1787634891.3408709
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787635157.095913
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 789",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8027,
-    "total_planned": 16,
+    "total_completed": 8028,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
