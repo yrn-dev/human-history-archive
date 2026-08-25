@@ -40617,14 +40617,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1030",
       "timestamp": 1787661125.438015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787661296.623708
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 803",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8138,
-    "total_planned": 47,
+    "total_completed": 8139,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
