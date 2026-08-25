@@ -39752,14 +39752,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1112",
       "timestamp": 1787620918.2215948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1004",
-      "variation": true
-    },
+      "timestamp": 1787621060.492594
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7965,
-    "total_planned": 7,
+    "total_completed": 7966,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
