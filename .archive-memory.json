@@ -40072,14 +40072,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 789",
       "timestamp": 1787635397.3545794
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 789",
-      "variation": true
-    },
+      "timestamp": 1787635718.4327264
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8029,
-    "total_planned": 14,
+    "total_completed": 8030,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
