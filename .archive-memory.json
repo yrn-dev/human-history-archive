@@ -40007,14 +40007,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1010",
       "timestamp": 1787632334.329286
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787632504.4594626
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8016,
-    "total_planned": 27,
+    "total_completed": 8017,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
