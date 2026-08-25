@@ -41387,14 +41387,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1048",
       "timestamp": 1787696179.4714599
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1162",
-      "variation": true
-    },
+      "timestamp": 1787696382.7293968
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 817",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8292,
-    "total_planned": 35,
+    "total_completed": 8293,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
