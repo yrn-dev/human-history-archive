@@ -41377,14 +41377,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1046",
       "timestamp": 1787695701.5225108
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787695965.9768274
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8290,
-    "total_planned": 37,
+    "total_completed": 8291,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
