@@ -39912,14 +39912,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1012",
       "timestamp": 1787628106.1587157
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787628305.42439
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1122",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7997,
-    "total_planned": 46,
+    "total_completed": 7998,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
