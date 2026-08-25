@@ -40337,14 +40337,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1019",
       "timestamp": 1787648358.9954238
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787648568.4500382
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8082,
-    "total_planned": 32,
+    "total_completed": 8083,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
