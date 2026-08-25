@@ -39717,14 +39717,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 782",
       "timestamp": 1787619307.1370134
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787619581.2208633
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7958,
-    "total_planned": 14,
+    "total_completed": 7959,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
