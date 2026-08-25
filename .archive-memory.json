@@ -39692,14 +39692,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1004",
       "timestamp": 1787618325.5798738
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787618516.0079384
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1112",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7953,
-    "total_planned": 19,
+    "total_completed": 7954,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
