@@ -41327,14 +41327,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1048",
       "timestamp": 1787693664.567508
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787693858.4988961
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1049",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8280,
-    "total_planned": 47,
+    "total_completed": 8281,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
