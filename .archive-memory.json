@@ -41117,14 +41117,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1040",
       "timestamp": 1787684523.6917593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787684678.3168557
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1152",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8238,
-    "total_planned": 18,
+    "total_completed": 8239,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
