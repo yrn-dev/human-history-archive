@@ -41102,14 +41102,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 810",
       "timestamp": 1787683809.899651
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787684004.5677445
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1040",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8235,
-    "total_planned": 21,
+    "total_completed": 8236,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
