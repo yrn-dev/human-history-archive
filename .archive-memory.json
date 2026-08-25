@@ -40317,14 +40317,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1132",
       "timestamp": 1787647555.8564615
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787647709.7318728
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8078,
-    "total_planned": 36,
+    "total_completed": 8079,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
