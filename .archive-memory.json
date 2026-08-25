@@ -39932,14 +39932,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1012",
       "timestamp": 1787629011.3788426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787629180.307013
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8001,
-    "total_planned": 42,
+    "total_completed": 8002,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
