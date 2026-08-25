@@ -41062,14 +41062,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 810",
       "timestamp": 1787681870.7228057
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1152",
-      "variation": true
-    },
+      "timestamp": 1787682046.0536044
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1037",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8227,
-    "total_planned": 29,
+    "total_completed": 8228,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
