@@ -39702,14 +39702,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1112",
       "timestamp": 1787618744.9651852
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787618970.0374663
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7955,
-    "total_planned": 17,
+    "total_completed": 7956,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
