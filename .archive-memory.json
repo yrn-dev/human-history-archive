@@ -40172,14 +40172,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1021",
       "timestamp": 1787640444.6830337
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787640622.1592066
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 796",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8049,
-    "total_planned": 65,
+    "total_completed": 8050,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
