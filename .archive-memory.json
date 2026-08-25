@@ -41132,14 +41132,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1039",
       "timestamp": 1787685297.6718843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1152",
-      "variation": true
-    },
+      "timestamp": 1787685508.9893064
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8241,
-    "total_planned": 15,
+    "total_completed": 8242,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
