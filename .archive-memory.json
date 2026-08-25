@@ -40997,14 +40997,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1039",
       "timestamp": 1787679128.526168
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787679316.2885144
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8214,
-    "total_planned": 42,
+    "total_completed": 8215,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
