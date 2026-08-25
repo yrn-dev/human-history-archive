@@ -40697,14 +40697,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1028",
       "timestamp": 1787665119.9773288
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787665427.1231458
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1031",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8154,
-    "total_planned": 31,
+    "total_completed": 8155,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
