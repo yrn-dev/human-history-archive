@@ -40872,14 +40872,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1037",
       "timestamp": 1787673376.3364866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787673649.973521
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1152",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8189,
-    "total_planned": 67,
+    "total_completed": 8190,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
