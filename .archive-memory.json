@@ -39732,14 +39732,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1001",
       "timestamp": 1787619986.9910355
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787620203.4316924
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1112",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7961,
-    "total_planned": 11,
+    "total_completed": 7962,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
