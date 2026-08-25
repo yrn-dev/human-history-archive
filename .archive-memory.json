@@ -41432,14 +41432,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 817",
       "timestamp": 1787698240.348327
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1049",
-      "variation": true
-    },
+      "timestamp": 1787698460.9686766
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1162",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8301,
-    "total_planned": 26,
+    "total_completed": 8302,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
