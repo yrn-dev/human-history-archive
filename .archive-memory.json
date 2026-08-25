@@ -39757,14 +39757,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1004",
       "timestamp": 1787621060.492594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787621336.6788406
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7966,
-    "total_planned": 6,
+    "total_completed": 7967,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
