@@ -39882,14 +39882,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1122",
       "timestamp": 1787626759.9851654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 789",
-      "variation": true
-    },
+      "timestamp": 1787627039.0268655
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7991,
-    "total_planned": 52,
+    "total_completed": 7992,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
