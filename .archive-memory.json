@@ -39662,14 +39662,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1003",
       "timestamp": 1787616900.7686923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1004",
-      "variation": true
-    },
+      "timestamp": 1787617113.576379
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7947,
-    "total_planned": 25,
+    "total_completed": 7948,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
