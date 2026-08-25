@@ -40242,14 +40242,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 796",
       "timestamp": 1787643655.0486796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787643868.3858202
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8063,
-    "total_planned": 51,
+    "total_completed": 8064,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
