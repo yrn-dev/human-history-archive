@@ -40962,14 +40962,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1039",
       "timestamp": 1787677296.8658996
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1040",
-      "variation": true
-    },
+      "timestamp": 1787677565.638786
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1037",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8207,
-    "total_planned": 49,
+    "total_completed": 8208,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
