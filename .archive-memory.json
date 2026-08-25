@@ -40357,14 +40357,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1021",
       "timestamp": 1787649262.587138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 796",
-      "variation": true
-    },
+      "timestamp": 1787649408.9514964
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1132",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8086,
-    "total_planned": 28,
+    "total_completed": 8087,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
