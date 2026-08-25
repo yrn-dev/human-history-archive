@@ -40652,14 +40652,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1142",
       "timestamp": 1787662590.7132142
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787662897.6349275
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8145,
-    "total_planned": 40,
+    "total_completed": 8146,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
