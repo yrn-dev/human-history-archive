@@ -41137,14 +41137,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1152",
       "timestamp": 1787685508.9893064
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787685674.4957697
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8242,
-    "total_planned": 14,
+    "total_completed": 8243,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
