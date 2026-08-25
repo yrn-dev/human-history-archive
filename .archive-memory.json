@@ -40057,14 +40057,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1012",
       "timestamp": 1787634736.001364
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787634891.3408709
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8026,
-    "total_planned": 17,
+    "total_completed": 8027,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
