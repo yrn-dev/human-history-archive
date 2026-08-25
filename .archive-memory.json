@@ -40287,14 +40287,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1021",
       "timestamp": 1787646045.65523
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1132",
-      "variation": true
-    },
+      "timestamp": 1787646350.2890258
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8072,
-    "total_planned": 42,
+    "total_completed": 8073,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
