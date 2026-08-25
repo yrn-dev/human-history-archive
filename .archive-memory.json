@@ -39977,14 +39977,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1012",
       "timestamp": 1787631014.894583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787631167.5030472
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8010,
-    "total_planned": 33,
+    "total_completed": 8011,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
