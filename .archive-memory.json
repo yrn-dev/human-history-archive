@@ -40762,14 +40762,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1028",
       "timestamp": 1787668098.0581856
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787668288.0508442
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1142",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8167,
-    "total_planned": 18,
+    "total_completed": 8168,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
