@@ -40067,14 +40067,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1010",
       "timestamp": 1787635157.095913
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 789",
-      "variation": true
-    },
+      "timestamp": 1787635397.3545794
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 789",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8028,
-    "total_planned": 15,
+    "total_completed": 8029,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
