@@ -41472,14 +41472,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1046",
       "timestamp": 1787700041.6238341
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787700286.1292892
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8309,
-    "total_planned": 18,
+    "total_completed": 8310,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
