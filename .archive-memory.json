@@ -41202,18 +41202,17 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1152",
       "timestamp": 1787688300.1242123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 810",
-      "variation": true
+      "timestamp": 1787688483.8941045
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8255,
-    "total_planned": 1,
+    "total_completed": 8256,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
