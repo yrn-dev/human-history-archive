@@ -41427,14 +41427,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1162",
       "timestamp": 1787698023.649269
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 817",
-      "variation": true
-    },
+      "timestamp": 1787698240.348327
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1049",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8300,
-    "total_planned": 27,
+    "total_completed": 8301,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
