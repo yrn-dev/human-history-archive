@@ -40087,14 +40087,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1012",
       "timestamp": 1787636050.5077333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1013",
-      "variation": true
-    },
+      "timestamp": 1787636283.4940112
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1122",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8032,
-    "total_planned": 11,
+    "total_completed": 8033,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
