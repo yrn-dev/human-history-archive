@@ -39797,14 +39797,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1012",
       "timestamp": 1787622875.1548486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787623184.6447344
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7974,
-    "total_planned": 69,
+    "total_completed": 7975,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
