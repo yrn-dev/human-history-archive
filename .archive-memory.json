@@ -39747,14 +39747,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1001",
       "timestamp": 1787620674.4935625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787620918.2215948
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1004",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7964,
-    "total_planned": 8,
+    "total_completed": 7965,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
