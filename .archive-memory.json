@@ -41072,14 +41072,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1037",
       "timestamp": 1787682353.697012
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1040",
-      "variation": true
-    },
+      "timestamp": 1787682641.8247983
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1152",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8229,
-    "total_planned": 27,
+    "total_completed": 8230,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
