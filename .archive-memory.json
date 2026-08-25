@@ -40297,14 +40297,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1021",
       "timestamp": 1787646613.4350405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787646791.0394335
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1022",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8074,
-    "total_planned": 40,
+    "total_completed": 8075,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
