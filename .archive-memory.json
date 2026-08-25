@@ -40517,14 +40517,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 803",
       "timestamp": 1787656699.149678
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787656985.1574233
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8118,
-    "total_planned": 67,
+    "total_completed": 8119,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
