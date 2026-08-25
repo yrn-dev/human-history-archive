@@ -39682,14 +39682,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1003",
       "timestamp": 1787617843.697152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787618134.4145057
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1004",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7951,
-    "total_planned": 21,
+    "total_completed": 7952,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
