@@ -39652,14 +39652,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 782",
       "timestamp": 1787616329.577977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787616641.6049798
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7945,
-    "total_planned": 27,
+    "total_completed": 7946,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
