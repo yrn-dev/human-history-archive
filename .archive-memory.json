@@ -39657,14 +39657,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1003",
       "timestamp": 1787616641.6049798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787616900.7686923
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1004",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7946,
-    "total_planned": 26,
+    "total_completed": 7947,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
