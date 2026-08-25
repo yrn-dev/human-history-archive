@@ -40472,14 +40472,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1132",
       "timestamp": 1787654714.829431
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1132",
-      "variation": true
-    },
+      "timestamp": 1787655024.61777
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8109,
-    "total_planned": 5,
+    "total_completed": 8110,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
