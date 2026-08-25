@@ -40827,14 +40827,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1028",
       "timestamp": 1787671226.4233234
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787671445.792975
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8180,
-    "total_planned": 5,
+    "total_completed": 8181,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
