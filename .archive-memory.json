@@ -40002,14 +40002,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1010",
       "timestamp": 1787632136.7786288
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787632334.329286
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8015,
-    "total_planned": 28,
+    "total_completed": 8016,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
