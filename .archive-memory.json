@@ -41172,14 +41172,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 810",
       "timestamp": 1787686844.1565638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787687019.5628703
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1040",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8249,
-    "total_planned": 7,
+    "total_completed": 8250,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
