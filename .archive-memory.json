@@ -41222,14 +41222,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 817",
       "timestamp": 1787689153.841609
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787689332.8559709
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1162",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8259,
-    "total_planned": 68,
+    "total_completed": 8260,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
