@@ -41332,14 +41332,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1048",
       "timestamp": 1787693858.4988961
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1049",
-      "variation": true
-    },
+      "timestamp": 1787693997.7805352
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1049",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8281,
-    "total_planned": 46,
+    "total_completed": 8282,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
