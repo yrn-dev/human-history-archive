@@ -40102,14 +40102,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1010",
       "timestamp": 1787636748.3004425
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 789",
-      "variation": true
-    },
+      "timestamp": 1787637049.7488098
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8035,
-    "total_planned": 8,
+    "total_completed": 8036,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
