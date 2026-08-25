@@ -40027,14 +40027,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1010",
       "timestamp": 1787633358.636528
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787633600.3264165
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 789",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8020,
-    "total_planned": 23,
+    "total_completed": 8021,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
