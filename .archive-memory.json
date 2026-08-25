@@ -40107,14 +40107,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 789",
       "timestamp": 1787637049.7488098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787637357.8360066
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1013",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8036,
-    "total_planned": 7,
+    "total_completed": 8037,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
