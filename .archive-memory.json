@@ -40052,14 +40052,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1013",
       "timestamp": 1787634577.8382695
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787634736.001364
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8025,
-    "total_planned": 18,
+    "total_completed": 8026,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
