@@ -41322,14 +41322,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 817",
       "timestamp": 1787693390.7072709
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787693664.567508
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8279,
-    "total_planned": 48,
+    "total_completed": 8280,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
