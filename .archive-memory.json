@@ -39832,14 +39832,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1122",
       "timestamp": 1787624301.9043944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1013",
-      "variation": true
-    },
+      "timestamp": 1787624522.8577342
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7981,
-    "total_planned": 62,
+    "total_completed": 7982,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
