@@ -40157,14 +40157,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1132",
       "timestamp": 1787639712.9825604
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787640008.0201833
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8046,
-    "total_planned": 68,
+    "total_completed": 8047,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
