@@ -41112,14 +41112,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1040",
       "timestamp": 1787684226.8763847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1040",
-      "variation": true
-    },
+      "timestamp": 1787684523.6917593
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1037",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8237,
-    "total_planned": 19,
+    "total_completed": 8238,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
