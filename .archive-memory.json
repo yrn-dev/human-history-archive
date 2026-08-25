@@ -39957,14 +39957,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1122",
       "timestamp": 1787630185.0768855
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787630488.7442007
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8006,
-    "total_planned": 37,
+    "total_completed": 8007,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
