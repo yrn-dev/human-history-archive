@@ -40352,14 +40352,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1021",
       "timestamp": 1787649103.7546077
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787649262.587138
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 796",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8085,
-    "total_planned": 29,
+    "total_completed": 8086,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
