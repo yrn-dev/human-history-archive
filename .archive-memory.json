@@ -41177,14 +41177,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1037",
       "timestamp": 1787687019.5628703
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1040",
-      "variation": true
-    },
+      "timestamp": 1787687209.2461772
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8250,
-    "total_planned": 6,
+    "total_completed": 8251,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
