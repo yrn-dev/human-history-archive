@@ -40182,14 +40182,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 796",
       "timestamp": 1787640906.9877481
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787641209.3459225
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8051,
-    "total_planned": 63,
+    "total_completed": 8052,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
