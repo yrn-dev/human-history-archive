@@ -40367,14 +40367,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1132",
       "timestamp": 1787649709.9982576
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787649910.0659945
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1132",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8088,
-    "total_planned": 26,
+    "total_completed": 8089,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
