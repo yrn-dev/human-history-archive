@@ -40667,14 +40667,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1030",
       "timestamp": 1787663441.059608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787663783.257542
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1142",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8148,
-    "total_planned": 37,
+    "total_completed": 8149,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
