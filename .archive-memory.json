@@ -40892,14 +40892,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1039",
       "timestamp": 1787674285.269478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787674569.0770664
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8193,
-    "total_planned": 63,
+    "total_completed": 8194,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
