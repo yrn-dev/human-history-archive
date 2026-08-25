@@ -40662,14 +40662,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1030",
       "timestamp": 1787663127.154621
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787663441.059608
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1028",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8147,
-    "total_planned": 38,
+    "total_completed": 8148,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
