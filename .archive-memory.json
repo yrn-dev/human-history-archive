@@ -40822,14 +40822,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1031",
       "timestamp": 1787670942.598975
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787671226.4233234
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8179,
-    "total_planned": 6,
+    "total_completed": 8180,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
