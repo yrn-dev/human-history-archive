@@ -41482,14 +41482,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1048",
       "timestamp": 1787700570.3008163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787700885.3966672
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1049",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8311,
-    "total_planned": 16,
+    "total_completed": 8312,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
