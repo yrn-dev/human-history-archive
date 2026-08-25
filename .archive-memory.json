@@ -41307,14 +41307,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1046",
       "timestamp": 1787692619.5135453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787692878.7329445
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1162",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8276,
-    "total_planned": 51,
+    "total_completed": 8277,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
