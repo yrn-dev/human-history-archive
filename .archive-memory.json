@@ -40972,14 +40972,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1037",
       "timestamp": 1787677867.1136072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787678179.8980224
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1152",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8209,
-    "total_planned": 47,
+    "total_completed": 8210,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
