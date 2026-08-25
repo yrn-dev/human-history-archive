@@ -39862,14 +39862,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1010",
       "timestamp": 1787625724.0172684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787625917.9554257
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1122",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7987,
-    "total_planned": 56,
+    "total_completed": 7988,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
