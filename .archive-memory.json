@@ -40647,14 +40647,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1028",
       "timestamp": 1787662289.2367125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1142",
-      "variation": true
-    },
+      "timestamp": 1787662590.7132142
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1028",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8144,
-    "total_planned": 41,
+    "total_completed": 8145,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
