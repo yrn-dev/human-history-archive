@@ -41302,14 +41302,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1048",
       "timestamp": 1787692478.7226048
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787692619.5135453
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8275,
-    "total_planned": 52,
+    "total_completed": 8276,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
