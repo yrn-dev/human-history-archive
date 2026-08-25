@@ -40932,14 +40932,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1039",
       "timestamp": 1787675915.3018084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787676197.1595128
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1152",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8201,
-    "total_planned": 55,
+    "total_completed": 8202,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
