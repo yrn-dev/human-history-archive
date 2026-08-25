@@ -39897,14 +39897,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1122",
       "timestamp": 1787627471.3429697
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787627654.1810625
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1122",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7994,
-    "total_planned": 49,
+    "total_completed": 7995,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
