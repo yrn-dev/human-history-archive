@@ -41382,14 +41382,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1046",
       "timestamp": 1787695965.9768274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787696179.4714599
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1162",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8291,
-    "total_planned": 36,
+    "total_completed": 8292,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
