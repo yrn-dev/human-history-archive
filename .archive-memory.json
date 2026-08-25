@@ -40817,14 +40817,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1028",
       "timestamp": 1787670620.881117
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1031",
-      "variation": true
-    },
+      "timestamp": 1787670942.598975
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1028",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8178,
-    "total_planned": 7,
+    "total_completed": 8179,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
