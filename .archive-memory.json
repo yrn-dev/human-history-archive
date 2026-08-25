@@ -39927,14 +39927,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1010",
       "timestamp": 1787628728.5815713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787629011.3788426
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8000,
-    "total_planned": 43,
+    "total_completed": 8001,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
