@@ -40632,14 +40632,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1030",
       "timestamp": 1787661700.4010122
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787661931.8543966
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1028",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8141,
-    "total_planned": 44,
+    "total_completed": 8142,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
