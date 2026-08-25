@@ -40387,14 +40387,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1021",
       "timestamp": 1787650625.1777222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787650905.4691513
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8092,
-    "total_planned": 22,
+    "total_completed": 8093,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
