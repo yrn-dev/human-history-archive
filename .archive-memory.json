@@ -40987,14 +40987,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1037",
       "timestamp": 1787678788.7366855
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787678961.4942684
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8212,
-    "total_planned": 44,
+    "total_completed": 8213,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
