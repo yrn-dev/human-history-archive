@@ -40467,14 +40467,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1021",
       "timestamp": 1787654417.5944054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1132",
-      "variation": true
-    },
+      "timestamp": 1787654714.829431
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1132",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8108,
-    "total_planned": 6,
+    "total_completed": 8109,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
