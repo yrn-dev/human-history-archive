@@ -40877,14 +40877,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1037",
       "timestamp": 1787673649.973521
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1152",
-      "variation": true
-    },
+      "timestamp": 1787673804.9298847
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8190,
-    "total_planned": 66,
+    "total_completed": 8191,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
