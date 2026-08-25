@@ -41212,14 +41212,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1048",
       "timestamp": 1787688775.902203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1162",
-      "variation": true
-    },
+      "timestamp": 1787688931.2481456
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 817",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8257,
-    "total_planned": 70,
+    "total_completed": 8258,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
