@@ -40552,14 +40552,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1028",
       "timestamp": 1787658190.6401744
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787658347.532941
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1031",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8125,
-    "total_planned": 60,
+    "total_completed": 8126,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
