@@ -41287,14 +41287,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1046",
       "timestamp": 1787691821.9694355
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787692002.6778798
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8272,
-    "total_planned": 55,
+    "total_completed": 8273,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
