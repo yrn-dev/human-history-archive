@@ -40417,14 +40417,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1022",
       "timestamp": 1787652129.0356119
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787652442.3134356
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8098,
-    "total_planned": 16,
+    "total_completed": 8099,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
