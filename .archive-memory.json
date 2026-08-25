@@ -41067,14 +41067,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1152",
       "timestamp": 1787682046.0536044
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787682353.697012
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1040",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8228,
-    "total_planned": 28,
+    "total_completed": 8229,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
