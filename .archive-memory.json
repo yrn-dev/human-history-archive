@@ -41262,14 +41262,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1048",
       "timestamp": 1787690779.6296518
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787691080.489825
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8267,
-    "total_planned": 60,
+    "total_completed": 8268,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
