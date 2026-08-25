@@ -40342,14 +40342,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 796",
       "timestamp": 1787648568.4500382
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787648812.9512148
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8083,
-    "total_planned": 31,
+    "total_completed": 8084,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
