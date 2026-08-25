@@ -40222,14 +40222,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1132",
       "timestamp": 1787642596.2158449
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787642845.5648932
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8059,
-    "total_planned": 55,
+    "total_completed": 8060,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
