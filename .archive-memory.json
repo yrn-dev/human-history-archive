@@ -40097,14 +40097,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1122",
       "timestamp": 1787636533.405718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787636748.3004425
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 789",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8034,
-    "total_planned": 9,
+    "total_completed": 8035,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
