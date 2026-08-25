@@ -39727,14 +39727,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1001",
       "timestamp": 1787619797.9706504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1001",
-      "variation": true
-    },
+      "timestamp": 1787619986.9910355
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1112",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7960,
-    "total_planned": 12,
+    "total_completed": 7961,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
