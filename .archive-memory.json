@@ -39992,14 +39992,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1012",
       "timestamp": 1787631670.1751468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1122",
-      "variation": true
-    },
+      "timestamp": 1787631854.1996403
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8013,
-    "total_planned": 30,
+    "total_completed": 8014,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
