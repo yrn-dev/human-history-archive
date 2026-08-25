@@ -40277,14 +40277,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1021",
       "timestamp": 1787645592.0248916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787645856.8533955
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8070,
-    "total_planned": 44,
+    "total_completed": 8071,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
