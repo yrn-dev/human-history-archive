@@ -40137,18 +40137,17 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1012",
       "timestamp": 1787638635.5147116
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1010",
-      "variation": true
+      "timestamp": 1787638905.3354826
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8042,
-    "total_planned": 1,
+    "total_completed": 8043,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
