@@ -40212,14 +40212,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1019",
       "timestamp": 1787642178.017421
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787642348.61373
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1132",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8057,
-    "total_planned": 57,
+    "total_completed": 8058,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
