@@ -39767,14 +39767,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1001",
       "timestamp": 1787621610.3602693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1003",
-      "variation": true
-    },
+      "timestamp": 1787621855.3164015
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1001",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7968,
-    "total_planned": 4,
+    "total_completed": 7969,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
