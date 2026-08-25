@@ -40202,14 +40202,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1019",
       "timestamp": 1787641710.320262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787642030.4366555
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8055,
-    "total_planned": 59,
+    "total_completed": 8056,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
