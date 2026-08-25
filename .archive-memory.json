@@ -40457,14 +40457,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1022",
       "timestamp": 1787653865.0323112
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787654131.9173684
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8106,
-    "total_planned": 8,
+    "total_completed": 8107,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
