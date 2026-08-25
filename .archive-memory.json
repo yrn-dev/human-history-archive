@@ -40832,14 +40832,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1030",
       "timestamp": 1787671445.792975
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787671773.740323
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8181,
-    "total_planned": 4,
+    "total_completed": 8182,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
