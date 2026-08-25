@@ -40607,14 +40607,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1030",
       "timestamp": 1787660644.7182224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1031",
-      "variation": true
-    },
+      "timestamp": 1787660851.799813
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8136,
-    "total_planned": 49,
+    "total_completed": 8137,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
