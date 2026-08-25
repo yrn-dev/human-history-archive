@@ -39782,18 +39782,17 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1001",
       "timestamp": 1787622287.0292866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1001",
-      "variation": true
+      "timestamp": 1787622537.3372912
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 7971,
-    "total_planned": 1,
+    "total_completed": 7972,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
