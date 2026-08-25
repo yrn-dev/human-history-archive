@@ -39942,14 +39942,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1010",
       "timestamp": 1787629334.4386857
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1010",
-      "variation": true
-    },
+      "timestamp": 1787629557.9958951
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1012",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8003,
-    "total_planned": 40,
+    "total_completed": 8004,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
