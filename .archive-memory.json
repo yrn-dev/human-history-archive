@@ -40797,14 +40797,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1142",
       "timestamp": 1787669610.2237182
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1031",
-      "variation": true
-    },
+      "timestamp": 1787669867.5887992
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1142",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8174,
-    "total_planned": 11,
+    "total_completed": 8175,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
