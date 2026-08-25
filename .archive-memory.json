@@ -39802,14 +39802,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1012",
       "timestamp": 1787623184.6447344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787623350.5042279
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7975,
-    "total_planned": 68,
+    "total_completed": 7976,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
