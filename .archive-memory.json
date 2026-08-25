@@ -40207,14 +40207,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1021",
       "timestamp": 1787642030.4366555
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787642178.017421
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8056,
-    "total_planned": 58,
+    "total_completed": 8057,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
