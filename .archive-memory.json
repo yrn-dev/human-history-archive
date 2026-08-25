@@ -41342,14 +41342,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1049",
       "timestamp": 1787694173.8027244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787694317.2111187
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1162",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8283,
-    "total_planned": 44,
+    "total_completed": 8284,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
