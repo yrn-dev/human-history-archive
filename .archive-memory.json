@@ -40917,14 +40917,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1040",
       "timestamp": 1787675337.126577
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787675531.3822763
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8198,
-    "total_planned": 58,
+    "total_completed": 8199,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
