@@ -40527,14 +40527,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1030",
       "timestamp": 1787657228.212791
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787657407.6420577
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1031",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8120,
-    "total_planned": 65,
+    "total_completed": 8121,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
