@@ -41372,14 +41372,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1046",
       "timestamp": 1787695481.450473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787695701.5225108
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8289,
-    "total_planned": 38,
+    "total_completed": 8290,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
