@@ -40257,14 +40257,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1021",
       "timestamp": 1787644472.4660432
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787644721.4834247
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 796",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8066,
-    "total_planned": 48,
+    "total_completed": 8067,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
