@@ -40017,14 +40017,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1012",
       "timestamp": 1787632795.5870638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 789",
-      "variation": true
-    },
+      "timestamp": 1787633051.394672
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1010",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8018,
-    "total_planned": 25,
+    "total_completed": 8019,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
