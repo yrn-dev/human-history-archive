@@ -41447,14 +41447,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1046",
       "timestamp": 1787699051.6353204
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787699227.5684674
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8304,
-    "total_planned": 23,
+    "total_completed": 8305,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
