@@ -40482,14 +40482,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1019",
       "timestamp": 1787655215.146927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787655393.1629293
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8111,
-    "total_planned": 3,
+    "total_completed": 8112,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
