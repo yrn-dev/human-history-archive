@@ -40442,14 +40442,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1021",
       "timestamp": 1787653201.3027573
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787653425.6966896
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8103,
-    "total_planned": 11,
+    "total_completed": 8104,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
