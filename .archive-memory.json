@@ -40327,14 +40327,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1021",
       "timestamp": 1787647924.7271485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1022",
-      "variation": true
-    },
+      "timestamp": 1787648110.7313497
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8080,
-    "total_planned": 34,
+    "total_completed": 8081,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
