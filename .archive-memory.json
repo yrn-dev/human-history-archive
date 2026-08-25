@@ -39887,14 +39887,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 789",
       "timestamp": 1787627039.0268655
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787627266.0170598
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1122",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7992,
-    "total_planned": 51,
+    "total_completed": 7993,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
