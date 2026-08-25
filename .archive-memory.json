@@ -40322,14 +40322,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1021",
       "timestamp": 1787647709.7318728
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787647924.7271485
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1022",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8079,
-    "total_planned": 35,
+    "total_completed": 8080,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
