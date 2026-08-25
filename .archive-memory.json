@@ -40977,14 +40977,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1039",
       "timestamp": 1787678179.8980224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1152",
-      "variation": true
-    },
+      "timestamp": 1787678477.636332
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1037",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8210,
-    "total_planned": 46,
+    "total_completed": 8211,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
