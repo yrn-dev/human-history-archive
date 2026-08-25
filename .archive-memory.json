@@ -40167,14 +40167,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1019",
       "timestamp": 1787640215.9950278
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787640444.6830337
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1019",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8048,
-    "total_planned": 66,
+    "total_completed": 8049,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
