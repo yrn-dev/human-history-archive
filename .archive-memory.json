@@ -40837,14 +40837,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1030",
       "timestamp": 1787671773.740323
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787671970.9589553
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1142",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8182,
-    "total_planned": 3,
+    "total_completed": 8183,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
