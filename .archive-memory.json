@@ -41487,14 +41487,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1048",
       "timestamp": 1787700885.3966672
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1049",
-      "variation": true
-    },
+      "timestamp": 1787701168.56303
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1162",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8312,
-    "total_planned": 15,
+    "total_completed": 8313,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
