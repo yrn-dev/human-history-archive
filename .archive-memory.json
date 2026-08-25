@@ -40737,14 +40737,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1030",
       "timestamp": 1787666930.9898179
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787667153.1047816
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8162,
-    "total_planned": 23,
+    "total_completed": 8163,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
