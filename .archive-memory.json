@@ -40722,14 +40722,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1142",
       "timestamp": 1787666285.0187042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787666596.095044
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1031",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8159,
-    "total_planned": 26,
+    "total_completed": 8160,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
