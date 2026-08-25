@@ -40532,14 +40532,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1028",
       "timestamp": 1787657407.6420577
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1031",
-      "variation": true
-    },
+      "timestamp": 1787657614.7202997
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 803",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8121,
-    "total_planned": 64,
+    "total_completed": 8122,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
