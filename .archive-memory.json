@@ -41047,14 +41047,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1037",
       "timestamp": 1787681238.333142
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787681390.347705
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 810",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8224,
-    "total_planned": 32,
+    "total_completed": 8225,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
