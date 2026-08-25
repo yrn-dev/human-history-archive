@@ -39647,14 +39647,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1003",
       "timestamp": 1787616152.9489052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 782",
-      "variation": true
-    },
+      "timestamp": 1787616329.577977
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1003",
@@ -39792,8 +39792,8 @@
     }
   ],
   "stats": {
-    "total_completed": 7944,
-    "total_planned": 28,
+    "total_completed": 7945,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
