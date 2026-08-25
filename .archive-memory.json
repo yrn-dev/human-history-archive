@@ -41167,14 +41167,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1037",
       "timestamp": 1787686679.3031034
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 810",
-      "variation": true
-    },
+      "timestamp": 1787686844.1565638
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1037",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8248,
-    "total_planned": 8,
+    "total_completed": 8249,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
