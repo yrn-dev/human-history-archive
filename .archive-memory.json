@@ -41352,14 +41352,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1162",
       "timestamp": 1787694574.597127
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787694764.4366724
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8285,
-    "total_planned": 42,
+    "total_completed": 8286,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
