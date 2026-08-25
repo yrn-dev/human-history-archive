@@ -41252,14 +41252,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1046",
       "timestamp": 1787690351.4917097
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787690596.1620553
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8265,
-    "total_planned": 62,
+    "total_completed": 8266,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
