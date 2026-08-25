@@ -40487,14 +40487,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1021",
       "timestamp": 1787655393.1629293
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787655547.5596962
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8112,
-    "total_planned": 2,
+    "total_completed": 8113,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
