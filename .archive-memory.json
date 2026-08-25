@@ -40857,14 +40857,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1152",
       "timestamp": 1787672724.8788383
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1037",
-      "variation": true
-    },
+      "timestamp": 1787672964.7230551
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1039",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8186,
-    "total_planned": 70,
+    "total_completed": 8187,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
