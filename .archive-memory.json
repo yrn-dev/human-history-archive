@@ -40012,14 +40012,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1012",
       "timestamp": 1787632504.4594626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1012",
-      "variation": true
-    },
+      "timestamp": 1787632795.5870638
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 789",
@@ -40147,8 +40147,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8017,
-    "total_planned": 26,
+    "total_completed": 8018,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
