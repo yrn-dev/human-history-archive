@@ -41227,14 +41227,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1046",
       "timestamp": 1787689332.8559709
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1162",
-      "variation": true
-    },
+      "timestamp": 1787689491.5075278
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1162",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8260,
-    "total_planned": 67,
+    "total_completed": 8261,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
