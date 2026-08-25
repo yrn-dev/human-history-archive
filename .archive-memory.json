@@ -40642,14 +40642,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1028",
       "timestamp": 1787662104.8754072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787662289.2367125
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1142",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8143,
-    "total_planned": 42,
+    "total_completed": 8144,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
