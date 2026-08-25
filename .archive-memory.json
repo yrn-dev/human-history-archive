@@ -40957,14 +40957,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1039",
       "timestamp": 1787677102.879652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1039",
-      "variation": true
-    },
+      "timestamp": 1787677296.8658996
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1040",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8206,
-    "total_planned": 50,
+    "total_completed": 8207,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
