@@ -41452,14 +41452,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1046",
       "timestamp": 1787699227.5684674
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1046",
-      "variation": true
-    },
+      "timestamp": 1787699442.4813101
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8305,
-    "total_planned": 22,
+    "total_completed": 8306,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
