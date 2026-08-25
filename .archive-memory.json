@@ -41022,14 +41022,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1039",
       "timestamp": 1787680214.7317412
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1040",
-      "variation": true
-    },
+      "timestamp": 1787680410.6298792
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 810",
@@ -41212,8 +41212,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8219,
-    "total_planned": 37,
+    "total_completed": 8220,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
