@@ -40512,14 +40512,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1030",
       "timestamp": 1787656413.3721168
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 803",
-      "variation": true
-    },
+      "timestamp": 1787656699.149678
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8117,
-    "total_planned": 68,
+    "total_completed": 8118,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
