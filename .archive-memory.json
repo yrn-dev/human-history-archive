@@ -40187,14 +40187,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1019",
       "timestamp": 1787641209.3459225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787641352.5419447
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 796",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8052,
-    "total_planned": 62,
+    "total_completed": 8053,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
