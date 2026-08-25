@@ -40232,14 +40232,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1021",
       "timestamp": 1787643115.0342302
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787643394.8203259
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 796",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8061,
-    "total_planned": 53,
+    "total_completed": 8062,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
