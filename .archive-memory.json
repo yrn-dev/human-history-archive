@@ -40592,14 +40592,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1030",
       "timestamp": 1787659875.727515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787660182.9229019
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1028",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8133,
-    "total_planned": 52,
+    "total_completed": 8134,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
