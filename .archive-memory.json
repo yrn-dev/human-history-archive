@@ -40677,14 +40677,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1142",
       "timestamp": 1787663989.541036
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1030",
-      "variation": true
-    },
+      "timestamp": 1787664257.3125892
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 803",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8150,
-    "total_planned": 35,
+    "total_completed": 8151,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
