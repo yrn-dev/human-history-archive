@@ -41217,14 +41217,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1162",
       "timestamp": 1787688931.2481456
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 817",
-      "variation": true
-    },
+      "timestamp": 1787689153.841609
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8258,
-    "total_planned": 69,
+    "total_completed": 8259,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
