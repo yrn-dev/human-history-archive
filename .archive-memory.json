@@ -40382,14 +40382,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1021",
       "timestamp": 1787650452.559367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1021",
-      "variation": true
-    },
+      "timestamp": 1787650625.1777222
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1022",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8091,
-    "total_planned": 23,
+    "total_completed": 8092,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
