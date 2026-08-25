@@ -40477,14 +40477,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1132",
       "timestamp": 1787655024.61777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1019",
-      "variation": true
-    },
+      "timestamp": 1787655215.146927
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1021",
@@ -40502,8 +40502,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8110,
-    "total_planned": 4,
+    "total_completed": 8111,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
