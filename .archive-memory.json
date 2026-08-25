@@ -40582,14 +40582,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1030",
       "timestamp": 1787659509.8063571
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1028",
-      "variation": true
-    },
+      "timestamp": 1787659725.181993
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1030",
@@ -40857,8 +40857,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8131,
-    "total_planned": 54,
+    "total_completed": 8132,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
