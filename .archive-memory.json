@@ -43287,14 +43287,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1212",
       "timestamp": 1787784189.1047997
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1212",
-      "variation": true
-    },
+      "timestamp": 1787784436.7356923
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8672,
-    "total_planned": 10,
+    "total_completed": 8673,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
