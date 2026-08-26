@@ -42432,14 +42432,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1192",
       "timestamp": 1787744017.2396774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787744200.545946
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8501,
-    "total_planned": 39,
+    "total_completed": 8502,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
