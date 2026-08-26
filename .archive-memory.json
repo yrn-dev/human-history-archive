@@ -42577,14 +42577,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1073",
       "timestamp": 1787750675.1158938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 838",
-      "variation": true
-    },
+      "timestamp": 1787750900.119745
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8530,
-    "total_planned": 10,
+    "total_completed": 8531,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
