@@ -42972,14 +42972,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 845",
       "timestamp": 1787769395.3021567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787769657.2273424
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1082",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8609,
-    "total_planned": 2,
+    "total_completed": 8610,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
