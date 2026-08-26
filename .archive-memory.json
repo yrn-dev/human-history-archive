@@ -41707,14 +41707,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1055",
       "timestamp": 1787710835.6006248
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787711063.3619416
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8356,
-    "total_planned": 42,
+    "total_completed": 8357,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
