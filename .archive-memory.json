@@ -43182,14 +43182,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1091",
       "timestamp": 1787779223.8988
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787779514.8287122
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1091",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8651,
-    "total_planned": 31,
+    "total_completed": 8652,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
