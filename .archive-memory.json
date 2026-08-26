@@ -41577,14 +41577,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1055",
       "timestamp": 1787705020.049616
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787705196.512944
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8330,
-    "total_planned": 68,
+    "total_completed": 8331,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
