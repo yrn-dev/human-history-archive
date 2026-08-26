@@ -42207,14 +42207,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1066",
       "timestamp": 1787733037.3729753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787733216.2103698
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1182",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8456,
-    "total_planned": 13,
+    "total_completed": 8457,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
