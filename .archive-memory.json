@@ -41552,14 +41552,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1048",
       "timestamp": 1787703916.0862896
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787704076.8359172
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8325,
-    "total_planned": 2,
+    "total_completed": 8326,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
