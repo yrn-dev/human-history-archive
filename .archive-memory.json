@@ -42317,14 +42317,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1075",
       "timestamp": 1787738353.4905531
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787738616.76047
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8478,
-    "total_planned": 62,
+    "total_completed": 8479,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
