@@ -41937,14 +41937,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1066",
       "timestamp": 1787721310.727804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787721461.3717337
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1182",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8402,
-    "total_planned": 67,
+    "total_completed": 8403,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
