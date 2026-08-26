@@ -43037,14 +43037,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1093",
       "timestamp": 1787772627.5339699
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787772862.7831933
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8622,
-    "total_planned": 60,
+    "total_completed": 8623,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
