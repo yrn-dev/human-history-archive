@@ -41977,14 +41977,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 831",
       "timestamp": 1787722872.3695
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787723025.7108881
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1067",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8410,
-    "total_planned": 59,
+    "total_completed": 8411,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
