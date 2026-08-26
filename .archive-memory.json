@@ -42697,14 +42697,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1202",
       "timestamp": 1787756470.3087082
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787756682.912774
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1082",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8554,
-    "total_planned": 57,
+    "total_completed": 8555,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
