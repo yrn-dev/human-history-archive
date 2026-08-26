@@ -41842,14 +41842,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1055",
       "timestamp": 1787716656.3976927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787716871.1478333
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8383,
-    "total_planned": 15,
+    "total_completed": 8384,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
