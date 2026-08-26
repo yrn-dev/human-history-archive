@@ -42002,14 +42002,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1182",
       "timestamp": 1787723973.9761198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1067",
-      "variation": true
-    },
+      "timestamp": 1787724218.2025385
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8415,
-    "total_planned": 54,
+    "total_completed": 8416,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
