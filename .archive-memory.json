@@ -42707,14 +42707,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1082",
       "timestamp": 1787756909.2476475
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787757184.117666
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1085",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8556,
-    "total_planned": 55,
+    "total_completed": 8557,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
