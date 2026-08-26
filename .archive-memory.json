@@ -42252,14 +42252,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1066",
       "timestamp": 1787735161.6413002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787735312.3135507
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8465,
-    "total_planned": 4,
+    "total_completed": 8466,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
