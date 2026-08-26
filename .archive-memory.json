@@ -41762,14 +41762,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1057",
       "timestamp": 1787713074.204876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787713261.0878294
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8367,
-    "total_planned": 31,
+    "total_completed": 8368,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
