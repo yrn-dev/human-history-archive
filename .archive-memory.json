@@ -42217,14 +42217,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1182",
       "timestamp": 1787733387.6728148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 831",
-      "variation": true
-    },
+      "timestamp": 1787733624.045904
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1067",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8458,
-    "total_planned": 11,
+    "total_completed": 8459,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
