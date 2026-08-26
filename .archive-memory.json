@@ -43212,14 +43212,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1093",
       "timestamp": 1787780704.140632
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787781009.0356987
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8657,
-    "total_planned": 25,
+    "total_completed": 8658,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
