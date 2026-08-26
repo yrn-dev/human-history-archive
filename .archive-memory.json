@@ -41647,14 +41647,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1057",
       "timestamp": 1787708337.875686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787708495.699258
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8344,
-    "total_planned": 54,
+    "total_completed": 8345,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
