@@ -43147,14 +43147,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1091",
       "timestamp": 1787777476.0122375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787777698.7028592
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1094",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8644,
-    "total_planned": 38,
+    "total_completed": 8645,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
