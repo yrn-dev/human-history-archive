@@ -42992,14 +42992,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1091",
       "timestamp": 1787770470.290594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787770648.6153874
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1094",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8613,
-    "total_planned": 69,
+    "total_completed": 8614,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
