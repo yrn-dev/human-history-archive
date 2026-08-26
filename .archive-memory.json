@@ -42582,14 +42582,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 838",
       "timestamp": 1787750900.119745
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787751097.5066936
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1076",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8531,
-    "total_planned": 9,
+    "total_completed": 8532,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
