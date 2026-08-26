@@ -43017,14 +43017,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1212",
       "timestamp": 1787771723.9162183
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787771895.3589065
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8618,
-    "total_planned": 64,
+    "total_completed": 8619,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
