@@ -42032,14 +42032,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1066",
       "timestamp": 1787725188.784715
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787725500.074407
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1067",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8421,
-    "total_planned": 48,
+    "total_completed": 8422,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
