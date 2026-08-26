@@ -42457,14 +42457,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1073",
       "timestamp": 1787745085.4642656
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1076",
-      "variation": true
-    },
+      "timestamp": 1787745269.4023263
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 838",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8506,
-    "total_planned": 34,
+    "total_completed": 8507,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
