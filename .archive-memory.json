@@ -42512,14 +42512,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1075",
       "timestamp": 1787747813.725596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787748092.377738
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8517,
-    "total_planned": 23,
+    "total_completed": 8518,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
