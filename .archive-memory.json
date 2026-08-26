@@ -43032,14 +43032,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1093",
       "timestamp": 1787772423.9235106
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787772627.5339699
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 852",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8621,
-    "total_planned": 61,
+    "total_completed": 8622,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
