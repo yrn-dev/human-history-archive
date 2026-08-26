@@ -41537,14 +41537,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1046",
       "timestamp": 1787703266.3907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787703456.218189
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 817",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8322,
-    "total_planned": 5,
+    "total_completed": 8323,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
