@@ -43097,14 +43097,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1212",
       "timestamp": 1787775278.8104105
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787775567.253254
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1212",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8634,
-    "total_planned": 48,
+    "total_completed": 8635,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
