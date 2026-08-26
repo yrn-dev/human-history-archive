@@ -41617,14 +41617,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1058",
       "timestamp": 1787706798.6743865
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787707089.0768075
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8338,
-    "total_planned": 60,
+    "total_completed": 8339,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
