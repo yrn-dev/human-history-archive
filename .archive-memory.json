@@ -41987,14 +41987,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1067",
       "timestamp": 1787723216.3151166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787723481.649775
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8412,
-    "total_planned": 57,
+    "total_completed": 8413,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
