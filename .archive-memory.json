@@ -43057,14 +43057,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 852",
       "timestamp": 1787773590.852415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1212",
-      "variation": true
-    },
+      "timestamp": 1787773811.8493795
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8626,
-    "total_planned": 56,
+    "total_completed": 8627,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
