@@ -41682,14 +41682,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1057",
       "timestamp": 1787709683.3389494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787709825.3834624
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1058",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8351,
-    "total_planned": 47,
+    "total_completed": 8352,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
