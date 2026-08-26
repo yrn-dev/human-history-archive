@@ -42792,14 +42792,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1084",
       "timestamp": 1787760871.8671515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1085",
-      "variation": true
-    },
+      "timestamp": 1787761190.5308225
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1202",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8573,
-    "total_planned": 38,
+    "total_completed": 8574,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
