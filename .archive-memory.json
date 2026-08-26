@@ -42547,14 +42547,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1075",
       "timestamp": 1787749486.7814558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787749796.0898938
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8524,
-    "total_planned": 16,
+    "total_completed": 8525,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
