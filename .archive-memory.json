@@ -41857,14 +41857,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 824",
       "timestamp": 1787717354.2135491
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787717552.7297585
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8386,
-    "total_planned": 12,
+    "total_completed": 8387,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
