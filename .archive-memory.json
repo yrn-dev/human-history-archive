@@ -42052,14 +42052,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1064",
       "timestamp": 1787726162.220628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787726332.9321477
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 831",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8425,
-    "total_planned": 44,
+    "total_completed": 8426,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
