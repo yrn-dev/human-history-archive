@@ -42122,14 +42122,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1064",
       "timestamp": 1787729372.60754
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787729560.1909606
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8439,
-    "total_planned": 30,
+    "total_completed": 8440,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
