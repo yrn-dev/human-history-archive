@@ -43117,14 +43117,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1212",
       "timestamp": 1787776283.3631375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787776484.0103846
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 852",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8638,
-    "total_planned": 44,
+    "total_completed": 8639,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
