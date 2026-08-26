@@ -42017,14 +42017,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1066",
       "timestamp": 1787724600.618346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 831",
-      "variation": true
-    },
+      "timestamp": 1787724762.6989176
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1182",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8418,
-    "total_planned": 51,
+    "total_completed": 8419,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
