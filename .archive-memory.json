@@ -42977,18 +42977,17 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1082",
       "timestamp": 1787769657.2273424
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1082",
-      "variation": true
+      "timestamp": 1787769913.9889944
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8610,
-    "total_planned": 1,
+    "total_completed": 8611,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
