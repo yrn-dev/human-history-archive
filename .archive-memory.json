@@ -43047,14 +43047,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1093",
       "timestamp": 1787773132.5684385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787773444.6478348
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 852",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8624,
-    "total_planned": 58,
+    "total_completed": 8625,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
