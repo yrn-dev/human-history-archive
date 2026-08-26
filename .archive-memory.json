@@ -42372,14 +42372,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1075",
       "timestamp": 1787740891.5753229
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787741138.1217782
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1076",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8489,
-    "total_planned": 51,
+    "total_completed": 8490,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
