@@ -42497,14 +42497,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1075",
       "timestamp": 1787746929.826784
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787747217.8676121
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1192",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8514,
-    "total_planned": 26,
+    "total_completed": 8515,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
