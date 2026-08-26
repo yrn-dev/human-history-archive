@@ -41847,14 +41847,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1057",
       "timestamp": 1787716871.1478333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787717134.578125
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 824",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8384,
-    "total_planned": 14,
+    "total_completed": 8385,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
