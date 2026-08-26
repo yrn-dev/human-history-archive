@@ -42487,14 +42487,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 838",
       "timestamp": 1787746347.293861
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787746652.0742927
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8512,
-    "total_planned": 28,
+    "total_completed": 8513,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
