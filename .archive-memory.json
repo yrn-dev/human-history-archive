@@ -43362,14 +43362,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1102",
       "timestamp": 1787787880.6469953
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1222",
-      "variation": true
-    },
+      "timestamp": 1787788032.3010013
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8687,
-    "total_planned": 66,
+    "total_completed": 8688,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
