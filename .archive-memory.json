@@ -41927,14 +41927,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1066",
       "timestamp": 1787720828.476108
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1067",
-      "variation": true
-    },
+      "timestamp": 1787721011.4075193
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8400,
-    "total_planned": 69,
+    "total_completed": 8401,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
