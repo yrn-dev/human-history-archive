@@ -42872,14 +42872,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1084",
       "timestamp": 1787764556.4559495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787764820.4677339
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1082",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8589,
-    "total_planned": 22,
+    "total_completed": 8590,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
