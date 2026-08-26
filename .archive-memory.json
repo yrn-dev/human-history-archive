@@ -42012,14 +42012,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1064",
       "timestamp": 1787724392.4933867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787724600.618346
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 831",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8417,
-    "total_planned": 52,
+    "total_completed": 8418,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
