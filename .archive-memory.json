@@ -43087,14 +43087,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1091",
       "timestamp": 1787774908.4197688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787775099.9606018
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1212",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8632,
-    "total_planned": 50,
+    "total_completed": 8633,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
