@@ -41962,14 +41962,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1064",
       "timestamp": 1787722208.5305727
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787722388.3345747
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8407,
-    "total_planned": 62,
+    "total_completed": 8408,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
