@@ -42277,14 +42277,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1073",
       "timestamp": 1787736381.231609
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787736680.4013748
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8470,
-    "total_planned": 70,
+    "total_completed": 8471,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
