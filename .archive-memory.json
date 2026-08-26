@@ -41522,14 +41522,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1162",
       "timestamp": 1787702600.8001375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1049",
-      "variation": true
-    },
+      "timestamp": 1787702774.7804673
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1048",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8319,
-    "total_planned": 8,
+    "total_completed": 8320,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
