@@ -41872,14 +41872,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1057",
       "timestamp": 1787718049.26054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787718364.570887
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1058",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8389,
-    "total_planned": 9,
+    "total_completed": 8390,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
