@@ -42362,14 +42362,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1075",
       "timestamp": 1787740521.862131
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1076",
-      "variation": true
-    },
+      "timestamp": 1787740738.2034662
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8487,
-    "total_planned": 53,
+    "total_completed": 8488,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
