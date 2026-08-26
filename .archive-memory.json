@@ -42622,18 +42622,17 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1076",
       "timestamp": 1787752944.5510552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1073",
-      "variation": true
+      "timestamp": 1787753153.9589632
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8539,
-    "total_planned": 1,
+    "total_completed": 8540,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
