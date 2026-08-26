@@ -41852,14 +41852,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1057",
       "timestamp": 1787717134.578125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787717354.2135491
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8385,
-    "total_planned": 13,
+    "total_completed": 8386,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
