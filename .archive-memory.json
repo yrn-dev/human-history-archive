@@ -43377,14 +43377,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1102",
       "timestamp": 1787788376.3309863
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787788649.8153965
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8690,
-    "total_planned": 63,
+    "total_completed": 8691,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
