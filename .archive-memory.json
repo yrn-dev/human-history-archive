@@ -42347,14 +42347,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1073",
       "timestamp": 1787739894.5839393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787740081.3192627
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8484,
-    "total_planned": 56,
+    "total_completed": 8485,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
