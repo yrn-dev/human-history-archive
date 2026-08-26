@@ -41712,14 +41712,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1057",
       "timestamp": 1787711063.3619416
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787711236.0610518
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8357,
-    "total_planned": 41,
+    "total_completed": 8358,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
