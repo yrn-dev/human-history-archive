@@ -42312,14 +42312,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1192",
       "timestamp": 1787738102.6132448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787738353.4905531
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8477,
-    "total_planned": 63,
+    "total_completed": 8478,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
