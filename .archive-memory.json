@@ -43267,14 +43267,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1093",
       "timestamp": 1787783216.891228
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1212",
-      "variation": true
-    },
+      "timestamp": 1787783474.985791
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8668,
-    "total_planned": 14,
+    "total_completed": 8669,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
