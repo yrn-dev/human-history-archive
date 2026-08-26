@@ -42502,14 +42502,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1192",
       "timestamp": 1787747217.8676121
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787747524.259979
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8515,
-    "total_planned": 25,
+    "total_completed": 8516,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
