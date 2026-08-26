@@ -41932,14 +41932,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1067",
       "timestamp": 1787721011.4075193
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787721310.727804
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8401,
-    "total_planned": 68,
+    "total_completed": 8402,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
