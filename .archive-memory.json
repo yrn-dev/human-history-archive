@@ -42262,14 +42262,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1066",
       "timestamp": 1787735619.2660263
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787735890.1567469
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1182",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8467,
-    "total_planned": 2,
+    "total_completed": 8468,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
