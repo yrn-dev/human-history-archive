@@ -41632,14 +41632,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1172",
       "timestamp": 1787707594.6081986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787707782.5737917
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8341,
-    "total_planned": 57,
+    "total_completed": 8342,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
