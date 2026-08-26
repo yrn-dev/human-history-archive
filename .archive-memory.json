@@ -42467,14 +42467,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 838",
       "timestamp": 1787745438.7322583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787745665.747294
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8508,
-    "total_planned": 32,
+    "total_completed": 8509,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
