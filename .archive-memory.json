@@ -42152,14 +42152,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1066",
       "timestamp": 1787730614.09788
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1067",
-      "variation": true
-    },
+      "timestamp": 1787730834.751845
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8445,
-    "total_planned": 24,
+    "total_completed": 8446,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
