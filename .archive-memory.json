@@ -41897,14 +41897,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1055",
       "timestamp": 1787719214.0660617
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787719493.8626804
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8394,
-    "total_planned": 4,
+    "total_completed": 8395,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
