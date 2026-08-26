@@ -42527,14 +42527,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1192",
       "timestamp": 1787748419.1569526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1076",
-      "variation": true
-    },
+      "timestamp": 1787748737.8437397
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8520,
-    "total_planned": 20,
+    "total_completed": 8521,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
