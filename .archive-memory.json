@@ -42027,14 +42027,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1182",
       "timestamp": 1787724933.631329
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787725188.784715
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8420,
-    "total_planned": 49,
+    "total_completed": 8421,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
