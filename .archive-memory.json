@@ -41867,14 +41867,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1057",
       "timestamp": 1787717840.2647736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787718049.26054
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1172",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8388,
-    "total_planned": 10,
+    "total_completed": 8389,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
