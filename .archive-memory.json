@@ -42387,14 +42387,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1075",
       "timestamp": 1787741600.7799375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1076",
-      "variation": true
-    },
+      "timestamp": 1787741881.1598058
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8492,
-    "total_planned": 48,
+    "total_completed": 8493,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
