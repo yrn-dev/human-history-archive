@@ -41752,14 +41752,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 824",
       "timestamp": 1787712612.2357998
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787712853.5897355
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8365,
-    "total_planned": 33,
+    "total_completed": 8366,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
