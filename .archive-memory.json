@@ -43327,14 +43327,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1091",
       "timestamp": 1787786184.9673984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787786373.4437988
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1094",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8680,
-    "total_planned": 2,
+    "total_completed": 8681,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
