@@ -43162,14 +43162,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1093",
       "timestamp": 1787778073.8875906
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787778389.4335444
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 852",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8647,
-    "total_planned": 35,
+    "total_completed": 8648,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
