@@ -41822,14 +41822,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1057",
       "timestamp": 1787715702.3250096
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787715927.582878
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8379,
-    "total_planned": 19,
+    "total_completed": 8380,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
