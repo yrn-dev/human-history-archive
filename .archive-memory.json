@@ -41772,14 +41772,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1055",
       "timestamp": 1787713416.754618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787713723.2253494
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 824",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8369,
-    "total_planned": 29,
+    "total_completed": 8370,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
