@@ -42607,14 +42607,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1076",
       "timestamp": 1787752037.8277647
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787752323.4643602
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8536,
-    "total_planned": 4,
+    "total_completed": 8537,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
