@@ -42647,14 +42647,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1085",
       "timestamp": 1787754255.201576
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787754488.899364
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1082",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8544,
-    "total_planned": 67,
+    "total_completed": 8545,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
