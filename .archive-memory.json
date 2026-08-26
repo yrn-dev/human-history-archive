@@ -41627,14 +41627,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1057",
       "timestamp": 1787707322.2418704
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787707594.6081986
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8340,
-    "total_planned": 58,
+    "total_completed": 8341,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
