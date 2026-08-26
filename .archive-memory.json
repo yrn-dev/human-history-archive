@@ -42087,14 +42087,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1066",
       "timestamp": 1787727649.838642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787727903.5986073
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8432,
-    "total_planned": 37,
+    "total_completed": 8433,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
