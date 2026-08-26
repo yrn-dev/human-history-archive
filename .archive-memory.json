@@ -42402,14 +42402,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1073",
       "timestamp": 1787742388.7952263
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787742695.4182818
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8495,
-    "total_planned": 45,
+    "total_completed": 8496,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
