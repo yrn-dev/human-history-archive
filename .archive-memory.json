@@ -41677,14 +41677,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1172",
       "timestamp": 1787709545.2148137
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787709683.3389494
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8350,
-    "total_planned": 48,
+    "total_completed": 8351,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
