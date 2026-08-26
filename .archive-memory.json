@@ -41887,14 +41887,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1058",
       "timestamp": 1787718880.8238792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787719023.2756455
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8392,
-    "total_planned": 6,
+    "total_completed": 8393,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
