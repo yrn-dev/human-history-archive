@@ -42752,14 +42752,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 845",
       "timestamp": 1787759126.4281378
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1085",
-      "variation": true
-    },
+      "timestamp": 1787759264.0734825
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8565,
-    "total_planned": 46,
+    "total_completed": 8566,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
