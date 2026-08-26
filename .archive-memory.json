@@ -42202,14 +42202,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1066",
       "timestamp": 1787732779.2526145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787733037.3729753
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8455,
-    "total_planned": 14,
+    "total_completed": 8456,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
