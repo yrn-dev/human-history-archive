@@ -41797,14 +41797,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1057",
       "timestamp": 1787714561.615279
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787714803.5850375
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8374,
-    "total_planned": 24,
+    "total_completed": 8375,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
