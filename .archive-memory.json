@@ -42062,14 +42062,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 831",
       "timestamp": 1787726565.8522062
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1182",
-      "variation": true
-    },
+      "timestamp": 1787726872.2847009
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1182",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8427,
-    "total_planned": 42,
+    "total_completed": 8428,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
