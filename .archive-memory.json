@@ -42407,14 +42407,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1192",
       "timestamp": 1787742695.4182818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787742983.5026302
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8496,
-    "total_planned": 44,
+    "total_completed": 8497,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
