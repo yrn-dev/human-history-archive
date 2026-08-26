@@ -42507,14 +42507,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1192",
       "timestamp": 1787747524.259979
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787747813.725596
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8516,
-    "total_planned": 24,
+    "total_completed": 8517,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
