@@ -41812,14 +41812,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1057",
       "timestamp": 1787715282.049271
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1058",
-      "variation": true
-    },
+      "timestamp": 1787715530.6476521
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8377,
-    "total_planned": 21,
+    "total_completed": 8378,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
