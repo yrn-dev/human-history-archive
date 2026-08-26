@@ -42292,14 +42292,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 838",
       "timestamp": 1787736993.8241713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787737253.193385
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 838",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8473,
-    "total_planned": 67,
+    "total_completed": 8474,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
