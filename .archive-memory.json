@@ -41592,14 +41592,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1055",
       "timestamp": 1787705748.7874262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787706061.5053184
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1172",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8333,
-    "total_planned": 65,
+    "total_completed": 8334,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
