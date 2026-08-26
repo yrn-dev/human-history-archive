@@ -43282,14 +43282,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1093",
       "timestamp": 1787783892.3407528
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1212",
-      "variation": true
-    },
+      "timestamp": 1787784189.1047997
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1212",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8671,
-    "total_planned": 11,
+    "total_completed": 8672,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
