@@ -42522,14 +42522,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1073",
       "timestamp": 1787748236.451132
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787748419.1569526
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1076",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8519,
-    "total_planned": 21,
+    "total_completed": 8520,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
