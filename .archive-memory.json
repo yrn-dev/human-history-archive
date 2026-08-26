@@ -43357,14 +43357,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 859",
       "timestamp": 1787787580.0428677
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787787880.6469953
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1222",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8686,
-    "total_planned": 67,
+    "total_completed": 8687,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
