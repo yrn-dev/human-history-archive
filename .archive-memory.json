@@ -43067,14 +43067,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1093",
       "timestamp": 1787774050.7803998
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787774267.9316578
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1094",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8628,
-    "total_planned": 54,
+    "total_completed": 8629,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
