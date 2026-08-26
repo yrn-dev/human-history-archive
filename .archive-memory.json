@@ -41582,14 +41582,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1057",
       "timestamp": 1787705196.512944
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787705500.3905609
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8331,
-    "total_planned": 67,
+    "total_completed": 8332,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
