@@ -42827,14 +42827,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1202",
       "timestamp": 1787762524.1217582
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787762712.645218
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 845",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8580,
-    "total_planned": 31,
+    "total_completed": 8581,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
