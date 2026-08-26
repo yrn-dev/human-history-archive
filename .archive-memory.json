@@ -41652,14 +41652,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 824",
       "timestamp": 1787708495.699258
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787708748.898925
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8345,
-    "total_planned": 53,
+    "total_completed": 8346,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
