@@ -41912,18 +41912,17 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1058",
       "timestamp": 1787720099.4062357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 824",
-      "variation": true
+      "timestamp": 1787720412.8006186
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8397,
-    "total_planned": 1,
+    "total_completed": 8398,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
