@@ -43197,14 +43197,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1093",
       "timestamp": 1787779960.4749744
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787780244.607661
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1212",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8654,
-    "total_planned": 28,
+    "total_completed": 8655,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
