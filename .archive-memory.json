@@ -41792,14 +41792,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1057",
       "timestamp": 1787714381.0696397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787714561.615279
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8373,
-    "total_planned": 25,
+    "total_completed": 8374,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
