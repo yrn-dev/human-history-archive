@@ -42987,14 +42987,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1094",
       "timestamp": 1787770166.2739933
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787770470.290594
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8612,
-    "total_planned": 70,
+    "total_completed": 8613,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
