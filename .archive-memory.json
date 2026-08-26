@@ -42837,14 +42837,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 845",
       "timestamp": 1787762872.139603
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787763079.1935256
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8582,
-    "total_planned": 29,
+    "total_completed": 8583,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
