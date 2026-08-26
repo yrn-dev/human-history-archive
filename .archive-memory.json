@@ -42802,14 +42802,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1202",
       "timestamp": 1787761432.8742442
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 845",
-      "variation": true
-    },
+      "timestamp": 1787761635.289507
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8575,
-    "total_planned": 36,
+    "total_completed": 8576,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
