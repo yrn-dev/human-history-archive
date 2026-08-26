@@ -43242,14 +43242,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1091",
       "timestamp": 1787782113.657928
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787782330.2212312
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1094",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8663,
-    "total_planned": 19,
+    "total_completed": 8664,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
