@@ -42552,14 +42552,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1073",
       "timestamp": 1787749796.0898938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787750037.8366258
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1192",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8525,
-    "total_planned": 15,
+    "total_completed": 8526,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
