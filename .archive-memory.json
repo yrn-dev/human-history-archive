@@ -42782,14 +42782,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1082",
       "timestamp": 1787760409.1592073
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787760621.9576285
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8571,
-    "total_planned": 40,
+    "total_completed": 8572,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
