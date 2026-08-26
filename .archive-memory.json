@@ -41662,14 +41662,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1055",
       "timestamp": 1787708882.8517563
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787709085.0503793
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8347,
-    "total_planned": 51,
+    "total_completed": 8348,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
