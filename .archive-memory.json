@@ -42517,14 +42517,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1075",
       "timestamp": 1787748092.377738
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787748236.451132
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1192",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8518,
-    "total_planned": 22,
+    "total_completed": 8519,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
