@@ -42177,14 +42177,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1067",
       "timestamp": 1787731580.6078007
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1067",
-      "variation": true
-    },
+      "timestamp": 1787731785.4969428
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8450,
-    "total_planned": 19,
+    "total_completed": 8451,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
