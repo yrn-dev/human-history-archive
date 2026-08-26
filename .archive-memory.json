@@ -43222,14 +43222,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1093",
       "timestamp": 1787781264.2092853
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787781401.458846
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 852",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8659,
-    "total_planned": 23,
+    "total_completed": 8660,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
