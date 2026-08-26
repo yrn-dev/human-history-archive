@@ -42137,14 +42137,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1066",
       "timestamp": 1787730169.4418535
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787730312.9567082
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8442,
-    "total_planned": 27,
+    "total_completed": 8443,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
