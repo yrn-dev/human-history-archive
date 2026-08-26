@@ -42337,14 +42337,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 838",
       "timestamp": 1787739332.0491884
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787739616.3157597
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8482,
-    "total_planned": 58,
+    "total_completed": 8483,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
