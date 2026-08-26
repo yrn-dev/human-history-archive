@@ -41862,14 +41862,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1057",
       "timestamp": 1787717552.7297585
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787717840.2647736
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8387,
-    "total_planned": 11,
+    "total_completed": 8388,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
