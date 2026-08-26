@@ -42462,14 +42462,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1076",
       "timestamp": 1787745269.4023263
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 838",
-      "variation": true
-    },
+      "timestamp": 1787745438.7322583
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8507,
-    "total_planned": 33,
+    "total_completed": 8508,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
