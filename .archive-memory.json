@@ -42352,14 +42352,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1073",
       "timestamp": 1787740081.3192627
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787740284.1308897
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8485,
-    "total_planned": 55,
+    "total_completed": 8486,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
