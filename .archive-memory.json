@@ -42307,14 +42307,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1073",
       "timestamp": 1787737818.7005913
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787738102.6132448
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8476,
-    "total_planned": 64,
+    "total_completed": 8477,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
