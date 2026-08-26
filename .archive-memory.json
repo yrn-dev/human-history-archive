@@ -42322,14 +42322,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1075",
       "timestamp": 1787738616.76047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787738885.4243348
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1192",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8479,
-    "total_planned": 61,
+    "total_completed": 8480,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
