@@ -41657,14 +41657,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1057",
       "timestamp": 1787708748.898925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787708882.8517563
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8346,
-    "total_planned": 52,
+    "total_completed": 8347,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
