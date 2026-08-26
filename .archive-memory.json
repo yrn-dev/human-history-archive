@@ -42702,14 +42702,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1082",
       "timestamp": 1787756682.912774
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787756909.2476475
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1202",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8555,
-    "total_planned": 56,
+    "total_completed": 8556,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
