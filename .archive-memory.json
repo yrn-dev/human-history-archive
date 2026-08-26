@@ -42167,14 +42167,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1066",
       "timestamp": 1787731181.9286315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787731399.464208
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1067",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8448,
-    "total_planned": 21,
+    "total_completed": 8449,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
