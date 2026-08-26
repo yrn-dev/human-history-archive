@@ -42057,14 +42057,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1066",
       "timestamp": 1787726332.9321477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 831",
-      "variation": true
-    },
+      "timestamp": 1787726565.8522062
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1182",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8426,
-    "total_planned": 43,
+    "total_completed": 8427,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
