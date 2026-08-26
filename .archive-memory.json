@@ -41587,14 +41587,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1057",
       "timestamp": 1787705500.3905609
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787705748.7874262
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 824",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8332,
-    "total_planned": 66,
+    "total_completed": 8333,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
