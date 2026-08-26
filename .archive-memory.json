@@ -43322,14 +43322,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1093",
       "timestamp": 1787785941.5324135
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787786184.9673984
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1091",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8679,
-    "total_planned": 3,
+    "total_completed": 8680,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
