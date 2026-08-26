@@ -43192,14 +43192,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1091",
       "timestamp": 1787779733.478858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787779960.4749744
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1091",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8653,
-    "total_planned": 29,
+    "total_completed": 8654,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
