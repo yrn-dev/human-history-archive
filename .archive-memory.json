@@ -41572,14 +41572,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 824",
       "timestamp": 1787704750.520789
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787705020.049616
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8329,
-    "total_planned": 69,
+    "total_completed": 8330,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
