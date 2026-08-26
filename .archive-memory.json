@@ -43127,14 +43127,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 852",
       "timestamp": 1787776699.734181
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1094",
-      "variation": true
-    },
+      "timestamp": 1787776881.5605726
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1094",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8640,
-    "total_planned": 42,
+    "total_completed": 8641,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
