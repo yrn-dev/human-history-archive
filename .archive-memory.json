@@ -41957,14 +41957,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1066",
       "timestamp": 1787722015.6318858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787722208.5305727
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8406,
-    "total_planned": 63,
+    "total_completed": 8407,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
