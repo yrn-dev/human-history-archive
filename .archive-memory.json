@@ -41952,14 +41952,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 831",
       "timestamp": 1787721856.988216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787722015.6318858
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8405,
-    "total_planned": 64,
+    "total_completed": 8406,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
