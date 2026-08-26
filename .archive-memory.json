@@ -42542,14 +42542,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1192",
       "timestamp": 1787749267.4412203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787749486.7814558
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8523,
-    "total_planned": 17,
+    "total_completed": 8524,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
