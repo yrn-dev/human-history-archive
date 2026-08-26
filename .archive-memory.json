@@ -43112,14 +43112,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1091",
       "timestamp": 1787776033.1574838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1212",
-      "variation": true
-    },
+      "timestamp": 1787776283.3631375
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8637,
-    "total_planned": 45,
+    "total_completed": 8638,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
