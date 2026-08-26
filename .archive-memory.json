@@ -41622,14 +41622,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1172",
       "timestamp": 1787707089.0768075
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787707322.2418704
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1172",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8339,
-    "total_planned": 59,
+    "total_completed": 8340,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
