@@ -41947,14 +41947,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1182",
       "timestamp": 1787721619.1968935
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 831",
-      "variation": true
-    },
+      "timestamp": 1787721856.988216
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8404,
-    "total_planned": 65,
+    "total_completed": 8405,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
