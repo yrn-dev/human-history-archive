@@ -43367,14 +43367,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1222",
       "timestamp": 1787788032.3010013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787788169.876705
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8688,
-    "total_planned": 65,
+    "total_completed": 8689,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
