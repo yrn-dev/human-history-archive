@@ -42862,14 +42862,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 845",
       "timestamp": 1787764047.4483206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1085",
-      "variation": true
-    },
+      "timestamp": 1787764246.1038148
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8587,
-    "total_planned": 24,
+    "total_completed": 8588,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
