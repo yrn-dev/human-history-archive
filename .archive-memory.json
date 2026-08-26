@@ -42142,14 +42142,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1064",
       "timestamp": 1787730312.9567082
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787730456.005133
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8443,
-    "total_planned": 26,
+    "total_completed": 8444,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
