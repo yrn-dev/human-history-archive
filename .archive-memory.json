@@ -43262,14 +43262,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1093",
       "timestamp": 1787783004.9956815
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787783216.891228
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1212",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8667,
-    "total_planned": 15,
+    "total_completed": 8668,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
