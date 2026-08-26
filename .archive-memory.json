@@ -41827,14 +41827,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1172",
       "timestamp": 1787715927.582878
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787716152.3766937
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1172",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8380,
-    "total_planned": 18,
+    "total_completed": 8381,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
