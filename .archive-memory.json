@@ -42727,14 +42727,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 845",
       "timestamp": 1787758000.6267426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1084",
-      "variation": true
-    },
+      "timestamp": 1787758276.7367923
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8560,
-    "total_planned": 51,
+    "total_completed": 8561,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
