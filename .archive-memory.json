@@ -42117,14 +42117,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1066",
       "timestamp": 1787729198.816107
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787729372.60754
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8438,
-    "total_planned": 31,
+    "total_completed": 8439,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
