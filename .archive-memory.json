@@ -42332,14 +42332,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1192",
       "timestamp": 1787739152.1942298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 838",
-      "variation": true
-    },
+      "timestamp": 1787739332.0491884
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8481,
-    "total_planned": 59,
+    "total_completed": 8482,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
