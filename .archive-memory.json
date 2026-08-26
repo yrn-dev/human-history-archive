@@ -42997,14 +42997,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1093",
       "timestamp": 1787770648.6153874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1094",
-      "variation": true
-    },
+      "timestamp": 1787770918.1688516
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1091",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8614,
-    "total_planned": 68,
+    "total_completed": 8615,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
