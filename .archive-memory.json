@@ -42047,14 +42047,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1066",
       "timestamp": 1787725946.2803974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787726162.220628
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8424,
-    "total_planned": 45,
+    "total_completed": 8425,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
