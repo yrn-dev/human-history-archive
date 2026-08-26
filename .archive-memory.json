@@ -42377,14 +42377,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1075",
       "timestamp": 1787741138.1217782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1076",
-      "variation": true
-    },
+      "timestamp": 1787741408.494717
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8490,
-    "total_planned": 50,
+    "total_completed": 8491,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
