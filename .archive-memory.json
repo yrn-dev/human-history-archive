@@ -43152,14 +43152,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 852",
       "timestamp": 1787777698.7028592
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1094",
-      "variation": true
-    },
+      "timestamp": 1787777835.8484066
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8645,
-    "total_planned": 37,
+    "total_completed": 8646,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
