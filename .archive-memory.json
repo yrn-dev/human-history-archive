@@ -42907,14 +42907,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1082",
       "timestamp": 1787766410.8407786
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1084",
-      "variation": true
-    },
+      "timestamp": 1787766569.116724
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1082",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8596,
-    "total_planned": 15,
+    "total_completed": 8597,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
