@@ -43102,14 +43102,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1093",
       "timestamp": 1787775567.253254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1212",
-      "variation": true
-    },
+      "timestamp": 1787775879.626952
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1091",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8635,
-    "total_planned": 47,
+    "total_completed": 8636,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
