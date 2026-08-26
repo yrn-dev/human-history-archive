@@ -42297,14 +42297,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1073",
       "timestamp": 1787737253.193385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 838",
-      "variation": true
-    },
+      "timestamp": 1787737516.5830321
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8474,
-    "total_planned": 66,
+    "total_completed": 8475,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
