@@ -42392,14 +42392,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1076",
       "timestamp": 1787741881.1598058
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787742147.5637789
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8493,
-    "total_planned": 47,
+    "total_completed": 8494,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
