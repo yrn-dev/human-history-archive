@@ -42242,14 +42242,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1066",
       "timestamp": 1787734693.5213213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1182",
-      "variation": true
-    },
+      "timestamp": 1787734856.3028128
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8463,
-    "total_planned": 6,
+    "total_completed": 8464,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
