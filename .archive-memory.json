@@ -43272,14 +43272,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1212",
       "timestamp": 1787783474.985791
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787783742.459859
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8669,
-    "total_planned": 13,
+    "total_completed": 8670,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
