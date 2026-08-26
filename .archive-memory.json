@@ -42832,14 +42832,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1082",
       "timestamp": 1787762712.645218
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 845",
-      "variation": true
-    },
+      "timestamp": 1787762872.139603
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1082",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8581,
-    "total_planned": 30,
+    "total_completed": 8582,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
