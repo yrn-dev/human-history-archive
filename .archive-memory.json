@@ -42587,14 +42587,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1075",
       "timestamp": 1787751097.5066936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1076",
-      "variation": true
-    },
+      "timestamp": 1787751370.4542005
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1192",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8532,
-    "total_planned": 8,
+    "total_completed": 8533,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
