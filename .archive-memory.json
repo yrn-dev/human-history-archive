@@ -43252,14 +43252,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1094",
       "timestamp": 1787782645.5857313
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787782868.0088766
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8665,
-    "total_planned": 17,
+    "total_completed": 8666,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
