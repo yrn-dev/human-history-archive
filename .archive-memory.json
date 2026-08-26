@@ -42882,14 +42882,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1082",
       "timestamp": 1787765123.5516675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1084",
-      "variation": true
-    },
+      "timestamp": 1787765381.2710876
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8591,
-    "total_planned": 20,
+    "total_completed": 8592,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
