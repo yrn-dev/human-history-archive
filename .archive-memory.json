@@ -43227,14 +43227,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 852",
       "timestamp": 1787781401.458846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787781581.2978232
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8660,
-    "total_planned": 22,
+    "total_completed": 8661,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
