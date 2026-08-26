@@ -41602,14 +41602,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1172",
       "timestamp": 1787706204.7829428
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787706348.6869938
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1058",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8335,
-    "total_planned": 63,
+    "total_completed": 8336,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
