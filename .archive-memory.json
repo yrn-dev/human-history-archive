@@ -42762,14 +42762,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1084",
       "timestamp": 1787759531.8177752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787759670.792237
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8567,
-    "total_planned": 44,
+    "total_completed": 8568,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
