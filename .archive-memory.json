@@ -42632,14 +42632,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1084",
       "timestamp": 1787753486.2319038
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1084",
-      "variation": true
-    },
+      "timestamp": 1787753799.4845922
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8541,
-    "total_planned": 70,
+    "total_completed": 8542,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
