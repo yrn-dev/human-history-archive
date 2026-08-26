@@ -42107,14 +42107,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1066",
       "timestamp": 1787728660.4497669
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 831",
-      "variation": true
-    },
+      "timestamp": 1787728939.7386212
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8436,
-    "total_planned": 33,
+    "total_completed": 8437,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
