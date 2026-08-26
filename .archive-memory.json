@@ -42962,14 +42962,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1082",
       "timestamp": 1787768859.5631037
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787769178.9895341
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 845",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8607,
-    "total_planned": 4,
+    "total_completed": 8608,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
