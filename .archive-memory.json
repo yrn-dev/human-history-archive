@@ -42912,14 +42912,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1084",
       "timestamp": 1787766569.116724
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787766829.0287728
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1084",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8597,
-    "total_planned": 14,
+    "total_completed": 8598,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
