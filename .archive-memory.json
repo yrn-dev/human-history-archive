@@ -42777,14 +42777,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1084",
       "timestamp": 1787760118.1676693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1082",
-      "variation": true
-    },
+      "timestamp": 1787760409.1592073
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1082",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8570,
-    "total_planned": 41,
+    "total_completed": 8571,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
