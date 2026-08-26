@@ -41777,14 +41777,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1055",
       "timestamp": 1787713723.2253494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787713950.6675599
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1058",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8370,
-    "total_planned": 28,
+    "total_completed": 8371,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
