@@ -41612,14 +41612,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1058",
       "timestamp": 1787706620.0130413
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1058",
-      "variation": true
-    },
+      "timestamp": 1787706798.6743865
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1172",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8337,
-    "total_planned": 61,
+    "total_completed": 8338,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
