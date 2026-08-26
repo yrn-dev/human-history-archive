@@ -42482,14 +42482,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1075",
       "timestamp": 1787746145.5562918
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 838",
-      "variation": true
-    },
+      "timestamp": 1787746347.293861
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8511,
-    "total_planned": 29,
+    "total_completed": 8512,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
