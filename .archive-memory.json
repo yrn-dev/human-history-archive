@@ -41722,14 +41722,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1055",
       "timestamp": 1787711441.4914708
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787711610.260309
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1058",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8359,
-    "total_planned": 39,
+    "total_completed": 8360,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
