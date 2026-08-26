@@ -41922,14 +41922,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1182",
       "timestamp": 1787720620.7717307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787720828.476108
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1067",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8399,
-    "total_planned": 70,
+    "total_completed": 8400,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
