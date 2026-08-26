@@ -42472,14 +42472,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1075",
       "timestamp": 1787745665.747294
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787745843.5762846
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8509,
-    "total_planned": 31,
+    "total_completed": 8510,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
