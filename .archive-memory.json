@@ -42342,14 +42342,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1075",
       "timestamp": 1787739616.3157597
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787739894.5839393
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8483,
-    "total_planned": 57,
+    "total_completed": 8484,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
