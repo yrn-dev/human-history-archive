@@ -43187,14 +43187,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1093",
       "timestamp": 1787779514.8287122
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1091",
-      "variation": true
-    },
+      "timestamp": 1787779733.478858
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8652,
-    "total_planned": 30,
+    "total_completed": 8653,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
