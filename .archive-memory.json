@@ -43092,14 +43092,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1091",
       "timestamp": 1787775099.9606018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1212",
-      "variation": true
-    },
+      "timestamp": 1787775278.8104105
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8633,
-    "total_planned": 49,
+    "total_completed": 8634,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
