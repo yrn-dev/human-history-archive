@@ -42127,14 +42127,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1064",
       "timestamp": 1787729560.1909606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787729868.9377735
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8440,
-    "total_planned": 29,
+    "total_completed": 8441,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
