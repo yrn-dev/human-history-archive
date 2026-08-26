@@ -41567,14 +41567,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1057",
       "timestamp": 1787704454.942159
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787704750.520789
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8328,
-    "total_planned": 70,
+    "total_completed": 8329,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
