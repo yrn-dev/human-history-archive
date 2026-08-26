@@ -42532,14 +42532,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1076",
       "timestamp": 1787748737.8437397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1073",
-      "variation": true
-    },
+      "timestamp": 1787748954.7489717
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1192",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8521,
-    "total_planned": 19,
+    "total_completed": 8522,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
