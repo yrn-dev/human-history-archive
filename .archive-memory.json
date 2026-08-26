@@ -42097,14 +42097,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1064",
       "timestamp": 1787728081.6952968
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 831",
-      "variation": true
-    },
+      "timestamp": 1787728367.2401166
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8434,
-    "total_planned": 35,
+    "total_completed": 8435,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
