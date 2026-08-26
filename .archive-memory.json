@@ -42422,14 +42422,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1075",
       "timestamp": 1787743466.6309242
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787743719.626845
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1192",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8499,
-    "total_planned": 41,
+    "total_completed": 8500,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
