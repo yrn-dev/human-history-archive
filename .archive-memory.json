@@ -43347,14 +43347,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1100",
       "timestamp": 1787787128.5791767
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787787296.8132386
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 859",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8684,
-    "total_planned": 69,
+    "total_completed": 8685,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
