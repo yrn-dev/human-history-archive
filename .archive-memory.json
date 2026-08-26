@@ -42157,14 +42157,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1067",
       "timestamp": 1787730834.751845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787731007.9960551
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8446,
-    "total_planned": 23,
+    "total_completed": 8447,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
