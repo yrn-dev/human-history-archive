@@ -42227,14 +42227,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1067",
       "timestamp": 1787733927.1166515
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1064",
-      "variation": true
-    },
+      "timestamp": 1787734231.7406726
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8460,
-    "total_planned": 9,
+    "total_completed": 8461,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
