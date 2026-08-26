@@ -43312,14 +43312,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1093",
       "timestamp": 1787785439.4764047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787785744.2876585
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8677,
-    "total_planned": 5,
+    "total_completed": 8678,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
