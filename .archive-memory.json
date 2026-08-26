@@ -41747,14 +41747,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1172",
       "timestamp": 1787712408.6418507
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 824",
-      "variation": true
-    },
+      "timestamp": 1787712612.2357998
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8364,
-    "total_planned": 34,
+    "total_completed": 8365,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
