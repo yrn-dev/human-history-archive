@@ -43167,14 +43167,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1091",
       "timestamp": 1787778389.4335444
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 852",
-      "variation": true
-    },
+      "timestamp": 1787778657.863216
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8648,
-    "total_planned": 34,
+    "total_completed": 8649,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
