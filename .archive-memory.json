@@ -41892,14 +41892,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1057",
       "timestamp": 1787719023.2756455
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1055",
-      "variation": true
-    },
+      "timestamp": 1787719214.0660617
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1057",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8393,
-    "total_planned": 5,
+    "total_completed": 8394,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
