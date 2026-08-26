@@ -43297,14 +43297,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1093",
       "timestamp": 1787784659.883025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1094",
-      "variation": true
-    },
+      "timestamp": 1787784897.0132866
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8674,
-    "total_planned": 8,
+    "total_completed": 8675,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
