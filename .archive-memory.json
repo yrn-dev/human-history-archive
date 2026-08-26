@@ -42327,14 +42327,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1075",
       "timestamp": 1787738885.4243348
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787739152.1942298
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 838",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8480,
-    "total_planned": 60,
+    "total_completed": 8481,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
