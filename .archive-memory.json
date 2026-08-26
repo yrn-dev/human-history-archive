@@ -43022,14 +43022,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1091",
       "timestamp": 1787771895.3589065
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787772105.678384
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1093",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8619,
-    "total_planned": 63,
+    "total_completed": 8620,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
