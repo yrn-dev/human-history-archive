@@ -43277,14 +43277,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1093",
       "timestamp": 1787783742.459859
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787783892.3407528
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1212",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8670,
-    "total_planned": 12,
+    "total_completed": 8671,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
