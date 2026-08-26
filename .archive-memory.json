@@ -41727,14 +41727,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1055",
       "timestamp": 1787711610.260309
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1058",
-      "variation": true
-    },
+      "timestamp": 1787711831.642396
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1055",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8360,
-    "total_planned": 38,
+    "total_completed": 8361,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
