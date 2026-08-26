@@ -43332,18 +43332,17 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1091",
       "timestamp": 1787786373.4437988
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1094",
-      "variation": true
+      "timestamp": 1787786595.2742796
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8681,
-    "total_planned": 1,
+    "total_completed": 8682,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
