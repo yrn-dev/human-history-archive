@@ -42932,14 +42932,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1084",
       "timestamp": 1787767626.371453
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1084",
-      "variation": true
-    },
+      "timestamp": 1787767777.4346786
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1202",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8601,
-    "total_planned": 10,
+    "total_completed": 8602,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
