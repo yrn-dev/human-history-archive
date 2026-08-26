@@ -43132,14 +43132,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1094",
       "timestamp": 1787776881.5605726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1094",
-      "variation": true
-    },
+      "timestamp": 1787777025.3960276
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1212",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8641,
-    "total_planned": 41,
+    "total_completed": 8642,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
