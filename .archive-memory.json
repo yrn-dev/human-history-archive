@@ -41527,14 +41527,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1049",
       "timestamp": 1787702774.7804673
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1048",
-      "variation": true
-    },
+      "timestamp": 1787703043.7952504
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1046",
@@ -41567,8 +41567,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8320,
-    "total_planned": 7,
+    "total_completed": 8321,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
