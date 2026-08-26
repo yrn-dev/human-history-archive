@@ -42867,14 +42867,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1085",
       "timestamp": 1787764246.1038148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1084",
-      "variation": true
-    },
+      "timestamp": 1787764556.4559495
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1202",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8588,
-    "total_planned": 23,
+    "total_completed": 8589,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
