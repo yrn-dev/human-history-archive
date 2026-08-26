@@ -42747,14 +42747,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1082",
       "timestamp": 1787758979.064938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 845",
-      "variation": true
-    },
+      "timestamp": 1787759126.4281378
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1085",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8564,
-    "total_planned": 47,
+    "total_completed": 8565,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
