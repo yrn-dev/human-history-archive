@@ -42597,14 +42597,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1192",
       "timestamp": 1787751536.8814328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 838",
-      "variation": true
-    },
+      "timestamp": 1787751848.9162235
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1076",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8534,
-    "total_planned": 6,
+    "total_completed": 8535,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
