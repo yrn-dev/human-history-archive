@@ -43342,14 +43342,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 859",
       "timestamp": 1787786822.8768148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787787128.5791767
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8683,
-    "total_planned": 70,
+    "total_completed": 8684,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
