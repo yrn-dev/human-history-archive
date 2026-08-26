@@ -42772,14 +42772,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1084",
       "timestamp": 1787759828.716241
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1084",
-      "variation": true
-    },
+      "timestamp": 1787760118.1676693
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1082",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8569,
-    "total_planned": 42,
+    "total_completed": 8570,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
