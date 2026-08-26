@@ -41972,14 +41972,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1066",
       "timestamp": 1787722686.1425483
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 831",
-      "variation": true
-    },
+      "timestamp": 1787722872.3695
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8409,
-    "total_planned": 60,
+    "total_completed": 8410,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
