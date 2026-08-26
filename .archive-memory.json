@@ -42187,14 +42187,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1066",
       "timestamp": 1787732018.862555
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1067",
-      "variation": true
-    },
+      "timestamp": 1787732291.213025
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1066",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8452,
-    "total_planned": 17,
+    "total_completed": 8453,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
