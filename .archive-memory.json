@@ -42132,14 +42132,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1064",
       "timestamp": 1787729868.9377735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1066",
-      "variation": true
-    },
+      "timestamp": 1787730169.4418535
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1064",
@@ -42277,8 +42277,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8441,
-    "total_planned": 28,
+    "total_completed": 8442,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
