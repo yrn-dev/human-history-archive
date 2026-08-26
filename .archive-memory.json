@@ -42617,14 +42617,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1073",
       "timestamp": 1787752636.1798494
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1076",
-      "variation": true
-    },
+      "timestamp": 1787752944.5510552
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1073",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8538,
-    "total_planned": 2,
+    "total_completed": 8539,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
