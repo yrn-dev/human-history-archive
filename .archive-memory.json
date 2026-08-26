@@ -42732,14 +42732,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1084",
       "timestamp": 1787758276.7367923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1084",
-      "variation": true
-    },
+      "timestamp": 1787758501.553703
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1085",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8561,
-    "total_planned": 50,
+    "total_completed": 8562,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
