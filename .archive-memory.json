@@ -42677,14 +42677,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1085",
       "timestamp": 1787755595.220136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 845",
-      "variation": true
-    },
+      "timestamp": 1787755892.1210108
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1085",
@@ -42987,8 +42987,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8550,
-    "total_planned": 61,
+    "total_completed": 8551,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
