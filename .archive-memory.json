@@ -43172,14 +43172,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 852",
       "timestamp": 1787778657.863216
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1093",
-      "variation": true
-    },
+      "timestamp": 1787778963.8376381
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1091",
@@ -43342,8 +43342,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8649,
-    "total_planned": 33,
+    "total_completed": 8650,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
