@@ -41807,14 +41807,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1057",
       "timestamp": 1787715022.7847726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1057",
-      "variation": true
-    },
+      "timestamp": 1787715282.049271
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1058",
@@ -41922,8 +41922,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8376,
-    "total_planned": 22,
+    "total_completed": 8377,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
