@@ -42562,14 +42562,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1192",
       "timestamp": 1787750175.693872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1075",
-      "variation": true
-    },
+      "timestamp": 1787750319.8445313
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1075",
@@ -42632,8 +42632,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8527,
-    "total_planned": 13,
+    "total_completed": 8528,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
