@@ -44767,14 +44767,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 887",
       "timestamp": 1787851678.123776
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787851895.638922
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1262",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8968,
-    "total_planned": 69,
+    "total_completed": 8969,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
