@@ -43452,14 +43452,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1222",
       "timestamp": 1787791660.876907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787791825.5395885
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 859",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8705,
-    "total_planned": 48,
+    "total_completed": 8706,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
