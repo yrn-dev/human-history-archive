@@ -44582,14 +44582,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 880",
       "timestamp": 1787843550.45549
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787843767.1802237
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8931,
-    "total_planned": 35,
+    "total_completed": 8932,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
