@@ -43987,14 +43987,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1112",
       "timestamp": 1787815573.4549565
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787815881.1114147
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8812,
-    "total_planned": 12,
+    "total_completed": 8813,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
