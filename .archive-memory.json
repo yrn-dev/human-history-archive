@@ -44802,14 +44802,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1138",
       "timestamp": 1787852965.4359949
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1139",
-      "variation": true
-    },
+      "timestamp": 1787853231.4564946
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8975,
-    "total_planned": 62,
+    "total_completed": 8976,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
