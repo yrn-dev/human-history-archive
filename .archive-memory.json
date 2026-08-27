@@ -44052,14 +44052,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1118",
       "timestamp": 1787818748.1160636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 873",
-      "variation": true
-    },
+      "timestamp": 1787819047.4191947
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8825,
-    "total_planned": 70,
+    "total_completed": 8826,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
