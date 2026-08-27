@@ -43837,14 +43837,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1109",
       "timestamp": 1787808797.2502315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787808986.7901728
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8782,
-    "total_planned": 42,
+    "total_completed": 8783,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
