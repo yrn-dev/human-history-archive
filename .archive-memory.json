@@ -44307,14 +44307,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1121",
       "timestamp": 1787830885.8870356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787831152.7938802
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8876,
-    "total_planned": 19,
+    "total_completed": 8877,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
