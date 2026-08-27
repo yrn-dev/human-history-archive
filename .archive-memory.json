@@ -43422,14 +43422,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1103",
       "timestamp": 1787790269.43496
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787790531.683616
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8699,
-    "total_planned": 54,
+    "total_completed": 8700,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
