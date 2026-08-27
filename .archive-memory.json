@@ -45262,14 +45262,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1148",
       "timestamp": 1787873490.4908304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787873744.101256
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1148",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9067,
-    "total_planned": 41,
+    "total_completed": 9068,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
