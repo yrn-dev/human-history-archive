@@ -43892,14 +43892,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1111",
       "timestamp": 1787811101.4938047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787811359.1117473
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8793,
-    "total_planned": 31,
+    "total_completed": 8794,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
