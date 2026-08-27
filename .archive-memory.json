@@ -43532,14 +43532,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1103",
       "timestamp": 1787794879.4055367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1103",
-      "variation": true
-    },
+      "timestamp": 1787795059.814276
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8721,
-    "total_planned": 32,
+    "total_completed": 8722,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
