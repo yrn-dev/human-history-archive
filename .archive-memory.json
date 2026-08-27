@@ -44122,14 +44122,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1120",
       "timestamp": 1787821869.45407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1242",
-      "variation": true
-    },
+      "timestamp": 1787822134.0459213
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8839,
-    "total_planned": 56,
+    "total_completed": 8840,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
