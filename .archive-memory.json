@@ -43402,14 +43402,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1102",
       "timestamp": 1787789548.0678248
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1103",
-      "variation": true
-    },
+      "timestamp": 1787789710.1709876
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8695,
-    "total_planned": 58,
+    "total_completed": 8696,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
