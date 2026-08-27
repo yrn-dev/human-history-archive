@@ -44652,14 +44652,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1252",
       "timestamp": 1787846598.9908433
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 880",
-      "variation": true
-    },
+      "timestamp": 1787846770.1084409
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1130",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8945,
-    "total_planned": 21,
+    "total_completed": 8946,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
