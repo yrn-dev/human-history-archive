@@ -43412,14 +43412,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1102",
       "timestamp": 1787789862.1362326
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1103",
-      "variation": true
-    },
+      "timestamp": 1787790112.573668
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8697,
-    "total_planned": 56,
+    "total_completed": 8698,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
