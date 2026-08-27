@@ -44857,14 +44857,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1138",
       "timestamp": 1787855418.0268736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787855692.7363875
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8986,
-    "total_planned": 51,
+    "total_completed": 8987,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
