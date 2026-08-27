@@ -44892,14 +44892,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1139",
       "timestamp": 1787857141.275801
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1787857372.52324
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8993,
-    "total_planned": 44,
+    "total_completed": 8994,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
