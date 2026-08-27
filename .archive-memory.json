@@ -45077,14 +45077,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1138",
       "timestamp": 1787865133.1432111
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787865306.7201536
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9030,
-    "total_planned": 7,
+    "total_completed": 9031,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
