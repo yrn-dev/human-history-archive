@@ -43652,14 +43652,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1222",
       "timestamp": 1787800435.1402726
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787800624.9468336
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8745,
-    "total_planned": 8,
+    "total_completed": 8746,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
