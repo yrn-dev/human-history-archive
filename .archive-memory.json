@@ -44247,14 +44247,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1120",
       "timestamp": 1787828020.5201735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1242",
-      "variation": true
-    },
+      "timestamp": 1787828275.2153459
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8864,
-    "total_planned": 31,
+    "total_completed": 8865,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
