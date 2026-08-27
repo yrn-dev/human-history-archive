@@ -43667,14 +43667,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1100",
       "timestamp": 1787801067.4301298
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1222",
-      "variation": true
-    },
+      "timestamp": 1787801208.1699076
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8748,
-    "total_planned": 5,
+    "total_completed": 8749,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
