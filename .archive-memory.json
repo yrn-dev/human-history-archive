@@ -44682,14 +44682,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1252",
       "timestamp": 1787847981.838044
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1252",
-      "variation": true
-    },
+      "timestamp": 1787848152.046473
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8951,
-    "total_planned": 15,
+    "total_completed": 8952,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
