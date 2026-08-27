@@ -45102,14 +45102,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1262",
       "timestamp": 1787866260.369403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787866483.9673333
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 887",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9035,
-    "total_planned": 2,
+    "total_completed": 9036,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
