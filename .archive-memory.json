@@ -44092,14 +44092,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1118",
       "timestamp": 1787820463.7936423
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787820686.2191942
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 873",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8833,
-    "total_planned": 62,
+    "total_completed": 8834,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
