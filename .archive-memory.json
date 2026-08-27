@@ -45192,14 +45192,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1145",
       "timestamp": 1787870427.373541
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787870598.078528
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9053,
-    "total_planned": 55,
+    "total_completed": 9054,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
