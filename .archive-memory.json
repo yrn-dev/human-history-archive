@@ -43547,14 +43547,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1102",
       "timestamp": 1787795596.212457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787795838.2564662
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8724,
-    "total_planned": 29,
+    "total_completed": 8725,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
