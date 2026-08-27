@@ -45132,14 +45132,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1147",
       "timestamp": 1787867591.054684
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787867903.5891645
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9041,
-    "total_planned": 67,
+    "total_completed": 9042,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
