@@ -44012,14 +44012,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1112",
       "timestamp": 1787816963.9571087
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787817273.421676
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8817,
-    "total_planned": 7,
+    "total_completed": 8818,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
