@@ -43687,18 +43687,17 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1100",
       "timestamp": 1787801954.680427
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1102",
-      "variation": true
+      "timestamp": 1787802224.094266
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8752,
-    "total_planned": 1,
+    "total_completed": 8753,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
