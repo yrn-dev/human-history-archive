@@ -45277,14 +45277,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1272",
       "timestamp": 1787874139.4458406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1148",
-      "variation": true
-    },
+      "timestamp": 1787874421.2635386
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1272",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9070,
-    "total_planned": 38,
+    "total_completed": 9071,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
