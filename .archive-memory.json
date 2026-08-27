@@ -43382,14 +43382,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1102",
       "timestamp": 1787788649.8153965
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787788910.811166
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8691,
-    "total_planned": 62,
+    "total_completed": 8692,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
