@@ -45157,14 +45157,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1272",
       "timestamp": 1787868871.0926466
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787869024.2459311
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9046,
-    "total_planned": 62,
+    "total_completed": 9047,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
