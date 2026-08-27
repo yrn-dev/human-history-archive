@@ -44487,14 +44487,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1127",
       "timestamp": 1787839513.6088314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787839791.9666245
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8912,
-    "total_planned": 54,
+    "total_completed": 8913,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
