@@ -44427,14 +44427,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1129",
       "timestamp": 1787836341.382023
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787836638.0668797
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8900,
-    "total_planned": 66,
+    "total_completed": 8901,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
