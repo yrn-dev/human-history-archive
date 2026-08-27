@@ -44717,14 +44717,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1129",
       "timestamp": 1787849493.069661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1252",
-      "variation": true
-    },
+      "timestamp": 1787849763.792438
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 880",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8958,
-    "total_planned": 8,
+    "total_completed": 8959,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
