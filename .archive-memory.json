@@ -44152,14 +44152,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1120",
       "timestamp": 1787823338.891912
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787823498.1892774
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8845,
-    "total_planned": 50,
+    "total_completed": 8846,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
