@@ -43432,14 +43432,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1100",
       "timestamp": 1787790808.373001
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787791037.3589957
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 859",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8701,
-    "total_planned": 52,
+    "total_completed": 8702,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
