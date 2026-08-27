@@ -43827,14 +43827,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1232",
       "timestamp": 1787808350.104802
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787808609.3344219
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8780,
-    "total_planned": 44,
+    "total_completed": 8781,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
