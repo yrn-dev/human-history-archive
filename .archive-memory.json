@@ -43957,14 +43957,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1111",
       "timestamp": 1787814114.2017717
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787814399.516298
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8806,
-    "total_planned": 18,
+    "total_completed": 8807,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
