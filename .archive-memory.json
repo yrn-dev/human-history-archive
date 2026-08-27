@@ -44392,14 +44392,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1121",
       "timestamp": 1787834718.5898836
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787834987.4788058
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1121",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8893,
-    "total_planned": 2,
+    "total_completed": 8894,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
