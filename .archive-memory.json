@@ -44957,14 +44957,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1262",
       "timestamp": 1787860024.1371605
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787860355.3347073
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9006,
-    "total_planned": 31,
+    "total_completed": 9007,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
