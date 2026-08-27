@@ -45147,14 +45147,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1272",
       "timestamp": 1787868394.9152932
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787868679.23054
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1272",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9044,
-    "total_planned": 64,
+    "total_completed": 9045,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
