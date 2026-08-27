@@ -44632,14 +44632,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1130",
       "timestamp": 1787845648.6708243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1252",
-      "variation": true
-    },
+      "timestamp": 1787845829.6914232
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8941,
-    "total_planned": 25,
+    "total_completed": 8942,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
