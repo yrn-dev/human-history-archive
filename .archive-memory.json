@@ -44442,14 +44442,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1127",
       "timestamp": 1787837120.102423
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787837423.838884
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8903,
-    "total_planned": 63,
+    "total_completed": 8904,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
