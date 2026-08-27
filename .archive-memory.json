@@ -43387,14 +43387,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1102",
       "timestamp": 1787788910.811166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787789094.0359447
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8692,
-    "total_planned": 61,
+    "total_completed": 8693,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
