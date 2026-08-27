@@ -44917,14 +44917,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1136",
       "timestamp": 1787858181.0450163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1787858503.2884576
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8998,
-    "total_planned": 39,
+    "total_completed": 8999,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
