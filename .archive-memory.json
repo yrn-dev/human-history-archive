@@ -45087,14 +45087,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1136",
       "timestamp": 1787865608.0590336
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787865920.2674606
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9032,
-    "total_planned": 5,
+    "total_completed": 9033,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
