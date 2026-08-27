@@ -44477,14 +44477,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1127",
       "timestamp": 1787838982.0145278
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787839235.3376544
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8910,
-    "total_planned": 56,
+    "total_completed": 8911,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
