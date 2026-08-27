@@ -43782,14 +43782,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1232",
       "timestamp": 1787806193.3175623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1232",
-      "variation": true
-    },
+      "timestamp": 1787806418.8484802
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8771,
-    "total_planned": 53,
+    "total_completed": 8772,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
