@@ -43637,14 +43637,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1100",
       "timestamp": 1787799620.055761
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787799882.0834553
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1222",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8742,
-    "total_planned": 11,
+    "total_completed": 8743,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
