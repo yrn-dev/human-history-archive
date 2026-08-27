@@ -45227,14 +45227,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1148",
       "timestamp": 1787872100.1280217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1272",
-      "variation": true
-    },
+      "timestamp": 1787872285.199729
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9060,
-    "total_planned": 48,
+    "total_completed": 9061,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
