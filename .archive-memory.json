@@ -43537,14 +43537,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1103",
       "timestamp": 1787795059.814276
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787795285.431014
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8722,
-    "total_planned": 31,
+    "total_completed": 8723,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
