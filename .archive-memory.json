@@ -45137,14 +45137,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1147",
       "timestamp": 1787867903.5891645
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1145",
-      "variation": true
-    },
+      "timestamp": 1787868106.1878285
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1272",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9042,
-    "total_planned": 66,
+    "total_completed": 9043,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
