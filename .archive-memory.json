@@ -43887,14 +43887,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1232",
       "timestamp": 1787810865.056697
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787811101.4938047
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8792,
-    "total_planned": 32,
+    "total_completed": 8793,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
