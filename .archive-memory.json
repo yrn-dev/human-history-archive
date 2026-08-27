@@ -45007,14 +45007,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1262",
       "timestamp": 1787862201.5768538
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787862370.1260738
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1139",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9016,
-    "total_planned": 21,
+    "total_completed": 9017,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
