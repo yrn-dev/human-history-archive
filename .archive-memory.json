@@ -43762,14 +43762,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1232",
       "timestamp": 1787805366.155136
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1232",
-      "variation": true
-    },
+      "timestamp": 1787805603.3249233
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 866",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8767,
-    "total_planned": 57,
+    "total_completed": 8768,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
