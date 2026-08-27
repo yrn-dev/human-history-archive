@@ -44352,14 +44352,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 873",
       "timestamp": 1787832996.4008274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787833310.2865255
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8885,
-    "total_planned": 10,
+    "total_completed": 8886,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
