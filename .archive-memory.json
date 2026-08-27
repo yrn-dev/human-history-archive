@@ -45107,18 +45107,17 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1136",
       "timestamp": 1787866483.9673333
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 887",
-      "variation": true
+      "timestamp": 1787866650.833681
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9036,
-    "total_planned": 1,
+    "total_completed": 9037,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
