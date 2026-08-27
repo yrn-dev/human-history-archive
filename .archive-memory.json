@@ -45257,14 +45257,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1147",
       "timestamp": 1787873344.9290211
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1148",
-      "variation": true
-    },
+      "timestamp": 1787873490.4908304
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9066,
-    "total_planned": 42,
+    "total_completed": 9067,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
