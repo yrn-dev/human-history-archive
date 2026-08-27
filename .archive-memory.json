@@ -44707,14 +44707,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1252",
       "timestamp": 1787849053.0722635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787849347.4353275
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8956,
-    "total_planned": 10,
+    "total_completed": 8957,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
