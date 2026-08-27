@@ -44017,14 +44017,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 866",
       "timestamp": 1787817273.421676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787817489.9264693
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 866",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8818,
-    "total_planned": 6,
+    "total_completed": 8819,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
