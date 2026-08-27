@@ -45047,14 +45047,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1136",
       "timestamp": 1787863796.0595467
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1139",
-      "variation": true
-    },
+      "timestamp": 1787864001.0358946
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1139",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9024,
-    "total_planned": 13,
+    "total_completed": 9025,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
