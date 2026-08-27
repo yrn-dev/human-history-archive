@@ -44662,14 +44662,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1130",
       "timestamp": 1787846998.7519317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787847258.8981228
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8947,
-    "total_planned": 19,
+    "total_completed": 8948,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
