@@ -44622,14 +44622,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1127",
       "timestamp": 1787845232.8958778
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1130",
-      "variation": true
-    },
+      "timestamp": 1787845405.8007882
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1130",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8939,
-    "total_planned": 27,
+    "total_completed": 8940,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
