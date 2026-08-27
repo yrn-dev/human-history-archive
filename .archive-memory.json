@@ -43617,14 +43617,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1102",
       "timestamp": 1787798648.2979505
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1103",
-      "variation": true
-    },
+      "timestamp": 1787798845.6341422
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1222",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8738,
-    "total_planned": 15,
+    "total_completed": 8739,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
