@@ -44397,18 +44397,17 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1120",
       "timestamp": 1787834987.4788058
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1121",
-      "variation": true
+      "timestamp": 1787835176.7238612
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8894,
-    "total_planned": 1,
+    "total_completed": 8895,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
