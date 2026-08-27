@@ -45042,14 +45042,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 887",
       "timestamp": 1787863603.5046527
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787863796.0595467
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1139",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9023,
-    "total_planned": 14,
+    "total_completed": 9024,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
