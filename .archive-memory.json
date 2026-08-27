@@ -45232,14 +45232,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1272",
       "timestamp": 1787872285.199729
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1145",
-      "variation": true
-    },
+      "timestamp": 1787872467.56744
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9061,
-    "total_planned": 47,
+    "total_completed": 9062,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
