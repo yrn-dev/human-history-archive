@@ -43447,14 +43447,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1100",
       "timestamp": 1787791472.8286123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1222",
-      "variation": true
-    },
+      "timestamp": 1787791660.876907
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8704,
-    "total_planned": 49,
+    "total_completed": 8705,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
