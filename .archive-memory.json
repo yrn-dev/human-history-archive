@@ -44967,14 +44967,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1138",
       "timestamp": 1787860511.4287198
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787860671.1621497
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9008,
-    "total_planned": 29,
+    "total_completed": 9009,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
