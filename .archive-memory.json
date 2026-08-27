@@ -44317,14 +44317,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1120",
       "timestamp": 1787831352.4471867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787831664.0328584
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8878,
-    "total_planned": 17,
+    "total_completed": 8879,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
