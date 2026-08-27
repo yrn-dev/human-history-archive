@@ -44252,14 +44252,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1242",
       "timestamp": 1787828275.2153459
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787828528.435312
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1242",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8865,
-    "total_planned": 30,
+    "total_completed": 8866,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
