@@ -44417,14 +44417,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1127",
       "timestamp": 1787835896.3695173
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787836164.5787964
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8898,
-    "total_planned": 68,
+    "total_completed": 8899,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
