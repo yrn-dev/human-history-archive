@@ -44547,14 +44547,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1130",
       "timestamp": 1787842008.5160935
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787842205.0608547
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8924,
-    "total_planned": 42,
+    "total_completed": 8925,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
