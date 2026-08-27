@@ -44242,14 +44242,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1121",
       "timestamp": 1787827756.6177716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787828020.5201735
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1242",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8863,
-    "total_planned": 32,
+    "total_completed": 8864,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
