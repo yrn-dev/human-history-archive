@@ -44387,14 +44387,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1118",
       "timestamp": 1787834549.1453712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1121",
-      "variation": true
-    },
+      "timestamp": 1787834718.5898836
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8892,
-    "total_planned": 3,
+    "total_completed": 8893,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
