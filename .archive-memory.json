@@ -44407,14 +44407,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1129",
       "timestamp": 1787835363.9293115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787835668.5685613
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8896,
-    "total_planned": 70,
+    "total_completed": 8897,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
