@@ -44497,14 +44497,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1129",
       "timestamp": 1787839947.1809485
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787840093.6884694
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8914,
-    "total_planned": 52,
+    "total_completed": 8915,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
