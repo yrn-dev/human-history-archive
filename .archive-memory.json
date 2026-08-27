@@ -43867,14 +43867,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1109",
       "timestamp": 1787810099.1603193
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787810258.3581507
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 866",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8788,
-    "total_planned": 36,
+    "total_completed": 8789,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
