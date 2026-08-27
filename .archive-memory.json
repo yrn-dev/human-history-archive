@@ -44762,14 +44762,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1136",
       "timestamp": 1787851412.1317172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787851678.123776
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8967,
-    "total_planned": 70,
+    "total_completed": 8968,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
