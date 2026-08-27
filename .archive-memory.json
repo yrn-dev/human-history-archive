@@ -43657,14 +43657,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1102",
       "timestamp": 1787800624.9468336
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787800919.3386626
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8746,
-    "total_planned": 7,
+    "total_completed": 8747,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
