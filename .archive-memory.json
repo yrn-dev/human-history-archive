@@ -43437,14 +43437,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1102",
       "timestamp": 1787791037.3589957
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787791278.5269022
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8702,
-    "total_planned": 51,
+    "total_completed": 8703,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
