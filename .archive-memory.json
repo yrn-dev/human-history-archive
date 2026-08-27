@@ -44772,14 +44772,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1136",
       "timestamp": 1787851895.638922
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1787852078.6208177
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8969,
-    "total_planned": 68,
+    "total_completed": 8970,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
