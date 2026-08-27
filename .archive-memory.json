@@ -44552,14 +44552,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1129",
       "timestamp": 1787842205.0608547
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787842458.4428532
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8925,
-    "total_planned": 41,
+    "total_completed": 8926,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
