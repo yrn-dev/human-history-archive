@@ -45092,14 +45092,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1138",
       "timestamp": 1787865920.2674606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787866055.8881688
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1262",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9033,
-    "total_planned": 4,
+    "total_completed": 9034,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
