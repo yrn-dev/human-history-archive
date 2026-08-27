@@ -44872,14 +44872,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 887",
       "timestamp": 1787856149.6805723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787856398.1490018
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8989,
-    "total_planned": 48,
+    "total_completed": 8990,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
