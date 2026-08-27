@@ -44172,14 +44172,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1118",
       "timestamp": 1787824255.7236242
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787824500.8069065
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8849,
-    "total_planned": 46,
+    "total_completed": 8850,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
