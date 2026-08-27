@@ -44807,14 +44807,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1139",
       "timestamp": 1787853231.4564946
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787853397.3359578
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 887",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8976,
-    "total_planned": 61,
+    "total_completed": 8977,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
