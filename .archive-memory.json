@@ -44097,14 +44097,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1120",
       "timestamp": 1787820686.2191942
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 873",
-      "variation": true
-    },
+      "timestamp": 1787820966.3041952
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1242",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8834,
-    "total_planned": 61,
+    "total_completed": 8835,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
