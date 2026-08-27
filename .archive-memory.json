@@ -43842,14 +43842,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1111",
       "timestamp": 1787808986.7901728
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787809292.0898082
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1232",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8783,
-    "total_planned": 41,
+    "total_completed": 8784,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
