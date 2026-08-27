@@ -43852,14 +43852,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1232",
       "timestamp": 1787809546.811477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787809742.6726267
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8785,
-    "total_planned": 39,
+    "total_completed": 8786,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
