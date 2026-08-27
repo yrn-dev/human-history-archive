@@ -43592,14 +43592,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1100",
       "timestamp": 1787797377.392024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1103",
-      "variation": true
-    },
+      "timestamp": 1787797589.5741508
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8733,
-    "total_planned": 20,
+    "total_completed": 8734,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
