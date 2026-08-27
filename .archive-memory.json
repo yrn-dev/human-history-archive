@@ -44822,14 +44822,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1136",
       "timestamp": 1787853792.7110214
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787854057.3583732
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8979,
-    "total_planned": 58,
+    "total_completed": 8980,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
