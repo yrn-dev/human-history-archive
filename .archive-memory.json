@@ -44752,18 +44752,17 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1127",
       "timestamp": 1787850973.9969544
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1127",
-      "variation": true
+      "timestamp": 1787851176.0168097
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8965,
-    "total_planned": 1,
+    "total_completed": 8966,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
