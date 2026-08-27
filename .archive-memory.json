@@ -43642,14 +43642,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1102",
       "timestamp": 1787799882.0834553
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1222",
-      "variation": true
-    },
+      "timestamp": 1787800161.3881226
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1222",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8743,
-    "total_planned": 10,
+    "total_completed": 8744,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
