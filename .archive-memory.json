@@ -44842,14 +44842,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1138",
       "timestamp": 1787854849.4131496
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1787855075.3436904
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8983,
-    "total_planned": 54,
+    "total_completed": 8984,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
