@@ -44792,14 +44792,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1138",
       "timestamp": 1787852638.6061478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787852802.353881
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8973,
-    "total_planned": 64,
+    "total_completed": 8974,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
