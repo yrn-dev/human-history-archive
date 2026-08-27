@@ -45247,14 +45247,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1147",
       "timestamp": 1787872965.5982666
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787873115.0972536
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9064,
-    "total_planned": 44,
+    "total_completed": 9065,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
