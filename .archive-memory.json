@@ -43682,14 +43682,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1222",
       "timestamp": 1787801740.7566426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787801954.680427
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8751,
-    "total_planned": 2,
+    "total_completed": 8752,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
