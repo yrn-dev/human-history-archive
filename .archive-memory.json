@@ -44222,14 +44222,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 873",
       "timestamp": 1787826602.718489
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787826881.819649
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8859,
-    "total_planned": 36,
+    "total_completed": 8860,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
