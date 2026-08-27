@@ -44862,14 +44862,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1136",
       "timestamp": 1787855692.7363875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787855964.86481
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 887",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8987,
-    "total_planned": 50,
+    "total_completed": 8988,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
