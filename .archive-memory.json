@@ -44997,14 +44997,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1138",
       "timestamp": 1787861775.163057
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1139",
-      "variation": true
-    },
+      "timestamp": 1787862058.9578383
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1262",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9014,
-    "total_planned": 23,
+    "total_completed": 9015,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
