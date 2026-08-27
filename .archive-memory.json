@@ -45167,14 +45167,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1147",
       "timestamp": 1787869306.694062
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787869522.2973018
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1148",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9048,
-    "total_planned": 60,
+    "total_completed": 9049,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
