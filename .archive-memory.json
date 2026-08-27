@@ -43582,14 +43582,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1222",
       "timestamp": 1787797032.8684597
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787797204.054463
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8731,
-    "total_planned": 22,
+    "total_completed": 8732,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
