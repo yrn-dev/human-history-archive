@@ -43527,14 +43527,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1100",
       "timestamp": 1787794700.1625397
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1103",
-      "variation": true
-    },
+      "timestamp": 1787794879.4055367
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8720,
-    "total_planned": 33,
+    "total_completed": 8721,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
