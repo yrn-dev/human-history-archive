@@ -44042,18 +44042,17 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1109",
       "timestamp": 1787818315.4694066
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1112",
-      "variation": true
+      "timestamp": 1787818568.210282
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 8823,
-    "total_planned": 1,
+    "total_completed": 8824,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
