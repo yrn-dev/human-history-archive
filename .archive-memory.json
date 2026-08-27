@@ -43817,14 +43817,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1111",
       "timestamp": 1787807723.6645145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787808030.805688
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1232",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8778,
-    "total_planned": 46,
+    "total_completed": 8779,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
