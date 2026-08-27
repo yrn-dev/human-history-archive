@@ -43792,14 +43792,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1111",
       "timestamp": 1787806610.1723053
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787806784.6074884
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8773,
-    "total_planned": 51,
+    "total_completed": 8774,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
