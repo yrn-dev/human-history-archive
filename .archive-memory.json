@@ -44937,14 +44937,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1138",
       "timestamp": 1787859197.3964784
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787859379.4107857
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9002,
-    "total_planned": 35,
+    "total_completed": 9003,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
