@@ -44837,14 +44837,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1138",
       "timestamp": 1787854556.4384017
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787854849.4131496
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1262",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8982,
-    "total_planned": 55,
+    "total_completed": 8983,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
