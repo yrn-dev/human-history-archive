@@ -44032,14 +44032,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1111",
       "timestamp": 1787817940.0608172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787818104.232412
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8821,
-    "total_planned": 3,
+    "total_completed": 8822,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
