@@ -44557,14 +44557,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1127",
       "timestamp": 1787842458.4428532
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787842708.9239957
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 880",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8926,
-    "total_planned": 40,
+    "total_completed": 8927,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
