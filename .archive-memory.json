@@ -44432,14 +44432,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1127",
       "timestamp": 1787836638.0668797
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787836812.810596
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8901,
-    "total_planned": 65,
+    "total_completed": 8902,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
