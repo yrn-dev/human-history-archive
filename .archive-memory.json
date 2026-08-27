@@ -44147,14 +44147,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1242",
       "timestamp": 1787823076.6401246
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787823338.891912
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8844,
-    "total_planned": 51,
+    "total_completed": 8845,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
