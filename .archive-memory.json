@@ -45097,14 +45097,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1136",
       "timestamp": 1787866055.8881688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1787866260.369403
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9034,
-    "total_planned": 3,
+    "total_completed": 9035,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
