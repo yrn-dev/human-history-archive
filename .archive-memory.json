@@ -43457,14 +43457,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1102",
       "timestamp": 1787791825.5395885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787792018.9696236
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8706,
-    "total_planned": 47,
+    "total_completed": 8707,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
