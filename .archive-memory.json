@@ -43407,14 +43407,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1103",
       "timestamp": 1787789710.1709876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787789862.1362326
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8696,
-    "total_planned": 57,
+    "total_completed": 8697,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
