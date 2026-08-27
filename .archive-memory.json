@@ -44732,14 +44732,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1129",
       "timestamp": 1787850103.5399587
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787850383.3001575
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1130",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8961,
-    "total_planned": 5,
+    "total_completed": 8962,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
