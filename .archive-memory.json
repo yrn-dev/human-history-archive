@@ -44987,14 +44987,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1138",
       "timestamp": 1787861427.483584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787861589.0537162
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9012,
-    "total_planned": 25,
+    "total_completed": 9013,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
