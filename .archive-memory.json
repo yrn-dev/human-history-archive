@@ -44887,14 +44887,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1138",
       "timestamp": 1787856905.993935
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1139",
-      "variation": true
-    },
+      "timestamp": 1787857141.275801
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1262",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8992,
-    "total_planned": 45,
+    "total_completed": 8993,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
