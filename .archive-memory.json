@@ -43937,14 +43937,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1111",
       "timestamp": 1787813392.0167265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787813654.0935822
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8802,
-    "total_planned": 22,
+    "total_completed": 8803,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
