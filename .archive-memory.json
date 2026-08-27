@@ -44907,14 +44907,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1138",
       "timestamp": 1787857750.3946798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1139",
-      "variation": true
-    },
+      "timestamp": 1787857940.8671267
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8996,
-    "total_planned": 41,
+    "total_completed": 8997,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
