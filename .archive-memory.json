@@ -44377,14 +44377,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 873",
       "timestamp": 1787834052.4168038
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787834248.6078837
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8890,
-    "total_planned": 5,
+    "total_completed": 8891,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
