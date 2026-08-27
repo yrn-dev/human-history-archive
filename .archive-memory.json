@@ -44812,14 +44812,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1136",
       "timestamp": 1787853397.3359578
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787853587.4019442
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8977,
-    "total_planned": 60,
+    "total_completed": 8978,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
