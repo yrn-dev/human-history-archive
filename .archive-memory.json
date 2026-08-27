@@ -43897,14 +43897,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1109",
       "timestamp": 1787811359.1117473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787811550.9316962
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8794,
-    "total_planned": 30,
+    "total_completed": 8795,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
