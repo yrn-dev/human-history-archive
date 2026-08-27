@@ -44992,14 +44992,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1136",
       "timestamp": 1787861589.0537162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787861775.163057
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1139",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9013,
-    "total_planned": 24,
+    "total_completed": 9014,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
