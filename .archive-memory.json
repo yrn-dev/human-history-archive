@@ -43567,14 +43567,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1102",
       "timestamp": 1787796493.9993818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 859",
-      "variation": true
-    },
+      "timestamp": 1787796645.5801709
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8728,
-    "total_planned": 25,
+    "total_completed": 8729,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
