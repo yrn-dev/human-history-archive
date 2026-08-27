@@ -44062,14 +44062,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1120",
       "timestamp": 1787819183.7733278
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787819437.1307857
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8827,
-    "total_planned": 68,
+    "total_completed": 8828,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
