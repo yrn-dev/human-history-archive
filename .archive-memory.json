@@ -43397,14 +43397,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1103",
       "timestamp": 1787789245.7352018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787789548.0678248
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8694,
-    "total_planned": 59,
+    "total_completed": 8695,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
