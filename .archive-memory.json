@@ -44777,14 +44777,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1262",
       "timestamp": 1787852078.6208177
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787852306.3570278
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8970,
-    "total_planned": 67,
+    "total_completed": 8971,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
