@@ -43662,14 +43662,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1100",
       "timestamp": 1787800919.3386626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787801067.4301298
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1222",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8747,
-    "total_planned": 6,
+    "total_completed": 8748,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
