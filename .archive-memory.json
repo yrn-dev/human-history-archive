@@ -44597,14 +44597,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1129",
       "timestamp": 1787844253.505979
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1130",
-      "variation": true
-    },
+      "timestamp": 1787844461.1910195
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1252",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8934,
-    "total_planned": 32,
+    "total_completed": 8935,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
