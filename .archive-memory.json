@@ -44187,14 +44187,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1118",
       "timestamp": 1787824846.8241787
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787825147.4516218
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8852,
-    "total_planned": 43,
+    "total_completed": 8853,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
