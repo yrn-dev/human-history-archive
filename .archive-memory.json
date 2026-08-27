@@ -44827,14 +44827,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1136",
       "timestamp": 1787854057.3583732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787854300.608288
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8980,
-    "total_planned": 57,
+    "total_completed": 8981,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
