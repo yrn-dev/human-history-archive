@@ -45072,14 +45072,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1138",
       "timestamp": 1787864815.9480472
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787865133.1432111
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9029,
-    "total_planned": 8,
+    "total_completed": 9030,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
