@@ -44302,14 +44302,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1120",
       "timestamp": 1787830662.0966003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1121",
-      "variation": true
-    },
+      "timestamp": 1787830885.8870356
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8875,
-    "total_planned": 20,
+    "total_completed": 8876,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
