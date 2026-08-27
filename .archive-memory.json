@@ -44412,14 +44412,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1129",
       "timestamp": 1787835668.5685613
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787835896.3695173
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8897,
-    "total_planned": 69,
+    "total_completed": 8898,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
