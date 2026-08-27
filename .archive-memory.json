@@ -44197,14 +44197,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1118",
       "timestamp": 1787825349.2185287
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787825563.592589
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8854,
-    "total_planned": 41,
+    "total_completed": 8855,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
