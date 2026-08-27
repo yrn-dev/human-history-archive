@@ -43952,14 +43952,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 866",
       "timestamp": 1787813964.4285553
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787814114.2017717
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8805,
-    "total_planned": 19,
+    "total_completed": 8806,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
