@@ -44612,14 +44612,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1129",
       "timestamp": 1787844902.3855042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787845093.8241928
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8937,
-    "total_planned": 29,
+    "total_completed": 8938,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
