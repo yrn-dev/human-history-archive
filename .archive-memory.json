@@ -43847,14 +43847,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1109",
       "timestamp": 1787809292.0898082
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1232",
-      "variation": true
-    },
+      "timestamp": 1787809546.811477
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8784,
-    "total_planned": 40,
+    "total_completed": 8785,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
