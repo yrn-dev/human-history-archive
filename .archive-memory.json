@@ -44082,14 +44082,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1118",
       "timestamp": 1787819985.2906036
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787820190.3693292
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8831,
-    "total_planned": 64,
+    "total_completed": 8832,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
