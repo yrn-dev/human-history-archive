@@ -44102,14 +44102,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 873",
       "timestamp": 1787820966.3041952
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1242",
-      "variation": true
-    },
+      "timestamp": 1787821191.91584
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8835,
-    "total_planned": 60,
+    "total_completed": 8836,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
