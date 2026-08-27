@@ -45122,14 +45122,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1148",
       "timestamp": 1787867071.831121
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 894",
-      "variation": true
-    },
+      "timestamp": 1787867281.945374
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9039,
-    "total_planned": 69,
+    "total_completed": 9040,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
