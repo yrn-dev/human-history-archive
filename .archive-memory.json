@@ -44272,14 +44272,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1120",
       "timestamp": 1787829366.5046124
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1242",
-      "variation": true
-    },
+      "timestamp": 1787829657.9227207
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1242",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8869,
-    "total_planned": 26,
+    "total_completed": 8870,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
