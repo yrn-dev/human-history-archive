@@ -44852,14 +44852,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1136",
       "timestamp": 1787855268.281934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787855418.0268736
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8985,
-    "total_planned": 52,
+    "total_completed": 8986,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
