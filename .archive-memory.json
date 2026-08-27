@@ -44142,14 +44142,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1242",
       "timestamp": 1787822860.3338563
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1242",
-      "variation": true
-    },
+      "timestamp": 1787823076.6401246
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8843,
-    "total_planned": 52,
+    "total_completed": 8844,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
