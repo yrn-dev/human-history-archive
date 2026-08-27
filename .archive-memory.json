@@ -43487,14 +43487,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1100",
       "timestamp": 1787793071.4859753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787793249.6499782
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8712,
-    "total_planned": 41,
+    "total_completed": 8713,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
