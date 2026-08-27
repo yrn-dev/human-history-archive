@@ -44297,14 +44297,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1120",
       "timestamp": 1787830513.3916128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787830662.0966003
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1121",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8874,
-    "total_planned": 21,
+    "total_completed": 8875,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
