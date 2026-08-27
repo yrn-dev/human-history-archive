@@ -43517,14 +43517,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1102",
       "timestamp": 1787794319.3191338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787794523.1720135
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8718,
-    "total_planned": 35,
+    "total_completed": 8719,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
