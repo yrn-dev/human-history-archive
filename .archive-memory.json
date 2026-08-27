@@ -44422,14 +44422,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1129",
       "timestamp": 1787836164.5787964
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787836341.382023
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8899,
-    "total_planned": 67,
+    "total_completed": 8900,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
