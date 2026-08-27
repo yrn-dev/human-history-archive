@@ -44437,14 +44437,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1129",
       "timestamp": 1787836812.810596
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787837120.102423
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8902,
-    "total_planned": 64,
+    "total_completed": 8903,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
