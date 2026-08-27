@@ -44212,14 +44212,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 873",
       "timestamp": 1787825977.8253522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1121",
-      "variation": true
-    },
+      "timestamp": 1787826295.4825742
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 873",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8857,
-    "total_planned": 38,
+    "total_completed": 8858,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
