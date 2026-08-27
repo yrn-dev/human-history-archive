@@ -44282,14 +44282,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1242",
       "timestamp": 1787829878.5501804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787830158.1527
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1242",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8871,
-    "total_planned": 24,
+    "total_completed": 8872,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
