@@ -44132,14 +44132,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1120",
       "timestamp": 1787822292.9682965
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787822593.299257
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1242",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8841,
-    "total_planned": 54,
+    "total_completed": 8842,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
