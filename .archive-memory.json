@@ -44237,14 +44237,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1121",
       "timestamp": 1787827498.0853798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1121",
-      "variation": true
-    },
+      "timestamp": 1787827756.6177716
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8862,
-    "total_planned": 33,
+    "total_completed": 8863,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
