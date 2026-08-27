@@ -44607,14 +44607,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1252",
       "timestamp": 1787844712.6732771
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787844902.3855042
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8936,
-    "total_planned": 30,
+    "total_completed": 8937,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
