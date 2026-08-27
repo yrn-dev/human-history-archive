@@ -44227,14 +44227,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1118",
       "timestamp": 1787826881.819649
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787827187.8939595
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1121",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8860,
-    "total_planned": 35,
+    "total_completed": 8861,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
