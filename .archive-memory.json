@@ -45267,14 +45267,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1147",
       "timestamp": 1787873744.101256
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1148",
-      "variation": true
-    },
+      "timestamp": 1787873942.6854813
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1272",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9068,
-    "total_planned": 40,
+    "total_completed": 9069,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
