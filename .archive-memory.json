@@ -44867,14 +44867,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1138",
       "timestamp": 1787855964.86481
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787856149.6805723
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8988,
-    "total_planned": 49,
+    "total_completed": 8989,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
