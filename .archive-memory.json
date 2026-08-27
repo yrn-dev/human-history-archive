@@ -43697,14 +43697,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1109",
       "timestamp": 1787802433.041886
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787802644.8024085
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1232",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8754,
-    "total_planned": 70,
+    "total_completed": 8755,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
