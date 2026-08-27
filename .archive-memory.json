@@ -44107,14 +44107,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1242",
       "timestamp": 1787821191.91584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787821454.2669153
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8836,
-    "total_planned": 59,
+    "total_completed": 8837,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
