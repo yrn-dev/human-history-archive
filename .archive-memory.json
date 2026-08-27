@@ -43902,14 +43902,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1109",
       "timestamp": 1787811550.9316962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787811857.0627613
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1112",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8795,
-    "total_planned": 29,
+    "total_completed": 8796,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
