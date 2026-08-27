@@ -44347,14 +44347,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1118",
       "timestamp": 1787832850.6859546
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 873",
-      "variation": true
-    },
+      "timestamp": 1787832996.4008274
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8884,
-    "total_planned": 11,
+    "total_completed": 8885,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
