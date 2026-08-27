@@ -44327,14 +44327,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1120",
       "timestamp": 1787831865.8393736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1121",
-      "variation": true
-    },
+      "timestamp": 1787832128.7569437
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8880,
-    "total_planned": 15,
+    "total_completed": 8881,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
