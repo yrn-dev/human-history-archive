@@ -44037,14 +44037,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1112",
       "timestamp": 1787818104.232412
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787818315.4694066
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1112",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8822,
-    "total_planned": 2,
+    "total_completed": 8823,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
