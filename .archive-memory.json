@@ -44192,14 +44192,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1118",
       "timestamp": 1787825147.4516218
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787825349.2185287
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8853,
-    "total_planned": 42,
+    "total_completed": 8854,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
