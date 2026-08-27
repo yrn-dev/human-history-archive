@@ -44357,14 +44357,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1118",
       "timestamp": 1787833310.2865255
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787833502.112422
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1121",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8886,
-    "total_planned": 9,
+    "total_completed": 8887,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
