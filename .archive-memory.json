@@ -45062,14 +45062,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1138",
       "timestamp": 1787864452.5018504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787864677.1045024
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9027,
-    "total_planned": 10,
+    "total_completed": 9028,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
