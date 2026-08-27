@@ -44232,14 +44232,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1118",
       "timestamp": 1787827187.8939595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1121",
-      "variation": true
-    },
+      "timestamp": 1787827498.0853798
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1121",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8861,
-    "total_planned": 34,
+    "total_completed": 8862,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
