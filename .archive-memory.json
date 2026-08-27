@@ -44342,14 +44342,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1120",
       "timestamp": 1787832683.5103235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787832850.6859546
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 873",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8883,
-    "total_planned": 12,
+    "total_completed": 8884,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
