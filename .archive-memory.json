@@ -45172,14 +45172,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1147",
       "timestamp": 1787869522.2973018
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1148",
-      "variation": true
-    },
+      "timestamp": 1787869672.50446
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9049,
-    "total_planned": 59,
+    "total_completed": 9050,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
