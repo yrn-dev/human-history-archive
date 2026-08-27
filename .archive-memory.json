@@ -44897,14 +44897,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1262",
       "timestamp": 1787857372.52324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787857589.6253128
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8994,
-    "total_planned": 43,
+    "total_completed": 8995,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
