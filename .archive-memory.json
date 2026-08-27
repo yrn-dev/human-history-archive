@@ -44372,14 +44372,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1121",
       "timestamp": 1787833913.872147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 873",
-      "variation": true
-    },
+      "timestamp": 1787834052.4168038
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8889,
-    "total_planned": 6,
+    "total_completed": 8890,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
