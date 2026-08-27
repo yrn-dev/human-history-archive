@@ -44747,14 +44747,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1252",
       "timestamp": 1787850811.920732
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787850973.9969544
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8964,
-    "total_planned": 2,
+    "total_completed": 8965,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
