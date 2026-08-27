@@ -44577,14 +44577,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1129",
       "timestamp": 1787843323.7970257
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 880",
-      "variation": true
-    },
+      "timestamp": 1787843550.45549
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8930,
-    "total_planned": 36,
+    "total_completed": 8931,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
