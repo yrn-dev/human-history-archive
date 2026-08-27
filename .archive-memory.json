@@ -44452,14 +44452,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1129",
       "timestamp": 1787837695.3661377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1130",
-      "variation": true
-    },
+      "timestamp": 1787838093.199641
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8905,
-    "total_planned": 61,
+    "total_completed": 8906,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
