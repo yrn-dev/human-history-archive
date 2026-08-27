@@ -44077,14 +44077,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 873",
       "timestamp": 1787819813.920978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787819985.2906036
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8830,
-    "total_planned": 65,
+    "total_completed": 8831,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
