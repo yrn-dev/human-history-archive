@@ -44677,14 +44677,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1130",
       "timestamp": 1787847691.912047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1252",
-      "variation": true
-    },
+      "timestamp": 1787847981.838044
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1252",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8950,
-    "total_planned": 16,
+    "total_completed": 8951,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
