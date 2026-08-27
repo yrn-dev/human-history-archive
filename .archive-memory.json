@@ -44502,14 +44502,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1129",
       "timestamp": 1787840093.6884694
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787840295.4492726
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 880",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8915,
-    "total_planned": 51,
+    "total_completed": 8916,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
