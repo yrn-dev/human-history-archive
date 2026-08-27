@@ -44912,14 +44912,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1139",
       "timestamp": 1787857940.8671267
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787858181.0450163
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1262",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8997,
-    "total_planned": 40,
+    "total_completed": 8998,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
