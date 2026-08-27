@@ -44467,14 +44467,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1129",
       "timestamp": 1787838600.696721
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1252",
-      "variation": true
-    },
+      "timestamp": 1787838799.4019804
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8908,
-    "total_planned": 58,
+    "total_completed": 8909,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
