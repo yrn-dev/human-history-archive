@@ -43392,14 +43392,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1100",
       "timestamp": 1787789094.0359447
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1103",
-      "variation": true
-    },
+      "timestamp": 1787789245.7352018
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8693,
-    "total_planned": 60,
+    "total_completed": 8694,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
