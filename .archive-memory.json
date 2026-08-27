@@ -45217,14 +45217,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1145",
       "timestamp": 1787871682.62375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1145",
-      "variation": true
-    },
+      "timestamp": 1787871902.0697324
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1148",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9058,
-    "total_planned": 50,
+    "total_completed": 9059,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
