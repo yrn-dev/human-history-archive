@@ -44517,14 +44517,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1127",
       "timestamp": 1787840669.7243307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 880",
-      "variation": true
-    },
+      "timestamp": 1787840831.964834
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1252",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8918,
-    "total_planned": 48,
+    "total_completed": 8919,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
