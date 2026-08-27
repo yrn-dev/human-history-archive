@@ -44687,14 +44687,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1252",
       "timestamp": 1787848152.046473
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787848377.1768966
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8952,
-    "total_planned": 14,
+    "total_completed": 8953,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
