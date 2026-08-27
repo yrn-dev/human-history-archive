@@ -43857,14 +43857,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1111",
       "timestamp": 1787809742.6726267
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787809907.87402
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8786,
-    "total_planned": 38,
+    "total_completed": 8787,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
