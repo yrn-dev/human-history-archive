@@ -44567,14 +44567,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 880",
       "timestamp": 1787842878.9747193
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 880",
-      "variation": true
-    },
+      "timestamp": 1787843105.957161
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8928,
-    "total_planned": 38,
+    "total_completed": 8929,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
