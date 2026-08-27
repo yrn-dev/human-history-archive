@@ -43707,14 +43707,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1232",
       "timestamp": 1787802784.2281861
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787802993.8976834
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8756,
-    "total_planned": 68,
+    "total_completed": 8757,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
