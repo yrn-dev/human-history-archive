@@ -44902,14 +44902,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1138",
       "timestamp": 1787857589.6253128
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787857750.3946798
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1139",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8995,
-    "total_planned": 42,
+    "total_completed": 8996,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
