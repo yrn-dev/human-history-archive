@@ -44257,14 +44257,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1120",
       "timestamp": 1787828528.435312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1242",
-      "variation": true
-    },
+      "timestamp": 1787828838.189395
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1242",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8866,
-    "total_planned": 29,
+    "total_completed": 8867,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
