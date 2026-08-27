@@ -44537,14 +44537,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1127",
       "timestamp": 1787841506.9002373
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787841755.7312615
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1130",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8922,
-    "total_planned": 44,
+    "total_completed": 8923,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
