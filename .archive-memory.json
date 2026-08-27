@@ -44067,14 +44067,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1120",
       "timestamp": 1787819437.1307857
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787819609.0879421
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 873",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8828,
-    "total_planned": 67,
+    "total_completed": 8829,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
