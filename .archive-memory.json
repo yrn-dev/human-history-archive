@@ -43562,14 +43562,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1100",
       "timestamp": 1787796187.277012
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787796493.9993818
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 859",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8727,
-    "total_planned": 26,
+    "total_completed": 8728,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
