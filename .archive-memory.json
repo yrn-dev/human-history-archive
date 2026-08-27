@@ -44292,14 +44292,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1242",
       "timestamp": 1787830297.770058
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787830513.3916128
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8873,
-    "total_planned": 22,
+    "total_completed": 8874,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
