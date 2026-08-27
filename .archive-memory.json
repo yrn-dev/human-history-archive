@@ -44162,14 +44162,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1120",
       "timestamp": 1787823759.802623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787824050.7517307
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8847,
-    "total_planned": 48,
+    "total_completed": 8848,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
