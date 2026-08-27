@@ -43467,14 +43467,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1102",
       "timestamp": 1787792311.6834762
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787792519.197014
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8708,
-    "total_planned": 45,
+    "total_completed": 8709,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
