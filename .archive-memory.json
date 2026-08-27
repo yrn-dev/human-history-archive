@@ -44112,14 +44112,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1118",
       "timestamp": 1787821454.2669153
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787821659.8679166
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8837,
-    "total_planned": 58,
+    "total_completed": 8838,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
