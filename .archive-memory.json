@@ -43752,14 +43752,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1232",
       "timestamp": 1787804882.3993962
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787805113.086925
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1232",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8765,
-    "total_planned": 59,
+    "total_completed": 8766,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
