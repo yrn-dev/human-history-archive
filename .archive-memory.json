@@ -44022,14 +44022,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1109",
       "timestamp": 1787817489.9264693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787817720.1115177
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8819,
-    "total_planned": 5,
+    "total_completed": 8820,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
