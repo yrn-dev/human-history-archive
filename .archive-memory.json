@@ -43947,14 +43947,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1111",
       "timestamp": 1787813816.7184749
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787813964.4285553
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8804,
-    "total_planned": 20,
+    "total_completed": 8805,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
