@@ -43977,14 +43977,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1109",
       "timestamp": 1787815082.6640186
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787815293.8342927
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1112",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8810,
-    "total_planned": 14,
+    "total_completed": 8811,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
