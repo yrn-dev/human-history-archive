@@ -44562,14 +44562,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1129",
       "timestamp": 1787842708.9239957
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 880",
-      "variation": true
-    },
+      "timestamp": 1787842878.9747193
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 880",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8927,
-    "total_planned": 39,
+    "total_completed": 8928,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
