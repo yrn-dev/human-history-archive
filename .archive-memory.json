@@ -43917,14 +43917,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1111",
       "timestamp": 1787812451.4916718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787812743.119252
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8798,
-    "total_planned": 26,
+    "total_completed": 8799,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
