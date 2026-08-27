@@ -43622,14 +43622,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1103",
       "timestamp": 1787798845.6341422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1222",
-      "variation": true
-    },
+      "timestamp": 1787799059.9222658
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8739,
-    "total_planned": 14,
+    "total_completed": 8740,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
