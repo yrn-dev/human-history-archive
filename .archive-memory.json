@@ -45222,14 +45222,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1145",
       "timestamp": 1787871902.0697324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1148",
-      "variation": true
-    },
+      "timestamp": 1787872100.1280217
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1272",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9059,
-    "total_planned": 49,
+    "total_completed": 9060,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
