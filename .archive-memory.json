@@ -44727,14 +44727,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 880",
       "timestamp": 1787849912.6334374
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787850103.5399587
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1127",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8960,
-    "total_planned": 6,
+    "total_completed": 8961,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
