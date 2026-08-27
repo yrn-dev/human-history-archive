@@ -45067,14 +45067,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1136",
       "timestamp": 1787864677.1045024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787864815.9480472
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9028,
-    "total_planned": 9,
+    "total_completed": 9029,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
