@@ -44472,14 +44472,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1252",
       "timestamp": 1787838799.4019804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787838982.0145278
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8909,
-    "total_planned": 57,
+    "total_completed": 8910,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
