@@ -43577,14 +43577,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1102",
       "timestamp": 1787796792.2232509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1222",
-      "variation": true
-    },
+      "timestamp": 1787797032.8684597
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8730,
-    "total_planned": 23,
+    "total_completed": 8731,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
