@@ -43552,14 +43552,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 859",
       "timestamp": 1787795838.2564662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787795930.3131561
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8725,
-    "total_planned": 28,
+    "total_completed": 8726,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
