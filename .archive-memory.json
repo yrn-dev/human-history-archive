@@ -44512,14 +44512,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 880",
       "timestamp": 1787840492.313903
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787840669.7243307
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 880",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8917,
-    "total_planned": 49,
+    "total_completed": 8918,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
