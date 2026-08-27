@@ -44207,14 +44207,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1120",
       "timestamp": 1787825842.385914
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 873",
-      "variation": true
-    },
+      "timestamp": 1787825977.8253522
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1121",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8856,
-    "total_planned": 39,
+    "total_completed": 8857,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
