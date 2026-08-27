@@ -43522,14 +43522,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1102",
       "timestamp": 1787794523.1720135
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787794700.1625397
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8719,
-    "total_planned": 34,
+    "total_completed": 8720,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
