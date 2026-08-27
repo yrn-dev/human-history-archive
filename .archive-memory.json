@@ -44532,14 +44532,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1130",
       "timestamp": 1787841284.457237
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787841506.9002373
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8921,
-    "total_planned": 45,
+    "total_completed": 8922,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
