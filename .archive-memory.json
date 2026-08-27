@@ -44522,14 +44522,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 880",
       "timestamp": 1787840831.964834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1252",
-      "variation": true
-    },
+      "timestamp": 1787841015.2790506
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1130",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8919,
-    "total_planned": 47,
+    "total_completed": 8920,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
