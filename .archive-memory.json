@@ -44382,14 +44382,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1120",
       "timestamp": 1787834248.6078837
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1118",
-      "variation": true
-    },
+      "timestamp": 1787834549.1453712
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1121",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8891,
-    "total_planned": 4,
+    "total_completed": 8892,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
