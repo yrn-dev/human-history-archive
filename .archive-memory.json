@@ -44702,14 +44702,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1129",
       "timestamp": 1787848812.2380445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1252",
-      "variation": true
-    },
+      "timestamp": 1787849053.0722635
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8955,
-    "total_planned": 11,
+    "total_completed": 8956,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
