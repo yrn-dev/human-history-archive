@@ -43787,14 +43787,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1232",
       "timestamp": 1787806418.8484802
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787806610.1723053
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1109",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8772,
-    "total_planned": 52,
+    "total_completed": 8773,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
