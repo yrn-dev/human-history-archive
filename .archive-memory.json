@@ -43587,14 +43587,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1102",
       "timestamp": 1787797204.054463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787797377.392024
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8732,
-    "total_planned": 21,
+    "total_completed": 8733,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
