@@ -44962,14 +44962,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1136",
       "timestamp": 1787860355.3347073
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787860511.4287198
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 887",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9007,
-    "total_planned": 30,
+    "total_completed": 9008,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
