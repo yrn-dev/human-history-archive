@@ -44982,14 +44982,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1139",
       "timestamp": 1787861233.1186385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787861427.483584
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9011,
-    "total_planned": 26,
+    "total_completed": 9012,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
