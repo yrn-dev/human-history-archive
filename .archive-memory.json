@@ -43482,14 +43482,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1222",
       "timestamp": 1787792909.0548956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787793071.4859753
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1100",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8711,
-    "total_planned": 42,
+    "total_completed": 8712,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
