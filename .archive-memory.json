@@ -43512,14 +43512,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 859",
       "timestamp": 1787794083.0308902
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787794319.3191338
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8717,
-    "total_planned": 36,
+    "total_completed": 8718,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
