@@ -44697,14 +44697,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1129",
       "timestamp": 1787848597.5714972
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787848812.2380445
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1252",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8954,
-    "total_planned": 12,
+    "total_completed": 8955,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
