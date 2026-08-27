@@ -43882,14 +43882,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1111",
       "timestamp": 1787810720.1300654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1232",
-      "variation": true
-    },
+      "timestamp": 1787810865.056697
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8791,
-    "total_planned": 33,
+    "total_completed": 8792,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
