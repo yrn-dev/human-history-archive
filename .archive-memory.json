@@ -45272,14 +45272,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1148",
       "timestamp": 1787873942.6854813
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1272",
-      "variation": true
-    },
+      "timestamp": 1787874139.4458406
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1148",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9069,
-    "total_planned": 39,
+    "total_completed": 9070,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
