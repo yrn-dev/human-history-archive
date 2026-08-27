@@ -44057,14 +44057,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 873",
       "timestamp": 1787819047.4191947
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787819183.7733278
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8826,
-    "total_planned": 69,
+    "total_completed": 8827,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
