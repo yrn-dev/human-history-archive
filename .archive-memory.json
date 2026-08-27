@@ -43972,14 +43972,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1111",
       "timestamp": 1787814848.0126193
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1109",
-      "variation": true
-    },
+      "timestamp": 1787815082.6640186
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1112",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8809,
-    "total_planned": 15,
+    "total_completed": 8810,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
