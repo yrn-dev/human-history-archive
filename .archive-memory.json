@@ -43632,14 +43632,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1100",
       "timestamp": 1787799318.4877825
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1100",
-      "variation": true
-    },
+      "timestamp": 1787799620.055761
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8741,
-    "total_planned": 12,
+    "total_completed": 8742,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
