@@ -44817,14 +44817,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 887",
       "timestamp": 1787853587.4019442
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1136",
-      "variation": true
-    },
+      "timestamp": 1787853792.7110214
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8978,
-    "total_planned": 59,
+    "total_completed": 8979,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
