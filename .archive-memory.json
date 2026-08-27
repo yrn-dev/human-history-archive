@@ -43647,14 +43647,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1222",
       "timestamp": 1787800161.3881226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1222",
-      "variation": true
-    },
+      "timestamp": 1787800435.1402726
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8744,
-    "total_planned": 9,
+    "total_completed": 8745,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
