@@ -44447,14 +44447,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1127",
       "timestamp": 1787837423.838884
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787837695.3661377
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1130",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8904,
-    "total_planned": 62,
+    "total_completed": 8905,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
