@@ -44972,14 +44972,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 887",
       "timestamp": 1787860671.1621497
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1138",
-      "variation": true
-    },
+      "timestamp": 1787860982.2114162
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1139",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9009,
-    "total_planned": 28,
+    "total_completed": 9010,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
