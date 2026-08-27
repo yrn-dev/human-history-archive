@@ -43742,14 +43742,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1109",
       "timestamp": 1787804473.4629552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1112",
-      "variation": true
-    },
+      "timestamp": 1787804715.970569
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1232",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8763,
-    "total_planned": 61,
+    "total_completed": 8764,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
