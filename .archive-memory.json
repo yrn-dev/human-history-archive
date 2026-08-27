@@ -44572,14 +44572,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 880",
       "timestamp": 1787843105.957161
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787843323.7970257
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 880",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8929,
-    "total_planned": 37,
+    "total_completed": 8930,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
