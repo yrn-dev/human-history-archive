@@ -44692,14 +44692,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1127",
       "timestamp": 1787848377.1768966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787848597.5714972
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8953,
-    "total_planned": 13,
+    "total_completed": 8954,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
