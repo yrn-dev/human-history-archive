@@ -44177,14 +44177,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1120",
       "timestamp": 1787824500.8069065
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787824681.54564
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8850,
-    "total_planned": 45,
+    "total_completed": 8851,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
