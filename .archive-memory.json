@@ -44737,14 +44737,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1127",
       "timestamp": 1787850383.3001575
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1130",
-      "variation": true
-    },
+      "timestamp": 1787850552.0263848
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1252",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8962,
-    "total_planned": 4,
+    "total_completed": 8963,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
