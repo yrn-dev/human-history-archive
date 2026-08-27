@@ -43497,14 +43497,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1102",
       "timestamp": 1787793560.5369923
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1222",
-      "variation": true
-    },
+      "timestamp": 1787793807.0173228
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1102",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8714,
-    "total_planned": 39,
+    "total_completed": 8715,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
