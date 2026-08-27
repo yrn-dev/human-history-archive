@@ -43997,14 +43997,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1111",
       "timestamp": 1787816145.6740396
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 866",
-      "variation": true
-    },
+      "timestamp": 1787816454.365487
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1111",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8814,
-    "total_planned": 10,
+    "total_completed": 8815,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
