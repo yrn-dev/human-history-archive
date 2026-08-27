@@ -43612,14 +43612,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1102",
       "timestamp": 1787798433.2481031
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787798648.2979505
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1103",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8737,
-    "total_planned": 16,
+    "total_completed": 8738,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
