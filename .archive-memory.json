@@ -43777,14 +43777,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1109",
       "timestamp": 1787806049.7435
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1232",
-      "variation": true
-    },
+      "timestamp": 1787806193.3175623
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1232",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8770,
-    "total_planned": 54,
+    "total_completed": 8771,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
