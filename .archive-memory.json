@@ -44482,14 +44482,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1129",
       "timestamp": 1787839235.3376544
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1127",
-      "variation": true
-    },
+      "timestamp": 1787839513.6088314
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8911,
-    "total_planned": 55,
+    "total_completed": 8912,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
