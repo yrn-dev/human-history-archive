@@ -44927,14 +44927,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1138",
       "timestamp": 1787858716.1602685
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1787858980.9281225
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1138",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9000,
-    "total_planned": 37,
+    "total_completed": 9001,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
