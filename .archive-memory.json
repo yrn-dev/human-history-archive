@@ -44667,14 +44667,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1129",
       "timestamp": 1787847258.8981228
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1129",
-      "variation": true
-    },
+      "timestamp": 1787847520.6169822
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1130",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8948,
-    "total_planned": 18,
+    "total_completed": 8949,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
