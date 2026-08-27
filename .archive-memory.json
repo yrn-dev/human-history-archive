@@ -44072,14 +44072,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1118",
       "timestamp": 1787819609.0879421
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 873",
-      "variation": true
-    },
+      "timestamp": 1787819813.920978
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1118",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8829,
-    "total_planned": 66,
+    "total_completed": 8830,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
