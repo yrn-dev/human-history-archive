@@ -44657,14 +44657,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 880",
       "timestamp": 1787846770.1084409
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1130",
-      "variation": true
-    },
+      "timestamp": 1787846998.7519317
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1129",
@@ -44762,8 +44762,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8946,
-    "total_planned": 20,
+    "total_completed": 8947,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
