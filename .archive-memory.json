@@ -44332,14 +44332,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1121",
       "timestamp": 1787832128.7569437
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1120",
-      "variation": true
-    },
+      "timestamp": 1787832370.3662636
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1120",
@@ -44407,8 +44407,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8881,
-    "total_planned": 14,
+    "total_completed": 8882,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
