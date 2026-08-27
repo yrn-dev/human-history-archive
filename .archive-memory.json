@@ -45037,14 +45037,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1139",
       "timestamp": 1787863294.416356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 887",
-      "variation": true
-    },
+      "timestamp": 1787863603.5046527
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1136",
@@ -45117,8 +45117,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9022,
-    "total_planned": 15,
+    "total_completed": 9023,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
