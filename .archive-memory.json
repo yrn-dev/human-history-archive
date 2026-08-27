@@ -43672,14 +43672,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1222",
       "timestamp": 1787801208.1699076
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1103",
-      "variation": true
-    },
+      "timestamp": 1787801434.6908772
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1222",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8749,
-    "total_planned": 4,
+    "total_completed": 8750,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
