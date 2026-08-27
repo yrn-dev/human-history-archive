@@ -43502,14 +43502,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1222",
       "timestamp": 1787793807.0173228
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1102",
-      "variation": true
-    },
+      "timestamp": 1787793946.1472979
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 859",
@@ -43697,8 +43697,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8715,
-    "total_planned": 38,
+    "total_completed": 8716,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
