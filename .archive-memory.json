@@ -45207,14 +45207,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1147",
       "timestamp": 1787871165.1135938
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787871368.1194155
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9056,
-    "total_planned": 52,
+    "total_completed": 9057,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
