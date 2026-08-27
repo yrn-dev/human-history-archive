@@ -43812,14 +43812,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1111",
       "timestamp": 1787807430.455582
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1111",
-      "variation": true
-    },
+      "timestamp": 1787807723.6645145
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1112",
@@ -44052,8 +44052,8 @@
     }
   ],
   "stats": {
-    "total_completed": 8777,
-    "total_planned": 47,
+    "total_completed": 8778,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
