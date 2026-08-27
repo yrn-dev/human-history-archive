@@ -45282,14 +45282,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1148",
       "timestamp": 1787874421.2635386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1272",
-      "variation": true
-    },
+      "timestamp": 1787874671.0302787
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1272",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9071,
-    "total_planned": 37,
+    "total_completed": 9072,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
