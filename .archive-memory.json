@@ -45862,14 +45862,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1165",
       "timestamp": 1787901176.897835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787901326.31218
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9187,
-    "total_planned": 63,
+    "total_completed": 9188,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
