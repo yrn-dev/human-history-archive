@@ -45422,14 +45422,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1272",
       "timestamp": 1787881493.8528187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 894",
-      "variation": true
-    },
+      "timestamp": 1787881756.5226808
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 894",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9099,
-    "total_planned": 9,
+    "total_completed": 9100,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
