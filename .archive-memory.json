@@ -46692,14 +46692,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1181",
       "timestamp": 1787939333.169379
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787939578.2593992
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9353,
-    "total_planned": 39,
+    "total_completed": 9354,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
