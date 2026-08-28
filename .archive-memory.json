@@ -46407,14 +46407,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1174",
       "timestamp": 1787926512.5338163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1175",
-      "variation": true
-    },
+      "timestamp": 1787926679.6018562
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1302",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9296,
-    "total_planned": 25,
+    "total_completed": 9297,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
