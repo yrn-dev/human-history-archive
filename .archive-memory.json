@@ -46462,14 +46462,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1174",
       "timestamp": 1787928833.0802674
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787929077.9539025
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9307,
-    "total_planned": 14,
+    "total_completed": 9308,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
