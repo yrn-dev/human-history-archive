@@ -46007,14 +46007,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 908",
       "timestamp": 1787907934.457056
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1166",
-      "variation": true
-    },
+      "timestamp": 1787908157.0474622
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9216,
-    "total_planned": 34,
+    "total_completed": 9217,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
