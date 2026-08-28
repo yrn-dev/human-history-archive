@@ -46727,14 +46727,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1181",
       "timestamp": 1787941112.8403618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1312",
-      "variation": true
-    },
+      "timestamp": 1787941384.7576087
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9360,
-    "total_planned": 32,
+    "total_completed": 9361,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
