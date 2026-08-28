@@ -46777,14 +46777,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1312",
       "timestamp": 1787943328.9362674
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787943585.152535
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9370,
-    "total_planned": 22,
+    "total_completed": 9371,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
