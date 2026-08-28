@@ -46222,14 +46222,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1172",
       "timestamp": 1787917947.4752526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1175",
-      "variation": true
-    },
+      "timestamp": 1787918111.0311532
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1302",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9259,
-    "total_planned": 62,
+    "total_completed": 9260,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
