@@ -45962,14 +45962,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1163",
       "timestamp": 1787905868.6476412
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787906154.3356524
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9207,
-    "total_planned": 43,
+    "total_completed": 9208,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
