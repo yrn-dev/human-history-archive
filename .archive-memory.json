@@ -45297,14 +45297,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1147",
       "timestamp": 1787875300.5837796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1148",
-      "variation": true
-    },
+      "timestamp": 1787875546.148068
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9074,
-    "total_planned": 34,
+    "total_completed": 9075,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
