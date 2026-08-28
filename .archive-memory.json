@@ -46492,14 +46492,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1172",
       "timestamp": 1787930157.0905838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1302",
-      "variation": true
-    },
+      "timestamp": 1787930371.8680463
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 915",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9313,
-    "total_planned": 8,
+    "total_completed": 9314,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
