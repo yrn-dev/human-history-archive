@@ -47062,14 +47062,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1322",
       "timestamp": 1787957330.828761
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787957496.716252
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1322",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9427,
-    "total_planned": 36,
+    "total_completed": 9428,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
