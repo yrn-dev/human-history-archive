@@ -45617,14 +45617,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1156",
       "timestamp": 1787890231.9796643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1787890433.479855
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1157",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9138,
-    "total_planned": 41,
+    "total_completed": 9139,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
