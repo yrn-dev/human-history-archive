@@ -46017,14 +46017,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1163",
       "timestamp": 1787908360.9170127
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 908",
-      "variation": true
-    },
+      "timestamp": 1787908555.459572
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9218,
-    "total_planned": 32,
+    "total_completed": 9219,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
