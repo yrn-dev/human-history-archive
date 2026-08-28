@@ -45477,14 +45477,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1156",
       "timestamp": 1787883964.3342795
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787884271.8170238
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9110,
-    "total_planned": 69,
+    "total_completed": 9111,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
