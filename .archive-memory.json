@@ -46802,14 +46802,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1183",
       "timestamp": 1787944743.5007496
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787945052.0098264
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9375,
-    "total_planned": 17,
+    "total_completed": 9376,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
