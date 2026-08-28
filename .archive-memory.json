@@ -46412,14 +46412,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1175",
       "timestamp": 1787926679.6018562
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1302",
-      "variation": true
-    },
+      "timestamp": 1787926938.4752526
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9297,
-    "total_planned": 24,
+    "total_completed": 9298,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
