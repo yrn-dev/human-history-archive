@@ -46272,14 +46272,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1172",
       "timestamp": 1787920205.7889986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787920521.4663687
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9269,
-    "total_planned": 52,
+    "total_completed": 9270,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
