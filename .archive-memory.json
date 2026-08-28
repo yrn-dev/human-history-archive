@@ -45787,14 +45787,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1282",
       "timestamp": 1787897877.6032887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787898143.7061741
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9172,
-    "total_planned": 7,
+    "total_completed": 9173,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
