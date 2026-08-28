@@ -46507,14 +46507,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1174",
       "timestamp": 1787930869.6455252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 915",
-      "variation": true
-    },
+      "timestamp": 1787931131.0390487
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9316,
-    "total_planned": 5,
+    "total_completed": 9317,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
