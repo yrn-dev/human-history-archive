@@ -46052,14 +46052,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1166",
       "timestamp": 1787909958.1423948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1166",
-      "variation": true
-    },
+      "timestamp": 1787910219.275879
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9225,
-    "total_planned": 25,
+    "total_completed": 9226,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
