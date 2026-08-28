@@ -45887,14 +45887,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1165",
       "timestamp": 1787902312.0876348
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787902628.335836
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9192,
-    "total_planned": 58,
+    "total_completed": 9193,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
