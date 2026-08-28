@@ -45677,14 +45677,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 901",
       "timestamp": 1787892864.3970206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 901",
-      "variation": true
-    },
+      "timestamp": 1787893043.7125633
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9150,
-    "total_planned": 29,
+    "total_completed": 9151,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
