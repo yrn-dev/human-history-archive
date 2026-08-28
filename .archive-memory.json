@@ -46362,14 +46362,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1172",
       "timestamp": 1787924400.49821
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787924580.8083758
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9287,
-    "total_planned": 34,
+    "total_completed": 9288,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
