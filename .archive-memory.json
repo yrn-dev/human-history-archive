@@ -45877,14 +45877,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1292",
       "timestamp": 1787901867.2423449
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1166",
-      "variation": true
-    },
+      "timestamp": 1787902155.5241492
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9190,
-    "total_planned": 60,
+    "total_completed": 9191,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
