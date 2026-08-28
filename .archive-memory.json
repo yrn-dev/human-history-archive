@@ -46232,14 +46232,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1302",
       "timestamp": 1787918409.0166047
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1175",
-      "variation": true
-    },
+      "timestamp": 1787918576.5836167
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9261,
-    "total_planned": 60,
+    "total_completed": 9262,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
