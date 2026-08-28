@@ -45602,14 +45602,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1154",
       "timestamp": 1787889522.8658843
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1157",
-      "variation": true
-    },
+      "timestamp": 1787889694.6023152
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9135,
-    "total_planned": 44,
+    "total_completed": 9136,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
