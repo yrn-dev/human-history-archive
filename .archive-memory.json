@@ -45927,14 +45927,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1165",
       "timestamp": 1787904223.8144662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787904468.7432425
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9200,
-    "total_planned": 50,
+    "total_completed": 9201,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
