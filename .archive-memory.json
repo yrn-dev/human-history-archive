@@ -47067,14 +47067,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1322",
       "timestamp": 1787957496.716252
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787957666.605435
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9428,
-    "total_planned": 35,
+    "total_completed": 9429,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
