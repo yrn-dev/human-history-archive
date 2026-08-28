@@ -47007,14 +47007,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1322",
       "timestamp": 1787954671.3042321
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1193",
-      "variation": true
-    },
+      "timestamp": 1787954838.3123224
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9416,
-    "total_planned": 47,
+    "total_completed": 9417,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
