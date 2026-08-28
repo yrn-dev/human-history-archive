@@ -45827,14 +45827,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 908",
       "timestamp": 1787899777.2767773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 908",
-      "variation": true
-    },
+      "timestamp": 1787900007.160635
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 908",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9180,
-    "total_planned": 70,
+    "total_completed": 9181,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
