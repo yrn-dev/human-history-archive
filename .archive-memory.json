@@ -46027,14 +46027,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1163",
       "timestamp": 1787908861.6205788
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1166",
-      "variation": true
-    },
+      "timestamp": 1787909112.4105446
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9220,
-    "total_planned": 30,
+    "total_completed": 9221,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
