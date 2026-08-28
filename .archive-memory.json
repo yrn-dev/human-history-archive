@@ -46527,18 +46527,17 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1174",
       "timestamp": 1787931821.8033688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1172",
-      "variation": true
+      "timestamp": 1787932109.162459
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9320,
-    "total_planned": 1,
+    "total_completed": 9321,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
