@@ -46937,14 +46937,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 929",
       "timestamp": 1787951276.740713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787951542.0246823
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1193",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9402,
-    "total_planned": 61,
+    "total_completed": 9403,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
