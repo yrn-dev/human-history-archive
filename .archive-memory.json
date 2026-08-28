@@ -45517,14 +45517,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1282",
       "timestamp": 1787886036.753249
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787886270.612605
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9118,
-    "total_planned": 61,
+    "total_completed": 9119,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
