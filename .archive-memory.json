@@ -47052,14 +47052,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1322",
       "timestamp": 1787956722.5723307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787957033.630225
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1322",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9425,
-    "total_planned": 38,
+    "total_completed": 9426,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
