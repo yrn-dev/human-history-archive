@@ -45982,14 +45982,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1163",
       "timestamp": 1787906809.57602
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787907030.484542
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9211,
-    "total_planned": 39,
+    "total_completed": 9212,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
