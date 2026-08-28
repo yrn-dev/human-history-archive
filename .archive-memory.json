@@ -46607,14 +46607,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1184",
       "timestamp": 1787935642.317414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787935837.2995584
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9336,
-    "total_planned": 56,
+    "total_completed": 9337,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
