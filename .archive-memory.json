@@ -46487,14 +46487,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1302",
       "timestamp": 1787929961.25504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787930157.0905838
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1302",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9312,
-    "total_planned": 9,
+    "total_completed": 9313,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
