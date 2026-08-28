@@ -46167,14 +46167,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1166",
       "timestamp": 1787915574.137319
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1166",
-      "variation": true
-    },
+      "timestamp": 1787915754.4921675
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9248,
-    "total_planned": 2,
+    "total_completed": 9249,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
