@@ -45997,14 +45997,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1292",
       "timestamp": 1787907429.8155038
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1166",
-      "variation": true
-    },
+      "timestamp": 1787907631.7292795
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 908",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9214,
-    "total_planned": 36,
+    "total_completed": 9215,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
