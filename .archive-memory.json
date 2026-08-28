@@ -46237,14 +46237,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1175",
       "timestamp": 1787918576.5836167
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787918852.4996145
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 915",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9262,
-    "total_planned": 59,
+    "total_completed": 9263,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
