@@ -45852,14 +45852,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1166",
       "timestamp": 1787900669.6225543
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787900870.6906264
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9185,
-    "total_planned": 65,
+    "total_completed": 9186,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
