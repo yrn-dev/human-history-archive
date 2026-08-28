@@ -46042,14 +46042,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1163",
       "timestamp": 1787909458.3578901
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787909666.8711314
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1166",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9223,
-    "total_planned": 27,
+    "total_completed": 9224,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
