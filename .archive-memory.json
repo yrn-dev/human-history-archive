@@ -46337,14 +46337,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1172",
       "timestamp": 1787923301.9416702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787923487.9785593
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9282,
-    "total_planned": 39,
+    "total_completed": 9283,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
