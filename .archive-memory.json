@@ -47107,14 +47107,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 929",
       "timestamp": 1787959037.155207
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1193",
-      "variation": true
-    },
+      "timestamp": 1787959206.0325549
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9436,
-    "total_planned": 27,
+    "total_completed": 9437,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
