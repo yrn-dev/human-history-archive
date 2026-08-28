@@ -45327,14 +45327,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1145",
       "timestamp": 1787876771.7363224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1272",
-      "variation": true
-    },
+      "timestamp": 1787877007.0295088
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9080,
-    "total_planned": 28,
+    "total_completed": 9081,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
