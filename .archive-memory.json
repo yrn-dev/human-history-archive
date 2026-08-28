@@ -46997,14 +46997,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1190",
       "timestamp": 1787954178.0737543
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787954381.5103362
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1322",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9414,
-    "total_planned": 49,
+    "total_completed": 9415,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
