@@ -46627,14 +46627,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1183",
       "timestamp": 1787936433.267194
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787936661.7288313
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9340,
-    "total_planned": 52,
+    "total_completed": 9341,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
