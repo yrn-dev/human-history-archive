@@ -46632,14 +46632,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1181",
       "timestamp": 1787936661.7288313
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787936897.1866596
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1312",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9341,
-    "total_planned": 51,
+    "total_completed": 9342,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
