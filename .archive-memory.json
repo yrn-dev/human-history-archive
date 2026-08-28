@@ -45452,14 +45452,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1272",
       "timestamp": 1787882892.02636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1145",
-      "variation": true
-    },
+      "timestamp": 1787883138.1709633
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 894",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9105,
-    "total_planned": 3,
+    "total_completed": 9106,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
