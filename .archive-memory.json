@@ -46292,14 +46292,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1175",
       "timestamp": 1787921128.341382
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 915",
-      "variation": true
-    },
+      "timestamp": 1787921322.3738265
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9273,
-    "total_planned": 48,
+    "total_completed": 9274,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
