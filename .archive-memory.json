@@ -45307,14 +45307,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1147",
       "timestamp": 1787875784.2890606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1148",
-      "variation": true
-    },
+      "timestamp": 1787876061.3002622
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9076,
-    "total_planned": 32,
+    "total_completed": 9077,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
