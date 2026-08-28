@@ -46657,14 +46657,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1184",
       "timestamp": 1787937643.5244162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1184",
-      "variation": true
-    },
+      "timestamp": 1787937897.8645008
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9346,
-    "total_planned": 46,
+    "total_completed": 9347,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
