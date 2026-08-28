@@ -45432,14 +45432,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 894",
       "timestamp": 1787881913.4036598
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1148",
-      "variation": true
-    },
+      "timestamp": 1787882073.6119285
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9101,
-    "total_planned": 7,
+    "total_completed": 9102,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
