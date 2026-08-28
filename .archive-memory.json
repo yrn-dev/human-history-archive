@@ -46127,14 +46127,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1163",
       "timestamp": 1787913629.5484698
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1787913905.6087916
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9240,
-    "total_planned": 10,
+    "total_completed": 9241,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
