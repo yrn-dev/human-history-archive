@@ -46037,14 +46037,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1292",
       "timestamp": 1787909261.2379801
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787909458.3578901
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9222,
-    "total_planned": 28,
+    "total_completed": 9223,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
