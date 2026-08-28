@@ -45392,14 +45392,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1145",
       "timestamp": 1787879943.8955262
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787880118.5384338
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9093,
-    "total_planned": 15,
+    "total_completed": 9094,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
