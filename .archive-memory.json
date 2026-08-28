@@ -46217,14 +46217,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1175",
       "timestamp": 1787917704.458557
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787917947.4752526
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1175",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9258,
-    "total_planned": 63,
+    "total_completed": 9259,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
