@@ -46287,14 +46287,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1302",
       "timestamp": 1787920986.5616956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1175",
-      "variation": true
-    },
+      "timestamp": 1787921128.341382
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 915",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9272,
-    "total_planned": 49,
+    "total_completed": 9273,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
