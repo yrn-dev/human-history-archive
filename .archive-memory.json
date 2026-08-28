@@ -45907,14 +45907,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1165",
       "timestamp": 1787903305.6685226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787903509.2344573
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9196,
-    "total_planned": 54,
+    "total_completed": 9197,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
