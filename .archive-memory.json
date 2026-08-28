@@ -46537,14 +46537,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1181",
       "timestamp": 1787932317.6847095
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787932570.0305576
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 922",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9322,
-    "total_planned": 70,
+    "total_completed": 9323,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
