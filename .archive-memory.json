@@ -45462,18 +45462,17 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 894",
       "timestamp": 1787883310.303215
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1145",
-      "variation": true
+      "timestamp": 1787883516.2421272
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9107,
-    "total_planned": 1,
+    "total_completed": 9108,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
