@@ -46587,14 +46587,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1181",
       "timestamp": 1787934603.4762723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787934868.240488
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1184",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9332,
-    "total_planned": 60,
+    "total_completed": 9333,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
