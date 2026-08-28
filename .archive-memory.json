@@ -45737,14 +45737,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1154",
       "timestamp": 1787895628.3494227
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1787895848.4910655
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 901",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9162,
-    "total_planned": 17,
+    "total_completed": 9163,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
