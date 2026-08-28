@@ -46062,14 +46062,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1292",
       "timestamp": 1787910530.9083714
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787910717.3048291
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9227,
-    "total_planned": 23,
+    "total_completed": 9228,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
