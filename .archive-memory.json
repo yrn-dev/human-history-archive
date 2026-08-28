@@ -46107,14 +46107,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1165",
       "timestamp": 1787912711.6241531
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787912887.6156049
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9236,
-    "total_planned": 14,
+    "total_completed": 9237,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
