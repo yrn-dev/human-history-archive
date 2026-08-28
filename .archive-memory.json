@@ -45867,14 +45867,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1165",
       "timestamp": 1787901326.31218
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787901604.638995
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9188,
-    "total_planned": 62,
+    "total_completed": 9189,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
