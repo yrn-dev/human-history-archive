@@ -45387,14 +45387,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 894",
       "timestamp": 1787879646.6153038
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1145",
-      "variation": true
-    },
+      "timestamp": 1787879943.8955262
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9092,
-    "total_planned": 16,
+    "total_completed": 9093,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
