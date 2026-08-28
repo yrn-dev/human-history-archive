@@ -45607,14 +45607,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1157",
       "timestamp": 1787889694.6023152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787889949.5815828
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9136,
-    "total_planned": 43,
+    "total_completed": 9137,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
