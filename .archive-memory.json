@@ -45527,14 +45527,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1156",
       "timestamp": 1787886445.6458025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787886614.051347
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9120,
-    "total_planned": 59,
+    "total_completed": 9121,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
