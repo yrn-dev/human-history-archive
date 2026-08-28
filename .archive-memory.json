@@ -46512,14 +46512,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 915",
       "timestamp": 1787931131.0390487
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787931440.1090038
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9317,
-    "total_planned": 4,
+    "total_completed": 9318,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
