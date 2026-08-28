@@ -46372,14 +46372,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1174",
       "timestamp": 1787924749.427166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787924998.0128038
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9289,
-    "total_planned": 32,
+    "total_completed": 9290,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
