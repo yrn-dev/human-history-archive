@@ -46302,14 +46302,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1174",
       "timestamp": 1787921487.7582865
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 915",
-      "variation": true
-    },
+      "timestamp": 1787921725.6899247
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9275,
-    "total_planned": 46,
+    "total_completed": 9276,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
