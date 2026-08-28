@@ -46152,14 +46152,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1165",
       "timestamp": 1787914908.6548326
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787915050.0275342
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9245,
-    "total_planned": 5,
+    "total_completed": 9246,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
