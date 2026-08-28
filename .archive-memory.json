@@ -46277,14 +46277,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1174",
       "timestamp": 1787920521.4663687
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787920738.0237699
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1302",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9270,
-    "total_planned": 51,
+    "total_completed": 9271,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
