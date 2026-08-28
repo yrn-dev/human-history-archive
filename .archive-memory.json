@@ -45812,14 +45812,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1157",
       "timestamp": 1787899149.0304055
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787899294.9388077
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9177,
-    "total_planned": 2,
+    "total_completed": 9178,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
