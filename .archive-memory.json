@@ -45362,14 +45362,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 894",
       "timestamp": 1787878425.6236756
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787878608.5856788
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9087,
-    "total_planned": 21,
+    "total_completed": 9088,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
