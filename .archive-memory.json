@@ -46257,14 +46257,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1172",
       "timestamp": 1787919478.6020553
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1302",
-      "variation": true
-    },
+      "timestamp": 1787919681.700701
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9266,
-    "total_planned": 55,
+    "total_completed": 9267,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
