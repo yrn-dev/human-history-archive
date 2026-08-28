@@ -45547,14 +45547,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1282",
       "timestamp": 1787887356.1922555
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1157",
-      "variation": true
-    },
+      "timestamp": 1787887526.4413943
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1157",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9124,
-    "total_planned": 55,
+    "total_completed": 9125,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
