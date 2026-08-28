@@ -46737,14 +46737,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1183",
       "timestamp": 1787941532.7002487
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787941769.5820353
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9362,
-    "total_planned": 30,
+    "total_completed": 9363,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
