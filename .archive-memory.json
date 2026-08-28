@@ -47002,14 +47002,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1190",
       "timestamp": 1787954381.5103362
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787954671.3042321
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1193",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9415,
-    "total_planned": 48,
+    "total_completed": 9416,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
