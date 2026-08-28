@@ -45562,14 +45562,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1157",
       "timestamp": 1787887882.9918866
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787888112.3584783
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9127,
-    "total_planned": 52,
+    "total_completed": 9128,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
