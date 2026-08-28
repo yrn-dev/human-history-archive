@@ -45692,14 +45692,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1282",
       "timestamp": 1787893526.526741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 901",
-      "variation": true
-    },
+      "timestamp": 1787893681.8715215
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9153,
-    "total_planned": 26,
+    "total_completed": 9154,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
