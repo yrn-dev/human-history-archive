@@ -45427,14 +45427,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 894",
       "timestamp": 1787881756.5226808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 894",
-      "variation": true
-    },
+      "timestamp": 1787881913.4036598
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1148",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9100,
-    "total_planned": 8,
+    "total_completed": 9101,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
