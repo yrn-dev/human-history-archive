@@ -46862,14 +46862,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1184",
       "timestamp": 1787947706.1356509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787948002.9459379
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1312",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9387,
-    "total_planned": 5,
+    "total_completed": 9388,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
