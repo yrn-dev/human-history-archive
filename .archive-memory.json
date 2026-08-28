@@ -46717,14 +46717,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 922",
       "timestamp": 1787940680.656579
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787940848.1390302
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9358,
-    "total_planned": 34,
+    "total_completed": 9359,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
