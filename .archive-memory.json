@@ -45802,14 +45802,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1156",
       "timestamp": 1787898603.3326058
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787898811.1442776
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1157",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9175,
-    "total_planned": 4,
+    "total_completed": 9176,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
