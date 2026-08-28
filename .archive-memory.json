@@ -47132,14 +47132,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1190",
       "timestamp": 1787959922.5132117
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1193",
-      "variation": true
-    },
+      "timestamp": 1787960206.1451254
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9441,
-    "total_planned": 22,
+    "total_completed": 9442,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
