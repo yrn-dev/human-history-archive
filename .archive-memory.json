@@ -45372,14 +45372,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1145",
       "timestamp": 1787878838.3636365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1145",
-      "variation": true
-    },
+      "timestamp": 1787879094.0828557
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9089,
-    "total_planned": 19,
+    "total_completed": 9090,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
