@@ -45542,14 +45542,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1282",
       "timestamp": 1787887163.998448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1787887356.1922555
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1157",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9123,
-    "total_planned": 56,
+    "total_completed": 9124,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
