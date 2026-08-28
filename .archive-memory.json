@@ -45317,14 +45317,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1147",
       "timestamp": 1787876354.3059099
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1272",
-      "variation": true
-    },
+      "timestamp": 1787876604.0882277
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9078,
-    "total_planned": 30,
+    "total_completed": 9079,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
