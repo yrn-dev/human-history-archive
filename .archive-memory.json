@@ -47027,14 +47027,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1192",
       "timestamp": 1787955490.8854659
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787955691.8622823
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1322",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9420,
-    "total_planned": 43,
+    "total_completed": 9421,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
