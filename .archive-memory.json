@@ -46897,14 +46897,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1192",
       "timestamp": 1787949386.0287957
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787949649.0128276
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 929",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9394,
-    "total_planned": 69,
+    "total_completed": 9395,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
