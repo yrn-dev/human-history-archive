@@ -46497,14 +46497,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1302",
       "timestamp": 1787930371.8680463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 915",
-      "variation": true
-    },
+      "timestamp": 1787930576.1634665
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9314,
-    "total_planned": 7,
+    "total_completed": 9315,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
