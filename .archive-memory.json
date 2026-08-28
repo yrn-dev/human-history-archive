@@ -47092,14 +47092,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1190",
       "timestamp": 1787958406.3719382
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787958548.6989906
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9433,
-    "total_planned": 30,
+    "total_completed": 9434,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
