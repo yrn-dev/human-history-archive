@@ -46382,14 +46382,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1174",
       "timestamp": 1787925304.9419098
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1175",
-      "variation": true
-    },
+      "timestamp": 1787925469.9512007
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9291,
-    "total_planned": 30,
+    "total_completed": 9292,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
