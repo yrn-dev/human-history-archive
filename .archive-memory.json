@@ -45397,14 +45397,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1147",
       "timestamp": 1787880118.5384338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1145",
-      "variation": true
-    },
+      "timestamp": 1787880414.5747154
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9094,
-    "total_planned": 14,
+    "total_completed": 9095,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
