@@ -45937,14 +45937,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1165",
       "timestamp": 1787904748.120588
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787904988.054045
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9202,
-    "total_planned": 48,
+    "total_completed": 9203,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
