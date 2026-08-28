@@ -45412,14 +45412,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 894",
       "timestamp": 1787880946.549874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787881195.8914378
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1272",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9097,
-    "total_planned": 11,
+    "total_completed": 9098,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
