@@ -45622,14 +45622,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1282",
       "timestamp": 1787890433.479855
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1157",
-      "variation": true
-    },
+      "timestamp": 1787890716.0246768
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9139,
-    "total_planned": 40,
+    "total_completed": 9140,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
