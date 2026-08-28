@@ -45342,14 +45342,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1147",
       "timestamp": 1787877408.2233217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787877680.247889
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9083,
-    "total_planned": 25,
+    "total_completed": 9084,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
