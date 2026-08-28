@@ -46592,14 +46592,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1183",
       "timestamp": 1787934868.240488
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1184",
-      "variation": true
-    },
+      "timestamp": 1787935131.8284974
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9333,
-    "total_planned": 59,
+    "total_completed": 9334,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
