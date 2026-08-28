@@ -46867,14 +46867,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 922",
       "timestamp": 1787948002.9459379
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1312",
-      "variation": true
-    },
+      "timestamp": 1787948245.65856
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1312",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9388,
-    "total_planned": 4,
+    "total_completed": 9389,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
