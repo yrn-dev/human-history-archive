@@ -45457,14 +45457,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1145",
       "timestamp": 1787883138.1709633
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 894",
-      "variation": true
-    },
+      "timestamp": 1787883310.303215
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9106,
-    "total_planned": 2,
+    "total_completed": 9107,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
