@@ -45757,14 +45757,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1156",
       "timestamp": 1787896394.365736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1787896539.3602211
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9166,
-    "total_planned": 13,
+    "total_completed": 9167,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
