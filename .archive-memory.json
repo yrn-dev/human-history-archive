@@ -46817,14 +46817,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1184",
       "timestamp": 1787945625.1533294
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787945796.5638006
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 922",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9378,
-    "total_planned": 14,
+    "total_completed": 9379,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
