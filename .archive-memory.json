@@ -46322,14 +46322,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1172",
       "timestamp": 1787922524.0297284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1302",
-      "variation": true
-    },
+      "timestamp": 1787922849.848396
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1302",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9279,
-    "total_planned": 42,
+    "total_completed": 9280,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
