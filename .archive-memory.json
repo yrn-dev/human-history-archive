@@ -45587,14 +45587,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 901",
       "timestamp": 1787888972.1677566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787889241.7221496
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9132,
-    "total_planned": 47,
+    "total_completed": 9133,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
