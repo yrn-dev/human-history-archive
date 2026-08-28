@@ -46087,14 +46087,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1163",
       "timestamp": 1787911632.8553991
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 908",
-      "variation": true
-    },
+      "timestamp": 1787911907.1349509
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9232,
-    "total_planned": 18,
+    "total_completed": 9233,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
