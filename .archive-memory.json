@@ -45642,14 +45642,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1157",
       "timestamp": 1787891280.1112223
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787891455.046122
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 901",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9143,
-    "total_planned": 36,
+    "total_completed": 9144,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
