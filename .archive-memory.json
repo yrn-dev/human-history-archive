@@ -46417,14 +46417,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1302",
       "timestamp": 1787926938.4752526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787927143.7312665
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9298,
-    "total_planned": 23,
+    "total_completed": 9299,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
