@@ -45882,14 +45882,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1166",
       "timestamp": 1787902155.5241492
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787902312.0876348
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9191,
-    "total_planned": 59,
+    "total_completed": 9192,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
