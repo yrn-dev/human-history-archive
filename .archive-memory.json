@@ -45437,14 +45437,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1148",
       "timestamp": 1787882073.6119285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1145",
-      "variation": true
-    },
+      "timestamp": 1787882344.1150453
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9102,
-    "total_planned": 6,
+    "total_completed": 9103,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
