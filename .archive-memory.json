@@ -46197,14 +46197,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 915",
       "timestamp": 1787916892.8625166
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1175",
-      "variation": true
-    },
+      "timestamp": 1787917060.7503607
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9254,
-    "total_planned": 67,
+    "total_completed": 9255,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
