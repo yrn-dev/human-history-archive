@@ -46807,14 +46807,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1181",
       "timestamp": 1787945052.0098264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787945310.7325552
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1184",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9376,
-    "total_planned": 16,
+    "total_completed": 9377,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
