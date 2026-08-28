@@ -46517,14 +46517,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1172",
       "timestamp": 1787931440.1090038
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787931632.7467716
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9318,
-    "total_planned": 3,
+    "total_completed": 9319,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
