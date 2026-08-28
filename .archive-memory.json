@@ -45507,14 +45507,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1157",
       "timestamp": 1787885553.007933
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787885872.8660653
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1282",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9116,
-    "total_planned": 63,
+    "total_completed": 9117,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
