@@ -46482,14 +46482,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1174",
       "timestamp": 1787929780.2911024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1302",
-      "variation": true
-    },
+      "timestamp": 1787929961.25504
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9311,
-    "total_planned": 10,
+    "total_completed": 9312,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
