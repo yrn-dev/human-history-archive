@@ -46397,14 +46397,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1174",
       "timestamp": 1787925988.2148044
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787926234.900962
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9294,
-    "total_planned": 27,
+    "total_completed": 9295,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
