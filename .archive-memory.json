@@ -45747,14 +45747,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 901",
       "timestamp": 1787896011.4800522
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787896154.9380147
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9164,
-    "total_planned": 15,
+    "total_completed": 9165,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
