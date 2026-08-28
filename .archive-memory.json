@@ -46682,14 +46682,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1183",
       "timestamp": 1787938725.4488757
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787939025.0359337
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9351,
-    "total_planned": 41,
+    "total_completed": 9352,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
