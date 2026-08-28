@@ -46612,14 +46612,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1183",
       "timestamp": 1787935837.2995584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787936069.5914874
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1184",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9337,
-    "total_planned": 55,
+    "total_completed": 9338,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
