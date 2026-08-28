@@ -46782,14 +46782,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1181",
       "timestamp": 1787943585.152535
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787943901.0050027
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9371,
-    "total_planned": 21,
+    "total_completed": 9372,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
