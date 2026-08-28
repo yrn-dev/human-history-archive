@@ -45652,14 +45652,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 901",
       "timestamp": 1787891599.5752332
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787891738.9264636
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9145,
-    "total_planned": 34,
+    "total_completed": 9146,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
