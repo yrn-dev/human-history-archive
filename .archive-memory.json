@@ -45817,18 +45817,17 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1154",
       "timestamp": 1787899294.9388077
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1156",
-      "variation": true
+      "timestamp": 1787899598.414499
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9178,
-    "total_planned": 1,
+    "total_completed": 9179,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
