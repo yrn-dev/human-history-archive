@@ -45502,14 +45502,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1156",
       "timestamp": 1787885283.3175273
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1157",
-      "variation": true
-    },
+      "timestamp": 1787885553.007933
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9115,
-    "total_planned": 64,
+    "total_completed": 9116,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
