@@ -45712,14 +45712,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1156",
       "timestamp": 1787894415.7201571
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787894721.5800169
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9157,
-    "total_planned": 22,
+    "total_completed": 9158,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
