@@ -45537,14 +45537,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1154",
       "timestamp": 1787886908.393256
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1787887163.998448
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1282",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9122,
-    "total_planned": 57,
+    "total_completed": 9123,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
