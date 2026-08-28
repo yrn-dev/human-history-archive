@@ -46147,14 +46147,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1165",
       "timestamp": 1787914631.6104279
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787914908.6548326
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9244,
-    "total_planned": 6,
+    "total_completed": 9245,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
