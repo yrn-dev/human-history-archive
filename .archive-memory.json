@@ -46162,14 +46162,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1163",
       "timestamp": 1787915288.1673222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1166",
-      "variation": true
-    },
+      "timestamp": 1787915574.137319
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1166",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9247,
-    "total_planned": 3,
+    "total_completed": 9248,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
