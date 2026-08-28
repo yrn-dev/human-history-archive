@@ -45922,14 +45922,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1292",
       "timestamp": 1787903960.214438
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787904223.8144662
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9199,
-    "total_planned": 51,
+    "total_completed": 9200,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
