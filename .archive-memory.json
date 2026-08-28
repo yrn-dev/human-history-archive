@@ -47012,14 +47012,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1193",
       "timestamp": 1787954838.3123224
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787955056.419596
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9417,
-    "total_planned": 46,
+    "total_completed": 9418,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
