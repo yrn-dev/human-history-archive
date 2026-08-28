@@ -47047,14 +47047,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1190",
       "timestamp": 1787956501.424551
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787956722.5723307
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9424,
-    "total_planned": 39,
+    "total_completed": 9425,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
