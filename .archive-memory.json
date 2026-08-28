@@ -45567,14 +45567,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1154",
       "timestamp": 1787888112.3584783
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787888276.483431
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9128,
-    "total_planned": 51,
+    "total_completed": 9129,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
