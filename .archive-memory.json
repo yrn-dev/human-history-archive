@@ -45902,14 +45902,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1165",
       "timestamp": 1787903146.7006004
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787903305.6685226
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9195,
-    "total_planned": 55,
+    "total_completed": 9196,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
