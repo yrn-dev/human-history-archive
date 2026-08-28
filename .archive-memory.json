@@ -46962,14 +46962,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1193",
       "timestamp": 1787952557.364027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1193",
-      "variation": true
-    },
+      "timestamp": 1787952829.5110316
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9407,
-    "total_planned": 56,
+    "total_completed": 9408,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
