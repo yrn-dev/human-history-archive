@@ -46967,14 +46967,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1193",
       "timestamp": 1787952829.5110316
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787953036.0362566
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 929",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9408,
-    "total_planned": 55,
+    "total_completed": 9409,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
