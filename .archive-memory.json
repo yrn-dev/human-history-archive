@@ -47097,14 +47097,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1192",
       "timestamp": 1787958548.6989906
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787958847.4675865
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 929",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9434,
-    "total_planned": 29,
+    "total_completed": 9435,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
