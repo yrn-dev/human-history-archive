@@ -47137,14 +47137,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1193",
       "timestamp": 1787960206.1451254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787960497.0037038
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9442,
-    "total_planned": 21,
+    "total_completed": 9443,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
