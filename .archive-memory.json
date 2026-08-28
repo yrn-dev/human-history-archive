@@ -45647,14 +45647,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1156",
       "timestamp": 1787891455.046122
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 901",
-      "variation": true
-    },
+      "timestamp": 1787891599.5752332
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9144,
-    "total_planned": 35,
+    "total_completed": 9145,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
