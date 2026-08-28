@@ -46927,14 +46927,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1190",
       "timestamp": 1787950834.672103
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787951070.2691886
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 929",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9400,
-    "total_planned": 63,
+    "total_completed": 9401,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
