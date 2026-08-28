@@ -46917,14 +46917,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1190",
       "timestamp": 1787950336.2328584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787950584.7111936
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9398,
-    "total_planned": 65,
+    "total_completed": 9399,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
