@@ -46987,14 +46987,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1192",
       "timestamp": 1787953711.2568064
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787953941.3379624
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9412,
-    "total_planned": 51,
+    "total_completed": 9413,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
