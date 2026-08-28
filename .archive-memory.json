@@ -45632,14 +45632,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1156",
       "timestamp": 1787890947.4263182
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787891140.4339433
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1157",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9141,
-    "total_planned": 38,
+    "total_completed": 9142,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
