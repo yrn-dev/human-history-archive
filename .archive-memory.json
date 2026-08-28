@@ -46712,14 +46712,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1181",
       "timestamp": 1787940441.6130733
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787940680.656579
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9357,
-    "total_planned": 35,
+    "total_completed": 9358,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
