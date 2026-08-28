@@ -46242,14 +46242,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1172",
       "timestamp": 1787918852.4996145
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 915",
-      "variation": true
-    },
+      "timestamp": 1787919068.3866258
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9263,
-    "total_planned": 58,
+    "total_completed": 9264,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
