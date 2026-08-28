@@ -46667,14 +46667,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1183",
       "timestamp": 1787938088.7272809
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1312",
-      "variation": true
-    },
+      "timestamp": 1787938287.3273234
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1184",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9348,
-    "total_planned": 44,
+    "total_completed": 9349,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
