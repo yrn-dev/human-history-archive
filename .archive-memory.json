@@ -46157,14 +46157,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1165",
       "timestamp": 1787915050.0275342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787915288.1673222
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1166",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9246,
-    "total_planned": 4,
+    "total_completed": 9247,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
