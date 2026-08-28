@@ -46067,14 +46067,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1163",
       "timestamp": 1787910717.3048291
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787910956.1768353
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9228,
-    "total_planned": 22,
+    "total_completed": 9229,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
