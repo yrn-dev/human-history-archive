@@ -46742,14 +46742,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1183",
       "timestamp": 1787941769.5820353
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787942024.8381104
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9363,
-    "total_planned": 29,
+    "total_completed": 9364,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
