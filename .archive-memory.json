@@ -45332,14 +45332,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1272",
       "timestamp": 1787877007.0295088
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787877165.6052477
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1147",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9081,
-    "total_planned": 27,
+    "total_completed": 9082,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
