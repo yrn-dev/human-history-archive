@@ -45352,14 +45352,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1145",
       "timestamp": 1787877981.6827111
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1147",
-      "variation": true
-    },
+      "timestamp": 1787878126.7405555
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 894",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9085,
-    "total_planned": 23,
+    "total_completed": 9086,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
