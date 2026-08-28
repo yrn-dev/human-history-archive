@@ -45572,14 +45572,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1156",
       "timestamp": 1787888276.483431
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787888546.6474898
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9129,
-    "total_planned": 50,
+    "total_completed": 9130,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
