@@ -46307,14 +46307,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 915",
       "timestamp": 1787921725.6899247
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787921971.890587
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9276,
-    "total_planned": 45,
+    "total_completed": 9277,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
