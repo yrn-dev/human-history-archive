@@ -46097,14 +46097,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1292",
       "timestamp": 1787912120.6416457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787912401.4823909
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9234,
-    "total_planned": 16,
+    "total_completed": 9235,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
