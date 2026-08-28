@@ -45487,14 +45487,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1156",
       "timestamp": 1787884425.8634334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1787884692.122169
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9112,
-    "total_planned": 67,
+    "total_completed": 9113,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
