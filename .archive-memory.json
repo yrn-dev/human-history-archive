@@ -47077,14 +47077,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1192",
       "timestamp": 1787957835.0053835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787958130.0605986
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9430,
-    "total_planned": 33,
+    "total_completed": 9431,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
