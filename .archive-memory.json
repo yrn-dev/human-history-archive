@@ -46317,14 +46317,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1174",
       "timestamp": 1787922271.2361116
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787922524.0297284
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1302",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9278,
-    "total_planned": 43,
+    "total_completed": 9279,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
