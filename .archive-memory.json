@@ -46702,14 +46702,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1181",
       "timestamp": 1787939854.456325
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787940146.5054379
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9355,
-    "total_planned": 37,
+    "total_completed": 9356,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
