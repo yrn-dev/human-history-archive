@@ -46942,14 +46942,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1192",
       "timestamp": 1787951542.0246823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1193",
-      "variation": true
-    },
+      "timestamp": 1787951843.3550305
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9403,
-    "total_planned": 60,
+    "total_completed": 9404,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
