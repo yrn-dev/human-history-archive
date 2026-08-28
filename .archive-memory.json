@@ -45612,14 +45612,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1154",
       "timestamp": 1787889949.5815828
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787890231.9796643
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1282",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9137,
-    "total_planned": 42,
+    "total_completed": 9138,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
