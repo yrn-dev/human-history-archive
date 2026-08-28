@@ -46247,14 +46247,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 915",
       "timestamp": 1787919068.3866258
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787919268.3919199
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9264,
-    "total_planned": 57,
+    "total_completed": 9265,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
