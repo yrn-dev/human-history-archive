@@ -46882,18 +46882,17 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1312",
       "timestamp": 1787948671.5907779
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1181",
-      "variation": true
+      "timestamp": 1787948842.8689184
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9391,
-    "total_planned": 1,
+    "total_completed": 9392,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
