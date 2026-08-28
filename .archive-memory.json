@@ -47072,14 +47072,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1322",
       "timestamp": 1787957666.605435
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787957835.0053835
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 929",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9429,
-    "total_planned": 34,
+    "total_completed": 9430,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
