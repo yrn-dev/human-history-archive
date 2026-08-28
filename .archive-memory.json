@@ -46002,14 +46002,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1166",
       "timestamp": 1787907631.7292795
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 908",
-      "variation": true
-    },
+      "timestamp": 1787907934.457056
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1166",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9215,
-    "total_planned": 35,
+    "total_completed": 9216,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
