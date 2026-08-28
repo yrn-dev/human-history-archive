@@ -46102,14 +46102,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1165",
       "timestamp": 1787912401.4823909
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787912711.6241531
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9235,
-    "total_planned": 15,
+    "total_completed": 9236,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
