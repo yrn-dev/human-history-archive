@@ -45872,14 +45872,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1163",
       "timestamp": 1787901604.638995
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1787901867.2423449
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1166",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9189,
-    "total_planned": 61,
+    "total_completed": 9190,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
