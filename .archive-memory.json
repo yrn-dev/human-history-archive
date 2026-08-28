@@ -46557,14 +46557,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1183",
       "timestamp": 1787933229.1290302
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787933425.9613664
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9326,
-    "total_planned": 66,
+    "total_completed": 9327,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
