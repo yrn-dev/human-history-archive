@@ -46422,14 +46422,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1174",
       "timestamp": 1787927143.7312665
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787927312.2563996
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1174",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9299,
-    "total_planned": 22,
+    "total_completed": 9300,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
