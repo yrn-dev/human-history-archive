@@ -47037,14 +47037,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1322",
       "timestamp": 1787955936.473859
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787956221.6356332
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9422,
-    "total_planned": 41,
+    "total_completed": 9423,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
