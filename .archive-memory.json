@@ -45792,14 +45792,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1156",
       "timestamp": 1787898143.7061741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787898401.0652611
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9173,
-    "total_planned": 6,
+    "total_completed": 9174,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
