@@ -46832,14 +46832,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1183",
       "timestamp": 1787946260.0127125
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787946404.3736463
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9381,
-    "total_planned": 11,
+    "total_completed": 9382,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
