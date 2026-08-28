@@ -46092,14 +46092,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 908",
       "timestamp": 1787911907.1349509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1787912120.6416457
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9233,
-    "total_planned": 17,
+    "total_completed": 9234,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
