@@ -45592,14 +45592,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1156",
       "timestamp": 1787889241.7221496
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787889388.6382022
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9133,
-    "total_planned": 46,
+    "total_completed": 9134,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
