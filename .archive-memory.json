@@ -45987,14 +45987,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1163",
       "timestamp": 1787907030.484542
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787907229.8374329
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9212,
-    "total_planned": 38,
+    "total_completed": 9213,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
