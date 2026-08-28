@@ -45842,14 +45842,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1163",
       "timestamp": 1787900301.569548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787900468.7403493
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1166",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9183,
-    "total_planned": 67,
+    "total_completed": 9184,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
