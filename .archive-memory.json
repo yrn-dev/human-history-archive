@@ -46947,14 +46947,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1193",
       "timestamp": 1787951843.3550305
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787952097.3638043
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1322",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9404,
-    "total_planned": 59,
+    "total_completed": 9405,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
