@@ -45447,14 +45447,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1145",
       "timestamp": 1787882581.3889835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1272",
-      "variation": true
-    },
+      "timestamp": 1787882892.02636
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9104,
-    "total_planned": 4,
+    "total_completed": 9105,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
