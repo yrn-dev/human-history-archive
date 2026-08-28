@@ -45892,14 +45892,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1163",
       "timestamp": 1787902628.335836
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787902850.1338751
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9193,
-    "total_planned": 57,
+    "total_completed": 9194,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
