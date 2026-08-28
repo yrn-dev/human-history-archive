@@ -46912,14 +46912,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1192",
       "timestamp": 1787950156.5279622
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787950336.2328584
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9397,
-    "total_planned": 66,
+    "total_completed": 9398,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
