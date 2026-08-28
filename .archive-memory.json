@@ -45767,14 +45767,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1156",
       "timestamp": 1787896796.717484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787897053.1116323
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9168,
-    "total_planned": 11,
+    "total_completed": 9169,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
