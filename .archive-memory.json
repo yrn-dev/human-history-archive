@@ -46172,18 +46172,17 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1166",
       "timestamp": 1787915754.4921675
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1163",
-      "variation": true
+      "timestamp": 1787916040.679054
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9249,
-    "total_planned": 1,
+    "total_completed": 9250,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
