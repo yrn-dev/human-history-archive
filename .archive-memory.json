@@ -46347,14 +46347,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1174",
       "timestamp": 1787923691.8169544
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1302",
-      "variation": true
-    },
+      "timestamp": 1787923991.3424737
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1175",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9284,
-    "total_planned": 37,
+    "total_completed": 9285,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
