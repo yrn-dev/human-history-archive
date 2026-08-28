@@ -46827,14 +46827,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 922",
       "timestamp": 1787945996.5832448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787946260.0127125
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9380,
-    "total_planned": 12,
+    "total_completed": 9381,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
