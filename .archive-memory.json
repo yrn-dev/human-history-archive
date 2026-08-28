@@ -46982,14 +46982,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 929",
       "timestamp": 1787953507.8151777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787953711.2568064
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1322",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9411,
-    "total_planned": 52,
+    "total_completed": 9412,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
