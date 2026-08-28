@@ -47057,14 +47057,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1192",
       "timestamp": 1787957033.630225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787957330.828761
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1322",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9426,
-    "total_planned": 37,
+    "total_completed": 9427,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
