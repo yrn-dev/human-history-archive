@@ -46757,14 +46757,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1183",
       "timestamp": 1787942446.301344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787942606.7254682
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9366,
-    "total_planned": 26,
+    "total_completed": 9367,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
