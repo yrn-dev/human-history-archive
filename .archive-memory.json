@@ -45952,14 +45952,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1165",
       "timestamp": 1787905362.2972977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787905553.3453777
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1163",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9205,
-    "total_planned": 45,
+    "total_completed": 9206,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
