@@ -47142,14 +47142,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1192",
       "timestamp": 1787960497.0037038
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787960810.236495
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9443,
-    "total_planned": 20,
+    "total_completed": 9444,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
