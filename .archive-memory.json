@@ -46122,14 +46122,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 908",
       "timestamp": 1787913444.9398124
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787913629.5484698
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1292",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9239,
-    "total_planned": 11,
+    "total_completed": 9240,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
