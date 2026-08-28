@@ -46567,14 +46567,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1183",
       "timestamp": 1787933687.4238253
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1312",
-      "variation": true
-    },
+      "timestamp": 1787933836.5146174
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1312",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9328,
-    "total_planned": 64,
+    "total_completed": 9329,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
