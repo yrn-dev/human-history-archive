@@ -45762,14 +45762,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1282",
       "timestamp": 1787896539.3602211
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787896796.717484
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9167,
-    "total_planned": 12,
+    "total_completed": 9168,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
