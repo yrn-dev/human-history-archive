@@ -46437,14 +46437,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1174",
       "timestamp": 1787927768.1162846
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787928056.5863776
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1302",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9302,
-    "total_planned": 19,
+    "total_completed": 9303,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
