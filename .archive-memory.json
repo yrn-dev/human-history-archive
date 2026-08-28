@@ -46072,14 +46072,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1163",
       "timestamp": 1787910956.1768353
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787911182.4539266
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9229,
-    "total_planned": 21,
+    "total_completed": 9230,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
