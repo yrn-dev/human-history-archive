@@ -46977,14 +46977,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 929",
       "timestamp": 1787953342.7008636
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787953507.8151777
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9410,
-    "total_planned": 53,
+    "total_completed": 9411,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
