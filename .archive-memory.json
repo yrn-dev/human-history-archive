@@ -46282,14 +46282,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1174",
       "timestamp": 1787920738.0237699
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1302",
-      "variation": true
-    },
+      "timestamp": 1787920986.5616956
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1175",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9271,
-    "total_planned": 50,
+    "total_completed": 9272,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
