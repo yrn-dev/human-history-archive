@@ -46182,14 +46182,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1172",
       "timestamp": 1787916249.7912476
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787916487.0522256
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9251,
-    "total_planned": 70,
+    "total_completed": 9252,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
