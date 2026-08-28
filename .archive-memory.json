@@ -46252,14 +46252,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1174",
       "timestamp": 1787919268.3919199
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787919478.6020553
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1302",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9265,
-    "total_planned": 56,
+    "total_completed": 9266,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
