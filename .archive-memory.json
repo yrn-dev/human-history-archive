@@ -46837,14 +46837,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1181",
       "timestamp": 1787946404.3736463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787946687.2888
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9382,
-    "total_planned": 10,
+    "total_completed": 9383,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
