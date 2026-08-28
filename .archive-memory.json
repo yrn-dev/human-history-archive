@@ -47127,14 +47127,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1192",
       "timestamp": 1787959784.9819195
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787959922.5132117
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1193",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9440,
-    "total_planned": 23,
+    "total_completed": 9441,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
