@@ -46597,14 +46597,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1184",
       "timestamp": 1787935131.8284974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787935432.7464967
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1184",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9334,
-    "total_planned": 58,
+    "total_completed": 9335,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
