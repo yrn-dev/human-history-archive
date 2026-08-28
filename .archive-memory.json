@@ -47022,14 +47022,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1192",
       "timestamp": 1787955337.7338405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787955490.8854659
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1322",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9419,
-    "total_planned": 44,
+    "total_completed": 9420,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
