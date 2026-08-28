@@ -46447,14 +46447,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1302",
       "timestamp": 1787928315.6108885
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1172",
-      "variation": true
-    },
+      "timestamp": 1787928453.9522333
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1175",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9304,
-    "total_planned": 17,
+    "total_completed": 9305,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
