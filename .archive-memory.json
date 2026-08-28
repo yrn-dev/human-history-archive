@@ -46907,14 +46907,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 929",
       "timestamp": 1787949926.4794176
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787950156.5279622
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9396,
-    "total_planned": 67,
+    "total_completed": 9397,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
