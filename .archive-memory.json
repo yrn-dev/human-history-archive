@@ -47157,14 +47157,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1192",
       "timestamp": 1787961246.3764858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787961395.577755
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 929",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9446,
-    "total_planned": 17,
+    "total_completed": 9447,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
