@@ -45742,14 +45742,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1282",
       "timestamp": 1787895848.4910655
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 901",
-      "variation": true
-    },
+      "timestamp": 1787896011.4800522
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9163,
-    "total_planned": 16,
+    "total_completed": 9164,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
