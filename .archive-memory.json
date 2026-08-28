@@ -46687,14 +46687,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1183",
       "timestamp": 1787939025.0359337
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1181",
-      "variation": true
-    },
+      "timestamp": 1787939333.169379
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 922",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9352,
-    "total_planned": 40,
+    "total_completed": 9353,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
