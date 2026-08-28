@@ -46262,14 +46262,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1302",
       "timestamp": 1787919681.700701
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787919937.7378666
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9267,
-    "total_planned": 54,
+    "total_completed": 9268,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
