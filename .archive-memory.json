@@ -46577,14 +46577,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1312",
       "timestamp": 1787934119.4038172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 922",
-      "variation": true
-    },
+      "timestamp": 1787934400.974539
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9330,
-    "total_planned": 62,
+    "total_completed": 9331,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
