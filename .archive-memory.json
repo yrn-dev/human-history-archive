@@ -45732,14 +45732,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1154",
       "timestamp": 1787895413.834861
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787895628.3494227
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1282",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9161,
-    "total_planned": 18,
+    "total_completed": 9162,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
