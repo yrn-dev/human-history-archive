@@ -47112,14 +47112,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1193",
       "timestamp": 1787959206.0325549
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787959386.13204
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9437,
-    "total_planned": 26,
+    "total_completed": 9438,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
