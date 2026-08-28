@@ -46752,14 +46752,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1181",
       "timestamp": 1787942292.3341238
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787942446.301344
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1181",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9365,
-    "total_planned": 27,
+    "total_completed": 9366,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
