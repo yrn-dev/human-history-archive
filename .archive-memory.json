@@ -45382,14 +45382,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1145",
       "timestamp": 1787879370.4496834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 894",
-      "variation": true
-    },
+      "timestamp": 1787879646.6153038
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1145",
@@ -45472,8 +45472,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9091,
-    "total_planned": 17,
+    "total_completed": 9092,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
