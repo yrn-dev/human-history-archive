@@ -46892,14 +46892,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1192",
       "timestamp": 1787949094.7073808
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787949386.0287957
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9393,
-    "total_planned": 70,
+    "total_completed": 9394,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
