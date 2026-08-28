@@ -45532,14 +45532,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1156",
       "timestamp": 1787886614.051347
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787886908.393256
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1282",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9121,
-    "total_planned": 58,
+    "total_completed": 9122,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
