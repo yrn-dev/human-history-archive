@@ -46137,14 +46137,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1292",
       "timestamp": 1787914215.0725868
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1165",
-      "variation": true
-    },
+      "timestamp": 1787914386.0755742
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9242,
-    "total_planned": 8,
+    "total_completed": 9243,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
