@@ -45722,14 +45722,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1154",
       "timestamp": 1787894919.9457567
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1154",
-      "variation": true
-    },
+      "timestamp": 1787895233.051748
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1154",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9159,
-    "total_planned": 20,
+    "total_completed": 9160,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
