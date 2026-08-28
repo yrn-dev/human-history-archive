@@ -46312,14 +46312,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1172",
       "timestamp": 1787921971.890587
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787922271.2361116
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9277,
-    "total_planned": 44,
+    "total_completed": 9278,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
