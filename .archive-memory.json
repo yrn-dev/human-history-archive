@@ -47082,14 +47082,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 929",
       "timestamp": 1787958130.0605986
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787958267.4986584
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9431,
-    "total_planned": 32,
+    "total_completed": 9432,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
