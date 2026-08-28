@@ -45582,14 +45582,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1156",
       "timestamp": 1787888698.9753807
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 901",
-      "variation": true
-    },
+      "timestamp": 1787888972.1677566
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9131,
-    "total_planned": 48,
+    "total_completed": 9132,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
