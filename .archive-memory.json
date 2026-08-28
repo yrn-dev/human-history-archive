@@ -46227,14 +46227,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1175",
       "timestamp": 1787918111.0311532
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1302",
-      "variation": true
-    },
+      "timestamp": 1787918409.0166047
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1175",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9260,
-    "total_planned": 61,
+    "total_completed": 9261,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
