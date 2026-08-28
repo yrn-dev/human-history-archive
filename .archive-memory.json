@@ -46547,14 +46547,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 922",
       "timestamp": 1787932886.3196054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1183",
-      "variation": true
-    },
+      "timestamp": 1787933032.7425382
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9324,
-    "total_planned": 68,
+    "total_completed": 9325,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
