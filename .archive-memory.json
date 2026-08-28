@@ -45942,14 +45942,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1165",
       "timestamp": 1787904988.054045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1163",
-      "variation": true
-    },
+      "timestamp": 1787905204.8903496
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9203,
-    "total_planned": 47,
+    "total_completed": 9204,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
