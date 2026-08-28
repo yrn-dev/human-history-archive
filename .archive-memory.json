@@ -46902,14 +46902,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1190",
       "timestamp": 1787949649.0128276
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787949926.4794176
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9395,
-    "total_planned": 68,
+    "total_completed": 9396,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
