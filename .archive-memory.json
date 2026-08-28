@@ -45552,14 +45552,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1157",
       "timestamp": 1787887526.4413943
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1157",
-      "variation": true
-    },
+      "timestamp": 1787887662.4881635
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1157",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9125,
-    "total_planned": 54,
+    "total_completed": 9126,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
