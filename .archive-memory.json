@@ -46922,14 +46922,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1192",
       "timestamp": 1787950584.7111936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787950834.672103
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9399,
-    "total_planned": 64,
+    "total_completed": 9400,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
