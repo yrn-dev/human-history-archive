@@ -46457,14 +46457,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1175",
       "timestamp": 1787928657.2699566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787928833.0802674
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9306,
-    "total_planned": 15,
+    "total_completed": 9307,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
