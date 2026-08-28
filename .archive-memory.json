@@ -45992,14 +45992,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1165",
       "timestamp": 1787907229.8374329
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1787907429.8155038
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1166",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9213,
-    "total_planned": 37,
+    "total_completed": 9214,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
