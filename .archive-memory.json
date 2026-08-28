@@ -46617,14 +46617,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1181",
       "timestamp": 1787936069.5914874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1184",
-      "variation": true
-    },
+      "timestamp": 1787936262.8293414
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1183",
@@ -46892,8 +46892,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9338,
-    "total_planned": 54,
+    "total_completed": 9339,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
