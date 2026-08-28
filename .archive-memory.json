@@ -46132,14 +46132,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1292",
       "timestamp": 1787913905.6087916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1787914215.0725868
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1165",
@@ -46182,8 +46182,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9241,
-    "total_planned": 9,
+    "total_completed": 9242,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
