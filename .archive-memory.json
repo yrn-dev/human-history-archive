@@ -46297,14 +46297,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 915",
       "timestamp": 1787921322.3738265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787921487.7582865
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 915",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9274,
-    "total_planned": 47,
+    "total_completed": 9275,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
