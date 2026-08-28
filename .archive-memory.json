@@ -45472,14 +45472,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1154",
       "timestamp": 1787883812.1837525
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1156",
-      "variation": true
-    },
+      "timestamp": 1787883964.3342795
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1156",
@@ -45827,8 +45827,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9109,
-    "total_planned": 70,
+    "total_completed": 9110,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
