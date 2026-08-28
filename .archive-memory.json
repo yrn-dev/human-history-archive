@@ -46522,14 +46522,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1174",
       "timestamp": 1787931632.7467716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1174",
-      "variation": true
-    },
+      "timestamp": 1787931821.8033688
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1172",
@@ -46537,8 +46537,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9319,
-    "total_planned": 2,
+    "total_completed": 9320,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
