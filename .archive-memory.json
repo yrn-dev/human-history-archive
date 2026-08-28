@@ -47032,14 +47032,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1322",
       "timestamp": 1787955691.8622823
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787955936.473859
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9421,
-    "total_planned": 42,
+    "total_completed": 9422,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
