@@ -47907,14 +47907,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 943",
       "timestamp": 1787995609.629937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787995909.7342231
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9596,
-    "total_planned": 9,
+    "total_completed": 9597,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
