@@ -48167,14 +48167,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1217",
       "timestamp": 1788007389.436702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788007693.422319
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9648,
-    "total_planned": 28,
+    "total_completed": 9649,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
