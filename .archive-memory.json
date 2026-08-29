@@ -47562,14 +47562,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 936",
       "timestamp": 1787979406.3672342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787979576.6338158
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9527,
-    "total_planned": 7,
+    "total_completed": 9528,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
