@@ -47462,14 +47462,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1201",
       "timestamp": 1787974766.4461179
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787974930.2341926
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9507,
-    "total_planned": 27,
+    "total_completed": 9508,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
