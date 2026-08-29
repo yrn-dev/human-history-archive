@@ -48427,14 +48427,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1362",
       "timestamp": 1788019929.8829384
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1362",
-      "variation": true
-    },
+      "timestamp": 1788020203.1404934
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 957",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9700,
-    "total_planned": 47,
+    "total_completed": 9701,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
