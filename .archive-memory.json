@@ -48712,14 +48712,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1237",
       "timestamp": 1788032707.3224254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1372",
-      "variation": true
-    },
+      "timestamp": 1788033004.5149777
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9757,
-    "total_planned": 61,
+    "total_completed": 9758,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
