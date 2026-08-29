@@ -48152,14 +48152,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1219",
       "timestamp": 1788006690.6756027
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1220",
-      "variation": true
-    },
+      "timestamp": 1788006964.6809294
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9645,
-    "total_planned": 31,
+    "total_completed": 9646,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
