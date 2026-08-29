@@ -48492,14 +48492,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 957",
       "timestamp": 1788022940.888701
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788023201.3329575
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1229",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9713,
-    "total_planned": 34,
+    "total_completed": 9714,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
