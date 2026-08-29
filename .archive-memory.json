@@ -48657,18 +48657,17 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1362",
       "timestamp": 1788030551.7609022
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1228",
-      "variation": true
+      "timestamp": 1788030716.792212
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9746,
-    "total_planned": 1,
+    "total_completed": 9747,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
