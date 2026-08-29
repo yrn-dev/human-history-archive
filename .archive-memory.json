@@ -48172,14 +48172,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1219",
       "timestamp": 1788007693.422319
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788007854.3165116
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9649,
-    "total_planned": 27,
+    "total_completed": 9650,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
