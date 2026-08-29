@@ -48782,14 +48782,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1237",
       "timestamp": 1788036086.9420273
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788036310.8832202
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9771,
-    "total_planned": 47,
+    "total_completed": 9772,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
