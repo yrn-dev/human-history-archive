@@ -48092,14 +48092,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1219",
       "timestamp": 1788004120.6324172
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1352",
-      "variation": true
-    },
+      "timestamp": 1788004265.358162
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9633,
-    "total_planned": 43,
+    "total_completed": 9634,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
