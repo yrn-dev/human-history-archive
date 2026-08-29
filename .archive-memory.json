@@ -47967,14 +47967,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 950",
       "timestamp": 1787998603.8501208
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 950",
-      "variation": true
-    },
+      "timestamp": 1787998826.0253363
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9608,
-    "total_planned": 68,
+    "total_completed": 9609,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
