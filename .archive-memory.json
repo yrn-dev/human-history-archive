@@ -47192,14 +47192,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1190",
       "timestamp": 1787962690.5033314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1322",
-      "variation": true
-    },
+      "timestamp": 1787962908.533412
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9453,
-    "total_planned": 10,
+    "total_completed": 9454,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
