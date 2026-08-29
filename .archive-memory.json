@@ -48352,14 +48352,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1228",
       "timestamp": 1788015909.6188426
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788016193.3259342
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1362",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9685,
-    "total_planned": 62,
+    "total_completed": 9686,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
