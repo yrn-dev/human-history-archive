@@ -47577,14 +47577,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 936",
       "timestamp": 1787979993.202265
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 936",
-      "variation": true
-    },
+      "timestamp": 1787980237.1524792
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9530,
-    "total_planned": 4,
+    "total_completed": 9531,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
