@@ -47222,14 +47222,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1192",
       "timestamp": 1787964053.1206365
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787964231.2227747
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9459,
-    "total_planned": 4,
+    "total_completed": 9460,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
