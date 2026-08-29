@@ -48617,14 +48617,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1362",
       "timestamp": 1788028651.6674867
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788028885.371837
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9738,
-    "total_planned": 9,
+    "total_completed": 9739,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
