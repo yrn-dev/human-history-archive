@@ -49027,14 +49027,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1382",
       "timestamp": 1788047464.3168178
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1382",
-      "variation": true
-    },
+      "timestamp": 1788047656.300713
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9820,
-    "total_planned": 69,
+    "total_completed": 9821,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
