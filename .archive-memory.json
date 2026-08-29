@@ -48097,14 +48097,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1352",
       "timestamp": 1788004265.358162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788004406.9928696
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 950",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9634,
-    "total_planned": 42,
+    "total_completed": 9635,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
