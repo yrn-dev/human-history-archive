@@ -47397,14 +47397,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1199",
       "timestamp": 1787971577.0292504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 936",
-      "variation": true
-    },
+      "timestamp": 1787971802.6428552
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1202",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9494,
-    "total_planned": 40,
+    "total_completed": 9495,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
