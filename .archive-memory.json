@@ -47517,14 +47517,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1201",
       "timestamp": 1787977038.2218654
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787977352.209419
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9518,
-    "total_planned": 16,
+    "total_completed": 9519,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
