@@ -47427,14 +47427,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1199",
       "timestamp": 1787973060.6923945
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787973353.964705
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1332",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9500,
-    "total_planned": 34,
+    "total_completed": 9501,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
