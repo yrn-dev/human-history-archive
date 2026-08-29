@@ -48032,14 +48032,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1352",
       "timestamp": 1788001538.013583
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788001775.8132927
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9621,
-    "total_planned": 55,
+    "total_completed": 9622,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
