@@ -47177,14 +47177,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1190",
       "timestamp": 1787961957.3544188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1193",
-      "variation": true
-    },
+      "timestamp": 1787962217.5753744
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9450,
-    "total_planned": 13,
+    "total_completed": 9451,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
