@@ -47692,14 +47692,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1211",
       "timestamp": 1787985319.1771955
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1342",
-      "variation": true
-    },
+      "timestamp": 1787985608.4644666
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9553,
-    "total_planned": 52,
+    "total_completed": 9554,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
