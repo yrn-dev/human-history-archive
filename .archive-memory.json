@@ -47827,14 +47827,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1210",
       "timestamp": 1787991708.8519464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787992006.7517643
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1211",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9580,
-    "total_planned": 25,
+    "total_completed": 9581,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
