@@ -47247,14 +47247,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1201",
       "timestamp": 1787965127.848987
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787965405.709656
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1332",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9464,
-    "total_planned": 70,
+    "total_completed": 9465,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
