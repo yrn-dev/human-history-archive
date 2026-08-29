@@ -48637,14 +48637,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1226",
       "timestamp": 1788029601.2515697
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788029902.3758159
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9742,
-    "total_planned": 5,
+    "total_completed": 9743,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
