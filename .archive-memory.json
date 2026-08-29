@@ -48047,14 +48047,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1217",
       "timestamp": 1788002179.7535188
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788002375.5004537
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9624,
-    "total_planned": 52,
+    "total_completed": 9625,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
