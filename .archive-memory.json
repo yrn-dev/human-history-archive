@@ -48072,14 +48072,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1219",
       "timestamp": 1788003366.3480194
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1220",
-      "variation": true
-    },
+      "timestamp": 1788003585.2628653
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9629,
-    "total_planned": 47,
+    "total_completed": 9630,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
