@@ -47947,18 +47947,17 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1342",
       "timestamp": 1787997676.3301287
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 943",
-      "variation": true
+      "timestamp": 1787997937.3565493
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9604,
-    "total_planned": 1,
+    "total_completed": 9605,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
