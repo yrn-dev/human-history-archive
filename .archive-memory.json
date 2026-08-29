@@ -47162,14 +47162,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1192",
       "timestamp": 1787961395.577755
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 929",
-      "variation": true
-    },
+      "timestamp": 1787961629.770856
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1193",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9447,
-    "total_planned": 16,
+    "total_completed": 9448,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
