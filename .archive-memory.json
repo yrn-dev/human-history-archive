@@ -47337,14 +47337,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1201",
       "timestamp": 1787968994.432277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787969150.2622483
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1332",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9482,
-    "total_planned": 52,
+    "total_completed": 9483,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
