@@ -48337,14 +48337,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1229",
       "timestamp": 1788015118.6731737
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1362",
-      "variation": true
-    },
+      "timestamp": 1788015375.154012
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9682,
-    "total_planned": 65,
+    "total_completed": 9683,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
