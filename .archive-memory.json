@@ -47202,14 +47202,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1190",
       "timestamp": 1787963189.6587853
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787963342.9645872
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1193",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9455,
-    "total_planned": 8,
+    "total_completed": 9456,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
