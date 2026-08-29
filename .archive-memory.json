@@ -47377,14 +47377,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1201",
       "timestamp": 1787970681.0862334
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787970942.879621
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9490,
-    "total_planned": 44,
+    "total_completed": 9491,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
