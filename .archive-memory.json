@@ -49032,14 +49032,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1382",
       "timestamp": 1788047656.300713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788047908.9115853
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9821,
-    "total_planned": 68,
+    "total_completed": 9822,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
