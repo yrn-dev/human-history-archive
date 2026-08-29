@@ -48802,14 +48802,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1235",
       "timestamp": 1788036841.9062977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788037022.3197792
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9775,
-    "total_planned": 43,
+    "total_completed": 9776,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
