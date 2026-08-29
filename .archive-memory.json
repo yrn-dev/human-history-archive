@@ -48562,14 +48562,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1226",
       "timestamp": 1788026061.787518
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788026268.685945
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9727,
-    "total_planned": 20,
+    "total_completed": 9728,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
