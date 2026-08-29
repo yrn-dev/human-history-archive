@@ -48107,14 +48107,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 950",
       "timestamp": 1788004617.789221
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788004888.723979
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9636,
-    "total_planned": 40,
+    "total_completed": 9637,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
