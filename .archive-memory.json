@@ -47477,14 +47477,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1202",
       "timestamp": 1787975289.1232388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787975454.7467723
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 936",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9510,
-    "total_planned": 24,
+    "total_completed": 9511,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
