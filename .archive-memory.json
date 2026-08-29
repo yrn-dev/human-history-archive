@@ -47887,14 +47887,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1210",
       "timestamp": 1787994670.136878
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787994969.49893
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9592,
-    "total_planned": 13,
+    "total_completed": 9593,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
