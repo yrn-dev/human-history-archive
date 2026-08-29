@@ -48182,14 +48182,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1217",
       "timestamp": 1788008164.1662915
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1352",
-      "variation": true
-    },
+      "timestamp": 1788008372.9142919
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1220",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9651,
-    "total_planned": 25,
+    "total_completed": 9652,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
