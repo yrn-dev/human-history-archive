@@ -48077,14 +48077,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1220",
       "timestamp": 1788003585.2628653
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788003761.6888287
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1352",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9630,
-    "total_planned": 46,
+    "total_completed": 9631,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
