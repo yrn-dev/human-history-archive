@@ -48522,14 +48522,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 957",
       "timestamp": 1788024296.657463
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1362",
-      "variation": true
-    },
+      "timestamp": 1788024451.413984
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9719,
-    "total_planned": 28,
+    "total_completed": 9720,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
