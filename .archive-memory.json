@@ -47472,14 +47472,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1199",
       "timestamp": 1787975077.2516155
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787975289.1232388
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9509,
-    "total_planned": 25,
+    "total_completed": 9510,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
