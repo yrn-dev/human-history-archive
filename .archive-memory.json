@@ -47172,14 +47172,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1193",
       "timestamp": 1787961795.5903704
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787961957.3544188
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1193",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9449,
-    "total_planned": 14,
+    "total_completed": 9450,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
