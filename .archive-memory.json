@@ -47312,14 +47312,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1199",
       "timestamp": 1787968072.1000597
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787968256.7275195
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9477,
-    "total_planned": 57,
+    "total_completed": 9478,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
