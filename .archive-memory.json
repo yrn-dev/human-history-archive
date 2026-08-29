@@ -48432,14 +48432,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1362",
       "timestamp": 1788020203.1404934
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 957",
-      "variation": true
-    },
+      "timestamp": 1788020505.1111376
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1229",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9701,
-    "total_planned": 46,
+    "total_completed": 9702,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
