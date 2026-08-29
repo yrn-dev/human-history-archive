@@ -47432,14 +47432,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1201",
       "timestamp": 1787973353.964705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1332",
-      "variation": true
-    },
+      "timestamp": 1787973632.7809875
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9501,
-    "total_planned": 33,
+    "total_completed": 9502,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
