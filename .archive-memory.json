@@ -47482,14 +47482,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1199",
       "timestamp": 1787975454.7467723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 936",
-      "variation": true
-    },
+      "timestamp": 1787975682.7287312
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9511,
-    "total_planned": 23,
+    "total_completed": 9512,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
