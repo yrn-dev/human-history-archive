@@ -48842,14 +48842,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1237",
       "timestamp": 1788038579.041661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788038846.6270082
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1238",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9783,
-    "total_planned": 35,
+    "total_completed": 9784,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
