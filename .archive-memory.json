@@ -48797,14 +48797,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1372",
       "timestamp": 1788036668.2585325
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788036841.9062977
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9774,
-    "total_planned": 44,
+    "total_completed": 9775,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
