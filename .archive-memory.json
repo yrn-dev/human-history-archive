@@ -48552,14 +48552,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1228",
       "timestamp": 1788025578.0858388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788025779.9006388
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9725,
-    "total_planned": 22,
+    "total_completed": 9726,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
