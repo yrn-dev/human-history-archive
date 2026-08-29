@@ -49002,14 +49002,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1237",
       "timestamp": 1788046207.2914011
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1372",
-      "variation": true
-    },
+      "timestamp": 1788046504.0286882
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 964",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9815,
-    "total_planned": 3,
+    "total_completed": 9816,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
