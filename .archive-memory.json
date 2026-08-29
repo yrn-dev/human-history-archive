@@ -48062,14 +48062,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1219",
       "timestamp": 1788002811.0722713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788003104.4265242
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9627,
-    "total_planned": 49,
+    "total_completed": 9628,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
