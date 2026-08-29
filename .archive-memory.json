@@ -48312,14 +48312,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1226",
       "timestamp": 1788013743.4355185
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1362",
-      "variation": true
-    },
+      "timestamp": 1788013934.0056508
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1229",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9677,
-    "total_planned": 70,
+    "total_completed": 9678,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
