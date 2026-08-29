@@ -47362,14 +47362,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1332",
       "timestamp": 1787970162.515499
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787970302.1199682
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9487,
-    "total_planned": 47,
+    "total_completed": 9488,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
