@@ -47442,14 +47442,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1201",
       "timestamp": 1787973785.3352606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787973971.1831484
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9503,
-    "total_planned": 31,
+    "total_completed": 9504,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
