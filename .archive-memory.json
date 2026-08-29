@@ -48907,14 +48907,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1238",
       "timestamp": 1788041649.6785614
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788041844.384179
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1238",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9796,
-    "total_planned": 22,
+    "total_completed": 9797,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
