@@ -47682,14 +47682,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 943",
       "timestamp": 1787984765.3472679
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 943",
-      "variation": true
-    },
+      "timestamp": 1787985066.507894
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1211",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9551,
-    "total_planned": 54,
+    "total_completed": 9552,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
