@@ -48147,14 +48147,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1217",
       "timestamp": 1788006456.2067537
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788006690.6756027
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1220",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9644,
-    "total_planned": 32,
+    "total_completed": 9645,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
