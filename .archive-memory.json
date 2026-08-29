@@ -48327,14 +48327,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1228",
       "timestamp": 1788014503.3317838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788014810.6807306
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1229",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9680,
-    "total_planned": 67,
+    "total_completed": 9681,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
