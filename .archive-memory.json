@@ -47727,14 +47727,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1210",
       "timestamp": 1787986830.7560043
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787987114.3411262
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9560,
-    "total_planned": 45,
+    "total_completed": 9561,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
