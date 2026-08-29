@@ -48497,14 +48497,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1226",
       "timestamp": 1788023201.3329575
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1229",
-      "variation": true
-    },
+      "timestamp": 1788023356.9540324
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9714,
-    "total_planned": 33,
+    "total_completed": 9715,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
