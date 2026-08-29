@@ -48232,14 +48232,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 950",
       "timestamp": 1788010453.1252534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788010732.9031339
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1352",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9661,
-    "total_planned": 15,
+    "total_completed": 9662,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
