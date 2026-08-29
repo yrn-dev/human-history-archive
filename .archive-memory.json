@@ -48082,14 +48082,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1217",
       "timestamp": 1788003761.6888287
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1352",
-      "variation": true
-    },
+      "timestamp": 1788003906.7502086
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9631,
-    "total_planned": 45,
+    "total_completed": 9632,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
