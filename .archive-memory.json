@@ -47437,14 +47437,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1332",
       "timestamp": 1787973632.7809875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787973785.3352606
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9502,
-    "total_planned": 32,
+    "total_completed": 9503,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
