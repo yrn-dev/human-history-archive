@@ -48897,14 +48897,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1237",
       "timestamp": 1788041222.6066601
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788041385.1495075
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1238",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9794,
-    "total_planned": 24,
+    "total_completed": 9795,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
