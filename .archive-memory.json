@@ -47937,14 +47937,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1342",
       "timestamp": 1787997224.801475
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787997379.7871113
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1342",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9602,
-    "total_planned": 3,
+    "total_completed": 9603,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
