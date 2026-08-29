@@ -47262,14 +47262,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1199",
       "timestamp": 1787965741.8523464
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787966043.4532478
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9467,
-    "total_planned": 67,
+    "total_completed": 9468,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
