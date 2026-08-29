@@ -48857,14 +48857,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1235",
       "timestamp": 1788039292.2505872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 964",
-      "variation": true
-    },
+      "timestamp": 1788039447.3665514
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9786,
-    "total_planned": 32,
+    "total_completed": 9787,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
