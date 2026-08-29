@@ -47982,14 +47982,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1352",
       "timestamp": 1787999286.2935185
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1220",
-      "variation": true
-    },
+      "timestamp": 1787999593.0291438
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9611,
-    "total_planned": 65,
+    "total_completed": 9612,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
