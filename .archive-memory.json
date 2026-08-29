@@ -48207,14 +48207,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1219",
       "timestamp": 1788009393.9105542
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1220",
-      "variation": true
-    },
+      "timestamp": 1788009535.3395343
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9656,
-    "total_planned": 20,
+    "total_completed": 9657,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
