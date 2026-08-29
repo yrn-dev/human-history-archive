@@ -47457,14 +47457,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 936",
       "timestamp": 1787974543.8494678
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787974766.4461179
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9506,
-    "total_planned": 28,
+    "total_completed": 9507,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
