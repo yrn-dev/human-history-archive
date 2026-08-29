@@ -48187,14 +48187,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1352",
       "timestamp": 1788008372.9142919
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1220",
-      "variation": true
-    },
+      "timestamp": 1788008674.9479237
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 950",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9652,
-    "total_planned": 24,
+    "total_completed": 9653,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
