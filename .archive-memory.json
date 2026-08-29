@@ -47317,14 +47317,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1202",
       "timestamp": 1787968256.7275195
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787968448.9954352
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1332",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9478,
-    "total_planned": 56,
+    "total_completed": 9479,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
