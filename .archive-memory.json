@@ -48452,14 +48452,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1228",
       "timestamp": 1788021281.001385
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788021572.3434749
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 957",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9705,
-    "total_planned": 42,
+    "total_completed": 9706,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
