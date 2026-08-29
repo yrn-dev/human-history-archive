@@ -47352,14 +47352,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1199",
       "timestamp": 1787969633.4874735
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787969873.7931707
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1332",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9485,
-    "total_planned": 49,
+    "total_completed": 9486,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
