@@ -47227,14 +47227,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1192",
       "timestamp": 1787964231.2227747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1190",
-      "variation": true
-    },
+      "timestamp": 1787964384.9976006
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9460,
-    "total_planned": 3,
+    "total_completed": 9461,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
