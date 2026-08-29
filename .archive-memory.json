@@ -48967,14 +48967,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1372",
       "timestamp": 1788044363.6214101
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788044652.8398015
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9808,
-    "total_planned": 10,
+    "total_completed": 9809,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
