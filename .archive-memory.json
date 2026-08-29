@@ -47207,14 +47207,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1192",
       "timestamp": 1787963342.9645872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1193",
-      "variation": true
-    },
+      "timestamp": 1787963576.042394
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9456,
-    "total_planned": 7,
+    "total_completed": 9457,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
