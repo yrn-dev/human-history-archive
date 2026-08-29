@@ -48702,14 +48702,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1235",
       "timestamp": 1788032356.2349274
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1238",
-      "variation": true
-    },
+      "timestamp": 1788032518.3062403
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9755,
-    "total_planned": 63,
+    "total_completed": 9756,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
