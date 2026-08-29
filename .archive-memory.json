@@ -48872,14 +48872,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 964",
       "timestamp": 1788040040.3687088
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788040327.1837766
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9789,
-    "total_planned": 29,
+    "total_completed": 9790,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
