@@ -47407,14 +47407,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1202",
       "timestamp": 1787971984.04052
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787972297.4781356
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9496,
-    "total_planned": 38,
+    "total_completed": 9497,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
