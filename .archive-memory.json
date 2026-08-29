@@ -48392,14 +48392,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1362",
       "timestamp": 1788018104.412831
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 957",
-      "variation": true
-    },
+      "timestamp": 1788018388.1041968
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9693,
-    "total_planned": 54,
+    "total_completed": 9694,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
