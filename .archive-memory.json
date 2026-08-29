@@ -48682,14 +48682,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1235",
       "timestamp": 1788031457.9690163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 964",
-      "variation": true
-    },
+      "timestamp": 1788031720.6457634
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9751,
-    "total_planned": 67,
+    "total_completed": 9752,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
