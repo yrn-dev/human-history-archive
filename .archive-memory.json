@@ -47507,14 +47507,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1201",
       "timestamp": 1787976566.6486728
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787976761.88623
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9516,
-    "total_planned": 18,
+    "total_completed": 9517,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
