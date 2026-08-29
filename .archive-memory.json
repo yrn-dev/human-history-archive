@@ -48687,14 +48687,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 964",
       "timestamp": 1788031720.6457634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788031934.728002
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9752,
-    "total_planned": 66,
+    "total_completed": 9753,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
