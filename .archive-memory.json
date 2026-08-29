@@ -47467,14 +47467,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1201",
       "timestamp": 1787974930.2341926
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787975077.2516155
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1202",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9508,
-    "total_planned": 26,
+    "total_completed": 9509,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
