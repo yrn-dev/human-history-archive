@@ -48942,14 +48942,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1238",
       "timestamp": 1788043195.2952073
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 964",
-      "variation": true
-    },
+      "timestamp": 1788043451.9738698
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1372",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9803,
-    "total_planned": 15,
+    "total_completed": 9804,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
