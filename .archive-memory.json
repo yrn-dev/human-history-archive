@@ -48692,14 +48692,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1235",
       "timestamp": 1788031934.728002
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788032163.528233
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9753,
-    "total_planned": 65,
+    "total_completed": 9754,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
