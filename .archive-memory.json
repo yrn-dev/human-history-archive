@@ -48542,14 +48542,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1229",
       "timestamp": 1788025110.6022766
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 957",
-      "variation": true
-    },
+      "timestamp": 1788025330.7046318
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9723,
-    "total_planned": 24,
+    "total_completed": 9724,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
