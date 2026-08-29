@@ -48677,14 +48677,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1235",
       "timestamp": 1788031279.4580646
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788031457.9690163
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 964",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9750,
-    "total_planned": 68,
+    "total_completed": 9751,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
