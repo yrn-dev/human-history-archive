@@ -47412,14 +47412,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1199",
       "timestamp": 1787972297.4781356
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787972452.3799624
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9497,
-    "total_planned": 37,
+    "total_completed": 9498,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
