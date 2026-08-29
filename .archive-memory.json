@@ -48987,14 +48987,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1238",
       "timestamp": 1788045487.7177253
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788045718.9712207
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9812,
-    "total_planned": 6,
+    "total_completed": 9813,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
