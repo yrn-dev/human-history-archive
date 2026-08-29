@@ -48817,14 +48817,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1237",
       "timestamp": 1788037564.5387268
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788037835.7342849
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1372",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9778,
-    "total_planned": 40,
+    "total_completed": 9779,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
