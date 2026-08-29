@@ -48647,14 +48647,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1228",
       "timestamp": 1788030083.5050132
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788030335.8037593
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1362",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9744,
-    "total_planned": 3,
+    "total_completed": 9745,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
