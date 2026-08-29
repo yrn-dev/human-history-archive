@@ -48362,14 +48362,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1362",
       "timestamp": 1788016453.879277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788016732.5270607
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9687,
-    "total_planned": 60,
+    "total_completed": 9688,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
