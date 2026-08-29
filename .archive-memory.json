@@ -47487,14 +47487,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 936",
       "timestamp": 1787975682.7287312
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787975829.9349868
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1202",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9512,
-    "total_planned": 22,
+    "total_completed": 9513,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
