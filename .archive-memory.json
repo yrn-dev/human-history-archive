@@ -47922,14 +47922,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1210",
       "timestamp": 1787996346.773556
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1342",
-      "variation": true
-    },
+      "timestamp": 1787996638.9654834
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9599,
-    "total_planned": 6,
+    "total_completed": 9600,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
