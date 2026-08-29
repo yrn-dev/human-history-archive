@@ -48482,14 +48482,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1226",
       "timestamp": 1788022484.4902124
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788022717.246845
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 957",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9711,
-    "total_planned": 36,
+    "total_completed": 9712,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
