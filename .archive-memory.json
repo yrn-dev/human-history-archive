@@ -47712,14 +47712,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1210",
       "timestamp": 1787986295.4027858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787986446.2316372
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9557,
-    "total_planned": 48,
+    "total_completed": 9558,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
