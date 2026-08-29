@@ -47872,14 +47872,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1210",
       "timestamp": 1787993857.8168411
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1342",
-      "variation": true
-    },
+      "timestamp": 1787994153.8182683
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1342",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9589,
-    "total_planned": 16,
+    "total_completed": 9590,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
