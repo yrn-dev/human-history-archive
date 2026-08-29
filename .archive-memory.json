@@ -48177,14 +48177,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1217",
       "timestamp": 1788007854.3165116
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788008164.1662915
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1352",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9650,
-    "total_planned": 26,
+    "total_completed": 9651,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
