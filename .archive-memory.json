@@ -48042,14 +48042,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1219",
       "timestamp": 1788001913.7225053
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788002179.7535188
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9623,
-    "total_planned": 53,
+    "total_completed": 9624,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
