@@ -48727,14 +48727,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1235",
       "timestamp": 1788033520.6392677
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1372",
-      "variation": true
-    },
+      "timestamp": 1788033776.278544
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9760,
-    "total_planned": 58,
+    "total_completed": 9761,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
