@@ -48772,14 +48772,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1237",
       "timestamp": 1788035620.1699016
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788035885.251394
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9769,
-    "total_planned": 49,
+    "total_completed": 9770,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
