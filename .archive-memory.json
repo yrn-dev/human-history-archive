@@ -48572,14 +48572,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1228",
       "timestamp": 1788026564.2914839
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788026809.2747042
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9729,
-    "total_planned": 18,
+    "total_completed": 9730,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
