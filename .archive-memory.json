@@ -47302,14 +47302,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1332",
       "timestamp": 1787967603.414909
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787967775.6599462
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9475,
-    "total_planned": 59,
+    "total_completed": 9476,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
