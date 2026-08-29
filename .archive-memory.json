@@ -48282,14 +48282,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1217",
       "timestamp": 1788012644.9406831
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788012836.194898
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1220",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9671,
-    "total_planned": 5,
+    "total_completed": 9672,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
