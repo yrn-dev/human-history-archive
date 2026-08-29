@@ -48932,14 +48932,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1237",
       "timestamp": 1788042690.6058211
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 964",
-      "variation": true
-    },
+      "timestamp": 1788042891.8274775
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1238",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9801,
-    "total_planned": 17,
+    "total_completed": 9802,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
