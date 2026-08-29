@@ -48717,14 +48717,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1372",
       "timestamp": 1788033004.5149777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788033231.1045313
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9758,
-    "total_planned": 60,
+    "total_completed": 9759,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
