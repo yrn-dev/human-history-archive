@@ -48547,14 +48547,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 957",
       "timestamp": 1788025330.7046318
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788025578.0858388
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9724,
-    "total_planned": 23,
+    "total_completed": 9725,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
