@@ -48672,14 +48672,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1237",
       "timestamp": 1788031071.6947753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788031279.4580646
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9749,
-    "total_planned": 69,
+    "total_completed": 9750,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
