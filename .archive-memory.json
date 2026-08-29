@@ -48762,14 +48762,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1235",
       "timestamp": 1788035131.8662796
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1238",
-      "variation": true
-    },
+      "timestamp": 1788035402.8347971
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9767,
-    "total_planned": 51,
+    "total_completed": 9768,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
