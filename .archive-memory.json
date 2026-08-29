@@ -48412,14 +48412,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 957",
       "timestamp": 1788019147.364071
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1229",
-      "variation": true
-    },
+      "timestamp": 1788019327.576926
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9697,
-    "total_planned": 50,
+    "total_completed": 9698,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
