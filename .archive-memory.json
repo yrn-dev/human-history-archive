@@ -47842,14 +47842,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1210",
       "timestamp": 1787992572.8324552
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787992768.4045393
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1342",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9583,
-    "total_planned": 22,
+    "total_completed": 9584,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
