@@ -48832,14 +48832,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1238",
       "timestamp": 1788038145.9264662
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788038369.2511036
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9781,
-    "total_planned": 37,
+    "total_completed": 9782,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
