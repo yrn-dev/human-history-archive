@@ -47677,14 +47677,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1342",
       "timestamp": 1787984474.844876
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 943",
-      "variation": true
-    },
+      "timestamp": 1787984765.3472679
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 943",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9550,
-    "total_planned": 55,
+    "total_completed": 9551,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
