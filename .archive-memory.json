@@ -48052,14 +48052,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1217",
       "timestamp": 1788002375.5004537
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788002654.1818
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9625,
-    "total_planned": 51,
+    "total_completed": 9626,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
