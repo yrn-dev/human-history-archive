@@ -48587,14 +48587,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1226",
       "timestamp": 1788027259.4072728
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788027546.5667403
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1229",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9732,
-    "total_planned": 15,
+    "total_completed": 9733,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
