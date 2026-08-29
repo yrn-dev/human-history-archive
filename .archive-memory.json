@@ -48382,14 +48382,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1226",
       "timestamp": 1788017554.7719586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788017802.451782
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1362",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9691,
-    "total_planned": 56,
+    "total_completed": 9692,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
