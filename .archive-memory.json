@@ -47847,14 +47847,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1210",
       "timestamp": 1787992768.4045393
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1342",
-      "variation": true
-    },
+      "timestamp": 1787992913.5497327
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9584,
-    "total_planned": 21,
+    "total_completed": 9585,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
