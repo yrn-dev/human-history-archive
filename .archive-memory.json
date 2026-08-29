@@ -47722,14 +47722,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1208",
       "timestamp": 1787986677.5040395
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787986830.7560043
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9559,
-    "total_planned": 46,
+    "total_completed": 9560,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
