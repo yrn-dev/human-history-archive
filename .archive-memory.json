@@ -48287,14 +48287,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1219",
       "timestamp": 1788012836.194898
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1220",
-      "variation": true
-    },
+      "timestamp": 1788012990.375933
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9672,
-    "total_planned": 4,
+    "total_completed": 9673,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
