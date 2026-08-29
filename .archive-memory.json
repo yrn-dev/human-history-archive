@@ -47857,14 +47857,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1208",
       "timestamp": 1787993114.4308956
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1211",
-      "variation": true
-    },
+      "timestamp": 1787993401.9982622
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9586,
-    "total_planned": 19,
+    "total_completed": 9587,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
