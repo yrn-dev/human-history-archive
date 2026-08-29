@@ -47707,14 +47707,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 943",
       "timestamp": 1787986153.0580072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787986295.4027858
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9556,
-    "total_planned": 49,
+    "total_completed": 9557,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
