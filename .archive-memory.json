@@ -47347,14 +47347,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1332",
       "timestamp": 1787969426.3339436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787969633.4874735
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9484,
-    "total_planned": 50,
+    "total_completed": 9485,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
