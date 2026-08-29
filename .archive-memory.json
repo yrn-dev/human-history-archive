@@ -48257,14 +48257,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1219",
       "timestamp": 1788011652.217619
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788011867.8215234
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1352",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9666,
-    "total_planned": 10,
+    "total_completed": 9667,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
