@@ -48322,14 +48322,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1229",
       "timestamp": 1788014192.6283138
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788014503.3317838
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9679,
-    "total_planned": 68,
+    "total_completed": 9680,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
