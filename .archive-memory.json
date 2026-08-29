@@ -47642,14 +47642,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1208",
       "timestamp": 1787982971.96118
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787983123.3018894
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9543,
-    "total_planned": 62,
+    "total_completed": 9544,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
