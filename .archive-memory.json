@@ -48952,14 +48952,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1372",
       "timestamp": 1788043646.139521
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1372",
-      "variation": true
-    },
+      "timestamp": 1788043923.7962084
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9805,
-    "total_planned": 13,
+    "total_completed": 9806,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
