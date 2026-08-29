@@ -48302,18 +48302,17 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1219",
       "timestamp": 1788013391.0571842
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1219",
-      "variation": true
+      "timestamp": 1788013569.72919
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9675,
-    "total_planned": 1,
+    "total_completed": 9676,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
