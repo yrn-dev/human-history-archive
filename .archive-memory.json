@@ -47807,14 +47807,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1211",
       "timestamp": 1787990745.3145375
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787990961.1919875
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9576,
-    "total_planned": 29,
+    "total_completed": 9577,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
