@@ -47972,14 +47972,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 950",
       "timestamp": 1787998826.0253363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1787999112.674273
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1352",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9609,
-    "total_planned": 67,
+    "total_completed": 9610,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
