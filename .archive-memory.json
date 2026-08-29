@@ -47367,14 +47367,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1201",
       "timestamp": 1787970302.1199682
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787970476.6654112
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9488,
-    "total_planned": 46,
+    "total_completed": 9489,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
