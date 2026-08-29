@@ -48532,14 +48532,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1228",
       "timestamp": 1788024649.4205594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788024851.6522048
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1229",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9721,
-    "total_planned": 26,
+    "total_completed": 9722,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
