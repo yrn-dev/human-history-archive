@@ -48592,14 +48592,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1228",
       "timestamp": 1788027546.5667403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1229",
-      "variation": true
-    },
+      "timestamp": 1788027731.8803163
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9733,
-    "total_planned": 14,
+    "total_completed": 9734,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
