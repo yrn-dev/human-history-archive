@@ -47557,14 +47557,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1202",
       "timestamp": 1787979135.041903
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 936",
-      "variation": true
-    },
+      "timestamp": 1787979406.3672342
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1202",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9526,
-    "total_planned": 8,
+    "total_completed": 9527,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
