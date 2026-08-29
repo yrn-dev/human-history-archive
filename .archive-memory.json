@@ -48467,14 +48467,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1228",
       "timestamp": 1788021982.2445407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788022146.2968326
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9708,
-    "total_planned": 39,
+    "total_completed": 9709,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
