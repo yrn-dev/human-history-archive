@@ -48972,14 +48972,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1237",
       "timestamp": 1788044652.8398015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788044960.1675305
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1238",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9809,
-    "total_planned": 9,
+    "total_completed": 9810,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
