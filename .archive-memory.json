@@ -47237,18 +47237,17 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1190",
       "timestamp": 1787964634.510182
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1190",
-      "variation": true
+      "timestamp": 1787964896.1385853
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9462,
-    "total_planned": 1,
+    "total_completed": 9463,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
