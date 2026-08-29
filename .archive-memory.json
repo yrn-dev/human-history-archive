@@ -47782,14 +47782,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1210",
       "timestamp": 1787989326.7772815
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 943",
-      "variation": true
-    },
+      "timestamp": 1787989610.0935771
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9571,
-    "total_planned": 34,
+    "total_completed": 9572,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
