@@ -47837,14 +47837,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1211",
       "timestamp": 1787992272.2254114
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787992572.8324552
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9582,
-    "total_planned": 23,
+    "total_completed": 9583,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
