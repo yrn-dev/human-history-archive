@@ -48227,14 +48227,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1219",
       "timestamp": 1788010241.7557266
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 950",
-      "variation": true
-    },
+      "timestamp": 1788010453.1252534
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9660,
-    "total_planned": 16,
+    "total_completed": 9661,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
