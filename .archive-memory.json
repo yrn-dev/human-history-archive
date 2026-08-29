@@ -47422,14 +47422,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1201",
       "timestamp": 1787972744.8361232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787973060.6923945
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9499,
-    "total_planned": 35,
+    "total_completed": 9500,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
