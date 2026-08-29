@@ -47657,14 +47657,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 943",
       "timestamp": 1787983425.303458
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787983678.627545
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1211",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9546,
-    "total_planned": 59,
+    "total_completed": 9547,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
