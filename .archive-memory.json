@@ -47882,14 +47882,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1342",
       "timestamp": 1787994383.8231273
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787994670.136878
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9591,
-    "total_planned": 14,
+    "total_completed": 9592,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
