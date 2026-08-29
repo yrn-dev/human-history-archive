@@ -48517,14 +48517,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1226",
       "timestamp": 1788023983.3212001
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 957",
-      "variation": true
-    },
+      "timestamp": 1788024296.657463
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1362",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9718,
-    "total_planned": 29,
+    "total_completed": 9719,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
