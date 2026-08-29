@@ -48812,14 +48812,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1237",
       "timestamp": 1788037316.4697676
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788037564.5387268
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9777,
-    "total_planned": 41,
+    "total_completed": 9778,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
