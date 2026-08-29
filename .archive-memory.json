@@ -47592,18 +47592,17 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1201",
       "timestamp": 1787980592.2238948
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1332",
-      "variation": true
+      "timestamp": 1787980869.5673811
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9533,
-    "total_planned": 1,
+    "total_completed": 9534,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
