@@ -47797,14 +47797,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1210",
       "timestamp": 1787990195.1718235
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1211",
-      "variation": true
-    },
+      "timestamp": 1787990501.4711604
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1211",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9574,
-    "total_planned": 31,
+    "total_completed": 9575,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
