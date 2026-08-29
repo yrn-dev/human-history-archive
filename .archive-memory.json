@@ -48962,14 +48962,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1235",
       "timestamp": 1788044099.691381
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1372",
-      "variation": true
-    },
+      "timestamp": 1788044363.6214101
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9807,
-    "total_planned": 11,
+    "total_completed": 9808,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
