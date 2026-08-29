@@ -48027,14 +48027,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1219",
       "timestamp": 1788001235.127043
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1352",
-      "variation": true
-    },
+      "timestamp": 1788001538.013583
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9620,
-    "total_planned": 56,
+    "total_completed": 9621,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
