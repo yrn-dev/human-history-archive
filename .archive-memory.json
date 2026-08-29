@@ -47267,14 +47267,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1199",
       "timestamp": 1787966043.4532478
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787966293.3540113
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9468,
-    "total_planned": 66,
+    "total_completed": 9469,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
