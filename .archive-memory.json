@@ -48142,14 +48142,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1217",
       "timestamp": 1788006286.043689
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788006456.2067537
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9643,
-    "total_planned": 33,
+    "total_completed": 9644,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
