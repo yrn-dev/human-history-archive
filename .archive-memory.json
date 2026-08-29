@@ -48087,14 +48087,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1352",
       "timestamp": 1788003906.7502086
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788004120.6324172
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1352",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9632,
-    "total_planned": 44,
+    "total_completed": 9633,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
