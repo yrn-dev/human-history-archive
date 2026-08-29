@@ -48597,14 +48597,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1229",
       "timestamp": 1788027731.8803163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788027927.2969663
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1362",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9734,
-    "total_planned": 13,
+    "total_completed": 9735,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
