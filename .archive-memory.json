@@ -47787,14 +47787,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 943",
       "timestamp": 1787989610.0935771
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787989926.6069374
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9572,
-    "total_planned": 33,
+    "total_completed": 9573,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
