@@ -49007,14 +49007,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1372",
       "timestamp": 1788046504.0286882
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 964",
-      "variation": true
-    },
+      "timestamp": 1788046734.4029174
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9816,
-    "total_planned": 2,
+    "total_completed": 9817,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
