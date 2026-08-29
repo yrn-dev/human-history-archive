@@ -48882,14 +48882,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1237",
       "timestamp": 1788040533.6842752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1235",
-      "variation": true
-    },
+      "timestamp": 1788040772.505594
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9791,
-    "total_planned": 27,
+    "total_completed": 9792,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
