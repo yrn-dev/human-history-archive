@@ -47752,14 +47752,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1208",
       "timestamp": 1787988199.5856173
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787988337.2277713
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1342",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9565,
-    "total_planned": 40,
+    "total_completed": 9566,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
