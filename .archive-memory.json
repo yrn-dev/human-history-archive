@@ -47902,14 +47902,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1210",
       "timestamp": 1787995413.9696696
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 943",
-      "variation": true
-    },
+      "timestamp": 1787995609.629937
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9595,
-    "total_planned": 10,
+    "total_completed": 9596,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
