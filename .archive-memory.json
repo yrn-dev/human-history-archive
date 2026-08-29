@@ -48937,14 +48937,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 964",
       "timestamp": 1788042891.8274775
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1238",
-      "variation": true
-    },
+      "timestamp": 1788043195.2952073
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 964",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9802,
-    "total_planned": 16,
+    "total_completed": 9803,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
