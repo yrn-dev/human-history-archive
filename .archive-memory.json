@@ -47777,14 +47777,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1211",
       "timestamp": 1787989133.5793524
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787989326.7772815
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 943",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9570,
-    "total_planned": 35,
+    "total_completed": 9571,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
