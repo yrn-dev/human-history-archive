@@ -48277,14 +48277,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1220",
       "timestamp": 1788012340.2258165
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788012644.9406831
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9670,
-    "total_planned": 6,
+    "total_completed": 9671,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
