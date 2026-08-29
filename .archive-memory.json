@@ -48487,14 +48487,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1228",
       "timestamp": 1788022717.246845
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 957",
-      "variation": true
-    },
+      "timestamp": 1788022940.888701
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9712,
-    "total_planned": 35,
+    "total_completed": 9713,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
