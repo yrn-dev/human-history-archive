@@ -47522,14 +47522,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1201",
       "timestamp": 1787977352.209419
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787977639.2868176
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9519,
-    "total_planned": 15,
+    "total_completed": 9520,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
