@@ -47992,14 +47992,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1219",
       "timestamp": 1787999807.9587991
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1787999953.8925457
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1352",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9613,
-    "total_planned": 63,
+    "total_completed": 9614,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
