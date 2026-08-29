@@ -47932,14 +47932,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1210",
       "timestamp": 1787996935.6248858
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1342",
-      "variation": true
-    },
+      "timestamp": 1787997224.801475
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9601,
-    "total_planned": 4,
+    "total_completed": 9602,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
