@@ -47852,14 +47852,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1342",
       "timestamp": 1787992913.5497327
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787993114.4308956
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1211",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9585,
-    "total_planned": 20,
+    "total_completed": 9586,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
