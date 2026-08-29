@@ -48502,14 +48502,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1229",
       "timestamp": 1788023356.9540324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788023570.738595
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9715,
-    "total_planned": 32,
+    "total_completed": 9716,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
