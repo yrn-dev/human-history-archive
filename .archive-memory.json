@@ -47757,14 +47757,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1210",
       "timestamp": 1787988337.2277713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1342",
-      "variation": true
-    },
+      "timestamp": 1787988474.3525991
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9566,
-    "total_planned": 39,
+    "total_completed": 9567,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
