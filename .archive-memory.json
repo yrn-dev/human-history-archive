@@ -47277,14 +47277,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1199",
       "timestamp": 1787966532.7592738
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787966841.1019332
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9470,
-    "total_planned": 64,
+    "total_completed": 9471,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
