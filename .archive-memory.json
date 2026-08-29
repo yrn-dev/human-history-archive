@@ -47497,14 +47497,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1202",
       "timestamp": 1787976041.740371
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1332",
-      "variation": true
-    },
+      "timestamp": 1787976281.7557712
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9514,
-    "total_planned": 20,
+    "total_completed": 9515,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
