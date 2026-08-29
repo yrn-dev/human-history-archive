@@ -48507,14 +48507,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1226",
       "timestamp": 1788023570.738595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788023729.219453
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9716,
-    "total_planned": 31,
+    "total_completed": 9717,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
