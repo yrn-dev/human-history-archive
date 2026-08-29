@@ -48217,14 +48217,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1217",
       "timestamp": 1788009849.1105723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788010104.7545376
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9658,
-    "total_planned": 18,
+    "total_completed": 9659,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
