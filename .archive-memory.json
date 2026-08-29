@@ -47697,14 +47697,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1342",
       "timestamp": 1787985608.4644666
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787985882.278261
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 943",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9554,
-    "total_planned": 51,
+    "total_completed": 9555,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
