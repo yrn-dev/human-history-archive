@@ -47717,14 +47717,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1208",
       "timestamp": 1787986446.2316372
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787986677.5040395
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9558,
-    "total_planned": 47,
+    "total_completed": 9559,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
