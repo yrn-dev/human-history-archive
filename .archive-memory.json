@@ -48247,14 +48247,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1217",
       "timestamp": 1788011185.847717
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 950",
-      "variation": true
-    },
+      "timestamp": 1788011382.8204007
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9664,
-    "total_planned": 12,
+    "total_completed": 9665,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
