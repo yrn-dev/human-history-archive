@@ -48242,14 +48242,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1352",
       "timestamp": 1788011032.6826553
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788011185.847717
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 950",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9663,
-    "total_planned": 13,
+    "total_completed": 9664,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
