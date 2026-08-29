@@ -47582,14 +47582,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 936",
       "timestamp": 1787980237.1524792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787980444.2954302
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9531,
-    "total_planned": 3,
+    "total_completed": 9532,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
