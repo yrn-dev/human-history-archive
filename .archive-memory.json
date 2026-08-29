@@ -48822,14 +48822,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1235",
       "timestamp": 1788037835.7342849
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1372",
-      "variation": true
-    },
+      "timestamp": 1788037995.1342652
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1238",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9779,
-    "total_planned": 39,
+    "total_completed": 9780,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
