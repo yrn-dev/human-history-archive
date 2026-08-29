@@ -48457,14 +48457,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1228",
       "timestamp": 1788021572.3434749
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 957",
-      "variation": true
-    },
+      "timestamp": 1788021710.0132122
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9706,
-    "total_planned": 41,
+    "total_completed": 9707,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
