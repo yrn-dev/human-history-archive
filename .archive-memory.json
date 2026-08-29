@@ -47387,14 +47387,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1201",
       "timestamp": 1787971152.28157
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787971305.4362361
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9492,
-    "total_planned": 42,
+    "total_completed": 9493,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
