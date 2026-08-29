@@ -48912,14 +48912,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1237",
       "timestamp": 1788041844.384179
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1238",
-      "variation": true
-    },
+      "timestamp": 1788042085.1714501
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9797,
-    "total_planned": 21,
+    "total_completed": 9798,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
