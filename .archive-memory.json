@@ -48267,14 +48267,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1352",
       "timestamp": 1788012008.9698486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788012197.398724
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1220",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9668,
-    "total_planned": 8,
+    "total_completed": 9669,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
