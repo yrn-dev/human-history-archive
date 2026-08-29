@@ -48387,14 +48387,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1228",
       "timestamp": 1788017802.451782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1362",
-      "variation": true
-    },
+      "timestamp": 1788018104.412831
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 957",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9692,
-    "total_planned": 55,
+    "total_completed": 9693,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
