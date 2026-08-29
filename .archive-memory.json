@@ -48022,14 +48022,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1217",
       "timestamp": 1788001023.6021173
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788001235.127043
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1352",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9619,
-    "total_planned": 57,
+    "total_completed": 9620,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
