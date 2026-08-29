@@ -47667,14 +47667,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1211",
       "timestamp": 1787983971.3551974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787984289.5520303
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1342",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9548,
-    "total_planned": 57,
+    "total_completed": 9549,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
