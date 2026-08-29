@@ -47897,14 +47897,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1210",
       "timestamp": 1787995250.4308162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787995413.9696696
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 943",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9594,
-    "total_planned": 11,
+    "total_completed": 9595,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
