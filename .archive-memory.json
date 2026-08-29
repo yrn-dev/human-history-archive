@@ -48012,14 +48012,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1217",
       "timestamp": 1788000637.046043
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788000824.6444576
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9617,
-    "total_planned": 59,
+    "total_completed": 9618,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
