@@ -47447,14 +47447,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1201",
       "timestamp": 1787973971.1831484
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787974271.2437773
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 936",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9504,
-    "total_planned": 30,
+    "total_completed": 9505,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
