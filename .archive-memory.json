@@ -48297,14 +48297,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1219",
       "timestamp": 1788013213.4043162
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788013391.0571842
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9674,
-    "total_planned": 2,
+    "total_completed": 9675,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
