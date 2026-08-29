@@ -47542,14 +47542,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1332",
       "timestamp": 1787978319.7263844
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1202",
-      "variation": true
-    },
+      "timestamp": 1787978552.558179
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1199",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9523,
-    "total_planned": 11,
+    "total_completed": 9524,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
