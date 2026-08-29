@@ -48017,14 +48017,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1219",
       "timestamp": 1788000824.6444576
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788001023.6021173
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1219",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9618,
-    "total_planned": 58,
+    "total_completed": 9619,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
