@@ -48132,14 +48132,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 950",
       "timestamp": 1788005779.5875406
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1352",
-      "variation": true
-    },
+      "timestamp": 1788006045.3639004
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9641,
-    "total_planned": 35,
+    "total_completed": 9642,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
