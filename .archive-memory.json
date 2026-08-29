@@ -48582,14 +48582,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1228",
       "timestamp": 1788027084.064209
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788027259.4072728
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9731,
-    "total_planned": 16,
+    "total_completed": 9732,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
