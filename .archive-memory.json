@@ -47512,14 +47512,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1202",
       "timestamp": 1787976761.88623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787977038.2218654
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9517,
-    "total_planned": 17,
+    "total_completed": 9518,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
