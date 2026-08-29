@@ -47957,14 +47957,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1220",
       "timestamp": 1787998092.6070392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1787998361.320599
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 950",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9606,
-    "total_planned": 70,
+    "total_completed": 9607,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
