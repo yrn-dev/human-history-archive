@@ -47822,14 +47822,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1208",
       "timestamp": 1787991519.1953511
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787991708.8519464
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9579,
-    "total_planned": 26,
+    "total_completed": 9580,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
