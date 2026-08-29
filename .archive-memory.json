@@ -48887,14 +48887,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1235",
       "timestamp": 1788040772.505594
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788041063.956556
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9792,
-    "total_planned": 26,
+    "total_completed": 9793,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
