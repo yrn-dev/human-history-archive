@@ -47737,14 +47737,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1208",
       "timestamp": 1787987360.1854937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787987656.1095476
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1210",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9562,
-    "total_planned": 43,
+    "total_completed": 9563,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
