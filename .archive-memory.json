@@ -48632,14 +48632,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1228",
       "timestamp": 1788029372.2155936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788029601.2515697
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9741,
-    "total_planned": 6,
+    "total_completed": 9742,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
