@@ -48372,14 +48372,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1226",
       "timestamp": 1788017033.318531
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788017323.5941281
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1226",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9689,
-    "total_planned": 58,
+    "total_completed": 9690,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
