@@ -47502,14 +47502,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1332",
       "timestamp": 1787976281.7557712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787976566.6486728
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1202",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9515,
-    "total_planned": 19,
+    "total_completed": 9516,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
