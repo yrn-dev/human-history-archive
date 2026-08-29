@@ -48137,14 +48137,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1352",
       "timestamp": 1788006045.3639004
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1217",
-      "variation": true
-    },
+      "timestamp": 1788006286.043689
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9642,
-    "total_planned": 34,
+    "total_completed": 9643,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
