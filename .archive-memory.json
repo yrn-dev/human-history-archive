@@ -48742,14 +48742,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1372",
       "timestamp": 1788034087.6575751
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 964",
-      "variation": true
-    },
+      "timestamp": 1788034397.0491555
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9763,
-    "total_planned": 55,
+    "total_completed": 9764,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
