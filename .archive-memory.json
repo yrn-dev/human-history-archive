@@ -47632,14 +47632,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1210",
       "timestamp": 1787982504.9051964
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1208",
-      "variation": true
-    },
+      "timestamp": 1787982756.9877625
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9541,
-    "total_planned": 64,
+    "total_completed": 9542,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
