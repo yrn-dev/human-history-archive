@@ -48057,14 +48057,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1219",
       "timestamp": 1788002654.1818
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788002811.0722713
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9626,
-    "total_planned": 50,
+    "total_completed": 9627,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
