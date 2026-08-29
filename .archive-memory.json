@@ -48767,14 +48767,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1238",
       "timestamp": 1788035402.8347971
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1237",
-      "variation": true
-    },
+      "timestamp": 1788035620.1699016
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1235",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9768,
-    "total_planned": 50,
+    "total_completed": 9769,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
