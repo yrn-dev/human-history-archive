@@ -48612,14 +48612,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1229",
       "timestamp": 1788028345.2339642
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1362",
-      "variation": true
-    },
+      "timestamp": 1788028651.6674867
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9737,
-    "total_planned": 10,
+    "total_completed": 9738,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
