@@ -48737,14 +48737,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1237",
       "timestamp": 1788033953.842451
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1372",
-      "variation": true
-    },
+      "timestamp": 1788034087.6575751
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 964",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9762,
-    "total_planned": 56,
+    "total_completed": 9763,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
