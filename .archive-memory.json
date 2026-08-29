@@ -48902,14 +48902,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1237",
       "timestamp": 1788041385.1495075
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1238",
-      "variation": true
-    },
+      "timestamp": 1788041649.6785614
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1237",
@@ -49022,8 +49022,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9795,
-    "total_planned": 23,
+    "total_completed": 9796,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
