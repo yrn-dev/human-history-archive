@@ -48652,14 +48652,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1228",
       "timestamp": 1788030335.8037593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1362",
-      "variation": true
-    },
+      "timestamp": 1788030551.7609022
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9745,
-    "total_planned": 2,
+    "total_completed": 9746,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
