@@ -48642,14 +48642,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1226",
       "timestamp": 1788029902.3758159
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1228",
-      "variation": true
-    },
+      "timestamp": 1788030083.5050132
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9743,
-    "total_planned": 4,
+    "total_completed": 9744,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
