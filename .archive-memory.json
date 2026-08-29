@@ -48477,14 +48477,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1228",
       "timestamp": 1788022288.3981433
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1226",
-      "variation": true
-    },
+      "timestamp": 1788022484.4902124
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1228",
@@ -48667,8 +48667,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9710,
-    "total_planned": 37,
+    "total_completed": 9711,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
