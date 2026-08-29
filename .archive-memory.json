@@ -47357,14 +47357,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1201",
       "timestamp": 1787969873.7931707
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1332",
-      "variation": true
-    },
+      "timestamp": 1787970162.515499
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9486,
-    "total_planned": 48,
+    "total_completed": 9487,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
