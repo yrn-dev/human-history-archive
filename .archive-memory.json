@@ -47182,14 +47182,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1193",
       "timestamp": 1787962217.5753744
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787962486.0348163
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1190",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9451,
-    "total_planned": 12,
+    "total_completed": 9452,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
