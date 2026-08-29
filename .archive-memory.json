@@ -48037,14 +48037,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1217",
       "timestamp": 1788001775.8132927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1219",
-      "variation": true
-    },
+      "timestamp": 1788001913.7225053
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1217",
@@ -48312,8 +48312,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9622,
-    "total_planned": 54,
+    "total_completed": 9623,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
