@@ -47662,14 +47662,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1210",
       "timestamp": 1787983678.627545
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1211",
-      "variation": true
-    },
+      "timestamp": 1787983971.3551974
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1208",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9547,
-    "total_planned": 58,
+    "total_completed": 9548,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
