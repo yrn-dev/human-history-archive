@@ -47602,14 +47602,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1210",
       "timestamp": 1787981099.680918
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787981335.498871
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1211",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9535,
-    "total_planned": 70,
+    "total_completed": 9536,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
