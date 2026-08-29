@@ -47927,14 +47927,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1342",
       "timestamp": 1787996638.9654834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1210",
-      "variation": true
-    },
+      "timestamp": 1787996935.6248858
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1342",
@@ -47957,8 +47957,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9600,
-    "total_planned": 5,
+    "total_completed": 9601,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
