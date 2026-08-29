@@ -49012,18 +49012,17 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 964",
       "timestamp": 1788046734.4029174
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1237",
-      "variation": true
+      "timestamp": 1788046955.310342
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9817,
-    "total_planned": 1,
+    "total_completed": 9818,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
