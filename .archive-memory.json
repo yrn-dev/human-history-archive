@@ -47392,14 +47392,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1199",
       "timestamp": 1787971305.4362361
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1199",
-      "variation": true
-    },
+      "timestamp": 1787971577.0292504
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 936",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9493,
-    "total_planned": 41,
+    "total_completed": 9494,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
