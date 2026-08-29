@@ -47527,14 +47527,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1199",
       "timestamp": 1787977639.2868176
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1201",
-      "variation": true
-    },
+      "timestamp": 1787977912.0367043
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1201",
@@ -47602,8 +47602,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9520,
-    "total_planned": 14,
+    "total_completed": 9521,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
