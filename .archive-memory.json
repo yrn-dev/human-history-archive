@@ -47217,14 +47217,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1192",
       "timestamp": 1787963815.1046743
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1192",
-      "variation": true
-    },
+      "timestamp": 1787964053.1206365
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1192",
@@ -47247,8 +47247,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9458,
-    "total_planned": 5,
+    "total_completed": 9459,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
