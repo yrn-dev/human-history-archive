@@ -50547,14 +50547,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1280",
       "timestamp": 1788116539.7510388
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788116706.7144284
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1422",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10124,
-    "total_planned": 49,
+    "total_completed": 10125,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
