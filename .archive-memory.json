@@ -49427,14 +49427,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1256",
       "timestamp": 1788065292.8411362
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788065577.7858078
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9900,
-    "total_planned": 60,
+    "total_completed": 9901,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
