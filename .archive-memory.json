@@ -49932,14 +49932,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1264",
       "timestamp": 1788088569.8977072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788088728.1306324
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10001,
-    "total_planned": 30,
+    "total_completed": 10002,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
