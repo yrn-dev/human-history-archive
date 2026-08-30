@@ -50902,14 +50902,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1289",
       "timestamp": 1788131989.4483635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788132147.1599488
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10195,
-    "total_planned": 49,
+    "total_completed": 10196,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
