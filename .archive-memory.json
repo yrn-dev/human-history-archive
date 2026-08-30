@@ -50427,14 +50427,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1271",
       "timestamp": 1788110882.3034832
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1412",
-      "variation": true
-    },
+      "timestamp": 1788111162.6879063
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10100,
-    "total_planned": 2,
+    "total_completed": 10101,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
