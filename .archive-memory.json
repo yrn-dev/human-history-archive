@@ -49147,14 +49147,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 971",
       "timestamp": 1788052784.375488
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788052943.9119658
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9844,
-    "total_planned": 45,
+    "total_completed": 9845,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
