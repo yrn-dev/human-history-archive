@@ -49467,14 +49467,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 978",
       "timestamp": 1788067305.2215168
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788067470.9373546
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9908,
-    "total_planned": 52,
+    "total_completed": 9909,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
