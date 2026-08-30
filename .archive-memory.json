@@ -50507,14 +50507,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1282",
       "timestamp": 1788114604.9676108
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788114855.9591134
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10116,
-    "total_planned": 57,
+    "total_completed": 10117,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
