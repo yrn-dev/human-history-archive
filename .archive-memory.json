@@ -50247,14 +50247,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1412",
       "timestamp": 1788102530.8464758
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788102793.4324322
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1412",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10064,
-    "total_planned": 38,
+    "total_completed": 10065,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
