@@ -50252,14 +50252,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1273",
       "timestamp": 1788102793.4324322
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1412",
-      "variation": true
-    },
+      "timestamp": 1788103078.167955
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1274",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10065,
-    "total_planned": 37,
+    "total_completed": 10066,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
