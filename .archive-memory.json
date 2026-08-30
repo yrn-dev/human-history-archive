@@ -50087,14 +50087,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1271",
       "timestamp": 1788095456.2143586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788095636.399559
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10032,
-    "total_planned": 70,
+    "total_completed": 10033,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
