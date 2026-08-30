@@ -49807,14 +49807,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1262",
       "timestamp": 1788082905.763595
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1788083216.8013802
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9976,
-    "total_planned": 55,
+    "total_completed": 9977,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
