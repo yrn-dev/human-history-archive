@@ -50022,14 +50022,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1402",
       "timestamp": 1788092378.8666382
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788092721.1677163
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1402",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10019,
-    "total_planned": 12,
+    "total_completed": 10020,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
