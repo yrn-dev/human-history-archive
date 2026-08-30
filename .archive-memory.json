@@ -50102,14 +50102,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1273",
       "timestamp": 1788096168.7790468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788096430.945691
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10035,
-    "total_planned": 67,
+    "total_completed": 10036,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
