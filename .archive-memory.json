@@ -50657,14 +50657,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1422",
       "timestamp": 1788121190.284206
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788121381.2669187
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10146,
-    "total_planned": 27,
+    "total_completed": 10147,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
