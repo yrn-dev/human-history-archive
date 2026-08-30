@@ -49142,14 +49142,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1246",
       "timestamp": 1788052644.921849
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 971",
-      "variation": true
-    },
+      "timestamp": 1788052784.375488
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9843,
-    "total_planned": 46,
+    "total_completed": 9844,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
