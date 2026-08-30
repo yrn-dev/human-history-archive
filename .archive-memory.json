@@ -50762,14 +50762,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1283",
       "timestamp": 1788125906.5084066
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1283",
-      "variation": true
-    },
+      "timestamp": 1788126071.6462877
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 999",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10167,
-    "total_planned": 6,
+    "total_completed": 10168,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
