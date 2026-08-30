@@ -50692,14 +50692,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 999",
       "timestamp": 1788122851.5218244
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788123022.4365115
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10153,
-    "total_planned": 20,
+    "total_completed": 10154,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
