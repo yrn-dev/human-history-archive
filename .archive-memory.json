@@ -50862,14 +50862,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1289",
       "timestamp": 1788130270.7874954
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788130454.7323897
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10187,
-    "total_planned": 57,
+    "total_completed": 10188,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
