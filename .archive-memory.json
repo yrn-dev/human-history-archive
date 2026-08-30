@@ -49192,14 +49192,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1244",
       "timestamp": 1788054887.093569
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788055045.7996144
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1382",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9853,
-    "total_planned": 36,
+    "total_completed": 9854,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
