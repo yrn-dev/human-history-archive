@@ -49317,14 +49317,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1246",
       "timestamp": 1788060622.9175584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788060820.3675804
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9878,
-    "total_planned": 11,
+    "total_completed": 9879,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
