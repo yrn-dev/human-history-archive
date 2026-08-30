@@ -49912,14 +49912,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1402",
       "timestamp": 1788087690.4756422
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788087931.4771566
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 985",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9997,
-    "total_planned": 34,
+    "total_completed": 9998,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
