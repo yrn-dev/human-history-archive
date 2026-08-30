@@ -50752,14 +50752,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1280",
       "timestamp": 1788125395.2695606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788125617.0578327
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1283",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10165,
-    "total_planned": 8,
+    "total_completed": 10166,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
