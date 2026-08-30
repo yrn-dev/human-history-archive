@@ -50407,14 +50407,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1273",
       "timestamp": 1788110108.5989878
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788110408.6146898
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 992",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10096,
-    "total_planned": 6,
+    "total_completed": 10097,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
