@@ -49202,14 +49202,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1382",
       "timestamp": 1788055267.2487004
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788055495.5694368
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9855,
-    "total_planned": 34,
+    "total_completed": 9856,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
