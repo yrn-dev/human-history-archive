@@ -49882,14 +49882,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1262",
       "timestamp": 1788086340.5333838
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788086501.436382
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9991,
-    "total_planned": 40,
+    "total_completed": 9992,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
