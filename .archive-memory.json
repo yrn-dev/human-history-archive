@@ -50422,14 +50422,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1273",
       "timestamp": 1788110730.0064707
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788110882.3034832
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1412",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10099,
-    "total_planned": 3,
+    "total_completed": 10100,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
