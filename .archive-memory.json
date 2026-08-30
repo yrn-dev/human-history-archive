@@ -49157,14 +49157,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1244",
       "timestamp": 1788053254.1288993
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788053413.8508892
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1382",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9846,
-    "total_planned": 43,
+    "total_completed": 9847,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
