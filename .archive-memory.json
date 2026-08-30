@@ -50882,14 +50882,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1432",
       "timestamp": 1788131025.5735004
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1432",
-      "variation": true
-    },
+      "timestamp": 1788131249.0112407
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10191,
-    "total_planned": 53,
+    "total_completed": 10192,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
