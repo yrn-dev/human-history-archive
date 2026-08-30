@@ -49722,18 +49722,17 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1392",
       "timestamp": 1788079002.6307414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1392",
-      "variation": true
+      "timestamp": 1788079295.273283
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9959,
-    "total_planned": 1,
+    "total_completed": 9960,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
