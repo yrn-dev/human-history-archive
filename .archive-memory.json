@@ -49702,14 +49702,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1255",
       "timestamp": 1788077980.5807536
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788078155.8078518
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1392",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9955,
-    "total_planned": 5,
+    "total_completed": 9956,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
