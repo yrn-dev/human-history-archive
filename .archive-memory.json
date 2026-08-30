@@ -49557,14 +49557,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1255",
       "timestamp": 1788071393.480256
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788071676.9303753
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1253",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9926,
-    "total_planned": 34,
+    "total_completed": 9927,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
