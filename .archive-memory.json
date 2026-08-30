@@ -49857,14 +49857,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1402",
       "timestamp": 1788085139.169067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1265",
-      "variation": true
-    },
+      "timestamp": 1788085437.5473757
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9986,
-    "total_planned": 45,
+    "total_completed": 9987,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
