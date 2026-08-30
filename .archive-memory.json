@@ -50027,14 +50027,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1264",
       "timestamp": 1788092721.1677163
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1402",
-      "variation": true
-    },
+      "timestamp": 1788092914.4100392
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10020,
-    "total_planned": 11,
+    "total_completed": 10021,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
