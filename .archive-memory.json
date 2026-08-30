@@ -50457,14 +50457,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1282",
       "timestamp": 1788112166.0722992
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788112360.7357957
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10106,
-    "total_planned": 67,
+    "total_completed": 10107,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
