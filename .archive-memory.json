@@ -50542,14 +50542,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1282",
       "timestamp": 1788116254.2744212
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788116539.7510388
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10123,
-    "total_planned": 50,
+    "total_completed": 10124,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
