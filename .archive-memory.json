@@ -49582,14 +49582,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1255",
       "timestamp": 1788072557.02065
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788072826.6590466
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1256",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9931,
-    "total_planned": 29,
+    "total_completed": 9932,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
