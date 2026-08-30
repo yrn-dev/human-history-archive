@@ -49057,14 +49057,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1247",
       "timestamp": 1788048710.9379225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788048954.4086282
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9826,
-    "total_planned": 63,
+    "total_completed": 9827,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
