@@ -50597,14 +50597,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1282",
       "timestamp": 1788118489.5936747
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 999",
-      "variation": true
-    },
+      "timestamp": 1788118681.8594565
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10134,
-    "total_planned": 39,
+    "total_completed": 10135,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
