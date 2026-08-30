@@ -50347,14 +50347,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1271",
       "timestamp": 1788107352.6979241
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788107631.374639
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10084,
-    "total_planned": 18,
+    "total_completed": 10085,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
