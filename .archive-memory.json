@@ -50402,14 +50402,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1274",
       "timestamp": 1788109961.6070259
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788110108.5989878
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10095,
-    "total_planned": 7,
+    "total_completed": 10096,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
