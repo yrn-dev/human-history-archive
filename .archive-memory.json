@@ -50817,14 +50817,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1006",
       "timestamp": 1788128445.438624
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788128616.1387646
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1292",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10178,
-    "total_planned": 66,
+    "total_completed": 10179,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
