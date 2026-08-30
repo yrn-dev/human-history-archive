@@ -50552,14 +50552,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1282",
       "timestamp": 1788116706.7144284
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1422",
-      "variation": true
-    },
+      "timestamp": 1788116857.9105592
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10125,
-    "total_planned": 48,
+    "total_completed": 10126,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
