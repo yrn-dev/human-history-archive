@@ -50357,14 +50357,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1273",
       "timestamp": 1788107828.5476682
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788108140.3173618
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10086,
-    "total_planned": 16,
+    "total_completed": 10087,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
