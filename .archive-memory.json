@@ -50297,14 +50297,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1273",
       "timestamp": 1788104920.4446816
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788105212.3704834
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10074,
-    "total_planned": 28,
+    "total_completed": 10075,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
