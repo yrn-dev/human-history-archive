@@ -50392,14 +50392,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 992",
       "timestamp": 1788109439.6223445
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1412",
-      "variation": true
-    },
+      "timestamp": 1788109759.1614735
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1274",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10093,
-    "total_planned": 9,
+    "total_completed": 10094,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
