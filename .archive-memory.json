@@ -49552,14 +49552,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1255",
       "timestamp": 1788071132.8227873
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788071393.480256
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1253",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9925,
-    "total_planned": 35,
+    "total_completed": 9926,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
