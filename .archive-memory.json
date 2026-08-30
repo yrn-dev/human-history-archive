@@ -49447,14 +49447,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 978",
       "timestamp": 1788066314.7702713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788066542.5832453
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1256",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9904,
-    "total_planned": 56,
+    "total_completed": 9905,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
