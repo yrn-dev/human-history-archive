@@ -50737,14 +50737,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1280",
       "timestamp": 1788124830.4028773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1283",
-      "variation": true
-    },
+      "timestamp": 1788124985.7971187
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10162,
-    "total_planned": 11,
+    "total_completed": 10163,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
