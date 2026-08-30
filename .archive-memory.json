@@ -50727,14 +50727,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1422",
       "timestamp": 1788124481.7676837
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 999",
-      "variation": true
-    },
+      "timestamp": 1788124681.300978
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10160,
-    "total_planned": 13,
+    "total_completed": 10161,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
