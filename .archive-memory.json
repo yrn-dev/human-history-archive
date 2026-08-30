@@ -49562,14 +49562,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1253",
       "timestamp": 1788071676.9303753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788071927.738099
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1392",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9927,
-    "total_planned": 33,
+    "total_completed": 9928,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
