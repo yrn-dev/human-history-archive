@@ -49082,14 +49082,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1382",
       "timestamp": 1788049786.7248151
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788050085.5770705
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 971",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9831,
-    "total_planned": 58,
+    "total_completed": 9832,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
