@@ -49377,14 +49377,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1255",
       "timestamp": 1788063168.1362083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1392",
-      "variation": true
-    },
+      "timestamp": 1788063325.888854
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1253",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9890,
-    "total_planned": 70,
+    "total_completed": 9891,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
