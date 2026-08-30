@@ -50127,14 +50127,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1274",
       "timestamp": 1788097213.8845158
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788097405.2586663
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10040,
-    "total_planned": 62,
+    "total_completed": 10041,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
