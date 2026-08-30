@@ -49577,14 +49577,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1256",
       "timestamp": 1788072288.3461702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788072557.02065
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9930,
-    "total_planned": 30,
+    "total_completed": 9931,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
