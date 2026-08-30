@@ -49257,14 +49257,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1246",
       "timestamp": 1788057850.293989
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 971",
-      "variation": true
-    },
+      "timestamp": 1788058125.4258566
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9866,
-    "total_planned": 23,
+    "total_completed": 9867,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
