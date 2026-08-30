@@ -50012,14 +50012,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1262",
       "timestamp": 1788092013.374049
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1788092239.690188
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1402",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10017,
-    "total_planned": 14,
+    "total_completed": 10018,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
