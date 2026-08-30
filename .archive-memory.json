@@ -49352,14 +49352,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1247",
       "timestamp": 1788062140.045178
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1247",
-      "variation": true
-    },
+      "timestamp": 1788062422.0072
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9885,
-    "total_planned": 4,
+    "total_completed": 9886,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
