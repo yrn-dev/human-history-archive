@@ -50512,14 +50512,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1282",
       "timestamp": 1788114855.9591134
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788115169.1121328
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10117,
-    "total_planned": 56,
+    "total_completed": 10118,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
