@@ -49977,14 +49977,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1402",
       "timestamp": 1788090482.4771626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788090640.1992486
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1265",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10010,
-    "total_planned": 21,
+    "total_completed": 10011,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
