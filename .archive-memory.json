@@ -50932,14 +50932,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1289",
       "timestamp": 1788133332.741883
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1432",
-      "variation": true
-    },
+      "timestamp": 1788133650.7097285
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1432",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10201,
-    "total_planned": 43,
+    "total_completed": 10202,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
