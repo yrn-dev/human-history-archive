@@ -49127,14 +49127,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1246",
       "timestamp": 1788051885.9864254
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788052151.958496
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 971",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9840,
-    "total_planned": 49,
+    "total_completed": 9841,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
