@@ -49657,14 +49657,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1253",
       "timestamp": 1788075880.6006896
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 978",
-      "variation": true
-    },
+      "timestamp": 1788076129.2365015
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1392",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9946,
-    "total_planned": 14,
+    "total_completed": 9947,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
