@@ -50307,14 +50307,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1271",
       "timestamp": 1788105480.7568126
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788105728.2149398
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10076,
-    "total_planned": 26,
+    "total_completed": 10077,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
