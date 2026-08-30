@@ -50722,14 +50722,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1283",
       "timestamp": 1788124265.1247222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1422",
-      "variation": true
-    },
+      "timestamp": 1788124481.7676837
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 999",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10159,
-    "total_planned": 14,
+    "total_completed": 10160,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
