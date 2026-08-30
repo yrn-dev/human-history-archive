@@ -50097,14 +50097,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1271",
       "timestamp": 1788095883.7877805
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788096168.7790468
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10034,
-    "total_planned": 68,
+    "total_completed": 10035,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
