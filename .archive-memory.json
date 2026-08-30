@@ -49052,14 +49052,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1246",
       "timestamp": 1788048472.134581
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1247",
-      "variation": true
-    },
+      "timestamp": 1788048710.9379225
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9825,
-    "total_planned": 64,
+    "total_completed": 9826,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
