@@ -50517,14 +50517,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1282",
       "timestamp": 1788115169.1121328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788115371.6942415
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10118,
-    "total_planned": 55,
+    "total_completed": 10119,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
