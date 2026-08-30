@@ -49077,14 +49077,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1246",
       "timestamp": 1788049562.36712
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1382",
-      "variation": true
-    },
+      "timestamp": 1788049786.7248151
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9830,
-    "total_planned": 59,
+    "total_completed": 9831,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
