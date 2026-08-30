@@ -49102,14 +49102,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1244",
       "timestamp": 1788050768.6784072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788050929.5541768
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9835,
-    "total_planned": 54,
+    "total_completed": 9836,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
