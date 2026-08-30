@@ -49067,14 +49067,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1244",
       "timestamp": 1788049116.4141657
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1247",
-      "variation": true
-    },
+      "timestamp": 1788049345.4808505
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9828,
-    "total_planned": 61,
+    "total_completed": 9829,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
