@@ -50842,14 +50842,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1289",
       "timestamp": 1788129479.942424
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788129755.3845584
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1006",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10183,
-    "total_planned": 61,
+    "total_completed": 10184,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
