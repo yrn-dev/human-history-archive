@@ -49392,14 +49392,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1255",
       "timestamp": 1788063756.0235872
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788063982.954299
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9893,
-    "total_planned": 67,
+    "total_completed": 9894,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
