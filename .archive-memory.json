@@ -50332,14 +50332,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1271",
       "timestamp": 1788106677.7047367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1412",
-      "variation": true
-    },
+      "timestamp": 1788106881.5336764
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10081,
-    "total_planned": 21,
+    "total_completed": 10082,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
