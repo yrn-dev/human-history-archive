@@ -50627,14 +50627,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1282",
       "timestamp": 1788119921.765324
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788120184.2185514
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10140,
-    "total_planned": 33,
+    "total_completed": 10141,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
