@@ -49772,14 +49772,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1264",
       "timestamp": 1788081236.2806392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788081378.5247226
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9969,
-    "total_planned": 62,
+    "total_completed": 9970,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
