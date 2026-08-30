@@ -49162,14 +49162,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1246",
       "timestamp": 1788053413.8508892
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1382",
-      "variation": true
-    },
+      "timestamp": 1788053589.7647069
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9847,
-    "total_planned": 42,
+    "total_completed": 9848,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
