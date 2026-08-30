@@ -49177,14 +49177,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1382",
       "timestamp": 1788054055.109006
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788054292.7088525
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1247",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9850,
-    "total_planned": 39,
+    "total_completed": 9851,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
