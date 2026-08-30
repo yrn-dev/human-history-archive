@@ -50107,14 +50107,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1273",
       "timestamp": 1788096430.945691
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788096606.1252966
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1274",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10036,
-    "total_planned": 66,
+    "total_completed": 10037,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
