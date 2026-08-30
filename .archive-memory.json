@@ -50267,14 +50267,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1412",
       "timestamp": 1788103556.140734
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1412",
-      "variation": true
-    },
+      "timestamp": 1788103801.5803947
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1274",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10068,
-    "total_planned": 34,
+    "total_completed": 10069,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
