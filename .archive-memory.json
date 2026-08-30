@@ -50522,14 +50522,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1280",
       "timestamp": 1788115371.6942415
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788115606.8071995
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1283",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10119,
-    "total_planned": 54,
+    "total_completed": 10120,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
