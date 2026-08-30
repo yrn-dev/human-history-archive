@@ -50192,14 +50192,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1271",
       "timestamp": 1788100141.7081635
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788100430.244555
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10053,
-    "total_planned": 49,
+    "total_completed": 10054,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
