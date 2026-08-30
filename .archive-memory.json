@@ -50852,14 +50852,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1006",
       "timestamp": 1788129977.487744
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788130127.9785507
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10185,
-    "total_planned": 59,
+    "total_completed": 10186,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
