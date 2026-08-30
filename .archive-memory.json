@@ -50702,14 +50702,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1282",
       "timestamp": 1788123294.9740024
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1422",
-      "variation": true
-    },
+      "timestamp": 1788123548.694269
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1422",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10155,
-    "total_planned": 18,
+    "total_completed": 10156,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
