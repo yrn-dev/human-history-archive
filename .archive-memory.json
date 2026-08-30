@@ -49902,14 +49902,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1264",
       "timestamp": 1788087307.349232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788087502.8814728
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1402",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9995,
-    "total_planned": 36,
+    "total_completed": 9996,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
