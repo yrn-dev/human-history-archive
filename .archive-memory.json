@@ -49262,14 +49262,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 971",
       "timestamp": 1788058125.4258566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788058378.7394874
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9867,
-    "total_planned": 22,
+    "total_completed": 9868,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
