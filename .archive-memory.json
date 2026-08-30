@@ -49367,18 +49367,17 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1382",
       "timestamp": 1788062829.1556847
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1382",
-      "variation": true
+      "timestamp": 1788063023.9589014
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 9888,
-    "total_planned": 1,
+    "total_completed": 9889,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
