@@ -49207,14 +49207,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1246",
       "timestamp": 1788055495.5694368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788055655.6316533
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9856,
-    "total_planned": 33,
+    "total_completed": 9857,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
