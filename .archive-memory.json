@@ -50682,14 +50682,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1422",
       "timestamp": 1788122526.2170277
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788122691.9436626
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 999",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10151,
-    "total_planned": 22,
+    "total_completed": 10152,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
