@@ -50057,14 +50057,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1264",
       "timestamp": 1788093921.2715907
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788094079.0290534
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1402",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10026,
-    "total_planned": 5,
+    "total_completed": 10027,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
