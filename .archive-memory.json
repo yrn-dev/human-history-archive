@@ -50117,14 +50117,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1274",
       "timestamp": 1788096869.0855925
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788097062.1937346
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1274",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10038,
-    "total_planned": 64,
+    "total_completed": 10039,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
