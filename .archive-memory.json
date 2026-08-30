@@ -49297,14 +49297,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 971",
       "timestamp": 1788059597.2036448
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 971",
-      "variation": true
-    },
+      "timestamp": 1788059797.6934748
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9874,
-    "total_planned": 15,
+    "total_completed": 9875,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
