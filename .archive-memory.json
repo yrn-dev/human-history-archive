@@ -49097,14 +49097,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 971",
       "timestamp": 1788050535.5992093
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788050768.6784072
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9834,
-    "total_planned": 55,
+    "total_completed": 9835,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
