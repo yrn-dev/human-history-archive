@@ -49847,14 +49847,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1264",
       "timestamp": 1788084798.0241752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1402",
-      "variation": true
-    },
+      "timestamp": 1788084936.1430573
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1402",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9984,
-    "total_planned": 47,
+    "total_completed": 9985,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
