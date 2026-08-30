@@ -50342,14 +50342,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1273",
       "timestamp": 1788107185.6039097
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788107352.6979241
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10083,
-    "total_planned": 19,
+    "total_completed": 10084,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
