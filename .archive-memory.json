@@ -50672,14 +50672,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1282",
       "timestamp": 1788121918.6988661
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788122214.8179939
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1422",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10149,
-    "total_planned": 24,
+    "total_completed": 10150,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
