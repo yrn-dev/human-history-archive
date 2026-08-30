@@ -50897,14 +50897,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1291",
       "timestamp": 1788131709.3641899
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788131989.4483635
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10194,
-    "total_planned": 50,
+    "total_completed": 10195,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
