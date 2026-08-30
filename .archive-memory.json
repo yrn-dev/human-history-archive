@@ -49967,14 +49967,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1265",
       "timestamp": 1788090062.6008291
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788090325.8884218
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1402",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10008,
-    "total_planned": 23,
+    "total_completed": 10009,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
