@@ -49322,14 +49322,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1246",
       "timestamp": 1788060820.3675804
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788061075.8591752
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1247",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9879,
-    "total_planned": 10,
+    "total_completed": 9880,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
