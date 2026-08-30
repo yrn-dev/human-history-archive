@@ -49527,14 +49527,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1255",
       "timestamp": 1788069879.7089474
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 978",
-      "variation": true
-    },
+      "timestamp": 1788070039.7099078
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9920,
-    "total_planned": 40,
+    "total_completed": 9921,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
