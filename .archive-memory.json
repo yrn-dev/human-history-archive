@@ -50832,14 +50832,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1289",
       "timestamp": 1788129032.041625
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1432",
-      "variation": true
-    },
+      "timestamp": 1788129299.106783
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10181,
-    "total_planned": 63,
+    "total_completed": 10182,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
