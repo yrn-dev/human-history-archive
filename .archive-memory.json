@@ -50712,14 +50712,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1422",
       "timestamp": 1788123731.0469368
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788123970.6011386
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1283",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10157,
-    "total_planned": 16,
+    "total_completed": 10158,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
