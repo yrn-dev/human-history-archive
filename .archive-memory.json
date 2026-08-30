@@ -49477,14 +49477,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1255",
       "timestamp": 1788067666.6699643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1392",
-      "variation": true
-    },
+      "timestamp": 1788067906.4599013
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1256",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9910,
-    "total_planned": 50,
+    "total_completed": 9911,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
