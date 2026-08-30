@@ -50147,14 +50147,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1412",
       "timestamp": 1788098068.0275354
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788098354.2114708
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 992",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10044,
-    "total_planned": 58,
+    "total_completed": 10045,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
