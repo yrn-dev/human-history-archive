@@ -50157,14 +50157,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 992",
       "timestamp": 1788098507.424777
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1274",
-      "variation": true
-    },
+      "timestamp": 1788098702.4341085
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1274",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10046,
-    "total_planned": 56,
+    "total_completed": 10047,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
