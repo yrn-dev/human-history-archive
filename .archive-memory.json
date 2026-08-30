@@ -50277,14 +50277,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1274",
       "timestamp": 1788104088.7794297
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1412",
-      "variation": true
-    },
+      "timestamp": 1788104324.0807526
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10070,
-    "total_planned": 32,
+    "total_completed": 10071,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
