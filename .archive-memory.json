@@ -49652,14 +49652,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1392",
       "timestamp": 1788075635.9622498
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788075880.6006896
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 978",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9945,
-    "total_planned": 15,
+    "total_completed": 9946,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
