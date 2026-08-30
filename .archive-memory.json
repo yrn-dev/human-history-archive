@@ -50847,14 +50847,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1291",
       "timestamp": 1788129755.3845584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1006",
-      "variation": true
-    },
+      "timestamp": 1788129977.487744
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10184,
-    "total_planned": 60,
+    "total_completed": 10185,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
