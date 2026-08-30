@@ -50647,14 +50647,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1422",
       "timestamp": 1788120823.6312115
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788120958.3100657
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1422",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10144,
-    "total_planned": 29,
+    "total_completed": 10145,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
