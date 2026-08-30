@@ -50217,14 +50217,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1274",
       "timestamp": 1788101101.325293
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788101379.1453257
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10058,
-    "total_planned": 44,
+    "total_completed": 10059,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
