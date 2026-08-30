@@ -49197,14 +49197,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1246",
       "timestamp": 1788055045.7996144
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1382",
-      "variation": true
-    },
+      "timestamp": 1788055267.2487004
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9854,
-    "total_planned": 35,
+    "total_completed": 9855,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
