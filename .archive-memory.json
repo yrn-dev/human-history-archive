@@ -49597,14 +49597,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1256",
       "timestamp": 1788073252.3610573
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1392",
-      "variation": true
-    },
+      "timestamp": 1788073513.3942926
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9934,
-    "total_planned": 26,
+    "total_completed": 9935,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
