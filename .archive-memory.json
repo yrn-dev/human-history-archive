@@ -49217,14 +49217,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1244",
       "timestamp": 1788055855.1245003
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788056086.2770503
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1382",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9858,
-    "total_planned": 31,
+    "total_completed": 9859,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
