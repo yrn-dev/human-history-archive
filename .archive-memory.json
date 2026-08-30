@@ -49247,14 +49247,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1246",
       "timestamp": 1788057388.4589195
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1247",
-      "variation": true
-    },
+      "timestamp": 1788057601.0944483
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9864,
-    "total_planned": 25,
+    "total_completed": 9865,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
