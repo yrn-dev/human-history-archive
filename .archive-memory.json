@@ -50302,14 +50302,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1271",
       "timestamp": 1788105212.3704834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788105480.7568126
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10075,
-    "total_planned": 27,
+    "total_completed": 10076,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
