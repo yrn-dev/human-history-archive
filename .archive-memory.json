@@ -49242,14 +49242,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1246",
       "timestamp": 1788057157.8542879
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788057388.4589195
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1247",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9863,
-    "total_planned": 26,
+    "total_completed": 9864,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
