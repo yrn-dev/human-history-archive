@@ -50367,14 +50367,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1271",
       "timestamp": 1788108376.4453585
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1788108630.9678974
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10088,
-    "total_planned": 14,
+    "total_completed": 10089,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
