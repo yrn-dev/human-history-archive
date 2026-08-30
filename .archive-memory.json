@@ -50677,14 +50677,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1282",
       "timestamp": 1788122214.8179939
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1422",
-      "variation": true
-    },
+      "timestamp": 1788122526.2170277
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10150,
-    "total_planned": 23,
+    "total_completed": 10151,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
