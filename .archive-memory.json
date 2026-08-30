@@ -50537,14 +50537,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1282",
       "timestamp": 1788116076.3806405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788116254.2744212
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10122,
-    "total_planned": 51,
+    "total_completed": 10123,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
