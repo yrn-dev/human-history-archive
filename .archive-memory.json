@@ -49112,14 +49112,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1244",
       "timestamp": 1788051141.9008527
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788051312.6550686
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9837,
-    "total_planned": 52,
+    "total_completed": 9838,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
