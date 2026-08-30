@@ -50662,14 +50662,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1282",
       "timestamp": 1788121381.2669187
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788121669.013984
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10147,
-    "total_planned": 26,
+    "total_completed": 10148,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
