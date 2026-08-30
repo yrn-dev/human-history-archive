@@ -49707,14 +49707,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1255",
       "timestamp": 1788078155.8078518
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1392",
-      "variation": true
-    },
+      "timestamp": 1788078420.1331904
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1253",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9956,
-    "total_planned": 4,
+    "total_completed": 9957,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
