@@ -49227,14 +49227,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1382",
       "timestamp": 1788056388.6971922
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788056617.5652838
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9860,
-    "total_planned": 29,
+    "total_completed": 9861,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
