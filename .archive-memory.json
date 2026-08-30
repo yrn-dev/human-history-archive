@@ -49797,14 +49797,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1265",
       "timestamp": 1788082431.4997349
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1788082643.607347
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9974,
-    "total_planned": 57,
+    "total_completed": 9975,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
