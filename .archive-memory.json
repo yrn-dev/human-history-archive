@@ -50447,14 +50447,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1280",
       "timestamp": 1788111778.0384035
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788112021.2946608
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10104,
-    "total_planned": 69,
+    "total_completed": 10105,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
