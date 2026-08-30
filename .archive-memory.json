@@ -49887,14 +49887,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1262",
       "timestamp": 1788086501.436382
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788086765.8147824
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9992,
-    "total_planned": 39,
+    "total_completed": 9993,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
