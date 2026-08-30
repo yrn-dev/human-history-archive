@@ -49757,14 +49757,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 985",
       "timestamp": 1788080519.0833864
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788080829.1683087
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1265",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9966,
-    "total_planned": 65,
+    "total_completed": 9967,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
