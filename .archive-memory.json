@@ -49877,14 +49877,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1264",
       "timestamp": 1788086059.691546
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788086340.5333838
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9990,
-    "total_planned": 41,
+    "total_completed": 9991,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
