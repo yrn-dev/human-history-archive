@@ -50322,14 +50322,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 992",
       "timestamp": 1788106283.5577784
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1412",
-      "variation": true
-    },
+      "timestamp": 1788106531.482313
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10079,
-    "total_planned": 23,
+    "total_completed": 10080,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
