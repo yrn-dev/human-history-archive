@@ -50772,14 +50772,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 999",
       "timestamp": 1788126251.488517
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788126473.2953584
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10169,
-    "total_planned": 4,
+    "total_completed": 10170,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
