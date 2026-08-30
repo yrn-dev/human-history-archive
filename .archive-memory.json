@@ -49962,14 +49962,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1262",
       "timestamp": 1788089790.955108
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1265",
-      "variation": true
-    },
+      "timestamp": 1788090062.6008291
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10007,
-    "total_planned": 24,
+    "total_completed": 10008,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
