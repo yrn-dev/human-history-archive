@@ -50387,14 +50387,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1271",
       "timestamp": 1788109198.765059
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 992",
-      "variation": true
-    },
+      "timestamp": 1788109439.6223445
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1412",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10092,
-    "total_planned": 10,
+    "total_completed": 10093,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
