@@ -50122,14 +50122,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1273",
       "timestamp": 1788097062.1937346
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1274",
-      "variation": true
-    },
+      "timestamp": 1788097213.8845158
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10039,
-    "total_planned": 63,
+    "total_completed": 10040,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
