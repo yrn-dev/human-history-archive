@@ -50492,14 +50492,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1422",
       "timestamp": 1788113851.122205
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1283",
-      "variation": true
-    },
+      "timestamp": 1788114162.089325
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10113,
-    "total_planned": 60,
+    "total_completed": 10114,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
