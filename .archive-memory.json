@@ -50637,14 +50637,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1282",
       "timestamp": 1788120450.9717927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1283",
-      "variation": true
-    },
+      "timestamp": 1788120593.0157232
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1422",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10142,
-    "total_planned": 31,
+    "total_completed": 10143,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
