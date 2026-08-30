@@ -49782,14 +49782,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1264",
       "timestamp": 1788081704.3034976
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1265",
-      "variation": true
-    },
+      "timestamp": 1788081960.022219
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1402",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9971,
-    "total_planned": 60,
+    "total_completed": 9972,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
