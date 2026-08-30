@@ -50197,14 +50197,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1271",
       "timestamp": 1788100430.244555
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788100598.725042
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10054,
-    "total_planned": 48,
+    "total_completed": 10055,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
