@@ -50667,14 +50667,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1280",
       "timestamp": 1788121669.013984
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788121918.6988661
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10148,
-    "total_planned": 25,
+    "total_completed": 10149,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
