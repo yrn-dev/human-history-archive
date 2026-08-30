@@ -49167,14 +49167,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1382",
       "timestamp": 1788053589.7647069
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788053747.0954032
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1382",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9848,
-    "total_planned": 41,
+    "total_completed": 9849,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
