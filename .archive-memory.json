@@ -50937,14 +50937,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1432",
       "timestamp": 1788133650.7097285
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1432",
-      "variation": true
-    },
+      "timestamp": 1788133807.1567123
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10202,
-    "total_planned": 42,
+    "total_completed": 10203,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
