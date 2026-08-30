@@ -50602,14 +50602,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 999",
       "timestamp": 1788118681.8594565
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788118816.612569
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1422",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10135,
-    "total_planned": 38,
+    "total_completed": 10136,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
