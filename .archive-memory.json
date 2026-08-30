@@ -50462,14 +50462,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1282",
       "timestamp": 1788112360.7357957
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788112674.770349
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10107,
-    "total_planned": 66,
+    "total_completed": 10108,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
