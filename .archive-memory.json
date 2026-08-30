@@ -49672,14 +49672,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1255",
       "timestamp": 1788076553.5278287
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 978",
-      "variation": true
-    },
+      "timestamp": 1788076757.3375735
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9949,
-    "total_planned": 11,
+    "total_completed": 9950,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
