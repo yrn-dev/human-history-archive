@@ -49522,14 +49522,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1255",
       "timestamp": 1788069648.833982
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788069879.7089474
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 978",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9919,
-    "total_planned": 41,
+    "total_completed": 9920,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
