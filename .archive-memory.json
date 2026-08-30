@@ -50432,18 +50432,17 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1412",
       "timestamp": 1788111162.6879063
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1271",
-      "variation": true
+      "timestamp": 1788111431.732959
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 10101,
-    "total_planned": 1,
+    "total_completed": 10102,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
