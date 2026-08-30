@@ -49917,14 +49917,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1264",
       "timestamp": 1788087931.4771566
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1788088084.1949527
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9998,
-    "total_planned": 33,
+    "total_completed": 9999,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
