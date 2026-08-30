@@ -49432,14 +49432,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1253",
       "timestamp": 1788065577.7858078
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788065868.5479498
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1256",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9901,
-    "total_planned": 59,
+    "total_completed": 9902,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
