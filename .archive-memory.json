@@ -50787,18 +50787,17 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1422",
       "timestamp": 1788126970.8430328
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1280",
-      "variation": true
+      "timestamp": 1788127252.1946409
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 10172,
-    "total_planned": 1,
+    "total_completed": 10173,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
