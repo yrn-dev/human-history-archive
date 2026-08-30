@@ -50212,14 +50212,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 992",
       "timestamp": 1788100930.2027893
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1274",
-      "variation": true
-    },
+      "timestamp": 1788101101.325293
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10057,
-    "total_planned": 45,
+    "total_completed": 10058,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
