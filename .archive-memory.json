@@ -50872,14 +50872,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1291",
       "timestamp": 1788130621.8849516
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1432",
-      "variation": true
-    },
+      "timestamp": 1788130813.1687312
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1432",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10189,
-    "total_planned": 55,
+    "total_completed": 10190,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
