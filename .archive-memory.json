@@ -49922,14 +49922,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 985",
       "timestamp": 1788088084.1949527
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788088312.8456712
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9999,
-    "total_planned": 32,
+    "total_completed": 10000,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
