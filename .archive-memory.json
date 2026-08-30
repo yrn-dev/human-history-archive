@@ -49957,14 +49957,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1265",
       "timestamp": 1788089595.8420718
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788089790.955108
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1265",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10006,
-    "total_planned": 25,
+    "total_completed": 10007,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
