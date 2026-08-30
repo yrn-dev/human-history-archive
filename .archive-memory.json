@@ -50382,14 +50382,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1271",
       "timestamp": 1788108943.978814
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788109198.765059
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 992",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10091,
-    "total_planned": 11,
+    "total_completed": 10092,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
