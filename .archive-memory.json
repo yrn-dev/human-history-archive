@@ -49332,14 +49332,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1247",
       "timestamp": 1788061211.8958225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788061478.648832
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9881,
-    "total_planned": 8,
+    "total_completed": 9882,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
