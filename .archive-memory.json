@@ -50622,14 +50622,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 999",
       "timestamp": 1788119630.0759451
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788119921.765324
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10139,
-    "total_planned": 34,
+    "total_completed": 10140,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
