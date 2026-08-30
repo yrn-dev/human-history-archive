@@ -50477,14 +50477,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1283",
       "timestamp": 1788113140.5994124
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788113403.8692925
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10110,
-    "total_planned": 63,
+    "total_completed": 10111,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
