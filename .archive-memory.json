@@ -49417,14 +49417,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1255",
       "timestamp": 1788064851.8869736
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788065106.10573
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1256",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9898,
-    "total_planned": 62,
+    "total_completed": 9899,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
