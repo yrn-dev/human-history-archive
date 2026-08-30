@@ -50227,14 +50227,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1273",
       "timestamp": 1788101574.3982012
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788101858.239913
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1274",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10060,
-    "total_planned": 42,
+    "total_completed": 10061,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
