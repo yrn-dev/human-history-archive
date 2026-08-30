@@ -50582,14 +50582,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1280",
       "timestamp": 1788117918.924887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788118075.336563
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1283",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10131,
-    "total_planned": 42,
+    "total_completed": 10132,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
