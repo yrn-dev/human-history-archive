@@ -50942,14 +50942,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1432",
       "timestamp": 1788133807.1567123
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788134047.903187
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10203,
-    "total_planned": 41,
+    "total_completed": 10204,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
