@@ -50607,14 +50607,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1280",
       "timestamp": 1788118816.612569
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1422",
-      "variation": true
-    },
+      "timestamp": 1788119100.7825408
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10136,
-    "total_planned": 37,
+    "total_completed": 10137,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
