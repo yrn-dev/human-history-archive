@@ -49137,14 +49137,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 971",
       "timestamp": 1788052413.122589
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788052644.921849
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 971",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9842,
-    "total_planned": 47,
+    "total_completed": 9843,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
