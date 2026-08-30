@@ -49637,14 +49637,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1253",
       "timestamp": 1788075110.2287588
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788075248.1344075
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9942,
-    "total_planned": 18,
+    "total_completed": 9943,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
