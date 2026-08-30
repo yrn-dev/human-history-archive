@@ -49272,14 +49272,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1244",
       "timestamp": 1788058604.380682
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1247",
-      "variation": true
-    },
+      "timestamp": 1788058882.3252401
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9869,
-    "total_planned": 20,
+    "total_completed": 9870,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
