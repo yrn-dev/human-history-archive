@@ -49662,14 +49662,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 978",
       "timestamp": 1788076129.2365015
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1392",
-      "variation": true
-    },
+      "timestamp": 1788076304.5063255
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9947,
-    "total_planned": 13,
+    "total_completed": 9948,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
