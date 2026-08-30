@@ -50417,14 +50417,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 992",
       "timestamp": 1788110578.1876283
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788110730.0064707
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10098,
-    "total_planned": 4,
+    "total_completed": 10099,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
