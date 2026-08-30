@@ -50232,14 +50232,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1271",
       "timestamp": 1788101858.239913
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1274",
-      "variation": true
-    },
+      "timestamp": 1788102076.512438
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10061,
-    "total_planned": 41,
+    "total_completed": 10062,
+    "total_planned": 40,
     "total_topics": 74
   }
 }
