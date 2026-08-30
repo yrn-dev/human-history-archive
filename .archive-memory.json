@@ -49642,14 +49642,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1255",
       "timestamp": 1788075248.1344075
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788075488.5922256
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1392",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9943,
-    "total_planned": 17,
+    "total_completed": 9944,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
