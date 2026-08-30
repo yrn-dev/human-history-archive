@@ -50037,14 +50037,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1262",
       "timestamp": 1788093070.8713856
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1265",
-      "variation": true
-    },
+      "timestamp": 1788093276.8640683
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10022,
-    "total_planned": 9,
+    "total_completed": 10023,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
