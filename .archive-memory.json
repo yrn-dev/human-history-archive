@@ -50442,14 +50442,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1280",
       "timestamp": 1788111591.1349854
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788111778.0384035
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10103,
-    "total_planned": 70,
+    "total_completed": 10104,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
