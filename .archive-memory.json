@@ -50327,14 +50327,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1412",
       "timestamp": 1788106531.482313
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788106677.7047367
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1412",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10080,
-    "total_planned": 22,
+    "total_completed": 10081,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
