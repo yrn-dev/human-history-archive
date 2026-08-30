@@ -49627,14 +49627,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 978",
       "timestamp": 1788074670.8971477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788074824.38414
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1253",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9940,
-    "total_planned": 20,
+    "total_completed": 9941,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
