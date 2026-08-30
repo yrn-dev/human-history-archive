@@ -50912,14 +50912,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1291",
       "timestamp": 1788132294.816399
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1788132536.612796
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10197,
-    "total_planned": 47,
+    "total_completed": 10198,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
