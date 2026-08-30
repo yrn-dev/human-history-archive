@@ -50282,14 +50282,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1412",
       "timestamp": 1788104324.0807526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788104505.5311325
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 992",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10071,
-    "total_planned": 31,
+    "total_completed": 10072,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
