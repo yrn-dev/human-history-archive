@@ -49752,14 +49752,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1262",
       "timestamp": 1788080354.7071443
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 985",
-      "variation": true
-    },
+      "timestamp": 1788080519.0833864
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9965,
-    "total_planned": 66,
+    "total_completed": 9966,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
