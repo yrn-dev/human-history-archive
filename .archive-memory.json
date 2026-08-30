@@ -50377,14 +50377,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1273",
       "timestamp": 1788108798.925955
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788108943.978814
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10090,
-    "total_planned": 12,
+    "total_completed": 10091,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
