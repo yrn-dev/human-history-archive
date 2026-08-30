@@ -49457,14 +49457,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1256",
       "timestamp": 1788066845.9916174
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 978",
-      "variation": true
-    },
+      "timestamp": 1788067083.9194713
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 978",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9906,
-    "total_planned": 54,
+    "total_completed": 9907,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
