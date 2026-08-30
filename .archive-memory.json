@@ -49867,14 +49867,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1264",
       "timestamp": 1788085639.6538916
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788085913.0744884
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9988,
-    "total_planned": 43,
+    "total_completed": 9989,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
