@@ -49712,14 +49712,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1392",
       "timestamp": 1788078420.1331904
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788078733.5944436
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1392",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9957,
-    "total_planned": 3,
+    "total_completed": 9958,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
