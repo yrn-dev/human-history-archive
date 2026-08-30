@@ -50532,14 +50532,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1283",
       "timestamp": 1788115851.2758586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788116076.3806405
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10121,
-    "total_planned": 52,
+    "total_completed": 10122,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
