@@ -50052,14 +50052,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1264",
       "timestamp": 1788093685.5717287
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788093921.2715907
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10025,
-    "total_planned": 6,
+    "total_completed": 10026,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
