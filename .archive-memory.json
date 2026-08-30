@@ -50112,14 +50112,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1271",
       "timestamp": 1788096606.1252966
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1274",
-      "variation": true
-    },
+      "timestamp": 1788096869.0855925
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10037,
-    "total_planned": 65,
+    "total_completed": 10038,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
