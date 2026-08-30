@@ -49442,14 +49442,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1256",
       "timestamp": 1788066119.9129705
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 978",
-      "variation": true
-    },
+      "timestamp": 1788066314.7702713
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9903,
-    "total_planned": 57,
+    "total_completed": 9904,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
