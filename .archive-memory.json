@@ -50807,14 +50807,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1006",
       "timestamp": 1788128033.9267702
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788128218.691055
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1006",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10176,
-    "total_planned": 68,
+    "total_completed": 10177,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
