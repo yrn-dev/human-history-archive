@@ -50777,14 +50777,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1280",
       "timestamp": 1788126473.2953584
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788126676.9298387
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1422",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10170,
-    "total_planned": 3,
+    "total_completed": 10171,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
