@@ -50067,14 +50067,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1402",
       "timestamp": 1788094390.0991673
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1402",
-      "variation": true
-    },
+      "timestamp": 1788094630.1305406
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10028,
-    "total_planned": 3,
+    "total_completed": 10029,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
