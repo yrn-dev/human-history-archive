@@ -49292,14 +49292,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1382",
       "timestamp": 1788059387.5256338
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 971",
-      "variation": true
-    },
+      "timestamp": 1788059597.2036448
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 971",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9873,
-    "total_planned": 16,
+    "total_completed": 9874,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
