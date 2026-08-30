@@ -49547,14 +49547,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1255",
       "timestamp": 1788070896.4649656
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788071132.8227873
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9924,
-    "total_planned": 36,
+    "total_completed": 9925,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
