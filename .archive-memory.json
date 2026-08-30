@@ -49282,14 +49282,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1246",
       "timestamp": 1788059081.5937061
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788059232.2191067
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1382",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9871,
-    "total_planned": 18,
+    "total_completed": 9872,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
