@@ -50612,14 +50612,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1422",
       "timestamp": 1788119100.7825408
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788119337.2518084
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 999",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10137,
-    "total_planned": 36,
+    "total_completed": 10138,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
