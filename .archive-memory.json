@@ -49832,14 +49832,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 985",
       "timestamp": 1788084089.804612
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788084282.169587
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1265",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9981,
-    "total_planned": 50,
+    "total_completed": 9982,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
