@@ -49667,14 +49667,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1392",
       "timestamp": 1788076304.5063255
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788076553.5278287
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 978",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9948,
-    "total_planned": 12,
+    "total_completed": 9949,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
