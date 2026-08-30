@@ -50167,14 +50167,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1274",
       "timestamp": 1788098858.8307903
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788099092.1226585
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10048,
-    "total_planned": 54,
+    "total_completed": 10049,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
