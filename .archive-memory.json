@@ -49537,14 +49537,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1255",
       "timestamp": 1788070335.4101927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788070640.1618507
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9922,
-    "total_planned": 38,
+    "total_completed": 9923,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
