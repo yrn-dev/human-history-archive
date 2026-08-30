@@ -49612,14 +49612,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1255",
       "timestamp": 1788073866.5626304
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788074154.1065798
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9937,
-    "total_planned": 23,
+    "total_completed": 9938,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
