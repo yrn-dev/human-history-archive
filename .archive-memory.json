@@ -50467,14 +50467,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1280",
       "timestamp": 1788112674.770349
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1282",
-      "variation": true
-    },
+      "timestamp": 1788112882.5159461
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1283",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10108,
-    "total_planned": 65,
+    "total_completed": 10109,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
