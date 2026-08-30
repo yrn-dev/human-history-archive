@@ -49617,14 +49617,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1253",
       "timestamp": 1788074154.1065798
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788074417.1224852
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 978",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9938,
-    "total_planned": 22,
+    "total_completed": 9939,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
