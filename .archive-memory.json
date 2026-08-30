@@ -49632,14 +49632,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1253",
       "timestamp": 1788074824.38414
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788075110.2287588
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9941,
-    "total_planned": 19,
+    "total_completed": 9942,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
