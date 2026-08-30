@@ -50047,14 +50047,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1262",
       "timestamp": 1788093472.1028917
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788093685.5717287
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10024,
-    "total_planned": 7,
+    "total_completed": 10025,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
