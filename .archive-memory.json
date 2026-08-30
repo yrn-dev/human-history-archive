@@ -50272,14 +50272,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1412",
       "timestamp": 1788103801.5803947
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1274",
-      "variation": true
-    },
+      "timestamp": 1788104088.7794297
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1412",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10069,
-    "total_planned": 33,
+    "total_completed": 10070,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
