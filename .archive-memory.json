@@ -49812,14 +49812,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 985",
       "timestamp": 1788083216.8013802
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788083386.6287491
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9977,
-    "total_planned": 54,
+    "total_completed": 9978,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
