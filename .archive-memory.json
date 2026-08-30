@@ -50782,14 +50782,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1282",
       "timestamp": 1788126676.9298387
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1422",
-      "variation": true
-    },
+      "timestamp": 1788126970.8430328
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10171,
-    "total_planned": 2,
+    "total_completed": 10172,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
