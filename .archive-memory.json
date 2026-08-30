@@ -50827,14 +50827,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1292",
       "timestamp": 1788128885.6044054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788129032.041625
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1432",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10180,
-    "total_planned": 64,
+    "total_completed": 10181,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
