@@ -50767,14 +50767,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1283",
       "timestamp": 1788126071.6462877
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 999",
-      "variation": true
-    },
+      "timestamp": 1788126251.488517
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10168,
-    "total_planned": 5,
+    "total_completed": 10169,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
