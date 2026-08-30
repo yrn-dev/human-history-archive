@@ -50062,14 +50062,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1264",
       "timestamp": 1788094079.0290534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1402",
-      "variation": true
-    },
+      "timestamp": 1788094390.0991673
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1402",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10027,
-    "total_planned": 4,
+    "total_completed": 10028,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
