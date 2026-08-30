@@ -49397,14 +49397,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1253",
       "timestamp": 1788063982.954299
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788064246.5603988
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1392",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9894,
-    "total_planned": 66,
+    "total_completed": 9895,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
