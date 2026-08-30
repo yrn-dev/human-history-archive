@@ -49777,14 +49777,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1264",
       "timestamp": 1788081378.5247226
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788081704.3034976
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1265",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9970,
-    "total_planned": 61,
+    "total_completed": 9971,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
