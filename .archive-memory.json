@@ -50797,14 +50797,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1289",
       "timestamp": 1788127565.304419
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788127824.279688
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1006",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10174,
-    "total_planned": 70,
+    "total_completed": 10175,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
