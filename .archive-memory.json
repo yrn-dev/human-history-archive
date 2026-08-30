@@ -49762,14 +49762,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1262",
       "timestamp": 1788080829.1683087
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1265",
-      "variation": true
-    },
+      "timestamp": 1788081074.442875
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9967,
-    "total_planned": 64,
+    "total_completed": 9968,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
