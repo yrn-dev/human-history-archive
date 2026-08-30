@@ -49512,14 +49512,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1255",
       "timestamp": 1788069169.0486615
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1255",
-      "variation": true
-    },
+      "timestamp": 1788069423.5114357
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9917,
-    "total_planned": 43,
+    "total_completed": 9918,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
