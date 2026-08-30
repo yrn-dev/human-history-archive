@@ -49237,14 +49237,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1246",
       "timestamp": 1788056869.0887403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788057157.8542879
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9862,
-    "total_planned": 27,
+    "total_completed": 9863,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
