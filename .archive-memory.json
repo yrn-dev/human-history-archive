@@ -49822,14 +49822,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1262",
       "timestamp": 1788083560.7994688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788083841.45581
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 985",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9979,
-    "total_planned": 52,
+    "total_completed": 9980,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
