@@ -49817,14 +49817,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1264",
       "timestamp": 1788083386.6287491
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788083560.7994688
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9978,
-    "total_planned": 53,
+    "total_completed": 9979,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
