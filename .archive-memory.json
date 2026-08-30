@@ -49487,14 +49487,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1256",
       "timestamp": 1788068052.2016952
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1256",
-      "variation": true
-    },
+      "timestamp": 1788068331.2396863
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1253",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9912,
-    "total_planned": 48,
+    "total_completed": 9913,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
