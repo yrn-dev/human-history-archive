@@ -50187,14 +50187,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1273",
       "timestamp": 1788099899.489701
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1271",
-      "variation": true
-    },
+      "timestamp": 1788100141.7081635
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10052,
-    "total_planned": 50,
+    "total_completed": 10053,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
