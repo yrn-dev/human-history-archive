@@ -49682,14 +49682,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1255",
       "timestamp": 1788077004.0959013
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1256",
-      "variation": true
-    },
+      "timestamp": 1788077321.7474828
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1253",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9951,
-    "total_planned": 9,
+    "total_completed": 9952,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
