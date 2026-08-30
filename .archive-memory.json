@@ -49307,14 +49307,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1246",
       "timestamp": 1788060041.2918124
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788060321.098158
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9876,
-    "total_planned": 13,
+    "total_completed": 9877,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
