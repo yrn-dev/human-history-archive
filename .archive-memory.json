@@ -49717,14 +49717,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1253",
       "timestamp": 1788078733.5944436
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1392",
-      "variation": true
-    },
+      "timestamp": 1788079002.6307414
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1392",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9958,
-    "total_planned": 2,
+    "total_completed": 9959,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
