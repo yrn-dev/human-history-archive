@@ -50557,14 +50557,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1422",
       "timestamp": 1788116857.9105592
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1280",
-      "variation": true
-    },
+      "timestamp": 1788117055.188521
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 999",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10126,
-    "total_planned": 47,
+    "total_completed": 10127,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
