@@ -49787,14 +49787,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1265",
       "timestamp": 1788081960.022219
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1402",
-      "variation": true
-    },
+      "timestamp": 1788082166.853593
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1265",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9972,
-    "total_planned": 59,
+    "total_completed": 9973,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
