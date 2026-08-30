@@ -49152,14 +49152,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1246",
       "timestamp": 1788052943.9119658
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788053254.1288993
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9845,
-    "total_planned": 44,
+    "total_completed": 9846,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
