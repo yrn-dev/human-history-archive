@@ -49492,14 +49492,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1256",
       "timestamp": 1788068331.2396863
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788068589.1592612
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9913,
-    "total_planned": 47,
+    "total_completed": 9914,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
