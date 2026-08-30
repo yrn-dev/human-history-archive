@@ -50352,14 +50352,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1271",
       "timestamp": 1788107631.374639
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788107828.5476682
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10085,
-    "total_planned": 17,
+    "total_completed": 10086,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
