@@ -50257,14 +50257,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1412",
       "timestamp": 1788103078.167955
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1274",
-      "variation": true
-    },
+      "timestamp": 1788103246.793947
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1412",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10066,
-    "total_planned": 36,
+    "total_completed": 10067,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
