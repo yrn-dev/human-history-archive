@@ -49502,14 +49502,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1255",
       "timestamp": 1788068803.0853486
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1253",
-      "variation": true
-    },
+      "timestamp": 1788068975.31856
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1255",
@@ -49732,8 +49732,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9915,
-    "total_planned": 45,
+    "total_completed": 9916,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
