@@ -49117,14 +49117,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1244",
       "timestamp": 1788051312.6550686
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788051632.806318
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9838,
-    "total_planned": 51,
+    "total_completed": 9839,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
