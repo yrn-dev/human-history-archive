@@ -50802,14 +50802,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1289",
       "timestamp": 1788127824.279688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1006",
-      "variation": true
-    },
+      "timestamp": 1788128033.9267702
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10175,
-    "total_planned": 69,
+    "total_completed": 10176,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
