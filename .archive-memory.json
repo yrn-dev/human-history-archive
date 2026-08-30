@@ -49342,14 +49342,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1244",
       "timestamp": 1788061757.194431
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788061935.1849148
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1247",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9883,
-    "total_planned": 6,
+    "total_completed": 9884,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
