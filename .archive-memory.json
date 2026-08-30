@@ -50372,14 +50372,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 992",
       "timestamp": 1788108630.9678974
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1273",
-      "variation": true
-    },
+      "timestamp": 1788108798.925955
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1271",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10089,
-    "total_planned": 13,
+    "total_completed": 10090,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
