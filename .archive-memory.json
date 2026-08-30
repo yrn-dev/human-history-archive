@@ -49767,14 +49767,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1265",
       "timestamp": 1788081074.442875
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788081236.2806392
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1264",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9968,
-    "total_planned": 63,
+    "total_completed": 9969,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
