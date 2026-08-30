@@ -50002,14 +50002,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1264",
       "timestamp": 1788091600.5767927
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1264",
-      "variation": true
-    },
+      "timestamp": 1788091847.463457
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1262",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10015,
-    "total_planned": 16,
+    "total_completed": 10016,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
