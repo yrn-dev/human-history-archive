@@ -50032,14 +50032,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1402",
       "timestamp": 1788092914.4100392
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1262",
-      "variation": true
-    },
+      "timestamp": 1788093070.8713856
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1265",
@@ -50087,8 +50087,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10021,
-    "total_planned": 10,
+    "total_completed": 10022,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
