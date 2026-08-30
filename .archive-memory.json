@@ -49267,14 +49267,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1246",
       "timestamp": 1788058378.7394874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1244",
-      "variation": true
-    },
+      "timestamp": 1788058604.380682
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1247",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9868,
-    "total_planned": 21,
+    "total_completed": 9869,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
