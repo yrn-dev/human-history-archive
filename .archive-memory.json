@@ -49042,14 +49042,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1246",
       "timestamp": 1788048115.9169648
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1247",
-      "variation": true
-    },
+      "timestamp": 1788048261.737892
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9823,
-    "total_planned": 66,
+    "total_completed": 9824,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
