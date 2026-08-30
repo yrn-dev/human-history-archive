@@ -50472,14 +50472,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1282",
       "timestamp": 1788112882.5159461
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1283",
-      "variation": true
-    },
+      "timestamp": 1788113140.5994124
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10109,
-    "total_planned": 64,
+    "total_completed": 10110,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
