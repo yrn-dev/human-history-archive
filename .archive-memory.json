@@ -49287,14 +49287,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1244",
       "timestamp": 1788059232.2191067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1382",
-      "variation": true
-    },
+      "timestamp": 1788059387.5256338
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 971",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9872,
-    "total_planned": 17,
+    "total_completed": 9873,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
