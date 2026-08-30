@@ -50142,14 +50142,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1273",
       "timestamp": 1788097797.9061773
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1412",
-      "variation": true
-    },
+      "timestamp": 1788098068.0275354
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1273",
@@ -50442,8 +50442,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10043,
-    "total_planned": 59,
+    "total_completed": 10044,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
