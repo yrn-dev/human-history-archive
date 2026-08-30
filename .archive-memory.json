@@ -49132,14 +49132,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1246",
       "timestamp": 1788052151.958496
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 971",
-      "variation": true
-    },
+      "timestamp": 1788052413.122589
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1246",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9841,
-    "total_planned": 48,
+    "total_completed": 9842,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
