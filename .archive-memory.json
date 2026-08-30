@@ -49327,14 +49327,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1246",
       "timestamp": 1788061075.8591752
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1247",
-      "variation": true
-    },
+      "timestamp": 1788061211.8958225
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9880,
-    "total_planned": 9,
+    "total_completed": 9881,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
