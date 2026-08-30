@@ -50617,14 +50617,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1282",
       "timestamp": 1788119337.2518084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 999",
-      "variation": true
-    },
+      "timestamp": 1788119630.0759451
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1282",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10138,
-    "total_planned": 35,
+    "total_completed": 10139,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
