@@ -50687,14 +50687,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1282",
       "timestamp": 1788122691.9436626
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 999",
-      "variation": true
-    },
+      "timestamp": 1788122851.5218244
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1280",
@@ -50797,8 +50797,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10152,
-    "total_planned": 21,
+    "total_completed": 10153,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
