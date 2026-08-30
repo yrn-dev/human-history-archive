@@ -49302,14 +49302,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 971",
       "timestamp": 1788059797.6934748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1246",
-      "variation": true
-    },
+      "timestamp": 1788060041.2918124
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1244",
@@ -49377,8 +49377,8 @@
     }
   ],
   "stats": {
-    "total_completed": 9875,
-    "total_planned": 14,
+    "total_completed": 9876,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
