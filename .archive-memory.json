@@ -51507,14 +51507,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1310",
       "timestamp": 1788158452.0588756
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788158753.495995
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10316,
-    "total_planned": 70,
+    "total_completed": 10317,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
