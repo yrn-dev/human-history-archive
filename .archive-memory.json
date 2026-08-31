@@ -52192,14 +52192,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1462",
       "timestamp": 1788189903.5107243
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1027",
-      "variation": true
-    },
+      "timestamp": 1788190077.434282
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10453,
-    "total_planned": 4,
+    "total_completed": 10454,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
