@@ -51042,14 +51042,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1289",
       "timestamp": 1788138784.0696988
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1788138953.4539154
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10223,
-    "total_planned": 21,
+    "total_completed": 10224,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
