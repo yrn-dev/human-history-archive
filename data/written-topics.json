@@ -1,5 +1,5 @@
 {
- "count": 17,
+ "count": 18,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -119,6 +119,13 @@
    "era": "modern",
    "file": "eras/modern/000017-capital-provinces.md",
    "at": "2026-08-31T21:15:07+00:00"
+  },
+  {
+   "slug": "recovery-administrative-authority-throne",
+   "title": "RECOVERY OF ADMINISTRATIVE AUTHORITY BY THE THRONE",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000018-recovery-administrative-authority-throne.md",
+   "at": "2026-08-31T21:25:03+00:00"
   }
  ]
 }
