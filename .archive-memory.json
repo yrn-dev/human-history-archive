@@ -51317,14 +51317,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1013",
       "timestamp": 1788150501.622779
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788150734.1197753
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10278,
-    "total_planned": 37,
+    "total_completed": 10279,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
