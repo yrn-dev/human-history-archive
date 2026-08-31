@@ -52422,14 +52422,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1327",
       "timestamp": 1788199445.1846292
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788199765.4773884
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1472",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10499,
-    "total_planned": 29,
+    "total_completed": 10500,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
