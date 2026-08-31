@@ -1,5 +1,5 @@
 {
- "count": 12,
+ "count": 13,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -84,6 +84,13 @@
    "era": "ancient",
    "file": "eras/ancient/000012-daika-reforms.md",
    "at": "2026-08-31T20:39:35+00:00"
+  },
+  {
+   "slug": "epstein-case-doja-fbi-disclosure-maxwell-interview",
+   "title": "The Epstein case: DOJ disclosure of the FBI investigation and the Maxwell interview",
+   "era": "future",
+   "file": "eras/future/000013-epstein-case-doja-fbi-disclosure-maxwell-interview.md",
+   "at": "2026-08-31T20:44:25+00:00"
   }
  ]
 }
