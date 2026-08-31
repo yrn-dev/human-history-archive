@@ -52452,14 +52452,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1327",
       "timestamp": 1788201168.122586
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788201437.2143025
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1328",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10505,
-    "total_planned": 23,
+    "total_completed": 10506,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
