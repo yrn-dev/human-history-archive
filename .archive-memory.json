@@ -52067,14 +52067,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1027",
       "timestamp": 1788183993.2354016
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1319",
-      "variation": true
-    },
+      "timestamp": 1788184246.048367
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10428,
-    "total_planned": 29,
+    "total_completed": 10429,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
