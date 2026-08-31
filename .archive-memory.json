@@ -52397,14 +52397,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1327",
       "timestamp": 1788198282.2005887
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788198530.2262323
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10494,
-    "total_planned": 34,
+    "total_completed": 10495,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
