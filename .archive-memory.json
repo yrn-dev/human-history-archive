@@ -51102,14 +51102,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1291",
       "timestamp": 1788141200.4205213
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788141514.026942
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1432",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10235,
-    "total_planned": 9,
+    "total_completed": 10236,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
