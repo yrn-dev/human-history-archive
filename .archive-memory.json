@@ -51497,18 +51497,17 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1300",
       "timestamp": 1788158048.4996357
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1013",
-      "variation": true
+      "timestamp": 1788158238.860357
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 10314,
-    "total_planned": 1,
+    "total_completed": 10315,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
