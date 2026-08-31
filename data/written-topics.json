@@ -1,5 +1,5 @@
 {
- "count": 7,
+ "count": 8,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49,6 +49,13 @@
    "era": "cultures",
    "file": "eras/cultures/000007-language-physical-characteristics.md",
    "at": "2026-08-31T20:04:38+00:00"
+  },
+  {
+   "slug": "manners-customs-remote-antiquity",
+   "title": "MANNERS AND CUSTOMS IN REMOTE ANTIQUITY",
+   "era": "ancient",
+   "file": "eras/ancient/000008-manners-customs-remote-antiquity.md",
+   "at": "2026-08-31T20:09:17+00:00"
   }
  ]
 }
