@@ -52062,14 +52062,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1316",
       "timestamp": 1788183687.90749
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1027",
-      "variation": true
-    },
+      "timestamp": 1788183993.2354016
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1319",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10427,
-    "total_planned": 30,
+    "total_completed": 10428,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
