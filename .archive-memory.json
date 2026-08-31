@@ -51227,14 +51227,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1442",
       "timestamp": 1788146526.334534
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788146719.9814403
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10260,
-    "total_planned": 55,
+    "total_completed": 10261,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
