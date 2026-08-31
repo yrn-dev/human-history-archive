@@ -52142,14 +52142,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1318",
       "timestamp": 1788187380.324042
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1027",
-      "variation": true
-    },
+      "timestamp": 1788187651.9378195
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10443,
-    "total_planned": 14,
+    "total_completed": 10444,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
