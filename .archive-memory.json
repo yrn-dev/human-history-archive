@@ -52157,14 +52157,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1318",
       "timestamp": 1788188148.2616668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788188424.1032114
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10446,
-    "total_planned": 11,
+    "total_completed": 10447,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
