@@ -51492,14 +51492,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1298",
       "timestamp": 1788157870.2367117
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788158048.4996357
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1013",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10313,
-    "total_planned": 2,
+    "total_completed": 10314,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
