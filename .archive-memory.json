@@ -52297,14 +52297,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1327",
       "timestamp": 1788194104.6174202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1328",
-      "variation": true
-    },
+      "timestamp": 1788194356.3423526
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10474,
-    "total_planned": 54,
+    "total_completed": 10475,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
