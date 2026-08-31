@@ -51552,14 +51552,14 @@
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1309",
       "timestamp": 1788160481.0515988
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788160760.2438314
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10325,
-    "total_planned": 61,
+    "total_completed": 10326,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
