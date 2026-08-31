@@ -51162,14 +51162,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1300",
       "timestamp": 1788143963.9852836
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1301",
-      "variation": true
-    },
+      "timestamp": 1788144185.254891
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1013",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10247,
-    "total_planned": 68,
+    "total_completed": 10248,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
