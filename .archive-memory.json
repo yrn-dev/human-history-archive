@@ -51887,14 +51887,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1318",
       "timestamp": 1788175508.202029
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788175793.1704135
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1319",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10392,
-    "total_planned": 65,
+    "total_completed": 10393,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
