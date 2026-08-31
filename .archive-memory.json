@@ -51482,14 +51482,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1301",
       "timestamp": 1788157485.3300638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788157698.7815204
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10311,
-    "total_planned": 4,
+    "total_completed": 10312,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
