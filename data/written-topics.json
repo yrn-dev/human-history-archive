@@ -1,5 +1,5 @@
 {
- "count": 9,
+ "count": 10,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63,6 +63,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/000009-prehistoric-sovereigns.md",
    "at": "2026-08-31T20:09:37+00:00"
+  },
+  {
+   "slug": "protohistoric-sovereigns",
+   "title": "THE PROTOHISTORIC SOVEREIGNS",
+   "era": "ancient",
+   "file": "eras/ancient/000010-protohistoric-sovereigns.md",
+   "at": "2026-08-31T20:19:37+00:00"
   }
  ]
 }
