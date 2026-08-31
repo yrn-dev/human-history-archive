@@ -52187,14 +52187,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1462",
       "timestamp": 1788189597.0134509
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1462",
-      "variation": true
-    },
+      "timestamp": 1788189903.5107243
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1027",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10452,
-    "total_planned": 5,
+    "total_completed": 10453,
+    "total_planned": 4,
     "total_topics": 74
   }
 }
