@@ -52092,14 +52092,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1027",
       "timestamp": 1788184959.7246683
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788185216.4412148
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10433,
-    "total_planned": 24,
+    "total_completed": 10434,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
