@@ -52232,14 +52232,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1034",
       "timestamp": 1788191599.343659
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788191823.4677315
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1328",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10461,
-    "total_planned": 67,
+    "total_completed": 10462,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
