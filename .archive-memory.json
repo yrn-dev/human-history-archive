@@ -51437,14 +51437,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1301",
       "timestamp": 1788155595.1332092
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788155739.7799823
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1301",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10302,
-    "total_planned": 13,
+    "total_completed": 10303,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
