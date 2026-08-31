@@ -51797,14 +51797,14 @@
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1309",
       "timestamp": 1788171262.4942057
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788171524.5046866
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10374,
-    "total_planned": 12,
+    "total_completed": 10375,
+    "total_planned": 11,
     "total_topics": 74
   }
 }
