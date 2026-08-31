@@ -51387,14 +51387,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1300",
       "timestamp": 1788153354.133563
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1013",
-      "variation": true
-    },
+      "timestamp": 1788153639.5482495
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1013",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10292,
-    "total_planned": 23,
+    "total_completed": 10293,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
