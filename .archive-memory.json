@@ -51527,14 +51527,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1309",
       "timestamp": 1788159348.6939628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1452",
-      "variation": true
-    },
+      "timestamp": 1788159594.0856688
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10320,
-    "total_planned": 66,
+    "total_completed": 10321,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
