@@ -51867,14 +51867,14 @@
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1319",
       "timestamp": 1788174560.2642004
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788174770.1773362
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10388,
-    "total_planned": 69,
+    "total_completed": 10389,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
