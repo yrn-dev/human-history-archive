@@ -50957,14 +50957,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1292",
       "timestamp": 1788134638.6386704
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788134945.3175404
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10206,
-    "total_planned": 38,
+    "total_completed": 10207,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
