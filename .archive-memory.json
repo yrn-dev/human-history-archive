@@ -52327,14 +52327,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1325",
       "timestamp": 1788195267.337639
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1472",
-      "variation": true
-    },
+      "timestamp": 1788195505.4676344
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1472",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10480,
-    "total_planned": 48,
+    "total_completed": 10481,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
