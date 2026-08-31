@@ -51172,14 +51172,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1013",
       "timestamp": 1788144357.390331
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788144580.9130342
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10249,
-    "total_planned": 66,
+    "total_completed": 10250,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
