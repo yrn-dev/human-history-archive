@@ -52367,14 +52367,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1472",
       "timestamp": 1788197078.586933
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788197243.7739856
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1328",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10488,
-    "total_planned": 40,
+    "total_completed": 10489,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
