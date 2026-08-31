@@ -51812,14 +51812,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1309",
       "timestamp": 1788171943.199307
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788172180.0263608
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10377,
-    "total_planned": 9,
+    "total_completed": 10378,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
