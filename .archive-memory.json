@@ -52412,14 +52412,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1325",
       "timestamp": 1788198936.1755776
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1328",
-      "variation": true
-    },
+      "timestamp": 1788199228.9248292
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10497,
-    "total_planned": 31,
+    "total_completed": 10498,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
