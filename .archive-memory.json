@@ -51357,14 +51357,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1442",
       "timestamp": 1788152108.820792
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788152272.661991
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10286,
-    "total_planned": 29,
+    "total_completed": 10287,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
