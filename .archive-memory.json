@@ -52032,14 +52032,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1462",
       "timestamp": 1788182110.4727628
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788182322.1271627
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10421,
-    "total_planned": 36,
+    "total_completed": 10422,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
