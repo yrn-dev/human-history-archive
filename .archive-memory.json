@@ -51012,14 +51012,14 @@
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1006",
       "timestamp": 1788137304.5199225
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1788137476.5094457
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10217,
-    "total_planned": 27,
+    "total_completed": 10218,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
