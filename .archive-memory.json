@@ -52352,14 +52352,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1327",
       "timestamp": 1788196518.315182
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1034",
-      "variation": true
-    },
+      "timestamp": 1788196707.1953626
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1328",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10485,
-    "total_planned": 43,
+    "total_completed": 10486,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
