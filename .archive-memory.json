@@ -52407,14 +52407,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1327",
       "timestamp": 1788198682.7878344
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788198936.1755776
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1328",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10496,
-    "total_planned": 32,
+    "total_completed": 10497,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
