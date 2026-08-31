@@ -51002,14 +51002,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1006",
       "timestamp": 1788136917.1522799
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1006",
-      "variation": true
-    },
+      "timestamp": 1788137150.2577424
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1006",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10215,
-    "total_planned": 29,
+    "total_completed": 10216,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
