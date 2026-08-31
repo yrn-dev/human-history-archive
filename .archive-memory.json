@@ -51417,14 +51417,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1298",
       "timestamp": 1788154698.472621
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788154984.7856817
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1301",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10298,
-    "total_planned": 17,
+    "total_completed": 10299,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
