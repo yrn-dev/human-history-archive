@@ -51157,14 +51157,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1300",
       "timestamp": 1788143758.1170652
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788143963.9852836
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1301",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10246,
-    "total_planned": 69,
+    "total_completed": 10247,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
