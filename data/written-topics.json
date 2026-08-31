@@ -1,5 +1,5 @@
 {
- "count": 10,
+ "count": 11,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -70,6 +70,13 @@
    "era": "ancient",
    "file": "eras/ancient/000010-protohistoric-sovereigns.md",
    "at": "2026-08-31T20:19:37+00:00"
+  },
+  {
+   "slug": "29th-35th-sovereign",
+   "title": "FROM THE 29TH TO THE 35TH SOVEREIGN",
+   "era": "ancient",
+   "file": "eras/ancient/000011-29th-35th-sovereign.md",
+   "at": "2026-08-31T20:29:32+00:00"
   }
  ]
 }
