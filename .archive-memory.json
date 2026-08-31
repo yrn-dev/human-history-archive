@@ -51637,14 +51637,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1307",
       "timestamp": 1788164974.6125896
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788165284.0774937
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1020",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10342,
-    "total_planned": 44,
+    "total_completed": 10343,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
