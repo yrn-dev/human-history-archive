@@ -51937,14 +51937,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1318",
       "timestamp": 1788177694.185498
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788177987.4324882
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10402,
-    "total_planned": 55,
+    "total_completed": 10403,
+    "total_planned": 54,
     "total_topics": 74
   }
 }
