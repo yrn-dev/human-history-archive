@@ -52317,14 +52317,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1325",
       "timestamp": 1788194829.9037623
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1034",
-      "variation": true
-    },
+      "timestamp": 1788195032.2139668
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1325",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10478,
-    "total_planned": 50,
+    "total_completed": 10479,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
