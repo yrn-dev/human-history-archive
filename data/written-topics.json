@@ -1,5 +1,5 @@
 {
- "count": 11,
+ "count": 12,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -77,6 +77,13 @@
    "era": "ancient",
    "file": "eras/ancient/000011-29th-35th-sovereign.md",
    "at": "2026-08-31T20:29:32+00:00"
+  },
+  {
+   "slug": "daika-reforms",
+   "title": "THE DAIKA REFORMS",
+   "era": "ancient",
+   "file": "eras/ancient/000012-daika-reforms.md",
+   "at": "2026-08-31T20:39:35+00:00"
   }
  ]
 }
