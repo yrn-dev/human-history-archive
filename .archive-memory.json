@@ -52477,14 +52477,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1472",
       "timestamp": 1788202335.6166232
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1034",
-      "variation": true
-    },
+      "timestamp": 1788202497.1814723
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1325",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10510,
-    "total_planned": 18,
+    "total_completed": 10511,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
