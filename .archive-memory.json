@@ -51922,14 +51922,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1318",
       "timestamp": 1788177010.4061928
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788177172.9172556
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10399,
-    "total_planned": 58,
+    "total_completed": 10400,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
