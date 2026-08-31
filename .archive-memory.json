@@ -51737,14 +51737,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1309",
       "timestamp": 1788168882.6571295
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788169065.6807086
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10362,
-    "total_planned": 24,
+    "total_completed": 10363,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
