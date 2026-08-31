@@ -52202,14 +52202,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1316",
       "timestamp": 1788190343.5358741
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788190509.940014
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1462",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10455,
-    "total_planned": 2,
+    "total_completed": 10456,
+    "total_planned": 1,
     "total_topics": 74
   }
 }
