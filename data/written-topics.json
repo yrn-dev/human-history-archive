@@ -1,5 +1,5 @@
 {
- "count": 20,
+ "count": 21,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -140,6 +140,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000020-epoch-gen-minamoto-hei-taira.md",
    "at": "2026-08-31T21:45:03+00:00"
+  },
+  {
+   "slug": "epoch-gen-hei-continued",
+   "title": "THE EPOCH OF THE GEN AND THE HEI (Continued)",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000021-epoch-gen-hei-continued.md",
+   "at": "2026-08-31T21:55:02+00:00"
   }
  ]
 }
