@@ -52497,14 +52497,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1472",
       "timestamp": 1788203201.5863209
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788203390.6462915
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1472",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10514,
-    "total_planned": 14,
+    "total_completed": 10515,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
