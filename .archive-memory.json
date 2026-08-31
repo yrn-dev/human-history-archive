@@ -51822,14 +51822,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1309",
       "timestamp": 1788172388.378998
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788172570.0874062
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1310",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10379,
-    "total_planned": 7,
+    "total_completed": 10380,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
