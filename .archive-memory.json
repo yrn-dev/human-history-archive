@@ -51872,14 +51872,14 @@
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1316",
       "timestamp": 1788174770.1773362
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788175006.5046792
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10389,
-    "total_planned": 68,
+    "total_completed": 10390,
+    "total_planned": 67,
     "total_topics": 74
   }
 }
