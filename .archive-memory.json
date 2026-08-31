@@ -51907,14 +51907,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1462",
       "timestamp": 1788176436.0519335
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788176597.231857
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1027",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10396,
-    "total_planned": 61,
+    "total_completed": 10397,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
