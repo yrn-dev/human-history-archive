@@ -51277,14 +51277,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1300",
       "timestamp": 1788148697.8545144
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1013",
-      "variation": true
-    },
+      "timestamp": 1788148904.8778148
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1442",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10270,
-    "total_planned": 45,
+    "total_completed": 10271,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
