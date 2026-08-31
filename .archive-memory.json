@@ -51372,14 +51372,14 @@
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1442",
       "timestamp": 1788152645.677756
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788152884.8184953
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10289,
-    "total_planned": 26,
+    "total_completed": 10290,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
