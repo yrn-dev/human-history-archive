@@ -1,5 +1,5 @@
 {
- "count": 15,
+ "count": 16,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -105,6 +105,13 @@
    "era": "ancient",
    "file": "eras/ancient/000015-nara-epoch.md",
    "at": "2026-08-31T20:55:02+00:00"
+  },
+  {
+   "slug": "heian-epoch",
+   "title": "THE HEIAN EPOCH",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000016-heian-epoch.md",
+   "at": "2026-08-31T21:05:04+00:00"
   }
  ]
 }
