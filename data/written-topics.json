@@ -1,5 +1,5 @@
 {
- "count": 19,
+ "count": 20,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -133,6 +133,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000019-manners-customs-heian-epoch.md",
    "at": "2026-08-31T21:35:02+00:00"
+  },
+  {
+   "slug": "epoch-gen-minamoto-hei-taira",
+   "title": "THE EPOCH OF THE GEN (MINAMOTO) AND THE HEI (TAIRA)",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000020-epoch-gen-minamoto-hei-taira.md",
+   "at": "2026-08-31T21:45:03+00:00"
   }
  ]
 }
