@@ -51452,14 +51452,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1300",
       "timestamp": 1788156169.7525468
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788156348.6817405
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10305,
-    "total_planned": 10,
+    "total_completed": 10306,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
