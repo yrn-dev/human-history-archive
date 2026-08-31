@@ -51862,14 +51862,14 @@
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1319",
       "timestamp": 1788174274.1442995
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1319",
-      "variation": true
-    },
+      "timestamp": 1788174560.2642004
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10387,
-    "total_planned": 70,
+    "total_completed": 10388,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
