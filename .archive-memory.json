@@ -52167,14 +52167,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1318",
       "timestamp": 1788188620.5042343
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1462",
-      "variation": true
-    },
+      "timestamp": 1788188811.8684301
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10448,
-    "total_planned": 9,
+    "total_completed": 10449,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
