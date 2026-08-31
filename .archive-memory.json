@@ -52137,14 +52137,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1319",
       "timestamp": 1788187151.3327072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788187380.324042
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1027",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10442,
-    "total_planned": 15,
+    "total_completed": 10443,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
