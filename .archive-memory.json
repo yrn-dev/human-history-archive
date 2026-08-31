@@ -51767,14 +51767,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1307",
       "timestamp": 1788170035.4236104
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788170269.7841613
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1310",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10368,
-    "total_planned": 18,
+    "total_completed": 10369,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
