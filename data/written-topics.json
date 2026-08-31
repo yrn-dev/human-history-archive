@@ -1,5 +1,5 @@
 {
- "count": 8,
+ "count": 9,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56,6 +56,13 @@
    "era": "ancient",
    "file": "eras/ancient/000008-manners-customs-remote-antiquity.md",
    "at": "2026-08-31T20:09:17+00:00"
+  },
+  {
+   "slug": "prehistoric-sovereigns",
+   "title": "THE PREHISTORIC SOVEREIGNS",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/000009-prehistoric-sovereigns.md",
+   "at": "2026-08-31T20:09:37+00:00"
   }
  ]
 }
