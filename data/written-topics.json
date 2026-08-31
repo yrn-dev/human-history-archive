@@ -1,5 +1,5 @@
 {
- "count": 18,
+ "count": 19,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -126,6 +126,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000018-recovery-administrative-authority-throne.md",
    "at": "2026-08-31T21:25:03+00:00"
+  },
+  {
+   "slug": "manners-customs-heian-epoch",
+   "title": "MANNERS AND CUSTOMS OF THE HEIAN EPOCH",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000019-manners-customs-heian-epoch.md",
+   "at": "2026-08-31T21:35:02+00:00"
   }
  ]
 }
