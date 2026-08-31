@@ -51177,14 +51177,14 @@
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1442",
       "timestamp": 1788144580.9130342
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788144726.9948545
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10250,
-    "total_planned": 65,
+    "total_completed": 10251,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
