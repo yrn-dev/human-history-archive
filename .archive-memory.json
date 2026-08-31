@@ -51017,14 +51017,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1292",
       "timestamp": 1788137476.5094457
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788137788.6200528
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10218,
-    "total_planned": 26,
+    "total_completed": 10219,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
