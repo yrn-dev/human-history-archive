@@ -51337,14 +51337,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1300",
       "timestamp": 1788151280.8445072
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788151472.806838
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1301",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10282,
-    "total_planned": 33,
+    "total_completed": 10283,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
