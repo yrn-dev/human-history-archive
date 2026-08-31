@@ -51562,14 +51562,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1309",
       "timestamp": 1788161018.777208
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788161300.9935048
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10327,
-    "total_planned": 59,
+    "total_completed": 10328,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
