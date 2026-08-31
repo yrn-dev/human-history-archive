@@ -51977,14 +51977,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1319",
       "timestamp": 1788179484.6974258
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788179672.509557
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10410,
-    "total_planned": 47,
+    "total_completed": 10411,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
