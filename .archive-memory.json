@@ -51577,14 +51577,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1309",
       "timestamp": 1788161853.5964377
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788162036.342861
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1310",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10330,
-    "total_planned": 56,
+    "total_completed": 10331,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
