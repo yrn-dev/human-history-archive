@@ -50982,14 +50982,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1432",
       "timestamp": 1788135829.2230222
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788136135.36189
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1006",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10211,
-    "total_planned": 33,
+    "total_completed": 10212,
+    "total_planned": 32,
     "total_topics": 74
   }
 }
