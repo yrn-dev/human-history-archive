@@ -51627,14 +51627,14 @@
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1307",
       "timestamp": 1788164376.8393264
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788164687.4415545
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10340,
-    "total_planned": 46,
+    "total_completed": 10341,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
