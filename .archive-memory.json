@@ -51707,14 +51707,14 @@
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1309",
       "timestamp": 1788167750.3573084
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1020",
-      "variation": true
-    },
+      "timestamp": 1788167919.3472488
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10356,
-    "total_planned": 30,
+    "total_completed": 10357,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
