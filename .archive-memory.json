@@ -52022,14 +52022,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1319",
       "timestamp": 1788181573.8216152
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788181834.1633954
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1462",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10419,
-    "total_planned": 38,
+    "total_completed": 10420,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
