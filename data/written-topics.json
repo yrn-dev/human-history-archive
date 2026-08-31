@@ -1,5 +1,5 @@
 {
- "count": 21,
+ "count": 22,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -147,6 +147,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000021-epoch-gen-hei-continued.md",
    "at": "2026-08-31T21:55:02+00:00"
+  },
+  {
+   "slug": "kamakura-bakufu",
+   "title": "THE KAMAKURA BAKUFU",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000022-kamakura-bakufu.md",
+   "at": "2026-08-31T22:05:06+00:00"
   }
  ]
 }
