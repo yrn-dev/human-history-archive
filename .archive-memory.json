@@ -50992,14 +50992,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1006",
       "timestamp": 1788136392.620421
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788136624.567143
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1006",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10213,
-    "total_planned": 31,
+    "total_completed": 10214,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
