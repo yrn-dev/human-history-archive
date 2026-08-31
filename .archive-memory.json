@@ -52077,14 +52077,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1316",
       "timestamp": 1788184469.54066
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788184617.8916626
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1462",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10430,
-    "total_planned": 27,
+    "total_completed": 10431,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
