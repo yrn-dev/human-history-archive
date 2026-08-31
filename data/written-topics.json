@@ -1,5 +1,5 @@
 {
- "count": 27,
+ "count": 28,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -189,6 +189,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000027-foreign-intercourse-literature-art-religion-manners-customs.md",
    "at": "2026-08-31T22:55:01+00:00"
+  },
+  {
+   "slug": "epoch-wars-sengoku-jidai",
+   "title": "THE EPOCH OF WARS (Sengoku Jidai)",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000028-epoch-wars-sengoku-jidai.md",
+   "at": "2026-08-31T23:05:02+00:00"
   }
  ]
 }
