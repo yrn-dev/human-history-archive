@@ -51757,14 +51757,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1310",
       "timestamp": 1788169660.9845548
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1452",
-      "variation": true
-    },
+      "timestamp": 1788169884.2676558
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10366,
-    "total_planned": 20,
+    "total_completed": 10367,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
