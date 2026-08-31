@@ -51382,14 +51382,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1298",
       "timestamp": 1788153042.8126156
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788153354.133563
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1013",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10291,
-    "total_planned": 24,
+    "total_completed": 10292,
+    "total_planned": 23,
     "total_topics": 74
   }
 }
