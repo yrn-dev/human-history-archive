@@ -51427,14 +51427,14 @@
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1301",
       "timestamp": 1788155223.002618
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788155362.5270693
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1301",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10300,
-    "total_planned": 15,
+    "total_completed": 10301,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
