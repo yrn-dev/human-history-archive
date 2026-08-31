@@ -1,5 +1,5 @@
 {
- "count": 16,
+ "count": 17,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -112,6 +112,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000016-heian-epoch.md",
    "at": "2026-08-31T21:05:04+00:00"
+  },
+  {
+   "slug": "capital-provinces",
+   "title": "THE CAPITAL AND THE PROVINCES",
+   "era": "modern",
+   "file": "eras/modern/000017-capital-provinces.md",
+   "at": "2026-08-31T21:15:07+00:00"
   }
  ]
 }
