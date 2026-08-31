@@ -1,5 +1,5 @@
 {
- "count": 23,
+ "count": 24,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -161,6 +161,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000023-art-religion-literature-customs-commerce-kamakura.md",
    "at": "2026-08-31T22:15:00+00:00"
+  },
+  {
+   "slug": "fall-hojo-rise-ashikaga",
+   "title": "FALL OF THE HOJO AND RISE OF THE ASHIKAGA",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000024-fall-hojo-rise-ashikaga.md",
+   "at": "2026-08-31T22:25:02+00:00"
   }
  ]
 }
