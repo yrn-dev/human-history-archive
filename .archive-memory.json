@@ -51222,14 +51222,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1298",
       "timestamp": 1788146375.0528874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788146526.334534
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10259,
-    "total_planned": 56,
+    "total_completed": 10260,
+    "total_planned": 55,
     "total_topics": 74
   }
 }
