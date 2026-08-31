@@ -51282,14 +51282,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1013",
       "timestamp": 1788148904.8778148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788149189.7903204
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10271,
-    "total_planned": 44,
+    "total_completed": 10272,
+    "total_planned": 43,
     "total_topics": 74
   }
 }
