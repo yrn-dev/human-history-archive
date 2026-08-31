@@ -51037,14 +51037,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1291",
       "timestamp": 1788138493.8545797
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788138784.0696988
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1292",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10222,
-    "total_planned": 22,
+    "total_completed": 10223,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
