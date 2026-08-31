@@ -52472,14 +52472,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1327",
       "timestamp": 1788202022.9521973
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1472",
-      "variation": true
-    },
+      "timestamp": 1788202335.6166232
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1034",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10509,
-    "total_planned": 19,
+    "total_completed": 10510,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
