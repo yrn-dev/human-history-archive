@@ -51747,14 +51747,14 @@
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1309",
       "timestamp": 1788169280.8040197
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1020",
-      "variation": true
-    },
+      "timestamp": 1788169495.8556387
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1310",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10364,
-    "total_planned": 22,
+    "total_completed": 10365,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
