@@ -51457,14 +51457,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1300",
       "timestamp": 1788156348.6817405
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788156576.706545
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10306,
-    "total_planned": 9,
+    "total_completed": 10307,
+    "total_planned": 8,
     "total_topics": 74
   }
 }
