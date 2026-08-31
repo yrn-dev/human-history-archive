@@ -1,5 +1,5 @@
 {
- "count": 5,
+ "count": 6,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35,6 +35,13 @@
    "era": "cultures",
    "file": "eras/cultures/000005-vision-of-life-in-the-quran-purpose-afterlife-moral-order.md",
    "at": "2026-08-31T19:54:03+00:00"
+  },
+  {
+   "slug": "origin-nation-geographical-archaeological-relics",
+   "title": "ORIGIN OF THE NATION: GEOGRAPHICAL AND ARCHAEOLOGICAL RELICS",
+   "era": "ancient",
+   "file": "eras/ancient/000006-origin-nation-geographical-archaeological-relics.md",
+   "at": "2026-08-31T19:54:36+00:00"
   }
  ]
 }
