@@ -51952,14 +51952,14 @@
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1462",
       "timestamp": 1788178396.806202
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788178557.4479158
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1319",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10405,
-    "total_planned": 52,
+    "total_completed": 10406,
+    "total_planned": 51,
     "total_topics": 74
   }
 }
