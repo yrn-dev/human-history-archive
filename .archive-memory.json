@@ -52122,14 +52122,14 @@
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1318",
       "timestamp": 1788186515.408981
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788186747.932713
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10439,
-    "total_planned": 18,
+    "total_completed": 10440,
+    "total_planned": 17,
     "total_topics": 74
   }
 }
