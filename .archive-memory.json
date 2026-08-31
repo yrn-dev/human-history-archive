@@ -52442,14 +52442,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1327",
       "timestamp": 1788200644.4614692
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788200948.8006349
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10503,
-    "total_planned": 25,
+    "total_completed": 10504,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
