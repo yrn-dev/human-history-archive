@@ -51642,14 +51642,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1307",
       "timestamp": 1788165284.0774937
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1020",
-      "variation": true
-    },
+      "timestamp": 1788165442.4398386
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1020",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10343,
-    "total_planned": 43,
+    "total_completed": 10344,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
