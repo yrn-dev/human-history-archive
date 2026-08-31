@@ -1,3 +1,0 @@
-# Domestication of animals: dogs, cats, and livestock — Part 614
-
-[Content pending — The read operation timed out]
