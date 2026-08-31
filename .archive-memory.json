@@ -52012,14 +52012,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1316",
       "timestamp": 1788181070.349407
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1319",
-      "variation": true
-    },
+      "timestamp": 1788181306.3730478
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1319",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10417,
-    "total_planned": 40,
+    "total_completed": 10418,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
