@@ -51367,14 +51367,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1300",
       "timestamp": 1788152418.4738386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788152645.677756
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10288,
-    "total_planned": 27,
+    "total_completed": 10289,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
