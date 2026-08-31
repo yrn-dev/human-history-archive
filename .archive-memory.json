@@ -52417,14 +52417,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1328",
       "timestamp": 1788199228.9248292
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788199445.1846292
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1325",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10498,
-    "total_planned": 30,
+    "total_completed": 10499,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
