@@ -51142,18 +51142,17 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1291",
       "timestamp": 1788143095.725469
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1291",
-      "variation": true
+      "timestamp": 1788143401.445268
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 10243,
-    "total_planned": 1,
+    "total_completed": 10244,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
