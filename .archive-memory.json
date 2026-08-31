@@ -52107,14 +52107,14 @@
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1318",
       "timestamp": 1788185843.4332592
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788186093.3820214
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10436,
-    "total_planned": 21,
+    "total_completed": 10437,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
