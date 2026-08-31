@@ -1,5 +1,5 @@
 {
- "count": 31,
+ "count": 32,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -217,6 +217,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/000031-momo-yama-epoch.md",
    "at": "2026-08-31T23:34:58+00:00"
+  },
+  {
+   "slug": "christianity-japan",
+   "title": "CHRISTIANITY IN JAPAN",
+   "era": "modern",
+   "file": "eras/modern/000032-christianity-japan.md",
+   "at": "2026-08-31T23:44:58+00:00"
   }
  ]
 }
