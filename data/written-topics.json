@@ -1,5 +1,5 @@
 {
- "count": 13,
+ "count": 14,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -91,6 +91,13 @@
    "era": "future",
    "file": "eras/future/000013-epstein-case-doja-fbi-disclosure-maxwell-interview.md",
    "at": "2026-08-31T20:44:25+00:00"
+  },
+  {
+   "slug": "daiho-laws-yoro-laws",
+   "title": "THE DAIHO LAWS AND THE YORO LAWS",
+   "era": "ancient",
+   "file": "eras/ancient/000014-daiho-laws-yoro-laws.md",
+   "at": "2026-08-31T20:45:04+00:00"
   }
  ]
 }
