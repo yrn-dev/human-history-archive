@@ -52377,14 +52377,14 @@
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1328",
       "timestamp": 1788197490.1683633
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788197654.863634
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10490,
-    "total_planned": 38,
+    "total_completed": 10491,
+    "total_planned": 37,
     "total_topics": 74
   }
 }
