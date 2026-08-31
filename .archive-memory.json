@@ -51557,14 +51557,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1309",
       "timestamp": 1788160760.2438314
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788161018.777208
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10326,
-    "total_planned": 60,
+    "total_completed": 10327,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
