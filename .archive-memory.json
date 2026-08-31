@@ -52207,18 +52207,17 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1318",
       "timestamp": 1788190509.940014
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1462",
-      "variation": true
+      "timestamp": 1788190740.2759845
     }
   ],
+  "planned": [],
   "stats": {
-    "total_completed": 10456,
-    "total_planned": 1,
+    "total_completed": 10457,
+    "total_planned": 0,
     "total_topics": 74
   }
 }
