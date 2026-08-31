@@ -51702,14 +51702,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1309",
       "timestamp": 1788167465.8871472
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788167750.3573084
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1020",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10355,
-    "total_planned": 31,
+    "total_completed": 10356,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
