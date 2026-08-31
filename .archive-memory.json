@@ -50952,14 +50952,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1289",
       "timestamp": 1788134312.4322083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1292",
-      "variation": true
-    },
+      "timestamp": 1788134638.6386704
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10205,
-    "total_planned": 39,
+    "total_completed": 10206,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
