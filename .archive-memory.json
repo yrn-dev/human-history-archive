@@ -51532,14 +51532,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1452",
       "timestamp": 1788159594.0856688
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788159876.3844638
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1020",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10321,
-    "total_planned": 65,
+    "total_completed": 10322,
+    "total_planned": 64,
     "total_topics": 74
   }
 }
