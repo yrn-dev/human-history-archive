@@ -52337,14 +52337,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1472",
       "timestamp": 1788195727.0242481
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788195969.6002996
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10482,
-    "total_planned": 46,
+    "total_completed": 10483,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
