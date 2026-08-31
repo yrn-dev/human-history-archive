@@ -52302,14 +52302,14 @@
       "era": "ancient",
       "topic": "The Minoan civilization of Crete \u2014 Part 1328",
       "timestamp": 1788194356.3423526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788194521.212749
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1328",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10475,
-    "total_planned": 53,
+    "total_completed": 10476,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
