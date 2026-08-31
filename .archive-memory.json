@@ -51817,14 +51817,14 @@
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1309",
       "timestamp": 1788172180.0263608
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788172388.378998
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10378,
-    "total_planned": 8,
+    "total_completed": 10379,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
