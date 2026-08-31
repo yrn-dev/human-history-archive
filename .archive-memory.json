@@ -52342,14 +52342,14 @@
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1327",
       "timestamp": 1788195969.6002996
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788196259.2778046
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10483,
-    "total_planned": 45,
+    "total_completed": 10484,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
