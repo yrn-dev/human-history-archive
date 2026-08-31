@@ -52267,14 +52267,14 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1472",
       "timestamp": 1788192986.1904874
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788193163.7819707
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10468,
-    "total_planned": 60,
+    "total_completed": 10469,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
