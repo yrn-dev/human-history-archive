@@ -1,5 +1,5 @@
 {
- "count": 1,
+ "count": 2,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7,6 +7,13 @@
    "era": "cultures",
    "file": "eras/cultures/000001-historiographer-art-old-japan.md",
    "at": "2026-08-31T19:33:04+00:00"
+  },
+  {
+   "slug": "japanese-mythology",
+   "title": "JAPANESE MYTHOLOGY",
+   "era": "cultures",
+   "file": "eras/cultures/000002-japanese-mythology.md",
+   "at": "2026-08-31T19:43:05+00:00"
   }
  ]
 }
