@@ -52102,14 +52102,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1316",
       "timestamp": 1788185528.8706748
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788185843.4332592
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10435,
-    "total_planned": 22,
+    "total_completed": 10436,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
