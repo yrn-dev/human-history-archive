@@ -52237,14 +52237,14 @@
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1325",
       "timestamp": 1788191823.4677315
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1328",
-      "variation": true
-    },
+      "timestamp": 1788192082.7392044
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1328",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10462,
-    "total_planned": 66,
+    "total_completed": 10463,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
