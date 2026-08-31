@@ -51717,14 +51717,14 @@
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1309",
       "timestamp": 1788168098.0699768
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1452",
-      "variation": true
-    },
+      "timestamp": 1788168248.5109305
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1452",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10358,
-    "total_planned": 28,
+    "total_completed": 10359,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
