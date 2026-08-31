@@ -51207,14 +51207,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1298",
       "timestamp": 1788145746.5236607
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788145912.8802147
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10256,
-    "total_planned": 59,
+    "total_completed": 10257,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
