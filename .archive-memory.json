@@ -51092,14 +51092,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1432",
       "timestamp": 1788140786.850512
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1432",
-      "variation": true
-    },
+      "timestamp": 1788141049.6631567
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10233,
-    "total_planned": 11,
+    "total_completed": 10234,
+    "total_planned": 10,
     "total_topics": 74
   }
 }
