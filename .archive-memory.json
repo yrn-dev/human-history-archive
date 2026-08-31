@@ -52097,14 +52097,14 @@
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1316",
       "timestamp": 1788185216.4412148
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788185528.8706748
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10434,
-    "total_planned": 23,
+    "total_completed": 10435,
+    "total_planned": 22,
     "total_topics": 74
   }
 }
