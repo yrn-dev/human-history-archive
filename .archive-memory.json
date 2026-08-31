@@ -51592,14 +51592,14 @@
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1310",
       "timestamp": 1788162445.1064363
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788162754.9992335
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10333,
-    "total_planned": 53,
+    "total_completed": 10334,
+    "total_planned": 52,
     "total_topics": 74
   }
 }
