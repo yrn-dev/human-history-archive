@@ -51152,14 +51152,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1298",
       "timestamp": 1788143567.6679716
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788143758.1170652
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10245,
-    "total_planned": 70,
+    "total_completed": 10246,
+    "total_planned": 69,
     "total_topics": 74
   }
 }
