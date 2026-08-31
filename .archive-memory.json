@@ -52182,14 +52182,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1316",
       "timestamp": 1788189362.8336854
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1462",
-      "variation": true
-    },
+      "timestamp": 1788189597.0134509
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1462",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10451,
-    "total_planned": 6,
+    "total_completed": 10452,
+    "total_planned": 5,
     "total_topics": 74
   }
 }
