@@ -51402,14 +51402,14 @@
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1298",
       "timestamp": 1788154105.4315834
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788154344.6663
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1301",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10295,
-    "total_planned": 20,
+    "total_completed": 10296,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
