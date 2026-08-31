@@ -51732,14 +51732,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1307",
       "timestamp": 1788168681.891806
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788168882.6571295
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10361,
-    "total_planned": 25,
+    "total_completed": 10362,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
