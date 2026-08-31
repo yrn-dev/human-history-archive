@@ -52437,14 +52437,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1325",
       "timestamp": 1788200376.4162219
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788200644.4614692
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10502,
-    "total_planned": 26,
+    "total_completed": 10503,
+    "total_planned": 25,
     "total_topics": 74
   }
 }
