@@ -51392,14 +51392,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1013",
       "timestamp": 1788153639.5482495
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1013",
-      "variation": true
-    },
+      "timestamp": 1788153864.626658
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10293,
-    "total_planned": 22,
+    "total_completed": 10294,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
