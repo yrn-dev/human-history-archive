@@ -51082,14 +51082,14 @@
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1291",
       "timestamp": 1788140383.5379782
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788140622.512971
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1432",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10231,
-    "total_planned": 13,
+    "total_completed": 10232,
+    "total_planned": 12,
     "total_topics": 74
   }
 }
