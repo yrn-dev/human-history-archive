@@ -51272,14 +51272,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1298",
       "timestamp": 1788148477.6050606
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788148697.8545144
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1013",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10269,
-    "total_planned": 46,
+    "total_completed": 10270,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
