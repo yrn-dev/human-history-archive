@@ -52432,14 +52432,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1472",
       "timestamp": 1788200091.9175217
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788200376.4162219
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10501,
-    "total_planned": 27,
+    "total_completed": 10502,
+    "total_planned": 26,
     "total_topics": 74
   }
 }
