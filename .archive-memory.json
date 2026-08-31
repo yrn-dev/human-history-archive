@@ -52487,14 +52487,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1325",
       "timestamp": 1788202796.4525964
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1034",
-      "variation": true
-    },
+      "timestamp": 1788203029.26831
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1472",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10512,
-    "total_planned": 16,
+    "total_completed": 10513,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
