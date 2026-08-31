@@ -52212,12 +52212,368 @@
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1462",
       "timestamp": 1788190740.2759845
+    },
+    {
+      "era": "cultures",
+      "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1327",
+      "timestamp": 1788190888.6393385
     }
   ],
-  "planned": [],
+  "planned": [
+    {
+      "era": "middle-ages",
+      "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Galileo and the scientific method \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1034",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Virtual reality: living in digital worlds \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "World War I: the war to end all wars \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The telegraph: instant communication across oceans \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Minoan civilization of Crete \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1034",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The textile Industry: how cotton changed the world \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "The printing press: Gutenberg's revolution \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1034",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "The Persian Empire under Darius I \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Medieval universities: birth of modern education \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "Victorian London: life in the industrial capital \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The Bessemer process: making steel affordable \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "Child labor and the factory system \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "Copernicus and the heliocentric revolution \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Arabic calligraphy: art in writing \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "ancient",
+      "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1328",
+      "variation": true
+    },
+    {
+      "era": "renaissance",
+      "topic": "The Medici family: bankers and patrons of art \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "World War II: from invasion to atomic bomb \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1034",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Quantum computing: solving the unsolvable \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1034",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "Transhumanism: merging humans with machines \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1034",
+      "variation": true
+    },
+    {
+      "era": "prehistoric",
+      "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1034",
+      "variation": true
+    },
+    {
+      "era": "cultures",
+      "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1327",
+      "variation": true
+    },
+    {
+      "era": "future",
+      "topic": "AI and automation: how machines will change work \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "modern",
+      "topic": "The Russian Revolution and rise of communism \u2014 Part 1472",
+      "variation": true
+    },
+    {
+      "era": "industrial",
+      "topic": "Charles Darwin and the theory of evolution \u2014 Part 1325",
+      "variation": true
+    },
+    {
+      "era": "middle-ages",
+      "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1327",
+      "variation": true
+    }
+  ],
   "stats": {
-    "total_completed": 10457,
-    "total_planned": 0,
+    "total_completed": 10458,
+    "total_planned": 70,
     "total_topics": 74
   }
 }
