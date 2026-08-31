@@ -51957,14 +51957,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1316",
       "timestamp": 1788178557.4479158
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Roman engineering: aqueducts, roads, and concrete \u2014 Part 1319",
-      "variation": true
-    },
+      "timestamp": 1788178876.9980485
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10406,
-    "total_planned": 51,
+    "total_completed": 10407,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
