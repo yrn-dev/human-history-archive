@@ -52132,14 +52132,14 @@
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1318",
       "timestamp": 1788186909.7480083
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1319",
-      "variation": true
-    },
+      "timestamp": 1788187151.3327072
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10441,
-    "total_planned": 16,
+    "total_completed": 10442,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
