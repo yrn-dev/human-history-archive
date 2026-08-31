@@ -1,5 +1,5 @@
 {
- "count": 26,
+ "count": 27,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -182,6 +182,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000026-fall-ashikaga.md",
    "at": "2026-08-31T22:44:58+00:00"
+  },
+  {
+   "slug": "foreign-intercourse-literature-art-religion-manners-customs",
+   "title": "FOREIGN INTERCOURSE, LITERATURE, ART, RELIGION, MANNERS, AND CUSTOMS",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000027-foreign-intercourse-literature-art-religion-manners-customs.md",
+   "at": "2026-08-31T22:55:01+00:00"
   }
  ]
 }
