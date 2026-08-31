@@ -51612,14 +51612,14 @@
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1307",
       "timestamp": 1788163623.2751093
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "Railways: connecting continents and shrinking distances \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788163929.0094292
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1452",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10337,
-    "total_planned": 49,
+    "total_completed": 10338,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
