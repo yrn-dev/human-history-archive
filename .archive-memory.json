@@ -51837,14 +51837,14 @@
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1310",
       "timestamp": 1788173036.5204504
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "The printing press: Gutenberg's revolution \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788173287.8674083
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10382,
-    "total_planned": 4,
+    "total_completed": 10383,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
