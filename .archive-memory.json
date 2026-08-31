@@ -51262,14 +51262,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1013",
       "timestamp": 1788148025.3757465
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788148220.391909
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10267,
-    "total_planned": 48,
+    "total_completed": 10268,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
