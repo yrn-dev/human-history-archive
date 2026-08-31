@@ -51682,14 +51682,14 @@
       "era": "renaissance",
       "topic": "Copernicus and the heliocentric revolution \u2014 Part 1309",
       "timestamp": 1788166717.0605643
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1452",
-      "variation": true
-    },
+      "timestamp": 1788166988.1480598
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10351,
-    "total_planned": 35,
+    "total_completed": 10352,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
