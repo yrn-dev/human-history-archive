@@ -52482,14 +52482,14 @@
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1034",
       "timestamp": 1788202497.1814723
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788202796.4525964
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1034",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10511,
-    "total_planned": 17,
+    "total_completed": 10512,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
