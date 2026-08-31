@@ -51697,14 +51697,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1020",
       "timestamp": 1788167316.375472
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788167465.8871472
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10354,
-    "total_planned": 32,
+    "total_completed": 10355,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
