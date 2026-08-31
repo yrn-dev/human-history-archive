@@ -51432,14 +51432,14 @@
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1298",
       "timestamp": 1788155362.5270693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Hanging Gardens of Babylon: myth or reality? \u2014 Part 1301",
-      "variation": true
-    },
+      "timestamp": 1788155595.1332092
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10301,
-    "total_planned": 14,
+    "total_completed": 10302,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
