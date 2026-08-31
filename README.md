@@ -1,38 +1,65 @@
 # 🌍 Human History Archive
 
-**History of the world, written only from real books.**
+**History of the world, written only from real books and official documents.**
 
-No model "memory". No AI "knowledge". No propaganda. Only public-domain books —
-scholarly works of the 19th and early 20th century, written by people who lived in
-the age of the book, not of the algorithm.
+No model "memory". No AI "knowledge". No invented facts. Only public-domain
+books (100–150 years old) and official public records — written by people, not
+optimized for an algorithm.
 
 ---
 
 ## Why this archive exists
 
 Big AI companies are buying whole libraries, digitizing the books to feed their
-models, while the books themselves quietly disappear from shelves and bookstores.
-Soon, when someone asks "what really happened in history?", the answer will come
-from a model that was trained on everything at once — books and blog posts,
-facts and propaganda. And that model will be the **only book left**.
+models, while the books themselves quietly disappear from shelves and
+bookstores. Soon, when someone asks "what really happened in history?", the
+answer will come from a model trained on everything at once — books and blog
+posts, facts and propaganda. And that model will be the **only book left**.
 
 This archive is built against that future:
 
-- **The sources are old and clean.** Public-domain scholarly works, 100–150 years
-  old. Nobody rewrote them for an algorithm. Nobody "optimized" them.
-- **The AI does not write from its own head.** It is a *librarian*: it retrieves
-  passages from the books and writes the article **strictly from what it found**.
-  If the books are silent on a subject, the article says so instead of inventing.
+- **The sources are real documents.** Public-domain scholarly books of the 19th
+  and early 20th century, plus official public records (court and government
+  documents released into the public domain). Nobody rewrote them for an
+  algorithm. Nobody "optimized" them.
+- **The AI does not write from its own head.** It is a *librarian*: it
+  retrieves passages from the sources and writes the article **strictly from
+  what it found**. If the sources are silent on a subject, the article says so
+  instead of inventing.
 - **It never repeats.** Every written topic is stored in shared memory
   (`data/written-topics.json`). The same subject is never written twice.
 - **It is public.** Open on GitHub, MIT-licensed. Read it, verify it, cite it,
   reuse it. When the books are gone from the shelves, the archive remains.
 
-## The library — 55 books, ~80 MB of text
+## An honest word about the sources
 
-| Book | Author | Covers |
+We will not promise that this archive is "100% free of propaganda". That would
+be a lie. We can only promise **transparency**:
+
+- Some sources are the **perspective of a participant**. Winston Churchill's
+  war memoirs describe the war from *his* side. An old book of 1900 carries the
+  biases of its author's country and century. The archive keeps them **as
+  sources with a named author**, not as "the truth".
+- Some sources are **official documents of a government** (for example, the
+  U.S. Department of Justice's public disclosures in the Jeffrey Epstein case).
+  An official document is a raw record — dates, names, decisions — but it is
+  still a document *of* a government. The archive does not add its own
+  judgment; you read the document and decide.
+- What the archive **does** guarantee:
+  1. Every article names its exact sources (`## Sources` at the end).
+  2. The AI adds nothing that is not in those sources — no rumors, no
+     "as some say", no outside opinions.
+  3. You can open the cited source yourself and check every claim.
+
+The strength of this archive is not neutrality. It is that **you always know
+whose words you are reading**.
+
+## The library — 67 books and document sets, ~110 MB of text
+
+| Source | Author / origin | Covers |
 |---|---|---|
 | *A Short History of the World* (1922) | H. G. Wells | Global history: stone tools → 1920s |
+| *The Outline of History* (1920) | H. G. Wells | Global history → 1920 |
 | *The History of the Decline and Fall of the Roman Empire*, 6 vols. | Edward Gibbon | Rome and Byzantium, 1st–15th c. |
 | *The Histories*, 2 vols. | Herodotus | Ancient world: Persia, Egypt, Greece |
 | *History of the Peloponnesian War* | Thucydides | Ancient Greece |
@@ -48,20 +75,28 @@ This archive is built against that future:
 | *An Account of Egypt* | Herodotus | Egypt |
 | **The Holy Qur'an — three parallel translations** | Yusuf Ali · Pickthall · Shakir | Sacred text |
 | *Encyclopædia Britannica*, 11th ed. (1911) — 25 letter segments | hundreds of scholars | "From A to Z", in detail |
+| *The World Crisis* (1923), vol. 1 of 6 | Winston Churchill | WWI — *the participant's own account* |
+| *With the German Armies in the West* (1917) | — | WWI from the German side |
+| *The Somme, Vol. 2: The Second Battle of the Somme* (1918) | Michelin (firm) | WWI, front-line record |
+| *Days to Remember: The British Empire in the Great War* (1919) | Buchan & Newbolt | WWI, contemporaneous record |
+| *World's War Events, Vol. 3* (1917) | Reynolds & Churchill | WWI, contemporaneous record |
+| *A Short History of Belgium* (1918) | Léon van der Essen | WWI, occupied Europe |
+| **Jeffrey Epstein case — official U.S. DOJ disclosures** (41 documents) | U.S. Department of Justice | FBI files, Maxwell interviews (2025), DOJ memoranda, letters to Congress (2025–2026) |
 
-All books are **public domain** (Project Gutenberg) — no copyright, no paywall,
-no agenda. Every article footer names the books it was compiled from.
+All sources are **public domain or officially released public records**
+(Project Gutenberg, DOJ public disclosures) — no copyright paywall.
 
 ## How the Librarian works
 
 1. **Retrieval.** For each topic the system searches a full-text index
-   (~53,000 passages from the 55 books) and takes the most relevant excerpts.
+   (~61,000 passages from the 67 sources) and takes the most relevant excerpts.
 2. **Writing.** The model writes the article **only from those excerpts**.
-   Names, dates, facts — only what the books say. Thin sources → a short,
+   Names, dates, facts — only what the sources say. Thin sources → a short,
    honest article, never invented filler.
 3. **Memory.** The finished topic is recorded in the shared memory.
    The same subject never comes back.
-4. **Publishing.** The article is committed to this repository.
+4. **Publishing.** The article is committed to this repository with its
+   source list.
 
 ## Structure
 
@@ -83,7 +118,8 @@ data/
 
 1. Walk through `eras/` chronologically — the whole story in order.
 2. Or jump straight to `eras/cultures/` for a people, a tradition, a sacred text.
-3. Every article ends with **`## Sources`** — the exact books it was compiled from.
+3. Every article ends with **`## Sources`** — the exact sources it was
+   compiled from. Read those first if you want to check.
 4. `data/written-topics.json` is a map of everything the archive already contains.
 
 ## По-русски
@@ -94,10 +130,25 @@ data/
 книгах, и на пропаганде. И она останется **единственной книгой**.
 
 Этот архив — ответ на это будущее. ИИ-библиотекарь пишет статьи **только по
-настоящим старым книгам** (public domain, XIX – начало XX века, без пропаганды),
-не пользуется «своими знаниями», никогда не повторяет темы и честно пишет
-источники. Архив открытый. Если книги исчезнут — история останется здесь.
+настоящим источникам**: старым public-domain книгам (XIX – начало XX века)
+и официальным публичным документам (например, раскрытые материалы дела
+Эпштейна от Министерства юстиции США). Не пользуется «своими знаниями»,
+никогда не повторяет темы.
+
+**Честно о «без пропаганды»:** мы не обещаем, что архив на 100% свободен от
+пропаганды — это была бы ложь. Мемуары Черчилля — это *его* версия войны.
+Официальный документ правительства — это запись *этого* правительства. Старая
+книга несёт взгляды страны и века своего автора. Зато мы гарантируем:
+
+1. В каждой статье подписаны точные источники (`## Sources`).
+2. ИИ ничего не выдумывает и не добавляет «а ещё говорят...» — только то,
+   что в источнике.
+3. Любой источник можно открыть и проверить самому.
+
+Сила архива — не в «нейтральности», а в том, что **ты всегда видишь,
+чьими словами читаешь**.
 
 ## License
 
-MIT. Source books: public domain. Use it, cite it, keep it alive.
+MIT. Sources: public domain / officially released public records.
+Use it, cite it, verify it, keep it alive.
