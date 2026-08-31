@@ -51982,14 +51982,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1318",
       "timestamp": 1788179672.509557
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788179823.993317
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10411,
-    "total_planned": 46,
+    "total_completed": 10412,
+    "total_planned": 45,
     "total_topics": 74
   }
 }
