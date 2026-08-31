@@ -51322,14 +51322,14 @@
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1298",
       "timestamp": 1788150734.1197753
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788150950.9672327
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10279,
-    "total_planned": 36,
+    "total_completed": 10280,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
