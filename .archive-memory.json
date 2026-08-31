@@ -52382,14 +52382,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1327",
       "timestamp": 1788197654.863634
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788197933.545069
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1325",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10491,
-    "total_planned": 37,
+    "total_completed": 10492,
+    "total_planned": 36,
     "total_topics": 74
   }
 }
