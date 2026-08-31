@@ -51307,14 +51307,14 @@
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1298",
       "timestamp": 1788150021.5387
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788150200.4552457
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1013",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10276,
-    "total_planned": 39,
+    "total_completed": 10277,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
