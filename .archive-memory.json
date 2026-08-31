@@ -51632,14 +51632,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1309",
       "timestamp": 1788164687.4415545
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788164974.6125896
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10341,
-    "total_planned": 45,
+    "total_completed": 10342,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
