@@ -52177,14 +52177,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1318",
       "timestamp": 1788189112.0247362
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788189362.8336854
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1462",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10450,
-    "total_planned": 7,
+    "total_completed": 10451,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
