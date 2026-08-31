@@ -52492,14 +52492,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1034",
       "timestamp": 1788203029.26831
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1472",
-      "variation": true
-    },
+      "timestamp": 1788203201.5863209
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10513,
-    "total_planned": 15,
+    "total_completed": 10514,
+    "total_planned": 14,
     "total_topics": 74
   }
 }
