@@ -51602,14 +51602,14 @@
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1307",
       "timestamp": 1788163040.611477
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1452",
-      "variation": true
-    },
+      "timestamp": 1788163345.3852146
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10335,
-    "total_planned": 51,
+    "total_completed": 10336,
+    "total_planned": 50,
     "total_topics": 74
   }
 }
