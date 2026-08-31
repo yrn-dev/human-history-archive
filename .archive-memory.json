@@ -51197,14 +51197,14 @@
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1300",
       "timestamp": 1788145452.230835
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Space Race: Sputnik, Apollo, and the moon landing \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788145591.4738076
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10254,
-    "total_planned": 61,
+    "total_completed": 10255,
+    "total_planned": 60,
     "total_topics": 74
   }
 }
