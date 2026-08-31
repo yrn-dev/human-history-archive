@@ -51067,14 +51067,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1292",
       "timestamp": 1788139837.890032
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788139976.169378
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10228,
-    "total_planned": 16,
+    "total_completed": 10229,
+    "total_planned": 15,
     "total_topics": 74
   }
 }
