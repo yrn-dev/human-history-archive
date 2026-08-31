@@ -51537,14 +51537,14 @@
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1309",
       "timestamp": 1788159876.3844638
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1020",
-      "variation": true
-    },
+      "timestamp": 1788160132.1019588
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh Epic: Manas and oral tradition \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10322,
-    "total_planned": 64,
+    "total_completed": 10323,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
