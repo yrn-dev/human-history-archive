@@ -1,5 +1,5 @@
 {
- "count": 4,
+ "count": 5,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28,6 +28,13 @@
    "era": "ancient",
    "file": "eras/ancient/000004-origin-japanese-nation-historical-evidences.md",
    "at": "2026-08-31T19:53:50+00:00"
+  },
+  {
+   "slug": "vision-of-life-in-the-quran-purpose-afterlife-moral-order",
+   "title": "The vision of life in the Qur'an: purpose, afterlife, and moral order",
+   "era": "cultures",
+   "file": "eras/cultures/000005-vision-of-life-in-the-quran-purpose-afterlife-moral-order.md",
+   "at": "2026-08-31T19:54:03+00:00"
   }
  ]
 }
