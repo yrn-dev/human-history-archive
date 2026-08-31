@@ -52457,14 +52457,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1327",
       "timestamp": 1788201437.2143025
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1328",
-      "variation": true
-    },
+      "timestamp": 1788201646.1018484
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10506,
-    "total_planned": 22,
+    "total_completed": 10507,
+    "total_planned": 21,
     "total_topics": 74
   }
 }
