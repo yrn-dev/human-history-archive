@@ -1,5 +1,5 @@
 {
- "count": 6,
+ "count": 7,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42,6 +42,13 @@
    "era": "ancient",
    "file": "eras/ancient/000006-origin-nation-geographical-archaeological-relics.md",
    "at": "2026-08-31T19:54:36+00:00"
+  },
+  {
+   "slug": "language-physical-characteristics",
+   "title": "LANGUAGE AND PHYSICAL CHARACTERISTICS",
+   "era": "cultures",
+   "file": "eras/cultures/000007-language-physical-characteristics.md",
+   "at": "2026-08-31T20:04:38+00:00"
   }
  ]
 }
