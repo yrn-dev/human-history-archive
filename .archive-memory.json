@@ -50972,14 +50972,14 @@
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1291",
       "timestamp": 1788135416.903067
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1289",
-      "variation": true
-    },
+      "timestamp": 1788135636.915905
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1432",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10209,
-    "total_planned": 35,
+    "total_completed": 10210,
+    "total_planned": 34,
     "total_topics": 74
   }
 }
