@@ -1,5 +1,5 @@
 {
- "count": 14,
+ "count": 15,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -98,6 +98,13 @@
    "era": "ancient",
    "file": "eras/ancient/000014-daiho-laws-yoro-laws.md",
    "at": "2026-08-31T20:45:04+00:00"
+  },
+  {
+   "slug": "nara-epoch",
+   "title": "THE NARA EPOCH",
+   "era": "ancient",
+   "file": "eras/ancient/000015-nara-epoch.md",
+   "at": "2026-08-31T20:55:02+00:00"
   }
  ]
 }
