@@ -52127,14 +52127,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1318",
       "timestamp": 1788186747.932713
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Renaissance architecture: Brunelleschi's dome \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788186909.7480083
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Sumerian writing: how cuneiform changed the world \u2014 Part 1319",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10440,
-    "total_planned": 17,
+    "total_completed": 10441,
+    "total_planned": 16,
     "total_topics": 74
   }
 }
