@@ -51712,14 +51712,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1020",
       "timestamp": 1788167919.3472488
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788168098.0699768
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Great Depression: economic collapse of the 1930s \u2014 Part 1452",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10357,
-    "total_planned": 29,
+    "total_completed": 10358,
+    "total_planned": 28,
     "total_topics": 74
   }
 }
