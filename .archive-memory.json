@@ -52277,14 +52277,14 @@
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1327",
       "timestamp": 1788193358.90479
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788193511.9712045
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1327",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10470,
-    "total_planned": 58,
+    "total_completed": 10471,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
