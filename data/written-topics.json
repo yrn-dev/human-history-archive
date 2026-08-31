@@ -1,5 +1,5 @@
 {
- "count": 3,
+ "count": 4,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21,6 +21,13 @@
    "era": "modern",
    "file": "eras/modern/000003-rationalization.md",
    "at": "2026-08-31T19:43:53+00:00"
+  },
+  {
+   "slug": "origin-japanese-nation-historical-evidences",
+   "title": "ORIGIN OF THE JAPANESE NATION: HISTORICAL EVIDENCES",
+   "era": "ancient",
+   "file": "eras/ancient/000004-origin-japanese-nation-historical-evidences.md",
+   "at": "2026-08-31T19:53:50+00:00"
   }
  ]
 }
