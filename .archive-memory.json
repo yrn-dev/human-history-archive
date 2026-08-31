@@ -51217,14 +51217,14 @@
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1300",
       "timestamp": 1788146130.096491
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788146375.0528874
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1442",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10258,
-    "total_planned": 57,
+    "total_completed": 10259,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
