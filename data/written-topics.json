@@ -1,5 +1,5 @@
 {
- "count": 30,
+ "count": 31,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -210,6 +210,13 @@
    "era": "ancient",
    "file": "eras/ancient/000030-invasion-korea.md",
    "at": "2026-08-31T23:24:57+00:00"
+  },
+  {
+   "slug": "momo-yama-epoch",
+   "title": "THE MOMO-YAMA EPOCH",
+   "era": "renaissance",
+   "file": "eras/renaissance/000031-momo-yama-epoch.md",
+   "at": "2026-08-31T23:34:58+00:00"
   }
  ]
 }
