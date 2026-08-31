@@ -51987,14 +51987,14 @@
       "era": "future",
       "topic": "AI and automation: how machines will change work \u2014 Part 1316",
       "timestamp": 1788179823.993317
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The telegraph: instant communication across oceans \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788180075.890202
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1462",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10412,
-    "total_planned": 45,
+    "total_completed": 10413,
+    "total_planned": 44,
     "total_topics": 74
   }
 }
