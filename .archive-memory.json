@@ -52252,14 +52252,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1325",
       "timestamp": 1788192397.4370255
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788192657.58818
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1472",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10465,
-    "total_planned": 63,
+    "total_completed": 10466,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
