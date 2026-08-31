@@ -51902,14 +51902,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1462",
       "timestamp": 1788176165.7261376
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1462",
-      "variation": true
-    },
+      "timestamp": 1788176436.0519335
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10395,
-    "total_planned": 62,
+    "total_completed": 10396,
+    "total_planned": 61,
     "total_topics": 74
   }
 }
