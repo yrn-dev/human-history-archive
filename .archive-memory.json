@@ -52042,14 +52042,14 @@
       "era": "industrial",
       "topic": "Charles Darwin and the theory of evolution \u2014 Part 1316",
       "timestamp": 1788182513.1245978
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1027",
-      "variation": true
-    },
+      "timestamp": 1788182822.3018632
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1027",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10423,
-    "total_planned": 34,
+    "total_completed": 10424,
+    "total_planned": 33,
     "total_topics": 74
   }
 }
