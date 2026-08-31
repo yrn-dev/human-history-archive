@@ -50967,14 +50967,14 @@
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1291",
       "timestamp": 1788135124.7159593
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788135416.903067
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10208,
-    "total_planned": 36,
+    "total_completed": 10209,
+    "total_planned": 35,
     "total_topics": 74
   }
 }
