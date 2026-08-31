@@ -51187,14 +51187,14 @@
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1300",
       "timestamp": 1788145001.8611557
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788145269.477878
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10252,
-    "total_planned": 63,
+    "total_completed": 10253,
+    "total_planned": 62,
     "total_topics": 74
   }
 }
