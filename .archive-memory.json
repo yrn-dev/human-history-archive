@@ -52172,14 +52172,14 @@
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1462",
       "timestamp": 1788188811.8684301
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788189112.0247362
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The Industrial Revolution in Russia and Japan \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10449,
-    "total_planned": 8,
+    "total_completed": 10450,
+    "total_planned": 7,
     "total_topics": 74
   }
 }
