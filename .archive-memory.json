@@ -52072,14 +52072,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1319",
       "timestamp": 1788184246.048367
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788184469.54066
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Michelangelo's Sistine Chapel: creation and legacy \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10429,
-    "total_planned": 28,
+    "total_completed": 10430,
+    "total_planned": 27,
     "total_topics": 74
   }
 }
