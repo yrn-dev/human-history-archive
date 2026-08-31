@@ -51077,14 +51077,14 @@
       "era": "cultures",
       "topic": "Azerbaijani carpet weaving: art and heritage \u2014 Part 1291",
       "timestamp": 1788140117.76602
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788140383.5379782
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10230,
-    "total_planned": 14,
+    "total_completed": 10231,
+    "total_planned": 13,
     "total_topics": 74
   }
 }
