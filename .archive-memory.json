@@ -51997,14 +51997,14 @@
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1462",
       "timestamp": 1788180235.3545558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The Bessemer process: making steel affordable \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788180544.611495
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10414,
-    "total_planned": 43,
+    "total_completed": 10415,
+    "total_planned": 42,
     "total_topics": 74
   }
 }
