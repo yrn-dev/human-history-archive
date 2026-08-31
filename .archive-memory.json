@@ -52197,14 +52197,14 @@
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1027",
       "timestamp": 1788190077.434282
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1316",
-      "variation": true
-    },
+      "timestamp": 1788190343.5358741
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10454,
-    "total_planned": 3,
+    "total_completed": 10455,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
