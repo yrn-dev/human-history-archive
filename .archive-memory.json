@@ -51252,14 +51252,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1300",
       "timestamp": 1788147639.7324467
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788147860.0094712
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Bronze Age trade networks across Europe and Asia \u2014 Part 1013",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10265,
-    "total_planned": 50,
+    "total_completed": 10266,
+    "total_planned": 49,
     "total_topics": 74
   }
 }
