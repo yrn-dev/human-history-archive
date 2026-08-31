@@ -51182,14 +51182,14 @@
       "era": "industrial",
       "topic": "Victorian London: life in the industrial capital \u2014 Part 1298",
       "timestamp": 1788144726.9948545
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788145001.8611557
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10251,
-    "total_planned": 64,
+    "total_completed": 10252,
+    "total_planned": 63,
     "total_topics": 74
   }
 }
