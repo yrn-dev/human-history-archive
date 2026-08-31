@@ -50987,14 +50987,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1291",
       "timestamp": 1788136135.36189
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1006",
-      "variation": true
-    },
+      "timestamp": 1788136392.620421
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1289",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10212,
-    "total_planned": 32,
+    "total_completed": 10213,
+    "total_planned": 31,
     "total_topics": 74
   }
 }
