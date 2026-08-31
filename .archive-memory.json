@@ -51762,14 +51762,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1452",
       "timestamp": 1788169884.2676558
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Climate change scenarios for 2050 and beyond \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788170035.4236104
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1307",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10367,
-    "total_planned": 19,
+    "total_completed": 10368,
+    "total_planned": 18,
     "total_topics": 74
   }
 }
