@@ -51807,14 +51807,14 @@
       "era": "industrial",
       "topic": "Child labor and the factory system \u2014 Part 1307",
       "timestamp": 1788171685.9798496
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788171943.199307
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Medieval universities: birth of modern education \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10376,
-    "total_planned": 10,
+    "total_completed": 10377,
+    "total_planned": 9,
     "total_topics": 74
   }
 }
