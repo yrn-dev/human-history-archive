@@ -52112,14 +52112,14 @@
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1316",
       "timestamp": 1788186093.3820214
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The fall of Rome and the rise of medieval kingdoms \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788186373.125759
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10437,
-    "total_planned": 20,
+    "total_completed": 10438,
+    "total_planned": 19,
     "total_topics": 74
   }
 }
