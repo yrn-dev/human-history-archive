@@ -1,5 +1,5 @@
 {
- "count": 32,
+ "count": 33,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -224,6 +224,13 @@
    "era": "modern",
    "file": "eras/modern/000032-christianity-japan.md",
    "at": "2026-08-31T23:44:58+00:00"
+  },
+  {
+   "slug": "tokugawa-shogunate",
+   "title": "THE TOKUGAWA SHOGUNATE",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000033-tokugawa-shogunate.md",
+   "at": "2026-08-31T23:55:00+00:00"
   }
  ]
 }
