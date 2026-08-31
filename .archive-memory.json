@@ -51467,14 +51467,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1298",
       "timestamp": 1788156799.3643749
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Space colonization: Mars, Moon bases, and beyond \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788157085.0691361
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1301",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10308,
-    "total_planned": 7,
+    "total_completed": 10309,
+    "total_planned": 6,
     "total_topics": 74
   }
 }
