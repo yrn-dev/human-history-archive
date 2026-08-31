@@ -51522,14 +51522,14 @@
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1452",
       "timestamp": 1788159189.7106054
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Leonardo da Vinci: the ultimate Renaissance man \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788159348.6939628
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Fall of the Berlin Wall: end of division \u2014 Part 1452",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10319,
-    "total_planned": 67,
+    "total_completed": 10320,
+    "total_planned": 66,
     "total_topics": 74
   }
 }
