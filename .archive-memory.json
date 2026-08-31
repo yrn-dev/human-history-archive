@@ -51132,14 +51132,14 @@
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1291",
       "timestamp": 1788142688.1826646
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788142857.1610649
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish bath (hamam): tradition and social life \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10241,
-    "total_planned": 3,
+    "total_completed": 10242,
+    "total_planned": 2,
     "total_topics": 74
   }
 }
