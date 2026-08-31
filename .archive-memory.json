@@ -51302,14 +51302,14 @@
       "era": "cultures",
       "topic": "Kazakh nomadic culture: yurts, horses, and epic poetry \u2014 Part 1300",
       "timestamp": 1788149810.5101311
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788150021.5387
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10275,
-    "total_planned": 40,
+    "total_completed": 10276,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
