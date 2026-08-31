@@ -52322,14 +52322,14 @@
       "era": "prehistoric",
       "topic": "The discovery of fire by early humans and its impact on evolution \u2014 Part 1034",
       "timestamp": 1788195032.2139668
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "industrial",
       "topic": "The textile Industry: how cotton changed the world \u2014 Part 1325",
-      "variation": true
-    },
+      "timestamp": 1788195267.337639
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Holocaust: remembering the unimaginable \u2014 Part 1472",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10479,
-    "total_planned": 49,
+    "total_completed": 10480,
+    "total_planned": 48,
     "total_topics": 74
   }
 }
