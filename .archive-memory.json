@@ -51352,14 +51352,14 @@
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1300",
       "timestamp": 1788151933.2798977
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1442",
-      "variation": true
-    },
+      "timestamp": 1788152108.820792
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Digital Revolution: computers and smartphones \u2014 Part 1442",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10285,
-    "total_planned": 30,
+    "total_completed": 10286,
+    "total_planned": 29,
     "total_topics": 74
   }
 }
