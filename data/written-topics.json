@@ -1,5 +1,5 @@
 {
- "count": 25,
+ "count": 26,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -175,6 +175,13 @@
    "era": "ancient",
    "file": "eras/ancient/000025-war-dynasties.md",
    "at": "2026-08-31T22:35:03+00:00"
+  },
+  {
+   "slug": "fall-ashikaga",
+   "title": "THE FALL OF THE ASHIKAGA",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000026-fall-ashikaga.md",
+   "at": "2026-08-31T22:44:58+00:00"
   }
  ]
 }
