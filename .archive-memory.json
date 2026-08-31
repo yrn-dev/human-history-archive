@@ -52222,14 +52222,14 @@
       "era": "middle-ages",
       "topic": "Viking age: explorers, traders, and warriors \u2014 Part 1327",
       "timestamp": 1788191120.673203
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Galileo and the scientific method \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788191385.1317308
+    }
+  ],
+  "planned": [
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1034",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10459,
-    "total_planned": 69,
+    "total_completed": 10460,
+    "total_planned": 68,
     "total_topics": 74
   }
 }
