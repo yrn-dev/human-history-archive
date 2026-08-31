@@ -51212,14 +51212,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1442",
       "timestamp": 1788145912.8802147
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Byzantine Empire: continuation of Rome \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788146130.096491
+    }
+  ],
+  "planned": [
     {
       "era": "future",
       "topic": "Quantum computing: solving the unsolvable \u2014 Part 1298",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10257,
-    "total_planned": 58,
+    "total_completed": 10258,
+    "total_planned": 57,
     "total_topics": 74
   }
 }
