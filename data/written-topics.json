@@ -1,5 +1,5 @@
 {
- "count": 2,
+ "count": 3,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14,6 +14,13 @@
    "era": "cultures",
    "file": "eras/cultures/000002-japanese-mythology.md",
    "at": "2026-08-31T19:43:05+00:00"
+  },
+  {
+   "slug": "rationalization",
+   "title": "RATIONALIZATION",
+   "era": "modern",
+   "file": "eras/modern/000003-rationalization.md",
+   "at": "2026-08-31T19:43:53+00:00"
   }
  ]
 }
