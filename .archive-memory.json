@@ -51882,14 +51882,14 @@
       "era": "future",
       "topic": "Virtual reality: living in digital worlds \u2014 Part 1316",
       "timestamp": 1788175314.5077693
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Shakespeare: language, drama, and human nature \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788175508.202029
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Azerbaijani music: mugham and the tar instrument \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10391,
-    "total_planned": 66,
+    "total_completed": 10392,
+    "total_planned": 65,
     "total_topics": 74
   }
 }
