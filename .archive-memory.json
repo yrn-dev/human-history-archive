@@ -51232,14 +51232,14 @@
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1300",
       "timestamp": 1788146719.9814403
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788146913.211418
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Mongol Empire: the largest land empire in history \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10261,
-    "total_planned": 54,
+    "total_completed": 10262,
+    "total_planned": 53,
     "total_topics": 74
   }
 }
