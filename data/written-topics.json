@@ -1,5 +1,5 @@
 {
- "count": 22,
+ "count": 23,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -154,6 +154,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000022-kamakura-bakufu.md",
    "at": "2026-08-31T22:05:06+00:00"
+  },
+  {
+   "slug": "art-religion-literature-customs-commerce-kamakura",
+   "title": "ART, RELIGION, LITERATURE, CUSTOMS, AND COMMERCE IN THE KAMAKURA",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000023-art-religion-literature-customs-commerce-kamakura.md",
+   "at": "2026-08-31T22:15:00+00:00"
   }
  ]
 }
