@@ -51647,14 +51647,14 @@
       "era": "prehistoric",
       "topic": "The Megalithic cultures: Stonehenge and similar monuments \u2014 Part 1020",
       "timestamp": 1788165442.4398386
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "The Neolithic Revolution: how agriculture changed everything \u2014 Part 1020",
-      "variation": true
-    },
+      "timestamp": 1788165638.9519556
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1452",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10344,
-    "total_planned": 42,
+    "total_completed": 10345,
+    "total_planned": 41,
     "total_topics": 74
   }
 }
