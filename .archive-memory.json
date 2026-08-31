@@ -51662,14 +51662,14 @@
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1309",
       "timestamp": 1788165928.2726526
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1452",
-      "variation": true
-    },
+      "timestamp": 1788166152.2769346
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10347,
-    "total_planned": 39,
+    "total_completed": 10348,
+    "total_planned": 38,
     "total_topics": 74
   }
 }
