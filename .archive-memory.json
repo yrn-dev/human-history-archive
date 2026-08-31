@@ -51657,14 +51657,14 @@
       "era": "modern",
       "topic": "World War II: from invasion to atomic bomb \u2014 Part 1452",
       "timestamp": 1788165793.3086832
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Arabic calligraphy: art in writing \u2014 Part 1309",
-      "variation": true
-    },
+      "timestamp": 1788165928.2726526
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "World War I: the war to end all wars \u2014 Part 1452",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10346,
-    "total_planned": 40,
+    "total_completed": 10347,
+    "total_planned": 39,
     "total_topics": 74
   }
 }
