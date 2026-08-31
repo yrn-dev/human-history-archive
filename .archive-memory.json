@@ -51622,14 +51622,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1452",
       "timestamp": 1788164138.142739
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "Transhumanism: merging humans with machines \u2014 Part 1307",
-      "variation": true
-    },
+      "timestamp": 1788164376.8393264
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "Islamic Golden Age: science, medicine, and philosophy \u2014 Part 1309",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10339,
-    "total_planned": 47,
+    "total_completed": 10340,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
