@@ -52282,14 +52282,14 @@
       "era": "future",
       "topic": "Renewable energy: solar, fusion, and beyond \u2014 Part 1325",
       "timestamp": 1788193511.9712045
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1327",
-      "variation": true
-    },
+      "timestamp": 1788193682.1626437
+    }
+  ],
+  "planned": [
     {
       "era": "ancient",
       "topic": "Hatshepsut: the female pharaoh of Ancient Egypt \u2014 Part 1328",
@@ -52572,8 +52572,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10471,
-    "total_planned": 57,
+    "total_completed": 10472,
+    "total_planned": 56,
     "total_topics": 74
   }
 }
