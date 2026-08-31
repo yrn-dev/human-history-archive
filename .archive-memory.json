@@ -51917,14 +51917,14 @@
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1027",
       "timestamp": 1788176838.5064247
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1318",
-      "variation": true
-    },
+      "timestamp": 1788177010.4061928
+    }
+  ],
+  "planned": [
     {
       "era": "cultures",
       "topic": "Persian poetry: Rumi, Hafez, and Feridun \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10398,
-    "total_planned": 59,
+    "total_completed": 10399,
+    "total_planned": 58,
     "total_topics": 74
   }
 }
