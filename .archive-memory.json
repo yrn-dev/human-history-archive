@@ -51972,14 +51972,14 @@
       "era": "cultures",
       "topic": "Central Asian silk road: trade and cultural exchange \u2014 Part 1318",
       "timestamp": 1788179341.4344926
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Library of Alexandria: knowledge lost and found \u2014 Part 1319",
-      "variation": true
-    },
+      "timestamp": 1788179484.6974258
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "Exploration age: Columbus, Magellan, and Vasco da Gama \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10409,
-    "total_planned": 48,
+    "total_completed": 10410,
+    "total_planned": 47,
     "total_topics": 74
   }
 }
