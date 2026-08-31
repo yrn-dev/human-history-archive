@@ -51127,14 +51127,14 @@
       "era": "ancient",
       "topic": "Greek philosophy: Socrates, Plato, and Aristotle \u2014 Part 1292",
       "timestamp": 1788142400.8222733
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "middle-ages",
       "topic": "Knightly orders: Templars, Hospitallers, and Teutonic Knights \u2014 Part 1291",
-      "variation": true
-    },
+      "timestamp": 1788142688.1826646
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Black Death: how plague reshaped Europe \u2014 Part 1291",
@@ -51152,8 +51152,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10240,
-    "total_planned": 4,
+    "total_completed": 10241,
+    "total_planned": 3,
     "total_topics": 74
   }
 }
