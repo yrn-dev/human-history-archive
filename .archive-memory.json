@@ -52087,14 +52087,14 @@
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1462",
       "timestamp": 1788184780.753873
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Stone Age tools and their evolution from Oldowan to Mousterian \u2014 Part 1027",
-      "variation": true
-    },
+      "timestamp": 1788184959.7246683
+    }
+  ],
+  "planned": [
     {
       "era": "industrial",
       "topic": "The steam engine: Watt's invention that powered an era \u2014 Part 1316",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10432,
-    "total_planned": 25,
+    "total_completed": 10433,
+    "total_planned": 24,
     "total_topics": 74
   }
 }
