@@ -51267,14 +51267,14 @@
       "era": "modern",
       "topic": "The Cold War: nuclear standoff between superpowers \u2014 Part 1442",
       "timestamp": 1788148220.391909
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "future",
       "topic": "The future of cities: smart, vertical, and sustainable \u2014 Part 1298",
-      "variation": true
-    },
+      "timestamp": 1788148477.6050606
+    }
+  ],
+  "planned": [
     {
       "era": "renaissance",
       "topic": "The Medici family: bankers and patrons of art \u2014 Part 1300",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10268,
-    "total_planned": 47,
+    "total_completed": 10269,
+    "total_planned": 46,
     "total_topics": 74
   }
 }
