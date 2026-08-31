@@ -51347,14 +51347,14 @@
       "era": "ancient",
       "topic": "The Great Pyramid of Giza: construction methods and mysteries \u2014 Part 1301",
       "timestamp": 1788151721.0717936
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "cultures",
       "topic": "Turkish cuisine: from kebabs to baklava \u2014 Part 1300",
-      "variation": true
-    },
+      "timestamp": 1788151933.2798977
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Russian Revolution and rise of communism \u2014 Part 1442",
@@ -51507,8 +51507,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10284,
-    "total_planned": 31,
+    "total_completed": 10285,
+    "total_planned": 30,
     "total_topics": 74
   }
 }
