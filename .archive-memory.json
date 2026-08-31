@@ -51752,14 +51752,14 @@
       "era": "prehistoric",
       "topic": "Domestication of animals: dogs, cats, and livestock \u2014 Part 1020",
       "timestamp": 1788169495.8556387
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "ancient",
       "topic": "The Persian Empire under Darius I \u2014 Part 1310",
-      "variation": true
-    },
+      "timestamp": 1788169660.9845548
+    }
+  ],
+  "planned": [
     {
       "era": "modern",
       "topic": "The Internet: from ARPANET to global connectivity \u2014 Part 1452",
@@ -51862,8 +51862,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10365,
-    "total_planned": 21,
+    "total_completed": 10366,
+    "total_planned": 20,
     "total_topics": 74
   }
 }
