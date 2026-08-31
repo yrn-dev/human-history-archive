@@ -51912,14 +51912,14 @@
       "era": "future",
       "topic": "Genetic engineering: CRISPR and human enhancement \u2014 Part 1316",
       "timestamp": 1788176597.231857
-    }
-  ],
-  "planned": [
+    },
     {
       "era": "prehistoric",
       "topic": "Cave paintings of Lascaux and Altamira - what they tell us \u2014 Part 1027",
-      "variation": true
-    },
+      "timestamp": 1788176838.5064247
+    }
+  ],
+  "planned": [
     {
       "era": "middle-ages",
       "topic": "The Crusades: holy wars that changed the Middle East \u2014 Part 1318",
@@ -52217,8 +52217,8 @@
     }
   ],
   "stats": {
-    "total_completed": 10397,
-    "total_planned": 60,
+    "total_completed": 10398,
+    "total_planned": 59,
     "total_topics": 74
   }
 }
