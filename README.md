@@ -40,11 +40,10 @@ be a lie. We can only promise **transparency**:
   war memoirs describe the war from *his* side. An old book of 1900 carries the
   biases of its author's country and century. The archive keeps them **as
   sources with a named author**, not as "the truth".
-- Some sources are **official documents of a government** (for example, the
-  U.S. Department of Justice's public disclosures in the Jeffrey Epstein case).
-  An official document is a raw record — dates, names, decisions — but it is
-  still a document *of* a government. The archive does not add its own
-  judgment; you read the document and decide.
+- Some sources are **official documents of a government** (public records
+  released by government agencies). An official document is a raw record —
+  dates, names, decisions — but it is still a document *of* a government. The
+  archive does not add its own judgment; you read the document and decide.
 - What the archive **does** guarantee:
   1. Every article names its exact sources (`## Sources` at the end).
   2. The AI adds nothing that is not in those sources — no rumors, no
@@ -81,7 +80,6 @@ whose words you are reading**.
 | *Days to Remember: The British Empire in the Great War* (1919) | Buchan & Newbolt | WWI, contemporaneous record |
 | *World's War Events, Vol. 3* (1917) | Reynolds & Churchill | WWI, contemporaneous record |
 | *A Short History of Belgium* (1918) | Léon van der Essen | WWI, occupied Europe |
-| **Jeffrey Epstein case — official U.S. DOJ disclosures** (41 documents) | U.S. Department of Justice | FBI files, Maxwell interviews (2025), DOJ memoranda, letters to Congress (2025–2026) |
 
 All sources are **public domain or officially released public records**
 (Project Gutenberg, DOJ public disclosures) — no copyright paywall.
@@ -131,9 +129,8 @@ data/
 
 Этот архив — ответ на это будущее. ИИ-библиотекарь пишет статьи **только по
 настоящим источникам**: старым public-domain книгам (XIX – начало XX века)
-и официальным публичным документам (например, раскрытые материалы дела
-Эпштейна от Министерства юстиции США). Не пользуется «своими знаниями»,
-никогда не повторяет темы.
+и официальным публичным документам государственных органов. Не пользуется
+«своими знаниями», никогда не повторяет темы.
 
 **Честно о «без пропаганды»:** мы не обещаем, что архив на 100% свободен от
 пропаганды — это была бы ложь. Мемуары Черчилля — это *его* версия войны.
