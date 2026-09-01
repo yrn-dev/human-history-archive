@@ -1,5 +1,5 @@
 {
- "count": 146,
+ "count": 147,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1022,6 +1022,13 @@
    "era": "ancient",
    "file": "eras/ancient/000146-sicily-during-despotism-elder-dionysius-syracuse.md",
    "at": "2026-09-01T19:24:01+00:00"
+  },
+  {
+   "slug": "sicilian-affairs-continued-destruction",
+   "title": "SICILIAN AFFAIRS (continued). — FROM THE DESTRUCTION OF THE",
+   "era": "ancient",
+   "file": "eras/ancient/000147-sicilian-affairs-continued-destruction.md",
+   "at": "2026-09-01T19:34:00+00:00"
   }
  ]
 }
