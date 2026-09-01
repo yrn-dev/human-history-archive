@@ -1,5 +1,5 @@
 {
- "count": 72,
+ "count": 73,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -504,6 +504,13 @@
    "era": "ancient",
    "file": "eras/ancient/000072-conquests-sparta-towards-arcadia-argolis.md",
    "at": "2026-09-01T07:04:48+00:00"
+  },
+  {
+   "slug": "corinth-sikyon-megara-age-grecian-despots",
+   "title": "CORINTH, SIKYON, AND MEGARA. — AGE OF THE GRECIAN DESPOTS.",
+   "era": "ancient",
+   "file": "eras/ancient/000073-corinth-sikyon-megara-age-grecian-despots.md",
+   "at": "2026-09-01T07:14:34+00:00"
   }
  ]
 }
