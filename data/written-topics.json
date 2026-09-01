@@ -1,5 +1,5 @@
 {
- "count": 141,
+ "count": 142,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -987,6 +987,13 @@
    "era": "ancient",
    "file": "eras/ancient/000141-subjugation-olynthus-laced-monians-down.md",
    "at": "2026-09-01T18:37:31+00:00"
+  },
+  {
+   "slug": "battle-leuktra-consequences",
+   "title": "BATTLE OF LEUKTRA AND ITS CONSEQUENCES.",
+   "era": "ancient",
+   "file": "eras/ancient/000142-battle-leuktra-consequences.md",
+   "at": "2026-09-01T18:44:07+00:00"
   }
  ]
 }
