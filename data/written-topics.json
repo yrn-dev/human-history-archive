@@ -1,5 +1,5 @@
 {
- "count": 40,
+ "count": 41,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -280,6 +280,13 @@
    "era": "modern",
    "file": "eras/modern/000040-meiji-government.md",
    "at": "2026-09-01T01:04:59+00:00"
+  },
+  {
+   "slug": "wars-china-russia",
+   "title": "WARS WITH CHINA AND RUSSIA",
+   "era": "renaissance",
+   "file": "eras/renaissance/000041-wars-china-russia.md",
+   "at": "2026-09-01T01:14:53+00:00"
   }
  ]
 }
