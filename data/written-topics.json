@@ -1,5 +1,5 @@
 {
- "count": 116,
+ "count": 117,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -812,6 +812,13 @@
    "era": "ancient",
    "file": "eras/ancient/000116-seventh-year-war-capture-sphakteria.md",
    "at": "2026-09-01T14:24:19+00:00"
+  },
+  {
+   "slug": "eighth-year-war",
+   "title": "EIGHTH YEAR OF THE WAR.",
+   "era": "ancient",
+   "file": "eras/ancient/000117-eighth-year-war.md",
+   "at": "2026-09-01T14:34:15+00:00"
   }
  ]
 }
