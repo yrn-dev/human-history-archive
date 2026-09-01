@@ -1,5 +1,5 @@
 {
- "count": 88,
+ "count": 89,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -616,6 +616,13 @@
    "era": "ancient",
    "file": "eras/ancient/000088-akarnanians-epirots.md",
    "at": "2026-09-01T09:44:31+00:00"
+  },
+  {
+   "slug": "illyrians-macedonians-onians",
+   "title": "ILLYRIANS, MACEDONIANS, PÆONIANS.",
+   "era": "ancient",
+   "file": "eras/ancient/000089-illyrians-macedonians-onians.md",
+   "at": "2026-09-01T09:54:31+00:00"
   }
  ]
 }
