@@ -1,5 +1,5 @@
 {
- "count": 140,
+ "count": 141,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -980,6 +980,13 @@
    "era": "ancient",
    "file": "eras/ancient/000140-peace-antalkidas-down-subjugation-olynthus.md",
    "at": "2026-09-01T18:29:25+00:00"
+  },
+  {
+   "slug": "subjugation-olynthus-laced-monians-down",
+   "title": "FROM THE SUBJUGATION OF OLYNTHUS BY THE LACEDÆMONIANS DOWN TO THE",
+   "era": "ancient",
+   "file": "eras/ancient/000141-subjugation-olynthus-laced-monians-down.md",
+   "at": "2026-09-01T18:37:31+00:00"
   }
  ]
 }
