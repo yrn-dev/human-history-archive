@@ -1,5 +1,5 @@
 {
- "count": 82,
+ "count": 83,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -574,6 +574,13 @@
    "era": "ancient",
    "file": "eras/ancient/000082-phenicians.md",
    "at": "2026-09-01T08:44:44+00:00"
+  },
+  {
+   "slug": "assyrians-babylon",
+   "title": "ASSYRIANS. — BABYLON.",
+   "era": "ancient",
+   "file": "eras/ancient/000083-assyrians-babylon.md",
+   "at": "2026-09-01T08:54:44+00:00"
   }
  ]
 }
