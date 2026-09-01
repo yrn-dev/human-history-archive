@@ -1,5 +1,5 @@
 {
- "count": 112,
+ "count": 113,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -784,6 +784,13 @@
    "era": "ancient",
    "file": "eras/ancient/000112-blockade-potid-down-end-first-year.md",
    "at": "2026-09-01T13:44:14+00:00"
+  },
+  {
+   "slug": "beginning-second-year-down-end",
+   "title": "FROM THE BEGINNING OF THE SECOND YEAR DOWN TO THE END OF THE",
+   "era": "ancient",
+   "file": "eras/ancient/000113-beginning-second-year-down-end.md",
+   "at": "2026-09-01T13:54:11+00:00"
   }
  ]
 }
