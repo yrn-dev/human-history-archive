@@ -1,5 +1,5 @@
 {
- "count": 94,
+ "count": 95,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -658,6 +658,13 @@
    "era": "ancient",
    "file": "eras/ancient/000094-grecian-affairs-during-government-peisistratus-his-sons.md",
    "at": "2026-09-01T10:44:50+00:00"
+  },
+  {
+   "slug": "grecian-affairs-expulsion-peisistratids",
+   "title": "GRECIAN AFFAIRS AFTER THE EXPULSION OF THE PEISISTRATIDS. —",
+   "era": "ancient",
+   "file": "eras/ancient/000095-grecian-affairs-expulsion-peisistratids.md",
+   "at": "2026-09-01T10:54:47+00:00"
   }
  ]
 }
