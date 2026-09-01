@@ -1,5 +1,5 @@
 {
- "count": 61,
+ "count": 62,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -427,6 +427,13 @@
    "era": "ancient",
    "file": "eras/ancient/000061-application-chronology-grecian-legend.md",
    "at": "2026-09-01T05:14:46+00:00"
+  },
+  {
+   "slug": "state-society-manners-exhibited-grecian-legend",
+   "title": "STATE OF SOCIETY AND MANNERS AS EXHIBITED IN GRECIAN LEGEND.",
+   "era": "ancient",
+   "file": "eras/ancient/000062-state-society-manners-exhibited-grecian-legend.md",
+   "at": "2026-09-01T05:24:41+00:00"
   }
  ]
 }
