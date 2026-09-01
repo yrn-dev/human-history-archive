@@ -1,5 +1,5 @@
 {
- "count": 73,
+ "count": 74,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -511,6 +511,13 @@
    "era": "ancient",
    "file": "eras/ancient/000073-corinth-sikyon-megara-age-grecian-despots.md",
    "at": "2026-09-01T07:14:34+00:00"
+  },
+  {
+   "slug": "ionic-portion-hellas-athens-solon",
+   "title": "IONIC PORTION OF HELLAS. — ATHENS BEFORE SOLON.",
+   "era": "ancient",
+   "file": "eras/ancient/000074-ionic-portion-hellas-athens-solon.md",
+   "at": "2026-09-01T07:24:50+00:00"
   }
  ]
 }
