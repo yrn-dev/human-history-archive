@@ -1,5 +1,5 @@
 {
- "count": 56,
+ "count": 57,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -392,6 +392,13 @@
    "era": "ancient",
    "file": "eras/ancient/000056-legends-thebes.md",
    "at": "2026-09-01T03:54:47+00:00"
+  },
+  {
+   "slug": "legend-troy",
+   "title": "LEGEND OF TROY.",
+   "era": "ancient",
+   "file": "eras/ancient/000057-legend-troy.md",
+   "at": "2026-09-01T04:34:43+00:00"
   }
  ]
 }
