@@ -1,5 +1,5 @@
 {
- "count": 139,
+ "count": 140,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -973,6 +973,13 @@
    "era": "ancient",
    "file": "eras/ancient/000139-rebuilding-long-walls-athens-peace.md",
    "at": "2026-09-01T18:14:27+00:00"
+  },
+  {
+   "slug": "peace-antalkidas-down-subjugation-olynthus",
+   "title": "FROM THE PEACE OF ANTALKIDAS DOWN TO THE SUBJUGATION OF OLYNTHUS",
+   "era": "ancient",
+   "file": "eras/ancient/000140-peace-antalkidas-down-subjugation-olynthus.md",
+   "at": "2026-09-01T18:29:25+00:00"
   }
  ]
 }
