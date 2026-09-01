@@ -1,5 +1,5 @@
 {
- "count": 69,
+ "count": 70,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -483,6 +483,13 @@
    "era": "ancient",
    "file": "eras/ancient/000069-tolo-dorian-emigration-peloponnesus-elis-laconia.md",
    "at": "2026-09-01T06:34:50+00:00"
+  },
+  {
+   "slug": "laws-discipline-lykurgus-sparta",
+   "title": "LAWS AND DISCIPLINE OF LYKURGUS AT SPARTA.",
+   "era": "ancient",
+   "file": "eras/ancient/000070-laws-discipline-lykurgus-sparta.md",
+   "at": "2026-09-01T06:44:35+00:00"
   }
  ]
 }
