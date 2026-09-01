@@ -1,5 +1,5 @@
 {
- "count": 80,
+ "count": 81,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -560,6 +560,13 @@
    "era": "ancient",
    "file": "eras/ancient/000080-natives-asia-minor-whom-greeks-became-connected.md",
    "at": "2026-09-01T08:24:37+00:00"
+  },
+  {
+   "slug": "lydians-medes-cimmerians-scythians",
+   "title": "LYDIANS. — MEDES. — CIMMERIANS. — SCYTHIANS.",
+   "era": "ancient",
+   "file": "eras/ancient/000081-lydians-medes-cimmerians-scythians.md",
+   "at": "2026-09-01T08:34:52+00:00"
   }
  ]
 }
