@@ -1,5 +1,5 @@
 {
- "count": 36,
+ "count": 37,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -252,6 +252,13 @@
    "era": "modern",
    "file": "eras/modern/000036-late-period-tokugawa-bakufu.md",
    "at": "2026-09-01T00:26:09+00:00"
+  },
+  {
+   "slug": "organization-central-local-currency-laws",
+   "title": "ORGANIZATION, CENTRAL AND LOCAL; CURRENCY AND THE LAWS OF THE",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000037-organization-central-local-currency-laws.md",
+   "at": "2026-09-01T00:34:58+00:00"
   }
  ]
 }
