@@ -1,5 +1,5 @@
 {
- "count": 102,
+ "count": 103,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -714,6 +714,13 @@
    "era": "ancient",
    "file": "eras/ancient/000102-battle-marathon-march-xerxes-against-greece.md",
    "at": "2026-09-01T12:04:26+00:00"
+  },
+  {
+   "slug": "proceedings-greece-battle-marathon-time",
+   "title": "PROCEEDINGS IN GREECE FROM THE BATTLE OF MARATHON TO THE TIME OF",
+   "era": "ancient",
+   "file": "eras/ancient/000103-proceedings-greece-battle-marathon-time.md",
+   "at": "2026-09-01T12:14:25+00:00"
   }
  ]
 }
