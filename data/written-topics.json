@@ -1,5 +1,5 @@
 {
- "count": 126,
+ "count": 127,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -882,6 +882,13 @@
    "era": "ancient",
    "file": "eras/ancient/000126-restored-athenian-democracy-deposition.md",
    "at": "2026-09-01T16:04:25+00:00"
+  },
+  {
+   "slug": "arrival-cyrus-younger-asia-minor-down",
+   "title": "FROM THE ARRIVAL OF CYRUS THE YOUNGER IN ASIA MINOR DOWN TO",
+   "era": "ancient",
+   "file": "eras/ancient/000127-arrival-cyrus-younger-asia-minor-down.md",
+   "at": "2026-09-01T16:14:28+00:00"
   }
  ]
 }
