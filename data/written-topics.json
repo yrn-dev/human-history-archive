@@ -1,5 +1,5 @@
 {
- "count": 44,
+ "count": 45,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -308,6 +308,13 @@
    "era": "ancient",
    "file": "eras/ancient/000044-legends-respecting-gods.md",
    "at": "2026-09-01T01:44:53+00:00"
+  },
+  {
+   "slug": "legends-relating-heroes-men",
+   "title": "LEGENDS RELATING TO HEROES AND MEN.",
+   "era": "ancient",
+   "file": "eras/ancient/000045-legends-relating-heroes-men.md",
+   "at": "2026-09-01T01:54:54+00:00"
   }
  ]
 }
