@@ -1,5 +1,5 @@
 {
- "count": 76,
+ "count": 77,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -532,6 +532,13 @@
    "era": "ancient",
    "file": "eras/ancient/000076-eub-cyclades.md",
    "at": "2026-09-01T07:44:40+00:00"
+  },
+  {
+   "slug": "asiatic-ionians",
+   "title": "ASIATIC IONIANS.",
+   "era": "ancient",
+   "file": "eras/ancient/000077-asiatic-ionians.md",
+   "at": "2026-09-01T07:54:44+00:00"
   }
  ]
 }
