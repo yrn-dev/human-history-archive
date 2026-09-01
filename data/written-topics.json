@@ -1,5 +1,5 @@
 {
- "count": 67,
+ "count": 68,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -469,6 +469,13 @@
    "era": "ancient",
    "file": "eras/ancient/000067-members-hellenic-aggregate-separately-taken-greeks-north.md",
    "at": "2026-09-01T06:15:01+00:00"
+  },
+  {
+   "slug": "earliest-historical-view-peloponnesus-dorians-argos",
+   "title": "EARLIEST HISTORICAL VIEW OF PELOPONNESUS. DORIANS IN ARGOS AND",
+   "era": "ancient",
+   "file": "eras/ancient/000068-earliest-historical-view-peloponnesus-dorians-argos.md",
+   "at": "2026-09-01T06:26:01+00:00"
   }
  ]
 }
