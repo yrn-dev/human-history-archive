@@ -1,5 +1,5 @@
 {
- "count": 48,
+ "count": 49,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -336,6 +336,13 @@
    "era": "ancient",
    "file": "eras/ancient/000048-deukalion-hellen-sons-hellen.md",
    "at": "2026-09-01T02:24:51+00:00"
+  },
+  {
+   "slug": "pelopids",
+   "title": "THE PELOPIDS.",
+   "era": "ancient",
+   "file": "eras/ancient/000049-pelopids.md",
+   "at": "2026-09-01T02:44:44+00:00"
   }
  ]
 }
