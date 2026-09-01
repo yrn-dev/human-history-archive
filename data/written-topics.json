@@ -1,5 +1,5 @@
 {
- "count": 143,
+ "count": 144,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1001,6 +1001,13 @@
    "era": "ancient",
    "file": "eras/ancient/000143-foundation-messene-megalopolis-death.md",
    "at": "2026-09-01T18:54:11+00:00"
+  },
+  {
+   "slug": "death-pelopidas-battle-mantinea",
+   "title": "FROM THE DEATH OF PELOPIDAS TO THE BATTLE OF MANTINEA.",
+   "era": "ancient",
+   "file": "eras/ancient/000144-death-pelopidas-battle-mantinea.md",
+   "at": "2026-09-01T19:04:15+00:00"
   }
  ]
 }
