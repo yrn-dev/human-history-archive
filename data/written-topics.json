@@ -1,5 +1,5 @@
 {
- "count": 86,
+ "count": 87,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -602,6 +602,13 @@
    "era": "ancient",
    "file": "eras/ancient/000086-western-colonies-greece-epirus-italy-sicily-gaul.md",
    "at": "2026-09-01T09:24:33+00:00"
+  },
+  {
+   "slug": "grecian-colonies-near-epirus",
+   "title": "GRECIAN COLONIES IN AND NEAR EPIRUS.",
+   "era": "ancient",
+   "file": "eras/ancient/000087-grecian-colonies-near-epirus.md",
+   "at": "2026-09-01T09:34:30+00:00"
   }
  ]
 }
