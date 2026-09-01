@@ -1,5 +1,5 @@
 {
- "count": 109,
+ "count": 110,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -763,6 +763,13 @@
    "era": "ancient",
    "file": "eras/ancient/000109-proceedings-confederacy-athens-head-first.md",
    "at": "2026-09-01T13:14:26+00:00"
+  },
+  {
+   "slug": "constitutional-judicial-changes-athens-perikles",
+   "title": "CONSTITUTIONAL AND JUDICIAL CHANGES AT ATHENS UNDER PERIKLES.",
+   "era": "ancient",
+   "file": "eras/ancient/000110-constitutional-judicial-changes-athens-perikles.md",
+   "at": "2026-09-01T13:24:28+00:00"
   }
  ]
 }
