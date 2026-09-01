@@ -1,5 +1,5 @@
 {
- "count": 128,
+ "count": 129,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -896,6 +896,13 @@
    "era": "ancient",
    "file": "eras/ancient/000128-battle-arginus-restoration.md",
    "at": "2026-09-01T16:24:18+00:00"
+  },
+  {
+   "slug": "restoration-democracy-death",
+   "title": "FROM THE RESTORATION OF THE DEMOCRACY TO THE DEATH OF",
+   "era": "ancient",
+   "file": "eras/ancient/000129-restoration-democracy-death.md",
+   "at": "2026-09-01T16:34:10+00:00"
   }
  ]
 }
