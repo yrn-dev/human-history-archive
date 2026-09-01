@@ -1,5 +1,5 @@
 {
- "count": 123,
+ "count": 124,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -861,6 +861,13 @@
    "era": "ancient",
    "file": "eras/ancient/000123-commencement-siege-syracuse-nikias.md",
    "at": "2026-09-01T15:34:16+00:00"
+  },
+  {
+   "slug": "resumption-direct-hostilities-between-athens",
+   "title": "FROM THE RESUMPTION OF DIRECT HOSTILITIES BETWEEN ATHENS",
+   "era": "ancient",
+   "file": "eras/ancient/000124-resumption-direct-hostilities-between-athens.md",
+   "at": "2026-09-01T15:44:14+00:00"
   }
  ]
 }
