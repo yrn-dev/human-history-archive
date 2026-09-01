@@ -1,5 +1,5 @@
 {
- "count": 108,
+ "count": 109,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -756,6 +756,13 @@
    "era": "ancient",
    "file": "eras/ancient/000108-battle-plat-mykale-down-deaths.md",
    "at": "2026-09-01T13:04:22+00:00"
+  },
+  {
+   "slug": "proceedings-confederacy-athens-head-first",
+   "title": "PROCEEDINGS OF THE CONFEDERACY UNDER ATHENS AS HEAD. — FIRST",
+   "era": "ancient",
+   "file": "eras/ancient/000109-proceedings-confederacy-athens-head-first.md",
+   "at": "2026-09-01T13:14:26+00:00"
   }
  ]
 }
