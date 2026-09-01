@@ -1,5 +1,5 @@
 {
- "count": 55,
+ "count": 56,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -385,6 +385,13 @@
    "era": "ancient",
    "file": "eras/ancient/000055-argonautic-expedition.md",
    "at": "2026-09-01T03:44:50+00:00"
+  },
+  {
+   "slug": "legends-thebes",
+   "title": "LEGENDS OF THEBES.",
+   "era": "ancient",
+   "file": "eras/ancient/000056-legends-thebes.md",
+   "at": "2026-09-01T03:54:47+00:00"
   }
  ]
 }
