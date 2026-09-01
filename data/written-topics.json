@@ -1,5 +1,5 @@
 {
- "count": 51,
+ "count": 52,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -357,6 +357,13 @@
    "era": "ancient",
    "file": "eras/ancient/000051-arcadian-genealogy.md",
    "at": "2026-09-01T03:04:47+00:00"
+  },
+  {
+   "slug": "akus-his-descendants-gina-salamis-phthia",
+   "title": "ÆAKUS AND HIS DESCENDANTS.—ÆGINA, SALAMIS, AND PHTHIA.",
+   "era": "ancient",
+   "file": "eras/ancient/000052-akus-his-descendants-gina-salamis-phthia.md",
+   "at": "2026-09-01T03:14:45+00:00"
   }
  ]
 }
