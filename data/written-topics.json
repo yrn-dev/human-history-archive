@@ -1,5 +1,5 @@
 {
- "count": 125,
+ "count": 126,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -875,6 +875,13 @@
    "era": "ancient",
    "file": "eras/ancient/000125-destruction-athenian-armament-sicily.md",
    "at": "2026-09-01T15:54:26+00:00"
+  },
+  {
+   "slug": "restored-athenian-democracy-deposition",
+   "title": "THE RESTORED ATHENIAN DEMOCRACY, AFTER THE DEPOSITION OF THE",
+   "era": "ancient",
+   "file": "eras/ancient/000126-restored-athenian-democracy-deposition.md",
+   "at": "2026-09-01T16:04:25+00:00"
   }
  ]
 }
