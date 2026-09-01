@@ -1,5 +1,5 @@
 {
- "count": 132,
+ "count": 133,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -924,6 +924,13 @@
    "era": "ancient",
    "file": "eras/ancient/000132-twenty-first-year-war-oligarchy-four-hundred-athens.md",
    "at": "2026-09-01T17:04:12+00:00"
+  },
+  {
+   "slug": "cyrus-younger-ten-thousand-greeks",
+   "title": "CYRUS THE YOUNGER AND THE TEN THOUSAND GREEKS.",
+   "era": "ancient",
+   "file": "eras/ancient/000133-cyrus-younger-ten-thousand-greeks.md",
+   "at": "2026-09-01T17:14:19+00:00"
   }
  ]
 }
