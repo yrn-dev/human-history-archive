@@ -1,5 +1,5 @@
 {
- "count": 70,
+ "count": 71,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -490,6 +490,13 @@
    "era": "ancient",
    "file": "eras/ancient/000070-laws-discipline-lykurgus-sparta.md",
    "at": "2026-09-01T06:44:35+00:00"
+  },
+  {
+   "slug": "first-second-messenian-wars",
+   "title": "FIRST AND SECOND MESSENIAN WARS.",
+   "era": "ancient",
+   "file": "eras/ancient/000071-first-second-messenian-wars.md",
+   "at": "2026-09-01T06:54:47+00:00"
   }
  ]
 }
