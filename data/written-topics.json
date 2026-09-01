@@ -1,5 +1,5 @@
 {
- "count": 71,
+ "count": 72,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -497,6 +497,13 @@
    "era": "ancient",
    "file": "eras/ancient/000071-first-second-messenian-wars.md",
    "at": "2026-09-01T06:54:47+00:00"
+  },
+  {
+   "slug": "conquests-sparta-towards-arcadia-argolis",
+   "title": "CONQUESTS OF SPARTA TOWARDS ARCADIA AND ARGOLIS.",
+   "era": "ancient",
+   "file": "eras/ancient/000072-conquests-sparta-towards-arcadia-argolis.md",
+   "at": "2026-09-01T07:04:48+00:00"
   }
  ]
 }
