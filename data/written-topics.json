@@ -1,5 +1,5 @@
 {
- "count": 104,
+ "count": 105,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -728,6 +728,13 @@
    "era": "ancient",
    "file": "eras/ancient/000104-battles-thermopyl-artemisium.md",
    "at": "2026-09-01T12:25:48+00:00"
+  },
+  {
+   "slug": "battle-salamis-retreat-xerxes",
+   "title": "BATTLE OF SALAMIS. — RETREAT OF XERXES.",
+   "era": "ancient",
+   "file": "eras/ancient/000105-battle-salamis-retreat-xerxes.md",
+   "at": "2026-09-01T12:34:29+00:00"
   }
  ]
 }
