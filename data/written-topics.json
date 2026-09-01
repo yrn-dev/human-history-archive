@@ -1,5 +1,5 @@
 {
- "count": 41,
+ "count": 42,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -287,6 +287,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/000041-wars-china-russia.md",
    "at": "2026-09-01T01:14:53+00:00"
+  },
+  {
+   "slug": "all-these-cities-connected-each-other",
+   "title": "All these cities were connected with each other, and with the",
+   "era": "ancient",
+   "file": "eras/ancient/000042-all-these-cities-connected-each-other.md",
+   "at": "2026-09-01T01:24:53+00:00"
   }
  ]
 }
