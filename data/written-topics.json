@@ -1,5 +1,5 @@
 {
- "count": 107,
+ "count": 108,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -749,6 +749,13 @@
    "era": "ancient",
    "file": "eras/ancient/000107-events-sicily-down-expulsion-gelonian-dynasty.md",
    "at": "2026-09-01T12:54:22+00:00"
+  },
+  {
+   "slug": "battle-plat-mykale-down-deaths",
+   "title": "FROM THE BATTLE OF PLATÆA AND MYKALE DOWN TO THE DEATHS OF",
+   "era": "ancient",
+   "file": "eras/ancient/000108-battle-plat-mykale-down-deaths.md",
+   "at": "2026-09-01T13:04:22+00:00"
   }
  ]
 }
