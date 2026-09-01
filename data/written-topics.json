@@ -1,5 +1,5 @@
 {
- "count": 106,
+ "count": 107,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -742,6 +742,13 @@
    "era": "ancient",
    "file": "eras/ancient/000106-battles-plat-mykale-final-repulse-persians.md",
    "at": "2026-09-01T12:44:26+00:00"
+  },
+  {
+   "slug": "events-sicily-down-expulsion-gelonian-dynasty",
+   "title": "EVENTS IN SICILY DOWN TO THE EXPULSION OF THE GELONIAN DYNASTY",
+   "era": "ancient",
+   "file": "eras/ancient/000107-events-sicily-down-expulsion-gelonian-dynasty.md",
+   "at": "2026-09-01T12:54:22+00:00"
   }
  ]
 }
