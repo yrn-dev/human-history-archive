@@ -1,5 +1,5 @@
 {
- "count": 59,
+ "count": 60,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -413,6 +413,13 @@
    "era": "ancient",
    "file": "eras/ancient/000059-grecian-mythical-vein-compared-modern-europe.md",
    "at": "2026-09-01T04:54:53+00:00"
+  },
+  {
+   "slug": "closing-events-legendary-greece-period-intermediate",
+   "title": "CLOSING EVENTS OF LEGENDARY GREECE.—PERIOD OF INTERMEDIATE",
+   "era": "ancient",
+   "file": "eras/ancient/000060-closing-events-legendary-greece-period-intermediate.md",
+   "at": "2026-09-01T05:04:46+00:00"
   }
  ]
 }
