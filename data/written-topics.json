@@ -1,5 +1,5 @@
 {
- "count": 52,
+ "count": 53,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -364,6 +364,13 @@
    "era": "ancient",
    "file": "eras/ancient/000052-akus-his-descendants-gina-salamis-phthia.md",
    "at": "2026-09-01T03:14:45+00:00"
+  },
+  {
+   "slug": "attic-legends-genealogies",
+   "title": "ATTIC LEGENDS AND GENEALOGIES.",
+   "era": "ancient",
+   "file": "eras/ancient/000053-attic-legends-genealogies.md",
+   "at": "2026-09-01T03:24:47+00:00"
   }
  ]
 }
