@@ -1,5 +1,5 @@
 {
- "count": 155,
+ "count": 156,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1085,6 +1085,13 @@
    "era": "ancient",
    "file": "eras/ancient/000155-how-great-disturbances-arose-herods-family-his-preferring.md",
    "at": "2026-09-01T20:53:53+00:00"
+  },
+  {
+   "slug": "chapter-11",
+   "title": "CHAPTER 11.",
+   "era": "ancient",
+   "file": "eras/ancient/000156-chapter-11.md",
+   "at": "2026-09-01T21:03:48+00:00"
   }
  ]
 }
