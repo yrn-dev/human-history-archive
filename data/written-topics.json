@@ -1,5 +1,5 @@
 {
- "count": 151,
+ "count": 152,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1057,6 +1057,13 @@
    "era": "ancient",
    "file": "eras/ancient/000151-commencement-sacred-war-olynthian.md",
    "at": "2026-09-01T20:14:02+00:00"
+  },
+  {
+   "slug": "euboic-olynthian-wars",
+   "title": "EUBOIC AND OLYNTHIAN WARS.",
+   "era": "ancient",
+   "file": "eras/ancient/000152-euboic-olynthian-wars.md",
+   "at": "2026-09-01T20:24:01+00:00"
   }
  ]
 }
