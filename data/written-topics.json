@@ -1,5 +1,5 @@
 {
- "count": 98,
+ "count": 99,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -686,6 +686,13 @@
    "era": "ancient",
    "file": "eras/ancient/000098-demokedes-darius-invades-scythia.md",
    "at": "2026-09-01T11:24:40+00:00"
+  },
+  {
+   "slug": "ionic-revolt",
+   "title": "IONIC REVOLT.",
+   "era": "ancient",
+   "file": "eras/ancient/000099-ionic-revolt.md",
+   "at": "2026-09-01T11:34:33+00:00"
   }
  ]
 }
