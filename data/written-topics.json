@@ -1,5 +1,5 @@
 {
- "count": 129,
+ "count": 130,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -903,6 +903,13 @@
    "era": "ancient",
    "file": "eras/ancient/000129-restoration-democracy-death.md",
    "at": "2026-09-01T16:34:10+00:00"
+  },
+  {
+   "slug": "drama-rhetoric-dialectics-sophists",
+   "title": "THE DRAMA.—RHETORIC AND DIALECTICS.—THE SOPHISTS.",
+   "era": "ancient",
+   "file": "eras/ancient/000130-drama-rhetoric-dialectics-sophists.md",
+   "at": "2026-09-01T16:44:15+00:00"
   }
  ]
 }
