@@ -1,5 +1,5 @@
 {
- "count": 117,
+ "count": 118,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -819,6 +819,13 @@
    "era": "ancient",
    "file": "eras/ancient/000117-eighth-year-war.md",
    "at": "2026-09-01T14:34:15+00:00"
+  },
+  {
+   "slug": "truce-one-year-renewal-war-battle",
+   "title": "TRUCE FOR ONE YEAR.—RENEWAL OF WAR AND BATTLE OF",
+   "era": "ancient",
+   "file": "eras/ancient/000118-truce-one-year-renewal-war-battle.md",
+   "at": "2026-09-01T14:44:16+00:00"
   }
  ]
 }
