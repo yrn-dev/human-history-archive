@@ -1,5 +1,5 @@
 {
- "count": 110,
+ "count": 111,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -770,6 +770,13 @@
    "era": "ancient",
    "file": "eras/ancient/000110-constitutional-judicial-changes-athens-perikles.md",
    "at": "2026-09-01T13:24:28+00:00"
+  },
+  {
+   "slug": "thirty-years-truce-fourteen-years",
+   "title": "FROM THE THIRTY YEARS’ TRUCE, FOURTEEN YEARS BEFORE THE",
+   "era": "ancient",
+   "file": "eras/ancient/000111-thirty-years-truce-fourteen-years.md",
+   "at": "2026-09-01T13:34:23+00:00"
   }
  ]
 }
