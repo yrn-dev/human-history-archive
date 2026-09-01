@@ -1,5 +1,5 @@
 {
- "count": 49,
+ "count": 50,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -343,6 +343,13 @@
    "era": "ancient",
    "file": "eras/ancient/000049-pelopids.md",
    "at": "2026-09-01T02:44:44+00:00"
+  },
+  {
+   "slug": "laconian-messenian-genealogies",
+   "title": "LACONIAN AND MESSENIAN GENEALOGIES.",
+   "era": "ancient",
+   "file": "eras/ancient/000050-laconian-messenian-genealogies.md",
+   "at": "2026-09-01T02:54:52+00:00"
   }
  ]
 }
