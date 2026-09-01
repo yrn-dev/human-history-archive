@@ -1,5 +1,5 @@
 {
- "count": 113,
+ "count": 114,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -791,6 +791,13 @@
    "era": "ancient",
    "file": "eras/ancient/000113-beginning-second-year-down-end.md",
    "at": "2026-09-01T13:54:11+00:00"
+  },
+  {
+   "slug": "commencement-fourth-year-peloponnesian-war",
+   "title": "FROM THE COMMENCEMENT OF THE FOURTH YEAR OF THE PELOPONNESIAN WAR",
+   "era": "ancient",
+   "file": "eras/ancient/000114-commencement-fourth-year-peloponnesian-war.md",
+   "at": "2026-09-01T14:04:26+00:00"
   }
  ]
 }
