@@ -1,5 +1,5 @@
 {
- "count": 133,
+ "count": 134,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -931,6 +931,13 @@
    "era": "ancient",
    "file": "eras/ancient/000133-cyrus-younger-ten-thousand-greeks.md",
    "at": "2026-09-01T17:14:19+00:00"
+  },
+  {
+   "slug": "retreat-ten-thousand-greeks",
+   "title": "RETREAT OF THE TEN THOUSAND GREEKS.",
+   "era": "ancient",
+   "file": "eras/ancient/000134-retreat-ten-thousand-greeks.md",
+   "at": "2026-09-01T17:24:08+00:00"
   }
  ]
 }
