@@ -1,5 +1,5 @@
 {
- "count": 134,
+ "count": 135,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -938,6 +938,13 @@
    "era": "ancient",
    "file": "eras/ancient/000134-retreat-ten-thousand-greeks.md",
    "at": "2026-09-01T17:24:08+00:00"
+  },
+  {
+   "slug": "proceedings-ten-thousand-greeks-time-they",
+   "title": "PROCEEDINGS OF THE TEN THOUSAND GREEKS, FROM THE TIME THAT THEY",
+   "era": "ancient",
+   "file": "eras/ancient/000135-proceedings-ten-thousand-greeks-time-they.md",
+   "at": "2026-09-01T17:34:04+00:00"
   }
  ]
 }
