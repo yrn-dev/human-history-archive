@@ -1,5 +1,5 @@
 {
- "count": 38,
+ "count": 39,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -266,6 +266,13 @@
    "era": "cultures",
    "file": "eras/cultures/000038-revival-shinto-cult.md",
    "at": "2026-09-01T00:44:54+00:00"
+  },
+  {
+   "slug": "foreign-relations-decline-tokugawa",
+   "title": "FOREIGN RELATIONS AND THE DECLINE OF THE TOKUGAWA",
+   "era": "industrial",
+   "file": "eras/industrial/000039-foreign-relations-decline-tokugawa.md",
+   "at": "2026-09-01T00:54:53+00:00"
   }
  ]
 }
