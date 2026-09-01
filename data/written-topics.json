@@ -1,5 +1,5 @@
 {
- "count": 115,
+ "count": 116,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -805,6 +805,13 @@
    "era": "ancient",
    "file": "eras/ancient/000115-troubles-korkyra-fifth-year.md",
    "at": "2026-09-01T14:14:18+00:00"
+  },
+  {
+   "slug": "seventh-year-war-capture-sphakteria",
+   "title": "SEVENTH YEAR OF THE WAR.—CAPTURE OF SPHAKTERIA.",
+   "era": "ancient",
+   "file": "eras/ancient/000116-seventh-year-war-capture-sphakteria.md",
+   "at": "2026-09-01T14:24:19+00:00"
   }
  ]
 }
