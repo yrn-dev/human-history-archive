@@ -1,5 +1,5 @@
 {
- "count": 47,
+ "count": 48,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -329,6 +329,13 @@
    "era": "ancient",
    "file": "eras/ancient/000047-heroic-legends-genealogy-argus.md",
    "at": "2026-09-01T02:15:00+00:00"
+  },
+  {
+   "slug": "deukalion-hellen-sons-hellen",
+   "title": "DEUKALION, HELLEN, AND SONS OF HELLEN.",
+   "era": "ancient",
+   "file": "eras/ancient/000048-deukalion-hellen-sons-hellen.md",
+   "at": "2026-09-01T02:24:51+00:00"
   }
  ]
 }
