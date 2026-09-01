@@ -1,5 +1,5 @@
 {
- "count": 83,
+ "count": 84,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -581,6 +581,13 @@
    "era": "ancient",
    "file": "eras/ancient/000083-assyrians-babylon.md",
    "at": "2026-09-01T08:54:44+00:00"
+  },
+  {
+   "slug": "egyptians",
+   "title": "EGYPTIANS.",
+   "era": "ancient",
+   "file": "eras/ancient/000084-egyptians.md",
+   "at": "2026-09-01T09:04:34+00:00"
   }
  ]
 }
