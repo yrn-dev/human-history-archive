@@ -1,5 +1,5 @@
 {
- "count": 33,
+ "count": 34,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -231,6 +231,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000033-tokugawa-shogunate.md",
    "at": "2026-08-31T23:55:00+00:00"
+  },
+  {
+   "slug": "first-period-tokugawa-bakufu-first-tokugawa-shogun",
+   "title": "FIRST PERIOD OF THE TOKUGAWA BAKUFU; FROM THE FIRST TOKUGAWA SHOGUN,",
+   "era": "modern",
+   "file": "eras/modern/000034-first-period-tokugawa-bakufu-first-tokugawa-shogun.md",
+   "at": "2026-09-01T00:04:57+00:00"
   }
  ]
 }
