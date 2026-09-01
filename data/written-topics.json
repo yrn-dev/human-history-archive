@@ -1,5 +1,5 @@
 {
- "count": 58,
+ "count": 59,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -406,6 +406,13 @@
    "era": "ancient",
    "file": "eras/ancient/000058-grecian-mythes-understood-felt-interpreted-greeks.md",
    "at": "2026-09-01T04:44:44+00:00"
+  },
+  {
+   "slug": "grecian-mythical-vein-compared-modern-europe",
+   "title": "THE GRECIAN MYTHICAL VEIN COMPARED WITH THAT OF MODERN EUROPE.",
+   "era": "ancient",
+   "file": "eras/ancient/000059-grecian-mythical-vein-compared-modern-europe.md",
+   "at": "2026-09-01T04:54:53+00:00"
   }
  ]
 }
