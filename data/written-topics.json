@@ -1,5 +1,5 @@
 {
- "count": 90,
+ "count": 91,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -630,6 +630,13 @@
    "era": "ancient",
    "file": "eras/ancient/000090-thracians-greek-colonies-thrace.md",
    "at": "2026-09-01T10:04:32+00:00"
+  },
+  {
+   "slug": "kyrene-barka-hesperides",
+   "title": "KYRENE AND BARKA. — HESPERIDES.",
+   "era": "ancient",
+   "file": "eras/ancient/000091-kyrene-barka-hesperides.md",
+   "at": "2026-09-01T10:14:36+00:00"
   }
  ]
 }
