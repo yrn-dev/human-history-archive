@@ -1,5 +1,5 @@
 {
- "count": 127,
+ "count": 128,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -889,6 +889,13 @@
    "era": "ancient",
    "file": "eras/ancient/000127-arrival-cyrus-younger-asia-minor-down.md",
    "at": "2026-09-01T16:14:28+00:00"
+  },
+  {
+   "slug": "battle-arginus-restoration",
+   "title": "FROM THE BATTLE OF ARGINUSÆ TO THE RESTORATION OF THE",
+   "era": "ancient",
+   "file": "eras/ancient/000128-battle-arginus-restoration.md",
+   "at": "2026-09-01T16:24:18+00:00"
   }
  ]
 }
