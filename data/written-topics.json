@@ -1,5 +1,5 @@
 {
- "count": 43,
+ "count": 44,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -301,6 +301,13 @@
    "era": "ancient",
    "file": "eras/ancient/000043-legendary-greece.md",
    "at": "2026-09-01T01:34:53+00:00"
+  },
+  {
+   "slug": "legends-respecting-gods",
+   "title": "LEGENDS RESPECTING THE GODS.",
+   "era": "ancient",
+   "file": "eras/ancient/000044-legends-respecting-gods.md",
+   "at": "2026-09-01T01:44:53+00:00"
   }
  ]
 }
