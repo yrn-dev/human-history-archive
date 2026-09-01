@@ -1,5 +1,5 @@
 {
- "count": 103,
+ "count": 104,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -721,6 +721,13 @@
    "era": "ancient",
    "file": "eras/ancient/000103-proceedings-greece-battle-marathon-time.md",
    "at": "2026-09-01T12:14:25+00:00"
+  },
+  {
+   "slug": "battles-thermopyl-artemisium",
+   "title": "BATTLES OF THERMOPYLÆ AND ARTEMISIUM.",
+   "era": "ancient",
+   "file": "eras/ancient/000104-battles-thermopyl-artemisium.md",
+   "at": "2026-09-01T12:25:48+00:00"
   }
  ]
 }
