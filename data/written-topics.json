@@ -1,5 +1,5 @@
 {
- "count": 89,
+ "count": 90,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -623,6 +623,13 @@
    "era": "ancient",
    "file": "eras/ancient/000089-illyrians-macedonians-onians.md",
    "at": "2026-09-01T09:54:31+00:00"
+  },
+  {
+   "slug": "thracians-greek-colonies-thrace",
+   "title": "THRACIANS AND GREEK COLONIES IN THRACE.",
+   "era": "ancient",
+   "file": "eras/ancient/000090-thracians-greek-colonies-thrace.md",
+   "at": "2026-09-01T10:04:32+00:00"
   }
  ]
 }
