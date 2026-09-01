@@ -1,5 +1,5 @@
 {
- "count": 121,
+ "count": 122,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -847,6 +847,13 @@
    "era": "ancient",
    "file": "eras/ancient/000121-sicilian-affairs-extinction-gelonian.md",
    "at": "2026-09-01T15:14:16+00:00"
+  },
+  {
+   "slug": "resolution-athenians-attack-syracuse",
+   "title": "FROM THE RESOLUTION OF THE ATHENIANS TO ATTACK SYRACUSE,",
+   "era": "ancient",
+   "file": "eras/ancient/000122-resolution-athenians-attack-syracuse.md",
+   "at": "2026-09-01T15:24:18+00:00"
   }
  ]
 }
