@@ -1,5 +1,5 @@
 {
- "count": 35,
+ "count": 36,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -245,6 +245,13 @@
    "era": "modern",
    "file": "eras/modern/000035-middle-period-tokugawa-bakufu-fifth-shogun.md",
    "at": "2026-09-01T00:15:03+00:00"
+  },
+  {
+   "slug": "late-period-tokugawa-bakufu",
+   "title": "THE LATE PERIOD OF THE TOKUGAWA BAKUFU.",
+   "era": "modern",
+   "file": "eras/modern/000036-late-period-tokugawa-bakufu.md",
+   "at": "2026-09-01T00:26:09+00:00"
   }
  ]
 }
