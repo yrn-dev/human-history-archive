@@ -1,5 +1,5 @@
 {
- "count": 144,
+ "count": 145,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1008,6 +1008,13 @@
    "era": "ancient",
    "file": "eras/ancient/000144-death-pelopidas-battle-mantinea.md",
    "at": "2026-09-01T19:04:15+00:00"
+  },
+  {
+   "slug": "sicilian-affairs-destruction-athenian-armament",
+   "title": "SICILIAN AFFAIRS AFTER THE DESTRUCTION OF THE ATHENIAN ARMAMENT",
+   "era": "ancient",
+   "file": "eras/ancient/000145-sicilian-affairs-destruction-athenian-armament.md",
+   "at": "2026-09-01T19:14:06+00:00"
   }
  ]
 }
