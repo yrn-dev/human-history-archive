@@ -1,5 +1,5 @@
 {
- "count": 137,
+ "count": 138,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -959,6 +959,13 @@
    "era": "ancient",
    "file": "eras/ancient/000137-agesilaus-king-sparta-corinthian-war.md",
    "at": "2026-09-01T17:54:09+00:00"
+  },
+  {
+   "slug": "battle-knidus-rebuilding-long-walls",
+   "title": "FROM THE BATTLE OF KNIDUS TO THE REBUILDING OF THE LONG WALLS OF",
+   "era": "ancient",
+   "file": "eras/ancient/000138-battle-knidus-rebuilding-long-walls.md",
+   "at": "2026-09-01T18:04:11+00:00"
   }
  ]
 }
