@@ -1,5 +1,5 @@
 {
- "count": 111,
+ "count": 112,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -777,6 +777,13 @@
    "era": "ancient",
    "file": "eras/ancient/000111-thirty-years-truce-fourteen-years.md",
    "at": "2026-09-01T13:34:23+00:00"
+  },
+  {
+   "slug": "blockade-potid-down-end-first-year",
+   "title": "FROM THE BLOCKADE OF POTIDÆA DOWN TO THE END OF THE FIRST YEAR OF",
+   "era": "ancient",
+   "file": "eras/ancient/000112-blockade-potid-down-end-first-year.md",
+   "at": "2026-09-01T13:44:14+00:00"
   }
  ]
 }
