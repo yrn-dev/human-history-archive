@@ -1,5 +1,5 @@
 {
- "count": 50,
+ "count": 51,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -350,6 +350,13 @@
    "era": "ancient",
    "file": "eras/ancient/000050-laconian-messenian-genealogies.md",
    "at": "2026-09-01T02:54:52+00:00"
+  },
+  {
+   "slug": "arcadian-genealogy",
+   "title": "ARCADIAN GENEALOGY.",
+   "era": "ancient",
+   "file": "eras/ancient/000051-arcadian-genealogy.md",
+   "at": "2026-09-01T03:04:47+00:00"
   }
  ]
 }
