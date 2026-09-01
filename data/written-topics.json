@@ -1,5 +1,5 @@
 {
- "count": 119,
+ "count": 120,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -833,6 +833,13 @@
    "era": "ancient",
    "file": "eras/ancient/000119-peace-nikias-olympic-festival.md",
    "at": "2026-09-01T14:54:20+00:00"
+  },
+  {
+   "slug": "festival-olympiad-90-down-battle",
+   "title": "FROM THE FESTIVAL OF OLYMPIAD 90, DOWN TO THE BATTLE OF",
+   "era": "ancient",
+   "file": "eras/ancient/000120-festival-olympiad-90-down-battle.md",
+   "at": "2026-09-01T15:04:24+00:00"
   }
  ]
 }
