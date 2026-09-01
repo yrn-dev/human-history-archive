@@ -1,5 +1,5 @@
 {
- "count": 37,
+ "count": 38,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -259,6 +259,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000037-organization-central-local-currency-laws.md",
    "at": "2026-09-01T00:34:58+00:00"
+  },
+  {
+   "slug": "revival-shinto-cult",
+   "title": "REVIVAL OF THE SHINTO CULT",
+   "era": "cultures",
+   "file": "eras/cultures/000038-revival-shinto-cult.md",
+   "at": "2026-09-01T00:44:54+00:00"
   }
  ]
 }
