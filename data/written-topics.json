@@ -1,5 +1,5 @@
 {
- "count": 118,
+ "count": 119,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -826,6 +826,13 @@
    "era": "ancient",
    "file": "eras/ancient/000118-truce-one-year-renewal-war-battle.md",
    "at": "2026-09-01T14:44:16+00:00"
+  },
+  {
+   "slug": "peace-nikias-olympic-festival",
+   "title": "FROM THE PEACE OF NIKIAS TO THE OLYMPIC FESTIVAL OF",
+   "era": "ancient",
+   "file": "eras/ancient/000119-peace-nikias-olympic-festival.md",
+   "at": "2026-09-01T14:54:20+00:00"
   }
  ]
 }
