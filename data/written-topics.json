@@ -1,5 +1,5 @@
 {
- "count": 99,
+ "count": 100,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -693,6 +693,13 @@
    "era": "ancient",
    "file": "eras/ancient/000099-ionic-revolt.md",
    "at": "2026-09-01T11:34:33+00:00"
+  },
+  {
+   "slug": "ionic-revolt-battle-marathon",
+   "title": "FROM THE IONIC REVOLT TO THE BATTLE OF MARATHON.",
+   "era": "ancient",
+   "file": "eras/ancient/000100-ionic-revolt-battle-marathon.md",
+   "at": "2026-09-01T11:44:23+00:00"
   }
  ]
 }
