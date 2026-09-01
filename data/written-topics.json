@@ -1,5 +1,5 @@
 {
- "count": 53,
+ "count": 54,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -371,6 +371,13 @@
    "era": "ancient",
    "file": "eras/ancient/000053-attic-legends-genealogies.md",
    "at": "2026-09-01T03:24:47+00:00"
+  },
+  {
+   "slug": "kretan-legends-minos-his-family",
+   "title": "KRETAN LEGENDS.—MINOS AND HIS FAMILY.",
+   "era": "ancient",
+   "file": "eras/ancient/000054-kretan-legends-minos-his-family.md",
+   "at": "2026-09-01T03:34:48+00:00"
   }
  ]
 }
