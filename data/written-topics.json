@@ -1,5 +1,5 @@
 {
- "count": 46,
+ "count": 47,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -322,6 +322,13 @@
    "era": "ancient",
    "file": "eras/ancient/000046-legend-iapetids.md",
    "at": "2026-09-01T02:04:48+00:00"
+  },
+  {
+   "slug": "heroic-legends-genealogy-argus",
+   "title": "HEROIC LEGENDS.—GENEALOGY OF ARGUS.",
+   "era": "ancient",
+   "file": "eras/ancient/000047-heroic-legends-genealogy-argus.md",
+   "at": "2026-09-01T02:15:00+00:00"
   }
  ]
 }
