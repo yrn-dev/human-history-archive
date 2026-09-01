@@ -1,5 +1,5 @@
 {
- "count": 105,
+ "count": 106,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -735,6 +735,13 @@
    "era": "ancient",
    "file": "eras/ancient/000105-battle-salamis-retreat-xerxes.md",
    "at": "2026-09-01T12:34:29+00:00"
+  },
+  {
+   "slug": "battles-plat-mykale-final-repulse-persians",
+   "title": "BATTLES OF PLATÆA AND MYKALE. — FINAL REPULSE OF THE PERSIANS.",
+   "era": "ancient",
+   "file": "eras/ancient/000106-battles-plat-mykale-final-repulse-persians.md",
+   "at": "2026-09-01T12:44:26+00:00"
   }
  ]
 }
