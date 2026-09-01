@@ -1,5 +1,5 @@
 {
- "count": 81,
+ "count": 82,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -567,6 +567,13 @@
    "era": "ancient",
    "file": "eras/ancient/000081-lydians-medes-cimmerians-scythians.md",
    "at": "2026-09-01T08:34:52+00:00"
+  },
+  {
+   "slug": "phenicians",
+   "title": "PHENICIANS.",
+   "era": "ancient",
+   "file": "eras/ancient/000082-phenicians.md",
+   "at": "2026-09-01T08:44:44+00:00"
   }
  ]
 }
