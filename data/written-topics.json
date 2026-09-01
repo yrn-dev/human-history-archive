@@ -1,5 +1,5 @@
 {
- "count": 92,
+ "count": 93,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -644,6 +644,13 @@
    "era": "ancient",
    "file": "eras/ancient/000092-pan-hellenic-festivals-olympic-pythian-nemean-isthmian.md",
    "at": "2026-09-01T10:24:32+00:00"
+  },
+  {
+   "slug": "lyric-poetry-seven-wise-men",
+   "title": "LYRIC POETRY. — THE SEVEN WISE MEN.",
+   "era": "ancient",
+   "file": "eras/ancient/000093-lyric-poetry-seven-wise-men.md",
+   "at": "2026-09-01T10:34:42+00:00"
   }
  ]
 }
