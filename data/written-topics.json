@@ -1,5 +1,5 @@
 {
- "count": 84,
+ "count": 85,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -588,6 +588,13 @@
    "era": "ancient",
    "file": "eras/ancient/000084-egyptians.md",
    "at": "2026-09-01T09:04:34+00:00"
+  },
+  {
+   "slug": "decline-phenicians-growth-carthage",
+   "title": "DECLINE OF THE PHENICIANS. — GROWTH OF CARTHAGE.",
+   "era": "ancient",
+   "file": "eras/ancient/000085-decline-phenicians-growth-carthage.md",
+   "at": "2026-09-01T09:14:55+00:00"
   }
  ]
 }
