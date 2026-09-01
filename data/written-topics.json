@@ -1,5 +1,5 @@
 {
- "count": 120,
+ "count": 121,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -840,6 +840,13 @@
    "era": "ancient",
    "file": "eras/ancient/000120-festival-olympiad-90-down-battle.md",
    "at": "2026-09-01T15:04:24+00:00"
+  },
+  {
+   "slug": "sicilian-affairs-extinction-gelonian",
+   "title": "SICILIAN AFFAIRS AFTER THE EXTINCTION OF THE GELONIAN",
+   "era": "ancient",
+   "file": "eras/ancient/000121-sicilian-affairs-extinction-gelonian.md",
+   "at": "2026-09-01T15:14:16+00:00"
   }
  ]
 }
