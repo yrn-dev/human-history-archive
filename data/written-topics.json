@@ -1,5 +1,5 @@
 {
- "count": 152,
+ "count": 153,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1064,6 +1064,13 @@
    "era": "ancient",
    "file": "eras/ancient/000152-euboic-olynthian-wars.md",
    "at": "2026-09-01T20:24:01+00:00"
+  },
+  {
+   "slug": "capture-olynthus-termination-sacred-war",
+   "title": "FROM THE CAPTURE OF OLYNTHUS TO THE TERMINATION OF THE SACRED WAR",
+   "era": "ancient",
+   "file": "eras/ancient/000153-capture-olynthus-termination-sacred-war.md",
+   "at": "2026-09-01T20:34:00+00:00"
   }
  ]
 }
