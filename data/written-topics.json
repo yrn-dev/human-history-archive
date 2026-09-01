@@ -1,5 +1,5 @@
 {
- "count": 153,
+ "count": 154,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1071,6 +1071,13 @@
    "era": "ancient",
    "file": "eras/ancient/000153-capture-olynthus-termination-sacred-war.md",
    "at": "2026-09-01T20:34:00+00:00"
+  },
+  {
+   "slug": "peace-346-battle-ch-roneia",
+   "title": "FROM THE PEACE OF 346 B. C. TO THE BATTLE OF CHÆRONEIA AND THE",
+   "era": "ancient",
+   "file": "eras/ancient/000154-peace-346-battle-ch-roneia.md",
+   "at": "2026-09-01T20:43:59+00:00"
   }
  ]
 }
