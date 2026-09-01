@@ -1,5 +1,5 @@
 {
- "count": 136,
+ "count": 137,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -952,6 +952,13 @@
    "era": "ancient",
    "file": "eras/ancient/000136-greece-laced-monian-empire.md",
    "at": "2026-09-01T17:44:07+00:00"
+  },
+  {
+   "slug": "agesilaus-king-sparta-corinthian-war",
+   "title": "AGESILAUS KING OF SPARTA.—THE CORINTHIAN WAR.",
+   "era": "ancient",
+   "file": "eras/ancient/000137-agesilaus-king-sparta-corinthian-war.md",
+   "at": "2026-09-01T17:54:09+00:00"
   }
  ]
 }
