@@ -1,5 +1,5 @@
 {
- "count": 130,
+ "count": 131,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -910,6 +910,13 @@
    "era": "ancient",
    "file": "eras/ancient/000130-drama-rhetoric-dialectics-sophists.md",
    "at": "2026-09-01T16:44:15+00:00"
+  },
+  {
+   "slug": "sokrates",
+   "title": "SOKRATES.",
+   "era": "ancient",
+   "file": "eras/ancient/000131-sokrates.md",
+   "at": "2026-09-01T16:54:09+00:00"
   }
  ]
 }
