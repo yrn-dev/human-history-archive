@@ -1,5 +1,5 @@
 {
- "count": 85,
+ "count": 86,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -595,6 +595,13 @@
    "era": "ancient",
    "file": "eras/ancient/000085-decline-phenicians-growth-carthage.md",
    "at": "2026-09-01T09:14:55+00:00"
+  },
+  {
+   "slug": "western-colonies-greece-epirus-italy-sicily-gaul",
+   "title": "WESTERN COLONIES OF GREECE — IN EPIRUS, ITALY, SICILY, AND GAUL.",
+   "era": "ancient",
+   "file": "eras/ancient/000086-western-colonies-greece-epirus-italy-sicily-gaul.md",
+   "at": "2026-09-01T09:24:33+00:00"
   }
  ]
 }
