@@ -1,5 +1,5 @@
 {
- "count": 114,
+ "count": 115,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -798,6 +798,13 @@
    "era": "ancient",
    "file": "eras/ancient/000114-commencement-fourth-year-peloponnesian-war.md",
    "at": "2026-09-01T14:04:26+00:00"
+  },
+  {
+   "slug": "troubles-korkyra-fifth-year",
+   "title": "FROM THE TROUBLES IN KORKYRA, IN THE FIFTH YEAR OF THE",
+   "era": "ancient",
+   "file": "eras/ancient/000115-troubles-korkyra-fifth-year.md",
+   "at": "2026-09-01T14:14:18+00:00"
   }
  ]
 }
