@@ -1,5 +1,5 @@
 {
- "count": 57,
+ "count": 58,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -399,6 +399,13 @@
    "era": "ancient",
    "file": "eras/ancient/000057-legend-troy.md",
    "at": "2026-09-01T04:34:43+00:00"
+  },
+  {
+   "slug": "grecian-mythes-understood-felt-interpreted-greeks",
+   "title": "GRECIAN MYTHES, AS UNDERSTOOD, FELT, AND INTERPRETED BY THE GREEKS",
+   "era": "ancient",
+   "file": "eras/ancient/000058-grecian-mythes-understood-felt-interpreted-greeks.md",
+   "at": "2026-09-01T04:44:44+00:00"
   }
  ]
 }
