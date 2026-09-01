@@ -1,5 +1,5 @@
 {
- "count": 122,
+ "count": 123,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -854,6 +854,13 @@
    "era": "ancient",
    "file": "eras/ancient/000122-resolution-athenians-attack-syracuse.md",
    "at": "2026-09-01T15:24:18+00:00"
+  },
+  {
+   "slug": "commencement-siege-syracuse-nikias",
+   "title": "FROM THE COMMENCEMENT OF THE SIEGE OF SYRACUSE BY NIKIAS,",
+   "era": "ancient",
+   "file": "eras/ancient/000123-commencement-siege-syracuse-nikias.md",
+   "at": "2026-09-01T15:34:16+00:00"
   }
  ]
 }
