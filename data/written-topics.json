@@ -1,5 +1,5 @@
 {
- "count": 93,
+ "count": 94,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -651,6 +651,13 @@
    "era": "ancient",
    "file": "eras/ancient/000093-lyric-poetry-seven-wise-men.md",
    "at": "2026-09-01T10:34:42+00:00"
+  },
+  {
+   "slug": "grecian-affairs-during-government-peisistratus-his-sons",
+   "title": "GRECIAN AFFAIRS DURING THE GOVERNMENT OF PEISISTRATUS AND HIS SONS AT",
+   "era": "ancient",
+   "file": "eras/ancient/000094-grecian-affairs-during-government-peisistratus-his-sons.md",
+   "at": "2026-09-01T10:44:50+00:00"
   }
  ]
 }
