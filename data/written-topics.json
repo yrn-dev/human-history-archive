@@ -1,5 +1,5 @@
 {
- "count": 60,
+ "count": 61,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -420,6 +420,13 @@
    "era": "ancient",
    "file": "eras/ancient/000060-closing-events-legendary-greece-period-intermediate.md",
    "at": "2026-09-01T05:04:46+00:00"
+  },
+  {
+   "slug": "application-chronology-grecian-legend",
+   "title": "APPLICATION OF CHRONOLOGY TO GRECIAN LEGEND.",
+   "era": "ancient",
+   "file": "eras/ancient/000061-application-chronology-grecian-legend.md",
+   "at": "2026-09-01T05:14:46+00:00"
   }
  ]
 }
