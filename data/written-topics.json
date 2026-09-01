@@ -1,5 +1,5 @@
 {
- "count": 77,
+ "count": 78,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -539,6 +539,13 @@
    "era": "ancient",
    "file": "eras/ancient/000077-asiatic-ionians.md",
    "at": "2026-09-01T07:54:44+00:00"
+  },
+  {
+   "slug": "olic-greeks-asia",
+   "title": "ÆOLIC GREEKS IN ASIA.",
+   "era": "ancient",
+   "file": "eras/ancient/000078-olic-greeks-asia.md",
+   "at": "2026-09-01T08:04:49+00:00"
   }
  ]
 }
