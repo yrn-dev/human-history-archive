@@ -1,5 +1,5 @@
 {
- "count": 124,
+ "count": 125,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -868,6 +868,13 @@
    "era": "ancient",
    "file": "eras/ancient/000124-resumption-direct-hostilities-between-athens.md",
    "at": "2026-09-01T15:44:14+00:00"
+  },
+  {
+   "slug": "destruction-athenian-armament-sicily",
+   "title": "FROM THE DESTRUCTION OF THE ATHENIAN ARMAMENT IN SICILY,",
+   "era": "ancient",
+   "file": "eras/ancient/000125-destruction-athenian-armament-sicily.md",
+   "at": "2026-09-01T15:54:26+00:00"
   }
  ]
 }
