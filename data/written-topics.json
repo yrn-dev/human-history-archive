@@ -1,5 +1,5 @@
 {
- "count": 142,
+ "count": 143,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -994,6 +994,13 @@
    "era": "ancient",
    "file": "eras/ancient/000142-battle-leuktra-consequences.md",
    "at": "2026-09-01T18:44:07+00:00"
+  },
+  {
+   "slug": "foundation-messene-megalopolis-death",
+   "title": "FROM THE FOUNDATION OF MESSENE AND MEGALOPOLIS TO THE DEATH OF",
+   "era": "ancient",
+   "file": "eras/ancient/000143-foundation-messene-megalopolis-death.md",
+   "at": "2026-09-01T18:54:11+00:00"
   }
  ]
 }
