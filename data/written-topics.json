@@ -1,5 +1,5 @@
 {
- "count": 159,
+ "count": 160,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1113,6 +1113,13 @@
    "era": "ancient",
    "file": "eras/ancient/000159-containing-interval-one-hundred-sixty-seven.md",
    "at": "2026-09-01T21:33:57+00:00"
+  },
+  {
+   "slug": "how-city-jerusalem-taken-temple-pillaged",
+   "title": "How The City Jerusalem Was Taken, And The Temple Pillaged",
+   "era": "ancient",
+   "file": "eras/ancient/000160-how-city-jerusalem-taken-temple-pillaged.md",
+   "at": "2026-09-01T21:43:55+00:00"
   }
  ]
 }
