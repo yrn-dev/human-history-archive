@@ -1,5 +1,5 @@
 {
- "count": 39,
+ "count": 40,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -273,6 +273,13 @@
    "era": "industrial",
    "file": "eras/industrial/000039-foreign-relations-decline-tokugawa.md",
    "at": "2026-09-01T00:54:53+00:00"
+  },
+  {
+   "slug": "meiji-government",
+   "title": "THE MEIJI GOVERNMENT",
+   "era": "modern",
+   "file": "eras/modern/000040-meiji-government.md",
+   "at": "2026-09-01T01:04:59+00:00"
   }
  ]
 }
