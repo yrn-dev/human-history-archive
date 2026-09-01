@@ -1,5 +1,5 @@
 {
- "count": 87,
+ "count": 88,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -609,6 +609,13 @@
    "era": "ancient",
    "file": "eras/ancient/000087-grecian-colonies-near-epirus.md",
    "at": "2026-09-01T09:34:30+00:00"
+  },
+  {
+   "slug": "akarnanians-epirots",
+   "title": "AKARNANIANS. — EPIROTS.",
+   "era": "ancient",
+   "file": "eras/ancient/000088-akarnanians-epirots.md",
+   "at": "2026-09-01T09:44:31+00:00"
   }
  ]
 }
