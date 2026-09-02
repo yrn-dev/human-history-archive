@@ -1,5 +1,5 @@
 {
- "count": 267,
+ "count": 268,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1869,6 +1869,13 @@
    "era": "cultures",
    "file": "eras/cultures/000267-province-pein.md",
    "at": "2026-09-02T16:27:26+00:00"
+  },
+  {
+   "slug": "province-charchan",
+   "title": "OF THE PROVINCE OF CHARCHAN.",
+   "era": "ancient",
+   "file": "eras/ancient/000268-province-charchan.md",
+   "at": "2026-09-02T16:37:19+00:00"
   }
  ]
 }
