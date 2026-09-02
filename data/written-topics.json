@@ -1,5 +1,5 @@
 {
- "count": 216,
+ "count": 217,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1512,6 +1512,13 @@
    "era": "ancient",
    "file": "eras/ancient/000216-containing-interval-one-year.md",
    "at": "2026-09-02T06:47:44+00:00"
+  },
+  {
+   "slug": "vespasian-sent-syria-nero-order-make-war",
+   "title": "Vespasian Is Sent Into Syria By Nero In Order To Make War",
+   "era": "ancient",
+   "file": "eras/ancient/000217-vespasian-sent-syria-nero-order-make-war.md",
+   "at": "2026-09-02T06:57:57+00:00"
   }
  ]
 }
