@@ -1,5 +1,5 @@
 {
- "count": 192,
+ "count": 193,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1344,6 +1344,13 @@
    "era": "ancient",
    "file": "eras/ancient/000192-golden-eagle-cut-pieces-herod-barbarity-when-he.md",
    "at": "2026-09-02T02:48:09+00:00"
+  },
+  {
+   "slug": "containing-interval-sixty-nine-years",
+   "title": "Containing The Interval Of Sixty-Nine Years.",
+   "era": "ancient",
+   "file": "eras/ancient/000193-containing-interval-sixty-nine-years.md",
+   "at": "2026-09-02T02:58:05+00:00"
   }
  ]
 }
