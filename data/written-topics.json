@@ -1,5 +1,5 @@
 {
- "count": 184,
+ "count": 185,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1288,6 +1288,13 @@
    "era": "ancient",
    "file": "eras/ancient/000184-archelaus-procures-reconciliation-between-alexander.md",
    "at": "2026-09-02T01:43:44+00:00"
+  },
+  {
+   "slug": "how-eurycles-href-linknote-40-name-linknoteref-40",
+   "title": "How Eurycles <a href=\"#linknote-40\" name=\"linknoteref-40\"",
+   "era": "ancient",
+   "file": "eras/ancient/000185-how-eurycles-href-linknote-40-name-linknoteref-40.md",
+   "at": "2026-09-02T01:47:46+00:00"
   }
  ]
 }
