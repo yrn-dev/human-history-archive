@@ -1,5 +1,5 @@
 {
- "count": 274,
+ "count": 275,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1918,6 +1918,13 @@
    "era": "ancient",
    "file": "eras/ancient/000274-city-campichu.md",
    "at": "2026-09-02T17:37:13+00:00"
+  },
+  {
+   "slug": "city-etzina",
+   "title": "OF THE CITY OF ETZINA.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000275-city-etzina.md",
+   "at": "2026-09-02T17:47:15+00:00"
   }
  ]
 }
