@@ -1,5 +1,5 @@
 {
- "count": 252,
+ "count": 253,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1764,6 +1764,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000252-descent-city-hormos.md",
    "at": "2026-09-02T13:27:34+00:00"
+  },
+  {
+   "slug": "wearisome-desert-road-now",
+   "title": "OF THE WEARISOME AND DESERT ROAD THAT HAS NOW TO BE",
+   "era": "ancient",
+   "file": "eras/ancient/000253-wearisome-desert-road-now.md",
+   "at": "2026-09-02T13:37:31+00:00"
   }
  ]
 }
