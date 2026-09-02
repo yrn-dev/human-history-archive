@@ -1,5 +1,5 @@
 {
- "count": 301,
+ "count": 302,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2107,6 +2107,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000301-concerning-city-cambaluc.md",
    "at": "2026-09-02T22:07:00+00:00"
+  },
+  {
+   "slug": "fashion-great-kaan-table-his-high-feasts",
+   "title": "THE FASHION OF THE GREAT KAAN’S TABLE AT HIS HIGH FEASTS.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000302-fashion-great-kaan-table-his-high-feasts.md",
+   "at": "2026-09-02T22:27:04+00:00"
   }
  ]
 }
