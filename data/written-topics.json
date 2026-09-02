@@ -1,5 +1,5 @@
 {
- "count": 279,
+ "count": 280,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1953,6 +1953,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000279-how-prester-john-marched-meet-chinghis.md",
    "at": "2026-09-02T18:27:21+00:00"
+  },
+  {
+   "slug": "battle-between-chinghis-kaan-prester-john",
+   "title": "THE BATTLE BETWEEN CHINGHIS KAAN AND PRESTER JOHN.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000280-battle-between-chinghis-kaan-prester-john.md",
+   "at": "2026-09-02T18:37:15+00:00"
   }
  ]
 }
