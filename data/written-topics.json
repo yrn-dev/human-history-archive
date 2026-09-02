@@ -1,5 +1,5 @@
 {
- "count": 290,
+ "count": 291,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2030,6 +2030,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000290-concerning-kaan-palace-chagannor.md",
    "at": "2026-09-02T20:17:04+00:00"
+  },
+  {
+   "slug": "city-chandu-kaan-palace-there",
+   "title": "OF THE CITY OF CHANDU, AND THE KAAN’S PALACE THERE.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000291-city-chandu-kaan-palace-there.md",
+   "at": "2026-09-02T20:27:03+00:00"
   }
  ]
 }
