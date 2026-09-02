@@ -1,5 +1,5 @@
 {
- "count": 175,
+ "count": 176,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1225,6 +1225,13 @@
    "era": "ancient",
    "file": "eras/ancient/000175-herod-takes-sepphoris-subdues-robbers.md",
    "at": "2026-09-02T00:13:52+00:00"
+  },
+  {
+   "slug": "death-joseph-herod-brother-which-been",
+   "title": "The Death Of Joseph [Herod's Brother] Which Had Been",
+   "era": "ancient",
+   "file": "eras/ancient/000176-death-joseph-herod-brother-which-been.md",
+   "at": "2026-09-02T00:28:34+00:00"
   }
  ]
 }
