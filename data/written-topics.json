@@ -1,5 +1,5 @@
 {
- "count": 300,
+ "count": 301,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2100,6 +2100,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000300-concerning-person-great-kaan.md",
    "at": "2026-09-02T21:57:08+00:00"
+  },
+  {
+   "slug": "concerning-city-cambaluc",
+   "title": "CONCERNING THE CITY OF CAMBALUC.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000301-concerning-city-cambaluc.md",
+   "at": "2026-09-02T22:07:00+00:00"
   }
  ]
 }
