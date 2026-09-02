@@ -1,5 +1,5 @@
 {
- "count": 182,
+ "count": 183,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1274,6 +1274,13 @@
    "era": "ancient",
    "file": "eras/ancient/000182-calumnies-against-sons-mariamne-antipateris.md",
    "at": "2026-09-02T01:23:45+00:00"
+  },
+  {
+   "slug": "malice-antipater-doris-alexander-very-uneasy",
+   "title": "The Malice Of Antipater And Doris. Alexander Is Very Uneasy",
+   "era": "ancient",
+   "file": "eras/ancient/000183-malice-antipater-doris-alexander-very-uneasy.md",
+   "at": "2026-09-02T01:33:45+00:00"
   }
  ]
 }
