@@ -1,5 +1,5 @@
 {
- "count": 251,
+ "count": 252,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1757,6 +1757,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000251-city-camadi-ruins-also-touching.md",
    "at": "2026-09-02T13:17:41+00:00"
+  },
+  {
+   "slug": "descent-city-hormos",
+   "title": "OF THE DESCENT TO THE CITY OF HORMOS.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000252-descent-city-hormos.md",
+   "at": "2026-09-02T13:27:34+00:00"
   }
  ]
 }
