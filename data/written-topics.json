@@ -1,5 +1,5 @@
 {
- "count": 308,
+ "count": 309,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2156,6 +2156,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000308-concerning-two-brothers-who-charge.md",
    "at": "2026-09-02T23:26:57+00:00"
+  },
+  {
+   "slug": "how-emperor-goes-hunting-expedition",
+   "title": "HOW THE EMPEROR GOES ON A HUNTING EXPEDITION.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000309-how-emperor-goes-hunting-expedition.md",
+   "at": "2026-09-02T23:37:00+00:00"
   }
  ]
 }
