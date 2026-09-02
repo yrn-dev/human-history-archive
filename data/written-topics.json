@@ -1,5 +1,5 @@
 {
- "count": 238,
+ "count": 239,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1666,6 +1666,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000238-how-two-brothers-messer-marco-took-leave.md",
    "at": "2026-09-02T10:27:40+00:00"
+  },
+  {
+   "slug": "concerning-province-turcomania",
+   "title": "CONCERNING THE PROVINCE OF TURCOMANIA.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000239-concerning-province-turcomania.md",
+   "at": "2026-09-02T10:37:33+00:00"
   }
  ]
 }
