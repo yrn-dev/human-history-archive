@@ -1,5 +1,5 @@
 {
- "count": 232,
+ "count": 233,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1624,6 +1624,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000232-how-two-brothers-set-out-acre-mark-along.md",
    "at": "2026-09-02T09:27:50+00:00"
+  },
+  {
+   "slug": "how-two-brothers-presented-themselves",
+   "title": "HOW THE TWO BROTHERS PRESENTED THEMSELVES BEFORE",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000233-how-two-brothers-presented-themselves.md",
+   "at": "2026-09-02T09:37:42+00:00"
   }
  ]
 }
