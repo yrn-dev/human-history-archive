@@ -1,5 +1,5 @@
 {
- "count": 303,
+ "count": 304,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2121,6 +2121,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000303-concerning-great-feast-held-grand-kaan-every.md",
    "at": "2026-09-02T22:37:01+00:00"
+  },
+  {
+   "slug": "great-festival-which-kaan-holds-new",
+   "title": "OF THE GREAT FESTIVAL WHICH THE KAAN HOLDS ON NEW",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000304-great-festival-which-kaan-holds-new.md",
+   "at": "2026-09-02T22:47:03+00:00"
   }
  ]
 }
