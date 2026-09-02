@@ -1,5 +1,5 @@
 {
- "count": 183,
+ "count": 184,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1281,6 +1281,13 @@
    "era": "ancient",
    "file": "eras/ancient/000183-malice-antipater-doris-alexander-very-uneasy.md",
    "at": "2026-09-02T01:33:45+00:00"
+  },
+  {
+   "slug": "archelaus-procures-reconciliation-between-alexander",
+   "title": "Archelaus Procures A Reconciliation Between Alexander",
+   "era": "ancient",
+   "file": "eras/ancient/000184-archelaus-procures-reconciliation-between-alexander.md",
+   "at": "2026-09-02T01:43:44+00:00"
   }
  ]
 }
