@@ -1,5 +1,5 @@
 {
- "count": 230,
+ "count": 231,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1610,6 +1610,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000230-how-two-brothers-came-city-acre.md",
    "at": "2026-09-02T09:07:43+00:00"
+  },
+  {
+   "slug": "how-two-brothers-again-departed-venice-their-way-back",
+   "title": "HOW THE TWO BROTHERS AGAIN DEPARTED FROM VENICE, ON THEIR WAY BACK TO",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000231-how-two-brothers-again-departed-venice-their-way-back.md",
+   "at": "2026-09-02T09:17:45+00:00"
   }
  ]
 }
