@@ -1,5 +1,5 @@
 {
- "count": 281,
+ "count": 282,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1967,6 +1967,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000281-those-who-did-reign-chinghis-kaan.md",
    "at": "2026-09-02T18:47:17+00:00"
+  },
+  {
+   "slug": "concerning-customs-tartars",
+   "title": "CONCERNING THE CUSTOMS OF THE TARTARS.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000282-concerning-customs-tartars.md",
+   "at": "2026-09-02T18:57:14+00:00"
   }
  ]
 }
