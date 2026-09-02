@@ -1,5 +1,5 @@
 {
- "count": 259,
+ "count": 260,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1813,6 +1813,13 @@
    "era": "ancient",
    "file": "eras/ancient/000259-concerning-city-sapurgan.md",
    "at": "2026-09-02T14:37:25+00:00"
+  },
+  {
+   "slug": "taican-mountains-salt-also",
+   "title": "OF TAICAN, AND THE MOUNTAINS OF SALT. ALSO OF THE",
+   "era": "cultures",
+   "file": "eras/cultures/000260-taican-mountains-salt-also.md",
+   "at": "2026-09-02T14:57:23+00:00"
   }
  ]
 }
