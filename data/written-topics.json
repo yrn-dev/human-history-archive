@@ -1,5 +1,5 @@
 {
- "count": 246,
+ "count": 247,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1722,6 +1722,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000246-monastery-st-barsamo-borders-tauris.md",
    "at": "2026-09-02T12:17:58+00:00"
+  },
+  {
+   "slug": "great-country-persia-some-account",
+   "title": "OF THE GREAT COUNTRY OF PERSIA; WITH SOME ACCOUNT OF THE",
+   "era": "ancient",
+   "file": "eras/ancient/000247-great-country-persia-some-account.md",
+   "at": "2026-09-02T12:29:12+00:00"
   }
  ]
 }
