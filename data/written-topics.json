@@ -1,5 +1,5 @@
 {
- "count": 218,
+ "count": 219,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1526,6 +1526,13 @@
    "era": "ancient",
    "file": "eras/ancient/000218-great-slaughter-ascalon-vespasian-comes.md",
    "at": "2026-09-02T07:08:07+00:00"
+  },
+  {
+   "slug": "description-galilee-samaria-judea",
+   "title": "A Description Of Galilee, Samaria, And Judea.",
+   "era": "ancient",
+   "file": "eras/ancient/000219-description-galilee-samaria-judea.md",
+   "at": "2026-09-02T07:18:14+00:00"
   }
  ]
 }
