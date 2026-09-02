@@ -1,5 +1,5 @@
 {
- "count": 256,
+ "count": 257,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1792,6 +1792,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000256-concerning-old-man-mountain.md",
    "at": "2026-09-02T14:07:30+00:00"
+  },
+  {
+   "slug": "how-old-man-used-train-his-assassins",
+   "title": "HOW THE OLD MAN USED TO TRAIN HIS ASSASSINS.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000257-how-old-man-used-train-his-assassins.md",
+   "at": "2026-09-02T14:17:33+00:00"
   }
  ]
 }
