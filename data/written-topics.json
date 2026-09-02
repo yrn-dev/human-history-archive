@@ -1,5 +1,5 @@
 {
- "count": 174,
+ "count": 175,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1218,6 +1218,13 @@
    "era": "ancient",
    "file": "eras/ancient/000174-antigonus-besieges-those-masada-whom-herod.md",
    "at": "2026-09-02T00:04:01+00:00"
+  },
+  {
+   "slug": "herod-takes-sepphoris-subdues-robbers",
+   "title": "Herod Takes Sepphoris And Subdues The Robbers That Were In",
+   "era": "ancient",
+   "file": "eras/ancient/000175-herod-takes-sepphoris-subdues-robbers.md",
+   "at": "2026-09-02T00:13:52+00:00"
   }
  ]
 }
