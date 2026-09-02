@@ -1,5 +1,5 @@
 {
- "count": 255,
+ "count": 256,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1785,6 +1785,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000255-certain-desert-continues-eight-days-journey.md",
    "at": "2026-09-02T13:57:28+00:00"
+  },
+  {
+   "slug": "concerning-old-man-mountain",
+   "title": "CONCERNING THE OLD MAN OF THE MOUNTAIN.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000256-concerning-old-man-mountain.md",
+   "at": "2026-09-02T14:07:30+00:00"
   }
  ]
 }
