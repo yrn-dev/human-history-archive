@@ -1,5 +1,5 @@
 {
- "count": 180,
+ "count": 181,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1260,6 +1260,13 @@
    "era": "ancient",
    "file": "eras/ancient/000180-temple-cities-built-herod.md",
    "at": "2026-09-02T01:03:46+00:00"
+  },
+  {
+   "slug": "murder-aristobulus-hyrcanus-high-priests",
+   "title": "The Murder Of Aristobulus And Hyrcanus, The High Priests, As",
+   "era": "ancient",
+   "file": "eras/ancient/000181-murder-aristobulus-hyrcanus-high-priests.md",
+   "at": "2026-09-02T01:13:45+00:00"
   }
  ]
 }
