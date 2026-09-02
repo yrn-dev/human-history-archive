@@ -1,5 +1,5 @@
 {
- "count": 272,
+ "count": 273,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1904,6 +1904,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000272-province-chingintalas.md",
    "at": "2026-09-02T17:17:22+00:00"
+  },
+  {
+   "slug": "province-sukchur",
+   "title": "OF THE PROVINCE OF SUKCHUR.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000273-province-sukchur.md",
+   "at": "2026-09-02T17:27:15+00:00"
   }
  ]
 }
