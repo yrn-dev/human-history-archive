@@ -1,5 +1,5 @@
 {
- "count": 268,
+ "count": 269,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1876,6 +1876,13 @@
    "era": "ancient",
    "file": "eras/ancient/000268-province-charchan.md",
    "at": "2026-09-02T16:37:19+00:00"
+  },
+  {
+   "slug": "city-lop-great-desert",
+   "title": "OF THE CITY OF LOP AND THE GREAT DESERT.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000269-city-lop-great-desert.md",
+   "at": "2026-09-02T16:47:24+00:00"
   }
  ]
 }
