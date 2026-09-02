@@ -1,5 +1,5 @@
 {
- "count": 253,
+ "count": 254,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1771,6 +1771,13 @@
    "era": "ancient",
    "file": "eras/ancient/000253-wearisome-desert-road-now.md",
    "at": "2026-09-02T13:37:31+00:00"
+  },
+  {
+   "slug": "concerning-city-cobinan-things",
+   "title": "CONCERNING THE CITY OF COBINAN AND THE THINGS THAT ARE",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000254-concerning-city-cobinan-things.md",
+   "at": "2026-09-02T13:47:34+00:00"
   }
  ]
 }
