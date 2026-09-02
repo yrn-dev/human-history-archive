@@ -1,5 +1,5 @@
 {
- "count": 239,
+ "count": 240,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1673,6 +1673,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000239-concerning-province-turcomania.md",
    "at": "2026-09-02T10:37:33+00:00"
+  },
+  {
+   "slug": "kingdom-mausul",
+   "title": "OF THE KINGDOM OF MAUSUL.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000240-kingdom-mausul.md",
+   "at": "2026-09-02T11:07:37+00:00"
   }
  ]
 }
