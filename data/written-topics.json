@@ -1,5 +1,5 @@
 {
- "count": 200,
+ "count": 201,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1400,6 +1400,13 @@
    "era": "ancient",
    "file": "eras/ancient/000200-history-spurious-alexander-archelaus-banished.md",
    "at": "2026-09-02T04:08:01+00:00"
+  },
+  {
+   "slug": "archelaus-ethnarchy-reduced-roman-province",
+   "title": "Archelaus's Ethnarchy Is Reduced Into A [Roman] Province.",
+   "era": "ancient",
+   "file": "eras/ancient/000201-archelaus-ethnarchy-reduced-roman-province.md",
+   "at": "2026-09-02T04:18:04+00:00"
   }
  ]
 }
