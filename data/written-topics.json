@@ -1,5 +1,5 @@
 {
- "count": 220,
+ "count": 221,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1540,6 +1540,13 @@
    "era": "ancient",
    "file": "eras/ancient/000220-josephus-makes-attempt-upon-sepphoris-but-repelled.md",
    "at": "2026-09-02T07:28:07+00:00"
+  },
+  {
+   "slug": "chap-page",
+   "title": "CHAP.                                                             PAGE",
+   "era": "ancient",
+   "file": "eras/ancient/000221-chap-page.md",
+   "at": "2026-09-02T07:38:09+00:00"
   }
  ]
 }
