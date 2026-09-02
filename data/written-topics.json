@@ -1,5 +1,5 @@
 {
- "count": 263,
+ "count": 264,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1841,6 +1841,13 @@
    "era": "cultures",
    "file": "eras/cultures/000263-great-river-badashan.md",
    "at": "2026-09-02T15:37:26+00:00"
+  },
+  {
+   "slug": "kingdom-cascar",
+   "title": "OF THE KINGDOM OF CASCAR.",
+   "era": "cultures",
+   "file": "eras/cultures/000264-kingdom-cascar.md",
+   "at": "2026-09-02T15:47:17+00:00"
   }
  ]
 }
