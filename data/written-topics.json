@@ -1,5 +1,5 @@
 {
- "count": 282,
+ "count": 283,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1974,6 +1974,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000282-concerning-customs-tartars.md",
    "at": "2026-09-02T18:57:14+00:00"
+  },
+  {
+   "slug": "concerning-god-tartars",
+   "title": "CONCERNING THE GOD OF THE TARTARS.",
+   "era": "cultures",
+   "file": "eras/cultures/000283-concerning-god-tartars.md",
+   "at": "2026-09-02T19:07:08+00:00"
   }
  ]
 }
