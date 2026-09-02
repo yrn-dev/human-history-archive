@@ -1,5 +1,5 @@
 {
- "count": 286,
+ "count": 287,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2002,6 +2002,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000286-sundry-particulars-plain-beyond-caracoron.md",
    "at": "2026-09-02T19:37:05+00:00"
+  },
+  {
+   "slug": "kingdom-erguiul-province-sinju",
+   "title": "OF THE KINGDOM OF ERGUIUL, AND PROVINCE OF SINJU.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000287-kingdom-erguiul-province-sinju.md",
+   "at": "2026-09-02T19:47:09+00:00"
   }
  ]
 }
