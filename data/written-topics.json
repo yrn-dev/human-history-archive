@@ -1,5 +1,5 @@
 {
- "count": 299,
+ "count": 300,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2093,6 +2093,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000299-how-kaan-rewarded-valour-his-captains.md",
    "at": "2026-09-02T21:47:02+00:00"
+  },
+  {
+   "slug": "concerning-person-great-kaan",
+   "title": "CONCERNING THE PERSON OF THE GREAT KAAN.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000300-concerning-person-great-kaan.md",
+   "at": "2026-09-02T21:57:08+00:00"
   }
  ]
 }
