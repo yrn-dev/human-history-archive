@@ -1,5 +1,5 @@
 {
- "count": 284,
+ "count": 285,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1988,6 +1988,13 @@
    "era": "cultures",
    "file": "eras/cultures/000284-concerning-tartar-customs-war.md",
    "at": "2026-09-02T19:17:09+00:00"
+  },
+  {
+   "slug": "concerning-administering-justice-among-tartars",
+   "title": "CONCERNING THE ADMINISTERING OF JUSTICE AMONG THE TARTARS.",
+   "era": "cultures",
+   "file": "eras/cultures/000285-concerning-administering-justice-among-tartars.md",
+   "at": "2026-09-02T19:27:07+00:00"
   }
  ]
 }
