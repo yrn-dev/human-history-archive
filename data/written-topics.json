@@ -1,5 +1,5 @@
 {
- "count": 273,
+ "count": 274,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1911,6 +1911,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000273-province-sukchur.md",
    "at": "2026-09-02T17:27:15+00:00"
+  },
+  {
+   "slug": "city-campichu",
+   "title": "OF THE CITY OF CAMPICHU.",
+   "era": "ancient",
+   "file": "eras/ancient/000274-city-campichu.md",
+   "at": "2026-09-02T17:37:13+00:00"
   }
  ]
 }
