@@ -1,5 +1,5 @@
 {
- "count": 179,
+ "count": 180,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1253,6 +1253,13 @@
    "era": "ancient",
    "file": "eras/ancient/000179-herod-confirmed-his-kingdom-caesar-cultivates.md",
    "at": "2026-09-02T00:53:48+00:00"
+  },
+  {
+   "slug": "temple-cities-built-herod",
+   "title": "Of The [Temple And] Cities That Were Built By Herod And",
+   "era": "ancient",
+   "file": "eras/ancient/000180-temple-cities-built-herod.md",
+   "at": "2026-09-02T01:03:46+00:00"
   }
  ]
 }
