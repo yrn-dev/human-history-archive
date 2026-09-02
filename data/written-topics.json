@@ -1,5 +1,5 @@
 {
- "count": 207,
+ "count": 208,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1449,6 +1449,13 @@
    "era": "ancient",
    "file": "eras/ancient/000207-festus-succeeds-felix-who-succeeded-albinus-he.md",
    "at": "2026-09-02T05:18:04+00:00"
+  },
+  {
+   "slug": "concerning-bernice-petition-florus-spare-jews",
+   "title": "Concerning Bernice's Petition To Florus, To Spare The Jews,",
+   "era": "ancient",
+   "file": "eras/ancient/000208-concerning-bernice-petition-florus-spare-jews.md",
+   "at": "2026-09-02T05:27:55+00:00"
   }
  ]
 }
