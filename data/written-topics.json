@@ -1,5 +1,5 @@
 {
- "count": 288,
+ "count": 289,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2016,6 +2016,13 @@
    "era": "cultures",
    "file": "eras/cultures/000288-kingdom-egrigaia.md",
    "at": "2026-09-02T19:57:09+00:00"
+  },
+  {
+   "slug": "concerning-province-tenduc-descendants",
+   "title": "CONCERNING THE PROVINCE OF TENDUC, AND THE DESCENDANTS",
+   "era": "cultures",
+   "file": "eras/cultures/000289-concerning-province-tenduc-descendants.md",
+   "at": "2026-09-02T20:07:10+00:00"
   }
  ]
 }
