@@ -1,5 +1,5 @@
 {
- "count": 257,
+ "count": 258,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1799,6 +1799,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000257-how-old-man-used-train-his-assassins.md",
    "at": "2026-09-02T14:17:33+00:00"
+  },
+  {
+   "slug": "how-old-man-came-his-end",
+   "title": "HOW THE OLD MAN CAME BY HIS END.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000258-how-old-man-came-his-end.md",
+   "at": "2026-09-02T14:27:28+00:00"
   }
  ]
 }
