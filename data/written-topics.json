@@ -1,5 +1,5 @@
 {
- "count": 222,
+ "count": 223,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1554,6 +1554,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000222-how-two-brothers-polo-set-forth-constantinople.md",
    "at": "2026-09-02T07:48:01+00:00"
+  },
+  {
+   "slug": "how-two-brothers-went-beyond-soldaia",
+   "title": "HOW THE TWO BROTHERS WENT ON BEYOND SOLDAIA.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000223-how-two-brothers-went-beyond-soldaia.md",
+   "at": "2026-09-02T07:57:58+00:00"
   }
  ]
 }
