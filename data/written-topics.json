@@ -1,5 +1,5 @@
 {
- "count": 247,
+ "count": 248,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1729,6 +1729,13 @@
    "era": "ancient",
    "file": "eras/ancient/000247-great-country-persia-some-account.md",
    "at": "2026-09-02T12:29:12+00:00"
+  },
+  {
+   "slug": "what-befell-when-three-kings-returned-their-own",
+   "title": "WHAT BEFELL WHEN THE THREE KINGS RETURNED TO THEIR OWN",
+   "era": "ancient",
+   "file": "eras/ancient/000248-what-befell-when-three-kings-returned-their-own.md",
+   "at": "2026-09-02T12:37:28+00:00"
   }
  ]
 }
