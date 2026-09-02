@@ -1,5 +1,5 @@
 {
- "count": 244,
+ "count": 245,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1708,6 +1708,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000244-how-prayer-one-eyed-cobler-caused.md",
    "at": "2026-09-02T11:57:56+00:00"
+  },
+  {
+   "slug": "noble-city-tauris",
+   "title": "OF THE NOBLE CITY OF TAURIS.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000245-noble-city-tauris.md",
+   "at": "2026-09-02T12:07:32+00:00"
   }
  ]
 }
