@@ -1,5 +1,5 @@
 {
- "count": 275,
+ "count": 276,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1925,6 +1925,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000275-city-etzina.md",
    "at": "2026-09-02T17:47:15+00:00"
+  },
+  {
+   "slug": "city-caracoron",
+   "title": "OF THE CITY OF CARACORON.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000276-city-caracoron.md",
+   "at": "2026-09-02T17:57:15+00:00"
   }
  ]
 }
