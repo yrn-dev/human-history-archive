@@ -1,5 +1,5 @@
 {
- "count": 295,
+ "count": 296,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2065,6 +2065,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000295-how-great-kaan-marched-against-nayan.md",
    "at": "2026-09-02T21:07:08+00:00"
+  },
+  {
+   "slug": "battle-great-kaan-fought-nayan",
+   "title": "OF THE BATTLE THAT THE GREAT KAAN FOUGHT WITH NAYAN.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000296-battle-great-kaan-fought-nayan.md",
+   "at": "2026-09-02T21:17:20+00:00"
   }
  ]
 }
