@@ -1,5 +1,5 @@
 {
- "count": 258,
+ "count": 259,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1806,6 +1806,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000258-how-old-man-came-his-end.md",
    "at": "2026-09-02T14:27:28+00:00"
+  },
+  {
+   "slug": "concerning-city-sapurgan",
+   "title": "CONCERNING THE CITY OF SAPURGAN.",
+   "era": "ancient",
+   "file": "eras/ancient/000259-concerning-city-sapurgan.md",
+   "at": "2026-09-02T14:37:25+00:00"
   }
  ]
 }
