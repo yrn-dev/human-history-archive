@@ -1,5 +1,5 @@
 {
- "count": 270,
+ "count": 271,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1890,6 +1890,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000270-concerning-great-province-tangut.md",
    "at": "2026-09-02T16:57:23+00:00"
+  },
+  {
+   "slug": "province-camul",
+   "title": "OF THE PROVINCE OF CAMUL.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000271-province-camul.md",
+   "at": "2026-09-02T17:07:15+00:00"
   }
  ]
 }
