@@ -1,5 +1,5 @@
 {
- "count": 219,
+ "count": 220,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1533,6 +1533,13 @@
    "era": "ancient",
    "file": "eras/ancient/000219-description-galilee-samaria-judea.md",
    "at": "2026-09-02T07:18:14+00:00"
+  },
+  {
+   "slug": "josephus-makes-attempt-upon-sepphoris-but-repelled",
+   "title": "Josephus Makes An Attempt Upon Sepphoris But Is Repelled.",
+   "era": "ancient",
+   "file": "eras/ancient/000220-josephus-makes-attempt-upon-sepphoris-but-repelled.md",
+   "at": "2026-09-02T07:28:07+00:00"
   }
  ]
 }
