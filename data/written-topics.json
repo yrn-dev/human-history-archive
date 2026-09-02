@@ -1,5 +1,5 @@
 {
- "count": 287,
+ "count": 288,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2009,6 +2009,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000287-kingdom-erguiul-province-sinju.md",
    "at": "2026-09-02T19:47:09+00:00"
+  },
+  {
+   "slug": "kingdom-egrigaia",
+   "title": "OF THE KINGDOM OF EGRIGAIA.",
+   "era": "cultures",
+   "file": "eras/cultures/000288-kingdom-egrigaia.md",
+   "at": "2026-09-02T19:57:09+00:00"
   }
  ]
 }
