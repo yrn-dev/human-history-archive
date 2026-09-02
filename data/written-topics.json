@@ -1,5 +1,5 @@
 {
- "count": 245,
+ "count": 246,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1715,6 +1715,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000245-noble-city-tauris.md",
    "at": "2026-09-02T12:07:32+00:00"
+  },
+  {
+   "slug": "monastery-st-barsamo-borders-tauris",
+   "title": "OF THE MONASTERY OF ST. BARSAMO ON THE BORDERS OF TAURIS.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000246-monastery-st-barsamo-borders-tauris.md",
+   "at": "2026-09-02T12:17:58+00:00"
   }
  ]
 }
