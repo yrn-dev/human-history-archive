@@ -1,5 +1,5 @@
 {
- "count": 248,
+ "count": 249,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1736,6 +1736,13 @@
    "era": "ancient",
    "file": "eras/ancient/000248-what-befell-when-three-kings-returned-their-own.md",
    "at": "2026-09-02T12:37:28+00:00"
+  },
+  {
+   "slug": "eight-kingdoms-persia-how-they",
+   "title": "OF THE EIGHT KINGDOMS OF PERSIA, AND HOW THEY",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000249-eight-kingdoms-persia-how-they.md",
+   "at": "2026-09-02T12:47:35+00:00"
   }
  ]
 }
