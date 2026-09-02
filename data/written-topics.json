@@ -1,5 +1,5 @@
 {
- "count": 199,
+ "count": 200,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1393,6 +1393,13 @@
    "era": "ancient",
    "file": "eras/ancient/000199-jews-greatly-complain-archelaus-desire-they.md",
    "at": "2026-09-02T03:58:01+00:00"
+  },
+  {
+   "slug": "history-spurious-alexander-archelaus-banished",
+   "title": "The History Of The Spurious Alexander. Archelaus Is Banished",
+   "era": "ancient",
+   "file": "eras/ancient/000200-history-spurious-alexander-archelaus-banished.md",
+   "at": "2026-09-02T04:08:01+00:00"
   }
  ]
 }
