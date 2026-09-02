@@ -1,5 +1,5 @@
 {
- "count": 271,
+ "count": 272,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1897,6 +1897,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000271-province-camul.md",
    "at": "2026-09-02T17:07:15+00:00"
+  },
+  {
+   "slug": "province-chingintalas",
+   "title": "OF THE PROVINCE OF CHINGINTALAS.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000272-province-chingintalas.md",
+   "at": "2026-09-02T17:17:22+00:00"
   }
  ]
 }
