@@ -1,5 +1,5 @@
 {
- "count": 269,
+ "count": 270,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1883,6 +1883,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000269-city-lop-great-desert.md",
    "at": "2026-09-02T16:47:24+00:00"
+  },
+  {
+   "slug": "concerning-great-province-tangut",
+   "title": "CONCERNING THE GREAT PROVINCE OF TANGUT.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000270-concerning-great-province-tangut.md",
+   "at": "2026-09-02T16:57:23+00:00"
   }
  ]
 }
