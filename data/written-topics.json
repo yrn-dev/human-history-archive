@@ -1,5 +1,5 @@
 {
- "count": 190,
+ "count": 191,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1330,6 +1330,13 @@
    "era": "ancient",
    "file": "eras/ancient/000190-antipater-convicted-bathyllus-but-he-still-returns.md",
    "at": "2026-09-02T02:28:05+00:00"
+  },
+  {
+   "slug": "antipater-accused-varus-convicted",
+   "title": "Antipater Is Accused Before Varus, And Is Convicted Of",
+   "era": "ancient",
+   "file": "eras/ancient/000191-antipater-accused-varus-convicted.md",
+   "at": "2026-09-02T02:38:04+00:00"
   }
  ]
 }
