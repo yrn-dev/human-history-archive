@@ -1,5 +1,5 @@
 {
- "count": 260,
+ "count": 261,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1820,6 +1820,13 @@
    "era": "cultures",
    "file": "eras/cultures/000260-taican-mountains-salt-also.md",
    "at": "2026-09-02T14:57:23+00:00"
+  },
+  {
+   "slug": "province-badashan",
+   "title": "OF THE PROVINCE OF BADASHAN.",
+   "era": "cultures",
+   "file": "eras/cultures/000261-province-badashan.md",
+   "at": "2026-09-02T15:07:30+00:00"
   }
  ]
 }
