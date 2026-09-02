@@ -1,5 +1,5 @@
 {
- "count": 264,
+ "count": 265,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1848,6 +1848,13 @@
    "era": "cultures",
    "file": "eras/cultures/000264-kingdom-cascar.md",
    "at": "2026-09-02T15:47:17+00:00"
+  },
+  {
+   "slug": "province-yarcan",
+   "title": "OF THE PROVINCE OF YARCAN.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000265-province-yarcan.md",
+   "at": "2026-09-02T16:07:22+00:00"
   }
  ]
 }
