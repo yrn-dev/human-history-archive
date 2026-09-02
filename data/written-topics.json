@@ -1,5 +1,5 @@
 {
- "count": 201,
+ "count": 202,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -1407,6 +1407,13 @@
    "era": "ancient",
    "file": "eras/ancient/000201-archelaus-ethnarchy-reduced-roman-province.md",
    "at": "2026-09-02T04:18:04+00:00"
+  },
+  {
+   "slug": "death-salome-cities-which-herod-philip",
+   "title": "The Death Of Salome. The Cities Which Herod And Philip",
+   "era": "ancient",
+   "file": "eras/ancient/000202-death-salome-cities-which-herod-philip.md",
+   "at": "2026-09-02T04:27:57+00:00"
   }
  ]
 }
