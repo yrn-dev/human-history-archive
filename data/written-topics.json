@@ -1,5 +1,5 @@
 {
- "count": 338,
+ "count": 339,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2366,6 +2366,13 @@
    "era": "ancient",
    "file": "eras/ancient/000338-second-year-war-plague-athens-position-policy.md",
    "at": "2026-09-03T04:26:46+00:00"
+  },
+  {
+   "slug": "third-year-war-investment-plataea-naval-victories",
+   "title": "Third Year of the War—Investment of Plataea—Naval Victories of",
+   "era": "ancient",
+   "file": "eras/ancient/000339-third-year-war-investment-plataea-naval-victories.md",
+   "at": "2026-09-03T04:36:46+00:00"
   }
  ]
 }
