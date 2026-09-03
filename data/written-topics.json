@@ -1,5 +1,5 @@
 {
- "count": 342,
+ "count": 343,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2394,6 +2394,13 @@
    "era": "ancient",
    "file": "eras/ancient/000342-year-war-campaigns-demosthenes-western-greece-ruin.md",
    "at": "2026-09-03T05:07:04+00:00"
+  },
+  {
+   "slug": "seventh-year-war-occupation-pylos-surrender-spartan",
+   "title": "Seventh Year of the War—Occupation of Pylos—Surrender of the Spartan",
+   "era": "ancient",
+   "file": "eras/ancient/000343-seventh-year-war-occupation-pylos-surrender-spartan.md",
+   "at": "2026-09-03T05:17:07+00:00"
   }
  ]
 }
