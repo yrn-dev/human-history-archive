@@ -1,5 +1,5 @@
 {
- "count": 386,
+ "count": 387,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2702,6 +2702,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/000386-political-history-denmark-norway-sweden-1513-1900-first.md",
    "at": "2026-09-03T17:26:13+00:00"
+  },
+  {
+   "slug": "russia-1469-1796-charles-xii-collapse-swedish",
+   "title": "Russia from 1469 to 1796; Charles XII. and the Collapse of the Swedish",
+   "era": "modern",
+   "file": "eras/modern/000387-russia-1469-1796-charles-xii-collapse-swedish.md",
+   "at": "2026-09-03T17:36:06+00:00"
   }
  ]
 }
