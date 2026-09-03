@@ -1,5 +1,5 @@
 {
- "count": 379,
+ "count": 380,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2653,6 +2653,13 @@
    "era": "ancient",
    "file": "eras/ancient/000379-pennsylvania-conducting-excavations-nippur-1888-1895-author.md",
    "at": "2026-09-03T14:46:14+00:00"
+  },
+  {
+   "slug": "kensington-formerly-scholar-sidney-sussex-college-cambridge",
+   "title": "Kensington. Formerly Scholar of Sidney Sussex College, Cambridge, and",
+   "era": "modern",
+   "file": "eras/modern/000380-kensington-formerly-scholar-sidney-sussex-college-cambridge.md",
+   "at": "2026-09-03T15:26:11+00:00"
   }
  ]
 }
