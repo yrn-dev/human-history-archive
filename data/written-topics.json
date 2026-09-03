@@ -1,5 +1,5 @@
 {
- "count": 354,
+ "count": 355,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2478,6 +2478,13 @@
    "era": "ancient",
    "file": "eras/ancient/000354-nineteenth-year-war-battles-great-harbour-retreat.md",
    "at": "2026-09-03T07:06:42+00:00"
+  },
+  {
+   "slug": "nineteenth-twentieth-years-war-revolt-ionia-intervention",
+   "title": "Nineteenth and Twentieth Years of the War—Revolt of Ionia— Intervention",
+   "era": "modern",
+   "file": "eras/modern/000355-nineteenth-twentieth-years-war-revolt-ionia-intervention.md",
+   "at": "2026-09-03T07:16:58+00:00"
   }
  ]
 }
