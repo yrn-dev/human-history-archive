@@ -1,5 +1,5 @@
 {
- "count": 321,
+ "count": 322,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2247,6 +2247,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000321-concerning-religion-cathayans-their-views.md",
    "at": "2026-09-03T01:36:51+00:00"
+  },
+  {
+   "slug": "chapter-iii",
+   "title": "CHAPTER III",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000322-chapter-iii.md",
+   "at": "2026-09-03T01:46:47+00:00"
   }
  ]
 }
