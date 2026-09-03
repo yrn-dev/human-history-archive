@@ -1,5 +1,5 @@
 {
- "count": 327,
+ "count": 328,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2289,6 +2289,13 @@
    "era": "ancient",
    "file": "eras/ancient/000327-chapter-xviii.md",
    "at": "2026-09-03T02:36:57+00:00"
+  },
+  {
+   "slug": "chapter-xxi",
+   "title": "CHAPTER XXI",
+   "era": "ancient",
+   "file": "eras/ancient/000328-chapter-xxi.md",
+   "at": "2026-09-03T02:46:47+00:00"
   }
  ]
 }
