@@ -1,5 +1,5 @@
 {
- "count": 339,
+ "count": 340,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2373,6 +2373,13 @@
    "era": "ancient",
    "file": "eras/ancient/000339-third-year-war-investment-plataea-naval-victories.md",
    "at": "2026-09-03T04:36:46+00:00"
+  },
+  {
+   "slug": "fourth-fifth-years-war-revolt-mitylene",
+   "title": "Fourth and Fifth Years of the War—Revolt of Mitylene",
+   "era": "ancient",
+   "file": "eras/ancient/000340-fourth-fifth-years-war-revolt-mitylene.md",
+   "at": "2026-09-03T04:46:56+00:00"
   }
  ]
 }
