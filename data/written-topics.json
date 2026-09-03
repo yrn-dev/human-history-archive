@@ -1,5 +1,5 @@
 {
- "count": 384,
+ "count": 385,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2688,6 +2688,13 @@
    "era": "modern",
    "file": "eras/modern/000384-member-academie-des-inscriptions-et-belles-lettres-honorary.md",
    "at": "2026-09-03T16:46:09+00:00"
+  },
+  {
+   "slug": "author-editor-book-enoch-book-jubilees-apocalypse",
+   "title": "Author and Editor of Book of Enoch; Book of Jubilees; Apocalypse of",
+   "era": "ancient",
+   "file": "eras/ancient/000385-author-editor-book-enoch-book-jubilees-apocalypse.md",
+   "at": "2026-09-03T17:06:11+00:00"
   }
  ]
 }
