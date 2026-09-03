@@ -1,5 +1,5 @@
 {
- "count": 381,
+ "count": 382,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2667,6 +2667,13 @@
    "era": "ancient",
    "file": "eras/ancient/000381-assistant-keeper-egyptian-assyrian-antiquities-british.md",
    "at": "2026-09-03T15:36:14+00:00"
+  },
+  {
+   "slug": "formerly-exhibitioner-st-john-college-oxford-pusey-ellerton",
+   "title": "Formerly Exhibitioner of St John's College, Oxford. Pusey and Ellerton",
+   "era": "modern",
+   "file": "eras/modern/000382-formerly-exhibitioner-st-john-college-oxford-pusey-ellerton.md",
+   "at": "2026-09-03T15:56:21+00:00"
   }
  ]
 }
