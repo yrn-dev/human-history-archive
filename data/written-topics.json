@@ -1,5 +1,5 @@
 {
- "count": 373,
+ "count": 374,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2611,6 +2611,13 @@
    "era": "modern",
    "file": "eras/modern/000373-vice-president-folk-lore-society-author-story-primitive.md",
    "at": "2026-09-03T11:46:19+00:00"
+  },
+  {
+   "slug": "captain-royal-engineers-instructor-construction-school",
+   "title": "Captain, Royal Engineers. Instructor in Construction at the School of",
+   "era": "modern",
+   "file": "eras/modern/000374-captain-royal-engineers-instructor-construction-school.md",
+   "at": "2026-09-03T12:17:32+00:00"
   }
  ]
 }
