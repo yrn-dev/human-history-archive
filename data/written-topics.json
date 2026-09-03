@@ -1,5 +1,5 @@
 {
- "count": 366,
+ "count": 367,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2562,6 +2562,13 @@
    "era": "modern",
    "file": "eras/modern/000366-volume-iii.md",
    "at": "2026-09-03T09:06:36+00:00"
+  },
+  {
+   "slug": "austria-lower-bisectrix",
+   "title": "AUSTRIA LOWER to BISECTRIX",
+   "era": "modern",
+   "file": "eras/modern/000367-austria-lower-bisectrix.md",
+   "at": "2026-09-03T09:16:50+00:00"
   }
  ]
 }
