@@ -1,5 +1,5 @@
 {
- "count": 407,
+ "count": 408,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2849,6 +2849,13 @@
    "era": "ancient",
    "file": "eras/ancient/000407-army-12-679-160.md",
    "at": "2026-09-03T22:35:51+00:00"
+  },
+  {
+   "slug": "navy-306-100",
+   "title": "Navy                                           2,306,100",
+   "era": "modern",
+   "file": "eras/modern/000408-navy-306-100.md",
+   "at": "2026-09-03T22:45:55+00:00"
   }
  ]
 }
