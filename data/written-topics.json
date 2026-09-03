@@ -1,5 +1,5 @@
 {
- "count": 400,
+ "count": 401,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2800,6 +2800,13 @@
    "era": "modern",
    "file": "eras/modern/000400-administration-these-common-affairs-there-three-joint.md",
    "at": "2026-09-03T21:26:14+00:00"
+  },
+  {
+   "slug": "ministry-foreign-affairs-l21-167",
+   "title": "Ministry of Foreign Affairs                        L21,167",
+   "era": "industrial",
+   "file": "eras/industrial/000401-ministry-foreign-affairs-l21-167.md",
+   "at": "2026-09-03T21:36:01+00:00"
   }
  ]
 }
