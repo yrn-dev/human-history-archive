@@ -1,5 +1,5 @@
 {
- "count": 364,
+ "count": 365,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2548,6 +2548,13 @@
    "era": "modern",
    "file": "eras/modern/000364-dictionary-arts-sciences-literature-general-information.md",
    "at": "2026-09-03T08:46:45+00:00"
+  },
+  {
+   "slug": "eleventh-edition",
+   "title": "ELEVENTH EDITION",
+   "era": "industrial",
+   "file": "eras/industrial/000365-eleventh-edition.md",
+   "at": "2026-09-03T08:56:37+00:00"
   }
  ]
 }
