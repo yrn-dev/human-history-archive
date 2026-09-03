@@ -1,5 +1,5 @@
 {
- "count": 376,
+ "count": 377,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2632,6 +2632,13 @@
    "era": "modern",
    "file": "eras/modern/000376-keeper-national-museum-antiquities-edinburgh-assistant.md",
    "at": "2026-09-03T13:56:18+00:00"
+  },
+  {
+   "slug": "king-college-cambridge-correspondent-times-south-eastern",
+   "title": "King's College, Cambridge. Correspondent of The Times in South-Eastern",
+   "era": "modern",
+   "file": "eras/modern/000377-king-college-cambridge-correspondent-times-south-eastern.md",
+   "at": "2026-09-03T14:06:16+00:00"
   }
  ]
 }
