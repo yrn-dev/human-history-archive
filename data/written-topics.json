@@ -1,5 +1,5 @@
 {
- "count": 365,
+ "count": 366,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2555,6 +2555,13 @@
    "era": "industrial",
    "file": "eras/industrial/000365-eleventh-edition.md",
    "at": "2026-09-03T08:56:37+00:00"
+  },
+  {
+   "slug": "volume-iii",
+   "title": "VOLUME III",
+   "era": "modern",
+   "file": "eras/modern/000366-volume-iii.md",
+   "at": "2026-09-03T09:06:36+00:00"
   }
  ]
 }
