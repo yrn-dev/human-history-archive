@@ -1,5 +1,5 @@
 {
- "count": 343,
+ "count": 344,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2401,6 +2401,13 @@
    "era": "ancient",
    "file": "eras/ancient/000343-seventh-year-war-occupation-pylos-surrender-spartan.md",
    "at": "2026-09-03T05:17:07+00:00"
+  },
+  {
+   "slug": "seventh-eighth-years-war-end-corcyraean-revolution-peace",
+   "title": "Seventh and Eighth Years of the War—End of Corcyraean Revolution— Peace",
+   "era": "ancient",
+   "file": "eras/ancient/000344-seventh-eighth-years-war-end-corcyraean-revolution-peace.md",
+   "at": "2026-09-03T05:27:00+00:00"
   }
  ]
 }
