@@ -1,5 +1,5 @@
 {
- "count": 350,
+ "count": 351,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2450,6 +2450,13 @@
    "era": "ancient",
    "file": "eras/ancient/000350-seventeenth-year-war-parties-syracuse-story-harmodius.md",
    "at": "2026-09-03T06:28:09+00:00"
+  },
+  {
+   "slug": "seventeenth-eighteenth-years-war-inaction-athenian",
+   "title": "Seventeenth and Eighteenth Years of the War—Inaction of the Athenian",
+   "era": "ancient",
+   "file": "eras/ancient/000351-seventeenth-eighteenth-years-war-inaction-athenian.md",
+   "at": "2026-09-03T06:36:35+00:00"
   }
  ]
 }
