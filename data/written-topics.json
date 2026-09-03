@@ -1,5 +1,5 @@
 {
- "count": 355,
+ "count": 356,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2485,6 +2485,13 @@
    "era": "modern",
    "file": "eras/modern/000355-nineteenth-twentieth-years-war-revolt-ionia-intervention.md",
    "at": "2026-09-03T07:16:58+00:00"
+  },
+  {
+   "slug": "twentieth-twenty-first-years-war-intrigues",
+   "title": "Twentieth and Twenty-first Years of the War—Intrigues of",
+   "era": "ancient",
+   "file": "eras/ancient/000356-twentieth-twenty-first-years-war-intrigues.md",
+   "at": "2026-09-03T07:26:34+00:00"
   }
  ]
 }
