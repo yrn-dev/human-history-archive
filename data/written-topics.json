@@ -1,5 +1,5 @@
 {
- "count": 380,
+ "count": 381,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2660,6 +2660,13 @@
    "era": "modern",
    "file": "eras/modern/000380-kensington-formerly-scholar-sidney-sussex-college-cambridge.md",
    "at": "2026-09-03T15:26:11+00:00"
+  },
+  {
+   "slug": "assistant-keeper-egyptian-assyrian-antiquities-british",
+   "title": "Assistant to the Keeper of Egyptian and Assyrian Antiquities, British",
+   "era": "ancient",
+   "file": "eras/ancient/000381-assistant-keeper-egyptian-assyrian-antiquities-british.md",
+   "at": "2026-09-03T15:36:14+00:00"
   }
  ]
 }
