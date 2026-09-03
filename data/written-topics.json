@@ -1,5 +1,5 @@
 {
- "count": 363,
+ "count": 364,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2541,6 +2541,13 @@
    "era": "modern",
    "file": "eras/modern/000363-encyclopaedia-britannica.md",
    "at": "2026-09-03T08:36:33+00:00"
+  },
+  {
+   "slug": "dictionary-arts-sciences-literature-general-information",
+   "title": "A DICTIONARY OF ARTS, SCIENCES, LITERATURE AND GENERAL INFORMATION",
+   "era": "modern",
+   "file": "eras/modern/000364-dictionary-arts-sciences-literature-general-information.md",
+   "at": "2026-09-03T08:46:45+00:00"
   }
  ]
 }
