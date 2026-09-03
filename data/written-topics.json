@@ -1,5 +1,5 @@
 {
- "count": 382,
+ "count": 383,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2674,6 +2674,13 @@
    "era": "modern",
    "file": "eras/modern/000382-formerly-exhibitioner-st-john-college-oxford-pusey-ellerton.md",
    "at": "2026-09-03T15:56:21+00:00"
+  },
+  {
+   "slug": "auxiliary-institute-france-academy-moral-political",
+   "title": "Auxiliary of the Institute of France (Academy of Moral and Political",
+   "era": "modern",
+   "file": "eras/modern/000383-auxiliary-institute-france-academy-moral-political.md",
+   "at": "2026-09-03T16:26:16+00:00"
   }
  ]
 }
