@@ -1,5 +1,5 @@
 {
- "count": 351,
+ "count": 352,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2457,6 +2457,13 @@
    "era": "ancient",
    "file": "eras/ancient/000351-seventeenth-eighteenth-years-war-inaction-athenian.md",
    "at": "2026-09-03T06:36:35+00:00"
+  },
+  {
+   "slug": "eighteenth-nineteenth-years-war-arrival-gylippus",
+   "title": "Eighteenth and Nineteenth Years of the War—Arrival of Gylippus at",
+   "era": "ancient",
+   "file": "eras/ancient/000352-eighteenth-nineteenth-years-war-arrival-gylippus.md",
+   "at": "2026-09-03T06:46:47+00:00"
   }
  ]
 }
