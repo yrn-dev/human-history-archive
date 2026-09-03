@@ -1,5 +1,5 @@
 {
- "count": 410,
+ "count": 411,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2870,6 +2870,13 @@
    "era": "modern",
    "file": "eras/modern/000410-extraordinary-military-expenditure-785-500.md",
    "at": "2026-09-03T23:05:58+00:00"
+  },
+  {
+   "slug": "army-navy",
+   "title": "(Army and Navy)",
+   "era": "modern",
+   "file": "eras/modern/000411-army-navy.md",
+   "at": "2026-09-03T23:16:04+00:00"
   }
  ]
 }
