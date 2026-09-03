@@ -1,5 +1,5 @@
 {
- "count": 375,
+ "count": 376,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2625,6 +2625,13 @@
    "era": "industrial",
    "file": "eras/industrial/000375-member-indian-civil-service-1873-1903-charge-linguistic.md",
    "at": "2026-09-03T12:36:28+00:00"
+  },
+  {
+   "slug": "keeper-national-museum-antiquities-edinburgh-assistant",
+   "title": "Keeper of the National Museum of Antiquities, Edinburgh, and Assistant",
+   "era": "modern",
+   "file": "eras/modern/000376-keeper-national-museum-antiquities-edinburgh-assistant.md",
+   "at": "2026-09-03T13:56:18+00:00"
   }
  ]
 }
