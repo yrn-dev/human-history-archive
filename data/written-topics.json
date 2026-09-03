@@ -1,5 +1,5 @@
 {
- "count": 353,
+ "count": 354,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2471,6 +2471,13 @@
    "era": "ancient",
    "file": "eras/ancient/000353-nineteenth-year-war-arrival-demosthenes-defeat.md",
    "at": "2026-09-03T06:56:49+00:00"
+  },
+  {
+   "slug": "nineteenth-year-war-battles-great-harbour-retreat",
+   "title": "Nineteenth Year of the War—Battles in the Great Harbour—Retreat and",
+   "era": "ancient",
+   "file": "eras/ancient/000354-nineteenth-year-war-battles-great-harbour-retreat.md",
+   "at": "2026-09-03T07:06:42+00:00"
   }
  ]
 }
