@@ -1,5 +1,5 @@
 {
- "count": 319,
+ "count": 320,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2233,6 +2233,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000319-how-great-kaan-causes-stores-corn-made.md",
    "at": "2026-09-03T01:16:52+00:00"
+  },
+  {
+   "slug": "charity-emperor-poor",
+   "title": "OF THE CHARITY OF THE EMPEROR TO THE POOR.",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000320-charity-emperor-poor.md",
+   "at": "2026-09-03T01:26:56+00:00"
   }
  ]
 }
