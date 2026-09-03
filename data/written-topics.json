@@ -1,5 +1,5 @@
 {
- "count": 385,
+ "count": 386,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2695,6 +2695,13 @@
    "era": "ancient",
    "file": "eras/ancient/000385-author-editor-book-enoch-book-jubilees-apocalypse.md",
    "at": "2026-09-03T17:06:11+00:00"
+  },
+  {
+   "slug": "political-history-denmark-norway-sweden-1513-1900-first",
+   "title": "Political History of Denmark, Norway and Sweden, 1513-1900; The First",
+   "era": "renaissance",
+   "file": "eras/renaissance/000386-political-history-denmark-norway-sweden-1513-1900-first.md",
+   "at": "2026-09-03T17:26:13+00:00"
   }
  ]
 }
