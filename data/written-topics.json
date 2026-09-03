@@ -1,5 +1,5 @@
 {
- "count": 359,
+ "count": 360,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2513,6 +2513,13 @@
    "era": "modern",
    "file": "eras/modern/000359-author-various.md",
    "at": "2026-09-03T07:56:41+00:00"
+  },
+  {
+   "slug": "most-recently-updated-january-2021",
+   "title": "Most recently updated: January 4, 2021",
+   "era": "modern",
+   "file": "eras/modern/000360-most-recently-updated-january-2021.md",
+   "at": "2026-09-03T08:06:35+00:00"
   }
  ]
 }
