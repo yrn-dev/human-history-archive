@@ -1,5 +1,5 @@
 {
- "count": 383,
+ "count": 384,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2681,6 +2681,13 @@
    "era": "modern",
    "file": "eras/modern/000383-auxiliary-institute-france-academy-moral-political.md",
    "at": "2026-09-03T16:26:16+00:00"
+  },
+  {
+   "slug": "member-academie-des-inscriptions-et-belles-lettres-honorary",
+   "title": "Member of the Academie des Inscriptions et Belles-Lettres. Honorary",
+   "era": "modern",
+   "file": "eras/modern/000384-member-academie-des-inscriptions-et-belles-lettres-honorary.md",
+   "at": "2026-09-03T16:46:09+00:00"
   }
  ]
 }
