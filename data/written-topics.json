@@ -1,5 +1,5 @@
 {
- "count": 340,
+ "count": 341,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2380,6 +2380,13 @@
    "era": "ancient",
    "file": "eras/ancient/000340-fourth-fifth-years-war-revolt-mitylene.md",
    "at": "2026-09-03T04:46:56+00:00"
+  },
+  {
+   "slug": "fifth-year-war-trial-execution-plataeans-corcyraean",
+   "title": "Fifth Year of the War—Trial and Execution of the Plataeans— Corcyraean",
+   "era": "ancient",
+   "file": "eras/ancient/000341-fifth-year-war-trial-execution-plataeans-corcyraean.md",
+   "at": "2026-09-03T04:56:53+00:00"
   }
  ]
 }
