@@ -1,5 +1,5 @@
 {
- "count": 358,
+ "count": 359,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2506,6 +2506,13 @@
    "era": "ancient",
    "file": "eras/ancient/000358-ebook-use-anyone-anywhere-united-states.md",
    "at": "2026-09-03T07:46:34+00:00"
+  },
+  {
+   "slug": "author-various",
+   "title": "Author: Various",
+   "era": "modern",
+   "file": "eras/modern/000359-author-various.md",
+   "at": "2026-09-03T07:56:41+00:00"
   }
  ]
 }
