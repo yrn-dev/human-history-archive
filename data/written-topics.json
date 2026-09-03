@@ -1,5 +1,5 @@
 {
- "count": 356,
+ "count": 357,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2492,6 +2492,13 @@
    "era": "ancient",
    "file": "eras/ancient/000356-twentieth-twenty-first-years-war-intrigues.md",
    "at": "2026-09-03T07:26:34+00:00"
+  },
+  {
+   "slug": "twenty-first-year-war-recall-alcibiades-samos-revolt",
+   "title": "Twenty-first Year of the War—Recall of Alcibiades to Samos—Revolt of",
+   "era": "ancient",
+   "file": "eras/ancient/000357-twenty-first-year-war-recall-alcibiades-samos-revolt.md",
+   "at": "2026-09-03T07:36:42+00:00"
   }
  ]
 }
