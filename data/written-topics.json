@@ -1,5 +1,5 @@
 {
- "count": 402,
+ "count": 403,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2814,6 +2814,13 @@
    "era": "modern",
    "file": "eras/modern/000402-ministry-war-305-907.md",
    "at": "2026-09-03T21:45:54+00:00"
+  },
+  {
+   "slug": "ministry-finance-870",
+   "title": "Ministry of Finance                                  4,870",
+   "era": "modern",
+   "file": "eras/modern/000403-ministry-finance-870.md",
+   "at": "2026-09-03T21:55:56+00:00"
   }
  ]
 }
