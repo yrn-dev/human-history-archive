@@ -1,5 +1,5 @@
 {
- "count": 348,
+ "count": 349,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2436,6 +2436,13 @@
    "era": "ancient",
    "file": "eras/ancient/000348-sixteenth-year-war-melian-conference-fate-melos.md",
    "at": "2026-09-03T06:07:14+00:00"
+  },
+  {
+   "slug": "seventeenth-year-war-sicilian-campaign-affair",
+   "title": "Seventeenth Year of the War—The Sicilian Campaign—Affair of the",
+   "era": "ancient",
+   "file": "eras/ancient/000349-seventeenth-year-war-sicilian-campaign-affair.md",
+   "at": "2026-09-03T06:17:22+00:00"
   }
  ]
 }
