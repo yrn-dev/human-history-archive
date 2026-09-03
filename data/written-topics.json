@@ -1,5 +1,5 @@
 {
- "count": 352,
+ "count": 353,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2464,6 +2464,13 @@
    "era": "ancient",
    "file": "eras/ancient/000352-eighteenth-nineteenth-years-war-arrival-gylippus.md",
    "at": "2026-09-03T06:46:47+00:00"
+  },
+  {
+   "slug": "nineteenth-year-war-arrival-demosthenes-defeat",
+   "title": "Nineteenth Year of the War—Arrival of Demosthenes—Defeat of the",
+   "era": "ancient",
+   "file": "eras/ancient/000353-nineteenth-year-war-arrival-demosthenes-defeat.md",
+   "at": "2026-09-03T06:56:49+00:00"
   }
  ]
 }
