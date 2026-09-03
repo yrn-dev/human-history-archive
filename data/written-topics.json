@@ -1,5 +1,5 @@
 {
- "count": 337,
+ "count": 338,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2359,6 +2359,13 @@
    "era": "ancient",
    "file": "eras/ancient/000337-beginning-peloponnesian-war-first-invasion-attica-funeral.md",
    "at": "2026-09-03T04:17:02+00:00"
+  },
+  {
+   "slug": "second-year-war-plague-athens-position-policy",
+   "title": "Second Year of the War—The Plague of Athens—Position and Policy of",
+   "era": "ancient",
+   "file": "eras/ancient/000338-second-year-war-plague-athens-position-policy.md",
+   "at": "2026-09-03T04:26:46+00:00"
   }
  ]
 }
