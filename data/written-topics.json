@@ -1,5 +1,5 @@
 {
- "count": 335,
+ "count": 336,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2345,6 +2345,13 @@
    "era": "ancient",
    "file": "eras/ancient/000335-end-persian-beginning-peloponnesian.md",
    "at": "2026-09-03T03:56:56+00:00"
+  },
+  {
+   "slug": "second-congress-lacedaemon-preparations-war-diplomatic",
+   "title": "Second Congress at Lacedaemon—Preparations for War and Diplomatic",
+   "era": "ancient",
+   "file": "eras/ancient/000336-second-congress-lacedaemon-preparations-war-diplomatic.md",
+   "at": "2026-09-03T04:06:45+00:00"
   }
  ]
 }
