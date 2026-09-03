@@ -1,5 +1,5 @@
 {
- "count": 349,
+ "count": 350,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2443,6 +2443,13 @@
    "era": "ancient",
    "file": "eras/ancient/000349-seventeenth-year-war-sicilian-campaign-affair.md",
    "at": "2026-09-03T06:17:22+00:00"
+  },
+  {
+   "slug": "seventeenth-year-war-parties-syracuse-story-harmodius",
+   "title": "Seventeenth Year of the War—Parties at Syracuse—Story of Harmodius and",
+   "era": "ancient",
+   "file": "eras/ancient/000350-seventeenth-year-war-parties-syracuse-story-harmodius.md",
+   "at": "2026-09-03T06:28:09+00:00"
   }
  ]
 }
