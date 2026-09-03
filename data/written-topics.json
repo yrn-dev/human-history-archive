@@ -1,5 +1,5 @@
 {
- "count": 403,
+ "count": 404,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2821,6 +2821,13 @@
    "era": "modern",
    "file": "eras/modern/000403-ministry-finance-870.md",
    "at": "2026-09-03T21:55:56+00:00"
+  },
+  {
+   "slug": "board-control-18",
+   "title": "Board of Control                                        18",
+   "era": "modern",
+   "file": "eras/modern/000404-board-control-18.md",
+   "at": "2026-09-03T22:05:51+00:00"
   }
  ]
 }
