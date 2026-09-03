@@ -1,5 +1,5 @@
 {
- "count": 345,
+ "count": 346,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2415,6 +2415,13 @@
    "era": "ancient",
    "file": "eras/ancient/000345-eighth-ninth-years-war-invasion-boeotia-fall.md",
    "at": "2026-09-03T05:36:43+00:00"
+  },
+  {
+   "slug": "tenth-year-war-death-cleon-brasidas-peace-nicias",
+   "title": "Tenth Year of the War—Death of Cleon and Brasidas—Peace of Nicias",
+   "era": "ancient",
+   "file": "eras/ancient/000346-tenth-year-war-death-cleon-brasidas-peace-nicias.md",
+   "at": "2026-09-03T05:47:19+00:00"
   }
  ]
 }
