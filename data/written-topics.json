@@ -1,5 +1,5 @@
 {
- "count": 409,
+ "count": 410,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2863,6 +2863,13 @@
    "era": "modern",
    "file": "eras/modern/000409-ministry-finance-177-000.md",
    "at": "2026-09-03T22:55:56+00:00"
+  },
+  {
+   "slug": "extraordinary-military-expenditure-785-500",
+   "title": "Extraordinary Military Expenditure               4,785,500",
+   "era": "modern",
+   "file": "eras/modern/000410-extraordinary-military-expenditure-785-500.md",
+   "at": "2026-09-03T23:05:58+00:00"
   }
  ]
 }
