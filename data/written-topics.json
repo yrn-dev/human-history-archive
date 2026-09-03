@@ -1,5 +1,5 @@
 {
- "count": 362,
+ "count": 363,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2534,6 +2534,13 @@
    "era": "cultures",
    "file": "eras/cultures/000362-other-information-formats-www-gutenberg-org-ebooks-27478.md",
    "at": "2026-09-03T08:26:37+00:00"
+  },
+  {
+   "slug": "encyclopaedia-britannica",
+   "title": "THE ENCYCLOPAEDIA BRITANNICA",
+   "era": "modern",
+   "file": "eras/modern/000363-encyclopaedia-britannica.md",
+   "at": "2026-09-03T08:36:33+00:00"
   }
  ]
 }
