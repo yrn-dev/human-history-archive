@@ -1,5 +1,5 @@
 {
- "count": 333,
+ "count": 334,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2331,6 +2331,13 @@
    "era": "ancient",
    "file": "eras/ancient/000333-causes-war-affair-epidamnus-affair-potid.md",
    "at": "2026-09-03T03:36:53+00:00"
+  },
+  {
+   "slug": "congress-peloponnesian-confederacy-lacedaemon",
+   "title": "Congress of the Peloponnesian Confederacy at Lacedaemon",
+   "era": "ancient",
+   "file": "eras/ancient/000334-congress-peloponnesian-confederacy-lacedaemon.md",
+   "at": "2026-09-03T03:46:54+00:00"
   }
  ]
 }
