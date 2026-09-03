@@ -1,5 +1,5 @@
 {
- "count": 371,
+ "count": 372,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2597,6 +2597,13 @@
    "era": "industrial",
    "file": "eras/industrial/000371-commission-1858-1862-british-commissioner-servian-boundary.md",
    "at": "2026-09-03T11:06:21+00:00"
+  },
+  {
+   "slug": "author-england-russia-central-asia-history-china-life",
+   "title": "Author of England and Russia in Central Asia; History of China; Life",
+   "era": "cultures",
+   "file": "eras/cultures/000372-author-england-russia-central-asia-history-china-life.md",
+   "at": "2026-09-03T11:16:43+00:00"
   }
  ]
 }
