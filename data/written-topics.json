@@ -1,5 +1,5 @@
 {
- "count": 404,
+ "count": 405,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2828,6 +2828,13 @@
    "era": "modern",
    "file": "eras/modern/000404-board-control-18.md",
    "at": "2026-09-03T22:05:51+00:00"
+  },
+  {
+   "slug": "customs-780-000",
+   "title": "The Customs                                      4,780,000",
+   "era": "modern",
+   "file": "eras/modern/000405-customs-780-000.md",
+   "at": "2026-09-03T22:15:52+00:00"
   }
  ]
 }
