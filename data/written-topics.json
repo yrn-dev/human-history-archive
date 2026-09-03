@@ -1,5 +1,5 @@
 {
- "count": 344,
+ "count": 345,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2408,6 +2408,13 @@
    "era": "ancient",
    "file": "eras/ancient/000344-seventh-eighth-years-war-end-corcyraean-revolution-peace.md",
    "at": "2026-09-03T05:27:00+00:00"
+  },
+  {
+   "slug": "eighth-ninth-years-war-invasion-boeotia-fall",
+   "title": "Eighth and Ninth Years of the War—Invasion of Boeotia—Fall of",
+   "era": "ancient",
+   "file": "eras/ancient/000345-eighth-ninth-years-war-invasion-boeotia-fall.md",
+   "at": "2026-09-03T05:36:43+00:00"
   }
  ]
 }
