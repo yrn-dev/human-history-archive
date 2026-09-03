@@ -1,5 +1,5 @@
 {
- "count": 398,
+ "count": 399,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2786,6 +2786,13 @@
    "era": "modern",
    "file": "eras/modern/000398-empire-german-empire-russia-occupies.md",
    "at": "2026-09-03T21:06:00+00:00"
+  },
+  {
+   "slug": "government---the-present-constitution-austro-hungarian-monarchy",
+   "title": "Government.--The present constitution of the Austro-Hungarian monarchy",
+   "era": "modern",
+   "file": "eras/modern/000399-government---the-present-constitution-austro-hungarian-monarchy.md",
+   "at": "2026-09-03T21:15:58+00:00"
   }
  ]
 }
