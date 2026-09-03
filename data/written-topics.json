@@ -1,5 +1,5 @@
 {
- "count": 369,
+ "count": 370,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2583,6 +2583,13 @@
    "era": "modern",
    "file": "eras/modern/000369-regius-professor-laws-professor-political-economy.md",
    "at": "2026-09-03T10:26:30+00:00"
+  },
+  {
+   "slug": "author-chronology-new-testament-greek-patristic",
+   "title": "Author of \"Chronology of the New Testament,\" and \"Greek Patristic",
+   "era": "ancient",
+   "file": "eras/ancient/000370-author-chronology-new-testament-greek-patristic.md",
+   "at": "2026-09-03T10:36:25+00:00"
   }
  ]
 }
