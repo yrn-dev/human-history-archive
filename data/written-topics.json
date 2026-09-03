@@ -1,5 +1,5 @@
 {
- "count": 405,
+ "count": 406,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2835,6 +2835,13 @@
    "era": "modern",
    "file": "eras/modern/000405-customs-780-000.md",
    "at": "2026-09-03T22:15:52+00:00"
+  },
+  {
+   "slug": "ministry-war---",
+   "title": "Ministry of War:--",
+   "era": "modern",
+   "file": "eras/modern/000406-ministry-war---.md",
+   "at": "2026-09-03T22:25:52+00:00"
   }
  ]
 }
