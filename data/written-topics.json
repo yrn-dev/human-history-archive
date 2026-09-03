@@ -1,5 +1,5 @@
 {
- "count": 374,
+ "count": 375,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2618,6 +2618,13 @@
    "era": "modern",
    "file": "eras/modern/000374-captain-royal-engineers-instructor-construction-school.md",
    "at": "2026-09-03T12:17:32+00:00"
+  },
+  {
+   "slug": "member-indian-civil-service-1873-1903-charge-linguistic",
+   "title": "Member of the Indian Civil Service, 1873-1903. In charge of Linguistic",
+   "era": "industrial",
+   "file": "eras/industrial/000375-member-indian-civil-service-1873-1903-charge-linguistic.md",
+   "at": "2026-09-03T12:36:28+00:00"
   }
  ]
 }
