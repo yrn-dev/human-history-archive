@@ -1,5 +1,5 @@
 {
- "count": 341,
+ "count": 342,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2387,6 +2387,13 @@
    "era": "ancient",
    "file": "eras/ancient/000341-fifth-year-war-trial-execution-plataeans-corcyraean.md",
    "at": "2026-09-03T04:56:53+00:00"
+  },
+  {
+   "slug": "year-war-campaigns-demosthenes-western-greece-ruin",
+   "title": "Year of the War—Campaigns of Demosthenes in Western Greece—Ruin of",
+   "era": "ancient",
+   "file": "eras/ancient/000342-year-war-campaigns-demosthenes-western-greece-ruin.md",
+   "at": "2026-09-03T05:07:04+00:00"
   }
  ]
 }
