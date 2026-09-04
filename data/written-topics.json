@@ -1,5 +1,5 @@
 {
- "count": 460,
+ "count": 461,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3220,6 +3220,13 @@
    "era": "industrial",
    "file": "eras/industrial/000460-leopold.md",
    "at": "2026-09-04T07:55:22+00:00"
+  },
+  {
+   "slug": "vi-result-war-further-aggrandizement-house",
+   "title": "VI. The result of the war was a further aggrandizement of the house of",
+   "era": "modern",
+   "file": "eras/modern/000461-vi-result-war-further-aggrandizement-house.md",
+   "at": "2026-09-04T08:05:22+00:00"
   }
  ]
 }
