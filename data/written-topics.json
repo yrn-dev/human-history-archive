@@ -1,5 +1,5 @@
 {
- "count": 514,
+ "count": 515,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3598,6 +3598,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000514-holy-empire-immemorially-associated-house-habsburg-still.md",
    "at": "2026-09-04T16:59:58+00:00"
+  },
+  {
+   "slug": "see-germany-history",
+   "title": "(See GERMANY: History.)",
+   "era": "modern",
+   "file": "eras/modern/000515-see-germany-history.md",
+   "at": "2026-09-04T20:21:22+00:00"
   }
  ]
 }
