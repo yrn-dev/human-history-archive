@@ -1,5 +1,5 @@
 {
- "count": 505,
+ "count": 506,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3535,6 +3535,13 @@
    "era": "industrial",
    "file": "eras/industrial/000505-1844-exchanged-more-definite-object-revival.md",
    "at": "2026-09-04T15:25:58+00:00"
+  },
+  {
+   "slug": "metternich-censors-police-national-movements-germany",
+   "title": "Metternich's censors and police, the national movements in Germany had",
+   "era": "modern",
+   "file": "eras/modern/000506-metternich-censors-police-national-movements-germany.md",
+   "at": "2026-09-04T15:35:52+00:00"
   }
  ]
 }
