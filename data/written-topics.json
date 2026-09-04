@@ -1,5 +1,5 @@
 {
- "count": 445,
+ "count": 446,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3115,6 +3115,13 @@
    "era": "modern",
    "file": "eras/modern/000445-austrian-duchies-bodies-established-executive-financial.md",
    "at": "2026-09-04T05:25:29+00:00"
+  },
+  {
+   "slug": "turks-south-eastern-europe-loss-most-habsburg",
+   "title": "Turks in south-eastern Europe, and the loss of most of the Habsburg",
+   "era": "renaissance",
+   "file": "eras/renaissance/000446-turks-south-eastern-europe-loss-most-habsburg.md",
+   "at": "2026-09-04T05:35:31+00:00"
   }
  ]
 }
