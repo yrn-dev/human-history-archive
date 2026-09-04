@@ -1,5 +1,5 @@
 {
- "count": 480,
+ "count": 481,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3360,6 +3360,13 @@
    "era": "modern",
    "file": "eras/modern/000480-leopold-then-reverted-traditional-habsburg-methods-old.md",
    "at": "2026-09-04T11:15:28+00:00"
+  },
+  {
+   "slug": "european-stage-executor-ban-empire-against",
+   "title": "European stage as the executor of the ban of the Empire against the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000481-european-stage-executor-ban-empire-against.md",
+   "at": "2026-09-04T11:25:32+00:00"
   }
  ]
 }
