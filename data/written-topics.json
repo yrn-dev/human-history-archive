@@ -1,5 +1,5 @@
 {
- "count": 512,
+ "count": 513,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3584,6 +3584,13 @@
    "era": "modern",
    "file": "eras/modern/000512-habsburg-rule-see-italy-upon-fortunes-war-peninsula.md",
    "at": "2026-09-04T16:35:07+00:00"
+  },
+  {
+   "slug": "incorporated-whole-first-austrian",
+   "title": "Or was it to be incorporated whole? As to the first, the Austrian",
+   "era": "modern",
+   "file": "eras/modern/000513-incorporated-whole-first-austrian.md",
+   "at": "2026-09-04T16:45:36+00:00"
   }
  ]
 }
