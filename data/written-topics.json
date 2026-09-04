@@ -1,5 +1,5 @@
 {
- "count": 461,
+ "count": 462,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3227,6 +3227,13 @@
    "era": "modern",
    "file": "eras/modern/000461-vi-result-war-further-aggrandizement-house.md",
    "at": "2026-09-04T08:05:22+00:00"
+  },
+  {
+   "slug": "treaty-karlowitz-settlement-1713-1714-marked-new",
+   "title": "The treaty of Karlowitz, and the settlement of 1713-1714, marked a new",
+   "era": "modern",
+   "file": "eras/modern/000462-treaty-karlowitz-settlement-1713-1714-marked-new.md",
+   "at": "2026-09-04T08:15:27+00:00"
   }
  ]
 }
