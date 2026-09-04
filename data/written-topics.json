@@ -1,5 +1,5 @@
 {
- "count": 498,
+ "count": 499,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3486,6 +3486,13 @@
    "era": "industrial",
    "file": "eras/industrial/000498-carniola-1828-circle-salzburg-but-they-no-sense.md",
    "at": "2026-09-04T14:15:16+00:00"
+  },
+  {
+   "slug": "question-moral-support-given-legitimate-authority",
+   "title": "Question, the moral support given to the \"legitimate\" authority of the",
+   "era": "modern",
+   "file": "eras/modern/000499-question-moral-support-given-legitimate-authority.md",
+   "at": "2026-09-04T14:25:11+00:00"
   }
  ]
 }
