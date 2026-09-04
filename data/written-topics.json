@@ -1,5 +1,5 @@
 {
- "count": 459,
+ "count": 460,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3213,6 +3213,13 @@
    "era": "modern",
    "file": "eras/modern/000459-slankamen-11th-september-1697-prince-eugene-gained.md",
    "at": "2026-09-04T07:45:27+00:00"
+  },
+  {
+   "slug": "leopold",
+   "title": "LEOPOLD I.)",
+   "era": "industrial",
+   "file": "eras/industrial/000460-leopold.md",
+   "at": "2026-09-04T07:55:22+00:00"
   }
  ]
 }
