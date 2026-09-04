@@ -1,5 +1,5 @@
 {
- "count": 508,
+ "count": 509,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3556,6 +3556,13 @@
    "era": "industrial",
    "file": "eras/industrial/000508-february-1848-fall-louis-philippe-fanned-blaze.md",
    "at": "2026-09-04T15:55:35+00:00"
+  },
+  {
+   "slug": "charnel-house-vienna-cabinet-he-exclaimed",
+   "title": "\"From the charnel-house of the Vienna cabinet,\" he exclaimed, \"a",
+   "era": "modern",
+   "file": "eras/modern/000509-charnel-house-vienna-cabinet-he-exclaimed.md",
+   "at": "2026-09-04T16:05:05+00:00"
   }
  ]
 }
