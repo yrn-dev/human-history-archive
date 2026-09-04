@@ -1,5 +1,5 @@
 {
- "count": 487,
+ "count": 488,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3409,6 +3409,13 @@
    "era": "industrial",
    "file": "eras/industrial/000487-austria-undergo-further-losses-humiliations-notably.md",
    "at": "2026-09-04T12:25:14+00:00"
+  },
+  {
+   "slug": "18th-october-battle-leipzig-fought-victorious",
+   "title": "18th of October the battle of Leipzig was fought; and the victorious",
+   "era": "modern",
+   "file": "eras/modern/000488-18th-october-battle-leipzig-fought-victorious.md",
+   "at": "2026-09-04T12:35:07+00:00"
   }
  ]
 }
