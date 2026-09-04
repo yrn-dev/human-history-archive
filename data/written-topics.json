@@ -1,5 +1,5 @@
 {
- "count": 483,
+ "count": 484,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3381,6 +3381,13 @@
    "era": "modern",
    "file": "eras/modern/000483-prussia-paved-way-armistice-giurgevo-turkey.md",
    "at": "2026-09-04T11:45:14+00:00"
+  },
+  {
+   "slug": "6th-october-1700-leopold-been-crowned-roman-emperor",
+   "title": "On the 6th of October 1700, Leopold had been crowned Roman emperor at",
+   "era": "renaissance",
+   "file": "eras/renaissance/000484-6th-october-1700-leopold-been-crowned-roman-emperor.md",
+   "at": "2026-09-04T11:55:20+00:00"
   }
  ]
 }
