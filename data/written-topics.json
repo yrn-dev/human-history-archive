@@ -1,5 +1,5 @@
 {
- "count": 417,
+ "count": 418,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -2919,6 +2919,13 @@
    "era": "modern",
    "file": "eras/modern/000417-divisions-both-austrian-hungarian-landwehr-having-addition.md",
    "at": "2026-09-04T00:25:49+00:00"
+  },
+  {
+   "slug": "cracow-przemysl-galicia-komarom-centre-inland",
+   "title": "Cracow and Przemysl in Galicia; Komarom, the centre of the inland",
+   "era": "modern",
+   "file": "eras/modern/000418-cracow-przemysl-galicia-komarom-centre-inland.md",
+   "at": "2026-09-04T00:35:53+00:00"
   }
  ]
 }
