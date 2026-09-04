@@ -1,5 +1,5 @@
 {
- "count": 447,
+ "count": 448,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3129,6 +3129,13 @@
    "era": "modern",
    "file": "eras/modern/000447-(a.-w.-h.).md",
    "at": "2026-09-04T05:45:37+00:00"
+  },
+  {
+   "slug": "bohemia-03-0008-hungary-sidenote-mohacs-results",
+   "title": "Bohemia [v.03 p.0008] and Hungary. [Sidenote: Mohacs and its results.]",
+   "era": "renaissance",
+   "file": "eras/renaissance/000448-bohemia-03-0008-hungary-sidenote-mohacs-results.md",
+   "at": "2026-09-04T05:56:07+00:00"
   }
  ]
 }
