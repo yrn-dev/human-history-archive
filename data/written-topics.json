@@ -1,5 +1,5 @@
 {
- "count": 628,
+ "count": 629,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4396,6 +4396,13 @@
    "era": "modern",
    "file": "eras/modern/000628-bohemia-moravia-contest-fought-out.md",
    "at": "2026-09-05T16:31:14+00:00"
+  },
+  {
+   "slug": "1886-ordered-avoid-frequent-translations-business",
+   "title": "1886, it was ordered that \"to avoid frequent translations\" business",
+   "era": "industrial",
+   "file": "eras/industrial/000629-1886-ordered-avoid-frequent-translations-business.md",
+   "at": "2026-09-05T16:41:04+00:00"
   }
  ]
 }
