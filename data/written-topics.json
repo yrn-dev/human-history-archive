@@ -1,5 +1,5 @@
 {
- "count": 613,
+ "count": 614,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4291,6 +4291,13 @@
    "era": "industrial",
    "file": "eras/industrial/000613-fuller-description-these-social-reforms-see-jahrbuch-fur.md",
    "at": "2026-09-05T13:57:46+00:00"
+  },
+  {
+   "slug": "meanwhile-necessary-government-do-something",
+   "title": "Meanwhile it was necessary for the government to do something for the",
+   "era": "modern",
+   "file": "eras/modern/000614-meanwhile-necessary-government-do-something.md",
+   "at": "2026-09-05T14:07:51+00:00"
   }
  ]
 }
