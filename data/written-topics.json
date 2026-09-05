@@ -1,5 +1,5 @@
 {
- "count": 664,
+ "count": 665,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4648,6 +4648,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000664-bohemia-130-previously-110.md",
    "at": "2026-09-05T22:47:57+00:00"
+  },
+  {
+   "slug": "galicia-106-78",
+   "title": "Galicia   .   .   .   .   .   .   .   . 106     \"       78",
+   "era": "modern",
+   "file": "eras/modern/000665-galicia-106-78.md",
+   "at": "2026-09-05T22:57:49+00:00"
   }
  ]
 }
