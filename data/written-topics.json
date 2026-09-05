@@ -1,5 +1,5 @@
 {
- "count": 545,
+ "count": 546,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3815,6 +3815,13 @@
    "era": "industrial",
    "file": "eras/industrial/000545-1881-italians-required-support-owing-french-occupation.md",
    "at": "2026-09-05T01:19:45+00:00"
+  },
+  {
+   "slug": "disturbed-state-european-politics-great-increase",
+   "title": "The disturbed state of European politics and the great increase in the",
+   "era": "modern",
+   "file": "eras/modern/000546-disturbed-state-european-politics-great-increase.md",
+   "at": "2026-09-05T01:29:50+00:00"
   }
  ]
 }
