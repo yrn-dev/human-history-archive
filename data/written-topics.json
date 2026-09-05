@@ -1,5 +1,5 @@
 {
- "count": 668,
+ "count": 669,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4676,6 +4676,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000668-tirol-25-21.md",
    "at": "2026-09-05T23:27:45+00:00"
+  },
+  {
+   "slug": "upper-austria-22-20",
+   "title": "Upper Austria .   .   .   .   .   .   .  22     \"       20",
+   "era": "modern",
+   "file": "eras/modern/000669-upper-austria-22-20.md",
+   "at": "2026-09-05T23:37:45+00:00"
   }
  ]
 }
