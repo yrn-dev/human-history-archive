@@ -1,5 +1,5 @@
 {
- "count": 550,
+ "count": 551,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3850,6 +3850,13 @@
    "era": "modern",
    "file": "eras/modern/000550-france-italy-great-britain-each-which-specified-maximum.md",
    "at": "2026-09-05T02:09:48+00:00"
+  },
+  {
+   "slug": "belgian-goods-austria-influenced-general-movement",
+   "title": "Belgian goods, and Austria was influenced by the general movement in",
+   "era": "industrial",
+   "file": "eras/industrial/000551-belgian-goods-austria-influenced-general-movement.md",
+   "at": "2026-09-05T02:19:44+00:00"
   }
  ]
 }
