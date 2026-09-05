@@ -1,5 +1,5 @@
 {
- "count": 598,
+ "count": 599,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4186,6 +4186,13 @@
    "era": "modern",
    "file": "eras/modern/000598-prusse-et-autriche-paris-1870.md",
    "at": "2026-09-05T11:27:59+00:00"
+  },
+  {
+   "slug": "german-majority-declared-they-forfeited-their-seats",
+   "title": "The German majority declared that they had forfeited their seats, and",
+   "era": "modern",
+   "file": "eras/modern/000599-german-majority-declared-they-forfeited-their-seats.md",
+   "at": "2026-09-05T11:38:28+00:00"
   }
  ]
 }
