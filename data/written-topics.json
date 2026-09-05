@@ -1,5 +1,5 @@
 {
- "count": 554,
+ "count": 555,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3878,6 +3878,13 @@
    "era": "industrial",
    "file": "eras/industrial/000554-1899-remainder-staatsnoten-112-million-gulden.md",
    "at": "2026-09-05T03:19:38+00:00"
+  },
+  {
+   "slug": "january-1900-old-reckoning-gulden-superseded-krone",
+   "title": "January 1900 the old reckoning by gulden was superseded, that by krone",
+   "era": "modern",
+   "file": "eras/modern/000555-january-1900-old-reckoning-gulden-superseded-krone.md",
+   "at": "2026-09-05T03:31:05+00:00"
   }
  ]
 }
