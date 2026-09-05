@@ -1,5 +1,5 @@
 {
- "count": 669,
+ "count": 670,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4683,6 +4683,13 @@
    "era": "modern",
    "file": "eras/modern/000669-upper-austria-22-20.md",
    "at": "2026-09-05T23:37:45+00:00"
+  },
+  {
+   "slug": "austrian-silesia-15-12",
+   "title": "Austrian Silesia  .   .   .   .   .   .  15     \"       12",
+   "era": "modern",
+   "file": "eras/modern/000670-austrian-silesia-15-12.md",
+   "at": "2026-09-05T23:47:42+00:00"
   }
  ]
 }
