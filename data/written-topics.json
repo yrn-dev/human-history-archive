@@ -1,5 +1,5 @@
 {
- "count": 670,
+ "count": 671,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4690,6 +4690,13 @@
    "era": "modern",
    "file": "eras/modern/000670-austrian-silesia-15-12.md",
    "at": "2026-09-05T23:47:42+00:00"
+  },
+  {
+   "slug": "bukovina-14-11",
+   "title": "Bukovina  .   .   .   .   .   .   .   .  14     \"       11",
+   "era": "modern",
+   "file": "eras/modern/000671-bukovina-14-11.md",
+   "at": "2026-09-05T23:57:41+00:00"
   }
  ]
 }
