@@ -1,5 +1,5 @@
 {
- "count": 587,
+ "count": 588,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4109,6 +4109,13 @@
    "era": "cultures",
    "file": "eras/cultures/000587-constitutional-government-restored-difference-between-two.md",
    "at": "2026-09-05T09:01:55+00:00"
+  },
+  {
+   "slug": "austria-salzburg-tirol-except-south-vorarlberg-all-styria",
+   "title": "Austria, Salzburg, Tirol (except the south) and Vorarlberg, all Styria",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000588-austria-salzburg-tirol-except-south-vorarlberg-all-styria.md",
+   "at": "2026-09-05T09:11:57+00:00"
   }
  ]
 }
