@@ -1,5 +1,5 @@
 {
- "count": 667,
+ "count": 668,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4669,6 +4669,13 @@
    "era": "modern",
    "file": "eras/modern/000667-styria-30-27.md",
    "at": "2026-09-05T23:17:46+00:00"
+  },
+  {
+   "slug": "tirol-25-21",
+   "title": "Tirol .   .   .   .   .   .   .   .   .  25     \"       21",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000668-tirol-25-21.md",
+   "at": "2026-09-05T23:27:45+00:00"
   }
  ]
 }
