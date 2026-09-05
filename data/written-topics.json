@@ -1,5 +1,5 @@
 {
- "count": 619,
+ "count": 620,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4333,6 +4333,13 @@
    "era": "modern",
    "file": "eras/modern/000619-bohemia-czechs-claim-their-language-shall-recognized.md",
    "at": "2026-09-05T15:00:03+00:00"
+  },
+  {
+   "slug": "1867-required-education-elementary-schools-slav",
+   "title": "1867 required that the education in the elementary schools in the Slav",
+   "era": "industrial",
+   "file": "eras/industrial/000620-1867-required-education-elementary-schools-slav.md",
+   "at": "2026-09-05T15:09:31+00:00"
   }
  ]
 }
