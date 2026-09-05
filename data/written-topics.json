@@ -1,5 +1,5 @@
 {
- "count": 616,
+ "count": 617,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4312,6 +4312,13 @@
    "era": "modern",
    "file": "eras/modern/000616-italian-always-been-used-even-internal-service.md",
    "at": "2026-09-05T14:28:42+00:00"
+  },
+  {
+   "slug": "not-result-any-law-but-depended-administrative",
+   "title": "This was not the result of any law, but depended on administrative",
+   "era": "industrial",
+   "file": "eras/industrial/000617-not-result-any-law-but-depended-administrative.md",
+   "at": "2026-09-05T14:38:42+00:00"
   }
  ]
 }
