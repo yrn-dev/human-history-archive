@@ -1,5 +1,5 @@
 {
- "count": 597,
+ "count": 598,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4179,6 +4179,13 @@
    "era": "modern",
    "file": "eras/modern/000597-reichsrath-functions-reichsrath-slightly-less.md",
    "at": "2026-09-05T11:18:12+00:00"
+  },
+  {
+   "slug": "prusse-et-autriche-paris-1870",
+   "title": "Prusse et l'Autriche, Paris, 1870.)",
+   "era": "modern",
+   "file": "eras/modern/000598-prusse-et-autriche-paris-1870.md",
+   "at": "2026-09-05T11:27:59+00:00"
   }
  ]
 }
