@@ -1,5 +1,5 @@
 {
- "count": 544,
+ "count": 545,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3808,6 +3808,13 @@
    "era": "modern",
    "file": "eras/modern/000544-austria-permitted-place-troops-sanjak-novi-bazar.md",
    "at": "2026-09-05T01:09:43+00:00"
+  },
+  {
+   "slug": "1881-italians-required-support-owing-french-occupation",
+   "title": "1881 the Italians required support, owing to the French occupation of",
+   "era": "industrial",
+   "file": "eras/industrial/000545-1881-italians-required-support-owing-french-occupation.md",
+   "at": "2026-09-05T01:19:45+00:00"
   }
  ]
 }
