@@ -1,5 +1,5 @@
 {
- "count": 551,
+ "count": 552,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -3857,6 +3857,13 @@
    "era": "industrial",
    "file": "eras/industrial/000551-belgian-goods-austria-influenced-general-movement.md",
    "at": "2026-09-05T02:19:44+00:00"
+  },
+  {
+   "slug": "done-during-year-1877-new-treaty-while-raw",
+   "title": "This was done during the year 1877, and in the new treaty, while raw",
+   "era": "industrial",
+   "file": "eras/industrial/000552-done-during-year-1877-new-treaty-while-raw.md",
+   "at": "2026-09-05T02:29:55+00:00"
   }
  ]
 }
