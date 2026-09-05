@@ -1,5 +1,5 @@
 {
- "count": 607,
+ "count": 608,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4249,6 +4249,13 @@
    "era": "industrial",
    "file": "eras/industrial/000607-1873-measure-transferred-right-electing-members.md",
    "at": "2026-09-05T12:58:01+00:00"
+  },
+  {
+   "slug": "reichsrath-diets-direct-vote-people-result",
+   "title": "Reichsrath from the diets to the direct vote of the people, the result",
+   "era": "modern",
+   "file": "eras/modern/000608-reichsrath-diets-direct-vote-people-result.md",
+   "at": "2026-09-05T13:08:02+00:00"
   }
  ]
 }
