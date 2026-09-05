@@ -1,5 +1,5 @@
 {
- "count": 633,
+ "count": 634,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4431,6 +4431,13 @@
    "era": "modern",
    "file": "eras/modern/000633-germans-so-long-accustomed-rule-now-saw-their-old-ascendancy.md",
    "at": "2026-09-05T17:17:54+00:00"
+  },
+  {
+   "slug": "these-events-produced-great-change-character-german",
+   "title": "These events produced a great change on the character of the German",
+   "era": "ancient",
+   "file": "eras/ancient/000634-these-events-produced-great-change-character-german.md",
+   "at": "2026-09-05T17:27:38+00:00"
   }
  ]
 }
