@@ -1,5 +1,5 @@
 {
- "count": 620,
+ "count": 621,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4340,6 +4340,13 @@
    "era": "industrial",
    "file": "eras/industrial/000620-1867-required-education-elementary-schools-slav.md",
    "at": "2026-09-05T15:09:31+00:00"
+  },
+  {
+   "slug": "slavs-however-required-even-when-small-minority-slav-race",
+   "title": "Slavs, however, required that, even when a small minority of Slav race",
+   "era": "modern",
+   "file": "eras/modern/000621-slavs-however-required-even-when-small-minority-slav-race.md",
+   "at": "2026-09-05T15:17:55+00:00"
   }
  ]
 }
