@@ -1,5 +1,5 @@
 {
- "count": 666,
+ "count": 667,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4662,6 +4662,13 @@
    "era": "cultures",
    "file": "eras/cultures/000666-moravia-49-43.md",
    "at": "2026-09-05T23:07:46+00:00"
+  },
+  {
+   "slug": "styria-30-27",
+   "title": "Styria.   .   .   .   .   .   .   .   .  30     \"       27",
+   "era": "modern",
+   "file": "eras/modern/000667-styria-30-27.md",
+   "at": "2026-09-05T23:17:46+00:00"
   }
  ]
 }
