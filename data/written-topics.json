@@ -1,5 +1,5 @@
 {
- "count": 639,
+ "count": 640,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4473,6 +4473,13 @@
    "era": "modern",
    "file": "eras/modern/000639-social-democrats-14-10.md",
    "at": "2026-09-05T18:27:32+00:00"
+  },
+  {
+   "slug": "federalist-great-proprietors-16-16",
+   "title": "Federalist Great Proprietors        16         16",
+   "era": "modern",
+   "file": "eras/modern/000640-federalist-great-proprietors-16-16.md",
+   "at": "2026-09-05T18:37:37+00:00"
   }
  ]
 }
