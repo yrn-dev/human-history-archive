@@ -1,5 +1,5 @@
 {
- "count": 654,
+ "count": 655,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4578,6 +4578,13 @@
    "era": "ancient",
    "file": "eras/ancient/000654-delegation-threatened-introduce-assembly-scenes.md",
    "at": "2026-09-05T21:07:51+00:00"
+  },
+  {
+   "slug": "history-austria-since-general-election-1901-03",
+   "title": "The history of Austria since the general election of 1901 is the [v.03",
+   "era": "modern",
+   "file": "eras/modern/000655-history-austria-since-general-election-1901-03.md",
+   "at": "2026-09-05T21:17:49+00:00"
   }
  ]
 }
