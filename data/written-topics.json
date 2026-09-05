@@ -1,5 +1,5 @@
 {
- "count": 609,
+ "count": 610,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4263,6 +4263,13 @@
    "era": "industrial",
    "file": "eras/industrial/000609-1873-their-influence-indirectly-affected-great-commercial.md",
    "at": "2026-09-05T13:17:53+00:00"
+  },
+  {
+   "slug": "parliament-dissolved-summer-taaffe-private",
+   "title": "Parliament was dissolved in the summer, and Taaffe, by private",
+   "era": "modern",
+   "file": "eras/modern/000610-parliament-dissolved-summer-taaffe-private.md",
+   "at": "2026-09-05T13:27:54+00:00"
   }
  ]
 }
