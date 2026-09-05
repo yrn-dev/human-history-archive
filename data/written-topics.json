@@ -1,5 +1,5 @@
 {
- "count": 584,
+ "count": 585,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4088,6 +4088,13 @@
    "era": "modern",
    "file": "eras/modern/000584-hungarian-government-count-julius-andrassy-november-1908-bill.md",
    "at": "2026-09-05T08:29:50+00:00"
+  },
+  {
+   "slug": "(w.-a.-p.)",
+   "title": "(W. A. P.)",
+   "era": "industrial",
+   "file": "eras/industrial/000585-(w.-a.-p.).md",
+   "at": "2026-09-05T08:42:25+00:00"
   }
  ]
 }
