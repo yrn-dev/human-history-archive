@@ -1,5 +1,5 @@
 {
- "count": 719,
+ "count": 720,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5033,6 +5033,13 @@
    "era": "modern",
    "file": "eras/modern/000719-handbuch-der-gesch-oesterreichs-vols-berlin-1876-1879.md",
    "at": "2026-09-06T08:25:11+00:00"
+  },
+  {
+   "slug": "paris-1877-sides-slavs-against-germans-magyars-louis",
+   "title": "(Paris, 1877), sides with the Slavs against Germans and Magyars; Louis",
+   "era": "industrial",
+   "file": "eras/industrial/000720-paris-1877-sides-slavs-against-germans-magyars-louis.md",
+   "at": "2026-09-06T08:45:14+00:00"
   }
  ]
 }
