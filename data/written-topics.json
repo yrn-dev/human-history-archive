@@ -1,5 +1,5 @@
 {
- "count": 717,
+ "count": 718,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5019,6 +5019,13 @@
    "era": "industrial",
    "file": "eras/industrial/000717-leipzig-1858-springer-geschichte-oesterreichs-seit-dem-wiener.md",
    "at": "2026-09-06T07:55:19+00:00"
+  },
+  {
+   "slug": "geschichte-maria-theresias-10-vols-vienna-1863-1879-series",
+   "title": "Geschichte Maria Theresias (10 vols., Vienna, 1863-1879); the series",
+   "era": "modern",
+   "file": "eras/modern/000718-geschichte-maria-theresias-10-vols-vienna-1863-1879-series.md",
+   "at": "2026-09-06T08:05:13+00:00"
   }
  ]
 }
