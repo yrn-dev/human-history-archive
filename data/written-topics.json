@@ -1,5 +1,5 @@
 {
- "count": 765,
+ "count": 766,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5355,6 +5355,13 @@
    "era": "modern",
    "file": "eras/modern/000765-1863-schoening-die-erste-jahre-der-regierung-friedrichs-des.md",
    "at": "2026-09-06T21:58:08+00:00"
+  },
+  {
+   "slug": "1901-berlin-mitteilungen-des-kriegsarchivs-1887",
+   "title": "1901, &c. (Berlin); Mitteilungen des k.k. Kriegsarchivs, from 1887",
+   "era": "modern",
+   "file": "eras/modern/000766-1901-berlin-mitteilungen-des-kriegsarchivs-1887.md",
+   "at": "2026-09-06T22:08:15+00:00"
   }
  ]
 }
