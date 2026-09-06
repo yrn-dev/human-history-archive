@@ -1,5 +1,5 @@
 {
- "count": 675,
+ "count": 676,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4725,6 +4725,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000675-salzburg.md",
    "at": "2026-09-06T00:37:44+00:00"
+  },
+  {
+   "slug": "istria",
+   "title": "Istria.   .   .   .   .   .   .   .   .   6     \"        5",
+   "era": "ancient",
+   "file": "eras/ancient/000676-istria.md",
+   "at": "2026-09-06T00:47:43+00:00"
   }
  ]
 }
