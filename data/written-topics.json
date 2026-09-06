@@ -1,5 +1,5 @@
 {
- "count": 750,
+ "count": 751,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5250,6 +5250,13 @@
    "era": "modern",
    "file": "eras/modern/000750-lombardy-plan-however-once-dislocated-advance.md",
    "at": "2026-09-06T19:28:23+00:00"
+  },
+  {
+   "slug": "attention-resources-austria-fully-occupied",
+   "title": "The attention and resources of Austria were fully occupied, and the",
+   "era": "modern",
+   "file": "eras/modern/000751-attention-resources-austria-fully-occupied.md",
+   "at": "2026-09-06T19:38:26+00:00"
   }
  ]
 }
