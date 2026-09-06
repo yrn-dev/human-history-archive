@@ -1,5 +1,5 @@
 {
- "count": 704,
+ "count": 705,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4928,6 +4928,13 @@
    "era": "modern",
    "file": "eras/modern/000704-conservatives-15.md",
    "at": "2026-09-06T05:27:22+00:00"
+  },
+  {
+   "slug": "centre-12",
+   "title": "Centre  .   .   .   .   .   .   .   .   .   .   .   12",
+   "era": "industrial",
+   "file": "eras/industrial/000705-centre-12.md",
+   "at": "2026-09-06T05:37:38+00:00"
   }
  ]
 }
