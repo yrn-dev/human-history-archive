@@ -1,5 +1,5 @@
 {
- "count": 677,
+ "count": 678,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4739,6 +4739,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/000677-goerz-gradisca.md",
    "at": "2026-09-06T00:57:39+00:00"
+  },
+  {
+   "slug": "trieste-territory",
+   "title": "Trieste and territory .   .   .   .   .   5     \"        5",
+   "era": "modern",
+   "file": "eras/modern/000678-trieste-territory.md",
+   "at": "2026-09-06T01:07:37+00:00"
   }
  ]
 }
