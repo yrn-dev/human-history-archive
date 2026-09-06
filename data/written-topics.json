@@ -1,5 +1,5 @@
 {
- "count": 720,
+ "count": 721,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5040,6 +5040,13 @@
    "era": "industrial",
    "file": "eras/industrial/000720-paris-1877-sides-slavs-against-germans-magyars-louis.md",
    "at": "2026-09-06T08:45:14+00:00"
+  },
+  {
+   "slug": "gesch-der-europ-staaten-gotha-1885-1895-emmer-kaiser-franz",
+   "title": "Gesch. der europ. Staaten, Gotha, 1885-1895); J. Emmer, Kaiser Franz",
+   "era": "ancient",
+   "file": "eras/ancient/000721-gesch-der-europ-staaten-gotha-1885-1895-emmer-kaiser-franz.md",
+   "at": "2026-09-06T09:15:14+00:00"
   }
  ]
 }
