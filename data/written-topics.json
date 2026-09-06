@@ -1,5 +1,5 @@
 {
- "count": 673,
+ "count": 674,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4711,6 +4711,13 @@
    "era": "cultures",
    "file": "eras/cultures/000673-dalmatia-11-11.md",
    "at": "2026-09-06T00:17:44+00:00"
+  },
+  {
+   "slug": "carinthia-10-10",
+   "title": "Carinthia .   .   .   .   .   .   .   .  10     \"       10",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000674-carinthia-10-10.md",
+   "at": "2026-09-06T00:27:43+00:00"
   }
  ]
 }
