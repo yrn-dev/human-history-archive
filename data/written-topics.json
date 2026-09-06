@@ -1,5 +1,5 @@
 {
- "count": 766,
+ "count": 767,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5362,6 +5362,13 @@
    "era": "modern",
    "file": "eras/modern/000766-1901-berlin-mitteilungen-des-kriegsarchivs-1887.md",
    "at": "2026-09-06T22:08:15+00:00"
+  },
+  {
+   "slug": "(c.-f.-a.)",
+   "title": "(C. F. A.)",
+   "era": "ancient",
+   "file": "eras/ancient/000767-(c.-f.-a.).md",
+   "at": "2026-09-06T22:18:12+00:00"
   }
  ]
 }
