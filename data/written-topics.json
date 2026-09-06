@@ -1,5 +1,5 @@
 {
- "count": 718,
+ "count": 719,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5026,6 +5026,13 @@
    "era": "modern",
    "file": "eras/modern/000718-geschichte-maria-theresias-10-vols-vienna-1863-1879-series.md",
    "at": "2026-09-06T08:05:13+00:00"
+  },
+  {
+   "slug": "handbuch-der-gesch-oesterreichs-vols-berlin-1876-1879",
+   "title": "Handbuch der Gesch. Oesterreichs (5 vols., Berlin, 1876-1879), with",
+   "era": "modern",
+   "file": "eras/modern/000719-handbuch-der-gesch-oesterreichs-vols-berlin-1876-1879.md",
+   "at": "2026-09-06T08:25:11+00:00"
   }
  ]
 }
