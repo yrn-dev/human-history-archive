@@ -1,5 +1,5 @@
 {
- "count": 700,
+ "count": 701,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4900,6 +4900,13 @@
    "era": "modern",
    "file": "eras/modern/000700-czech-national-socialists.md",
    "at": "2026-09-06T04:47:21+00:00"
+  },
+  {
+   "slug": "realists",
+   "title": "Realists.   .   .   .   .   .   .   .   .   .   .    2",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000701-realists.md",
+   "at": "2026-09-06T04:57:22+00:00"
   }
  ]
 }
