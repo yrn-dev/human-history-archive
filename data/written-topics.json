@@ -1,5 +1,5 @@
 {
- "count": 705,
+ "count": 706,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4935,6 +4935,13 @@
    "era": "industrial",
    "file": "eras/industrial/000705-centre-12.md",
    "at": "2026-09-06T05:37:38+00:00"
+  },
+  {
+   "slug": "independent-socialist",
+   "title": "Independent Socialist   .   .   .   .   .   .   .    1",
+   "era": "industrial",
+   "file": "eras/industrial/000706-independent-socialist.md",
+   "at": "2026-09-06T05:47:30+00:00"
   }
  ]
 }
