@@ -1,5 +1,5 @@
 {
- "count": 724,
+ "count": 725,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5068,6 +5068,13 @@
    "era": "modern",
    "file": "eras/modern/000724-dopsch-ib-1901-luschin-von-ebengreuth-oesterreichische.md",
    "at": "2026-09-06T14:51:04+00:00"
+  },
+  {
+   "slug": "reichsgesch-vols-bamberg-1895-1896-work-first-class",
+   "title": "Reichsgesch. (2 vols., Bamberg, 1895, 1896), a work of first-class",
+   "era": "modern",
+   "file": "eras/modern/000725-reichsgesch-vols-bamberg-1895-1896-work-first-class.md",
+   "at": "2026-09-06T14:58:34+00:00"
   }
  ]
 }
