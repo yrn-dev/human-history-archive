@@ -1,5 +1,5 @@
 {
- "count": 674,
+ "count": 675,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4718,6 +4718,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000674-carinthia-10-10.md",
    "at": "2026-09-06T00:27:43+00:00"
+  },
+  {
+   "slug": "salzburg",
+   "title": "Salzburg  .   .   .   .   .   .   .   .   7     \"        7",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000675-salzburg.md",
+   "at": "2026-09-06T00:37:44+00:00"
   }
  ]
 }
