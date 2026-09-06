@@ -1,5 +1,5 @@
 {
- "count": 710,
+ "count": 711,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4970,6 +4970,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000710-croats.md",
    "at": "2026-09-06T06:54:58+00:00"
+  },
+  {
+   "slug": "clerical-populists-11",
+   "title": "Clerical Populists  .   .   .   .   .   .   .   .   11",
+   "era": "modern",
+   "file": "eras/modern/000711-clerical-populists-11.md",
+   "at": "2026-09-06T06:55:21+00:00"
   }
  ]
 }
