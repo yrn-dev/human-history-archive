@@ -1,5 +1,5 @@
 {
- "count": 762,
+ "count": 763,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5334,6 +5334,13 @@
    "era": "modern",
    "file": "eras/modern/000762-raucourt-near-liege-fought-11th-october-between-allies.md",
    "at": "2026-09-06T21:28:11+00:00"
+  },
+  {
+   "slug": "11-general-character-war---little-need-said-military",
+   "title": "11. General Character of the War.--Little need be said of the military",
+   "era": "ancient",
+   "file": "eras/ancient/000763-11-general-character-war---little-need-said-military.md",
+   "at": "2026-09-06T21:38:18+00:00"
   }
  ]
 }
