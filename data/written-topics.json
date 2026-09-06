@@ -1,5 +1,5 @@
 {
- "count": 767,
+ "count": 768,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5369,6 +5369,13 @@
    "era": "ancient",
    "file": "eras/ancient/000767-(c.-f.-a.).md",
    "at": "2026-09-06T22:18:12+00:00"
+  },
+  {
+   "slug": "naval-operations-war-languid-confused-they",
+   "title": "The naval operations of this war were languid and confused. They are",
+   "era": "ancient",
+   "file": "eras/ancient/000768-naval-operations-war-languid-confused-they.md",
+   "at": "2026-09-06T22:28:15+00:00"
   }
  ]
 }
