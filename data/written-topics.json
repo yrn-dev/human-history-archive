@@ -1,5 +1,5 @@
 {
- "count": 716,
+ "count": 717,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5012,6 +5012,13 @@
    "era": "modern",
    "file": "eras/modern/000716-works----general-archdeacon-william-coxe-history-house.md",
    "at": "2026-09-06T07:45:13+00:00"
+  },
+  {
+   "slug": "leipzig-1858-springer-geschichte-oesterreichs-seit-dem-wiener",
+   "title": "(Leipzig, 1858); A. Springer, Geschichte Oesterreichs seit dem Wiener",
+   "era": "industrial",
+   "file": "eras/industrial/000717-leipzig-1858-springer-geschichte-oesterreichs-seit-dem-wiener.md",
+   "at": "2026-09-06T07:55:19+00:00"
   }
  ]
 }
