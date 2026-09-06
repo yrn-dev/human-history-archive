@@ -1,5 +1,5 @@
 {
- "count": 676,
+ "count": 677,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -4732,6 +4732,13 @@
    "era": "ancient",
    "file": "eras/ancient/000676-istria.md",
    "at": "2026-09-06T00:47:43+00:00"
+  },
+  {
+   "slug": "goerz-gradisca",
+   "title": "Goerz and Gradisca.   .   .   .   .   .   6     \"        5",
+   "era": "renaissance",
+   "file": "eras/renaissance/000677-goerz-gradisca.md",
+   "at": "2026-09-06T00:57:39+00:00"
   }
  ]
 }
