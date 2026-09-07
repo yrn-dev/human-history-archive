@@ -1,5 +1,5 @@
 {
- "count": 799,
+ "count": 800,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5593,6 +5593,13 @@
    "era": "modern",
    "file": "eras/modern/000799-inspirational-writing---pages-ike-paraclete-most-notable.md",
    "at": "2026-09-07T04:17:55+00:00"
+  },
+  {
+   "slug": "mars-automatist-produced-writing-unknown-character-which",
+   "title": "Mars) the automatist produced writing in an unknown character, which",
+   "era": "ancient",
+   "file": "eras/ancient/000800-mars-automatist-produced-writing-unknown-character-which.md",
+   "at": "2026-09-07T04:27:54+00:00"
   }
  ]
 }
