@@ -1,5 +1,5 @@
 {
- "count": 867,
+ "count": 868,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6069,6 +6069,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000867-rules-follows---.md",
    "at": "2026-09-07T16:47:32+00:00"
+  },
+  {
+   "slug": "rule---jettison-deck-cargo",
+   "title": "RULE I.--JETTISON OF DECK CARGO",
+   "era": "modern",
+   "file": "eras/modern/000868-rule---jettison-deck-cargo.md",
+   "at": "2026-09-07T16:57:22+00:00"
   }
  ]
 }
