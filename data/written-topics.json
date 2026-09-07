@@ -1,5 +1,5 @@
 {
- "count": 812,
+ "count": 813,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5684,6 +5684,13 @@
    "era": "ancient",
    "file": "eras/ancient/000812-automaton-greek-autos-self-greek-mao-seize.md",
    "at": "2026-09-07T06:27:46+00:00"
+  },
+  {
+   "slug": "these-some-later-instances-figure-constructed",
+   "title": "Of these, as of some later instances, e.g. the figure constructed by",
+   "era": "modern",
+   "file": "eras/modern/000813-these-some-later-instances-figure-constructed.md",
+   "at": "2026-09-07T06:37:44+00:00"
   }
  ]
 }
