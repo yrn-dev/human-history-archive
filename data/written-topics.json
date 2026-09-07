@@ -1,5 +1,5 @@
 {
- "count": 854,
+ "count": 855,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5978,6 +5978,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/000854-aventinus-1477-1534-name-taken-johann-turmair-author.md",
    "at": "2026-09-07T14:37:25+00:00"
+  },
+  {
+   "slug": "annales-boiorum-annals-bavaria-aventinum-latin-name",
+   "title": "Annales Boiorum, or Annals of Bavaria, from Aventinum, the Latin name",
+   "era": "renaissance",
+   "file": "eras/renaissance/000855-annales-boiorum-annals-bavaria-aventinum-latin-name.md",
+   "at": "2026-09-07T14:47:26+00:00"
   }
  ]
 }
