@@ -1,5 +1,5 @@
 {
- "count": 784,
+ "count": 785,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5488,6 +5488,13 @@
    "era": "modern",
    "file": "eras/modern/000784-autographs-autograph-gr-greek-autos-self-greek-graphein.md",
    "at": "2026-09-07T01:28:08+00:00"
+  },
+  {
+   "slug": "existence-autographs-must-necessarily-been-coeval",
+   "title": "The existence of autographs must necessarily have been coeval with the",
+   "era": "cultures",
+   "file": "eras/cultures/000785-existence-autographs-must-necessarily-been-coeval.md",
+   "at": "2026-09-07T01:38:03+00:00"
   }
  ]
 }
