@@ -1,5 +1,5 @@
 {
- "count": 895,
+ "count": 896,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6265,6 +6265,13 @@
    "era": "modern",
    "file": "eras/modern/000895-rule-xiv---temporary-repairs.md",
    "at": "2026-09-07T21:27:06+00:00"
+  },
+  {
+   "slug": "rule-xv---loss-freight",
+   "title": "RULE XV.--LOSS OF FREIGHT",
+   "era": "modern",
+   "file": "eras/modern/000896-rule-xv---loss-freight.md",
+   "at": "2026-09-07T21:37:03+00:00"
   }
  ]
 }
