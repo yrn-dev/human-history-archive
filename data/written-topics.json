@@ -1,5 +1,5 @@
 {
- "count": 876,
+ "count": 877,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6132,6 +6132,13 @@
    "era": "industrial",
    "file": "eras/industrial/000876-rule-ix---cargo-ship-materials-stores-burnt-fuel.md",
    "at": "2026-09-07T18:17:54+00:00"
+  },
+  {
+   "slug": "when-ship-shall-entered-port-place-refuge-shall",
+   "title": "(a) When a ship shall have entered a port or place of refuge, or shall",
+   "era": "industrial",
+   "file": "eras/industrial/000877-when-ship-shall-entered-port-place-refuge-shall.md",
+   "at": "2026-09-07T18:27:54+00:00"
   }
  ]
 }
