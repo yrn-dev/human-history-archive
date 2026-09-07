@@ -1,5 +1,5 @@
 {
- "count": 877,
+ "count": 878,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6139,6 +6139,13 @@
    "era": "industrial",
    "file": "eras/industrial/000877-when-ship-shall-entered-port-place-refuge-shall.md",
    "at": "2026-09-07T18:27:54+00:00"
+  },
+  {
+   "slug": "if-ship-average-port-place-which",
+   "title": "(d) If a ship under average be in a port or place at which it is",
+   "era": "industrial",
+   "file": "eras/industrial/000878-if-ship-average-port-place-which.md",
+   "at": "2026-09-07T18:37:16+00:00"
   }
  ]
 }
