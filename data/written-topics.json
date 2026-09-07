@@ -1,5 +1,5 @@
 {
- "count": 811,
+ "count": 812,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5677,6 +5677,13 @@
    "era": "modern",
    "file": "eras/modern/000811-(n.-w.-t.).md",
    "at": "2026-09-07T06:17:55+00:00"
+  },
+  {
+   "slug": "automaton-greek-autos-self-greek-mao-seize",
+   "title": "AUTOMATON (from [Greek: autos], self, and [Greek: mao], to seize), a",
+   "era": "ancient",
+   "file": "eras/ancient/000812-automaton-greek-autos-self-greek-mao-seize.md",
+   "at": "2026-09-07T06:27:46+00:00"
   }
  ]
 }
