@@ -1,5 +1,5 @@
 {
- "count": 872,
+ "count": 873,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6104,6 +6104,13 @@
    "era": "modern",
    "file": "eras/modern/000872-rule-iv---cutting-away-wreck.md",
    "at": "2026-09-07T17:37:19+00:00"
+  },
+  {
+   "slug": "rule---voluntary-stranding",
+   "title": "RULE V.--VOLUNTARY STRANDING",
+   "era": "industrial",
+   "file": "eras/industrial/000873-rule---voluntary-stranding.md",
+   "at": "2026-09-07T17:47:12+00:00"
   }
  ]
 }
