@@ -1,5 +1,5 @@
 {
- "count": 884,
+ "count": 885,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6188,6 +6188,13 @@
    "era": "industrial",
    "file": "eras/industrial/000884-one-third-deducted-off-repairs-renewal-woodwork.md",
    "at": "2026-09-07T19:37:20+00:00"
+  },
+  {
+   "slug": "deductions-above-clause-except-one-sixth-deducted",
+   "title": "Deductions as above under clause B, except that one-sixth be deducted",
+   "era": "industrial",
+   "file": "eras/industrial/000885-deductions-above-clause-except-one-sixth-deducted.md",
+   "at": "2026-09-07T19:47:16+00:00"
   }
  ]
 }
