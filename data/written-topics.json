@@ -1,5 +1,5 @@
 {
- "count": 843,
+ "count": 844,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5901,6 +5901,13 @@
    "era": "modern",
    "file": "eras/modern/000843-aveiro-seaport-episcopal-see-capital-administrative.md",
    "at": "2026-09-07T12:37:36+00:00"
+  },
+  {
+   "slug": "aveiro-probably-roman-talabriga-16th-century",
+   "title": "Aveiro is probably the Roman Talabriga. In the 16th century it was the",
+   "era": "ancient",
+   "file": "eras/ancient/000844-aveiro-probably-roman-talabriga-16th-century.md",
+   "at": "2026-09-07T12:47:54+00:00"
   }
  ]
 }
