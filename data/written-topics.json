@@ -1,5 +1,5 @@
 {
- "count": 804,
+ "count": 805,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5628,6 +5628,13 @@
    "era": "industrial",
    "file": "eras/industrial/000804-(f.-p.).md",
    "at": "2026-09-07T05:07:51+00:00"
+  },
+  {
+   "slug": "automatism-philosophical-terminology-word-used-two-main",
+   "title": "AUTOMATISM. In philosophical terminology this word is used in two main",
+   "era": "modern",
+   "file": "eras/modern/000805-automatism-philosophical-terminology-word-used-two-main.md",
+   "at": "2026-09-07T05:17:55+00:00"
   }
  ]
 }
