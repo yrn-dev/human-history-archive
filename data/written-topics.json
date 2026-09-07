@@ -1,5 +1,5 @@
 {
- "count": 849,
+ "count": 850,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5943,6 +5943,13 @@
    "era": "modern",
    "file": "eras/modern/000849-vierteljahrsschrift-fuer-wissenschaftliche-philosophie-1868-he.md",
    "at": "2026-09-07T13:47:29+00:00"
+  },
+  {
+   "slug": "philosophie-als-denken-der-welt-gemaess-dem-princip-des-kleinsten",
+   "title": "Philosophie als Denken der Welt gemaess dem Princip des kleinsten",
+   "era": "modern",
+   "file": "eras/modern/000850-philosophie-als-denken-der-welt-gemaess-dem-princip-des-kleinsten.md",
+   "at": "2026-09-07T13:57:30+00:00"
   }
  ]
 }
