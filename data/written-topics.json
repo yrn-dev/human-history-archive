@@ -1,5 +1,5 @@
 {
- "count": 858,
+ "count": 859,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6006,6 +6006,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/000858-dittmar-aventin-noerdlingen-1862-von-doellinger-aventin-und.md",
    "at": "2026-09-07T15:17:44+00:00"
+  },
+  {
+   "slug": "(f.-w.-r.)",
+   "title": "(F. W. R.)",
+   "era": "modern",
+   "file": "eras/modern/000859-(f.-w.-r.).md",
+   "at": "2026-09-07T15:28:13+00:00"
   }
  ]
 }
