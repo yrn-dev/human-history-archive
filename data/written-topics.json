@@ -1,5 +1,5 @@
 {
- "count": 777,
+ "count": 778,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5439,6 +5439,13 @@
    "era": "modern",
    "file": "eras/modern/000777-anson-intercept-convoy-channel-met-crushed.md",
    "at": "2026-09-06T23:58:10+00:00"
+  },
+  {
+   "slug": "french-convoy-protected-strong-squadron-intercepted",
+   "title": "French convoy, protected by a strong squadron, was intercepted by a",
+   "era": "modern",
+   "file": "eras/modern/000778-french-convoy-protected-strong-squadron-intercepted.md",
+   "at": "2026-09-07T00:08:09+00:00"
   }
  ]
 }
