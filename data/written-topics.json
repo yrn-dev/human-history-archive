@@ -1,5 +1,5 @@
 {
- "count": 874,
+ "count": 875,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6118,6 +6118,13 @@
    "era": "industrial",
    "file": "eras/industrial/000874-rule-vi---carrying-press-sail--damage-loss-sails.md",
    "at": "2026-09-07T17:57:17+00:00"
+  },
+  {
+   "slug": "rule-vii---damage-engines-refloating-ship",
+   "title": "RULE VII.--DAMAGE TO ENGINES IN REFLOATING A SHIP",
+   "era": "industrial",
+   "file": "eras/industrial/000875-rule-vii---damage-engines-refloating-ship.md",
+   "at": "2026-09-07T18:07:12+00:00"
   }
  ]
 }
