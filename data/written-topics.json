@@ -1,5 +1,5 @@
 {
- "count": 870,
+ "count": 871,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6090,6 +6090,13 @@
    "era": "modern",
    "file": "eras/modern/000870-rule-ii---damage-jettison-sacrifice-common-safety.md",
    "at": "2026-09-07T17:17:20+00:00"
+  },
+  {
+   "slug": "rule-iii---extinguishing-fire-shipboard",
+   "title": "RULE III.--EXTINGUISHING FIRE ON SHIPBOARD",
+   "era": "modern",
+   "file": "eras/modern/000871-rule-iii---extinguishing-fire-shipboard.md",
+   "at": "2026-09-07T17:27:11+00:00"
   }
  ]
 }
