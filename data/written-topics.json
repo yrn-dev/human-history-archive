@@ -1,5 +1,5 @@
 {
- "count": 881,
+ "count": 882,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6167,6 +6167,13 @@
    "era": "modern",
    "file": "eras/modern/000881-adjusting-claims-repairs-allowed-shall.md",
    "at": "2026-09-07T19:07:15+00:00"
+  },
+  {
+   "slug": "up-year-old",
+   "title": "Up to 1 year old (A.)",
+   "era": "modern",
+   "file": "eras/modern/000882-up-year-old.md",
+   "at": "2026-09-07T19:17:08+00:00"
   }
  ]
 }
