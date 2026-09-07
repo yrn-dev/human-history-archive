@@ -1,5 +1,5 @@
 {
- "count": 802,
+ "count": 803,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5614,6 +5614,13 @@
    "era": "industrial",
    "file": "eras/industrial/000802-matter-spirit-london-1863-stainton-moses-spirit.md",
    "at": "2026-09-07T04:47:51+00:00"
+  },
+  {
+   "slug": "teachings-london-1883-proceedings-passim-th-flournoy-des",
+   "title": "Teachings (London, 1883); Proceedings S.P R. passim; Th. Flournoy, Des",
+   "era": "modern",
+   "file": "eras/modern/000803-teachings-london-1883-proceedings-passim-th-flournoy-des.md",
+   "at": "2026-09-07T04:57:50+00:00"
   }
  ]
 }
