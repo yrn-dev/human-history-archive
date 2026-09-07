@@ -1,5 +1,5 @@
 {
- "count": 778,
+ "count": 779,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5446,6 +5446,13 @@
    "era": "modern",
    "file": "eras/modern/000778-french-convoy-protected-strong-squadron-intercepted.md",
    "at": "2026-09-07T00:08:09+00:00"
+  },
+  {
+   "slug": "last-naval-operations-took-place-west-indies-where",
+   "title": "The last naval operations took place in the West Indies, where the",
+   "era": "industrial",
+   "file": "eras/industrial/000779-last-naval-operations-took-place-west-indies-where.md",
+   "at": "2026-09-07T00:18:10+00:00"
   }
  ]
 }
