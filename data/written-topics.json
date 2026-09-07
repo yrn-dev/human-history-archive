@@ -1,5 +1,5 @@
 {
- "count": 781,
+ "count": 782,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5467,6 +5467,13 @@
    "era": "modern",
    "file": "eras/modern/000781-bourdonnais-attack-madras-partook-largely-nature.md",
    "at": "2026-09-07T00:38:00+00:00"
+  },
+  {
+   "slug": "see-beatson-naval-military-memoirs-london-1804-la-marine",
+   "title": "See Beatson's Naval and Military Memoirs (London, 1804); La Marine",
+   "era": "industrial",
+   "file": "eras/industrial/000782-see-beatson-naval-military-memoirs-london-1804-la-marine.md",
+   "at": "2026-09-07T00:48:07+00:00"
   }
  ]
 }
