@@ -1,5 +1,5 @@
 {
- "count": 887,
+ "count": 888,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6209,6 +6209,13 @@
    "era": "ancient",
    "file": "eras/ancient/000887-15-years.md",
    "at": "2026-09-07T20:07:12+00:00"
+  },
+  {
+   "slug": "generally",
+   "title": "Generally (G.)",
+   "era": "modern",
+   "file": "eras/modern/000888-generally.md",
+   "at": "2026-09-07T20:17:10+00:00"
   }
  ]
 }
