@@ -1,5 +1,5 @@
 {
- "count": 873,
+ "count": 874,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6111,6 +6111,13 @@
    "era": "industrial",
    "file": "eras/industrial/000873-rule---voluntary-stranding.md",
    "at": "2026-09-07T17:47:12+00:00"
+  },
+  {
+   "slug": "rule-vi---carrying-press-sail--damage-loss-sails",
+   "title": "RULE VI.--CARRYING PRESS OF SAIL--DAMAGE TO OR LOSS OF SAILS",
+   "era": "industrial",
+   "file": "eras/industrial/000874-rule-vi---carrying-press-sail--damage-loss-sails.md",
+   "at": "2026-09-07T17:57:17+00:00"
   }
  ]
 }
