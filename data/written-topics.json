@@ -1,5 +1,5 @@
 {
- "count": 818,
+ "count": 819,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5726,6 +5726,13 @@
    "era": "ancient",
    "file": "eras/ancient/000818-la-fille-eschyle-definitive-edition-his-works-brought-out.md",
    "at": "2026-09-07T07:37:48+00:00"
+  },
+  {
+   "slug": "12th-century-contains-many-remains-discovered-autun",
+   "title": "(12th century) contains many of the remains discovered at Autun. The",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000819-12th-century-contains-many-remains-discovered-autun.md",
+   "at": "2026-09-07T07:47:51+00:00"
   }
  ]
 }
