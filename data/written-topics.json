@@ -1,5 +1,5 @@
 {
- "count": 886,
+ "count": 887,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6202,6 +6202,13 @@
    "era": "industrial",
    "file": "eras/industrial/000886-one-third-deducted-off-all-repairs-renewals-except-ironwork.md",
    "at": "2026-09-07T19:57:11+00:00"
+  },
+  {
+   "slug": "15-years",
+   "title": "Over 15 years (F.)",
+   "era": "ancient",
+   "file": "eras/ancient/000887-15-years.md",
+   "at": "2026-09-07T20:07:12+00:00"
   }
  ]
 }
