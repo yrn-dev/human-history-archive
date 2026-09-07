@@ -1,5 +1,5 @@
 {
- "count": 871,
+ "count": 872,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6097,6 +6097,13 @@
    "era": "modern",
    "file": "eras/modern/000871-rule-iii---extinguishing-fire-shipboard.md",
    "at": "2026-09-07T17:27:11+00:00"
+  },
+  {
+   "slug": "rule-iv---cutting-away-wreck",
+   "title": "RULE IV.--CUTTING AWAY WRECK",
+   "era": "modern",
+   "file": "eras/modern/000872-rule-iv---cutting-away-wreck.md",
+   "at": "2026-09-07T17:37:19+00:00"
   }
  ]
 }
