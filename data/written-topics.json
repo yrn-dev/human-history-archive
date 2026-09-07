@@ -1,5 +1,5 @@
 {
- "count": 792,
+ "count": 793,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5544,6 +5544,13 @@
    "era": "ancient",
    "file": "eras/ancient/000792-daniell-1854-autographs-royal-noble-learned-remarkable.md",
    "at": "2026-09-07T02:48:10+00:00"
+  },
+  {
+   "slug": "sims-1865-autographic-mirror-1864-1866-handbook",
+   "title": "Sims (1865); The Autographic Mirror (1864-1866); The Handbook of",
+   "era": "industrial",
+   "file": "eras/industrial/000793-sims-1865-autographic-mirror-1864-1866-handbook.md",
+   "at": "2026-09-07T03:08:00+00:00"
   }
  ]
 }
