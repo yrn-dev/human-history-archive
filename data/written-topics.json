@@ -1,5 +1,5 @@
 {
- "count": 794,
+ "count": 795,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5558,6 +5558,13 @@
    "era": "industrial",
    "file": "eras/industrial/000794-national-mss-scotland-lord-clerk-register-1867-1871.md",
    "at": "2026-09-07T03:17:55+00:00"
+  },
+  {
+   "slug": "(e.-m.-t.)",
+   "title": "(E. M. T.)",
+   "era": "modern",
+   "file": "eras/modern/000795-(e.-m.-t.).md",
+   "at": "2026-09-07T03:27:53+00:00"
   }
  ]
 }
