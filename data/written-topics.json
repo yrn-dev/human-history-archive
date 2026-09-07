@@ -1,5 +1,5 @@
 {
- "count": 879,
+ "count": 880,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6153,6 +6153,13 @@
    "era": "industrial",
    "file": "eras/industrial/000879-damage-done-loss-cargo-necessarily-caused-act.md",
    "at": "2026-09-07T18:47:26+00:00"
+  },
+  {
+   "slug": "rule-xiii---deductions-cost-repairs",
+   "title": "RULE XIII.--DEDUCTIONS FROM COST OF REPAIRS",
+   "era": "modern",
+   "file": "eras/modern/000880-rule-xiii---deductions-cost-repairs.md",
+   "at": "2026-09-07T18:57:43+00:00"
   }
  ]
 }
