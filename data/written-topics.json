@@ -1,5 +1,5 @@
 {
- "count": 847,
+ "count": 848,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5929,6 +5929,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000847-dictionary-paris-london-1842-vol-iii-pp-130-ff-ibn.md",
    "at": "2026-09-07T13:27:23+00:00"
+  },
+  {
+   "slug": "(g.-w.-t.)",
+   "title": "(G. W. T.)",
+   "era": "modern",
+   "file": "eras/modern/000848-(g.-w.-t.).md",
+   "at": "2026-09-07T13:37:30+00:00"
   }
  ]
 }
