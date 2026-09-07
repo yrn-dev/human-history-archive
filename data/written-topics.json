@@ -1,5 +1,5 @@
 {
- "count": 793,
+ "count": 794,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5551,6 +5551,13 @@
    "era": "industrial",
    "file": "eras/industrial/000793-sims-1865-autographic-mirror-1864-1866-handbook.md",
    "at": "2026-09-07T03:08:00+00:00"
+  },
+  {
+   "slug": "national-mss-scotland-lord-clerk-register-1867-1871",
+   "title": "National MSS. of Scotland (Lord Clerk Register), 1867-1871; and",
+   "era": "industrial",
+   "file": "eras/industrial/000794-national-mss-scotland-lord-clerk-register-1867-1871.md",
+   "at": "2026-09-07T03:17:55+00:00"
   }
  ]
 }
