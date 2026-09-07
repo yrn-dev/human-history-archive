@@ -1,5 +1,5 @@
 {
- "count": 816,
+ "count": 817,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5712,6 +5712,13 @@
    "era": "modern",
    "file": "eras/modern/000816-death-examination-dead-body-ascertain-cause.md",
    "at": "2026-09-07T07:07:55+00:00"
+  },
+  {
+   "slug": "1835-remodelled-1852-les-poemes-de-la-mer-ludibria-ventis",
+   "title": "(1835), remodelled in 1852 as Les Poemes de la mer. Ludibria ventis",
+   "era": "industrial",
+   "file": "eras/industrial/000817-1835-remodelled-1852-les-poemes-de-la-mer-ludibria-ventis.md",
+   "at": "2026-09-07T07:17:44+00:00"
   }
  ]
 }
