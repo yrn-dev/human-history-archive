@@ -1,5 +1,5 @@
 {
- "count": 888,
+ "count": 889,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6216,6 +6216,13 @@
    "era": "modern",
    "file": "eras/modern/000888-generally.md",
    "at": "2026-09-07T20:17:10+00:00"
+  },
+  {
+   "slug": "deductions-except-provisions-stores-machinery",
+   "title": "The deductions (except as to provisions and stores, machinery and",
+   "era": "industrial",
+   "file": "eras/industrial/000889-deductions-except-provisions-stores-machinery.md",
+   "at": "2026-09-07T20:27:12+00:00"
   }
  ]
 }
