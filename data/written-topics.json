@@ -1,5 +1,5 @@
 {
- "count": 897,
+ "count": 898,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6279,6 +6279,13 @@
    "era": "modern",
    "file": "eras/modern/000897-rule-xvii---contributory-values.md",
    "at": "2026-09-07T21:47:04+00:00"
+  },
+  {
+   "slug": "contribution-shall-made-upon-actual-values",
+   "title": "The contribution to a G.A. shall be made upon the actual values of the",
+   "era": "modern",
+   "file": "eras/modern/000898-contribution-shall-made-upon-actual-values.md",
+   "at": "2026-09-07T21:57:08+00:00"
   }
  ]
 }
