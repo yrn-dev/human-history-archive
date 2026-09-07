@@ -1,5 +1,5 @@
 {
- "count": 822,
+ "count": 823,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5754,6 +5754,13 @@
    "era": "modern",
    "file": "eras/modern/000822-england-but-same-time-divided-william-vii-called.md",
    "at": "2026-09-07T08:27:48+00:00"
+  },
+  {
+   "slug": "bibliography---baluze-histoire-genealogique-de-la-maison-auvergne",
+   "title": "BIBLIOGRAPHY.--Baluze, Histoire genealogique de la maison d'Auvergne",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000823-bibliography---baluze-histoire-genealogique-de-la-maison-auvergne.md",
+   "at": "2026-09-07T08:47:49+00:00"
   }
  ]
 }
