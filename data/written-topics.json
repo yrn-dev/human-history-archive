@@ -1,5 +1,5 @@
 {
- "count": 831,
+ "count": 832,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5817,6 +5817,13 @@
    "era": "modern",
    "file": "eras/modern/000831-avallon-town-central-france-capital-arrondissement.md",
    "at": "2026-09-07T10:27:43+00:00"
+  },
+  {
+   "slug": "remains-ancient-fortifications-including-seven-flanking",
+   "title": "Remains of the ancient fortifications, including seven of the flanking",
+   "era": "ancient",
+   "file": "eras/ancient/000832-remains-ancient-fortifications-including-seven-flanking.md",
+   "at": "2026-09-07T10:38:04+00:00"
   }
  ]
 }
