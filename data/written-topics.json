@@ -1,5 +1,5 @@
 {
- "count": 882,
+ "count": 883,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6174,6 +6174,13 @@
    "era": "modern",
    "file": "eras/modern/000882-up-year-old.md",
    "at": "2026-09-07T19:17:08+00:00"
+  },
+  {
+   "slug": "between-years",
+   "title": "Between 1 and 3 years (B.)",
+   "era": "ancient",
+   "file": "eras/ancient/000883-between-years.md",
+   "at": "2026-09-07T19:32:33+00:00"
   }
  ]
 }
