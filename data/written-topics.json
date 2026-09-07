@@ -1,5 +1,5 @@
 {
- "count": 875,
+ "count": 876,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6125,6 +6125,13 @@
    "era": "industrial",
    "file": "eras/industrial/000875-rule-vii---damage-engines-refloating-ship.md",
    "at": "2026-09-07T18:07:12+00:00"
+  },
+  {
+   "slug": "rule-ix---cargo-ship-materials-stores-burnt-fuel",
+   "title": "RULE IX.--CARGO, SHIP'S MATERIALS, AND STORES BURNT FOR FUEL",
+   "era": "industrial",
+   "file": "eras/industrial/000876-rule-ix---cargo-ship-materials-stores-burnt-fuel.md",
+   "at": "2026-09-07T18:17:54+00:00"
   }
  ]
 }
