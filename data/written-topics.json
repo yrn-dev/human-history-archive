@@ -1,5 +1,5 @@
 {
- "count": 825,
+ "count": 826,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5775,6 +5775,13 @@
    "era": "modern",
    "file": "eras/modern/000825-pop-1906-16-971-situated-slopes-summit.md",
    "at": "2026-09-07T09:07:38+00:00"
+  },
+  {
+   "slug": "(t.-as.)",
+   "title": "(T. AS.)",
+   "era": "cultures",
+   "file": "eras/cultures/000826-(t.-as.).md",
+   "at": "2026-09-07T09:17:44+00:00"
   }
  ]
 }
