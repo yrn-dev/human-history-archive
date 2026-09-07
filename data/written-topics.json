@@ -1,5 +1,5 @@
 {
- "count": 830,
+ "count": 831,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5810,6 +5810,13 @@
    "era": "modern",
    "file": "eras/modern/000830-(r.-l.).md",
    "at": "2026-09-07T10:07:49+00:00"
+  },
+  {
+   "slug": "avallon-town-central-france-capital-arrondissement",
+   "title": "AVALLON, a town of central France, capital of an arrondissement in the",
+   "era": "modern",
+   "file": "eras/modern/000831-avallon-town-central-france-capital-arrondissement.md",
+   "at": "2026-09-07T10:27:43+00:00"
   }
  ]
 }
