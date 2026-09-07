@@ -1,5 +1,5 @@
 {
- "count": 801,
+ "count": 802,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5607,6 +5607,13 @@
    "era": "modern",
    "file": "eras/modern/000801-proceedings-these-writings-appear-exhibit-remarkable.md",
    "at": "2026-09-07T04:37:51+00:00"
+  },
+  {
+   "slug": "matter-spirit-london-1863-stainton-moses-spirit",
+   "title": "From Matter to Spirit (London, 1863); W. Stainton Moses, Spirit",
+   "era": "industrial",
+   "file": "eras/industrial/000802-matter-spirit-london-1863-stainton-moses-spirit.md",
+   "at": "2026-09-07T04:47:51+00:00"
   }
  ]
 }
