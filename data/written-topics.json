@@ -1,5 +1,5 @@
 {
- "count": 791,
+ "count": 792,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5537,6 +5537,13 @@
    "era": "industrial",
    "file": "eras/industrial/000791-there-many-published-collections-facsimiles-autographs.md",
    "at": "2026-09-07T02:38:19+00:00"
+  },
+  {
+   "slug": "daniell-1854-autographs-royal-noble-learned-remarkable",
+   "title": "Daniell, 1854); Autographs of Royal, Noble, Learned and Remarkable",
+   "era": "ancient",
+   "file": "eras/ancient/000792-daniell-1854-autographs-royal-noble-learned-remarkable.md",
+   "at": "2026-09-07T02:48:10+00:00"
   }
  ]
 }
