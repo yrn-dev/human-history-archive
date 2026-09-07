@@ -1,5 +1,5 @@
 {
- "count": 800,
+ "count": 801,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -5600,6 +5600,13 @@
    "era": "ancient",
    "file": "eras/ancient/000800-mars-automatist-produced-writing-unknown-character-which.md",
    "at": "2026-09-07T04:27:54+00:00"
+  },
+  {
+   "slug": "proceedings-these-writings-appear-exhibit-remarkable",
+   "title": "(Proceedings S.P.R.). These writings appear to exhibit remarkable",
+   "era": "modern",
+   "file": "eras/modern/000801-proceedings-these-writings-appear-exhibit-remarkable.md",
+   "at": "2026-09-07T04:37:51+00:00"
   }
  ]
 }
