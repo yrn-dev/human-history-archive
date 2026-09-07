@@ -1,5 +1,5 @@
 {
- "count": 909,
+ "count": 910,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6363,6 +6363,13 @@
    "era": "modern",
    "file": "eras/modern/000909-mutual-co-1901-147-there-ship-freight-cargo-all.md",
    "at": "2026-09-07T23:46:58+00:00"
+  },
+  {
+   "slug": "abbott-merchant-ships-seamen-14th-ed-london-1901-arnould",
+   "title": "Abbott's Merchant Ships and Seamen (14th ed., London, 1901); Arnould's",
+   "era": "industrial",
+   "file": "eras/industrial/000910-abbott-merchant-ships-seamen-14th-ed-london-1901-arnould.md",
+   "at": "2026-09-07T23:57:03+00:00"
   }
  ]
 }
