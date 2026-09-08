@@ -1,5 +1,5 @@
 {
- "count": 955,
+ "count": 956,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6685,6 +6685,13 @@
    "era": "modern",
    "file": "eras/modern/000955-alcazar-used-barracks-foundling-hospital-infirmary-military.md",
    "at": "2026-09-08T08:16:31+00:00"
+  },
+  {
+   "slug": "aviles-pedro-menendez-de-1519-1574-spanish-seaman-founder-st",
+   "title": "AVILES, PEDRO MENENDEZ DE (1519-1574), Spanish seaman, founder of St",
+   "era": "renaissance",
+   "file": "eras/renaissance/000956-aviles-pedro-menendez-de-1519-1574-spanish-seaman-founder-st.md",
+   "at": "2026-09-08T08:36:38+00:00"
   }
  ]
 }
