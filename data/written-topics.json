@@ -1,5 +1,5 @@
 {
- "count": 964,
+ "count": 965,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6748,6 +6748,13 @@
    "era": "modern",
    "file": "eras/modern/000964-see-spanish-settlements-within-present-limits-united.md",
    "at": "2026-09-08T09:56:28+00:00"
+  },
+  {
+   "slug": "aviles-san-nicolas-de-aviles-roman-flavionavia-seaport",
+   "title": "AVILES, or SAN NICOLAS DE AVILES (the Roman Flavionavia), a seaport of",
+   "era": "renaissance",
+   "file": "eras/renaissance/000965-aviles-san-nicolas-de-aviles-roman-flavionavia-seaport.md",
+   "at": "2026-09-08T10:06:30+00:00"
   }
  ]
 }
