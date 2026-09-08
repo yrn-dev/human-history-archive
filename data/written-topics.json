@@ -1,5 +1,5 @@
 {
- "count": 1022,
+ "count": 1023,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7154,6 +7154,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001022-interesting-brasses-15th-16th-centuries-early.md",
    "at": "2026-09-08T22:37:47+00:00"
+  },
+  {
+   "slug": "gordillo-exploring-expedition-which-touched-coast",
+   "title": "Gordillo on an exploring expedition which touched on the coast of the",
+   "era": "modern",
+   "file": "eras/modern/001023-gordillo-exploring-expedition-which-touched-coast.md",
+   "at": "2026-09-08T22:48:02+00:00"
   }
  ]
 }
