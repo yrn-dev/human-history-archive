@@ -1,5 +1,5 @@
 {
- "count": 923,
+ "count": 924,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6461,6 +6461,13 @@
    "era": "ancient",
    "file": "eras/ancient/000923-editions---cannegieter-1731-lachmann-1845-froehner-1862-03.md",
    "at": "2026-09-08T02:37:04+00:00"
+  },
+  {
+   "slug": "hervieux-les-fabulistes-latins-1894-fables-avian-translated",
+   "title": "Hervieux, Les Fabulistes latins (1894); The Fables of Avian translated",
+   "era": "ancient",
+   "file": "eras/ancient/000924-hervieux-les-fabulistes-latins-1894-fables-avian-translated.md",
+   "at": "2026-09-08T02:46:59+00:00"
   }
  ]
 }
