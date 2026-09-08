@@ -1,5 +1,5 @@
 {
- "count": 990,
+ "count": 991,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6930,6 +6930,13 @@
    "era": "modern",
    "file": "eras/modern/000990-axolotl-mexican-name-given-larvae-salamanders-genus.md",
    "at": "2026-09-08T15:32:01+00:00"
+  },
+  {
+   "slug": "1514-1578-alluded-gyrinus-edulis-atolocatl",
+   "title": "(1514-1578) has alluded to it as Gyrinus edulis or atolocatl, and as",
+   "era": "renaissance",
+   "file": "eras/renaissance/000991-1514-1578-alluded-gyrinus-edulis-atolocatl.md",
+   "at": "2026-09-08T15:42:25+00:00"
   }
  ]
 }
