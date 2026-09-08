@@ -1,5 +1,5 @@
 {
- "count": 1005,
+ "count": 1006,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7035,6 +7035,13 @@
    "era": "modern",
    "file": "eras/modern/001005-also-important-mining-region-having-large-number-silver.md",
    "at": "2026-09-08T19:37:01+00:00"
+  },
+  {
+   "slug": "see-rafael-floranes-vida-literaria-de-pedro-lopez-de-ayala",
+   "title": "See Rafael Floranes, \"Vida literaria de Pedro Lopez de Ayala,\" in the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001006-see-rafael-floranes-vida-literaria-de-pedro-lopez-de-ayala.md",
+   "at": "2026-09-08T19:57:11+00:00"
   }
  ]
 }
