@@ -1,5 +1,5 @@
 {
- "count": 914,
+ "count": 915,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6398,6 +6398,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000914-remain-manuscript-escorial-other.md",
    "at": "2026-09-08T00:46:52+00:00"
+  },
+  {
+   "slug": "kulliyyat-summary-resume-medical-science",
+   "title": "(i.e. Kulliyyat, or summary), a resume of medical science, and a",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000915-kulliyyat-summary-resume-medical-science.md",
+   "at": "2026-09-08T00:57:00+00:00"
   }
  ]
 }
