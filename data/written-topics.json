@@ -1,5 +1,5 @@
 {
- "count": 910,
+ "count": 911,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6370,6 +6370,13 @@
    "era": "industrial",
    "file": "eras/industrial/000910-abbott-merchant-ships-seamen-14th-ed-london-1901-arnould.md",
    "at": "2026-09-07T23:57:03+00:00"
+  },
+  {
+   "slug": "pompeius-been-subdued-chief-naval-harbour-transferred",
+   "title": "Pompeius had been subdued, the chief naval harbour was transferred to",
+   "era": "ancient",
+   "file": "eras/ancient/000911-pompeius-been-subdued-chief-naval-harbour-transferred.md",
+   "at": "2026-09-08T00:16:52+00:00"
   }
  ]
 }
