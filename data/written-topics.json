@@ -1,5 +1,5 @@
 {
- "count": 980,
+ "count": 981,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6860,6 +6860,13 @@
    "era": "modern",
    "file": "eras/modern/000980-awe-loch-longest-freshwater-lake-scotland-situated.md",
    "at": "2026-09-08T13:10:29+00:00"
+  },
+  {
+   "slug": "kilchurn-castle-romantic-surroundings-made-castle",
+   "title": "Kilchurn Castle. Its romantic surroundings have made this castle a",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000981-kilchurn-castle-romantic-surroundings-made-castle.md",
+   "at": "2026-09-08T13:20:30+00:00"
   }
  ]
 }
