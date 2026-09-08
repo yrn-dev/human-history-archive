@@ -1,5 +1,5 @@
 {
- "count": 942,
+ "count": 943,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6594,6 +6594,13 @@
    "era": "ancient",
    "file": "eras/ancient/000942-avienus-rufius-festus-roman-aristocrat-poet-vulsinii.md",
    "at": "2026-09-08T05:46:34+00:00"
+  },
+  {
+   "slug": "dionysius-title-descriptio-orbis-terrarum-both",
+   "title": "Dionysius under the title of Descriptio Orbis Terrarum, both in",
+   "era": "ancient",
+   "file": "eras/ancient/000943-dionysius-title-descriptio-orbis-terrarum-both.md",
+   "at": "2026-09-08T05:56:35+00:00"
   }
  ]
 }
