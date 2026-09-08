@@ -1,5 +1,5 @@
 {
- "count": 1028,
+ "count": 1029,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7196,6 +7196,13 @@
    "era": "cultures",
    "file": "eras/cultures/001029-aymara-anc-colla-tribe-south-american-indians-formerly.md",
    "at": "2026-09-08T23:47:28+00:00"
+  },
+  {
+   "slug": "aymer-aethelmar-valence-1260-bishop-winchester",
+   "title": "AYMER, or AETHELMAR, OF VALENCE (d. 1260), bishop of Winchester, was a",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001030-aymer-aethelmar-valence-1260-bishop-winchester.md",
+   "at": "2026-09-08T23:58:25+00:00"
   }
  ]
 }
