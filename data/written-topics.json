@@ -1,5 +1,5 @@
 {
- "count": 943,
+ "count": 944,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6601,6 +6601,13 @@
    "era": "ancient",
    "file": "eras/ancient/000943-dionysius-title-descriptio-orbis-terrarum-both.md",
    "at": "2026-09-08T05:56:35+00:00"
+  },
+  {
+   "slug": "avignon-city-south-eastern-france-capital-department",
+   "title": "AVIGNON, a city of south-eastern France, capital of the department of",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000944-avignon-city-south-eastern-france-capital-department.md",
+   "at": "2026-09-08T06:06:38+00:00"
   }
  ]
 }
