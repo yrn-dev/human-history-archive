@@ -1,5 +1,5 @@
 {
- "count": 984,
+ "count": 985,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6888,6 +6888,13 @@
    "era": "modern",
    "file": "eras/modern/000984-axile-axial-term-related-axis-used-technically.md",
    "at": "2026-09-08T14:10:57+00:00"
+  },
+  {
+   "slug": "axinite-mineral-consisting-complex-aluminium-calcium",
+   "title": "AXINITE, a mineral consisting of a complex aluminium and calcium",
+   "era": "cultures",
+   "file": "eras/cultures/000985-axinite-mineral-consisting-complex-aluminium-calcium.md",
+   "at": "2026-09-08T14:20:45+00:00"
   }
  ]
 }
