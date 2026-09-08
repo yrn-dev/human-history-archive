@@ -1,5 +1,5 @@
 {
- "count": 1006,
+ "count": 1007,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7042,6 +7042,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/001006-see-rafael-floranes-vida-literaria-de-pedro-lopez-de-ayala.md",
    "at": "2026-09-08T19:57:11+00:00"
+  },
+  {
+   "slug": "ayala-herrera-adelardo-lopez-de-1828-1879-spanish-writer",
+   "title": "AYALA Y HERRERA, ADELARDO LOPEZ DE (1828-1879), Spanish writer and",
+   "era": "industrial",
+   "file": "eras/industrial/001007-ayala-herrera-adelardo-lopez-de-1828-1879-spanish-writer.md",
+   "at": "2026-09-08T20:16:11+00:00"
   }
  ]
 }
