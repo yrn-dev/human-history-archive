@@ -1,5 +1,5 @@
 {
- "count": 944,
+ "count": 945,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6608,6 +6608,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000944-avignon-city-south-eastern-france-capital-department.md",
    "at": "2026-09-08T06:06:38+00:00"
+  },
+  {
+   "slug": "vaucluse-143-lyons-railway-between-city",
+   "title": "Vaucluse, 143 m. S. of Lyons on the railway between that city and",
+   "era": "modern",
+   "file": "eras/modern/000945-vaucluse-143-lyons-railway-between-city.md",
+   "at": "2026-09-08T06:16:37+00:00"
   }
  ]
 }
