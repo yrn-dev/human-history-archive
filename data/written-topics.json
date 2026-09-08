@@ -1,5 +1,5 @@
 {
- "count": 916,
+ "count": 917,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6412,6 +6412,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/000916-first-03-0059-appeared-padua-1472-fifty.md",
    "at": "2026-09-08T01:06:53+00:00"
+  },
+  {
+   "slug": "(w.-w.;-g.-w.-t.)",
+   "title": "(W. W.; G. W. T.)",
+   "era": "modern",
+   "file": "eras/modern/000917-(w.-w.;-g.-w.-t.).md",
+   "at": "2026-09-08T01:16:52+00:00"
   }
  ]
 }
