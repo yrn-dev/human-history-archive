@@ -1,5 +1,5 @@
 {
- "count": 1023,
+ "count": 1024,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7161,6 +7161,13 @@
    "era": "modern",
    "file": "eras/modern/001023-gordillo-exploring-expedition-which-touched-coast.md",
    "at": "2026-09-08T22:48:02+00:00"
+  },
+  {
+   "slug": "florida-peninsula-coasted-some-distance-northward-gordillo",
+   "title": "Florida peninsula and coasted for some distance northward. Gordillo's",
+   "era": "renaissance",
+   "file": "eras/renaissance/001024-florida-peninsula-coasted-some-distance-northward-gordillo.md",
+   "at": "2026-09-08T22:58:55+00:00"
   }
  ]
 }
