@@ -1,5 +1,5 @@
 {
- "count": 952,
+ "count": 953,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6664,6 +6664,13 @@
    "era": "modern",
    "file": "eras/modern/000952-region-stock-breeding-important-industry-principal.md",
    "at": "2026-09-08T07:46:41+00:00"
+  },
+  {
+   "slug": "avila-anc-abula-avela-capital-province-described",
+   "title": "AVILA (anc. Abula or Avela), the capital of the province described",
+   "era": "modern",
+   "file": "eras/modern/000953-avila-anc-abula-avela-capital-province-described.md",
+   "at": "2026-09-08T07:57:13+00:00"
   }
  ]
 }
