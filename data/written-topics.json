@@ -1,5 +1,5 @@
 {
- "count": 950,
+ "count": 951,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6650,6 +6650,13 @@
    "era": "ancient",
    "file": "eras/ancient/000950-cavares-romans-one-leading-cities-gallia.md",
    "at": "2026-09-08T07:16:39+00:00"
+  },
+  {
+   "slug": "avila-province-central-spain-one-modern-divisions",
+   "title": "AVILA, a province of central Spain, one of the modern divisions of the",
+   "era": "modern",
+   "file": "eras/modern/000951-avila-province-central-spain-one-modern-divisions.md",
+   "at": "2026-09-08T07:37:03+00:00"
   }
  ]
 }
