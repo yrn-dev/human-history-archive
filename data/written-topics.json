@@ -1,5 +1,5 @@
 {
- "count": 1004,
+ "count": 1005,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7028,6 +7028,13 @@
    "era": "modern",
    "file": "eras/modern/001004-department-ayacucho-extends-across-great-plateau-central.md",
    "at": "2026-09-08T19:25:40+00:00"
+  },
+  {
+   "slug": "also-important-mining-region-having-large-number-silver",
+   "title": "It is also an important mining region, having a large number of silver",
+   "era": "modern",
+   "file": "eras/modern/001005-also-important-mining-region-having-large-number-silver.md",
+   "at": "2026-09-08T19:37:01+00:00"
   }
  ]
 }
