@@ -1,5 +1,5 @@
 {
- "count": 965,
+ "count": 966,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6755,6 +6755,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/000965-aviles-san-nicolas-de-aviles-roman-flavionavia-seaport.md",
    "at": "2026-09-08T10:06:30+00:00"
+  },
+  {
+   "slug": "avlona-anc-aulon-ital-valona-alb-vliona-town-seaport",
+   "title": "AVLONA (anc. Aulon; Ital. Valona; Alb. Vliona), a town and seaport of",
+   "era": "modern",
+   "file": "eras/modern/000966-avlona-anc-aulon-ital-valona-alb-vliona-town-seaport.md",
+   "at": "2026-09-08T10:26:21+00:00"
   }
  ]
 }
