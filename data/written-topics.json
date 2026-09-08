@@ -1,5 +1,5 @@
 {
- "count": 1000,
+ "count": 1001,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7000,6 +7000,13 @@
    "era": "cultures",
    "file": "eras/cultures/001000-gadow-opinion-reason-why-there-only-perennibranchiate.md",
    "at": "2026-09-08T17:11:17+00:00"
+  },
+  {
+   "slug": "(g.-a.-b.)",
+   "title": "(G. A. B.)",
+   "era": "modern",
+   "file": "eras/modern/001001-(g.-a.-b.).md",
+   "at": "2026-09-08T17:21:17+00:00"
   }
  ]
 }
