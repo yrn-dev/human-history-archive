@@ -1,5 +1,5 @@
 {
- "count": 911,
+ "count": 912,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6377,6 +6377,13 @@
    "era": "ancient",
    "file": "eras/ancient/000911-pompeius-been-subdued-chief-naval-harbour-transferred.md",
    "at": "2026-09-08T00:16:52+00:00"
+  },
+  {
+   "slug": "averroes-ab-l-wal-mu-ammad-ibn-a-mad-ibn-mu-ammad",
+   "title": "AVERROES [Ab[=u]l-Wal[=i]d Mu[h.]ammad ibn-A[h.]mad Ibn-Mu[h.]ammad",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000912-averroes-ab-l-wal-mu-ammad-ibn-a-mad-ibn-mu-ammad.md",
+   "at": "2026-09-08T00:26:53+00:00"
   }
  ]
 }
