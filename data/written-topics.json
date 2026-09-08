@@ -1,5 +1,5 @@
 {
- "count": 1011,
+ "count": 1012,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7077,6 +7077,13 @@
    "era": "modern",
    "file": "eras/modern/001011-epistola-emilio-arrieta-he-chosen-dedicate-himself.md",
    "at": "2026-09-08T20:52:45+00:00"
+  },
+  {
+   "slug": "daubentonia-madagascariensis-animal-superficial",
+   "title": "(or Daubentonia) madagascariensis, is an animal with a superficial",
+   "era": "cultures",
+   "file": "eras/cultures/001012-daubentonia-madagascariensis-animal-superficial.md",
+   "at": "2026-09-08T21:02:02+00:00"
   }
  ]
 }
