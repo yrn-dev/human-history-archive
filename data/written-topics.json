@@ -1,5 +1,5 @@
 {
- "count": 1012,
+ "count": 1013,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7084,6 +7084,13 @@
    "era": "cultures",
    "file": "eras/cultures/001012-daubentonia-madagascariensis-animal-superficial.md",
    "at": "2026-09-08T21:02:02+00:00"
+  },
+  {
+   "slug": "observations-upon-captive-specimens-led-conclusion",
+   "title": "Observations upon captive specimens have led to the conclusion that it",
+   "era": "ancient",
+   "file": "eras/ancient/001013-observations-upon-captive-specimens-led-conclusion.md",
+   "at": "2026-09-08T21:11:03+00:00"
   }
  ]
 }
