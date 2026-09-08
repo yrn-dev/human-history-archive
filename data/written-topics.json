@@ -1,5 +1,5 @@
 {
- "count": 954,
+ "count": 955,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6678,6 +6678,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/000954-romanesque-15th-century-although-parts-beautiful-san.md",
    "at": "2026-09-08T08:06:48+00:00"
+  },
+  {
+   "slug": "alcazar-used-barracks-foundling-hospital-infirmary-military",
+   "title": "(alcazar) used as barracks, a foundling hospital, infirmary, military",
+   "era": "modern",
+   "file": "eras/modern/000955-alcazar-used-barracks-foundling-hospital-infirmary-military.md",
+   "at": "2026-09-08T08:16:31+00:00"
   }
  ]
 }
