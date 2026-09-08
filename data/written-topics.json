@@ -1,5 +1,5 @@
 {
- "count": 1001,
+ "count": 1002,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7007,6 +7007,13 @@
    "era": "modern",
    "file": "eras/modern/001001-(g.-a.-b.).md",
    "at": "2026-09-08T17:21:17+00:00"
+  },
+  {
+   "slug": "ethiopia-bent-conjectured-seat-government",
+   "title": "ETHIOPIA. J. T. Bent conjectured that the seat of government was",
+   "era": "ancient",
+   "file": "eras/ancient/001002-ethiopia-bent-conjectured-seat-government.md",
+   "at": "2026-09-08T17:30:46+00:00"
   }
  ]
 }
