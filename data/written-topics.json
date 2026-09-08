@@ -1,5 +1,5 @@
 {
- "count": 945,
+ "count": 946,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6615,6 +6615,13 @@
    "era": "modern",
    "file": "eras/modern/000945-vaucluse-143-lyons-railway-between-city.md",
    "at": "2026-09-08T06:16:37+00:00"
+  },
+  {
+   "slug": "villeneuve-les-avignon-little-higher-up-picturesque",
+   "title": "Villeneuve-les-Avignon (q.v.), and a little higher up, a picturesque",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/000946-villeneuve-les-avignon-little-higher-up-picturesque.md",
+   "at": "2026-09-08T06:26:37+00:00"
   }
  ]
 }
