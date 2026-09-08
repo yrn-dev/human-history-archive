@@ -1,5 +1,5 @@
 {
- "count": 1010,
+ "count": 1011,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7070,6 +7070,13 @@
    "era": "modern",
    "file": "eras/modern/001010-juan-greatly-increased-el-tanto-por-ciento-el-tejado-de.md",
    "at": "2026-09-08T20:38:48+00:00"
+  },
+  {
+   "slug": "epistola-emilio-arrieta-he-chosen-dedicate-himself",
+   "title": "Epistola to Emilio Arrieta, and had he chosen to dedicate himself to",
+   "era": "modern",
+   "file": "eras/modern/001011-epistola-emilio-arrieta-he-chosen-dedicate-himself.md",
+   "at": "2026-09-08T20:52:45+00:00"
   }
  ]
 }
