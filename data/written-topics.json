@@ -1,5 +1,5 @@
 {
- "count": 949,
+ "count": 950,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -6643,6 +6643,13 @@
    "era": "ancient",
    "file": "eras/ancient/000949-avignon-avenio-important-town-gallic-tribe.md",
    "at": "2026-09-08T07:06:50+00:00"
+  },
+  {
+   "slug": "cavares-romans-one-leading-cities-gallia",
+   "title": "Cavares, and under the Romans one of the leading cities of Gallia",
+   "era": "ancient",
+   "file": "eras/ancient/000950-cavares-romans-one-leading-cities-gallia.md",
+   "at": "2026-09-08T07:16:39+00:00"
   }
  ]
 }
