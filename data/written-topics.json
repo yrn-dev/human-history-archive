@@ -1,5 +1,5 @@
 {
- "count": 1122,
+ "count": 1123,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7854,6 +7854,13 @@
    "era": "modern",
    "file": "eras/modern/001123-orange-apricot-banana-lemon-citron-japanese-medlar.md",
    "at": "2026-09-09T17:16:30+00:00"
+  },
+  {
+   "slug": "population---the-inhabitants-islands-mostly-portuguese",
+   "title": "Population.--The inhabitants of the islands are mostly of Portuguese",
+   "era": "cultures",
+   "file": "eras/cultures/001124-population---the-inhabitants-islands-mostly-portuguese.md",
+   "at": "2026-09-09T17:26:31+00:00"
   }
  ]
 }
