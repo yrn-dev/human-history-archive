@@ -1,5 +1,5 @@
 {
- "count": 1134,
+ "count": 1135,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7938,6 +7938,13 @@
    "era": "modern",
    "file": "eras/modern/001135-azorian-commerce-best-shown-british-american-consular.md",
    "at": "2026-09-09T19:16:17+00:00"
+  },
+  {
+   "slug": "fernandez-duro-madrid-1886-histoire-de-la-decouverte-des-iles",
+   "title": "Fernandez Duro (Madrid, 1886), and Histoire de la decouverte des iles",
+   "era": "modern",
+   "file": "eras/modern/001136-fernandez-duro-madrid-1886-histoire-de-la-decouverte-des-iles.md",
+   "at": "2026-09-09T19:26:22+00:00"
   }
  ]
 }
