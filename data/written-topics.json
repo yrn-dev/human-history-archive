@@ -1,5 +1,5 @@
 {
- "count": 1160,
+ "count": 1161,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8120,6 +8120,13 @@
    "era": "modern",
    "file": "eras/modern/001161-583-636-claassen-franz-von-baaders-leben-und-theosophische-werke.md",
    "at": "2026-09-09T23:46:16+00:00"
+  },
+  {
+   "slug": "stuttgart-1886-1887-franz-von-baaders-gedanken-ueber-staat-und",
+   "title": "(Stuttgart, 1886-1887), and Franz von Baaders Gedanken ueber Staat und",
+   "era": "industrial",
+   "file": "eras/industrial/001162-stuttgart-1886-1887-franz-von-baaders-gedanken-ueber-staat-und.md",
+   "at": "2026-09-09T23:56:20+00:00"
   }
  ]
 }
