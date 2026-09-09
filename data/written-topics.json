@@ -1,5 +1,5 @@
 {
- "count": 1103,
+ "count": 1104,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7721,6 +7721,13 @@
    "era": "modern",
    "file": "eras/modern/001104-1903-jacobson-ber-1903-36-4093-condensing.md",
    "at": "2026-09-09T13:56:43+00:00"
+  },
+  {
+   "slug": "ber-1887-20-372-action-phenylhydrazine",
+   "title": "Ber., 1887, 20, p. 372); and by the action of phenylhydrazine on a",
+   "era": "industrial",
+   "file": "eras/industrial/001105-ber-1887-20-372-action-phenylhydrazine.md",
+   "at": "2026-09-09T14:17:12+00:00"
   }
  ]
 }
