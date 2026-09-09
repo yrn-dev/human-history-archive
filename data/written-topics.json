@@ -1,5 +1,5 @@
 {
- "count": 1048,
+ "count": 1049,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7336,6 +7336,13 @@
    "era": "modern",
    "file": "eras/modern/001049-population-administration---the-population-ayrshire-1891.md",
    "at": "2026-09-09T03:08:04+00:00"
+  },
+  {
+   "slug": "4467-saltcoats-8120-stevenston-6554-stewarton-2858-troon",
+   "title": "(4467), Saltcoats (8120), Stevenston (6554), Stewarton (2858), Troon",
+   "era": "industrial",
+   "file": "eras/industrial/001050-4467-saltcoats-8120-stevenston-6554-stewarton-2858-troon.md",
+   "at": "2026-09-09T03:17:31+00:00"
   }
  ]
 }
