@@ -1,5 +1,5 @@
 {
- "count": 1056,
+ "count": 1057,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7392,6 +7392,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/001057-john-smith-prehistoric-man-ayrshire-london-1895-william.md",
    "at": "2026-09-09T04:30:58+00:00"
+  },
+  {
+   "slug": "london-1868-went-out-bengal-service-indian",
+   "title": "London, and in 1868 went out to Bengal in the service of the Indian",
+   "era": "industrial",
+   "file": "eras/industrial/001058-london-1868-went-out-bengal-service-indian.md",
+   "at": "2026-09-09T04:37:13+00:00"
   }
  ]
 }
