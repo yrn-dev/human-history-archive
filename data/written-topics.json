@@ -1,5 +1,5 @@
 {
- "count": 1102,
+ "count": 1103,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7714,6 +7714,13 @@
    "era": "industrial",
    "file": "eras/industrial/001103-ortho-oxyazobenzene-c6h5n-c6h4-oh-obtained-small.md",
    "at": "2026-09-09T13:47:35+00:00"
+  },
+  {
+   "slug": "1903-jacobson-ber-1903-36-4093-condensing",
+   "title": "1903 by P. Jacobson (Ber., 1903, 36, p. 4093) by condensing",
+   "era": "modern",
+   "file": "eras/modern/001104-1903-jacobson-ber-1903-36-4093-condensing.md",
+   "at": "2026-09-09T13:56:43+00:00"
   }
  ]
 }
