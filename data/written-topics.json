@@ -1,5 +1,5 @@
 {
- "count": 1076,
+ "count": 1077,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7532,6 +7532,13 @@
    "era": "modern",
    "file": "eras/modern/001077-following-some-well-known-species---a-arborescens.md",
    "at": "2026-09-09T08:16:54+00:00"
+  },
+  {
+   "slug": "azamgarh-azimgarh-city-district-british-india",
+   "title": "AZAMGARH, or AZIMGARH, a city and district of British India, in the",
+   "era": "industrial",
+   "file": "eras/industrial/001078-azamgarh-azimgarh-city-district-british-india.md",
+   "at": "2026-09-09T08:36:56+00:00"
   }
  ]
 }
