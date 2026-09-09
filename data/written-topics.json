@@ -1,5 +1,5 @@
 {
- "count": 1132,
+ "count": 1133,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7924,6 +7924,13 @@
    "era": "modern",
    "file": "eras/modern/001133-brown-london-1901-fauna-flora-islands.md",
    "at": "2026-09-09T18:56:28+00:00"
+  },
+  {
+   "slug": "paris-1861-mollusques-marins-des-iles-acores-1858-lettres",
+   "title": "(Paris, 1861); Mollusques marins des iles Acores (1858), Lettres",
+   "era": "industrial",
+   "file": "eras/industrial/001134-paris-1861-mollusques-marins-des-iles-acores-1858-lettres.md",
+   "at": "2026-09-09T19:06:26+00:00"
   }
  ]
 }
