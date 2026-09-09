@@ -1,5 +1,5 @@
 {
- "count": 1110,
+ "count": 1111,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7770,6 +7770,13 @@
    "era": "modern",
    "file": "eras/modern/001111-noelting-grandmougin-berichte-1891-24-2546-obtained.md",
    "at": "2026-09-09T15:16:32+00:00"
+  },
+  {
+   "slug": "browne-amer-chem-soc-1905-25-251-ammonium",
+   "title": "Browne, J. Amer. Chem. Soc., 1905, 25, p. 251), or by ammonium",
+   "era": "modern",
+   "file": "eras/modern/001112-browne-amer-chem-soc-1905-25-251-ammonium.md",
+   "at": "2026-09-09T15:26:45+00:00"
   }
  ]
 }
