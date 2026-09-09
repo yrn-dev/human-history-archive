@@ -1,5 +1,5 @@
 {
- "count": 1119,
+ "count": 1120,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7833,6 +7833,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/001120-weather-often-extremely-stormy-winds-west.md",
    "at": "2026-09-09T16:46:47+00:00"
+  },
+  {
+   "slug": "michael-said-400-000-destroyed-several",
+   "title": "Michael's, and it is said that over 400,000 were destroyed in several",
+   "era": "ancient",
+   "file": "eras/ancient/001121-michael-said-400-000-destroyed-several.md",
+   "at": "2026-09-09T16:56:42+00:00"
   }
  ]
 }
