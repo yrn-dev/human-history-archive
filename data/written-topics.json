@@ -1,5 +1,5 @@
 {
- "count": 1104,
+ "count": 1105,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7728,6 +7728,13 @@
    "era": "industrial",
    "file": "eras/industrial/001105-ber-1887-20-372-action-phenylhydrazine.md",
    "at": "2026-09-09T14:17:12+00:00"
+  },
+  {
+   "slug": "azoxy-compounds-usually-yellow-red-crystalline",
+   "title": "Azoxy Compounds, R.[=N.O.N].R', are usually yellow or red crystalline",
+   "era": "modern",
+   "file": "eras/modern/001106-azoxy-compounds-usually-yellow-red-crystalline.md",
+   "at": "2026-09-09T14:26:33+00:00"
   }
  ]
 }
