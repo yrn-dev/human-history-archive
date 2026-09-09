@@ -1,5 +1,5 @@
 {
- "count": 1079,
+ "count": 1080,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7553,6 +7553,13 @@
    "era": "modern",
    "file": "eras/modern/001080-1901-population-529-785-showing-decrease-11.md",
    "at": "2026-09-09T08:57:36+00:00"
+  },
+  {
+   "slug": "arabic-announcement-call-summons-public",
+   "title": "A[Z.][=A]N (Arabic for \"announcement\"), the call or summons to public",
+   "era": "cultures",
+   "file": "eras/cultures/001081-arabic-announcement-call-summons-public.md",
+   "at": "2026-09-09T09:07:07+00:00"
   }
  ]
 }
