@@ -1,5 +1,5 @@
 {
- "count": 1060,
+ "count": 1061,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7420,6 +7420,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001061-ayscue-erroneously-askew-ayscough-sir-george-1671-british.md",
    "at": "2026-09-09T05:07:37+00:00"
+  },
+  {
+   "slug": "his-flagship-prince-royal-taken-third-day-he",
+   "title": "His flagship, the \"Prince Royal,\" was taken on the third day, and he",
+   "era": "modern",
+   "file": "eras/modern/001062-his-flagship-prince-royal-taken-third-day-he.md",
+   "at": "2026-09-09T05:17:12+00:00"
   }
  ]
 }
