@@ -1,5 +1,5 @@
 {
- "count": 1111,
+ "count": 1112,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7777,6 +7777,13 @@
    "era": "modern",
    "file": "eras/modern/001112-browne-amer-chem-soc-1905-25-251-ammonium.md",
    "at": "2026-09-09T15:26:45+00:00"
+  },
+  {
+   "slug": "ammonium-azoimide-n3-nh4-may-prepared-boiling-diazohippuramide",
+   "title": "Ammonium azoimide, N3.NH4, may be prepared by boiling diazohippuramide",
+   "era": "industrial",
+   "file": "eras/industrial/001113-ammonium-azoimide-n3-nh4-may-prepared-boiling-diazohippuramide.md",
+   "at": "2026-09-09T15:36:30+00:00"
   }
  ]
 }
