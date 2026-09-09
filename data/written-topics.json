@@ -1,5 +1,5 @@
 {
- "count": 1078,
+ "count": 1079,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7546,6 +7546,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/001079-area-district-2207-sq-bounded.md",
    "at": "2026-09-09T08:47:05+00:00"
+  },
+  {
+   "slug": "1901-population-529-785-showing-decrease-11",
+   "title": "In 1901 the population was 1,529,785, showing a decrease of 11% in the",
+   "era": "modern",
+   "file": "eras/modern/001080-1901-population-529-785-showing-decrease-11.md",
+   "at": "2026-09-09T08:57:36+00:00"
   }
  ]
 }
