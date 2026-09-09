@@ -1,5 +1,5 @@
 {
- "count": 1055,
+ "count": 1056,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7385,6 +7385,13 @@
    "era": "ancient",
    "file": "eras/ancient/001056-see-james-paterson-history-county-ayr-transactions.md",
    "at": "2026-09-09T04:20:20+00:00"
+  },
+  {
+   "slug": "john-smith-prehistoric-man-ayrshire-london-1895-william",
+   "title": "John Smith, Prehistoric Man in Ayrshire (London, 1895); William",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/001057-john-smith-prehistoric-man-ayrshire-london-1895-william.md",
+   "at": "2026-09-09T04:30:58+00:00"
   }
  ]
 }
