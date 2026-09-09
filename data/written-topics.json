@@ -1,5 +1,5 @@
 {
- "count": 1086,
+ "count": 1087,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7602,6 +7602,13 @@
    "era": "ancient",
    "file": "eras/ancient/001087-jehoiada-priest-chron-xxiii-11-son-hilkiah.md",
    "at": "2026-09-09T10:07:22+00:00"
+  },
+  {
+   "slug": "outbreak-first-war-independence-azeglio-donned",
+   "title": "On the outbreak of the first war of independence, d'Azeglio donned the",
+   "era": "modern",
+   "file": "eras/modern/001088-outbreak-first-war-independence-azeglio-donned.md",
+   "at": "2026-09-09T10:48:25+00:00"
   }
  ]
 }
