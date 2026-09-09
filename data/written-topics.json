@@ -1,5 +1,5 @@
 {
- "count": 1049,
+ "count": 1050,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7343,6 +7343,13 @@
    "era": "industrial",
    "file": "eras/industrial/001050-4467-saltcoats-8120-stevenston-6554-stewarton-2858-troon.md",
    "at": "2026-09-09T03:17:31+00:00"
+  },
+  {
+   "slug": "addition-grants-earned-schools-county-borough",
+   "title": "In addition to grants earned by the schools, the county and borough",
+   "era": "modern",
+   "file": "eras/modern/001051-addition-grants-earned-schools-county-borough.md",
+   "at": "2026-09-09T03:27:42+00:00"
   }
  ]
 }
