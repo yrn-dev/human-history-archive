@@ -1,5 +1,5 @@
 {
- "count": 1136,
+ "count": 1137,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7952,6 +7952,13 @@
    "era": "ancient",
    "file": "eras/ancient/001137-romans-known-palus-maeotis-name.md",
    "at": "2026-09-09T19:36:29+00:00"
+  },
+  {
+   "slug": "aztecs-nahuatl-word-aztlan-place-heron-heron",
+   "title": "AZTECS (from the Nahuatl word aztlan, \"place of the Heron,\" or \"Heron\"",
+   "era": "cultures",
+   "file": "eras/cultures/001138-aztecs-nahuatl-word-aztlan-place-heron-heron.md",
+   "at": "2026-09-09T19:46:14+00:00"
   }
  ]
 }
