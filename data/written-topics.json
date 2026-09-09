@@ -1,5 +1,5 @@
 {
- "count": 1098,
+ "count": 1099,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7686,6 +7686,13 @@
    "era": "industrial",
    "file": "eras/industrial/001099-ber-1897-30-pp-2111-2899-1900-33-2116-alkylated.md",
    "at": "2026-09-09T12:58:51+00:00"
+  },
+  {
+   "slug": "3089-considers-oxyazo-compounds-classed",
+   "title": "3089) considers that the oxyazo compounds are to be classed as",
+   "era": "modern",
+   "file": "eras/modern/001100-3089-considers-oxyazo-compounds-classed.md",
+   "at": "2026-09-09T13:17:52+00:00"
   }
  ]
 }
