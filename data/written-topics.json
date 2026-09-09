@@ -1,5 +1,5 @@
 {
- "count": 1047,
+ "count": 1048,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7329,6 +7329,13 @@
    "era": "industrial",
    "file": "eras/industrial/001048-communications---the-glasgow-south-western-railway-owns-most.md",
    "at": "2026-09-09T02:58:06+00:00"
+  },
+  {
+   "slug": "population-administration---the-population-ayrshire-1891",
+   "title": "Population and Administration.--The population of Ayrshire in 1891 was",
+   "era": "modern",
+   "file": "eras/modern/001049-population-administration---the-population-ayrshire-1891.md",
+   "at": "2026-09-09T03:08:04+00:00"
   }
  ]
 }
