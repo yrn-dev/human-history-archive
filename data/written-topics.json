@@ -1,5 +1,5 @@
 {
- "count": 1096,
+ "count": 1097,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7672,6 +7672,13 @@
    "era": "modern",
    "file": "eras/modern/001097-amino-azo-benzene-c6h5-n2-c6h4nh2-crystallizes-yellow.md",
    "at": "2026-09-09T12:28:16+00:00"
+  },
+  {
+   "slug": "triamino-azo-benzene-meta-aminobenzene-azo-meta-phenylene-diamine",
+   "title": "Triamino-azo-benzene (meta-aminobenzene-azo-meta-phenylene diamine or",
+   "era": "industrial",
+   "file": "eras/industrial/001098-triamino-azo-benzene-meta-aminobenzene-azo-meta-phenylene-diamine.md",
+   "at": "2026-09-09T12:37:04+00:00"
   }
  ]
 }
