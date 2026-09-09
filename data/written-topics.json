@@ -1,5 +1,5 @@
 {
- "count": 1158,
+ "count": 1159,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8106,6 +8106,13 @@
    "era": "industrial",
    "file": "eras/industrial/001159-lehre-baader-1836-grundzuege-der-societaets-philosophie-franz.md",
    "at": "2026-09-09T23:26:23+00:00"
+  },
+  {
+   "slug": "baader-1837-philosophische-schriften-vols-1868-1872-die",
+   "title": "Baader's (1837); Philosophische Schriften (3 vols., 1868-1872); Die",
+   "era": "industrial",
+   "file": "eras/industrial/001160-baader-1837-philosophische-schriften-vols-1868-1872-die.md",
+   "at": "2026-09-09T23:36:12+00:00"
   }
  ]
 }
