@@ -1,5 +1,5 @@
 {
- "count": 1038,
+ "count": 1039,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7266,6 +7266,13 @@
    "era": "industrial",
    "file": "eras/industrial/001039-1817-cohn-shakespeare-germany-1885-which-contains.md",
    "at": "2026-09-09T01:29:19+00:00"
+  },
+  {
+   "slug": "lanarkshire-dumfriesshire-03-0075",
+   "title": "E. by Lanarkshire and Dumfriesshire, S.E. by [v.03 p.0075]",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001040-lanarkshire-dumfriesshire-03-0075.md",
+   "at": "2026-09-09T01:39:00+00:00"
   }
  ]
 }
