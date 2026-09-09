@@ -1,5 +1,5 @@
 {
- "count": 1044,
+ "count": 1045,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7308,6 +7308,13 @@
    "era": "industrial",
    "file": "eras/industrial/001045-cheddar-cheese-first-rate-quality-now-made-ayrshire.md",
    "at": "2026-09-09T02:28:38+00:00"
+  },
+  {
+   "slug": "other-industries---ayrshire-principal-mining-county-scotland",
+   "title": "Other Industries.--Ayrshire is the principal mining county in Scotland",
+   "era": "industrial",
+   "file": "eras/industrial/001046-other-industries---ayrshire-principal-mining-county-scotland.md",
+   "at": "2026-09-09T02:39:50+00:00"
   }
  ]
 }
