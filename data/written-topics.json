@@ -1,5 +1,5 @@
 {
- "count": 1099,
+ "count": 1100,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7693,6 +7693,13 @@
    "era": "modern",
    "file": "eras/modern/001100-3089-considers-oxyazo-compounds-classed.md",
    "at": "2026-09-09T13:17:52+00:00"
+  },
+  {
+   "slug": "hewitt-jour-chem-soc-1900-77-pp-99-et-seq-nitrated",
+   "title": "Hewitt (Jour. Chem. Soc., 1900, 77, pp. 99 et seq.) nitrated",
+   "era": "industrial",
+   "file": "eras/industrial/001101-hewitt-jour-chem-soc-1900-77-pp-99-et-seq-nitrated.md",
+   "at": "2026-09-09T13:28:25+00:00"
   }
  ]
 }
