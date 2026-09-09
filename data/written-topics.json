@@ -1,5 +1,5 @@
 {
- "count": 1059,
+ "count": 1060,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7413,6 +7413,13 @@
    "era": "industrial",
    "file": "eras/industrial/001060-gentleman-magazine-1790-first-index-concordance.md",
    "at": "2026-09-09T04:57:28+00:00"
+  },
+  {
+   "slug": "ayscue-erroneously-askew-ayscough-sir-george-1671-british",
+   "title": "AYSCUE (erroneously ASKEW or AYSCOUGH), SIR GEORGE (d. 1671), British",
+   "era": "renaissance",
+   "file": "eras/renaissance/001061-ayscue-erroneously-askew-ayscough-sir-george-1671-british.md",
+   "at": "2026-09-09T05:07:37+00:00"
   }
  ]
 }
