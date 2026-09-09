@@ -1,5 +1,5 @@
 {
- "count": 1159,
+ "count": 1160,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8113,6 +8113,13 @@
    "era": "industrial",
    "file": "eras/industrial/001160-baader-1837-philosophische-schriften-vols-1868-1872-die.md",
    "at": "2026-09-09T23:36:12+00:00"
+  },
+  {
+   "slug": "583-636-claassen-franz-von-baaders-leben-und-theosophische-werke",
+   "title": "583-636; J. Claassen, Franz von Baaders Leben und theosophische Werke",
+   "era": "modern",
+   "file": "eras/modern/001161-583-636-claassen-franz-von-baaders-leben-und-theosophische-werke.md",
+   "at": "2026-09-09T23:46:16+00:00"
   }
  ]
 }
