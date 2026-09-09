@@ -1,5 +1,5 @@
 {
- "count": 1097,
+ "count": 1098,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7679,6 +7679,13 @@
    "era": "industrial",
    "file": "eras/industrial/001098-triamino-azo-benzene-meta-aminobenzene-azo-meta-phenylene-diamine.md",
    "at": "2026-09-09T12:37:04+00:00"
+  },
+  {
+   "slug": "ber-1897-30-pp-2111-2899-1900-33-2116-alkylated",
+   "title": "(Ber., 1897, 30, pp. 2111, 2899; 1900, 33, p. 2116). Alkylated",
+   "era": "industrial",
+   "file": "eras/industrial/001099-ber-1897-30-pp-2111-2899-1900-33-2116-alkylated.md",
+   "at": "2026-09-09T12:58:51+00:00"
   }
  ]
 }
