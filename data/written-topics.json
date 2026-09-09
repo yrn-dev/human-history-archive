@@ -1,5 +1,5 @@
 {
- "count": 1130,
+ "count": 1131,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7910,6 +7910,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001131-1580-1640-they-subject-like-rest-portuguese.md",
    "at": "2026-09-09T18:36:28+00:00"
+  },
+  {
+   "slug": "general-account-islands-see-azores-walker",
+   "title": "For a general account of the islands, see The Azores, by W. F. Walker",
+   "era": "ancient",
+   "file": "eras/ancient/001132-general-account-islands-see-azores-walker.md",
+   "at": "2026-09-09T18:46:28+00:00"
   }
  ]
 }
