@@ -1,5 +1,5 @@
 {
- "count": 1091,
+ "count": 1092,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7637,6 +7637,13 @@
    "era": "ancient",
    "file": "eras/ancient/001092-50--60-fold-water-purpose-supplied.md",
    "at": "2026-09-09T11:27:02+00:00"
+  },
+  {
+   "slug": "azimuth-arabic-astronomy-angular-distance",
+   "title": "AZIMUTH (from the Arabic), in astronomy, the angular distance from the",
+   "era": "cultures",
+   "file": "eras/cultures/001093-azimuth-arabic-astronomy-angular-distance.md",
+   "at": "2026-09-09T11:46:55+00:00"
   }
  ]
 }
