@@ -1,5 +1,5 @@
 {
- "count": 1118,
+ "count": 1119,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7826,6 +7826,13 @@
    "era": "modern",
    "file": "eras/modern/001119-climate---the-climate-particularly-temperate-but-extremes.md",
    "at": "2026-09-09T16:36:48+00:00"
+  },
+  {
+   "slug": "weather-often-extremely-stormy-winds-west",
+   "title": "The weather is often extremely stormy, and the winds from the west and",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001120-weather-often-extremely-stormy-winds-west.md",
+   "at": "2026-09-09T16:46:47+00:00"
   }
  ]
 }
