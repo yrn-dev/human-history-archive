@@ -1,5 +1,5 @@
 {
- "count": 1114,
+ "count": 1115,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7798,6 +7798,13 @@
    "era": "industrial",
    "file": "eras/industrial/001115-chloroazoimide-cl-n3-chloride-corresponding-azoimide.md",
    "at": "2026-09-09T15:56:35+00:00"
+  },
+  {
+   "slug": "azores-acores-western-islands-archipelago-atlantic",
+   "title": "AZORES (Acores), or WESTERN ISLANDS, an archipelago in the Atlantic",
+   "era": "cultures",
+   "file": "eras/cultures/001116-azores-acores-western-islands-archipelago-atlantic.md",
+   "at": "2026-09-09T16:07:11+00:00"
   }
  ]
 }
