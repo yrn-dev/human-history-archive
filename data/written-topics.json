@@ -1,5 +1,5 @@
 {
- "count": 1058,
+ "count": 1059,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7406,6 +7406,13 @@
    "era": "industrial",
    "file": "eras/industrial/001059-government-telegraph-department-1873-he-appointed-professor.md",
    "at": "2026-09-09T04:47:05+00:00"
+  },
+  {
+   "slug": "gentleman-magazine-1790-first-index-concordance",
+   "title": "Gentleman's Magazine, and in 1790 the first index-concordance to",
+   "era": "industrial",
+   "file": "eras/industrial/001060-gentleman-magazine-1790-first-index-concordance.md",
+   "at": "2026-09-09T04:57:28+00:00"
   }
  ]
 }
