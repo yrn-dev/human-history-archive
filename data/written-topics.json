@@ -1,5 +1,5 @@
 {
- "count": 1146,
+ "count": 1147,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8022,6 +8022,13 @@
    "era": "ancient",
    "file": "eras/ancient/001147-greek-new-symbol-which-occupies-second-position-made.md",
    "at": "2026-09-09T21:16:14+00:00"
+  },
+  {
+   "slug": "like-some-other-alphabetic-symbols-not-borrowed-greek",
+   "title": "Like some other alphabetic symbols it was not borrowed by Greek in its",
+   "era": "ancient",
+   "file": "eras/ancient/001148-like-some-other-alphabetic-symbols-not-borrowed-greek.md",
+   "at": "2026-09-09T21:26:26+00:00"
   }
  ]
 }
