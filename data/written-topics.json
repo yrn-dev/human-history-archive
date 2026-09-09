@@ -1,5 +1,5 @@
 {
- "count": 1064,
+ "count": 1065,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7448,6 +7448,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001065-aytoun-latin-poems-printed-delitiae-poetarum-scotorum.md",
    "at": "2026-09-09T05:47:44+00:00"
+  },
+  {
+   "slug": "aytoun-some-english-poems-printed-watson-collection",
+   "title": "Aytoun's. Some of the English poems are printed in Watson's Collection",
+   "era": "renaissance",
+   "file": "eras/renaissance/001066-aytoun-some-english-poems-printed-watson-collection.md",
+   "at": "2026-09-09T05:57:43+00:00"
   }
  ]
 }
