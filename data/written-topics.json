@@ -1,5 +1,5 @@
 {
- "count": 1077,
+ "count": 1078,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7539,6 +7539,13 @@
    "era": "industrial",
    "file": "eras/industrial/001078-azamgarh-azimgarh-city-district-british-india.md",
    "at": "2026-09-09T08:36:56+00:00"
+  },
+  {
+   "slug": "area-district-2207-sq-bounded",
+   "title": "The area of the district is 2207 sq. m. It is bounded on the N. by the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001079-area-district-2207-sq-bounded.md",
+   "at": "2026-09-09T08:47:05+00:00"
   }
  ]
 }
