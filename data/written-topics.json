@@ -1,5 +1,5 @@
 {
- "count": 1037,
+ "count": 1038,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7259,6 +7259,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001038-ayrers-dramen-edited-von-keller-been-published.md",
    "at": "2026-09-09T01:20:50+00:00"
+  },
+  {
+   "slug": "1817-cohn-shakespeare-germany-1885-which-contains",
+   "title": "(1817); A. Cohn, Shakespeare in Germany (1885), which contains a",
+   "era": "industrial",
+   "file": "eras/industrial/001039-1817-cohn-shakespeare-germany-1885-which-contains.md",
+   "at": "2026-09-09T01:29:19+00:00"
   }
  ]
 }
