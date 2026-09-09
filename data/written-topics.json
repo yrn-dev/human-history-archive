@@ -1,5 +1,5 @@
 {
- "count": 1100,
+ "count": 1101,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7700,6 +7700,13 @@
    "era": "industrial",
    "file": "eras/industrial/001101-hewitt-jour-chem-soc-1900-77-pp-99-et-seq-nitrated.md",
    "at": "2026-09-09T13:28:25+00:00"
+  },
+  {
+   "slug": "para-oxyazobenzene-benzene-azo-phenol-c6h5n-c6h4-oh",
+   "title": "Para-oxyazobenzene (benzene-azo-phenol), C6H5N:N(1).C6H4.OH(4), is",
+   "era": "industrial",
+   "file": "eras/industrial/001102-para-oxyazobenzene-benzene-azo-phenol-c6h5n-c6h4-oh.md",
+   "at": "2026-09-09T13:37:03+00:00"
   }
  ]
 }
