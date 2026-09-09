@@ -1,5 +1,5 @@
 {
- "count": 1061,
+ "count": 1062,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7427,6 +7427,13 @@
    "era": "modern",
    "file": "eras/modern/001062-his-flagship-prince-royal-taken-third-day-he.md",
    "at": "2026-09-09T05:17:12+00:00"
+  },
+  {
+   "slug": "aytoun-ayton-sir-robert-1570-1638-scottish-poet-son-andrew",
+   "title": "AYTOUN, or AYTON, SIR ROBERT (1570-1638), Scottish poet, son of Andrew",
+   "era": "renaissance",
+   "file": "eras/renaissance/001063-aytoun-ayton-sir-robert-1570-1638-scottish-poet-son-andrew.md",
+   "at": "2026-09-09T05:29:43+00:00"
   }
  ]
 }
