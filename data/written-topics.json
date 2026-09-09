@@ -1,5 +1,5 @@
 {
- "count": 1101,
+ "count": 1102,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7707,6 +7707,13 @@
    "era": "industrial",
    "file": "eras/industrial/001102-para-oxyazobenzene-benzene-azo-phenol-c6h5n-c6h4-oh.md",
    "at": "2026-09-09T13:37:03+00:00"
+  },
+  {
+   "slug": "ortho-oxyazobenzene-c6h5n-c6h4-oh-obtained-small",
+   "title": "Ortho-oxyazobenzene, C6H5N:N(1)C6H4.OH(2), was obtained in small",
+   "era": "industrial",
+   "file": "eras/industrial/001103-ortho-oxyazobenzene-c6h5n-c6h4-oh-obtained-small.md",
+   "at": "2026-09-09T13:47:35+00:00"
   }
  ]
 }
