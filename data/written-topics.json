@@ -1,5 +1,5 @@
 {
- "count": 1143,
+ "count": 1144,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8001,6 +8001,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001144-lisbon-1792-chronica-do-conde-duarte-de-menezes-printed.md",
    "at": "2026-09-09T20:46:24+00:00"
+  },
+  {
+   "slug": "azure-derived-through-romance-languages-arabic",
+   "title": "AZURE (derived, through the Romance languages, from the Arabic",
+   "era": "cultures",
+   "file": "eras/cultures/001145-azure-derived-through-romance-languages-arabic.md",
+   "at": "2026-09-09T20:56:18+00:00"
   }
  ]
 }
