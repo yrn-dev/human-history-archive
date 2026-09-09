@@ -1,0 +1,24 @@
+# Bengal and Associated Anglo-Indian Figures
+
+## Regional Administration and Geography
+Bengal is a province of India characterized by a complex infrastructure and a history of administrative shifts. The region is well-supplied with railways, centered around the seaport of Calcutta. To the south of the Ganges, the East Indian railway runs from the North-Western Provinces to its terminus at Howrah on the Hugli, opposite Calcutta; this line is operated economically due to a chord line passing through the Raniganj coalfield. Other major lines include the Bengal-Nagpur, which also terminates at Howrah, and the Eastern Bengal railway, which runs north to Darjeeling and operates river steamers on the Brahmaputra. The Bengal Central serves the lower Gangetic delta, with both it and the Eastern Bengal terminating at Sealdah, a suburb of Calcutta. Additionally, the Bengal & North-Western traverses Northern Behar, extending through Tirhoot to connect with the Eastern Bengal.
+
+A significant administrative event occurred in October 1905 when Lord Curzon executed the partition of the province. This decision led to serious popular agitation. Opponents argued that the Bengali population, whose prosperity and interests were centered in Calcutta, would be divided under two governments rather than remaining numerically dominant under one. This unrest continued through 1906-1909, requiring attention from both the home and Indian governments.
+
+## Notable Figures in Bengal Service
+Various English professionals and officials served in Bengal across different sectors:
+
+*   **William Edward Ayrton (1847-1908):** A physicist born in London and educated at University College, London. In 1868, he entered the service of the Indian Government Telegraph department in Bengal. He later became a professor of physics and telegraphy in Tokio (1873) and held professorships in London at the Finsbury College of the City and Guilds of London Technical Institute and the Central Technical College, South Kensington. He is noted for inventing electrical measuring instruments alongside Professor John Perry.
+*   **H. Yule:** After a period as a student at University College, London, Yule joined the East India Company’s Military College at Addiscombe in February 1837. He was appointed to the Bengal Engineers and served for twenty-three years. His work included contributions to the *Journal Asiatic Society, Bengal*, covering topics such as Buddhist remains at Pagân (1857), antiquities near Jubbulpoor (1861), and Indian remains in Java (1862).
+*   **Sir Alfred Comyn Lyall (1835- ):** An Anglo-Indian civil servant who entered the Bengal civil service in 1855. He served in the Bulandshahr district, at Meerut, and with the Khaki Risala of volunteers during the Mutiny. His career included roles as commissioner in Berar (1867), lieutenant-governor of the North-western Provinces (1882-1887), and member of the Council of India (1888-1903).
+
+## Landownership and Philanthropy in Behar
+The Darbhanga raj, which encompasses large portions of the modern districts of Bhagalpur, Purnea, Monghyr, Muzaffarpur, and Darbhanga, was received from Emperor Akbar in the early 16th century by Mahesh Thakor. Maharaja Lachhmeswar Singh Bahadur, who ruled from 1860 to 1898, was a prominent philanthropist and member of the viceroy's legislative council. He is credited with constructing irrigation works, bridging rivers, and building hundreds of miles of tree-planted roads. During the Bengal famine of 1873-1874, he contributed £300,000 for relief, and his total expenditure on charities and public utility is estimated at £2,000,000. He also represented the landowners of Bengal and Berar during discussions on the Bengal Tenancy Bill. He was succeeded in 1898 by his brother, Maharaja Rameshwar Singh Bahadur, who had served as an assistant magistrate in Bhagalpur, Chhapra, and Darbhanga.
+
+## Cartography and Documentation
+The mapping of the region was advanced by James Rennell (1742-1830), the surveyor-general of India, who published the *Bengal Atlas* in 1781. This work organized extensive information gathered by British travellers and others in Africa and India. Other historical records of the region include the *Ethnology of Bengal* (1872) by Colonel E.T. Dalton, the *Annals of Rural Bengal* (1868) by Sir W.W. Hunter, and *Tribes and Castes of Bengal* (1891) by Sir H.H. Risley.
+
+## Sources
+Compiled from: britannica11 vol02a austria lower to bacon, britannica11 vol04b bedlam to benson, the travels of marco polo v1, britannica11 vol08b duebner to dyeing, britannica11 vol17b luray cavern to mackinac, britannica11 vol04c bible to bisectrix, britannica11 vol17c map to mars, britannica11 vol08a dagupan to david
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
