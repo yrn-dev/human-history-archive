@@ -1,5 +1,5 @@
 {
- "count": 1054,
+ "count": 1055,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7378,6 +7378,13 @@
    "era": "modern",
    "file": "eras/modern/001055-1660-1688-sympathies-county-almost-wholly.md",
    "at": "2026-09-09T04:09:56+00:00"
+  },
+  {
+   "slug": "see-james-paterson-history-county-ayr-transactions",
+   "title": "See James Paterson, \"History of the County of Ayr.\" Transactions of",
+   "era": "ancient",
+   "file": "eras/ancient/001056-see-james-paterson-history-county-ayr-transactions.md",
+   "at": "2026-09-09T04:20:20+00:00"
   }
  ]
 }
