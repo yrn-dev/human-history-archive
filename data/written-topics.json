@@ -1,5 +1,5 @@
 {
- "count": 1063,
+ "count": 1064,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -7441,6 +7441,13 @@
    "era": "ancient",
    "file": "eras/ancient/001064-charidora-which-he-refers-his-latin-panegyric-james-he.md",
    "at": "2026-09-09T05:38:44+00:00"
+  },
+  {
+   "slug": "aytoun-latin-poems-printed-delitiae-poetarum-scotorum",
+   "title": "Aytoun's Latin poems are printed in Delitiae Poetarum Scotorum",
+   "era": "renaissance",
+   "file": "eras/renaissance/001065-aytoun-latin-poems-printed-delitiae-poetarum-scotorum.md",
+   "at": "2026-09-09T05:47:44+00:00"
   }
  ]
 }
