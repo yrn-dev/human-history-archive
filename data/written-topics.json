@@ -1,5 +1,5 @@
 {
- "count": 1262,
+ "count": 1263,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8834,6 +8834,13 @@
    "era": "ancient",
    "file": "eras/ancient/001263-16-sin-ladanos-assur-bani-pal-22.md",
    "at": "2026-09-10T18:35:22+00:00"
+  },
+  {
+   "slug": "george-smith-aleppo-1876-expedition-sent-british",
+   "title": "George Smith at Aleppo in 1876, an expedition was sent by the British",
+   "era": "modern",
+   "file": "eras/modern/001264-george-smith-aleppo-1876-expedition-sent-british.md",
+   "at": "2026-09-10T18:45:12+00:00"
   }
  ]
 }
