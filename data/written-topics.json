@@ -1,5 +1,5 @@
 {
- "count": 1263,
+ "count": 1264,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8841,6 +8841,13 @@
    "era": "modern",
    "file": "eras/modern/001264-george-smith-aleppo-1876-expedition-sent-british.md",
    "at": "2026-09-10T18:45:12+00:00"
+  },
+  {
+   "slug": "shalmaneser-ii-858-latter-came-bronze-gates",
+   "title": "Shalmaneser II. (858 B.C.). From the latter came the bronze gates with",
+   "era": "ancient",
+   "file": "eras/ancient/001265-shalmaneser-ii-858-latter-came-bronze-gates.md",
+   "at": "2026-09-10T18:55:12+00:00"
   }
  ]
 }
