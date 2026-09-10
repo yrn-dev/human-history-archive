@@ -1,5 +1,5 @@
 {
- "count": 1199,
+ "count": 1200,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8393,6 +8393,13 @@
    "era": "modern",
    "file": "eras/modern/001200-history-vol-viii-adolf-schmidt-pariser-zustaende-wahrend-der.md",
    "at": "2026-09-10T07:05:47+00:00"
+  },
+  {
+   "slug": "1789-1800-vols-1880-1894-schmidt-tableaux-de-la-revolution",
+   "title": "1789-1800 (4 vols., 1880-1894); A. Schmidt, Tableaux de la Revolution",
+   "era": "modern",
+   "file": "eras/modern/001201-1789-1800-vols-1880-1894-schmidt-tableaux-de-la-revolution.md",
+   "at": "2026-09-10T07:16:01+00:00"
   }
  ]
 }
