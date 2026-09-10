@@ -1,5 +1,5 @@
 {
- "count": 1227,
+ "count": 1228,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8589,6 +8589,13 @@
    "era": "ancient",
    "file": "eras/ancient/001228-dissertation-fables-aesop-careful-examination-these.md",
    "at": "2026-09-10T12:35:38+00:00"
+  },
+  {
+   "slug": "ms-babrius-convent-st-laura-mount-athos-now",
+   "title": "MS. of Babrius in the convent of St Laura on Mount Athos, now in the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001229-ms-babrius-convent-st-laura-mount-athos-now.md",
+   "at": "2026-09-10T12:45:30+00:00"
   }
  ]
 }
