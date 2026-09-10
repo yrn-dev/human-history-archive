@@ -1,5 +1,5 @@
 {
- "count": 1266,
+ "count": 1267,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8862,6 +8862,13 @@
    "era": "modern",
    "file": "eras/modern/001267-another-german-expedition-large-scale-despatched.md",
    "at": "2026-09-10T19:15:13+00:00"
+  },
+  {
+   "slug": "orientgesellschaft-1899-object-exploring-ruins",
+   "title": "Orientgesellschaft in 1899 with the object of exploring the ruins of",
+   "era": "industrial",
+   "file": "eras/industrial/001268-orientgesellschaft-1899-object-exploring-ruins.md",
+   "at": "2026-09-10T19:25:09+00:00"
   }
  ]
 }
