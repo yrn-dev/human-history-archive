@@ -1,5 +1,5 @@
 {
- "count": 1200,
+ "count": 1201,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8400,6 +8400,13 @@
    "era": "modern",
    "file": "eras/modern/001201-1789-1800-vols-1880-1894-schmidt-tableaux-de-la-revolution.md",
    "at": "2026-09-10T07:16:01+00:00"
+  },
+  {
+   "slug": "gate-god-gate-religion-title-bab-understood",
+   "title": "\"Gate of God\" or \"Gate of Religion,\" that the title Bab was understood",
+   "era": "ancient",
+   "file": "eras/ancient/001202-gate-god-gate-religion-title-bab-understood.md",
+   "at": "2026-09-10T07:26:12+00:00"
   }
  ]
 }
