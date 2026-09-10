@@ -1,5 +1,5 @@
 {
- "count": 1224,
+ "count": 1225,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8568,6 +8568,13 @@
    "era": "cultures",
    "file": "eras/cultures/001225-lydekkeri-chacma-porcarius-cape-represent.md",
    "at": "2026-09-10T12:05:33+00:00"
+  },
+  {
+   "slug": "north-africa-arabia-dedicated-ancient-egyptians-god",
+   "title": "North Africa and Arabia, dedicated by the ancient Egyptians to the god",
+   "era": "ancient",
+   "file": "eras/ancient/001226-north-africa-arabia-dedicated-ancient-egyptians-god.md",
+   "at": "2026-09-10T12:15:37+00:00"
   }
  ]
 }
