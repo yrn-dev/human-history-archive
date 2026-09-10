@@ -1,5 +1,5 @@
 {
- "count": 1250,
+ "count": 1251,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8750,6 +8750,13 @@
    "era": "ancient",
    "file": "eras/ancient/001251-babylonia-assyria-geography---geographically-well.md",
    "at": "2026-09-10T16:35:29+00:00"
+  },
+  {
+   "slug": "arbela-all-left-bank-tigris-reason",
+   "title": "Arbela, were all on the left bank of the Tigris. The reason of this",
+   "era": "ancient",
+   "file": "eras/ancient/001252-arbela-all-left-bank-tigris-reason.md",
+   "at": "2026-09-10T16:45:22+00:00"
   }
  ]
 }
