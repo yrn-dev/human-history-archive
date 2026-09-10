@@ -1,5 +1,5 @@
 {
- "count": 1219,
+ "count": 1220,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8533,6 +8533,13 @@
    "era": "industrial",
    "file": "eras/industrial/001220-1858-bishop-pecock-repressor-overmuch-blaming-clergy.md",
    "at": "2026-09-10T11:15:32+00:00"
+  },
+  {
+   "slug": "lecture-archaeology-1865-roman-antiquities-found-rougham",
+   "title": "Lecture on Archaeology (1865); Roman Antiquities found at Rougham",
+   "era": "ancient",
+   "file": "eras/ancient/001221-lecture-archaeology-1865-roman-antiquities-found-rougham.md",
+   "at": "2026-09-10T11:26:32+00:00"
   }
  ]
 }
