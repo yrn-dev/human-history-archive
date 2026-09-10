@@ -1,5 +1,5 @@
 {
- "count": 1183,
+ "count": 1184,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8281,6 +8281,13 @@
    "era": "industrial",
    "file": "eras/industrial/001184-astronomical-1820-statistical-1834-societies-he-only-once.md",
    "at": "2026-09-10T04:05:56+00:00"
+  },
+  {
+   "slug": "genesis-169-cf-hommel-hastings-dictionary-bible",
+   "title": "(Genesis, p. 169; cf. Hommel in Hastings' Dictionary of the Bible)",
+   "era": "ancient",
+   "file": "eras/ancient/001185-genesis-169-cf-hommel-hastings-dictionary-bible.md",
+   "at": "2026-09-10T04:16:00+00:00"
   }
  ]
 }
