@@ -1,5 +1,5 @@
 {
- "count": 1216,
+ "count": 1217,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -8512,6 +8512,13 @@
    "era": "industrial",
    "file": "eras/industrial/001217-babington-churchill-1821-1889-english-classical-scholar.md",
    "at": "2026-09-10T10:25:45+00:00"
+  },
+  {
+   "slug": "behalf-lycophron-euxenippus-1853-his-funeral-oration",
+   "title": "Behalf of Lycophron and Euxenippus (1853), and his Funeral Oration",
+   "era": "ancient",
+   "file": "eras/ancient/001218-behalf-lycophron-euxenippus-1853-his-funeral-oration.md",
+   "at": "2026-09-10T10:45:50+00:00"
   }
  ]
 }
