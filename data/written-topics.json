@@ -1,5 +1,5 @@
 {
- "count": 1356,
+ "count": 1357,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9492,6 +9492,13 @@
    "era": "ancient",
    "file": "eras/ancient/001357-darius-restored-513.md",
    "at": "2026-09-11T11:24:34+00:00"
+  },
+  {
+   "slug": "destruction-nineveh-606",
+   "title": "Destruction of Nineveh             606",
+   "era": "ancient",
+   "file": "eras/ancient/001358-destruction-nineveh-606.md",
+   "at": "2026-09-11T11:34:32+00:00"
   }
  ]
 }
