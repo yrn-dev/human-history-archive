@@ -1,5 +1,5 @@
 {
- "count": 1322,
+ "count": 1323,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9254,6 +9254,13 @@
    "era": "ancient",
    "file": "eras/ancient/001323-1891-2399-2094-2094-1726-1726-1150.md",
    "at": "2026-09-11T05:14:56+00:00"
+  },
+  {
+   "slug": "lehmann-haupt-1898-2360-2057-2056-1689-1688-1113",
+   "title": "Lehmann-Haupt  (1898)      2360-2057       2056-1689        1688-1113",
+   "era": "ancient",
+   "file": "eras/ancient/001324-lehmann-haupt-1898-2360-2057-2056-1689-1688-1113.md",
+   "at": "2026-09-11T05:24:46+00:00"
   }
  ]
 }
