@@ -1,5 +1,5 @@
 {
- "count": 1378,
+ "count": 1379,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9646,6 +9646,13 @@
    "era": "modern",
    "file": "eras/modern/001379-tode-leipzig-1887-his-das-alte-testament-im-lichte-des-alten.md",
    "at": "2026-09-11T15:24:05+00:00"
+  },
+  {
+   "slug": "orients-2nd-ed-leipzig-1906-1907-babylonisches-im-neuen",
+   "title": "Orients (2nd ed., Leipzig, 1906-1907); and Babylonisches im Neuen",
+   "era": "ancient",
+   "file": "eras/ancient/001380-orients-2nd-ed-leipzig-1906-1907-babylonisches-im-neuen.md",
+   "at": "2026-09-11T15:34:19+00:00"
   }
  ]
 }
