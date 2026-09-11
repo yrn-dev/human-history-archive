@@ -1,5 +1,5 @@
 {
- "count": 1300,
+ "count": 1301,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9100,6 +9100,13 @@
    "era": "ancient",
    "file": "eras/ancient/001301-sippara-dated-fourth-year-assur-etil-ilani-though.md",
    "at": "2026-09-11T00:54:56+00:00"
+  },
+  {
+   "slug": "seat-empire-now-transferred-babylonia-nabopolassar",
+   "title": "The seat of empire was now transferred to Babylonia. Nabopolassar was",
+   "era": "ancient",
+   "file": "eras/ancient/001302-seat-empire-now-transferred-babylonia-nabopolassar.md",
+   "at": "2026-09-11T01:05:05+00:00"
   }
  ]
 }
