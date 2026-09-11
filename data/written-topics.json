@@ -1,5 +1,5 @@
 {
- "count": 1399,
+ "count": 1400,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9793,6 +9793,13 @@
    "era": "ancient",
    "file": "eras/ancient/001400-peiser-babylonische-vertrage-berlin-1890-keilinschriftliche.md",
    "at": "2026-09-11T18:53:53+00:00"
+  },
+  {
+   "slug": "privatrecht-leipzig-1893-peiser-texte-juristischen-und",
+   "title": "Privatrecht (Leipzig, 1893); F. E. Peiser, \"Texte juristischen und",
+   "era": "ancient",
+   "file": "eras/ancient/001401-privatrecht-leipzig-1893-peiser-texte-juristischen-und.md",
+   "at": "2026-09-11T19:04:07+00:00"
   }
  ]
 }
