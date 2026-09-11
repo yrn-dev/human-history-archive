@@ -1,5 +1,5 @@
 {
- "count": 1337,
+ "count": 1338,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9359,6 +9359,13 @@
    "era": "ancient",
    "file": "eras/ancient/001338-without-going-details-more-important-results-new.md",
    "at": "2026-09-11T08:05:31+00:00"
+  },
+  {
+   "slug": "dynasty-isin-capture-city-case-later",
+   "title": "Dynasty of Isin with this capture of the city. In that case the later",
+   "era": "ancient",
+   "file": "eras/ancient/001339-dynasty-isin-capture-city-case-later.md",
+   "at": "2026-09-11T08:14:59+00:00"
   }
  ]
 }
