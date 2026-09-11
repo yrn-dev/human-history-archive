@@ -1,5 +1,5 @@
 {
- "count": 1421,
+ "count": 1422,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9947,6 +9947,13 @@
    "era": "ancient",
    "file": "eras/ancient/001422-jurenka-1898-festa-text-translation-notes-1898.md",
    "at": "2026-09-11T22:53:42+00:00"
+  },
+  {
+   "slug": "(r.-c.-j.)",
+   "title": "(R. C. J.)",
+   "era": "modern",
+   "file": "eras/modern/001423-(r.-c.-j.).md",
+   "at": "2026-09-11T23:03:43+00:00"
   }
  ]
 }
