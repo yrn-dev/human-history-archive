@@ -1,5 +1,5 @@
 {
- "count": 1402,
+ "count": 1403,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9814,6 +9814,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001403-editio-princeps-scheil-tome-iv-textes.md",
    "at": "2026-09-11T19:23:56+00:00"
+  },
+  {
+   "slug": "leipzig-1904-harper-code-hammurabi-king-babylon",
+   "title": "(Leipzig, 1904); R. F. Harper, The Code of Hammurabi, King of Babylon",
+   "era": "ancient",
+   "file": "eras/ancient/001404-leipzig-1904-harper-code-hammurabi-king-babylon.md",
+   "at": "2026-09-11T19:33:59+00:00"
   }
  ]
 }
