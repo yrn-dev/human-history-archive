@@ -1,5 +1,5 @@
 {
- "count": 1342,
+ "count": 1343,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9394,6 +9394,13 @@
    "era": "ancient",
    "file": "eras/ancient/001343-usually-been-assigned-but-even-postulating-highest.md",
    "at": "2026-09-11T08:54:28+00:00"
+  },
+  {
+   "slug": "(l.-w.-k.)",
+   "title": "(L. W. K.)",
+   "era": "industrial",
+   "file": "eras/industrial/001344-(l.-w.-k.).md",
+   "at": "2026-09-11T09:04:33+00:00"
   }
  ]
 }
