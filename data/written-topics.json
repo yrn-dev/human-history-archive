@@ -1,5 +1,5 @@
 {
- "count": 1416,
+ "count": 1417,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9912,6 +9912,13 @@
    "era": "ancient",
    "file": "eras/ancient/001417-dithyramb-first-mentioned-archilochus-670-received.md",
    "at": "2026-09-11T21:53:54+00:00"
+  },
+  {
+   "slug": "papyrus-containing-odes-bacchylides-found-egypt",
+   "title": "The papyrus containing the odes of Bacchylides was found in Egypt by",
+   "era": "ancient",
+   "file": "eras/ancient/001418-papyrus-containing-odes-bacchylides-found-egypt.md",
+   "at": "2026-09-11T22:13:58+00:00"
   }
  ]
 }
