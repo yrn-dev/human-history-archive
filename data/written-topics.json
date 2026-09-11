@@ -1,5 +1,5 @@
 {
- "count": 1370,
+ "count": 1371,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9590,6 +9590,13 @@
    "era": "ancient",
    "file": "eras/ancient/001371-religion-babylonia-assyria-boston-1898-sayce.md",
    "at": "2026-09-11T13:54:13+00:00"
+  },
+  {
+   "slug": "mythology-london-1899-pinches-religion-babylonia",
+   "title": "Mythology (London, 1899); T. G. Pinches, Religion of Babylonia and",
+   "era": "ancient",
+   "file": "eras/ancient/001372-mythology-london-1899-pinches-religion-babylonia.md",
+   "at": "2026-09-11T14:04:34+00:00"
   }
  ]
 }
