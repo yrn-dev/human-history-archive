@@ -1,5 +1,5 @@
 {
- "count": 1375,
+ "count": 1376,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9625,6 +9625,13 @@
    "era": "modern",
    "file": "eras/modern/001376-paris-1894-1897-his-choix-de-textes-relatifs-la-divination.md",
    "at": "2026-09-11T14:44:12+00:00"
+  },
+  {
+   "slug": "astrological-astronomical-texts-leipzig-1892-martin-textes",
+   "title": "Astrological-Astronomical Texts (Leipzig, 1892); Martin, Textes",
+   "era": "ancient",
+   "file": "eras/ancient/001377-astrological-astronomical-texts-leipzig-1892-martin-textes.md",
+   "at": "2026-09-11T14:54:20+00:00"
   }
  ]
 }
