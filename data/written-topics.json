@@ -1,5 +1,5 @@
 {
- "count": 1400,
+ "count": 1401,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9800,6 +9800,13 @@
    "era": "ancient",
    "file": "eras/ancient/001401-privatrecht-leipzig-1893-peiser-texte-juristischen-und.md",
    "at": "2026-09-11T19:04:07+00:00"
+  },
+  {
+   "slug": "early-babylonian-history-new-york-1900-johns-babylonian",
+   "title": "Early Babylonian History (New York, 1900); C. H. W. Johns, Babylonian",
+   "era": "ancient",
+   "file": "eras/ancient/001402-early-babylonian-history-new-york-1900-johns-babylonian.md",
+   "at": "2026-09-11T19:14:02+00:00"
   }
  ]
 }
