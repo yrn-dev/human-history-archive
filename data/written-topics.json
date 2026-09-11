@@ -1,5 +1,5 @@
 {
- "count": 1355,
+ "count": 1356,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9485,6 +9485,13 @@
    "era": "ancient",
    "file": "eras/ancient/001356-end-22nd-dynasty.md",
    "at": "2026-09-11T11:14:29+00:00"
+  },
+  {
+   "slug": "darius-restored-513",
+   "title": "Darius restored                              513",
+   "era": "ancient",
+   "file": "eras/ancient/001357-darius-restored-513.md",
+   "at": "2026-09-11T11:24:34+00:00"
   }
  ]
 }
