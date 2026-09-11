@@ -1,5 +1,5 @@
 {
- "count": 1372,
+ "count": 1373,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9604,6 +9604,13 @@
    "era": "ancient",
    "file": "eras/ancient/001373-assyria-london-1906-special-texts-monographs-bearing.md",
    "at": "2026-09-11T14:14:28+00:00"
+  },
+  {
+   "slug": "reports-magicians-astrologers-nineveh-babylon",
+   "title": "The Reports of the Magicians and Astrologers of Nineveh and Babylon",
+   "era": "ancient",
+   "file": "eras/ancient/001374-reports-magicians-astrologers-nineveh-babylon.md",
+   "at": "2026-09-11T14:24:23+00:00"
   }
  ]
 }
