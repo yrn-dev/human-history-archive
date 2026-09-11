@@ -1,5 +1,5 @@
 {
- "count": 1398,
+ "count": 1399,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9786,6 +9786,13 @@
    "era": "ancient",
    "file": "eras/ancient/001399-bibliography---contracts-general-oppert-menant-documents.md",
    "at": "2026-09-11T18:44:04+00:00"
+  },
+  {
+   "slug": "peiser-babylonische-vertrage-berlin-1890-keilinschriftliche",
+   "title": "F. E. Peiser, Babylonische Vertrage (Berlin, 1890), Keilinschriftliche",
+   "era": "ancient",
+   "file": "eras/ancient/001400-peiser-babylonische-vertrage-berlin-1890-keilinschriftliche.md",
+   "at": "2026-09-11T18:53:53+00:00"
   }
  ]
 }
