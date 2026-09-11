@@ -1,5 +1,5 @@
 {
- "count": 1373,
+ "count": 1374,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9611,6 +9611,13 @@
    "era": "ancient",
    "file": "eras/ancient/001374-reports-magicians-astrologers-nineveh-babylon.md",
    "at": "2026-09-11T14:24:23+00:00"
+  },
+  {
+   "slug": "london-1900-boissier-documents-assyriens-relatifs-aux-presages",
+   "title": "(London, 1900); A. Boissier, Documents assyriens relatifs aux presages",
+   "era": "ancient",
+   "file": "eras/ancient/001375-london-1900-boissier-documents-assyriens-relatifs-aux-presages.md",
+   "at": "2026-09-11T14:34:27+00:00"
   }
  ]
 }
