@@ -1,5 +1,5 @@
 {
- "count": 1374,
+ "count": 1375,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9618,6 +9618,13 @@
    "era": "ancient",
    "file": "eras/ancient/001375-london-1900-boissier-documents-assyriens-relatifs-aux-presages.md",
    "at": "2026-09-11T14:34:27+00:00"
+  },
+  {
+   "slug": "paris-1894-1897-his-choix-de-textes-relatifs-la-divination",
+   "title": "(Paris, 1894-1897); and his Choix de textes relatifs a la divination",
+   "era": "modern",
+   "file": "eras/modern/001376-paris-1894-1897-his-choix-de-textes-relatifs-la-divination.md",
+   "at": "2026-09-11T14:44:12+00:00"
   }
  ]
 }
