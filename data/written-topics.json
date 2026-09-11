@@ -1,5 +1,5 @@
 {
- "count": 1401,
+ "count": 1402,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9807,6 +9807,13 @@
    "era": "ancient",
    "file": "eras/ancient/001402-early-babylonian-history-new-york-1900-johns-babylonian.md",
    "at": "2026-09-11T19:14:02+00:00"
+  },
+  {
+   "slug": "editio-princeps-scheil-tome-iv-textes",
+   "title": "Editio princeps, by V. Scheil in tome iv. of the Textes",
+   "era": "renaissance",
+   "file": "eras/renaissance/001403-editio-princeps-scheil-tome-iv-textes.md",
+   "at": "2026-09-11T19:23:56+00:00"
   }
  ]
 }
