@@ -1,5 +1,5 @@
 {
- "count": 1499,
+ "count": 1500,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10493,6 +10493,13 @@
    "era": "industrial",
    "file": "eras/industrial/001500-backergunje-bakarganj-district-british-india-dacca.md",
    "at": "2026-09-12T12:18:29+00:00"
+  },
+  {
+   "slug": "haringhata-baleswar-their-numerous-offshoots-meghna",
+   "title": "Haringhata or Baleswar, with their numerous offshoots. The Meghna",
+   "era": "modern",
+   "file": "eras/modern/001501-haringhata-baleswar-their-numerous-offshoots-meghna.md",
+   "at": "2026-09-12T12:28:12+00:00"
   }
  ]
 }
