@@ -1,5 +1,5 @@
 {
- "count": 1466,
+ "count": 1467,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10262,6 +10262,13 @@
    "era": "modern",
    "file": "eras/modern/001467-passions-would-explained-several-lost-secular-works-partly.md",
    "at": "2026-09-12T06:48:48+00:00"
+  },
+  {
+   "slug": "instrumental",
+   "title": "B. Instrumental",
+   "era": "industrial",
+   "file": "eras/industrial/001468-instrumental.md",
+   "at": "2026-09-12T06:58:42+00:00"
   }
  ]
 }
