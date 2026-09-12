@@ -1,5 +1,5 @@
 {
- "count": 1463,
+ "count": 1464,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10241,6 +10241,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/001464-iv---lost-works.md",
    "at": "2026-09-12T06:18:43+00:00"
+  },
+  {
+   "slug": "choral",
+   "title": "A. Choral",
+   "era": "renaissance",
+   "file": "eras/renaissance/001465-choral.md",
+   "at": "2026-09-12T06:28:40+00:00"
   }
  ]
 }
