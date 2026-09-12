@@ -1,5 +1,5 @@
 {
- "count": 1456,
+ "count": 1457,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10192,6 +10192,13 @@
    "era": "modern",
    "file": "eras/modern/001457-orchestral.md",
    "at": "2026-09-12T04:59:03+00:00"
+  },
+  {
+   "slug": "chamber-music",
+   "title": "B. Chamber Music",
+   "era": "renaissance",
+   "file": "eras/renaissance/001458-chamber-music.md",
+   "at": "2026-09-12T05:08:43+00:00"
   }
  ]
 }
