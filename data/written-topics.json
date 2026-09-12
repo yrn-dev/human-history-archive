@@ -1,5 +1,5 @@
 {
- "count": 1454,
+ "count": 1455,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10178,6 +10178,13 @@
    "era": "modern",
    "file": "eras/modern/001455-ii---secular-vocal-music.md",
    "at": "2026-09-12T04:38:46+00:00"
+  },
+  {
+   "slug": "iii---instrumental-music",
+   "title": "III.--INSTRUMENTAL MUSIC",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001456-iii---instrumental-music.md",
+   "at": "2026-09-12T04:48:51+00:00"
   }
  ]
 }
