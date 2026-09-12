@@ -1,5 +1,5 @@
 {
- "count": 1467,
+ "count": 1468,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10269,6 +10269,13 @@
    "era": "industrial",
    "file": "eras/industrial/001468-instrumental.md",
    "at": "2026-09-12T06:58:42+00:00"
+  },
+  {
+   "slug": "most-first-movement-major-sonata-clavier-flute",
+   "title": "Most of the first movement of the A major sonata for clavier and flute",
+   "era": "renaissance",
+   "file": "eras/renaissance/001469-most-first-movement-major-sonata-clavier-flute.md",
+   "at": "2026-09-12T07:08:29+00:00"
   }
  ]
 }
