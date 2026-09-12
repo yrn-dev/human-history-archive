@@ -1,5 +1,5 @@
 {
- "count": 1483,
+ "count": 1484,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10381,6 +10381,13 @@
    "era": "industrial",
    "file": "eras/industrial/001484-mendelssohn-elijah-between-1769-1788-added-twenty.md",
    "at": "2026-09-12T09:38:30+00:00"
+  },
+  {
+   "slug": "list-his-voluminous-compositions-may-found-eitner-quellen",
+   "title": "A list of his voluminous compositions may be found in Eitner's Quellen",
+   "era": "modern",
+   "file": "eras/modern/001485-list-his-voluminous-compositions-may-found-eitner-quellen.md",
+   "at": "2026-09-12T09:48:26+00:00"
   }
  ]
 }
