@@ -1,5 +1,5 @@
 {
- "count": 1428,
+ "count": 1429,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -9996,6 +9996,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001429-1717-bach-visited-dresden-course-concert-tour.md",
    "at": "2026-09-12T00:04:02+00:00"
+  },
+  {
+   "slug": "wohltemperirtes-klavier-solo-violin-violoncello-sonatas",
+   "title": "Wohltemperirtes Klavier, the solo violin and violoncello sonatas, the",
+   "era": "modern",
+   "file": "eras/modern/001430-wohltemperirtes-klavier-solo-violin-violoncello-sonatas.md",
+   "at": "2026-09-12T00:13:41+00:00"
   }
  ]
 }
