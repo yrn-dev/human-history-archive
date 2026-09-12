@@ -1,5 +1,5 @@
 {
- "count": 1450,
+ "count": 1451,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10150,6 +10150,13 @@
    "era": "modern",
    "file": "eras/modern/001451-funeral-ode-duchess-eberhardine-now-known-arranged.md",
    "at": "2026-09-12T03:58:40+00:00"
+  },
+  {
+   "slug": "without-orchestra",
+   "title": "B. Without Orchestra",
+   "era": "modern",
+   "file": "eras/modern/001452-without-orchestra.md",
+   "at": "2026-09-12T04:08:52+00:00"
   }
  ]
 }
