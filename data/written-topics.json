@@ -1,5 +1,5 @@
 {
- "count": 1487,
+ "count": 1488,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10409,6 +10409,13 @@
    "era": "modern",
    "file": "eras/modern/001488-full-account-bach-career-given-fourth-volume.md",
    "at": "2026-09-12T10:18:31+00:00"
+  },
+  {
+   "slug": "burney-history-music-catalogue-his-compositions",
+   "title": "Burney's History of Music, and a catalogue of his compositions in an",
+   "era": "modern",
+   "file": "eras/modern/001489-burney-history-music-catalogue-his-compositions.md",
+   "at": "2026-09-12T10:28:47+00:00"
   }
  ]
 }
