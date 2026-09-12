@@ -1,5 +1,5 @@
 {
- "count": 1488,
+ "count": 1489,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10416,6 +10416,13 @@
    "era": "modern",
    "file": "eras/modern/001489-burney-history-music-catalogue-his-compositions.md",
    "at": "2026-09-12T10:28:47+00:00"
+  },
+  {
+   "slug": "1677-1771-where-criticism-art-literature-took-form",
+   "title": "(1677-1771), where criticism of art and literature took the form of",
+   "era": "renaissance",
+   "file": "eras/renaissance/001490-1677-1771-where-criticism-art-literature-took-form.md",
+   "at": "2026-09-12T10:38:31+00:00"
   }
  ]
 }
