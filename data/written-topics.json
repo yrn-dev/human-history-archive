@@ -1,5 +1,5 @@
 {
- "count": 1476,
+ "count": 1477,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10332,6 +10332,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001477-sebastian-bach-leben-berlin-1885-pirro-esthetique-de-jean.md",
    "at": "2026-09-12T08:28:37+00:00"
+  },
+  {
+   "slug": "corrections-light-rust-prefaces-contains",
+   "title": "With corrections in the light of Rust's B. G. prefaces it contains",
+   "era": "modern",
+   "file": "eras/modern/001478-corrections-light-rust-prefaces-contains.md",
+   "at": "2026-09-12T08:38:33+00:00"
   }
  ]
 }
