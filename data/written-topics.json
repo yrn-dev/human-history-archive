@@ -1,5 +1,5 @@
 {
- "count": 1447,
+ "count": 1448,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10129,6 +10129,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001448-klavier-1744-first-1722.md",
    "at": "2026-09-12T03:28:54+00:00"
+  },
+  {
+   "slug": "--church-music",
+   "title": "I.--CHURCH MUSIC",
+   "era": "modern",
+   "file": "eras/modern/001449---church-music.md",
+   "at": "2026-09-12T03:38:57+00:00"
   }
  ]
 }
