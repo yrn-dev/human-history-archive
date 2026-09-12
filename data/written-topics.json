@@ -1,5 +1,5 @@
 {
- "count": 1540,
+ "count": 1541,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10780,6 +10780,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001541-1622-he-presented-prince-charles-his-history-henry-vii.md",
    "at": "2026-09-12T19:37:53+00:00"
+  },
+  {
+   "slug": "complete-survey-bacon-works-estimate-his-place",
+   "title": "A complete survey of Bacon's works and an estimate of his place in",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001542-complete-survey-bacon-works-estimate-his-place.md",
+   "at": "2026-09-12T19:47:56+00:00"
   }
  ]
 }
