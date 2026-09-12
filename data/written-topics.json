@@ -1,5 +1,5 @@
 {
- "count": 1445,
+ "count": 1446,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10115,6 +10115,13 @@
    "era": "modern",
    "file": "eras/modern/001446-schmuecke-dich-liebe-seele-one-instance-quaint.md",
    "at": "2026-09-12T03:08:50+00:00"
+  },
+  {
+   "slug": "summary-bach-works",
+   "title": "SUMMARY OF BACH'S WORKS",
+   "era": "renaissance",
+   "file": "eras/renaissance/001447-summary-bach-works.md",
+   "at": "2026-09-12T03:18:57+00:00"
   }
  ]
 }
