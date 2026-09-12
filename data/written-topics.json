@@ -1,5 +1,5 @@
 {
- "count": 1503,
+ "count": 1504,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10521,6 +10521,13 @@
    "era": "cultures",
    "file": "eras/cultures/001504-right-start-each-player-throws-one-two-dice-one-who.md",
    "at": "2026-09-12T12:58:17+00:00"
+  },
+  {
+   "slug": "make-point",
+   "title": "\"make a point.\"",
+   "era": "modern",
+   "file": "eras/modern/001505-make-point.md",
+   "at": "2026-09-12T13:08:15+00:00"
   }
  ]
 }
