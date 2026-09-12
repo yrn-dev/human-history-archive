@@ -1,5 +1,5 @@
 {
- "count": 1458,
+ "count": 1459,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -10206,6 +10206,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001459-sonatas-clavier-flute-suite-sonatas-clavier.md",
    "at": "2026-09-12T05:18:39+00:00"
+  },
+  {
+   "slug": "clavier-organ-music",
+   "title": "C. Clavier and Organ Music",
+   "era": "renaissance",
+   "file": "eras/renaissance/001460-clavier-organ-music.md",
+   "at": "2026-09-12T05:28:45+00:00"
   }
  ]
 }
