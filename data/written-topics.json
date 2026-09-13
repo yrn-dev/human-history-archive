@@ -1,5 +1,5 @@
 {
- "count": 1636,
+ "count": 1637,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11452,6 +11452,13 @@
    "era": "modern",
    "file": "eras/modern/001637-creating-works-print-editions-not-protected-copyright.md",
    "at": "2026-09-13T12:27:05+00:00"
+  },
+  {
+   "slug": "states-without-permission-without-paying-copyright",
+   "title": "States without permission and without paying copyright",
+   "era": "modern",
+   "file": "eras/modern/001638-states-without-permission-without-paying-copyright.md",
+   "at": "2026-09-13T12:37:03+00:00"
   }
  ]
 }
