@@ -1,5 +1,5 @@
 {
- "count": 1641,
+ "count": 1642,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11487,6 +11487,13 @@
    "era": "cultures",
    "file": "eras/cultures/001642-full-project-gutenberg-license.md",
    "at": "2026-09-13T13:17:20+00:00"
+  },
+  {
+   "slug": "please-read-you-distribute-use-work",
+   "title": "PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK",
+   "era": "modern",
+   "file": "eras/modern/001643-please-read-you-distribute-use-work.md",
+   "at": "2026-09-13T13:27:27+00:00"
   }
  ]
 }
