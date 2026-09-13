@@ -1,5 +1,5 @@
 {
- "count": 1579,
+ "count": 1580,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11053,6 +11053,13 @@
    "era": "modern",
    "file": "eras/modern/001580-case-lond-1906-wisdom-ancients-new-atlantis.md",
    "at": "2026-09-13T02:37:32+00:00"
+  },
+  {
+   "slug": "cassell-national-library-1886-1903-smith-new",
+   "title": "\"Cassell's National Library\" (1886 and 1903). G. C. M. Smith, New",
+   "era": "industrial",
+   "file": "eras/industrial/001581-cassell-national-library-1886-1903-smith-new.md",
+   "at": "2026-09-13T02:47:28+00:00"
   }
  ]
 }
