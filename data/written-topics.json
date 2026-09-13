@@ -1,5 +1,5 @@
 {
- "count": 1614,
+ "count": 1616,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11298,6 +11298,20 @@
    "era": "renaissance",
    "file": "eras/renaissance/001615-speculum-alchimiae-1541---translated-english-1597-french.md",
    "at": "2026-09-13T08:47:13+00:00"
+  },
+  {
+   "slug": "poisson-1890-de-mirabili-potestate-artis-et-naturae",
+   "title": "Poisson (1890); (2) De Mirabili Potestate Artis et Naturae",
+   "era": "renaissance",
+   "file": "eras/renaissance/001616-poisson-1890-de-mirabili-potestate-artis-et-naturae.md",
+   "at": "2026-09-13T08:57:12+00:00"
+  },
+  {
+   "slug": "de-morali-philosophia-dublin-1860-see-below-10-greek",
+   "title": "(9) De Morali Philosophia (Dublin, 1860, see below); (10) The Greek",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001617-de-morali-philosophia-dublin-1860-see-below-10-greek.md",
+   "at": "2026-09-13T09:07:14+00:00"
   }
  ]
 }
