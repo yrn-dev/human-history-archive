@@ -1,5 +1,5 @@
 {
- "count": 1616,
+ "count": 1617,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11312,6 +11312,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/001617-de-morali-philosophia-dublin-1860-see-below-10-greek.md",
    "at": "2026-09-13T09:07:14+00:00"
+  },
+  {
+   "slug": "grammar-bacon-fragment-his-hebrew-grammar-edited",
+   "title": "Grammar of R. Bacon and a Fragment of his Hebrew Grammar, edited with",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001618-grammar-bacon-fragment-his-hebrew-grammar-edited.md",
+   "at": "2026-09-13T09:17:13+00:00"
   }
  ]
 }
