@@ -1,5 +1,5 @@
 {
- "count": 1580,
+ "count": 1581,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11060,6 +11060,13 @@
    "era": "industrial",
    "file": "eras/industrial/001581-cassell-national-library-1886-1903-smith-new.md",
    "at": "2026-09-13T02:47:28+00:00"
+  },
+  {
+   "slug": "life-times-francis-bacon-1878-also-dr-rawley-life",
+   "title": "Life and Times of Francis Bacon (1878); also Dr Rawley's Life in the",
+   "era": "renaissance",
+   "file": "eras/renaissance/001582-life-times-francis-bacon-1878-also-dr-rawley-life.md",
+   "at": "2026-09-13T02:57:34+00:00"
   }
  ]
 }
