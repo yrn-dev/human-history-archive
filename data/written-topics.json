@@ -1,5 +1,5 @@
 {
- "count": 1593,
+ "count": 1594,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11151,6 +11151,13 @@
    "era": "modern",
    "file": "eras/modern/001594-nov-org-48-ii.md",
    "at": "2026-09-13T05:07:29+00:00"
+  },
+  {
+   "slug": "405-lasson-ueber-bacon-von-verulam-wissenschaftliche-principien",
+   "title": "405); Lasson, Ueber Bacon von Verulam's wissenschaftliche Principien",
+   "era": "renaissance",
+   "file": "eras/renaissance/001595-405-lasson-ueber-bacon-von-verulam-wissenschaftliche-principien.md",
+   "at": "2026-09-13T05:17:34+00:00"
   }
  ]
 }
