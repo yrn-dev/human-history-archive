@@ -1,5 +1,5 @@
 {
- "count": 1590,
+ "count": 1591,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11130,6 +11130,13 @@
    "era": "modern",
    "file": "eras/modern/001591-diderot-prospectus-oeuvres-iii-alembert-discours.md",
    "at": "2026-09-13T04:37:22+00:00"
+  },
+  {
+   "slug": "oeuvres-scheme-should-compared-later-attempts",
+   "title": "(Oeuvres, i.) The scheme should be compared with later attempts of the",
+   "era": "ancient",
+   "file": "eras/ancient/001592-oeuvres-scheme-should-compared-later-attempts.md",
+   "at": "2026-09-13T04:47:24+00:00"
   }
  ]
 }
