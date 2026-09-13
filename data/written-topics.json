@@ -1,5 +1,5 @@
 {
- "count": 1606,
+ "count": 1607,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11242,6 +11242,13 @@
    "era": "ancient",
    "file": "eras/ancient/001607-our-exiled-fathers-crossed-sea.md",
    "at": "2026-09-13T07:27:29+00:00"
+  },
+  {
+   "slug": "gould-1878-irenics-polemics-sundry-essays-church-history",
+   "title": "Gould (1878); Irenics and Polemics and Sundry Essays in Church History",
+   "era": "modern",
+   "file": "eras/modern/001608-gould-1878-irenics-polemics-sundry-essays-church-history.md",
+   "at": "2026-09-13T07:37:17+00:00"
   }
  ]
 }
