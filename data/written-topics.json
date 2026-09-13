@@ -1,5 +1,5 @@
 {
- "count": 1656,
+ "count": 1657,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11592,6 +11592,13 @@
    "era": "modern",
    "file": "eras/modern/001657-following-sentence-active-links-other.md",
    "at": "2026-09-13T15:56:51+00:00"
+  },
+  {
+   "slug": "if-individual-project-gutenberg-electronic-work",
+   "title": "1.E.2. If an individual Project Gutenberg electronic work is",
+   "era": "modern",
+   "file": "eras/modern/001658-if-individual-project-gutenberg-electronic-work.md",
+   "at": "2026-09-13T16:06:48+00:00"
   }
  ]
 }
