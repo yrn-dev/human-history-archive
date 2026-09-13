@@ -1,5 +1,5 @@
 {
- "count": 1589,
+ "count": 1590,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11123,6 +11123,13 @@
    "era": "modern",
    "file": "eras/modern/001590-encyclopedie-founded-upon-classification-bacon-see.md",
    "at": "2026-09-13T04:27:24+00:00"
+  },
+  {
+   "slug": "diderot-prospectus-oeuvres-iii-alembert-discours",
+   "title": "Diderot's Prospectus (Oeuvres, iii.) and d'Alembert's Discours",
+   "era": "modern",
+   "file": "eras/modern/001591-diderot-prospectus-oeuvres-iii-alembert-discours.md",
+   "at": "2026-09-13T04:37:22+00:00"
   }
  ]
 }
