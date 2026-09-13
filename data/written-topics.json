@@ -1,5 +1,5 @@
 {
- "count": 1605,
+ "count": 1606,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11235,6 +11235,13 @@
    "era": "modern",
    "file": "eras/modern/001606-new-haven-connecticut-occupying-pulpit-which-one-most.md",
    "at": "2026-09-13T07:07:22+00:00"
+  },
+  {
+   "slug": "our-exiled-fathers-crossed-sea",
+   "title": "Our exiled fathers crossed the sea.\"",
+   "era": "ancient",
+   "file": "eras/ancient/001607-our-exiled-fathers-crossed-sea.md",
+   "at": "2026-09-13T07:27:29+00:00"
   }
  ]
 }
