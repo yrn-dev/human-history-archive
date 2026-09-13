@@ -1,5 +1,5 @@
 {
- "count": 1635,
+ "count": 1636,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11445,6 +11445,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/001636-bacon-through-fr-bacon-low-lat-baco-teutonic-word.md",
    "at": "2026-09-13T12:17:09+00:00"
+  },
+  {
+   "slug": "creating-works-print-editions-not-protected-copyright",
+   "title": "Creating the works from print editions not protected by U.S. copyright",
+   "era": "modern",
+   "file": "eras/modern/001637-creating-works-print-editions-not-protected-copyright.md",
+   "at": "2026-09-13T12:27:05+00:00"
   }
  ]
 }
