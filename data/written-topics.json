@@ -1,5 +1,5 @@
 {
- "count": 1673,
+ "count": 1674,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11711,6 +11711,13 @@
    "era": "modern",
    "file": "eras/modern/001674-gutenberg-trademark-any-other-party-distributing-project.md",
    "at": "2026-09-13T18:46:39+00:00"
+  },
+  {
+   "slug": "gutenberg-electronic-work-agreement-disclaim-all",
+   "title": "Gutenberg™ electronic work under this agreement, disclaim all",
+   "era": "modern",
+   "file": "eras/modern/001675-gutenberg-electronic-work-agreement-disclaim-all.md",
+   "at": "2026-09-13T18:56:40+00:00"
   }
  ]
 }
