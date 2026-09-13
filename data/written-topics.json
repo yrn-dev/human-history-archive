@@ -1,5 +1,5 @@
 {
- "count": 1666,
+ "count": 1667,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11662,6 +11662,13 @@
    "era": "modern",
    "file": "eras/modern/001667-gutenberg-literary-archive-foundation-address-specified.md",
    "at": "2026-09-13T17:37:07+00:00"
+  },
+  {
+   "slug": "license-you-must-require-such-user-return-destroy-all",
+   "title": "License. You must require such a user to return or destroy all",
+   "era": "modern",
+   "file": "eras/modern/001668-license-you-must-require-such-user-return-destroy-all.md",
+   "at": "2026-09-13T17:47:07+00:00"
   }
  ]
 }
