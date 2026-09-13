@@ -1,5 +1,5 @@
 {
- "count": 1604,
+ "count": 1605,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11228,6 +11228,13 @@
    "era": "industrial",
    "file": "eras/industrial/001605-hartford-conn-grammar-school-graduated-yale-1820.md",
    "at": "2026-09-13T06:57:19+00:00"
+  },
+  {
+   "slug": "new-haven-connecticut-occupying-pulpit-which-one-most",
+   "title": "New Haven, Connecticut, occupying a pulpit which was one of the most",
+   "era": "modern",
+   "file": "eras/modern/001606-new-haven-connecticut-occupying-pulpit-which-one-most.md",
+   "at": "2026-09-13T07:07:22+00:00"
   }
  ]
 }
