@@ -1,5 +1,5 @@
 {
- "count": 1623,
+ "count": 1624,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11361,6 +11361,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001624-part-vi-pp-445-477-treats-experimental-science-domina-omnium.md",
    "at": "2026-09-13T10:17:11+00:00"
+  },
+  {
+   "slug": "seventh-part-opus-majus-de-morali-philosophia-not-given",
+   "title": "The seventh part of the Opus Majus (De Morali Philosophia), not given",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001625-seventh-part-opus-majus-de-morali-philosophia-not-given.md",
+   "at": "2026-09-13T10:27:12+00:00"
   }
  ]
 }
