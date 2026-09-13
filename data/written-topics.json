@@ -1,5 +1,5 @@
 {
- "count": 1658,
+ "count": 1659,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11606,6 +11606,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/001659-gutenberg-associated-appearing-work-you-must-comply.md",
    "at": "2026-09-13T16:16:48+00:00"
+  },
+  {
+   "slug": "do-not-unlink-detach-remove-full-project-gutenberg",
+   "title": "1.E.4. Do not unlink or detach or remove the full Project Gutenberg",
+   "era": "modern",
+   "file": "eras/modern/001660-do-not-unlink-detach-remove-full-project-gutenberg.md",
+   "at": "2026-09-13T16:26:47+00:00"
   }
  ]
 }
