@@ -1,5 +1,5 @@
 {
- "count": 1760,
+ "count": 1761,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12320,6 +12320,13 @@
    "era": "modern",
    "file": "eras/modern/001761-zoogloea-pushing-way-through-cell-walls-prazmowski.md",
    "at": "2026-09-15T20:23:10+00:00"
+  },
+  {
+   "slug": "fischer-vorlesungen-ueber-bakterien",
+   "title": "(From Fischer's Vorlesungen ueber Bakterien.)]",
+   "era": "modern",
+   "file": "eras/modern/001762-fischer-vorlesungen-ueber-bakterien.md",
+   "at": "2026-09-15T20:33:02+00:00"
   }
  ]
 }
