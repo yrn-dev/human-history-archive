@@ -1,5 +1,5 @@
 {
- "count": 1719,
+ "count": 1720,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12033,6 +12033,13 @@
    "era": "industrial",
    "file": "eras/industrial/001720-1880-pasteur-first-showed-bacillus-anthracis-cultivated.md",
    "at": "2026-09-15T13:23:30+00:00"
+  },
+  {
+   "slug": "shape-individual-cell-fig-varies-minute",
+   "title": "The shape of the individual cell (fig. 1) varies from that of a minute",
+   "era": "modern",
+   "file": "eras/modern/001721-shape-individual-cell-fig-varies-minute.md",
+   "at": "2026-09-15T13:34:40+00:00"
   }
  ]
 }
