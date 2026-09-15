@@ -1,5 +1,5 @@
 {
- "count": 1683,
+ "count": 1684,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11781,6 +11781,13 @@
    "era": "modern",
    "file": "eras/modern/001684-indemnity-you-agree-indemnify-hold-foundation.md",
    "at": "2026-09-15T07:13:41+00:00"
+  },
+  {
+   "slug": "section-information-mission-project-gutenberg",
+   "title": "Section 2. Information about the Mission of Project Gutenberg",
+   "era": "modern",
+   "file": "eras/modern/001685-section-information-mission-project-gutenberg.md",
+   "at": "2026-09-15T07:23:39+00:00"
   }
  ]
 }
