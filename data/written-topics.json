@@ -1,5 +1,5 @@
 {
- "count": 1698,
+ "count": 1699,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11886,6 +11886,13 @@
    "era": "modern",
    "file": "eras/modern/001699-professor-michael-hart-originator-project.md",
    "at": "2026-09-15T09:43:35+00:00"
+  },
+  {
+   "slug": "gutenberg-concept-library-electronic-works-could",
+   "title": "Gutenberg concept of a library of electronic works that could be",
+   "era": "modern",
+   "file": "eras/modern/001700-gutenberg-concept-library-electronic-works-could.md",
+   "at": "2026-09-15T09:53:35+00:00"
   }
  ]
 }
