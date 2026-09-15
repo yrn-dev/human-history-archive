@@ -1,5 +1,5 @@
 {
- "count": 1727,
+ "count": 1728,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12089,6 +12089,13 @@
    "era": "modern",
    "file": "eras/modern/001728-vibrio-form-spore-prazmowski.md",
    "at": "2026-09-15T14:43:29+00:00"
+  },
+  {
+   "slug": "clostridium--one-cell-contains-two-spores-prazmowski",
+   "title": "H. Clostridium--one cell contains two spores. (After Prazmowski.)",
+   "era": "modern",
+   "file": "eras/modern/001729-clostridium--one-cell-contains-two-spores-prazmowski.md",
+   "at": "2026-09-15T14:53:21+00:00"
   }
  ]
 }
