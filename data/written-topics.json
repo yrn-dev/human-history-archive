@@ -1,5 +1,5 @@
 {
- "count": 1707,
+ "count": 1708,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -11949,6 +11949,13 @@
    "era": "industrial",
    "file": "eras/industrial/001708-pest-1827-2nd-ed-buda-1835-also-edited-poetical-works.md",
    "at": "2026-09-15T11:23:34+00:00"
+  },
+  {
+   "slug": "study-bacteria",
+   "title": "I. THE STUDY OF BACTERIA",
+   "era": "modern",
+   "file": "eras/modern/001709-study-bacteria.md",
+   "at": "2026-09-15T11:33:49+00:00"
   }
  ]
 }
