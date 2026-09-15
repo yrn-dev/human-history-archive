@@ -1,5 +1,5 @@
 {
- "count": 1726,
+ "count": 1727,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12082,6 +12082,13 @@
    "era": "modern",
    "file": "eras/modern/001727-various-stages-development-endogenous-spores.md",
    "at": "2026-09-15T14:33:25+00:00"
+  },
+  {
+   "slug": "vibrio-form-spore-prazmowski",
+   "title": "G. Vibrio form with spore. (After Prazmowski.)",
+   "era": "modern",
+   "file": "eras/modern/001728-vibrio-form-spore-prazmowski.md",
+   "at": "2026-09-15T14:43:29+00:00"
   }
  ]
 }
