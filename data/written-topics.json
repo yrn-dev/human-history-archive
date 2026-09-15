@@ -1,5 +1,5 @@
 {
- "count": 1743,
+ "count": 1744,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12201,6 +12201,13 @@
    "era": "cultures",
    "file": "eras/cultures/001744-sub-family--homococcaceae-division-planes-regular.md",
    "at": "2026-09-15T17:23:08+00:00"
+  },
+  {
+   "slug": "pediococcus-lindner-division-planes-right-angles-two",
+   "title": "Pediococcus (Lindner), division planes at right angles in two",
+   "era": "modern",
+   "file": "eras/modern/001745-pediococcus-lindner-division-planes-right-angles-two.md",
+   "at": "2026-09-15T17:33:12+00:00"
   }
  ]
 }
