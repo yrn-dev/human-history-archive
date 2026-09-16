@@ -1,5 +1,5 @@
 {
- "count": 1784,
+ "count": 1785,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12488,6 +12488,13 @@
    "era": "modern",
    "file": "eras/modern/001785-migula-fischer-vejdovsky-ueber-den-kern-der-bakterien-und.md",
    "at": "2026-09-16T00:32:51+00:00"
+  },
+  {
+   "slug": "sturgis-soil-bacillus-type-de-bary-megatherium",
+   "title": "Sturgis, \"A Soil Bacillus of the type of de Bary's B. megatherium,\"",
+   "era": "modern",
+   "file": "eras/modern/001786-sturgis-soil-bacillus-type-de-bary-megatherium.md",
+   "at": "2026-09-16T00:52:50+00:00"
   }
  ]
 }
