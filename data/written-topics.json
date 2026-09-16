@@ -1,5 +1,5 @@
 {
- "count": 1792,
+ "count": 1793,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12544,6 +12544,13 @@
    "era": "modern",
    "file": "eras/modern/001793-pathogenic-bacteria-baumgarten-pathologische-mykologie-1890-kolle.md",
    "at": "2026-09-16T02:12:52+00:00"
+  },
+  {
+   "slug": "ii-pathological-importance",
+   "title": "II. PATHOLOGICAL IMPORTANCE",
+   "era": "modern",
+   "file": "eras/modern/001794-ii-pathological-importance.md",
+   "at": "2026-09-16T02:42:57+00:00"
   }
  ]
 }
