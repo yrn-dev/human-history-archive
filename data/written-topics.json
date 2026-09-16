@@ -1,5 +1,5 @@
 {
- "count": 1879,
+ "count": 1880,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13153,6 +13153,13 @@
    "era": "cultures",
    "file": "eras/cultures/001880-jews-remainder-other-confessions-population.md",
    "at": "2026-09-16T17:56:07+00:00"
+  },
+  {
+   "slug": "district-chief-towns-pop-1905",
+   "title": "District.                 Chief towns.      Pop. (1905)",
+   "era": "modern",
+   "file": "eras/modern/001881-district-chief-towns-pop-1905.md",
+   "at": "2026-09-16T18:06:02+00:00"
   }
  ]
 }
