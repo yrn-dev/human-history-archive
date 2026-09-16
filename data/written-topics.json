@@ -1,5 +1,5 @@
 {
- "count": 1881,
+ "count": 1882,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13167,6 +13167,13 @@
    "era": "modern",
    "file": "eras/modern/001882-heidelberg-49-439.md",
    "at": "2026-09-16T18:15:58+00:00"
+  },
+  {
+   "slug": "pforzheim-59-307",
+   "title": "Pforzheim              59,307",
+   "era": "modern",
+   "file": "eras/modern/001883-pforzheim-59-307.md",
+   "at": "2026-09-16T18:25:55+00:00"
   }
  ]
 }
