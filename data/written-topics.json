@@ -1,5 +1,5 @@
 {
- "count": 1785,
+ "count": 1786,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12495,6 +12495,13 @@
    "era": "modern",
    "file": "eras/modern/001786-sturgis-soil-bacillus-type-de-bary-megatherium.md",
    "at": "2026-09-16T00:52:50+00:00"
+  },
+  {
+   "slug": "introd-cryptogamic-botany-1857-313-thaxter-new-order",
+   "title": "Introd. to Cryptogamic Botany (1857), p. 313; Thaxter, \"A New Order of",
+   "era": "industrial",
+   "file": "eras/industrial/001787-introd-cryptogamic-botany-1857-313-thaxter-new-order.md",
+   "at": "2026-09-16T01:02:55+00:00"
   }
  ]
 }
