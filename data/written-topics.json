@@ -1,5 +1,5 @@
 {
- "count": 1791,
+ "count": 1792,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12537,6 +12537,13 @@
    "era": "industrial",
    "file": "eras/industrial/001792-sur-la-fermentation-de-la-cellulose-compt-rend-nov-1895-van.md",
    "at": "2026-09-16T01:53:21+00:00"
+  },
+  {
+   "slug": "pathogenic-bacteria-baumgarten-pathologische-mykologie-1890-kolle",
+   "title": "Pathogenic Bacteria: Baumgarten, Pathologische Mykologie (1890); Kolle",
+   "era": "modern",
+   "file": "eras/modern/001793-pathogenic-bacteria-baumgarten-pathologische-mykologie-1890-kolle.md",
+   "at": "2026-09-16T02:12:52+00:00"
   }
  ]
 }
