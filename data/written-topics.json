@@ -1,5 +1,5 @@
 {
- "count": 1828,
+ "count": 1829,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12796,6 +12796,13 @@
    "era": "modern",
    "file": "eras/modern/001829-(r.-m.).md",
    "at": "2026-09-16T08:32:35+00:00"
+  },
+  {
+   "slug": "bactra-now-balkh-persian-inscriptions-khtri",
+   "title": "Bactra (now Balkh); in the Persian inscriptions B[=a]khtri. It is a",
+   "era": "ancient",
+   "file": "eras/ancient/001830-bactra-now-balkh-persian-inscriptions-khtri.md",
+   "at": "2026-09-16T08:42:51+00:00"
   }
  ]
 }
