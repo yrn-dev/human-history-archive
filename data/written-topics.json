@@ -1,5 +1,5 @@
 {
- "count": 1843,
+ "count": 1844,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12901,6 +12901,13 @@
    "era": "modern",
    "file": "eras/modern/001844-wissenschaften-zu-goettingen-1901-chinese-sources-given.md",
    "at": "2026-09-16T11:02:26+00:00"
+  },
+  {
+   "slug": "london-22-manchester-lancashire-yorkshire",
+   "title": "London, and 22 N. by E. from Manchester, on the Lancashire & Yorkshire",
+   "era": "industrial",
+   "file": "eras/industrial/001845-london-22-manchester-lancashire-yorkshire.md",
+   "at": "2026-09-16T11:12:22+00:00"
   }
  ]
 }
