@@ -1,5 +1,5 @@
 {
- "count": 1823,
+ "count": 1824,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12761,6 +12761,13 @@
    "era": "industrial",
    "file": "eras/industrial/001824-paris-1899-1900-eyre-bacteriological-technique-philadelphia.md",
    "at": "2026-09-16T07:42:34+00:00"
+  },
+  {
+   "slug": "micro-organisms-disease-3rd-ed-london-1896-kolle",
+   "title": "Micro-organisms and Disease (3rd ed., London, 1896); Kolle and",
+   "era": "industrial",
+   "file": "eras/industrial/001825-micro-organisms-disease-3rd-ed-london-1896-kolle.md",
+   "at": "2026-09-16T07:53:13+00:00"
   }
  ]
 }
