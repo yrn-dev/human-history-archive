@@ -1,5 +1,5 @@
 {
- "count": 1878,
+ "count": 1879,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13146,6 +13146,13 @@
    "era": "industrial",
    "file": "eras/industrial/001879-population---at-beginning-19th-century-baden-only.md",
    "at": "2026-09-16T17:46:00+00:00"
+  },
+  {
+   "slug": "jews-remainder-other-confessions-population",
+   "title": "Jews, and the remainder of other confessions. Of the population, about",
+   "era": "cultures",
+   "file": "eras/cultures/001880-jews-remainder-other-confessions-population.md",
+   "at": "2026-09-16T17:56:07+00:00"
   }
  ]
 }
