@@ -1,5 +1,5 @@
 {
- "count": 1841,
+ "count": 1842,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12887,6 +12887,13 @@
    "era": "ancient",
    "file": "eras/ancient/001842-cf-cunningham-ib-ii-1888-vincent-smith-kush.md",
    "at": "2026-09-16T10:42:24+00:00"
+  },
+  {
+   "slug": "persian-armenian-sources-cf-th-noeldeke-translation-tabari",
+   "title": "Persian and Armenian sources; cf. Th. Noeldeke's translation of Tabari",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001843-persian-armenian-sources-cf-th-noeldeke-translation-tabari.md",
+   "at": "2026-09-16T10:52:27+00:00"
   }
  ]
 }
