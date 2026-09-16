@@ -1,5 +1,5 @@
 {
- "count": 1883,
+ "count": 1884,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13181,6 +13181,13 @@
    "era": "modern",
    "file": "eras/modern/001884-freiburg-im-breisgau-freiburg-74-102.md",
    "at": "2026-09-16T18:35:58+00:00"
+  },
+  {
+   "slug": "constance-constance-24-818",
+   "title": "(4) Constance             Constance              24,818",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/001885-constance-constance-24-818.md",
+   "at": "2026-09-16T18:46:00+00:00"
   }
  ]
 }
