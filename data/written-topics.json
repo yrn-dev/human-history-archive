@@ -1,5 +1,5 @@
 {
- "count": 1826,
+ "count": 1827,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12782,6 +12782,13 @@
    "era": "industrial",
    "file": "eras/industrial/001827-pathogenic-micro-organisms-london-1906-sternberg-manual.md",
    "at": "2026-09-16T08:12:32+00:00"
+  },
+  {
+   "slug": "bacteria-their-products-bibliography-london-1891",
+   "title": "Bacteria and their products (with bibliography, London, 1891). The",
+   "era": "industrial",
+   "file": "eras/industrial/001828-bacteria-their-products-bibliography-london-1891.md",
+   "at": "2026-09-16T08:22:33+00:00"
   }
  ]
 }
