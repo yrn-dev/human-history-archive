@@ -1,5 +1,5 @@
 {
- "count": 1786,
+ "count": 1787,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12502,6 +12502,13 @@
    "era": "industrial",
    "file": "eras/industrial/001787-introd-cryptogamic-botany-1857-313-thaxter-new-order.md",
    "at": "2026-09-16T01:02:55+00:00"
+  },
+  {
+   "slug": "schizomycetes-bot-gaz-vol-xvii-1892-389-further",
+   "title": "Schizomycetes,\" Bot. Gaz. vol. xvii. (1892), p. 389; and \"Further",
+   "era": "modern",
+   "file": "eras/modern/001788-schizomycetes-bot-gaz-vol-xvii-1892-389-further.md",
+   "at": "2026-09-16T01:12:51+00:00"
   }
  ]
 }
