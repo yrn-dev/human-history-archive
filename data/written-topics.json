@@ -1,5 +1,5 @@
 {
- "count": 1906,
+ "count": 1907,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13342,6 +13342,13 @@
    "era": "modern",
    "file": "eras/modern/001907-bibliography---das-grossherzogtum-baden-geographischer-hinsicht.md",
    "at": "2026-09-16T22:35:45+00:00"
+  },
+  {
+   "slug": "grossherzogtums-baden-freiburg-1895-von-weech-badische",
+   "title": "Grossherzogtums Baden (Freiburg, 1895); F. von Weech, Badische",
+   "era": "industrial",
+   "file": "eras/industrial/001908-grossherzogtums-baden-freiburg-1895-von-weech-badische.md",
+   "at": "2026-09-16T22:45:48+00:00"
   }
  ]
 }
