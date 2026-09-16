@@ -1,5 +1,5 @@
 {
- "count": 1790,
+ "count": 1791,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12530,6 +12530,13 @@
    "era": "modern",
    "file": "eras/modern/001791-maze-annales-de-institut-pasteur-ii-44-12.md",
    "at": "2026-09-16T01:42:54+00:00"
+  },
+  {
+   "slug": "sur-la-fermentation-de-la-cellulose-compt-rend-nov-1895-van",
+   "title": "\"Sur la fermentation de la cellulose,\" Compt. Rend., 4 Nov. 1895; van",
+   "era": "industrial",
+   "file": "eras/industrial/001792-sur-la-fermentation-de-la-cellulose-compt-rend-nov-1895-van.md",
+   "at": "2026-09-16T01:53:21+00:00"
   }
  ]
 }
