@@ -1,5 +1,5 @@
 {
- "count": 1825,
+ "count": 1826,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12775,6 +12775,13 @@
    "era": "modern",
    "file": "eras/modern/001826-wassermann-handbuch-der-pathogenen-mikroorganismen-jena-1904.md",
    "at": "2026-09-16T08:02:32+00:00"
+  },
+  {
+   "slug": "pathogenic-micro-organisms-london-1906-sternberg-manual",
+   "title": "Pathogenic Micro-organisms (London, 1906); Sternberg, Manual of",
+   "era": "industrial",
+   "file": "eras/industrial/001827-pathogenic-micro-organisms-london-1906-sternberg-manual.md",
+   "at": "2026-09-16T08:12:32+00:00"
   }
  ]
 }
