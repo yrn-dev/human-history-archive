@@ -1,0 +1,36 @@
+# BADEN, GRAND DUCHY OF
+
+The Grand Duchy of Baden was a sovereign state of Germany located in the south-west corner of the empire. Its borders were defined by the kingdom of Bavaria and the grand-duchy of Hesse-Darmstadt to the north; Switzerland to the south; the kingdom of Wuerttemberg and part of Bavaria to the east; and the Rhine river to the west, which separated the state from the imperial province of Alsace-Lorraine and the Bavarian Palatinate.
+
+## Geography and Topography
+The state covered an area of 5,823 square miles. The territory consists of the mountains that form its boundary and a significant portion of the eastern half of the fertile Rhine valley. Approximately 80% of the total area is mountainous.
+
+The Black Forest (*Schwarzwald*) extends from the river Neckar in the north to the Lake of Constance in the south. This region is divided by the Kinzig valley into two districts: the southern district has a mean height of 3,100 feet with its highest summit, the Feldberg, reaching about 4,898 feet; the northern district has a mean height of 2,100 feet, with the Belchen as its highest point at 4,480 feet. North of the Neckar lies the Odenwald Range, which has a mean height of 1,440 feet and peaks at 1,980 feet in the Katzenbuckel. Additionally, the Kaiserstuhl is an independent volcanic group between the Dreisam and the Rhine, measuring nearly 10 miles long and 5 miles wide, with a high point of 1,760 feet.
+
+Water systems are dominated by the Rhine basin, which is fed by over twenty tributaries from the highlands. The Neckar and Main rivers water the north-eastern territory, while some mountain streams on the eastern slope of the Black Forest feed the Danube basin. The duchy contains several small lakes, including the Schluch, Eichener, Wilder, and Mummel. The Lake of Constance (*Boden-See*) is shared with Switzerland and Bavaria.
+
+## Early History and Territorial Formation
+During the middle ages, the region was ruled by various counts, most notably the counts and dukes of Zaehringen. The separate history of Baden began in 1112 when Hermann, a grandson of Bertold, duke of Carinthia and count of Zaehringen, inherited family estates and styled himself margrave of Baden. This title was used due to his family's connection to the margraviate of Verona. By 1200, the territories were divided into the lines of Baden-Baden and Baden-Hochberg; the latter further split into the branches of Baden-Sausenberg and Baden-Hochberg. The Baden-Baden line expanded its holdings, and Margrave Bernard I. united several possessions in 1391, eventually acquiring Baden-Hochberg after its ruling family died out in 1418.
+
+By 1771, Baden was under a single ruler but remained a non-compact territory of about 1,350 square miles consisting of isolated districts. Charles Frederick, who began reigning in 1738, worked to create territorial unity. During the Napoleonic wars, Baden initially fought for Austria in 1792, leading to the devastation of the country and the loss of left-bank Rhine territories to France in 1796. However, in 1803, through the influence of Emperor Alexander I. of Russia, Charles Frederick received the bishopric of Constance, parts of the Rhenish Palatinate, and other districts, becoming a prince elector. After switching sides to support Napoleon in 1805, he acquired the Breisgau and other Habsburg territories via the peace of Pressburg. In 1806, he joined the Confederation of the Rhine, declared himself a sovereign prince, and became a grand-duke. Further additions came in 1809 at the expense of Wuerttemberg. By the time of his death in June 1811, Charles Frederick had quadrupled the area of Baden.
+
+## Political Development and Constitutional Struggle
+Charles Frederick was succeeded by his grandson, Charles, who married Stephanie de Beauharnais, an adopted daughter of Napoleon. Charles supported Napoleon until after the battle of Leipzig in 1813, when he joined the Allies. In 1815, Baden became a member of the Germanic confederation.
+
+A succession crisis emerged when the treaty of April 16, 1816, guaranteed the Baden Palatinate to Maximilian I, king of Bavaria, should the Zaehringen line become extinct. In response, Grand-duke Charles issued a pragmatic sanction (*Hausgesetz*) in 1817, allowing the counts of Hochberg—the offspring of a morganatic marriage between Charles Frederick and Luise Geyer von Geyersberg—to succeed to the crown. This dispute was settled in favor of the Hochberg claims by a treaty signed in Frankfort on July 10, 1819.
+
+To gain popular support for the Hochberg heir, Charles granted a liberal constitution in 1818, establishing two chambers whose assent was required for taxation and legislation. This experiment faced difficulties as the population, described as the "Celtic fringe" of Germany, was heavily influenced by French revolutionary ideas. Furthermore, the administration was managed by inefficient bureaucrats, and the new grand-duke, Louis (who succeeded in 1818), was unpopular.
+
+## Integration into the German Empire
+Following the death of Grand-duke Leopold in 1852, Frederick served as regent because the eldest son, Louis, was incapable of ruling. Frederick eventually became grand-duke and was noted for his moderation. He married Louise, the only daughter of Emperor William I, in 1856, which granted him influence in Berlin.
+
+Between 1850 and 1866, Baden supported Austria. During the war of 1866, Badenese contingents fought the Prussian army. However, the second chamber petitioned the grand-duke to end the conflict. Baden subsequently withdrew from the German confederation and signed a peace and alliance treaty with Prussia on August 17. While Bismarck initially prevented Baden from joining the North German confederation to avoid provoking Napoleon III, Baden's opposition to a South German confederation helped make the ultimate German union inevitable. Badenese troops participated in the war of 1870, and the grand-duke was the first to hail the king of Prussia as German emperor at the assembly in Versailles. Under the treaty that made Baden part of the German empire, Frederick reserved only the right to tax spirits and beer; Prussia took control of foreign relations, the post-office, railways, and the army.
+
+## Notable Locations
+*   **Badenweiler:** A health resort at the western edge of the Black Forest, sheltered by the Blauen (3,820 ft.). It is known for its equable climate, whey cure, and warm mineral springs (70°F). It features a *Kurhaus* built in 1853, a 15-acre park, and a grand-ducal castle refitted in 1887-1888. Roman baths were discovered here in 1784, and an 11th-century castle, destroyed by the French during the wars of Louis XV, stands near an Evangelical church built in 1897.
+*   **Bretten:** A town on the Saalbach, known as the birthplace of Melanchthon (1497). It contains a memorial hall for Melanchthon and a statue of him by Drake. The town has a trade in livestock and timber, and manufactories of japanned goods and machinery.
+
+## Sources
+Compiled from: britannica11 vol02b baconthorpe to bankruptcy, britannica11 vol03a brequigny to bulgaria
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
