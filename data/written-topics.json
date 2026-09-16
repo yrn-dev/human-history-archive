@@ -1,5 +1,5 @@
 {
- "count": 1880,
+ "count": 1881,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13160,6 +13160,13 @@
    "era": "modern",
    "file": "eras/modern/001881-district-chief-towns-pop-1905.md",
    "at": "2026-09-16T18:06:02+00:00"
+  },
+  {
+   "slug": "heidelberg-49-439",
+   "title": "Heidelberg             49,439",
+   "era": "modern",
+   "file": "eras/modern/001882-heidelberg-49-439.md",
+   "at": "2026-09-16T18:15:58+00:00"
   }
  ]
 }
