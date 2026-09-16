@@ -1,5 +1,5 @@
 {
- "count": 1899,
+ "count": 1900,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13293,6 +13293,13 @@
    "era": "industrial",
    "file": "eras/industrial/001900-beginning-1849-however-issue-new-constitution.md",
    "at": "2026-09-16T21:25:49+00:00"
+  },
+  {
+   "slug": "moment-revolution-baden-doomed",
+   "title": "From this moment the revolution in Baden was doomed, and with it the",
+   "era": "modern",
+   "file": "eras/modern/001901-moment-revolution-baden-doomed.md",
+   "at": "2026-09-16T21:35:49+00:00"
   }
  ]
 }
