@@ -1,5 +1,5 @@
 {
- "count": 1827,
+ "count": 1828,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12789,6 +12789,13 @@
    "era": "industrial",
    "file": "eras/industrial/001828-bacteria-their-products-bibliography-london-1891.md",
    "at": "2026-09-16T08:22:33+00:00"
+  },
+  {
+   "slug": "(r.-m.)",
+   "title": "(R. M.)",
+   "era": "modern",
+   "file": "eras/modern/001829-(r.-m.).md",
+   "at": "2026-09-16T08:32:35+00:00"
   }
  ]
 }
