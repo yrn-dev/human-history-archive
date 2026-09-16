@@ -1,5 +1,5 @@
 {
- "count": 1824,
+ "count": 1825,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12768,6 +12768,13 @@
    "era": "industrial",
    "file": "eras/industrial/001825-micro-organisms-disease-3rd-ed-london-1896-kolle.md",
    "at": "2026-09-16T07:53:13+00:00"
+  },
+  {
+   "slug": "wassermann-handbuch-der-pathogenen-mikroorganismen-jena-1904",
+   "title": "Wassermann, Handbuch der pathogenen Mikroorganismen (Jena, 1904)",
+   "era": "modern",
+   "file": "eras/modern/001826-wassermann-handbuch-der-pathogenen-mikroorganismen-jena-1904.md",
+   "at": "2026-09-16T08:02:32+00:00"
   }
  ]
 }
