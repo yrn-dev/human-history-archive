@@ -1,5 +1,5 @@
 {
- "count": 1780,
+ "count": 1781,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12460,6 +12460,13 @@
    "era": "industrial",
    "file": "eras/industrial/001781-oxford-1900-2nd-ed-german-jena-1903-migula-system-der.md",
    "at": "2026-09-15T23:52:57+00:00"
+  },
+  {
+   "slug": "bakterien-jena-1897-engler-prantl-die-natuerlichen",
+   "title": "Bakterien (Jena, 1897); and in Engler and Prantl, Die natuerlichen",
+   "era": "modern",
+   "file": "eras/modern/001782-bakterien-jena-1897-engler-prantl-die-natuerlichen.md",
+   "at": "2026-09-16T00:03:21+00:00"
   }
  ]
 }
