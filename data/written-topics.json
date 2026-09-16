@@ -1,5 +1,5 @@
 {
- "count": 1789,
+ "count": 1790,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -12523,6 +12523,13 @@
    "era": "modern",
    "file": "eras/modern/001790-eisenbakterien-bot-zeitg-1888-261-omeliansky-ueber-den.md",
    "at": "2026-09-16T01:32:54+00:00"
+  },
+  {
+   "slug": "maze-annales-de-institut-pasteur-ii-44-12",
+   "title": "Maze, Annales de l'Institut Pasteur, t. II, p. 44, and t. 12, p. 1",
+   "era": "modern",
+   "file": "eras/modern/001791-maze-annales-de-institut-pasteur-ii-44-12.md",
+   "at": "2026-09-16T01:42:54+00:00"
   }
  ]
 }
