@@ -1,5 +1,5 @@
 {
- "count": 2032,
+ "count": 2033,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14224,6 +14224,13 @@
    "era": "ancient",
    "file": "eras/ancient/002033-nos-explanation-189-francesco-bianchini-de-tribus.md",
    "at": "2026-09-17T22:43:50+00:00"
+  },
+  {
+   "slug": "lannes-eylau-heilsberg-friedland-he-fought-most",
+   "title": "Lannes, and at Eylau, Heilsberg and Friedland he fought with the most",
+   "era": "modern",
+   "file": "eras/modern/002034-lannes-eylau-heilsberg-friedland-he-fought-most.md",
+   "at": "2026-09-17T22:53:51+00:00"
   }
  ]
 }
