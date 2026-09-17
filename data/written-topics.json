@@ -1,5 +1,5 @@
 {
- "count": 2020,
+ "count": 2021,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14140,6 +14140,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002021-surdelina-sampogna-described-illustrated-mersenne-22.md",
    "at": "2026-09-17T20:24:00+00:00"
+  },
+  {
+   "slug": "aramaic-sump-ny-loan-word-greek-being",
+   "title": "Aramaic sump[=o]ny[=a] is a loan-word from the Greek, being a",
+   "era": "ancient",
+   "file": "eras/ancient/002022-aramaic-sump-ny-loan-word-greek-being.md",
+   "at": "2026-09-17T20:43:57+00:00"
   }
  ]
 }
