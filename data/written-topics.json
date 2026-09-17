@@ -1,5 +1,5 @@
 {
- "count": 1963,
+ "count": 1964,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13741,6 +13741,13 @@
    "era": "industrial",
    "file": "eras/industrial/001964-austrian-swiss-italian-turkish-20-anatolian-railway.md",
    "at": "2026-09-17T10:00:52+00:00"
+  },
+  {
+   "slug": "english-church-missionary-society-jews-only-part",
+   "title": "(English) Church Missionary Society. The Jews are the only part of the",
+   "era": "industrial",
+   "file": "eras/industrial/001965-english-church-missionary-society-jews-only-part.md",
+   "at": "2026-09-17T10:10:51+00:00"
   }
  ]
 }
