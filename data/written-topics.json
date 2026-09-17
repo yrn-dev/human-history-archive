@@ -1,5 +1,5 @@
 {
- "count": 2006,
+ "count": 2007,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14042,6 +14042,13 @@
    "era": "cultures",
    "file": "eras/cultures/002007-mccrummen-skye-verbally-taught-apprentices-follows---.md",
    "at": "2026-09-17T18:04:02+00:00"
+  },
+  {
+   "slug": "capt-day-descriptive-catalogue-musical-instruments",
+   "title": "(From Capt. C. R. Day's Descriptive Catalogue of Musical Instruments",
+   "era": "industrial",
+   "file": "eras/industrial/002008-capt-day-descriptive-catalogue-musical-instruments.md",
+   "at": "2026-09-17T18:14:06+00:00"
   }
  ]
 }
