@@ -1,5 +1,5 @@
 {
- "count": 2004,
+ "count": 2005,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14028,6 +14028,13 @@
    "era": "cultures",
    "file": "eras/cultures/002005-highland-bag-pipe---the-construction-highland-pipes.md",
    "at": "2026-09-17T17:44:08+00:00"
+  },
+  {
+   "slug": "use-musical-notation-highland-pipe-tunes-recent",
+   "title": "The use of musical notation for the Highland pipe tunes is a recent",
+   "era": "modern",
+   "file": "eras/modern/002006-use-musical-notation-highland-pipe-tunes-recent.md",
+   "at": "2026-09-17T17:54:10+00:00"
   }
  ]
 }
