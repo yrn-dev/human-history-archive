@@ -1,5 +1,5 @@
 {
- "count": 2030,
+ "count": 2031,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14210,6 +14210,13 @@
    "era": "ancient",
    "file": "eras/ancient/002031-(k.-s.).md",
    "at": "2026-09-17T22:23:57+00:00"
+  },
+  {
+   "slug": "1618-republished-band-xiii-publicationen-der-gesellschaft",
+   "title": "1618); republished in Band xiii. of the Publicationen der Gesellschaft",
+   "era": "cultures",
+   "file": "eras/cultures/002032-1618-republished-band-xiii-publicationen-der-gesellschaft.md",
+   "at": "2026-09-17T22:34:01+00:00"
   }
  ]
 }
