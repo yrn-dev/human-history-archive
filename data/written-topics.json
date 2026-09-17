@@ -1,5 +1,5 @@
 {
- "count": 1993,
+ "count": 1994,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13951,6 +13951,13 @@
    "era": "industrial",
    "file": "eras/industrial/001994-see-barth-travels-discoveries-north-central-africa.md",
    "at": "2026-09-17T15:54:20+00:00"
+  },
+  {
+   "slug": "bagneres-de-bigorre-town-south-western-france-capital",
+   "title": "BAGNERES-DE-BIGORRE, a town of south-western France, capital of an",
+   "era": "modern",
+   "file": "eras/modern/001995-bagneres-de-bigorre-town-south-western-france-capital.md",
+   "at": "2026-09-17T16:04:14+00:00"
   }
  ]
 }
