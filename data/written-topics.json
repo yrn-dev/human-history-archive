@@ -1,5 +1,5 @@
 {
- "count": 1916,
+ "count": 1917,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13412,6 +13412,13 @@
    "era": "industrial",
    "file": "eras/industrial/001917-college-oxford-but-only-obtained-third-class-classics-1836.md",
    "at": "2026-09-17T00:15:41+00:00"
+  },
+  {
+   "slug": "helena-iphigenia-tauris-1851-ion-1851-plato-philebus",
+   "title": "Helena and Iphigenia in Tauris (1851), Ion (1851); Plato's Philebus",
+   "era": "ancient",
+   "file": "eras/ancient/001918-helena-iphigenia-tauris-1851-ion-1851-plato-philebus.md",
+   "at": "2026-09-17T00:25:36+00:00"
   }
  ]
 }
