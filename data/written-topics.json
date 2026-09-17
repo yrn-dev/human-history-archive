@@ -1,5 +1,5 @@
 {
- "count": 1952,
+ "count": 1953,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13664,6 +13664,13 @@
    "era": "modern",
    "file": "eras/modern/001953-samawa-tigris-tekrit-samarra-kut-el-amara-settled.md",
    "at": "2026-09-17T07:34:55+00:00"
+  },
+  {
+   "slug": "houses-richer-classes-regularly-built-interior",
+   "title": "The houses of the richer classes are regularly built about an interior",
+   "era": "cultures",
+   "file": "eras/cultures/001954-houses-richer-classes-regularly-built-interior.md",
+   "at": "2026-09-17T07:44:18+00:00"
   }
  ]
 }
