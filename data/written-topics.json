@@ -1,5 +1,5 @@
 {
- "count": 2029,
+ "count": 2030,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14203,6 +14203,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002030-lully-introduced-musette-his-operas-1758-list.md",
    "at": "2026-09-17T22:13:54+00:00"
+  },
+  {
+   "slug": "(k.-s.)",
+   "title": "(K. S.)",
+   "era": "ancient",
+   "file": "eras/ancient/002031-(k.-s.).md",
+   "at": "2026-09-17T22:23:57+00:00"
   }
  ]
 }
