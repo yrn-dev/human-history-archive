@@ -1,5 +1,5 @@
 {
- "count": 1941,
+ "count": 1942,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13587,6 +13587,13 @@
    "era": "modern",
    "file": "eras/modern/001942-hour-daphne-arcadia-madonna-auburn-hair.md",
    "at": "2026-09-17T05:05:28+00:00"
+  },
+  {
+   "slug": "nat-hist-xvii-photius-cod-242-03-0192-greek",
+   "title": "Nat. Hist. xvii. 9; Photius, Cod. 242). [v.03 p.0192] In Greek",
+   "era": "ancient",
+   "file": "eras/ancient/001943-nat-hist-xvii-photius-cod-242-03-0192-greek.md",
+   "at": "2026-09-17T05:15:21+00:00"
   }
  ]
 }
