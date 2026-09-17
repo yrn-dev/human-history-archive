@@ -1,5 +1,5 @@
 {
- "count": 2008,
+ "count": 2009,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14056,6 +14056,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/002009-unison-lowest-note-chaunter-which-seven.md",
    "at": "2026-09-17T18:24:12+00:00"
+  },
+  {
+   "slug": "france-italy-netherlands-advent-musette",
+   "title": "France, Italy and the Netherlands before the advent of the musette, to",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002010-france-italy-netherlands-advent-musette.md",
+   "at": "2026-09-17T18:34:10+00:00"
   }
  ]
 }
