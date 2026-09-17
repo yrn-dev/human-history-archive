@@ -1,5 +1,5 @@
 {
- "count": 2026,
+ "count": 2027,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14182,6 +14182,13 @@
    "era": "ancient",
    "file": "eras/ancient/002027-177-pl-lxiv.md",
    "at": "2026-09-17T21:43:52+00:00"
+  },
+  {
+   "slug": "downfall-roman-empire-bag-pipe-sharing-fate",
+   "title": "On the downfall of the Roman empire, the bag-pipe, sharing the fate of",
+   "era": "ancient",
+   "file": "eras/ancient/002028-downfall-roman-empire-bag-pipe-sharing-fate.md",
+   "at": "2026-09-17T21:54:03+00:00"
   }
  ]
 }
