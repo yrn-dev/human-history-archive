@@ -1,5 +1,5 @@
 {
- "count": 1992,
+ "count": 1993,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -13944,6 +13944,13 @@
    "era": "modern",
    "file": "eras/modern/001993-subsequent-missions-more-fortunate-1897-emile-gentil.md",
    "at": "2026-09-17T15:44:07+00:00"
+  },
+  {
+   "slug": "see-barth-travels-discoveries-north-central-africa",
+   "title": "See H. Barth, Travels and Discoveries in North and Central Africa",
+   "era": "industrial",
+   "file": "eras/industrial/001994-see-barth-travels-discoveries-north-central-africa.md",
+   "at": "2026-09-17T15:54:20+00:00"
   }
  ]
 }
