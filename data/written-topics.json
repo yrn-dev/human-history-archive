@@ -1,5 +1,5 @@
 {
- "count": 2157,
+ "count": 2158,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15099,6 +15099,13 @@
    "era": "modern",
    "file": "eras/modern/002158-independency-brownisme-antinomy-familisme-sermon.md",
    "at": "2026-09-18T21:25:57+00:00"
+  },
+  {
+   "slug": "1643-parallel-liturgy-mass-book-breviary",
+   "title": "1643); A Parallel of the Liturgy with the Mass Book, the Breviary, the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002159-1643-parallel-liturgy-mass-book-breviary.md",
+   "at": "2026-09-18T21:35:45+00:00"
   }
  ]
 }
