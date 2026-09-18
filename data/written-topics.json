@@ -1,5 +1,5 @@
 {
- "count": 2134,
+ "count": 2135,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14938,6 +14938,13 @@
    "era": "industrial",
    "file": "eras/industrial/002135-blackwood-reprinted-lectures-remains-ii-bailey-replied.md",
    "at": "2026-09-18T17:35:49+00:00"
+  },
+  {
+   "slug": "letters-contain-discussion-many-principal-problems",
+   "title": "The Letters contain a discussion of many of the principal problems in",
+   "era": "modern",
+   "file": "eras/modern/002136-letters-contain-discussion-many-principal-problems.md",
+   "at": "2026-09-18T17:45:52+00:00"
   }
  ]
 }
