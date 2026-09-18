@@ -1,5 +1,5 @@
 {
- "count": 2079,
+ "count": 2080,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14553,6 +14553,13 @@
    "era": "cultures",
    "file": "eras/cultures/002080-bahrein-moharek-curved-shape-long.md",
    "at": "2026-09-18T07:06:54+00:00"
+  },
+  {
+   "slug": "present-sheik-bahrein-who-lives-chiefly-moharek",
+   "title": "The present Sheik of Bahrein (who lives chiefly at Moharek) is of the",
+   "era": "modern",
+   "file": "eras/modern/002081-present-sheik-bahrein-who-lives-chiefly-moharek.md",
+   "at": "2026-09-18T07:16:54+00:00"
   }
  ]
 }
