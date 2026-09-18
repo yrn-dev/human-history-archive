@@ -1,5 +1,5 @@
 {
- "count": 2054,
+ "count": 2055,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14378,6 +14378,13 @@
    "era": "industrial",
    "file": "eras/industrial/002055-island-800-slaves-work-nearly-4000-acres-land.md",
    "at": "2026-09-18T02:17:02+00:00"
+  },
+  {
+   "slug": "1864-first-year-imports-l234-029-exports",
+   "title": "1864. In the first year the imports were L234,029, and the exports",
+   "era": "industrial",
+   "file": "eras/industrial/002056-1864-first-year-imports-l234-029-exports.md",
+   "at": "2026-09-18T02:27:15+00:00"
   }
  ]
 }
