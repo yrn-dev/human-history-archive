@@ -1,5 +1,5 @@
 {
- "count": 2065,
+ "count": 2066,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14455,6 +14455,13 @@
    "era": "cultures",
    "file": "eras/cultures/002066-anna-border-sertao-long-celebrated-cattle.md",
    "at": "2026-09-18T04:27:09+00:00"
+  },
+  {
+   "slug": "(a.-j.-l.)",
+   "title": "(A. J. L.)",
+   "era": "modern",
+   "file": "eras/modern/002067-(a.-j.-l.).md",
+   "at": "2026-09-18T04:37:29+00:00"
   }
  ]
 }
