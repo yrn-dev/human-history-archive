@@ -1,5 +1,5 @@
 {
- "count": 2168,
+ "count": 2169,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15176,6 +15176,13 @@
    "era": "industrial",
    "file": "eras/industrial/002169-wilson-brett-1843-11-113-transaction-being.md",
    "at": "2026-09-18T23:15:30+00:00"
+  },
+  {
+   "slug": "camoys-scurr-1840-383-locatio-rei-lending",
+   "title": "(Camoys v. Scurr, 1840, 9 C. & P. 383). (3) Locatio rei, or lending",
+   "era": "industrial",
+   "file": "eras/industrial/002170-camoys-scurr-1840-383-locatio-rei-lending.md",
+   "at": "2026-09-18T23:25:32+00:00"
   }
  ]
 }
