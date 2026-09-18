@@ -1,5 +1,5 @@
 {
- "count": 2095,
+ "count": 2096,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14665,6 +14665,13 @@
    "era": "ancient",
    "file": "eras/ancient/002096-(f.-r.-m.).md",
    "at": "2026-09-18T10:16:42+00:00"
+  },
+  {
+   "slug": "bai-abdallah-ibn-umar-al-bai-mahommedan",
+   "title": "BAI[D.][=A]W[=I] ('Abdallah ibn 'Umar al-Bai[d.][=a]w[=i]), Mahommedan",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002097-bai-abdallah-ibn-umar-al-bai-mahommedan.md",
+   "at": "2026-09-18T10:26:36+00:00"
   }
  ]
 }
