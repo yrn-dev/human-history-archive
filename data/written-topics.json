@@ -1,5 +1,5 @@
 {
- "count": 2048,
+ "count": 2049,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14336,6 +14336,13 @@
    "era": "cultures",
    "file": "eras/cultures/002049-andros-island-abaco-islands-may-specially-noted-their.md",
    "at": "2026-09-18T01:23:48+00:00"
+  },
+  {
+   "slug": "government-trade---the-colony-bahamas-british",
+   "title": "Government, Trade, &c.--The colony of the Bahamas is under a British",
+   "era": "modern",
+   "file": "eras/modern/002050-government-trade---the-colony-bahamas-british.md",
+   "at": "2026-09-18T01:33:46+00:00"
   }
  ]
 }
