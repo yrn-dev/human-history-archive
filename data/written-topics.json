@@ -1,5 +1,5 @@
 {
- "count": 2082,
+ "count": 2083,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14574,6 +14574,13 @@
    "era": "modern",
    "file": "eras/modern/002083-wau-7deg-42-28deg-jur-capital.md",
    "at": "2026-09-18T07:57:41+00:00"
+  },
+  {
+   "slug": "bahr-el-jebel-lake-long-west-east",
+   "title": "Bahr-el-Jebel. The lake is about 7 m. long from west to east, and the",
+   "era": "cultures",
+   "file": "eras/cultures/002084-bahr-el-jebel-lake-long-west-east.md",
+   "at": "2026-09-18T08:07:01+00:00"
   }
  ]
 }
