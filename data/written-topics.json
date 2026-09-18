@@ -1,5 +1,5 @@
 {
- "count": 2124,
+ "count": 2125,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14868,6 +14868,13 @@
    "era": "industrial",
    "file": "eras/industrial/002125-1847-1843-also-he-edited-daily-paper-herald-1847-he.md",
    "at": "2026-09-18T15:45:56+00:00"
+  },
+  {
+   "slug": "washington-here-also-his-paper-object-attack",
+   "title": "Washington, D.C. Here also his paper was the object of attack by",
+   "era": "modern",
+   "file": "eras/modern/002126-washington-here-also-his-paper-object-attack.md",
+   "at": "2026-09-18T15:55:58+00:00"
   }
  ]
 }
