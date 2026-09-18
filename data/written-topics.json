@@ -1,5 +1,5 @@
 {
- "count": 2130,
+ "count": 2131,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14910,6 +14910,13 @@
    "era": "industrial",
    "file": "eras/industrial/002131-economy-politics-morals-1823-critical-dissertation.md",
    "at": "2026-09-18T16:55:56+00:00"
+  },
+  {
+   "slug": "parliamentary-reform-right-primogeniture-examined-defence",
+   "title": "Parliamentary Reform, Right of Primogeniture Examined, Defence of",
+   "era": "industrial",
+   "file": "eras/industrial/002132-parliamentary-reform-right-primogeniture-examined-defence.md",
+   "at": "2026-09-18T17:05:54+00:00"
   }
  ]
 }
