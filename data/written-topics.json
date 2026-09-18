@@ -1,5 +1,5 @@
 {
- "count": 2142,
+ "count": 2143,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14994,6 +14994,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/002143-ordinance-1190-which-king-set-forth.md",
    "at": "2026-09-18T18:56:17+00:00"
+  },
+  {
+   "slug": "(j.-p.-e.)",
+   "title": "(J. P. E.)",
+   "era": "ancient",
+   "file": "eras/ancient/002144-(j.-p.-e.).md",
+   "at": "2026-09-18T19:05:44+00:00"
   }
  ]
 }
