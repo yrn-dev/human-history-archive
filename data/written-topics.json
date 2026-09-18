@@ -1,5 +1,5 @@
 {
- "count": 2040,
+ "count": 2041,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14280,6 +14280,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/002041-barton-clay-middle-bagshot-london-basin-barton-beds.md",
    "at": "2026-09-18T00:03:51+00:00"
+  },
+  {
+   "slug": "alam-buxar-1764-all-real-power-resided-east-india",
+   "title": "Alam at Buxar in 1764 all real power had resided with the East India",
+   "era": "industrial",
+   "file": "eras/industrial/002042-alam-buxar-1764-all-real-power-resided-east-india.md",
+   "at": "2026-09-18T00:13:58+00:00"
   }
  ]
 }
