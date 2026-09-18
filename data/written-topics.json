@@ -1,5 +1,5 @@
 {
- "count": 2141,
+ "count": 2142,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14987,6 +14987,13 @@
    "era": "modern",
    "file": "eras/modern/002142-(t.-a.-i.).md",
    "at": "2026-09-18T18:45:44+00:00"
+  },
+  {
+   "slug": "ordinance-1190-which-king-set-forth",
+   "title": "In the ordinance of 1190, by which the king, about to set forth on the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002143-ordinance-1190-which-king-set-forth.md",
+   "at": "2026-09-18T18:56:17+00:00"
   }
  ]
 }
