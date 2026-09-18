@@ -1,5 +1,5 @@
 {
- "count": 2110,
+ "count": 2111,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14770,6 +14770,13 @@
    "era": "modern",
    "file": "eras/modern/002111-frolikha-situated-close-northern-extremity-lake-baikal.md",
    "at": "2026-09-18T12:56:48+00:00"
+  },
+  {
+   "slug": "1876-witkowski-seals-yakovlev-fishes-angara-same",
+   "title": "(1876); Witkowski, on \"Seals\"; Yakovlev's \"Fishes of Angara,\" in same",
+   "era": "industrial",
+   "file": "eras/industrial/002112-1876-witkowski-seals-yakovlev-fishes-angara-same.md",
+   "at": "2026-09-18T13:06:52+00:00"
   }
  ]
 }
