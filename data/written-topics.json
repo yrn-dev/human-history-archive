@@ -1,5 +1,5 @@
 {
- "count": 2097,
+ "count": 2098,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -14679,6 +14679,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/002098-interpretation-asr-ut-tanz-wa-asr-ut-ta.md",
    "at": "2026-09-18T10:36:36+00:00"
+  },
+  {
+   "slug": "terence-le-brave-1567-imitation-miles-gloriosus",
+   "title": "Terence, and Le Brave (1567), an imitation of the Miles Gloriosus, in",
+   "era": "renaissance",
+   "file": "eras/renaissance/002099-terence-le-brave-1567-imitation-miles-gloriosus.md",
+   "at": "2026-09-18T10:46:36+00:00"
   }
  ]
 }
