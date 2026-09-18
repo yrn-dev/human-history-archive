@@ -1,5 +1,5 @@
 {
- "count": 2148,
+ "count": 2149,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15036,6 +15036,13 @@
    "era": "modern",
    "file": "eras/modern/002149-jerviswood-lady-grisell-baillie-their-daughter-lady-murray.md",
    "at": "2026-09-18T19:56:40+00:00"
+  },
+  {
+   "slug": "stanhope-printed-1822-george-baillie-correspondence",
+   "title": "Stanhope, were printed in 1822. George Baillie's Correspondence",
+   "era": "industrial",
+   "file": "eras/industrial/002150-stanhope-printed-1822-george-baillie-correspondence.md",
+   "at": "2026-09-18T20:05:42+00:00"
   }
  ]
 }
