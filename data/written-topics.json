@@ -1,5 +1,5 @@
 {
- "count": 2240,
+ "count": 2241,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15680,6 +15680,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002241-government-unto-death-king-james-1643-many-subsequent.md",
    "at": "2026-09-19T12:34:53+00:00"
+  },
+  {
+   "slug": "translation-new-epistles-moonsieur-balzac-1638-apologie",
+   "title": "Translation of New Epistles by Moonsieur D'Balzac (1638); Apologie for",
+   "era": "renaissance",
+   "file": "eras/renaissance/002242-translation-new-epistles-moonsieur-balzac-1638-apologie.md",
+   "at": "2026-09-19T12:54:49+00:00"
   }
  ]
 }
