@@ -1,5 +1,5 @@
 {
- "count": 2201,
+ "count": 2202,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15407,6 +15407,13 @@
    "era": "industrial",
    "file": "eras/industrial/002202-1821-order-pope-pius-vii-taken-permanent-place.md",
    "at": "2026-09-19T05:25:11+00:00"
+  },
+  {
+   "slug": "lesser-bairam-sheker-bair-sugar-bairam",
+   "title": "(\"Lesser Bairam\"), or Sheker Bair[=a]m (\"Sugar Bairam\"), and by",
+   "era": "cultures",
+   "file": "eras/cultures/002203-lesser-bairam-sheker-bair-sugar-bairam.md",
+   "at": "2026-09-19T05:35:08+00:00"
   }
  ]
 }
