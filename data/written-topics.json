@@ -1,5 +1,5 @@
 {
- "count": 2241,
+ "count": 2242,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15687,6 +15687,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002242-translation-new-epistles-moonsieur-balzac-1638-apologie.md",
    "at": "2026-09-19T12:54:49+00:00"
+  },
+  {
+   "slug": "laymen-writing-divinity-short-meditation-upon-fall",
+   "title": "Laymen's Writing in Divinity, with a Short Meditation upon the Fall of",
+   "era": "modern",
+   "file": "eras/modern/002243-laymen-writing-divinity-short-meditation-upon-fall.md",
+   "at": "2026-09-19T13:04:49+00:00"
   }
  ]
 }
