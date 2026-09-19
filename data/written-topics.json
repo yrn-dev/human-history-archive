@@ -1,5 +1,5 @@
 {
- "count": 2207,
+ "count": 2208,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15449,6 +15449,13 @@
    "era": "industrial",
    "file": "eras/industrial/002208-1787-visited-england-1789-purchased-lieutenant-colonelcy.md",
    "at": "2026-09-19T06:25:07+00:00"
+  },
+  {
+   "slug": "war-command-considerable-force-which-sent-spain",
+   "title": "War in command of a considerable force which was sent to Spain to",
+   "era": "ancient",
+   "file": "eras/ancient/002209-war-command-considerable-force-which-sent-spain.md",
+   "at": "2026-09-19T06:35:12+00:00"
   }
  ]
 }
