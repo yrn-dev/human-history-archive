@@ -1,5 +1,5 @@
 {
- "count": 2184,
+ "count": 2185,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15288,6 +15288,13 @@
    "era": "modern",
    "file": "eras/modern/002185-aristotle-minor-works-he-also-wrote-memoir-prefixed-croom.md",
    "at": "2026-09-19T02:05:21+00:00"
+  },
+  {
+   "slug": "bain-andrew-geddes-1797-1864-british-geologist-native",
+   "title": "BAIN, ANDREW GEDDES (1797-1864), British geologist, was a native of",
+   "era": "industrial",
+   "file": "eras/industrial/002186-bain-andrew-geddes-1797-1864-british-geologist-native.md",
+   "at": "2026-09-19T02:25:19+00:00"
   }
  ]
 }
