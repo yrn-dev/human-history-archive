@@ -1,5 +1,5 @@
 {
- "count": 2234,
+ "count": 2235,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15638,6 +15638,13 @@
    "era": "ancient",
    "file": "eras/ancient/002235-koh-i-mor-been-identified-meros-arrian-history--the.md",
    "at": "2026-09-19T11:34:47+00:00"
+  },
+  {
+   "slug": "1804-his-earliest-contributions-made-kisfaludy-aurora",
+   "title": "1804. His earliest contributions were made to Kisfaludy's Aurora, a",
+   "era": "industrial",
+   "file": "eras/industrial/002236-1804-his-earliest-contributions-made-kisfaludy-aurora.md",
+   "at": "2026-09-19T11:44:47+00:00"
   }
  ]
 }
