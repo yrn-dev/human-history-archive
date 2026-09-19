@@ -1,5 +1,5 @@
 {
- "count": 2300,
+ "count": 2301,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16100,6 +16100,13 @@
    "era": "ancient",
    "file": "eras/ancient/002301-realencyclopaedie-fuer-bibel-und-talmud-hastings-bible-dict-black.md",
    "at": "2026-09-19T23:34:18+00:00"
+  },
+  {
+   "slug": "(w.-h.-be.)",
+   "title": "(W. H. BE.)",
+   "era": "industrial",
+   "file": "eras/industrial/002302-(w.-h.-be.).md",
+   "at": "2026-09-19T23:44:28+00:00"
   }
  ]
 }
