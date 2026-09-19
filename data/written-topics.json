@@ -1,5 +1,5 @@
 {
- "count": 2215,
+ "count": 2216,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15505,6 +15505,13 @@
    "era": "modern",
    "file": "eras/modern/002216-american-ornithology-mammals-north-america-descriptions-based.md",
    "at": "2026-09-19T08:05:14+00:00"
+  },
+  {
+   "slug": "north-american-birds-boston-1875-1884-land-birds-vols-water",
+   "title": "North American Birds (Boston, 1875-1884; \"Land Birds,\" 3 vols., \"Water",
+   "era": "industrial",
+   "file": "eras/industrial/002217-north-american-birds-boston-1875-1884-land-birds-vols-water.md",
+   "at": "2026-09-19T08:15:04+00:00"
   }
  ]
 }
