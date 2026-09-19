@@ -1,5 +1,5 @@
 {
- "count": 2188,
+ "count": 2189,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15316,6 +15316,13 @@
    "era": "industrial",
    "file": "eras/industrial/002189-obituary-dr-rubidge-geol-mag-january-1865-47-also.md",
    "at": "2026-09-19T02:55:17+00:00"
+  },
+  {
+   "slug": "bainbridge-john-1582-1643-english-astronomer-born",
+   "title": "BAINBRIDGE, JOHN (1582-1643), English astronomer, was born at",
+   "era": "renaissance",
+   "file": "eras/renaissance/002190-bainbridge-john-1582-1643-english-astronomer-born.md",
+   "at": "2026-09-19T03:05:15+00:00"
   }
  ]
 }
