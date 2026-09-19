@@ -1,5 +1,5 @@
 {
- "count": 2247,
+ "count": 2248,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15729,6 +15729,13 @@
    "era": "modern",
    "file": "eras/modern/002248-baker-undertook-command-military-expedition-equatorial.md",
    "at": "2026-09-19T13:56:31+00:00"
+  },
+  {
+   "slug": "cairo-force-1700-egyptian-troops--many-them-discharged",
+   "title": "Cairo with a force of 1700 Egyptian troops--many of them discharged",
+   "era": "industrial",
+   "file": "eras/industrial/002249-cairo-force-1700-egyptian-troops--many-them-discharged.md",
+   "at": "2026-09-19T14:04:45+00:00"
   }
  ]
 }
