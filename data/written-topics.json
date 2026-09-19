@@ -1,5 +1,5 @@
 {
- "count": 2251,
+ "count": 2252,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15757,6 +15757,13 @@
    "era": "industrial",
    "file": "eras/industrial/002252-ceylon-1848-entered-ceylon-rifles-ensign-soon.md",
    "at": "2026-09-19T14:44:46+00:00"
+  },
+  {
+   "slug": "mehemet-staff-thence-took-command-division",
+   "title": "Mehemet's staff, and thence took over the command of a division of",
+   "era": "modern",
+   "file": "eras/modern/002253-mehemet-staff-thence-took-command-division.md",
+   "at": "2026-09-19T14:54:39+00:00"
   }
  ]
 }
