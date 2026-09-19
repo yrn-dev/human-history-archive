@@ -1,5 +1,5 @@
 {
- "count": 2190,
+ "count": 2191,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15330,6 +15330,13 @@
    "era": "modern",
    "file": "eras/modern/002191-ashby-de-la-zouch-leicestershire-he-started-physician.md",
    "at": "2026-09-19T03:15:27+00:00"
+  },
+  {
+   "slug": "de-sphaera-ptolemy-de-planetarum-hypothesibus-1620-several",
+   "title": "De Sphaera, and Ptolemy's De Planetarum Hypothesibus (1620). Several",
+   "era": "renaissance",
+   "file": "eras/renaissance/002192-de-sphaera-ptolemy-de-planetarum-hypothesibus-1620-several.md",
+   "at": "2026-09-19T03:25:20+00:00"
   }
  ]
 }
