@@ -1,5 +1,5 @@
 {
- "count": 2210,
+ "count": 2211,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15470,6 +15470,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002211-vols-1886-huguenots-revocation-edict.md",
    "at": "2026-09-19T06:55:08+00:00"
+  },
+  {
+   "slug": "modern-greece-narrative-residence-travels-country",
+   "title": "Modern Greece, A Narrative of a Residence and Travels in that Country",
+   "era": "modern",
+   "file": "eras/modern/002212-modern-greece-narrative-residence-travels-country.md",
+   "at": "2026-09-19T07:05:06+00:00"
   }
  ]
 }
