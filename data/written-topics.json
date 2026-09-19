@@ -1,5 +1,5 @@
 {
- "count": 2219,
+ "count": 2220,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15533,6 +15533,13 @@
    "era": "industrial",
    "file": "eras/industrial/002220-oratores-attici-1838-1850-orelli-winckelmann-critical.md",
    "at": "2026-09-19T08:45:06+00:00"
+  },
+  {
+   "slug": "iambicae-nuper-repertae-1845-isocrates-didot-collection",
+   "title": "Iambicae nuper repertae (1845); Isocrates, in the Didot collection of",
+   "era": "ancient",
+   "file": "eras/ancient/002221-iambicae-nuper-repertae-1845-isocrates-didot-collection.md",
+   "at": "2026-09-19T08:55:03+00:00"
   }
  ]
 }
