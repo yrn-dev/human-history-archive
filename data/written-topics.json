@@ -1,5 +1,5 @@
 {
- "count": 2209,
+ "count": 2210,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15463,6 +15463,13 @@
    "era": "modern",
    "file": "eras/modern/002210-jersey-now-princeton-university-1859-until-his-death.md",
    "at": "2026-09-19T06:45:10+00:00"
+  },
+  {
+   "slug": "vols-1886-huguenots-revocation-edict",
+   "title": "(2 vols., 1886), and The Huguenots and the Revocation of the Edict of",
+   "era": "renaissance",
+   "file": "eras/renaissance/002211-vols-1886-huguenots-revocation-edict.md",
+   "at": "2026-09-19T06:55:08+00:00"
   }
  ]
 }
