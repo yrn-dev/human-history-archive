@@ -1,5 +1,5 @@
 {
- "count": 2246,
+ "count": 2247,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15722,6 +15722,13 @@
    "era": "industrial",
    "file": "eras/industrial/002247-rifle-hound-ceylon-1853-two-years-later-eight.md",
    "at": "2026-09-19T13:44:43+00:00"
+  },
+  {
+   "slug": "baker-undertook-command-military-expedition-equatorial",
+   "title": "Baker undertook the command of a military expedition to the equatorial",
+   "era": "modern",
+   "file": "eras/modern/002248-baker-undertook-command-military-expedition-equatorial.md",
+   "at": "2026-09-19T13:56:31+00:00"
   }
  ]
 }
