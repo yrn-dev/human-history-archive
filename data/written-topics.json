@@ -1,5 +1,5 @@
 {
- "count": 2243,
+ "count": 2244,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15701,6 +15701,13 @@
    "era": "modern",
    "file": "eras/modern/002244-lucifer-1641-motives-prayer-upon-seaven-dayes-ye-weeke.md",
    "at": "2026-09-19T13:14:55+00:00"
+  },
+  {
+   "slug": "1642-translation-malvezzi-discourses-upon-cornelius-tacitus",
+   "title": "(1642); a translation of Malvezzi's Discourses upon Cornelius Tacitus",
+   "era": "renaissance",
+   "file": "eras/renaissance/002245-1642-translation-malvezzi-discourses-upon-cornelius-tacitus.md",
+   "at": "2026-09-19T13:24:49+00:00"
   }
  ]
 }
