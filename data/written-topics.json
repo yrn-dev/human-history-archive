@@ -1,5 +1,5 @@
 {
- "count": 2301,
+ "count": 2302,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16107,6 +16107,13 @@
    "era": "industrial",
    "file": "eras/industrial/002302-(w.-h.-be.).md",
    "at": "2026-09-19T23:44:28+00:00"
+  },
+  {
+   "slug": "bal-dhur-ab--l--abb-ahmad-ibn-yahy-ibn-bir",
+   "title": "BAL[=A]DHUR[=I] (AB[=U]-L-'ABB[=A]S AHMAD IBN YAHY[=A] IBN J[=A]BIR",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002303-bal-dhur-ab--l--abb-ahmad-ibn-yahy-ibn-bir.md",
+   "at": "2026-09-19T23:54:11+00:00"
   }
  ]
 }
