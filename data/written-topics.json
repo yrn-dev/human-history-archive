@@ -1,5 +1,5 @@
 {
- "count": 2250,
+ "count": 2251,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15750,6 +15750,13 @@
    "era": "modern",
    "file": "eras/modern/002251-baker-thomas-1656-1740-english-antiquary-born-14th.md",
    "at": "2026-09-19T14:24:42+00:00"
+  },
+  {
+   "slug": "ceylon-1848-entered-ceylon-rifles-ensign-soon",
+   "title": "Ceylon, and in 1848 entered the Ceylon Rifles as an ensign. Soon",
+   "era": "industrial",
+   "file": "eras/industrial/002252-ceylon-1848-entered-ceylon-rifles-ensign-soon.md",
+   "at": "2026-09-19T14:44:46+00:00"
   }
  ]
 }
