@@ -1,5 +1,5 @@
 {
- "count": 2265,
+ "count": 2266,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15855,6 +15855,13 @@
    "era": "industrial",
    "file": "eras/industrial/002266-baking-thus-primarily-applied-03-0230-process.md",
    "at": "2026-09-19T17:04:38+00:00"
+  },
+  {
+   "slug": "bakis-speaker-greek-bazo-general-name",
+   "title": "BAKIS (i.e. \"speaker,\" from [Greek: bazo]), a general name for the",
+   "era": "ancient",
+   "file": "eras/ancient/002267-bakis-speaker-greek-bazo-general-name.md",
+   "at": "2026-09-19T17:14:35+00:00"
   }
  ]
 }
