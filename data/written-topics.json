@@ -1,5 +1,5 @@
 {
- "count": 2256,
+ "count": 2257,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15792,6 +15792,13 @@
    "era": "modern",
    "file": "eras/modern/002257-derbyshire-england-river-wye-25-derby.md",
    "at": "2026-09-19T15:34:38+00:00"
+  },
+  {
+   "slug": "midland-railway-pop-urban-district-1901-2850-church-all",
+   "title": "Midland railway. Pop. of urban district (1901) 2850. The church of All",
+   "era": "industrial",
+   "file": "eras/industrial/002258-midland-railway-pop-urban-district-1901-2850-church-all.md",
+   "at": "2026-09-19T15:44:38+00:00"
   }
  ]
 }
