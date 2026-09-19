@@ -1,5 +1,5 @@
 {
- "count": 2200,
+ "count": 2201,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15400,6 +15400,13 @@
    "era": "industrial",
    "file": "eras/industrial/002201-mercury-leeds-1859-1874-knighted-1880-his.md",
    "at": "2026-09-19T05:05:13+00:00"
+  },
+  {
+   "slug": "1821-order-pope-pius-vii-taken-permanent-place",
+   "title": "1821 by order of Pope Pius VII., has taken a permanent place in the",
+   "era": "industrial",
+   "file": "eras/industrial/002202-1821-order-pope-pius-vii-taken-permanent-place.md",
+   "at": "2026-09-19T05:25:11+00:00"
   }
  ]
 }
