@@ -1,5 +1,5 @@
 {
- "count": 2206,
+ "count": 2207,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15442,6 +15442,13 @@
    "era": "industrial",
    "file": "eras/industrial/002207-baird-sir-david-1757-1829-british-general-born-newbyth.md",
    "at": "2026-09-19T06:15:08+00:00"
+  },
+  {
+   "slug": "1787-visited-england-1789-purchased-lieutenant-colonelcy",
+   "title": "1787, visited England in 1789, and purchased a lieutenant-colonelcy in",
+   "era": "industrial",
+   "file": "eras/industrial/002208-1787-visited-england-1789-purchased-lieutenant-colonelcy.md",
+   "at": "2026-09-19T06:25:07+00:00"
   }
  ]
 }
