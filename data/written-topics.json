@@ -1,5 +1,5 @@
 {
- "count": 2196,
+ "count": 2197,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15372,6 +15372,13 @@
    "era": "industrial",
    "file": "eras/industrial/002197-directory-gazetteer-county-york-history-directory.md",
    "at": "2026-09-19T04:25:12+00:00"
+  },
+  {
+   "slug": "duchy-lancaster-he-also-author-history-wars",
+   "title": "Duchy of Lancaster. He was also the author of a History of the Wars of",
+   "era": "industrial",
+   "file": "eras/industrial/002198-duchy-lancaster-he-also-author-history-wars.md",
+   "at": "2026-09-19T04:35:15+00:00"
   }
  ]
 }
