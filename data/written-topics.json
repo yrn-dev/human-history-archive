@@ -1,5 +1,5 @@
 {
- "count": 2218,
+ "count": 2219,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15526,6 +15526,13 @@
    "era": "industrial",
    "file": "eras/industrial/002219-panegyricus-1831-sauppe-lycurgus-leocratea-1834.md",
    "at": "2026-09-19T08:35:09+00:00"
+  },
+  {
+   "slug": "oratores-attici-1838-1850-orelli-winckelmann-critical",
+   "title": "Oratores Attici (1838-1850); with Orelli and Winckelmann, a critical",
+   "era": "industrial",
+   "file": "eras/industrial/002220-oratores-attici-1838-1850-orelli-winckelmann-critical.md",
+   "at": "2026-09-19T08:45:06+00:00"
   }
  ]
 }
