@@ -1,5 +1,5 @@
 {
- "count": 2180,
+ "count": 2181,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15260,6 +15260,13 @@
    "era": "industrial",
    "file": "eras/industrial/002181-edinburgh-1871-next-came-two-publications-international.md",
    "at": "2026-09-19T01:25:22+00:00"
+  },
+  {
+   "slug": "succeeded-1887-1888-new-edition-rhetoric",
+   "title": "This was succeeded (1887, 1888) by a new edition of the Rhetoric, and",
+   "era": "industrial",
+   "file": "eras/industrial/002182-succeeded-1887-1888-new-edition-rhetoric.md",
+   "at": "2026-09-19T01:35:33+00:00"
   }
  ]
 }
