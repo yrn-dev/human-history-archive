@@ -1,5 +1,5 @@
 {
- "count": 2237,
+ "count": 2238,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15659,6 +15659,13 @@
    "era": "industrial",
    "file": "eras/industrial/002238-cleomedis-circularis-doctrina-de-sublimitate-1820-bibliotheca-03.md",
    "at": "2026-09-19T12:04:48+00:00"
+  },
+  {
+   "slug": "25th-november-1774-among-his-publications-microscope-made",
+   "title": "25th of November 1774. Among his publications were The Microscope made",
+   "era": "modern",
+   "file": "eras/modern/002239-25th-november-1774-among-his-publications-microscope-made.md",
+   "at": "2026-09-19T12:14:47+00:00"
   }
  ]
 }
