@@ -1,5 +1,5 @@
 {
- "count": 2244,
+ "count": 2245,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15708,6 +15708,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002245-1642-translation-malvezzi-discourses-upon-cornelius-tacitus.md",
    "at": "2026-09-19T13:24:49+00:00"
+  },
+  {
+   "slug": "see-granger-biographical-history-england-revolution",
+   "title": "See J. Granger, Biographical History of England to the Revolution",
+   "era": "modern",
+   "file": "eras/modern/002246-see-granger-biographical-history-england-revolution.md",
+   "at": "2026-09-19T13:34:43+00:00"
   }
  ]
 }
