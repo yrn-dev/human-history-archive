@@ -1,5 +1,5 @@
 {
- "count": 2189,
+ "count": 2190,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -15323,6 +15323,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002190-bainbridge-john-1582-1643-english-astronomer-born.md",
    "at": "2026-09-19T03:05:15+00:00"
+  },
+  {
+   "slug": "ashby-de-la-zouch-leicestershire-he-started-physician",
+   "title": "Ashby-de-la-Zouch, in Leicestershire. He started as a physician and",
+   "era": "modern",
+   "file": "eras/modern/002191-ashby-de-la-zouch-leicestershire-he-started-physician.md",
+   "at": "2026-09-19T03:15:27+00:00"
   }
  ]
 }
