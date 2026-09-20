@@ -1,5 +1,5 @@
 {
- "count": 2368,
+ "count": 2369,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16576,6 +16576,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002369-baldi-bernardino-1533-1617-italian-mathematician-miscellaneous.md",
    "at": "2026-09-20T11:33:36+00:00"
+  },
+  {
+   "slug": "matematici-published-urbino-1707-abridgment-larger",
+   "title": "Matematici (published at Urbino in 1707) is an abridgment of a larger",
+   "era": "modern",
+   "file": "eras/modern/002370-matematici-published-urbino-1707-abridgment-larger.md",
+   "at": "2026-09-20T11:43:36+00:00"
   }
  ]
 }
