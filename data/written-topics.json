@@ -1,5 +1,5 @@
 {
- "count": 2421,
+ "count": 2422,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16947,6 +16947,13 @@
    "era": "modern",
    "file": "eras/modern/002422-oxford-contains-materials-he-collected-his-two-published.md",
    "at": "2026-09-20T21:13:14+00:00"
+  },
+  {
+   "slug": "bale-work-his-relationum-historicarum-de-rebus-anglicis-tomus-primus",
+   "title": "Bale's work his Relationum historicarum de rebus anglicis tomus primus",
+   "era": "renaissance",
+   "file": "eras/renaissance/002423-bale-work-his-relationum-historicarum-de-rebus-anglicis-tomus-primus.md",
+   "at": "2026-09-20T21:23:11+00:00"
   }
  ]
 }
