@@ -1,5 +1,5 @@
 {
- "count": 2335,
+ "count": 2336,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16345,6 +16345,13 @@
    "era": "modern",
    "file": "eras/modern/002336-mus-iii-1897-1898-caullery-mesnil-balanoglossus.md",
    "at": "2026-09-20T05:33:54+00:00"
+  },
+  {
+   "slug": "(a.-w.)",
+   "title": "(A. W.)",
+   "era": "industrial",
+   "file": "eras/industrial/002337-(a.-w.).md",
+   "at": "2026-09-20T05:44:07+00:00"
   }
  ]
 }
