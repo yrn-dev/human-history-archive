@@ -1,5 +1,5 @@
 {
- "count": 2364,
+ "count": 2365,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16548,6 +16548,13 @@
    "era": "ancient",
    "file": "eras/ancient/002365-hist-xxxvi-12-60-balbus-appears-given-some-attention.md",
    "at": "2026-09-20T10:33:47+00:00"
+  },
+  {
+   "slug": "1650-more-complete-edition-vols-munich-1729-also-good",
+   "title": "1650; a more complete edition in 8 vols. at Munich, 1729; also a good",
+   "era": "modern",
+   "file": "eras/modern/002366-1650-more-complete-edition-vols-munich-1729-also-good.md",
+   "at": "2026-09-20T10:43:46+00:00"
   }
  ]
 }
