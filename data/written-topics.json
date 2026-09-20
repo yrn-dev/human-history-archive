@@ -1,5 +1,5 @@
 {
- "count": 2336,
+ "count": 2337,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16352,6 +16352,13 @@
    "era": "industrial",
    "file": "eras/industrial/002337-(a.-w.).md",
    "at": "2026-09-20T05:44:07+00:00"
+  },
+  {
+   "slug": "berthelot-first-pupil-then-assistant-finally",
+   "title": "M. P. E. Berthelot first as pupil, then as assistant and finally as",
+   "era": "industrial",
+   "file": "eras/industrial/002338-berthelot-first-pupil-then-assistant-finally.md",
+   "at": "2026-09-20T05:53:53+00:00"
   }
  ]
 }
