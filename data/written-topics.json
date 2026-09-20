@@ -1,5 +1,5 @@
 {
- "count": 2339,
+ "count": 2340,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16373,6 +16373,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/002340-caradoc-chirbury-series-southern-scotland-hartfell.md",
    "at": "2026-09-20T06:13:56+00:00"
+  },
+  {
+   "slug": "balash-greek-authors-balas-later-form-name",
+   "title": "BALASH (in the Greek authors, Balas; the later form of the name",
+   "era": "ancient",
+   "file": "eras/ancient/002341-balash-greek-authors-balas-later-form-name.md",
+   "at": "2026-09-20T06:23:56+00:00"
   }
  ]
 }
