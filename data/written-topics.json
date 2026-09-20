@@ -1,5 +1,5 @@
 {
- "count": 2337,
+ "count": 2338,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16359,6 +16359,13 @@
    "era": "industrial",
    "file": "eras/industrial/002338-berthelot-first-pupil-then-assistant-finally.md",
    "at": "2026-09-20T05:53:53+00:00"
+  },
+  {
+   "slug": "trinucleus-seticornis-beds-slade-beds-redhill-shales-sholeshook",
+   "title": "Trinucleus seticornis beds (Slade beds, Redhill shales and Sholeshook",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/002339-trinucleus-seticornis-beds-slade-beds-redhill-shales-sholeshook.md",
+   "at": "2026-09-20T06:03:55+00:00"
   }
  ]
 }
