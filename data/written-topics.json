@@ -1,5 +1,5 @@
 {
- "count": 2400,
+ "count": 2401,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16800,6 +16800,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/002401-baldwin-son-sibylla-daughter-amalric-her-first.md",
    "at": "2026-09-20T17:33:18+00:00"
+  },
+  {
+   "slug": "sc-oxford-university-apart-articles-psychological",
+   "title": "D.Sc. of Oxford University. Apart from articles in the Psychological",
+   "era": "modern",
+   "file": "eras/modern/002402-sc-oxford-university-apart-articles-psychological.md",
+   "at": "2026-09-20T17:53:18+00:00"
   }
  ]
 }
