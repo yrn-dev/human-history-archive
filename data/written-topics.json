@@ -1,5 +1,5 @@
 {
- "count": 2384,
+ "count": 2385,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16688,6 +16688,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/002385-leipzig-1903-documents-tafel-thomas-urkunden-zur-aelteren.md",
    "at": "2026-09-20T14:33:38+00:00"
+  },
+  {
+   "slug": "pears-fall-constantinople-london-1885-hopf-griechische",
+   "title": "Pears, The Fall of Constantinople (London, 1885); Hopf, \"Griechische",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002386-pears-fall-constantinople-london-1885-hopf-griechische.md",
+   "at": "2026-09-20T14:43:34+00:00"
   }
  ]
 }
