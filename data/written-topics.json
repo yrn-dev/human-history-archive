@@ -1,5 +1,5 @@
 {
- "count": 2383,
+ "count": 2384,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16681,6 +16681,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/002384-wailly-paris-1872-ed-bouchet-vols-paris-1891-robert-03.md",
    "at": "2026-09-20T14:23:38+00:00"
+  },
+  {
+   "slug": "leipzig-1903-documents-tafel-thomas-urkunden-zur-aelteren",
+   "title": "Leipzig, 1903); Documents in Tafel and Thomas, Urkunden zur aelteren",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002385-leipzig-1903-documents-tafel-thomas-urkunden-zur-aelteren.md",
+   "at": "2026-09-20T14:33:38+00:00"
   }
  ]
 }
