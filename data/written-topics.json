@@ -1,5 +1,5 @@
 {
- "count": 2434,
+ "count": 2435,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17038,6 +17038,13 @@
    "era": "modern",
    "file": "eras/modern/002435-vuillier-paris-1904-first-edition-which-been-translated.md",
    "at": "2026-09-20T23:33:09+00:00"
+  },
+  {
+   "slug": "baleares-illustrated-volume-1423-pages-pifferrer",
+   "title": "Baleares, an illustrated volume of 1423 pages, by P. Pifferrer, in the",
+   "era": "modern",
+   "file": "eras/modern/002436-baleares-illustrated-volume-1423-pages-pifferrer.md",
+   "at": "2026-09-20T23:43:07+00:00"
   }
  ]
 }
