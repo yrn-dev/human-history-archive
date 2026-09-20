@@ -1,5 +1,5 @@
 {
- "count": 2366,
+ "count": 2367,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16562,6 +16562,13 @@
    "era": "cultures",
    "file": "eras/cultures/002367-balder-scandinavian-god-son-odin-othin-story-his.md",
    "at": "2026-09-20T10:53:40+00:00"
+  },
+  {
+   "slug": "1615-03-0243-best-edition-monumenta-germaniae",
+   "title": "1615. [v.03 p.0243] The best edition is in the Monumenta Germaniae",
+   "era": "renaissance",
+   "file": "eras/renaissance/002368-1615-03-0243-best-edition-monumenta-germaniae.md",
+   "at": "2026-09-20T11:23:45+00:00"
   }
  ]
 }
