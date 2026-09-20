@@ -1,5 +1,5 @@
 {
- "count": 2326,
+ "count": 2327,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16282,6 +16282,13 @@
    "era": "modern",
    "file": "eras/modern/002327-amphioxus-reverse-case-tongue-bar-contains-large.md",
    "at": "2026-09-20T04:04:05+00:00"
+  },
+  {
+   "slug": "amphioxus-subordinate-primary-bars-size-vascularity",
+   "title": "Amphioxus, subordinate to the primary bars in size, vascularity and",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/002328-amphioxus-subordinate-primary-bars-size-vascularity.md",
+   "at": "2026-09-20T04:13:58+00:00"
   }
  ]
 }
