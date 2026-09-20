@@ -1,5 +1,5 @@
 {
- "count": 2429,
+ "count": 2430,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17003,6 +17003,13 @@
    "era": "cultures",
    "file": "eras/cultures/002430-origin-name-baleares-mere-matter-conjecture.md",
    "at": "2026-09-20T22:43:04+00:00"
+  },
+  {
+   "slug": "latin-major-minor-through-byzantine-forms-greek-maiorika",
+   "title": "Latin Major and Minor, through the Byzantine forms [Greek: Maiorika]",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002431-latin-major-minor-through-byzantine-forms-greek-maiorika.md",
+   "at": "2026-09-20T22:53:09+00:00"
   }
  ]
 }
