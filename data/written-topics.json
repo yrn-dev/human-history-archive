@@ -1,5 +1,5 @@
 {
- "count": 2415,
+ "count": 2416,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -16905,6 +16905,13 @@
    "era": "modern",
    "file": "eras/modern/002416-collier-camden-soc-1838-itself-polemic-against-roman.md",
    "at": "2026-09-20T20:13:13+00:00"
+  },
+  {
+   "slug": "withstode-proude-pharao-his-poore-israel",
+   "title": "Withstode proude Pharao for his poore Israel.\"",
+   "era": "ancient",
+   "file": "eras/ancient/002417-withstode-proude-pharao-his-poore-israel.md",
+   "at": "2026-09-20T20:23:24+00:00"
   }
  ]
 }
