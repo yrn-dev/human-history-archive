@@ -1,5 +1,5 @@
 {
- "count": 2506,
+ "count": 2507,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17542,6 +17542,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/002507-see-john-fordun-chronica-gentis-scotorum-edited-skene.md",
    "at": "2026-09-21T12:12:33+00:00"
+  },
+  {
+   "slug": "edinburgh-1871-1872-andrew-wyntoun-orygynale-cronykil",
+   "title": "(Edinburgh, 1871-1872); Andrew of Wyntoun, The Orygynale Cronykil of",
+   "era": "industrial",
+   "file": "eras/industrial/002508-edinburgh-1871-1872-andrew-wyntoun-orygynale-cronykil.md",
+   "at": "2026-09-21T12:22:37+00:00"
   }
  ]
 }
