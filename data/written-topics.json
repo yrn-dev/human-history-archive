@@ -1,5 +1,5 @@
 {
- "count": 2505,
+ "count": 2506,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17535,6 +17535,13 @@
    "era": "cultures",
    "file": "eras/cultures/002506-late-dubious-tradition-asserts-family-name-became-so.md",
    "at": "2026-09-21T12:02:39+00:00"
+  },
+  {
+   "slug": "see-john-fordun-chronica-gentis-scotorum-edited-skene",
+   "title": "See John of Fordun, Chronica gentis Scotorum, edited by W. F. Skene",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002507-see-john-fordun-chronica-gentis-scotorum-edited-skene.md",
+   "at": "2026-09-21T12:12:33+00:00"
   }
  ]
 }
