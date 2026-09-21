@@ -1,0 +1,23 @@
+# John de Baliol and the Baliol Family
+
+The Baliol family played a significant role in the history of Scotland and England, evolving from Norman origins to the Scottish throne. The family was founded in England by Guy (or Guido) de Baliol, a Norman baron who held fiefs in Normandy, including Vinoy, Harcourt, Dampierre, and Bailleul. After arriving in England with William the Conqueror, Guy received lands in the north from William II. His descendant, Bernard (or Barnard) de Baliol, established a fortress in Durham known as Castle Barnard, which became the center of a town. Bernard fought during the civil war for King Stephen and was present at the battle of the Standard in 1138, though he was taken prisoner at the battle of Lincoln in 1141.
+
+## The Baliol Lineage and Estates
+The family's influence grew through subsequent generations. A younger Bernard de Baliol is credited with raising the siege of Alnwick and capturing King William the Lion of Scotland in July 1174. He was succeeded by his son Eustace, and later by Hugh around 1215. Hugh's son, John de Baliol, further expanded the family's wealth and position through his marriage to Dervorguila, daughter of Alan, earl of Galloway. This John de Baliol possessed one half of the lands in Galloway and thirty knights' fees in England. Although he served as one of the regents of Scotland during the minority of Alexander III, he was deprived of this office and had his lands forfeited for treason in 1255. He later fought for Henry III against Simon de Montfort and was captured at the battle of Lewes in 1264. Before his death in 1269, he established scholarships at Oxford, and his widow subsequently founded a college in the family's name.
+
+A cadet branch of the family descended from Ingelram, a son of the younger Bernard. Ingelram married the heiress of William de Berkeley, lord of Reidcastle and chamberlain of Scotland. Their son, Henry, became chamberlain around 1223 and inherited Valoines family fiefs in 1234. Henry's likely son, Alexander de Baliol, served as chamberlain of Scotland and was involved in the treaties of Salisbury (1289) and Brigham (1290). After 1296, Alexander fought in Scotland for Edward I and was summoned to several English parliaments. The family's presence in Scottish records ended with Thomas, the grandson of Alexander, who sold the estate of Cavers to the earl of Douglas in 1368.
+
+## Accession of John de Baliol to the Scottish Throne
+John de Baliol (1249–1315), son of John de Baliol and Dervorguila, became the head of the family in 1278. He rose to prominence in 1290 when the Scottish throne became vacant following the death of Margaret, the "maid of Norway." Baliol was one of three candidates for the crown. He claimed the throne through his maternal grandmother, Margaret, the eldest daughter of David, earl of Huntingdon. His primary rival was Robert Bruce, earl of Annandale; the conflict represented a dispute between the nearest of kin and the eldest by descent.
+
+King Edward I of England was invited to settle the dispute. At a meeting with Scottish nobles at Norham in May 1291, Edward demanded formal recognition as the overlord of Scotland. This position was tacitly admitted by the nobles and acknowledged by Baliol and the other candidates. A court consisting of twenty-four Englishmen and eighty Scotsmen was appointed to decide the matter. Based on the principles of feudal law regarding indivisible inheritance, the court advised Edward to decide in Baliol's favor.
+
+## Reign and Forfeiture
+John de Baliol was crowned king of Scotland at Scone on November 30, 1292, after swearing fealty to Edward I. He performed homage to the English king at Newcastle and, in January 1293, released Edward from all obligations made while Scotland had been in the English king's hands. However, the amicable relationship deteriorated when a Scottish vassal appealed to Edward as Baliol's overlord, leading to Baliol being summoned to the English court.
+
+By 1296, John de Baliol forfeited his English estates, including the lordship of Gainford and Barnard Castle. These properties were briefly seized by Anthony, bishop of Durham, before Edward I granted the castle and town to Guy Beauchamp, earl of Warwick.
+
+## Sources
+Compiled from: britannica11 vol02b baconthorpe to bankruptcy, britannica11 vol02c banks to bassoon, britannica11 vol03a brequigny to bulgaria, britannica11 vol03b bohemia to borgia, wells outline of history, herodotus the histories v2, thucydides history of the peloponnesian war, grote history of greece v09
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
