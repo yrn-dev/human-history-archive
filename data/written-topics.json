@@ -1,5 +1,5 @@
 {
- "count": 2523,
+ "count": 2524,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17661,6 +17661,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/002524-carboniferous-beds-present-trias-jura-take.md",
    "at": "2026-09-21T15:12:26+00:00"
+  },
+  {
+   "slug": "pop-per",
+   "title": "Pop. per",
+   "era": "modern",
+   "file": "eras/modern/002525-pop-per.md",
+   "at": "2026-09-21T15:22:33+00:00"
   }
  ]
 }
