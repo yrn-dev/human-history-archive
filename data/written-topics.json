@@ -1,5 +1,5 @@
 {
- "count": 2530,
+ "count": 2531,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17710,6 +17710,13 @@
    "era": "modern",
    "file": "eras/modern/002531-bosnia-herzegovina-austria-.md",
    "at": "2026-09-21T16:22:22+00:00"
+  },
+  {
+   "slug": "albania-macedonia-other",
+   "title": "Albania, Macedonia and other",
+   "era": "modern",
+   "file": "eras/modern/002532-albania-macedonia-other.md",
+   "at": "2026-09-21T16:42:26+00:00"
   }
  ]
 }
