@@ -1,5 +1,5 @@
 {
- "count": 2480,
+ "count": 2481,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17360,6 +17360,13 @@
    "era": "modern",
    "file": "eras/modern/002481-bibliography---see-article-dict-nat-biog-authorities.md",
    "at": "2026-09-21T07:42:51+00:00"
+  },
+  {
+   "slug": "melville-memoirs-bannatyne-club-1827-cal-state",
+   "title": "Melville's Memoirs (Bannatyne Club, 1827); Cal. of State",
+   "era": "renaissance",
+   "file": "eras/renaissance/002482-melville-memoirs-bannatyne-club-1827-cal-state.md",
+   "at": "2026-09-21T07:54:31+00:00"
   }
  ]
 }
