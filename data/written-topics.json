@@ -1,5 +1,5 @@
 {
- "count": 2481,
+ "count": 2482,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17367,6 +17367,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/002482-melville-memoirs-bannatyne-club-1827-cal-state.md",
    "at": "2026-09-21T07:54:31+00:00"
+  },
+  {
+   "slug": "(p.-c.-y.)",
+   "title": "(P. C. Y.)",
+   "era": "ancient",
+   "file": "eras/ancient/002483-(p.-c.-y.).md",
+   "at": "2026-09-21T08:02:47+00:00"
   }
  ]
 }
