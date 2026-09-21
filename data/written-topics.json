@@ -1,5 +1,5 @@
 {
- "count": 2559,
+ "count": 2560,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -17913,6 +17913,13 @@
    "era": "modern",
    "file": "eras/modern/002560-1891-cambon-autour-des-balkans-paris-1890-hamard-par.md",
    "at": "2026-09-21T21:32:08+00:00"
+  },
+  {
+   "slug": "1869-mackenzie-irby-travels-slavonic-provinces-turkey",
+   "title": "1869); Mackenzie and Irby, Travels in the Slavonic Provinces of Turkey",
+   "era": "modern",
+   "file": "eras/modern/002561-1869-mackenzie-irby-travels-slavonic-provinces-turkey.md",
+   "at": "2026-09-21T21:41:58+00:00"
   }
  ]
 }
