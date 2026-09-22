@@ -1,5 +1,5 @@
 {
- "count": 2642,
+ "count": 2643,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18494,6 +18494,13 @@
    "era": "industrial",
    "file": "eras/industrial/002643-denoting-value-any-velocity-then.md",
    "at": "2026-09-22T12:13:34+00:00"
+  },
+  {
+   "slug": "sum-delta-gp-constant-integral-dv-gp",
+   "title": "(9)     T(v) = [Sum]([Delta]v)/gp + a constant, or [Integral]dv/gp + a",
+   "era": "industrial",
+   "file": "eras/industrial/002644-sum-delta-gp-constant-integral-dv-gp.md",
+   "at": "2026-09-22T12:23:45+00:00"
   }
  ]
 }
