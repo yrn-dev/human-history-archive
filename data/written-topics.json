@@ -1,5 +1,5 @@
 {
- "count": 2615,
+ "count": 2616,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18305,6 +18305,13 @@
    "era": "industrial",
    "file": "eras/industrial/002616-border-papers-1894-1896-even-down-1750-ballads-rob-roy.md",
    "at": "2026-09-22T07:13:49+00:00"
+  },
+  {
+   "slug": "islay-lea-har-na-feinne-london-1872-general-bibliography",
+   "title": "Islay's Lea har na Feinne (London, 1872). The general bibliography",
+   "era": "modern",
+   "file": "eras/modern/002617-islay-lea-har-na-feinne-london-1872-general-bibliography.md",
+   "at": "2026-09-22T07:23:42+00:00"
   }
  ]
 }
