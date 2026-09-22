@@ -1,5 +1,5 @@
 {
- "count": 2641,
+ "count": 2642,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18487,6 +18487,13 @@
    "era": "ancient",
    "file": "eras/ancient/002642-we-put.md",
    "at": "2026-09-22T12:03:32+00:00"
+  },
+  {
+   "slug": "denoting-value-any-velocity-then",
+   "title": "Denoting the value of T at any velocity v by T(v), then",
+   "era": "industrial",
+   "file": "eras/industrial/002643-denoting-value-any-velocity-then.md",
+   "at": "2026-09-22T12:13:34+00:00"
   }
  ]
 }
