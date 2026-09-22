@@ -1,5 +1,5 @@
 {
- "count": 2644,
+ "count": 2645,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18508,6 +18508,13 @@
    "era": "modern",
    "file": "eras/modern/002645-constant-may-any-arbitrary-number-using-table.md",
    "at": "2026-09-22T12:33:35+00:00"
+  },
+  {
+   "slug": "save-trouble-proportional-parts-value-unit",
+   "title": "To save the trouble of proportional parts the value of T(v) for unit",
+   "era": "industrial",
+   "file": "eras/industrial/002646-save-trouble-proportional-parts-value-unit.md",
+   "at": "2026-09-22T12:43:28+00:00"
   }
  ]
 }
