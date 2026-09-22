@@ -1,5 +1,5 @@
 {
- "count": 2600,
+ "count": 2601,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18200,6 +18200,13 @@
    "era": "cultures",
    "file": "eras/cultures/002601-maerchen-such-tables-might-compiled-learned-notes.md",
    "at": "2026-09-22T04:43:48+00:00"
+  },
+  {
+   "slug": "des-paures-amourous",
+   "title": "Des paures amourous.\"",
+   "era": "modern",
+   "file": "eras/modern/002602-des-paures-amourous.md",
+   "at": "2026-09-22T04:53:41+00:00"
   }
  ]
 }
