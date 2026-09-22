@@ -1,5 +1,5 @@
 {
- "count": 2643,
+ "count": 2644,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18501,6 +18501,13 @@
    "era": "industrial",
    "file": "eras/industrial/002644-sum-delta-gp-constant-integral-dv-gp.md",
    "at": "2026-09-22T12:23:45+00:00"
+  },
+  {
+   "slug": "constant-may-any-arbitrary-number-using-table",
+   "title": "The constant may be any arbitrary number, as in using the table the",
+   "era": "modern",
+   "file": "eras/modern/002645-constant-may-any-arbitrary-number-using-table.md",
+   "at": "2026-09-22T12:33:35+00:00"
   }
  ]
 }
