@@ -1,5 +1,5 @@
 {
- "count": 2640,
+ "count": 2641,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18480,6 +18480,13 @@
    "era": "modern",
    "file": "eras/modern/002641-projectile-which-ogival-head-struck-radius.md",
    "at": "2026-09-22T11:53:38+00:00"
+  },
+  {
+   "slug": "we-put",
+   "title": "We put",
+   "era": "ancient",
+   "file": "eras/ancient/002642-we-put.md",
+   "at": "2026-09-22T12:03:32+00:00"
   }
  ]
 }
