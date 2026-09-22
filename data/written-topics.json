@@ -1,5 +1,5 @@
 {
- "count": 2622,
+ "count": 2623,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18354,6 +18354,13 @@
    "era": "industrial",
    "file": "eras/industrial/002623-ballantine-william-1812-1887-english-serjeant-at-law-born.md",
    "at": "2026-09-22T08:33:33+00:00"
+  },
+  {
+   "slug": "london-3rd-january-1812-being-son-london",
+   "title": "London on the 3rd of January 1812, being the son of a London",
+   "era": "industrial",
+   "file": "eras/industrial/002624-london-3rd-january-1812-being-son-london.md",
+   "at": "2026-09-22T08:43:32+00:00"
   }
  ]
 }
