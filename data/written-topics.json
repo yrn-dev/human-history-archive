@@ -1,5 +1,5 @@
 {
- "count": 2646,
+ "count": 2647,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18522,6 +18522,13 @@
    "era": "industrial",
    "file": "eras/industrial/002647-12-delta-loss-kinetic-energy-foot-pounds.md",
    "at": "2026-09-22T12:53:27+00:00"
+  },
+  {
+   "slug": "20-delta-delta",
+   "title": "(20)     [Delta]i/[Delta]t = g/v",
+   "era": "industrial",
+   "file": "eras/industrial/002648-20-delta-delta.md",
+   "at": "2026-09-22T13:03:32+00:00"
   }
  ]
 }
