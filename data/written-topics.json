@@ -1,5 +1,5 @@
 {
- "count": 2625,
+ "count": 2626,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18375,6 +18375,13 @@
    "era": "industrial",
    "file": "eras/industrial/002626-dog-crusoe-1860-lighthouse-1865-deep-down-1868.md",
    "at": "2026-09-22T09:03:32+00:00"
+  },
+  {
+   "slug": "pirate-city-1874-erling-bold-1869-settler-savage",
+   "title": "Pirate City (1874), Erling the Bold (1869), The Settler and the Savage",
+   "era": "modern",
+   "file": "eras/modern/002627-pirate-city-1874-erling-bold-1869-settler-savage.md",
+   "at": "2026-09-22T09:13:34+00:00"
   }
  ]
 }
