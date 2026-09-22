@@ -1,5 +1,5 @@
 {
- "count": 2639,
+ "count": 2640,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18473,6 +18473,13 @@
    "era": "industrial",
    "file": "eras/industrial/002640-formulae-calculus-finite-differences-enable-us.md",
    "at": "2026-09-22T11:43:28+00:00"
+  },
+  {
+   "slug": "projectile-which-ogival-head-struck-radius",
+   "title": "For a projectile in which the ogival head is struck with a radius of 2",
+   "era": "modern",
+   "file": "eras/modern/002641-projectile-which-ogival-head-struck-radius.md",
+   "at": "2026-09-22T11:53:38+00:00"
   }
  ]
 }
