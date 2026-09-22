@@ -1,5 +1,5 @@
 {
- "count": 2605,
+ "count": 2606,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18235,6 +18235,13 @@
    "era": "ancient",
    "file": "eras/ancient/002606-everywhere-these-happier-climes-southern-italy-there.md",
    "at": "2026-09-22T05:33:44+00:00"
+  },
+  {
+   "slug": "en-ai-un-dieu-merci",
+   "title": "J'en ai un, Dieu merci,\"",
+   "era": "ancient",
+   "file": "eras/ancient/002607-en-ai-un-dieu-merci.md",
+   "at": "2026-09-22T05:43:49+00:00"
   }
  ]
 }
