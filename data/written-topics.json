@@ -1,5 +1,5 @@
 {
- "count": 2638,
+ "count": 2639,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -18466,6 +18466,13 @@
    "era": "modern",
    "file": "eras/modern/002639-ballistics-gr-greek-ballein-throw-science.md",
    "at": "2026-09-22T11:33:34+00:00"
+  },
+  {
+   "slug": "formulae-calculus-finite-differences-enable-us",
+   "title": "Formulae of the calculus of finite differences enable us from the",
+   "era": "industrial",
+   "file": "eras/industrial/002640-formulae-calculus-finite-differences-enable-us.md",
+   "at": "2026-09-22T11:43:28+00:00"
   }
  ]
 }
