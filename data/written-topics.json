@@ -1,5 +1,5 @@
 {
- "count": 2764,
+ "count": 2765,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19348,6 +19348,13 @@
    "era": "industrial",
    "file": "eras/industrial/002765-80-eta-phi-theta.md",
    "at": "2026-09-23T10:42:48+00:00"
+  },
+  {
+   "slug": "now-calculate-pseudo-velocity-phi",
+   "title": "Now calculate the pseudo-velocity u[phi] from",
+   "era": "industrial",
+   "file": "eras/industrial/002766-now-calculate-pseudo-velocity-phi.md",
+   "at": "2026-09-23T10:52:49+00:00"
   }
  ]
 }
