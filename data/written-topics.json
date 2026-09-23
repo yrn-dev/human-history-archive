@@ -1,5 +1,5 @@
 {
- "count": 2799,
+ "count": 2800,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19593,6 +19593,13 @@
    "era": "industrial",
    "file": "eras/industrial/002800-balloon-sense-first-used-1783-connexion.md",
    "at": "2026-09-23T16:32:10+00:00"
+  },
+  {
+   "slug": "ballot-ital-ballotta-dim-balla-ball-modern-method",
+   "title": "BALLOT (from Ital. ballotta, dim. of balla, a ball), the modern method",
+   "era": "modern",
+   "file": "eras/modern/002801-ballot-ital-ballotta-dim-balla-ball-modern-method.md",
+   "at": "2026-09-23T16:42:14+00:00"
   }
  ]
 }
