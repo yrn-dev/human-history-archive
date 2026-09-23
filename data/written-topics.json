@@ -1,5 +1,5 @@
 {
- "count": 2779,
+ "count": 2780,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19453,6 +19453,13 @@
    "era": "industrial",
    "file": "eras/industrial/002780-these-theorems-may-prove-useful-preliminary-calculations-where.md",
    "at": "2026-09-23T13:12:29+00:00"
+  },
+  {
+   "slug": "measure-pressure-experimentally-bore-gun",
+   "title": "To measure the pressure experimentally in the bore of a gun, the",
+   "era": "industrial",
+   "file": "eras/industrial/002781-measure-pressure-experimentally-bore-gun.md",
+   "at": "2026-09-23T13:22:15+00:00"
   }
  ]
 }
