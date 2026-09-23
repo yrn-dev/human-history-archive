@@ -1,5 +1,5 @@
 {
- "count": 2766,
+ "count": 2767,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19362,6 +19362,13 @@
    "era": "modern",
    "file": "eras/modern/002767-82-theta.md",
    "at": "2026-09-23T11:02:34+00:00"
+  },
+  {
+   "slug": "also-velocity-theta-end-arc-given",
+   "title": "Also the velocity v{[theta]} at the end of the arc is given by",
+   "era": "modern",
+   "file": "eras/modern/002768-also-velocity-theta-end-arc-given.md",
+   "at": "2026-09-23T11:13:02+00:00"
   }
  ]
 }
