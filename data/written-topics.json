@@ -1,5 +1,5 @@
 {
- "count": 2741,
+ "count": 2742,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19187,6 +19187,13 @@
    "era": "modern",
    "file": "eras/modern/002742-integration-24-gives.md",
    "at": "2026-09-23T06:42:46+00:00"
+  },
+  {
+   "slug": "vertex-where-we-2t-so",
+   "title": "At the vertex A, where y = H, we have t = t' = 1/2T, so that",
+   "era": "industrial",
+   "file": "eras/industrial/002743-vertex-where-we-2t-so.md",
+   "at": "2026-09-23T06:52:39+00:00"
   }
  ]
 }
