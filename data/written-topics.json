@@ -1,5 +1,5 @@
 {
- "count": 2798,
+ "count": 2799,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19586,6 +19586,13 @@
    "era": "modern",
    "file": "eras/modern/002799-(a.-g.-g.).md",
    "at": "2026-09-23T16:22:14+00:00"
+  },
+  {
+   "slug": "balloon-sense-first-used-1783-connexion",
+   "title": "\"Balloon\" in this sense was first used in 1783 in connexion with the",
+   "era": "industrial",
+   "file": "eras/industrial/002800-balloon-sense-first-used-1783-connexion.md",
+   "at": "2026-09-23T16:32:10+00:00"
   }
  ]
 }
