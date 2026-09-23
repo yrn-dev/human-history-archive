@@ -1,5 +1,5 @@
 {
- "count": 2745,
+ "count": 2746,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19215,6 +19215,13 @@
    "era": "modern",
    "file": "eras/modern/002746-96-table-see-274.md",
    "at": "2026-09-23T07:32:33+00:00"
+  },
+  {
+   "slug": "range-v0-v0",
+   "title": "Range.  s.   s/C.   S(v).    v.    T(v).    t/C.    t.    T(v0).  v0",
+   "era": "cultures",
+   "file": "eras/cultures/002747-range-v0-v0.md",
+   "at": "2026-09-23T07:42:46+00:00"
   }
  ]
 }
