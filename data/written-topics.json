@@ -1,5 +1,5 @@
 {
- "count": 2774,
+ "count": 2775,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19418,6 +19418,13 @@
    "era": "industrial",
    "file": "eras/industrial/002775-investigation-relations-connecting-pressure-volume.md",
    "at": "2026-09-23T12:22:23+00:00"
+  },
+  {
+   "slug": "gun-may-considered-simple-thermo-dynamic-machine-heat-engine",
+   "title": "A gun may be considered a simple thermo-dynamic machine or heat-engine",
+   "era": "modern",
+   "file": "eras/modern/002776-gun-may-considered-simple-thermo-dynamic-machine-heat-engine.md",
+   "at": "2026-09-23T12:32:19+00:00"
   }
  ]
 }
