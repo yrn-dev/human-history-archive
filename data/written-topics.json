@@ -1,5 +1,5 @@
 {
- "count": 2791,
+ "count": 2792,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19537,6 +19537,13 @@
    "era": "industrial",
    "file": "eras/industrial/002792-work-done-expanding-infinity-tons-per-sq-03.md",
    "at": "2026-09-23T15:12:16+00:00"
+  },
+  {
+   "slug": "10-216-25-25-75",
+   "title": "(10)     B/b = (216 + 25.8)/(2.5 x 25.8) = 3.75",
+   "era": "modern",
+   "file": "eras/modern/002793-10-216-25-25-75.md",
+   "at": "2026-09-23T15:22:07+00:00"
   }
  ]
 }
