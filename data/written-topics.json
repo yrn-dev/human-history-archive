@@ -1,5 +1,5 @@
 {
- "count": 2797,
+ "count": 2798,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19579,6 +19579,13 @@
    "era": "industrial",
    "file": "eras/industrial/002798-cranz-compendium-der-ballistik-1898-official-text-book.md",
    "at": "2026-09-23T16:12:09+00:00"
+  },
+  {
+   "slug": "(a.-g.-g.)",
+   "title": "(A. G. G.)",
+   "era": "modern",
+   "file": "eras/modern/002799-(a.-g.-g.).md",
+   "at": "2026-09-23T16:22:14+00:00"
   }
  ]
 }
