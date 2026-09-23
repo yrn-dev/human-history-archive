@@ -1,5 +1,5 @@
 {
- "count": 2794,
+ "count": 2795,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19558,6 +19558,13 @@
    "era": "industrial",
    "file": "eras/industrial/002795-thermochemical-properties-constituents-explosive.md",
    "at": "2026-09-23T15:42:08+00:00"
+  },
+  {
+   "slug": "zabudski-balistique-russian-la-llave-ollero-mata-balistica",
+   "title": "Zabudski, Balistique (Russian); La Llave, Ollero, Mata, &c., Balistica",
+   "era": "industrial",
+   "file": "eras/industrial/002796-zabudski-balistique-russian-la-llave-ollero-mata-balistica.md",
+   "at": "2026-09-23T15:52:08+00:00"
   }
  ]
 }
