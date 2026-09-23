@@ -1,5 +1,5 @@
 {
- "count": 2771,
+ "count": 2772,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19397,6 +19397,13 @@
    "era": "industrial",
    "file": "eras/industrial/002772-drift---an-elongated-shot-fired-rifled-gun-does-not-move.md",
    "at": "2026-09-23T11:52:14+00:00"
+  },
+  {
+   "slug": "evidently-gyroscopic-effect-being-reversed-direction",
+   "title": "It is evidently a gyroscopic effect, being reversed in direction by a",
+   "era": "industrial",
+   "file": "eras/industrial/002773-evidently-gyroscopic-effect-being-reversed-direction.md",
+   "at": "2026-09-23T12:02:18+00:00"
   }
  ]
 }
