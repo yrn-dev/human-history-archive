@@ -1,5 +1,5 @@
 {
- "count": 2786,
+ "count": 2787,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19502,6 +19502,13 @@
    "era": "cultures",
    "file": "eras/cultures/002787-lump-solid-lead.md",
    "at": "2026-09-23T14:22:06+00:00"
+  },
+  {
+   "slug": "charge-cordite",
+   "title": "(5)     G.D. of charge of cordite",
+   "era": "industrial",
+   "file": "eras/industrial/002788-charge-cordite.md",
+   "at": "2026-09-23T14:32:18+00:00"
   }
  ]
 }
