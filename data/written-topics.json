@@ -1,5 +1,5 @@
 {
- "count": 2744,
+ "count": 2745,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19208,6 +19208,13 @@
    "era": "industrial",
    "file": "eras/industrial/002745-example---determine-calculation-abridged-ballistic-table.md",
    "at": "2026-09-23T07:22:39+00:00"
+  },
+  {
+   "slug": "96-table-see-274",
+   "title": "0.96. [For Table see p. 274.]",
+   "era": "modern",
+   "file": "eras/modern/002746-96-table-see-274.md",
+   "at": "2026-09-23T07:32:33+00:00"
   }
  ]
 }
