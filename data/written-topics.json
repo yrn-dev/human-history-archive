@@ -1,5 +1,5 @@
 {
- "count": 2767,
+ "count": 2768,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19369,6 +19369,13 @@
    "era": "modern",
    "file": "eras/modern/002768-also-velocity-theta-end-arc-given.md",
    "at": "2026-09-23T11:13:02+00:00"
+  },
+  {
+   "slug": "treating-final-velocity-theta-angle-theta-initial",
+   "title": "Treating this final velocity v[theta] and angle [theta] as the initial",
+   "era": "modern",
+   "file": "eras/modern/002769-treating-final-velocity-theta-angle-theta-initial.md",
+   "at": "2026-09-23T11:22:27+00:00"
   }
  ]
 }
