@@ -1,5 +1,5 @@
 {
- "count": 2757,
+ "count": 2758,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19299,6 +19299,13 @@
    "era": "modern",
    "file": "eras/modern/002758-elevation-depression-alters.md",
    "at": "2026-09-23T09:32:23+00:00"
+  },
+  {
+   "slug": "47-sec-di-dt",
+   "title": "(47)     sec^2 i{di/dt} =",
+   "era": "modern",
+   "file": "eras/modern/002759-47-sec-di-dt.md",
+   "at": "2026-09-23T09:42:28+00:00"
   }
  ]
 }
