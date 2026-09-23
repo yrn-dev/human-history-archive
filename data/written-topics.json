@@ -1,5 +1,5 @@
 {
- "count": 2740,
+ "count": 2741,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19180,6 +19180,13 @@
    "era": "modern",
    "file": "eras/modern/002741-first-equation-leads.md",
    "at": "2026-09-23T06:32:54+00:00"
+  },
+  {
+   "slug": "integration-24-gives",
+   "title": "The integration of (24) gives",
+   "era": "modern",
+   "file": "eras/modern/002742-integration-24-gives.md",
+   "at": "2026-09-23T06:42:46+00:00"
   }
  ]
 }
