@@ -1,5 +1,5 @@
 {
- "count": 2785,
+ "count": 2786,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19495,6 +19495,13 @@
    "era": "modern",
    "file": "eras/modern/002786-charge-lead-shot.md",
    "at": "2026-09-23T14:12:17+00:00"
+  },
+  {
+   "slug": "lump-solid-lead",
+   "title": "S.G. of lump of solid lead",
+   "era": "cultures",
+   "file": "eras/cultures/002787-lump-solid-lead.md",
+   "at": "2026-09-23T14:22:06+00:00"
   }
  ]
 }
