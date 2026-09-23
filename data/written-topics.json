@@ -1,5 +1,5 @@
 {
- "count": 2763,
+ "count": 2764,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19341,6 +19341,13 @@
    "era": "modern",
    "file": "eras/modern/002764-sec-eta.md",
    "at": "2026-09-23T10:32:53+00:00"
+  },
+  {
+   "slug": "80-eta-phi-theta",
+   "title": "(80)     [eta] = 1/2([phi] + [theta])",
+   "era": "industrial",
+   "file": "eras/industrial/002765-80-eta-phi-theta.md",
+   "at": "2026-09-23T10:42:48+00:00"
   }
  ]
 }
