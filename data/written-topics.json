@@ -1,5 +1,5 @@
 {
- "count": 2761,
+ "count": 2762,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19327,6 +19327,13 @@
    "era": "modern",
    "file": "eras/modern/002762-but-according-definition-functions.md",
    "at": "2026-09-23T10:12:44+00:00"
+  },
+  {
+   "slug": "equations-66-71-siacci-slightly-modified-general",
+   "title": "The equations (66)-(71) are Siacci's, slightly modified by General",
+   "era": "industrial",
+   "file": "eras/industrial/002763-equations-66-71-siacci-slightly-modified-general.md",
+   "at": "2026-09-23T10:22:46+00:00"
   }
  ]
 }
