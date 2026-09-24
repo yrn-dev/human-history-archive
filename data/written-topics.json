@@ -1,5 +1,5 @@
 {
- "count": 2968,
+ "count": 2969,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20776,6 +20776,13 @@
    "era": "modern",
    "file": "eras/modern/002969-bouillon-he-first-produced-table-genealogique-1705-then.md",
    "at": "2026-09-24T23:00:41+00:00"
+  },
+  {
+   "slug": "1709-histoire-genealogique-de-la-maison-auvergne-proofs",
+   "title": "1709 a Histoire genealogique de la maison d'Auvergne, with \"Proofs,\"",
+   "era": "modern",
+   "file": "eras/modern/002970-1709-histoire-genealogique-de-la-maison-auvergne-proofs.md",
+   "at": "2026-09-24T23:10:34+00:00"
   }
  ]
 }
