@@ -1,5 +1,5 @@
 {
- "count": 2887,
+ "count": 2888,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20209,6 +20209,13 @@
    "era": "modern",
    "file": "eras/modern/002888-university-leading-institution-united-states.md",
    "at": "2026-09-24T08:51:13+00:00"
+  },
+  {
+   "slug": "college-physicians-surgeons-woman-medical-college",
+   "title": "College of Physicians and Surgeons, the Woman's Medical College, the",
+   "era": "industrial",
+   "file": "eras/industrial/002889-college-physicians-surgeons-woman-medical-college.md",
+   "at": "2026-09-24T09:01:24+00:00"
   }
  ]
 }
