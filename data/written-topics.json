@@ -1,5 +1,5 @@
 {
- "count": 2880,
+ "count": 2881,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20160,6 +20160,13 @@
    "era": "industrial",
    "file": "eras/industrial/002881-part-city-which-lies-jones-falls-known-east.md",
    "at": "2026-09-24T07:41:28+00:00"
+  },
+  {
+   "slug": "decorated-gothic-spire-250-ft-high-grace-episcopal",
+   "title": "(decorated Gothic), with a spire 250 ft. high; the Grace Episcopal",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/002882-decorated-gothic-spire-250-ft-high-grace-episcopal.md",
+   "at": "2026-09-24T07:52:25+00:00"
   }
  ]
 }
