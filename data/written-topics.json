@@ -1,5 +1,5 @@
 {
- "count": 2958,
+ "count": 2959,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20706,6 +20706,13 @@
    "era": "modern",
    "file": "eras/modern/002959-1892-survey-report-antiquities-ethnography-las-bela.md",
    "at": "2026-09-24T21:20:40+00:00"
+  },
+  {
+   "slug": "geol-surv-india-vol-xx-pt-1883-vredenburg-geological",
+   "title": "Geol. Surv. India, vol. xx. pt. 2 (1883); E. Vredenburg, \"A Geological",
+   "era": "industrial",
+   "file": "eras/industrial/002960-geol-surv-india-vol-xx-pt-1883-vredenburg-geological.md",
+   "at": "2026-09-24T21:30:35+00:00"
   }
  ]
 }
