@@ -1,5 +1,5 @@
 {
- "count": 2857,
+ "count": 2858,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -19999,6 +19999,13 @@
    "era": "industrial",
    "file": "eras/industrial/002858-1833-he-gained-prix-de-rome-ecole-des-beaux-arts.md",
    "at": "2026-09-24T03:31:30+00:00"
+  },
+  {
+   "slug": "baltic-sea-scand-ger-ostsee-russ-baltiyskoe-more-sea",
+   "title": "BALTIC SEA (Scand. and Ger. Ostsee; Russ. Baltiyskoe More), a sea",
+   "era": "cultures",
+   "file": "eras/cultures/002859-baltic-sea-scand-ger-ostsee-russ-baltiyskoe-more-sea.md",
+   "at": "2026-09-24T03:41:42+00:00"
   }
  ]
 }
