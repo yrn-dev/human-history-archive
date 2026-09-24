@@ -1,5 +1,5 @@
 {
- "count": 2874,
+ "count": 2875,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20118,6 +20118,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/002875-entstehung-der-ostsee-leipzig-1895-de-geer-om-skandinaviens.md",
    "at": "2026-09-24T06:31:29+00:00"
+  },
+  {
+   "slug": "geographical-magazine-1894-ekholm-om-klimatets-andringar",
+   "title": "Geographical Magazine (1894); N. Ekholm, Om klimatets andringar i",
+   "era": "modern",
+   "file": "eras/modern/002876-geographical-magazine-1894-ekholm-om-klimatets-andringar.md",
+   "at": "2026-09-24T06:41:35+00:00"
   }
  ]
 }
