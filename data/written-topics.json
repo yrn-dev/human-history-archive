@@ -1,5 +1,5 @@
 {
- "count": 2970,
+ "count": 2971,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20790,6 +20790,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/002971-historiae-tutelensis-libri-tres-his-death-he-succeeded.md",
    "at": "2026-09-24T23:20:35+00:00"
+  },
+  {
+   "slug": "leopold-delisle-bibliotheque-de-ecole-de-chartes-1872-his-papers",
+   "title": "Leopold Delisle (Bibliotheque de l'Ecole de Chartes, 1872); his papers",
+   "era": "modern",
+   "file": "eras/modern/002972-leopold-delisle-bibliotheque-de-ecole-de-chartes-1872-his-papers.md",
+   "at": "2026-09-24T23:30:28+00:00"
   }
  ]
 }
