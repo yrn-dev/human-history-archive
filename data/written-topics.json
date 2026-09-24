@@ -1,5 +1,5 @@
 {
- "count": 2957,
+ "count": 2958,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20699,6 +20699,13 @@
    "era": "industrial",
    "file": "eras/industrial/002958-floyer-unexplored-baluchistan-london-1882-thornton-life.md",
    "at": "2026-09-24T21:10:41+00:00"
+  },
+  {
+   "slug": "1892-survey-report-antiquities-ethnography-las-bela",
+   "title": "1892 (Survey Report); \"Antiquities, Ethnography, &c., of Las Bela and",
+   "era": "modern",
+   "file": "eras/modern/002959-1892-survey-report-antiquities-ethnography-las-bela.md",
+   "at": "2026-09-24T21:20:40+00:00"
   }
  ]
 }
