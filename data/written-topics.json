@@ -1,5 +1,5 @@
 {
- "count": 2960,
+ "count": 2961,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20720,6 +20720,13 @@
    "era": "cultures",
    "file": "eras/cultures/002961-baluchistan-province-persia-consisting-western-part.md",
    "at": "2026-09-24T21:40:45+00:00"
+  },
+  {
+   "slug": "dizek-jalk-sib-irafshan-magas-serbaz",
+   "title": "(3) Dizek; (4) Jalk; (5) Sib; (6) Irafshan; (7) Magas; (8) Serbaz; (9)",
+   "era": "cultures",
+   "file": "eras/cultures/002962-dizek-jalk-sib-irafshan-magas-serbaz.md",
+   "at": "2026-09-24T21:50:44+00:00"
   }
  ]
 }
