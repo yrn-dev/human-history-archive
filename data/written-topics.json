@@ -1,5 +1,5 @@
 {
- "count": 2950,
+ "count": 2951,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20650,6 +20650,13 @@
    "era": "industrial",
    "file": "eras/industrial/002951-1854-following-effect---.md",
    "at": "2026-09-24T20:01:15+00:00"
+  },
+  {
+   "slug": "former-offensive-defensive-treaty-concluded-1841",
+   "title": "\"That the former offensive and defensive treaty, concluded in 1841 by",
+   "era": "modern",
+   "file": "eras/modern/002952-former-offensive-defensive-treaty-concluded-1841.md",
+   "at": "2026-09-24T20:10:45+00:00"
   }
  ]
 }
