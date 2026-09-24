@@ -1,5 +1,5 @@
 {
- "count": 2875,
+ "count": 2876,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20125,6 +20125,13 @@
    "era": "modern",
    "file": "eras/modern/002876-geographical-magazine-1894-ekholm-om-klimatets-andringar.md",
    "at": "2026-09-24T06:41:35+00:00"
+  },
+  {
+   "slug": "english-statesman-son-leonard-calvert-alice-daughter-john",
+   "title": "English statesman, son of Leonard Calvert, and Alice, daughter of John",
+   "era": "renaissance",
+   "file": "eras/renaissance/002877-english-statesman-son-leonard-calvert-alice-daughter-john.md",
+   "at": "2026-09-24T07:01:30+00:00"
   }
  ]
 }
