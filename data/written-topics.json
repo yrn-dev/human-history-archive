@@ -1,5 +1,5 @@
 {
- "count": 2888,
+ "count": 2889,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20216,6 +20216,13 @@
    "era": "industrial",
    "file": "eras/industrial/002889-college-physicians-surgeons-woman-medical-college.md",
    "at": "2026-09-24T09:01:24+00:00"
+  },
+  {
+   "slug": "baltimore-college-dental-surgery-maryland-college-pharmacy",
+   "title": "Baltimore College of Dental Surgery, the Maryland College of Pharmacy",
+   "era": "industrial",
+   "file": "eras/industrial/002890-baltimore-college-dental-surgery-maryland-college-pharmacy.md",
+   "at": "2026-09-24T09:11:15+00:00"
   }
  ]
 }
