@@ -1,5 +1,5 @@
 {
- "count": 3061,
+ "count": 3062,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21427,6 +21427,13 @@
    "era": "modern",
    "file": "eras/modern/003062-bancroft-imagination-enthusiasm-alike-exuberant-his-pages.md",
    "at": "2026-09-25T16:18:38+00:00"
+  },
+  {
+   "slug": "states-vols-1874-1876-history-pacific-states-north",
+   "title": "States (5 vols. 1874-1876), History of the Pacific States of North",
+   "era": "modern",
+   "file": "eras/modern/003063-states-vols-1874-1876-history-pacific-states-north.md",
+   "at": "2026-09-25T16:48:17+00:00"
   }
  ]
 }
