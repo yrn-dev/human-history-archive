@@ -1,5 +1,5 @@
 {
- "count": 3073,
+ "count": 3074,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21511,6 +21511,13 @@
    "era": "industrial",
    "file": "eras/industrial/003074-play-1868-school-1869-1870-robertson.md",
    "at": "2026-09-25T18:38:15+00:00"
+  },
+  {
+   "slug": "london-assurance-1877-diplomacy--an-adaptation-sardou",
+   "title": "London Assurance (1877), and Diplomacy--an adaptation of Sardou's",
+   "era": "industrial",
+   "file": "eras/industrial/003075-london-assurance-1877-diplomacy--an-adaptation-sardou.md",
+   "at": "2026-09-25T18:48:17+00:00"
   }
  ]
 }
