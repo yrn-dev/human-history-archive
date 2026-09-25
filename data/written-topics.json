@@ -1,5 +1,5 @@
 {
- "count": 3028,
+ "count": 3029,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21196,6 +21196,13 @@
    "era": "cultures",
    "file": "eras/cultures/003029-bambute-sometimes-incorrectly-called-batwa-race-pygmies.md",
    "at": "2026-09-25T09:58:43+00:00"
+  },
+  {
+   "slug": "peterloo-manchester-which-intended-peaceful",
+   "title": "Peterloo, Manchester (q.v.), which was intended to be a peaceful",
+   "era": "industrial",
+   "file": "eras/industrial/003030-peterloo-manchester-which-intended-peaceful.md",
+   "at": "2026-09-25T10:08:38+00:00"
   }
  ]
 }
