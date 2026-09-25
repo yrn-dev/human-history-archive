@@ -1,5 +1,5 @@
 {
- "count": 3062,
+ "count": 3063,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21434,6 +21434,13 @@
    "era": "modern",
    "file": "eras/modern/003063-states-vols-1874-1876-history-pacific-states-north.md",
    "at": "2026-09-25T16:48:17+00:00"
+  },
+  {
+   "slug": "bancroft-richard-1544-1610-archbishop-canterbury-born",
+   "title": "BANCROFT, RICHARD (1544-1610), archbishop of Canterbury, was born at",
+   "era": "renaissance",
+   "file": "eras/renaissance/003064-bancroft-richard-1544-1610-archbishop-canterbury-born.md",
+   "at": "2026-09-25T16:58:23+00:00"
   }
  ]
 }
