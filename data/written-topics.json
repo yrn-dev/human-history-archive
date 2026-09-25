@@ -1,5 +1,5 @@
 {
- "count": 3005,
+ "count": 3006,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21035,6 +21035,13 @@
    "era": "modern",
    "file": "eras/modern/003006-balzac-imprimeur-mm-hanotaux-vicaire-la-jeunesse-de-balzac.md",
    "at": "2026-09-25T05:48:51+00:00"
+  },
+  {
+   "slug": "ferdinand-brunetiere-honore-de-balzac-1906-brilliant-but-rather",
+   "title": "Ferdinand Brunetiere's Honore de Balzac (1906), a brilliant but rather",
+   "era": "modern",
+   "file": "eras/modern/003007-ferdinand-brunetiere-honore-de-balzac-1906-brilliant-but-rather.md",
+   "at": "2026-09-25T05:58:56+00:00"
   }
  ]
 }
