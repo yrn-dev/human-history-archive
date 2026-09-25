@@ -1,5 +1,5 @@
 {
- "count": 3039,
+ "count": 3041,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21273,6 +21273,20 @@
    "era": "modern",
    "file": "eras/modern/003040-divinity-our-lord-hatch-1880-organization.md",
    "at": "2026-09-25T11:58:41+00:00"
+  },
+  {
+   "slug": "early-christian-churches-bigg-1886-christian-platonists",
+   "title": "Early Christian Churches); C. Bigg in 1886 (Christian Platonists of",
+   "era": "ancient",
+   "file": "eras/ancient/003041-early-christian-churches-bigg-1886-christian-platonists.md",
+   "at": "2026-09-25T12:08:43+00:00"
+  },
+  {
+   "slug": "alexandria-gore-1891-incarnation-sanday-1893",
+   "title": "Alexandria); C. Gore in 1891 (The Incarnation); W. Sanday in 1893",
+   "era": "modern",
+   "file": "eras/modern/003042-alexandria-gore-1891-incarnation-sanday-1893.md",
+   "at": "2026-09-25T12:18:54+00:00"
   }
  ]
 }
