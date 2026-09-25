@@ -1,5 +1,5 @@
 {
- "count": 3030,
+ "count": 3031,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21210,6 +21210,13 @@
    "era": "ancient",
    "file": "eras/ancient/003031-surkhab-aksarai-important-tributary-upper-oxus.md",
    "at": "2026-09-25T10:18:41+00:00"
+  },
+  {
+   "slug": "takht-i-rustam-general-name-all-incomprehensible-constructions",
+   "title": "Takht-i-Rustam (a general name for all incomprehensible constructions",
+   "era": "ancient",
+   "file": "eras/ancient/003032-takht-i-rustam-general-name-all-incomprehensible-constructions.md",
+   "at": "2026-09-25T10:38:46+00:00"
   }
  ]
 }
