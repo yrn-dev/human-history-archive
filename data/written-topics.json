@@ -1,5 +1,5 @@
 {
- "count": 3059,
+ "count": 3060,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21413,6 +21413,13 @@
    "era": "cultures",
    "file": "eras/cultures/003060-german-french-latest-volumes-considered-all-competent.md",
    "at": "2026-09-25T15:58:26+00:00"
+  },
+  {
+   "slug": "thucydidean-method-abridgment-representation-place-fact",
+   "title": "Thucydidean method of abridgment or representation in place of fact",
+   "era": "ancient",
+   "file": "eras/ancient/003061-thucydidean-method-abridgment-representation-place-fact.md",
+   "at": "2026-09-25T16:08:34+00:00"
   }
  ]
 }
