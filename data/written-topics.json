@@ -1,5 +1,5 @@
 {
- "count": 3004,
+ "count": 3005,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21028,6 +21028,13 @@
    "era": "ancient",
    "file": "eras/ancient/003005-1893-1894-which-busy-themselves-especially-tracing-types.md",
    "at": "2026-09-25T05:39:05+00:00"
+  },
+  {
+   "slug": "balzac-imprimeur-mm-hanotaux-vicaire-la-jeunesse-de-balzac",
+   "title": "(Balzac imprimeur) of MM. Hanotaux and Vicaire's La Jeunesse de Balzac",
+   "era": "modern",
+   "file": "eras/modern/003006-balzac-imprimeur-mm-hanotaux-vicaire-la-jeunesse-de-balzac.md",
+   "at": "2026-09-25T05:48:51+00:00"
   }
  ]
 }
