@@ -1,5 +1,5 @@
 {
- "count": 3037,
+ "count": 3038,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21259,6 +21259,13 @@
    "era": "modern",
    "file": "eras/modern/003038-hampden-1832-scholastic-philosophy-relation-christian.md",
    "at": "2026-09-25T11:38:47+00:00"
+  },
+  {
+   "slug": "mansel-1858-limits-religious-thought-liddon-1866",
+   "title": "Mansel in 1858 (The Limits of Religious Thought); H. P. Liddon in 1866",
+   "era": "industrial",
+   "file": "eras/industrial/003039-mansel-1858-limits-religious-thought-liddon-1866.md",
+   "at": "2026-09-25T11:48:44+00:00"
   }
  ]
 }
