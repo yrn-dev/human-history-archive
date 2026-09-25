@@ -1,5 +1,5 @@
 {
- "count": 2999,
+ "count": 3000,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20993,6 +20993,13 @@
    "era": "industrial",
    "file": "eras/industrial/003000-early-genevan-meeting-1833-madame-hanska-formally.md",
    "at": "2026-09-25T04:48:56+00:00"
+  },
+  {
+   "slug": "memoir-general-criticism-edition-definitive-1869",
+   "title": "Memoir and general criticism. Before the Edition definitive (1869",
+   "era": "modern",
+   "file": "eras/modern/003001-memoir-general-criticism-edition-definitive-1869.md",
+   "at": "2026-09-25T04:59:08+00:00"
   }
  ]
 }
