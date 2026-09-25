@@ -1,5 +1,5 @@
 {
- "count": 3088,
+ "count": 3089,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21616,6 +21616,13 @@
    "era": "cultures",
    "file": "eras/cultures/003089-organization-mode-government-ancient-mexicans-harvard.md",
    "at": "2026-09-25T21:08:08+00:00"
+  },
+  {
+   "slug": "final-report-investigations-among-indians-south-western",
+   "title": "Final Report of Investigations among the Indians of the South-western",
+   "era": "cultures",
+   "file": "eras/cultures/003090-final-report-investigations-among-indians-south-western.md",
+   "at": "2026-09-25T21:18:12+00:00"
   }
  ]
 }
