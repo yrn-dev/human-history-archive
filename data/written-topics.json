@@ -1,5 +1,5 @@
 {
- "count": 3015,
+ "count": 3016,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21105,6 +21105,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003016-old-palace-alte-residenz-built-1591-site-old.md",
    "at": "2026-09-25T07:28:51+00:00"
+  },
+  {
+   "slug": "jewish-parents-22nd-july-1823-mainz-studying",
+   "title": "Jewish parents on the 22nd of July 1823 at Mainz. After studying at",
+   "era": "industrial",
+   "file": "eras/industrial/003017-jewish-parents-22nd-july-1823-mainz-studying.md",
+   "at": "2026-09-25T07:38:50+00:00"
   }
  ]
 }
