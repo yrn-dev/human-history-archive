@@ -1,5 +1,5 @@
 {
- "count": 3003,
+ "count": 3004,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21021,6 +21021,13 @@
    "era": "modern",
    "file": "eras/modern/003004-taine-essay-1858-reprinted-volume-form-1865-even-then.md",
    "at": "2026-09-25T05:28:57+00:00"
+  },
+  {
+   "slug": "1893-1894-which-busy-themselves-especially-tracing-types",
+   "title": "1893-1894), which busy themselves especially with tracing types of",
+   "era": "ancient",
+   "file": "eras/ancient/003005-1893-1894-which-busy-themselves-especially-tracing-types.md",
+   "at": "2026-09-25T05:39:05+00:00"
   }
  ]
 }
