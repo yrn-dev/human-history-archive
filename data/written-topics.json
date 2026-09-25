@@ -1,5 +1,5 @@
 {
- "count": 3006,
+ "count": 3007,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21042,6 +21042,13 @@
    "era": "modern",
    "file": "eras/modern/003007-ferdinand-brunetiere-honore-de-balzac-1906-brilliant-but-rather.md",
    "at": "2026-09-25T05:58:56+00:00"
+  },
+  {
+   "slug": "balzac-jean-louis-guez-de-1594-1654-french-author-born",
+   "title": "BALZAC, JEAN LOUIS GUEZ DE (1594-1654), French author, was born at",
+   "era": "renaissance",
+   "file": "eras/renaissance/003008-balzac-jean-louis-guez-de-1594-1654-french-author-born.md",
+   "at": "2026-09-25T06:08:53+00:00"
   }
  ]
 }
