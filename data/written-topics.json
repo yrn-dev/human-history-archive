@@ -1,5 +1,5 @@
 {
- "count": 3080,
+ "count": 3081,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21560,6 +21560,13 @@
    "era": "modern",
    "file": "eras/modern/003081-boundary-district-125-1901-population.md",
    "at": "2026-09-25T19:48:13+00:00"
+  },
+  {
+   "slug": "time-mutiny-district-which-poverty-stricken",
+   "title": "At the time of the Mutiny the district, which was poverty-stricken and",
+   "era": "modern",
+   "file": "eras/modern/003082-time-mutiny-district-which-poverty-stricken.md",
+   "at": "2026-09-25T19:58:14+00:00"
   }
  ]
 }
