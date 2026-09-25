@@ -1,5 +1,5 @@
 {
- "count": 3001,
+ "count": 3002,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21007,6 +21007,13 @@
    "era": "modern",
    "file": "eras/modern/003002-histoire-des-oeuvres-cited-added-1893-another.md",
    "at": "2026-09-25T05:09:01+00:00"
+  },
+  {
+   "slug": "causeries-du-lundi-vol-ii-not-unfair-though-could-hardly",
+   "title": "Causeries du lundi, vol. ii., is not unfair, though it could hardly be",
+   "era": "modern",
+   "file": "eras/modern/003003-causeries-du-lundi-vol-ii-not-unfair-though-could-hardly.md",
+   "at": "2026-09-25T05:18:54+00:00"
   }
  ]
 }
