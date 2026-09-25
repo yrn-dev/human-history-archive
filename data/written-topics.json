@@ -1,5 +1,5 @@
 {
- "count": 3000,
+ "count": 3001,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21000,6 +21000,13 @@
    "era": "modern",
    "file": "eras/modern/003001-memoir-general-criticism-edition-definitive-1869.md",
    "at": "2026-09-25T04:59:08+00:00"
+  },
+  {
+   "slug": "histoire-des-oeuvres-cited-added-1893-another",
+   "title": "Histoire des oeuvres as cited. To this was added, in 1893, another",
+   "era": "modern",
+   "file": "eras/modern/003002-histoire-des-oeuvres-cited-added-1893-another.md",
+   "at": "2026-09-25T05:09:01+00:00"
   }
  ]
 }
