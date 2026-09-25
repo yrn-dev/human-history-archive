@@ -1,5 +1,5 @@
 {
- "count": 2987,
+ "count": 2988,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -20909,6 +20909,13 @@
    "era": "industrial",
    "file": "eras/industrial/002988-illustre-gaudissart-very-amusing-1833-also-saw-beginning.md",
    "at": "2026-09-25T02:29:02+00:00"
+  },
+  {
+   "slug": "recherche-de-absolu-one-balzac-great-studies-monomania",
+   "title": "Recherche de l'absolu (one of Balzac's great studies of monomania, and",
+   "era": "modern",
+   "file": "eras/modern/002989-recherche-de-absolu-one-balzac-great-studies-monomania.md",
+   "at": "2026-09-25T02:39:08+00:00"
   }
  ]
 }
