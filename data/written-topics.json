@@ -1,5 +1,5 @@
 {
- "count": 3072,
+ "count": 3073,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21504,6 +21504,13 @@
    "era": "industrial",
    "file": "eras/industrial/003073-1868-mr-mrs-bancroft-associated-production-all.md",
    "at": "2026-09-25T18:29:02+00:00"
+  },
+  {
+   "slug": "play-1868-school-1869-1870-robertson",
+   "title": "Play (1868), School (1869) and M.P. (1870), and, after Robertson's",
+   "era": "industrial",
+   "file": "eras/industrial/003074-play-1868-school-1869-1870-robertson.md",
+   "at": "2026-09-25T18:38:15+00:00"
   }
  ]
 }
