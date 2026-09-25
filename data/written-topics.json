@@ -1,5 +1,5 @@
 {
- "count": 3038,
+ "count": 3039,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21266,6 +21266,13 @@
    "era": "industrial",
    "file": "eras/industrial/003039-mansel-1858-limits-religious-thought-liddon-1866.md",
    "at": "2026-09-25T11:48:44+00:00"
+  },
+  {
+   "slug": "divinity-our-lord-hatch-1880-organization",
+   "title": "(The Divinity of our Lord); E. Hatch in 1880 (The Organization of the",
+   "era": "modern",
+   "file": "eras/modern/003040-divinity-our-lord-hatch-1880-organization.md",
+   "at": "2026-09-25T11:58:41+00:00"
   }
  ]
 }
