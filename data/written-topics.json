@@ -1,5 +1,5 @@
 {
- "count": 3077,
+ "count": 3078,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21539,6 +21539,13 @@
    "era": "industrial",
    "file": "eras/industrial/003078-band-something-which-binds-fastens-one-thing-another-hence.md",
    "at": "2026-09-25T19:18:21+00:00"
+  },
+  {
+   "slug": "french-bande-architecture-term-applied-sort-flat",
+   "title": "French bande. In architecture the term is applied to a sort of flat",
+   "era": "cultures",
+   "file": "eras/cultures/003079-french-bande-architecture-term-applied-sort-flat.md",
+   "at": "2026-09-25T19:28:08+00:00"
   }
  ]
 }
