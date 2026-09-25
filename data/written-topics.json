@@ -1,5 +1,5 @@
 {
- "count": 3008,
+ "count": 3009,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21056,6 +21056,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003009-angouleme-1594-age-eighteen-he-travelled-holland.md",
    "at": "2026-09-25T06:18:49+00:00"
+  },
+  {
+   "slug": "balzac-preferment-he-expected-1624-collection-his-lettres",
+   "title": "Balzac the preferment he expected. In 1624 a collection of his Lettres",
+   "era": "renaissance",
+   "file": "eras/renaissance/003010-balzac-preferment-he-expected-1624-collection-his-lettres.md",
+   "at": "2026-09-25T06:28:49+00:00"
   }
  ]
 }
