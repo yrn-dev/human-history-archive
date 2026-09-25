@@ -1,5 +1,5 @@
 {
- "count": 3091,
+ "count": 3092,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21637,6 +21637,13 @@
    "era": "cultures",
    "file": "eras/cultures/003092-1885-gilded-man-el-dorado-other-pictures-spanish.md",
    "at": "2026-09-25T21:38:07+00:00"
+  },
+  {
+   "slug": "occupancy-america-1893-report-relative-antiquity",
+   "title": "Occupancy of America (1893); and a report On the Relative Antiquity of",
+   "era": "cultures",
+   "file": "eras/cultures/003093-occupancy-america-1893-report-relative-antiquity.md",
+   "at": "2026-09-25T21:48:10+00:00"
   }
  ]
 }
