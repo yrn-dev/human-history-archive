@@ -1,5 +1,5 @@
 {
- "count": 3012,
+ "count": 3013,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21084,6 +21084,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003013-louis-xiii-entitled-le-prince-1652-socrate-chretien-best.md",
    "at": "2026-09-25T06:58:55+00:00"
+  },
+  {
+   "slug": "bamberg-town-archiepiscopal-see-germany-kingdom",
+   "title": "BAMBERG, a town and archiepiscopal see of Germany, in the kingdom of",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003014-bamberg-town-archiepiscopal-see-germany-kingdom.md",
+   "at": "2026-09-25T07:08:56+00:00"
   }
  ]
 }
