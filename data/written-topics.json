@@ -1,5 +1,5 @@
 {
- "count": 3214,
+ "count": 3215,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22498,6 +22498,13 @@
    "era": "industrial",
    "file": "eras/industrial/003215-france-germany-holland-belgium-follows---.md",
    "at": "2026-09-26T19:57:03+00:00"
+  },
+  {
+   "slug": "state-papers-included-hilton-price-handbook-london",
+   "title": "The state papers included in F. G. Hilton Price's Handbook of London",
+   "era": "renaissance",
+   "file": "eras/renaissance/003216-state-papers-included-hilton-price-handbook-london.md",
+   "at": "2026-09-26T20:16:52+00:00"
   }
  ]
 }
