@@ -1,5 +1,5 @@
 {
- "count": 3149,
+ "count": 3150,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22043,6 +22043,13 @@
    "era": "modern",
    "file": "eras/modern/003150-photography-however-although-most-dangerous-weapon.md",
    "at": "2026-09-26T09:07:28+00:00"
+  },
+  {
+   "slug": "notes-bank-england-printed-bank",
+   "title": "The notes of the Bank of England are printed in the bank from",
+   "era": "industrial",
+   "file": "eras/industrial/003151-notes-bank-england-printed-bank.md",
+   "at": "2026-09-26T09:17:31+00:00"
   }
  ]
 }
