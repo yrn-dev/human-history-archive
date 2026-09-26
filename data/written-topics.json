@@ -1,5 +1,5 @@
 {
- "count": 3121,
+ "count": 3122,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21847,6 +21847,13 @@
    "era": "modern",
    "file": "eras/modern/003122-maine-confluence-kenduskeag-stream.md",
    "at": "2026-09-26T03:37:47+00:00"
+  },
+  {
+   "slug": "theological-seminary-congregational-incorporated-1814-opened",
+   "title": "Theological Seminary (Congregational), incorporated in 1814, opened at",
+   "era": "industrial",
+   "file": "eras/industrial/003123-theological-seminary-congregational-incorporated-1814-opened.md",
+   "at": "2026-09-26T03:47:40+00:00"
   }
  ]
 }
