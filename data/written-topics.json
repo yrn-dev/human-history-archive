@@ -1,5 +1,5 @@
 {
- "count": 3138,
+ "count": 3139,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21966,6 +21966,13 @@
    "era": "modern",
    "file": "eras/modern/003139-turks-notably-1527-1688-1737-no-bosnian-city-greater.md",
    "at": "2026-09-26T06:47:42+00:00"
+  },
+  {
+   "slug": "six-stringed-tuned-notation-g5x-g3-d4-g4-b4-d5",
+   "title": "The six-stringed is tuned [Notation: 6:G5X 5:G3 4:D4 3:G4 2:B4 1:D5.]",
+   "era": "renaissance",
+   "file": "eras/renaissance/003140-six-stringed-tuned-notation-g5x-g3-d4-g4-b4-d5.md",
+   "at": "2026-09-26T06:58:26+00:00"
   }
  ]
 }
