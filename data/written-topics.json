@@ -1,5 +1,5 @@
 {
- "count": 3226,
+ "count": 3227,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22582,6 +22582,13 @@
    "era": "industrial",
    "file": "eras/industrial/003227-commons-banking-inquiry-1875-these-banks-possessed-their.md",
    "at": "2026-09-26T22:16:47+00:00"
+  },
+  {
+   "slug": "no-security-ever-required-given-local-issues",
+   "title": "No security was ever required to be given for the local issues in the",
+   "era": "industrial",
+   "file": "eras/industrial/003228-no-security-ever-required-given-local-issues.md",
+   "at": "2026-09-26T22:26:49+00:00"
   }
  ]
 }
