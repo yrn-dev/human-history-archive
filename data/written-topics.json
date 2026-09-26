@@ -1,5 +1,5 @@
 {
- "count": 3183,
+ "count": 3184,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22281,6 +22281,13 @@
    "era": "industrial",
    "file": "eras/industrial/003184-l20-upwards-undischarged-bankrupt-without-disclosure-his.md",
    "at": "2026-09-26T14:47:08+00:00"
+  },
+  {
+   "slug": "comparative-law",
+   "title": "COMPARATIVE LAW",
+   "era": "ancient",
+   "file": "eras/ancient/003185-comparative-law.md",
+   "at": "2026-09-26T14:57:11+00:00"
   }
  ]
 }
