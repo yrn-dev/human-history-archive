@@ -1,5 +1,5 @@
 {
- "count": 3175,
+ "count": 3176,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22225,6 +22225,13 @@
    "era": "industrial",
    "file": "eras/industrial/003176-1856-passed-bankruptcy-scotland-act-which-law.md",
    "at": "2026-09-26T13:27:40+00:00"
+  },
+  {
+   "slug": "sequestration-adjudication-england-ireland",
+   "title": "1. By sequestration (or adjudication in England and Ireland); and",
+   "era": "industrial",
+   "file": "eras/industrial/003177-sequestration-adjudication-england-ireland.md",
+   "at": "2026-09-26T13:37:40+00:00"
   }
  ]
 }
