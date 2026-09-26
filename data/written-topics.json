@@ -1,5 +1,5 @@
 {
- "count": 3173,
+ "count": 3174,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22211,6 +22211,13 @@
    "era": "modern",
    "file": "eras/modern/003174-audit-accounts---the-trustee-accounts-must-audited.md",
    "at": "2026-09-26T13:07:31+00:00"
+  },
+  {
+   "slug": "all-bills-solicitors-other-agents-employed-must-taxed",
+   "title": "All bills of solicitors and other agents employed must be taxed before",
+   "era": "modern",
+   "file": "eras/modern/003175-all-bills-solicitors-other-agents-employed-must-taxed.md",
+   "at": "2026-09-26T13:17:28+00:00"
   }
  ]
 }
