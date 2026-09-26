@@ -1,5 +1,5 @@
 {
- "count": 3176,
+ "count": 3177,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22232,6 +22232,13 @@
    "era": "industrial",
    "file": "eras/industrial/003177-sequestration-adjudication-england-ireland.md",
    "at": "2026-09-26T13:37:40+00:00"
+  },
+  {
+   "slug": "case-deceased-debtor-subject-his-death",
+   "title": "2. In the case of a deceased debtor, subject at his death to the",
+   "era": "industrial",
+   "file": "eras/industrial/003178-case-deceased-debtor-subject-his-death.md",
+   "at": "2026-09-26T13:47:47+00:00"
   }
  ]
 }
