@@ -1,5 +1,5 @@
 {
- "count": 3110,
+ "count": 3111,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21770,6 +21770,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003111-history---of-northern-picts-who-originally-possessed-land-few.md",
    "at": "2026-09-26T01:17:58+00:00"
+  },
+  {
+   "slug": "gordon-chronicles-keith-grange-glasgow-1880-banffshire",
+   "title": "Gordon, Chronicles of Keith, Grange, &c. (Glasgow, 1880); Banffshire",
+   "era": "industrial",
+   "file": "eras/industrial/003112-gordon-chronicles-keith-grange-glasgow-1880-banffshire.md",
+   "at": "2026-09-26T01:28:04+00:00"
   }
  ]
 }
