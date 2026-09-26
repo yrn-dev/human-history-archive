@@ -1,0 +1,22 @@
+# The Bank of England and English Banking in the Late 17th Century
+
+## Foundation of the Bank of England
+The Bank of England was founded in 1694. Its establishment originated from a loan to the government totaling £1,200,000. This sum was subscribed in slightly more than ten days, specifically between Thursday, June 21, and noon on Monday, July 2, 1694. Following this, on Tuesday, July 10, the subscribers appointed Michael Godfrey as deputy-governor and Sir John Houblon as governor. Michael Godfrey, who was later killed on July 17, 1695, during the siege of Namur, authored a pamphlet detailing the bank's purposes and its intended utility to the country. This document also addressed contemporary fears that the bank might join with William III to make the prince absolute, thereby rendering parliaments useless.
+
+## Legislative Framework and Banking Restrictions
+The Bank of England was incorporated by the act of 1694. This act, along with subsequent legislation, strictly defined the landscape of English banking for over a century. The act of 1697 declared that no joint-stock bank was to be established within England while the Bank of England continued to exist. Further restrictions were introduced by the act of 1708, which stipulated that no partnership or company exceeding six persons in England could borrow, owe, or take up money on bills or notes payable on demand, or at any time less than six months from the borrowing. These regulations were later confirmed by the act of 1800.
+
+Because no bank could be formed with more than six partners between 1694 and 1826 (and 1833), the majority of banks in England and Wales remained small, isolated firms. These institutions faced instability; when a partner died, their capital often left the business, requiring the search for a new partner with sufficient means. This resulted in constant change, which hindered the growth of confidence unless a relation or son filled the vacancy. While banks in country districts often maintained branches in nearby small market-towns, London banks never operated more than one office. A considerable number of these banks were established by members of the Society of Friends.
+
+## Evolution of Banking Acts
+Significant changes to the banking system did not occur until 1826. The first act of that year prohibited bank notes under £5, while a second Banking Act allowed the establishment of joint-stock companies (co-partnerships of more than six persons) provided they were located beyond 65 miles from London. In 1833, the law was amended to allow joint-stock banks within the 65-mile limit and removed various restrictions on notes for less than £50. However, joint-stock banks within the 65-mile radius were still not permitted to issue notes. In the early history of English banking, the power to issue notes was a prerequisite for the system of deposit-banking; consequently, banks without this power could scarcely exist outside of London.
+
+## Other English Events of 1694
+The year 1694 saw other notable developments in England. To fund the war against France "with vigour," an act was passed granting the King certain duties and rates on burials, births, and marriages, as well as taxes on widowers and bachelors, for a term of five years. These taxes were graduated by rank. For births, a duke paid £30 for an eldest son and £25 for other children; a knight or baronet paid £5 for an eldest son and £1 for others. Doctors of physic, law, or divinity, as well as archbishops and bishops, paid £1 per child. Gentlemen with a real estate worth £50 per annum or a personal estate of £600 paid ten shillings per child, while any other person not receiving alms paid two shillings. This measure was temporary and intended solely for revenue.
+
+In the political sphere, Charles, 2nd earl of Macclesfield, who had represented Lancashire in parliament since 1689, succeeded to his father's peerage in 1694 and became a major-general in the same year. In the arts, 1694 saw the production of the first two parts of *The Comical History of Don Quixote* on the stage, a work that drew censure from Jeremy Collier.
+
+## Sources
+Compiled from: britannica11 vol02c banks to bassoon, britannica11 vol04c bible to bisectrix, britannica11 vol07a dodwell to drama, britannica11 vol17b luray cavern to mackinac
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
