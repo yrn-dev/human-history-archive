@@ -1,5 +1,5 @@
 {
- "count": 3150,
+ "count": 3151,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22050,6 +22050,13 @@
    "era": "industrial",
    "file": "eras/industrial/003151-notes-bank-england-printed-bank.md",
    "at": "2026-09-26T09:17:31+00:00"
+  },
+  {
+   "slug": "bank-rate-term-used-financial-circles-designate-rate",
+   "title": "BANK RATE, a term used in financial circles to designate the rate of",
+   "era": "industrial",
+   "file": "eras/industrial/003152-bank-rate-term-used-financial-circles-designate-rate.md",
+   "at": "2026-09-26T09:27:28+00:00"
   }
  ]
 }
