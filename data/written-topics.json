@@ -1,5 +1,5 @@
 {
- "count": 3235,
+ "count": 3236,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22645,6 +22645,13 @@
    "era": "industrial",
    "file": "eras/industrial/003236-chartered-private-joint-stock-banks-987-665.md",
    "at": "2026-09-26T23:46:57+00:00"
+  },
+  {
+   "slug": "bank-ireland-597-850",
+   "title": "Bank of Ireland                            3,597,850",
+   "era": "industrial",
+   "file": "eras/industrial/003237-bank-ireland-597-850.md",
+   "at": "2026-09-26T23:57:01+00:00"
   }
  ]
 }
