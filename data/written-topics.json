@@ -1,5 +1,5 @@
 {
- "count": 3114,
+ "count": 3115,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21798,6 +21798,13 @@
    "era": "industrial",
    "file": "eras/industrial/003115-bangalore-permanently-reserved-british-jurisdiction.md",
    "at": "2026-09-26T02:07:52+00:00"
+  },
+  {
+   "slug": "bangalore-headquarters-military-district-elevation",
+   "title": "Bangalore is the headquarters of a military district, its elevation",
+   "era": "modern",
+   "file": "eras/modern/003116-bangalore-headquarters-military-district-elevation.md",
+   "at": "2026-09-26T02:17:49+00:00"
   }
  ]
 }
