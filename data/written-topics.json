@@ -1,5 +1,5 @@
 {
- "count": 3164,
+ "count": 3165,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22148,6 +22148,13 @@
    "era": "industrial",
    "file": "eras/industrial/003165-petition-receiving-order---any-court-exercising-bankruptcy.md",
    "at": "2026-09-26T11:37:27+00:00"
+  },
+  {
+   "slug": "object-effect-receiving-order---the-object-order",
+   "title": "Object and Effect of Receiving Order.--The object of the order is to",
+   "era": "ancient",
+   "file": "eras/ancient/003166-object-effect-receiving-order---the-object-order.md",
+   "at": "2026-09-26T11:47:15+00:00"
   }
  ]
 }
