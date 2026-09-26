@@ -1,5 +1,5 @@
 {
- "count": 3113,
+ "count": 3114,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21791,6 +21791,13 @@
    "era": "industrial",
    "file": "eras/industrial/003114-british-administration-mysore-1831-1881-when-state.md",
    "at": "2026-09-26T01:57:52+00:00"
+  },
+  {
+   "slug": "bangalore-permanently-reserved-british-jurisdiction",
+   "title": "Bangalore was permanently reserved under British jurisdiction as an",
+   "era": "industrial",
+   "file": "eras/industrial/003115-bangalore-permanently-reserved-british-jurisdiction.md",
+   "at": "2026-09-26T02:07:52+00:00"
   }
  ]
 }
