@@ -1,5 +1,5 @@
 {
- "count": 3125,
+ "count": 3126,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -21875,6 +21875,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003126-worgorn-wroxeter-emrys-ambrosius-caer-caradawg-bangor.md",
    "at": "2026-09-26T04:27:48+00:00"
+  },
+  {
+   "slug": "bangorian-controversy-theological-dispute-early-18th-century",
+   "title": "BANGORIAN CONTROVERSY, a theological dispute in the early 18th century",
+   "era": "modern",
+   "file": "eras/modern/003127-bangorian-controversy-theological-dispute-early-18th-century.md",
+   "at": "2026-09-26T04:37:42+00:00"
   }
  ]
 }
