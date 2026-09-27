@@ -1,5 +1,5 @@
 {
- "count": 3319,
+ "count": 3320,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23233,6 +23233,13 @@
    "era": "industrial",
    "file": "eras/industrial/003320-1837-1857-select-tracts-money-reprinted-privately-lord.md",
    "at": "2026-09-27T14:36:11+00:00"
+  },
+  {
+   "slug": "influence-note-circulation-conduct-banking",
+   "title": "On the Influence of a Note Circulation in the Conduct of Banking",
+   "era": "industrial",
+   "file": "eras/industrial/003321-influence-note-circulation-conduct-banking.md",
+   "at": "2026-09-27T14:46:18+00:00"
   }
  ]
 }
