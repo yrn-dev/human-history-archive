@@ -1,5 +1,5 @@
 {
- "count": 3273,
+ "count": 3274,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22911,6 +22911,13 @@
    "era": "modern",
    "file": "eras/modern/003274-dublin-name-beresford-having-made-himself-very-unpopular.md",
    "at": "2026-09-27T06:06:26+00:00"
+  },
+  {
+   "slug": "number-banks-which-failed-ireland-earlier-times",
+   "title": "The number of banks which failed in Ireland in earlier times was",
+   "era": "industrial",
+   "file": "eras/industrial/003275-number-banks-which-failed-ireland-earlier-times.md",
+   "at": "2026-09-27T06:16:32+00:00"
   }
  ]
 }
