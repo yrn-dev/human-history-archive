@@ -1,5 +1,5 @@
 {
- "count": 3353,
+ "count": 3354,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23471,6 +23471,13 @@
    "era": "modern",
    "file": "eras/modern/003354-issue-new-york-1896-alexander-noyes-thirty-years-american.md",
    "at": "2026-09-27T20:55:43+00:00"
+  },
+  {
+   "slug": "finance-new-york-1898-davis-rich-dewey-financial-history",
+   "title": "Finance (New York, 1898); Davis Rich Dewey, Financial History of the",
+   "era": "industrial",
+   "file": "eras/industrial/003355-finance-new-york-1898-davis-rich-dewey-financial-history.md",
+   "at": "2026-09-27T21:05:44+00:00"
   }
  ]
 }
