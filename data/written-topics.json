@@ -1,5 +1,5 @@
 {
- "count": 3305,
+ "count": 3306,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23135,6 +23135,13 @@
    "era": "industrial",
    "file": "eras/industrial/003306-remains-seen-whether-note-issuing-banks-find-these.md",
    "at": "2026-09-27T12:06:19+00:00"
+  },
+  {
+   "slug": "authorities---parliamentary-papers-report-together-minutes",
+   "title": "AUTHORITIES.--Parliamentary Papers: Report, together with Minutes of",
+   "era": "industrial",
+   "file": "eras/industrial/003307-authorities---parliamentary-papers-report-together-minutes.md",
+   "at": "2026-09-27T12:16:13+00:00"
   }
  ]
 }
