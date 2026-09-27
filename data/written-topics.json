@@ -1,5 +1,5 @@
 {
- "count": 3317,
+ "count": 3318,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23219,6 +23219,13 @@
    "era": "industrial",
    "file": "eras/industrial/003318-banking-10th-ed-1899-crump-key-london-money-market.md",
    "at": "2026-09-27T14:16:13+00:00"
+  },
+  {
+   "slug": "london-banking-bankers-clearing-house-system-ernest-seyd",
+   "title": "London Banking and Bankers' Clearing House System; Ernest Seyd, The",
+   "era": "industrial",
+   "file": "eras/industrial/003319-london-banking-bankers-clearing-house-system-ernest-seyd.md",
+   "at": "2026-09-27T14:26:32+00:00"
   }
  ]
 }
