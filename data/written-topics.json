@@ -1,5 +1,5 @@
 {
- "count": 3303,
+ "count": 3304,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23121,6 +23121,13 @@
    "era": "industrial",
    "file": "eras/industrial/003304-amendment-banking-law-germany-passed-1899-not-only.md",
    "at": "2026-09-27T11:46:13+00:00"
+  },
+  {
+   "slug": "15-bank-law-case-reichsbank-itself-discounts",
+   "title": "S. 15 of the bank law, or in case the Reichsbank itself discounts at a",
+   "era": "modern",
+   "file": "eras/modern/003305-15-bank-law-case-reichsbank-itself-discounts.md",
+   "at": "2026-09-27T11:56:23+00:00"
   }
  ]
 }
