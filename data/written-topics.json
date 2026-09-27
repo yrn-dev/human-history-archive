@@ -1,5 +1,5 @@
 {
- "count": 3239,
+ "count": 3240,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22673,6 +22673,13 @@
    "era": "industrial",
    "file": "eras/industrial/003240-12-private-banks-l482-744-l122-536.md",
    "at": "2026-09-27T00:26:47+00:00"
+  },
+  {
+   "slug": "17-joint-stock-banks-084-836-437-693",
+   "title": "17 joint-stock banks     1,084,836            437,693",
+   "era": "industrial",
+   "file": "eras/industrial/003241-17-joint-stock-banks-084-836-437-693.md",
+   "at": "2026-09-27T00:36:52+00:00"
   }
  ]
 }
