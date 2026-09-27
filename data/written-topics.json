@@ -1,5 +1,5 @@
 {
- "count": 3345,
+ "count": 3346,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23415,6 +23415,13 @@
    "era": "modern",
    "file": "eras/modern/003346-1907-276-146-081-their-deposits-061-623-035-trust.md",
    "at": "2026-09-27T19:35:53+00:00"
+  },
+  {
+   "slug": "progress-national-banks-1865-1908",
+   "title": "PROGRESS OF NATIONAL BANKS, 1865-1908",
+   "era": "industrial",
+   "file": "eras/industrial/003347-progress-national-banks-1865-1908.md",
+   "at": "2026-09-27T19:45:59+00:00"
   }
  ]
 }
