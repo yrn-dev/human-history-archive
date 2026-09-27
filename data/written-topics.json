@@ -1,5 +1,5 @@
 {
- "count": 3332,
+ "count": 3333,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23324,6 +23324,13 @@
    "era": "modern",
    "file": "eras/modern/003333-japan---the-house-mitsui-tokio-law-by-laws.md",
    "at": "2026-09-27T17:16:02+00:00"
+  },
+  {
+   "slug": "(r.-h.-i.-p.)",
+   "title": "(R. H. I. P.)",
+   "era": "modern",
+   "file": "eras/modern/003334-(r.-h.-i.-p.).md",
+   "at": "2026-09-27T17:36:04+00:00"
   }
  ]
 }
