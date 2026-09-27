@@ -1,5 +1,5 @@
 {
- "count": 3359,
+ "count": 3360,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23513,6 +23513,13 @@
    "era": "ancient",
    "file": "eras/ancient/003360-(c.-a.-c.).md",
    "at": "2026-09-27T21:55:48+00:00"
+  },
+  {
+   "slug": "english-law-affecting-banks-their-customers",
+   "title": "ENGLISH LAW AFFECTING BANKS AND THEIR CUSTOMERS",
+   "era": "modern",
+   "file": "eras/modern/003361-english-law-affecting-banks-their-customers.md",
+   "at": "2026-09-27T22:05:48+00:00"
   }
  ]
 }
