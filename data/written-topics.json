@@ -1,5 +1,5 @@
 {
- "count": 3299,
+ "count": 3300,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23093,6 +23093,13 @@
    "era": "modern",
    "file": "eras/modern/003300-strauss-dr-koch-president-reichsbank-dr-koch.md",
    "at": "2026-09-27T11:06:21+00:00"
+  },
+  {
+   "slug": "note-circulation-also-powerful-factor-business",
+   "title": "The note circulation is also a powerful factor of the business of the",
+   "era": "industrial",
+   "file": "eras/industrial/003301-note-circulation-also-powerful-factor-business.md",
+   "at": "2026-09-27T11:16:23+00:00"
   }
  ]
 }
