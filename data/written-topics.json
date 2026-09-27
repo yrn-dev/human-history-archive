@@ -1,5 +1,5 @@
 {
- "count": 3285,
+ "count": 3286,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22995,6 +22995,13 @@
    "era": "industrial",
    "file": "eras/industrial/003286-l6-700-000-capitals-l77-000-000-deposits-106-offices-other.md",
    "at": "2026-09-27T08:06:30+00:00"
+  },
+  {
+   "slug": "generale-established-1716-john-law-author",
+   "title": "Generale, was established in 1716 by John Law, the author of the",
+   "era": "modern",
+   "file": "eras/modern/003287-generale-established-1716-john-law-author.md",
+   "at": "2026-09-27T08:16:18+00:00"
   }
  ]
 }
