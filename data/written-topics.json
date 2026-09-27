@@ -1,5 +1,5 @@
 {
- "count": 3334,
+ "count": 3335,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23338,6 +23338,13 @@
    "era": "modern",
    "file": "eras/modern/003335-united-states.md",
    "at": "2026-09-27T17:46:02+00:00"
+  },
+  {
+   "slug": "sea-bubble-act-which-forbade-formation-banking-companies",
+   "title": "Sea Bubble. This act, which forbade the formation of banking companies",
+   "era": "industrial",
+   "file": "eras/industrial/003336-sea-bubble-act-which-forbade-formation-banking-companies.md",
+   "at": "2026-09-27T17:55:57+00:00"
   }
  ]
 }
