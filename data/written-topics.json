@@ -1,5 +1,5 @@
 {
- "count": 3241,
+ "count": 3242,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22687,6 +22687,13 @@
    "era": "modern",
    "file": "eras/modern/003242-average-circulation-1906-follows---.md",
    "at": "2026-09-27T00:46:46+00:00"
+  },
+  {
+   "slug": "bank-england-l28-890-000",
+   "title": "Bank of England                          L28,890,000",
+   "era": "industrial",
+   "file": "eras/industrial/003243-bank-england-l28-890-000.md",
+   "at": "2026-09-27T00:58:47+00:00"
   }
  ]
 }
