@@ -1,5 +1,5 @@
 {
- "count": 3324,
+ "count": 3325,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23268,6 +23268,13 @@
    "era": "industrial",
    "file": "eras/industrial/003325-price-handbook-london-bankers-1876-conant-history-modern.md",
    "at": "2026-09-27T15:26:20+00:00"
+  },
+  {
+   "slug": "banks-issue-new-york-1896-history-banking-all-leading",
+   "title": "Banks of Issue (New York, 1896); History of Banking in all Leading",
+   "era": "industrial",
+   "file": "eras/industrial/003326-banks-issue-new-york-1896-history-banking-all-leading.md",
+   "at": "2026-09-27T15:36:13+00:00"
   }
  ]
 }
