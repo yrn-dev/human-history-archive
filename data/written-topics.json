@@ -1,5 +1,5 @@
 {
- "count": 3347,
+ "count": 3348,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23429,6 +23429,13 @@
    "era": "industrial",
    "file": "eras/industrial/003348-aggregate-banking-power-united-states-computed.md",
    "at": "2026-09-27T19:55:54+00:00"
+  },
+  {
+   "slug": "clearing-houses-exist-112-leading-cities-aggregate",
+   "title": "Clearing-houses exist in about 112 leading cities, and the aggregate",
+   "era": "industrial",
+   "file": "eras/industrial/003349-clearing-houses-exist-112-leading-cities-aggregate.md",
+   "at": "2026-09-27T20:05:47+00:00"
   }
  ]
 }
