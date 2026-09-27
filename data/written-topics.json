@@ -1,5 +1,5 @@
 {
- "count": 3361,
+ "count": 3362,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23527,6 +23527,13 @@
    "era": "industrial",
    "file": "eras/industrial/003362-issue-notes---the-legislation-which-culminated-bank-charter.md",
    "at": "2026-09-27T22:15:51+00:00"
+  },
+  {
+   "slug": "deposit-business---the-term-bank-deposit-gives-mistaken-idea",
+   "title": "Deposit Business.--The term \"bank of deposit\" gives a mistaken idea of",
+   "era": "modern",
+   "file": "eras/modern/003363-deposit-business---the-term-bank-deposit-gives-mistaken-idea.md",
+   "at": "2026-09-27T22:25:52+00:00"
   }
  ]
 }
