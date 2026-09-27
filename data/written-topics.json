@@ -1,5 +1,5 @@
 {
- "count": 3358,
+ "count": 3359,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23506,6 +23506,13 @@
    "era": "industrial",
    "file": "eras/industrial/003359-much-statistical-information-contained-annual-reports.md",
    "at": "2026-09-27T21:45:47+00:00"
+  },
+  {
+   "slug": "(c.-a.-c.)",
+   "title": "(C. A. C.)",
+   "era": "ancient",
+   "file": "eras/ancient/003360-(c.-a.-c.).md",
+   "at": "2026-09-27T21:55:48+00:00"
   }
  ]
 }
