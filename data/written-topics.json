@@ -1,5 +1,5 @@
 {
- "count": 3354,
+ "count": 3355,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23478,6 +23478,13 @@
    "era": "industrial",
    "file": "eras/industrial/003355-finance-new-york-1898-davis-rich-dewey-financial-history.md",
    "at": "2026-09-27T21:05:44+00:00"
+  },
+  {
+   "slug": "united-states-new-york-london-1903-john-schwab",
+   "title": "United States (New York and London, 1903); John C. Schwab, The",
+   "era": "modern",
+   "file": "eras/modern/003356-united-states-new-york-london-1903-john-schwab.md",
+   "at": "2026-09-27T21:15:50+00:00"
   }
  ]
 }
