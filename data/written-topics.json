@@ -1,5 +1,5 @@
 {
- "count": 3350,
+ "count": 3351,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23450,6 +23450,13 @@
    "era": "industrial",
    "file": "eras/industrial/003351-variations-clearings-new-york.md",
    "at": "2026-09-27T20:25:47+00:00"
+  },
+  {
+   "slug": "currency-banking-philadelphia-1840-gibbons-banks",
+   "title": "Currency and Banking (Philadelphia, 1840); J. S. Gibbons, The Banks of",
+   "era": "industrial",
+   "file": "eras/industrial/003352-currency-banking-philadelphia-1840-gibbons-banks.md",
+   "at": "2026-09-27T20:35:47+00:00"
   }
  ]
 }
