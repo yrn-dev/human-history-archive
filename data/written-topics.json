@@ -1,5 +1,5 @@
 {
- "count": 3346,
+ "count": 3347,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23422,6 +23422,13 @@
    "era": "industrial",
    "file": "eras/industrial/003347-progress-national-banks-1865-1908.md",
    "at": "2026-09-27T19:45:59+00:00"
+  },
+  {
+   "slug": "aggregate-banking-power-united-states-computed",
+   "title": "The aggregate banking power of the United States, as computed by the",
+   "era": "industrial",
+   "file": "eras/industrial/003348-aggregate-banking-power-united-states-computed.md",
+   "at": "2026-09-27T19:55:54+00:00"
   }
  ]
 }
