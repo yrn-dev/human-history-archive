@@ -1,5 +1,5 @@
 {
- "count": 3307,
+ "count": 3308,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23149,6 +23149,13 @@
    "era": "industrial",
    "file": "eras/industrial/003308-bullion-house-commons-8th-june-1810-reports-committee.md",
    "at": "2026-09-27T12:26:16+00:00"
+  },
+  {
+   "slug": "secrecy-bank-england-charter-house-commons-1832-select",
+   "title": "Secrecy on Bank of England Charter, House of Commons, 1832; Select",
+   "era": "industrial",
+   "file": "eras/industrial/003309-secrecy-bank-england-charter-house-commons-1832-select.md",
+   "at": "2026-09-27T12:36:07+00:00"
   }
  ]
 }
