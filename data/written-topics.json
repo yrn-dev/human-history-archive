@@ -1,5 +1,5 @@
 {
- "count": 3320,
+ "count": 3321,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23240,6 +23240,13 @@
    "era": "industrial",
    "file": "eras/industrial/003321-influence-note-circulation-conduct-banking.md",
    "at": "2026-09-27T14:46:18+00:00"
+  },
+  {
+   "slug": "business-read-manchester-statistical-society-1877-edgar",
+   "title": "Business, read before the Manchester Statistical Society, 1877; Edgar",
+   "era": "industrial",
+   "file": "eras/industrial/003322-business-read-manchester-statistical-society-1877-edgar.md",
+   "at": "2026-09-27T14:56:25+00:00"
   }
  ]
 }
