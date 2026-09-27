@@ -1,5 +1,5 @@
 {
- "count": 3360,
+ "count": 3361,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23520,6 +23520,13 @@
    "era": "modern",
    "file": "eras/modern/003361-english-law-affecting-banks-their-customers.md",
    "at": "2026-09-27T22:05:48+00:00"
+  },
+  {
+   "slug": "issue-notes---the-legislation-which-culminated-bank-charter",
+   "title": "Issue of Notes.--The legislation which culminated in the Bank Charter",
+   "era": "industrial",
+   "file": "eras/industrial/003362-issue-notes---the-legislation-which-culminated-bank-charter.md",
+   "at": "2026-09-27T22:15:51+00:00"
   }
  ]
 }
