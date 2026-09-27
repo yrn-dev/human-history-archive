@@ -1,5 +1,5 @@
 {
- "count": 3323,
+ "count": 3324,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23261,6 +23261,13 @@
    "era": "industrial",
    "file": "eras/industrial/003324-1837-hardcastle-banks-bankers-1843-lawson.md",
    "at": "2026-09-27T15:16:22+00:00"
+  },
+  {
+   "slug": "price-handbook-london-bankers-1876-conant-history-modern",
+   "title": "Price, A Handbook of London Bankers (1876); Conant, History of Modern",
+   "era": "industrial",
+   "file": "eras/industrial/003325-price-handbook-london-bankers-1876-conant-history-modern.md",
+   "at": "2026-09-27T15:26:20+00:00"
   }
  ]
 }
