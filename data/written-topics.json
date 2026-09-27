@@ -1,5 +1,5 @@
 {
- "count": 3311,
+ "count": 3312,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23177,6 +23177,13 @@
    "era": "industrial",
    "file": "eras/industrial/003312-exchanges-1730-lord-king-thoughts-bank-restrictions-1804.md",
    "at": "2026-09-27T13:16:19+00:00"
+  },
+  {
+   "slug": "thomson-hankey-principles-banking-1867-walter-bagehot-lombard",
+   "title": "Thomson Hankey, Principles of Banking (1867); Walter Bagehot, Lombard",
+   "era": "industrial",
+   "file": "eras/industrial/003313-thomson-hankey-principles-banking-1867-walter-bagehot-lombard.md",
+   "at": "2026-09-27T13:26:31+00:00"
   }
  ]
 }
