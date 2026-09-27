@@ -1,5 +1,5 @@
 {
- "count": 3326,
+ "count": 3327,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23282,6 +23282,13 @@
    "era": "modern",
    "file": "eras/modern/003327-bidwell-annals-east-anglian-bank-1900-richardson-coutts.md",
    "at": "2026-09-27T15:56:16+00:00"
+  },
+  {
+   "slug": "co-bankers-edinburgh-london-easton-history-banking",
+   "title": "Co., Bankers, Edinburgh and London; H. T. Easton, History of a Banking",
+   "era": "industrial",
+   "file": "eras/industrial/003328-co-bankers-edinburgh-london-easton-history-banking.md",
+   "at": "2026-09-27T16:06:10+00:00"
   }
  ]
 }
