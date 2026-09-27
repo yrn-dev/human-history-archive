@@ -1,5 +1,5 @@
 {
- "count": 3312,
+ "count": 3313,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23184,6 +23184,13 @@
    "era": "industrial",
    "file": "eras/industrial/003313-thomson-hankey-principles-banking-1867-walter-bagehot-lombard.md",
    "at": "2026-09-27T13:26:31+00:00"
+  },
+  {
+   "slug": "1906-cobb-threadneedle-street-reply-lombard-street",
+   "title": "1906); A. S. Cobb, Threadneedle Street, a reply to \"Lombard Street\"",
+   "era": "industrial",
+   "file": "eras/industrial/003314-1906-cobb-threadneedle-street-reply-lombard-street.md",
+   "at": "2026-09-27T13:36:15+00:00"
   }
  ]
 }
