@@ -1,5 +1,5 @@
 {
- "count": 3325,
+ "count": 3326,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23275,6 +23275,13 @@
    "era": "industrial",
    "file": "eras/industrial/003326-banks-issue-new-york-1896-history-banking-all-leading.md",
    "at": "2026-09-27T15:36:13+00:00"
+  },
+  {
+   "slug": "bidwell-annals-east-anglian-bank-1900-richardson-coutts",
+   "title": "Bidwell, Annals of an East Anglian Bank (1900); Richardson, Coutts &",
+   "era": "modern",
+   "file": "eras/modern/003327-bidwell-annals-east-anglian-bank-1900-richardson-coutts.md",
+   "at": "2026-09-27T15:56:16+00:00"
   }
  ]
 }
