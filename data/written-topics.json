@@ -1,5 +1,5 @@
 {
- "count": 3366,
+ "count": 3367,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23562,6 +23562,13 @@
    "era": "modern",
    "file": "eras/modern/003367-bank-1908-293-banker-authority-pay-cheques.md",
    "at": "2026-09-27T23:05:47+00:00"
+  },
+  {
+   "slug": "banker-bound-observe-secrecy-respect-customer",
+   "title": "The banker is bound to observe secrecy with respect to the customer's",
+   "era": "modern",
+   "file": "eras/modern/003368-banker-bound-observe-secrecy-respect-customer.md",
+   "at": "2026-09-27T23:15:48+00:00"
   }
  ]
 }
