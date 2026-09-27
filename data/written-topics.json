@@ -1,5 +1,5 @@
 {
- "count": 3298,
+ "count": 3299,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23086,6 +23086,13 @@
    "era": "industrial",
    "file": "eras/industrial/003299-east-bank-germany-l133-000-000-further.md",
    "at": "2026-09-27T10:56:31+00:00"
+  },
+  {
+   "slug": "strauss-dr-koch-president-reichsbank-dr-koch",
+   "title": "Strauss and of Dr R. Koch, the president of the Reichsbank. Dr Koch",
+   "era": "modern",
+   "file": "eras/modern/003300-strauss-dr-koch-president-reichsbank-dr-koch.md",
+   "at": "2026-09-27T11:06:21+00:00"
   }
  ]
 }
