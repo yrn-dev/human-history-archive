@@ -1,5 +1,5 @@
 {
- "count": 3302,
+ "count": 3303,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23114,6 +23114,13 @@
    "era": "modern",
    "file": "eras/modern/003303-accordance-law-passed-1906-imperial-bank-issues-notes.md",
    "at": "2026-09-27T11:36:26+00:00"
+  },
+  {
+   "slug": "amendment-banking-law-germany-passed-1899-not-only",
+   "title": "The amendment of the banking law of Germany, passed in 1899, not only",
+   "era": "industrial",
+   "file": "eras/industrial/003304-amendment-banking-law-germany-passed-1899-not-only.md",
+   "at": "2026-09-27T11:46:13+00:00"
   }
  ]
 }
