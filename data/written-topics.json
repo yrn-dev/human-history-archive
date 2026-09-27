@@ -1,5 +1,5 @@
 {
- "count": 3352,
+ "count": 3353,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23464,6 +23464,13 @@
    "era": "industrial",
    "file": "eras/industrial/003353-new-york-their-dealers-clearing-house-panic-1857-new.md",
    "at": "2026-09-27T20:45:49+00:00"
+  },
+  {
+   "slug": "issue-new-york-1896-alexander-noyes-thirty-years-american",
+   "title": "Issue (New York, 1896); Alexander D. Noyes, Thirty Years of American",
+   "era": "modern",
+   "file": "eras/modern/003354-issue-new-york-1896-alexander-noyes-thirty-years-american.md",
+   "at": "2026-09-27T20:55:43+00:00"
   }
  ]
 }
