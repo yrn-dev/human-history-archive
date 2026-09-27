@@ -1,5 +1,5 @@
 {
- "count": 3367,
+ "count": 3368,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23569,6 +23569,13 @@
    "era": "modern",
    "file": "eras/modern/003368-banker-bound-observe-secrecy-respect-customer.md",
    "at": "2026-09-27T23:15:48+00:00"
+  },
+  {
+   "slug": "sec-19-stamp-act-1853-banker-paying-draft-order",
+   "title": "By sec. 19 of the Stamp Act 1853, the banker paying a draft or order",
+   "era": "industrial",
+   "file": "eras/industrial/003369-sec-19-stamp-act-1853-banker-paying-draft-order.md",
+   "at": "2026-09-27T23:25:39+00:00"
   }
  ]
 }
