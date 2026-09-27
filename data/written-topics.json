@@ -1,5 +1,5 @@
 {
- "count": 3322,
+ "count": 3323,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23254,6 +23254,13 @@
    "era": "modern",
    "file": "eras/modern/003323-jaffe-das-englische-bankwesen-leipzig-1905-history-banks.md",
    "at": "2026-09-27T15:06:12+00:00"
+  },
+  {
+   "slug": "1837-hardcastle-banks-bankers-1843-lawson",
+   "title": "(1837); D. Hardcastle, Banks and Bankers (1843); W. J. Lawson, The",
+   "era": "industrial",
+   "file": "eras/industrial/003324-1837-hardcastle-banks-bankers-1843-lawson.md",
+   "at": "2026-09-27T15:16:22+00:00"
   }
  ]
 }
