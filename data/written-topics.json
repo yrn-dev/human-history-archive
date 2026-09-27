@@ -1,5 +1,5 @@
 {
- "count": 3321,
+ "count": 3322,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23247,6 +23247,13 @@
    "era": "industrial",
    "file": "eras/industrial/003322-business-read-manchester-statistical-society-1877-edgar.md",
    "at": "2026-09-27T14:56:25+00:00"
+  },
+  {
+   "slug": "jaffe-das-englische-bankwesen-leipzig-1905-history-banks",
+   "title": "Jaffe, Das englische Bankwesen (Leipzig, 1905); A History of Banks",
+   "era": "modern",
+   "file": "eras/modern/003323-jaffe-das-englische-bankwesen-leipzig-1905-history-banks.md",
+   "at": "2026-09-27T15:06:12+00:00"
   }
  ]
 }
