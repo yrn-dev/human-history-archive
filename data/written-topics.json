@@ -1,5 +1,5 @@
 {
- "count": 3328,
+ "count": 3329,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23296,6 +23296,13 @@
    "era": "industrial",
    "file": "eras/industrial/003329-scotland---w-logan-scottish-banker-1847-robert-somers.md",
    "at": "2026-09-27T16:16:10+00:00"
+  },
+  {
+   "slug": "scotch-banks-system-issue-1873-mitchell-scotch-banks",
+   "title": "Scotch Banks and System of Issue (1873); W. Mitchell, Scotch Banks and",
+   "era": "industrial",
+   "file": "eras/industrial/003330-scotch-banks-system-issue-1873-mitchell-scotch-banks.md",
+   "at": "2026-09-27T16:26:02+00:00"
   }
  ]
 }
