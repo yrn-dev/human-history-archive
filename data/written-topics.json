@@ -1,5 +1,5 @@
 {
- "count": 3242,
+ "count": 3243,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22694,6 +22694,13 @@
    "era": "industrial",
    "file": "eras/industrial/003243-bank-england-l28-890-000.md",
    "at": "2026-09-27T00:58:47+00:00"
+  },
+  {
+   "slug": "private-banks-124-000",
+   "title": "Private banks                                124,000",
+   "era": "industrial",
+   "file": "eras/industrial/003244-private-banks-124-000.md",
+   "at": "2026-09-27T01:06:46+00:00"
   }
  ]
 }
