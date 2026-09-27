@@ -1,5 +1,5 @@
 {
- "count": 3244,
+ "count": 3245,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22708,6 +22708,13 @@
    "era": "modern",
    "file": "eras/modern/003245-total-england-l29-443-000.md",
    "at": "2026-09-27T01:16:43+00:00"
+  },
+  {
+   "slug": "scotland-477-000",
+   "title": "Scotland                                   7,477,000",
+   "era": "industrial",
+   "file": "eras/industrial/003246-scotland-477-000.md",
+   "at": "2026-09-27T01:26:40+00:00"
   }
  ]
 }
