@@ -1,5 +1,5 @@
 {
- "count": 3264,
+ "count": 3265,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22848,6 +22848,13 @@
    "era": "modern",
    "file": "eras/modern/003265-1695-shortly-establishment-bank-england.md",
    "at": "2026-09-27T04:36:36+00:00"
+  },
+  {
+   "slug": "1792-money-deposited-banks-scotland-rapidly",
+   "title": "After 1792, the money deposited with the banks in Scotland rapidly",
+   "era": "industrial",
+   "file": "eras/industrial/003266-1792-money-deposited-banks-scotland-rapidly.md",
+   "at": "2026-09-27T04:46:35+00:00"
   }
  ]
 }
