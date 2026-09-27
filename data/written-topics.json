@@ -1,5 +1,5 @@
 {
- "count": 3275,
+ "count": 3276,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22925,6 +22925,13 @@
    "era": "industrial",
    "file": "eras/industrial/003276-capital-irish-joint-stock-banks-1906.md",
    "at": "2026-09-27T06:26:26+00:00"
+  },
+  {
+   "slug": "banking-like-every-other-business-pass-through-periods",
+   "title": "Banking, like every other business, has to pass through periods of",
+   "era": "modern",
+   "file": "eras/modern/003277-banking-like-every-other-business-pass-through-periods.md",
+   "at": "2026-09-27T06:36:35+00:00"
   }
  ]
 }
