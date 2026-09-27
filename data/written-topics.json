@@ -1,5 +1,5 @@
 {
- "count": 3306,
+ "count": 3307,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23142,6 +23142,13 @@
    "era": "industrial",
    "file": "eras/industrial/003307-authorities---parliamentary-papers-report-together-minutes.md",
    "at": "2026-09-27T12:16:13+00:00"
+  },
+  {
+   "slug": "bullion-house-commons-8th-june-1810-reports-committee",
+   "title": "Bullion, House of Commons, 8th of June 1810; Reports, Committee of",
+   "era": "industrial",
+   "file": "eras/industrial/003308-bullion-house-commons-8th-june-1810-reports-committee.md",
+   "at": "2026-09-27T12:26:16+00:00"
   }
  ]
 }
