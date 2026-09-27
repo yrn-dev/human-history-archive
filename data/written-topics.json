@@ -1,5 +1,5 @@
 {
- "count": 3308,
+ "count": 3309,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23156,6 +23156,13 @@
    "era": "industrial",
    "file": "eras/industrial/003309-secrecy-bank-england-charter-house-commons-1832-select.md",
    "at": "2026-09-27T12:36:07+00:00"
+  },
+  {
+   "slug": "committee-banks-issue-house-commons-1840-first-second",
+   "title": "Committee on Banks of Issue, House of Commons, 1840; First and Second",
+   "era": "industrial",
+   "file": "eras/industrial/003310-committee-banks-issue-house-commons-1840-first-second.md",
+   "at": "2026-09-27T12:46:06+00:00"
   }
  ]
 }
