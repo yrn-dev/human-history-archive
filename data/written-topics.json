@@ -1,5 +1,5 @@
 {
- "count": 3301,
+ "count": 3302,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23107,6 +23107,13 @@
    "era": "industrial",
    "file": "eras/industrial/003302-reichsbank-payment-obligations-gold-though.md",
    "at": "2026-09-27T11:26:28+00:00"
+  },
+  {
+   "slug": "accordance-law-passed-1906-imperial-bank-issues-notes",
+   "title": "In accordance with a law passed in 1906 the Imperial Bank issues notes",
+   "era": "modern",
+   "file": "eras/modern/003303-accordance-law-passed-1906-imperial-bank-issues-notes.md",
+   "at": "2026-09-27T11:36:26+00:00"
   }
  ]
 }
