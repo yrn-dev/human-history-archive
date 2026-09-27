@@ -1,5 +1,5 @@
 {
- "count": 3329,
+ "count": 3330,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23303,6 +23303,13 @@
    "era": "industrial",
    "file": "eras/industrial/003330-scotch-banks-system-issue-1873-mitchell-scotch-banks.md",
    "at": "2026-09-27T16:26:02+00:00"
+  },
+  {
+   "slug": "banking-australia-new-zealand-1880-banking-australasia",
+   "title": "Banking in Australia and New Zealand (1880); Banking in Australasia",
+   "era": "industrial",
+   "file": "eras/industrial/003331-banking-australia-new-zealand-1880-banking-australasia.md",
+   "at": "2026-09-27T16:36:01+00:00"
   }
  ]
 }
