@@ -1,5 +1,5 @@
 {
- "count": 3284,
+ "count": 3285,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22988,6 +22988,13 @@
    "era": "modern",
    "file": "eras/modern/003285-l1-000-000-deposits-l3-300-000-25-offices-there.md",
    "at": "2026-09-27T07:56:43+00:00"
+  },
+  {
+   "slug": "l6-700-000-capitals-l77-000-000-deposits-106-offices-other",
+   "title": "L6,700,000 capitals, L77,000,000 deposits and 106 offices: and 7 other",
+   "era": "industrial",
+   "file": "eras/industrial/003286-l6-700-000-capitals-l77-000-000-deposits-106-offices-other.md",
+   "at": "2026-09-27T08:06:30+00:00"
   }
  ]
 }
