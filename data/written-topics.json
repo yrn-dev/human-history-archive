@@ -1,5 +1,5 @@
 {
- "count": 3277,
+ "count": 3278,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22939,6 +22939,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003278-january-raised-3-1-14th-21st.md",
    "at": "2026-09-27T06:46:32+00:00"
+  },
+  {
+   "slug": "30th-october-600-000",
+   "title": "\"   30th October ....   1,600,000",
+   "era": "industrial",
+   "file": "eras/industrial/003279-30th-october-600-000.md",
+   "at": "2026-09-27T06:58:48+00:00"
   }
  ]
 }
