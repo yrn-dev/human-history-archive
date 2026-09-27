@@ -1,5 +1,5 @@
 {
- "count": 3355,
+ "count": 3356,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23485,6 +23485,13 @@
    "era": "modern",
    "file": "eras/modern/003356-united-states-new-york-london-1903-john-schwab.md",
    "at": "2026-09-27T21:15:50+00:00"
+  },
+  {
+   "slug": "independent-treasury-united-states-new-york-1893-report",
+   "title": "The Independent Treasury of the United States (New York, 1893); Report",
+   "era": "modern",
+   "file": "eras/modern/003357-independent-treasury-united-states-new-york-1893-report.md",
+   "at": "2026-09-27T21:25:42+00:00"
   }
  ]
 }
