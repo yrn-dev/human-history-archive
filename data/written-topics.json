@@ -1,5 +1,5 @@
 {
- "count": 3258,
+ "count": 3259,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22806,6 +22806,13 @@
    "era": "modern",
    "file": "eras/modern/003259-january-1906.md",
    "at": "2026-09-27T03:36:39+00:00"
+  },
+  {
+   "slug": "1839-figures-london-clearings",
+   "title": "In 1839 the figures of the London clearings",
+   "era": "industrial",
+   "file": "eras/industrial/003260-1839-figures-london-clearings.md",
+   "at": "2026-09-27T03:46:33+00:00"
   }
  ]
 }
