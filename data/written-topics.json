@@ -1,5 +1,5 @@
 {
- "count": 3369,
+ "count": 3370,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23583,6 +23583,13 @@
    "era": "modern",
    "file": "eras/modern/003370-london-city-midland-bank-gordon-1903-240-held.md",
    "at": "2026-09-27T23:35:40+00:00"
+  },
+  {
+   "slug": "london-city-midland-bank-gordon-sec-17-revenue-act",
+   "title": "(London City & Midland Bank v. Gordon). Sec. 17 of the Revenue Act",
+   "era": "industrial",
+   "file": "eras/industrial/003371-london-city-midland-bank-gordon-sec-17-revenue-act.md",
+   "at": "2026-09-27T23:45:42+00:00"
   }
  ]
 }
