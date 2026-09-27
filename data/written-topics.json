@@ -1,5 +1,5 @@
 {
- "count": 3314,
+ "count": 3315,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23198,6 +23198,13 @@
    "era": "industrial",
    "file": "eras/industrial/003315-1891-john-dun-british-banking-statistics-1876-inglis.md",
    "at": "2026-09-27T13:46:18+00:00"
+  },
+  {
+   "slug": "palgrave-notes-banking-george-rae-country-banker-1886",
+   "title": "Palgrave, Notes on Banking; George Rae, The Country Banker (1886), and",
+   "era": "industrial",
+   "file": "eras/industrial/003316-palgrave-notes-banking-george-rae-country-banker-1886.md",
+   "at": "2026-09-27T13:56:19+00:00"
   }
  ]
 }
