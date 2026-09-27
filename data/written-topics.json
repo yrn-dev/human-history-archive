@@ -1,5 +1,5 @@
 {
- "count": 3257,
+ "count": 3258,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -22799,6 +22799,13 @@
    "era": "industrial",
    "file": "eras/industrial/003258-l12-000-000-000-no-one-asks-what-stock-gold-held-bank.md",
    "at": "2026-09-27T03:26:45+00:00"
+  },
+  {
+   "slug": "january-1906",
+   "title": "January 1906.)",
+   "era": "modern",
+   "file": "eras/modern/003259-january-1906.md",
+   "at": "2026-09-27T03:36:39+00:00"
   }
  ]
 }
