@@ -1,5 +1,5 @@
 {
- "count": 3370,
+ "count": 3371,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23590,6 +23590,13 @@
    "era": "industrial",
    "file": "eras/industrial/003371-london-city-midland-bank-gordon-sec-17-revenue-act.md",
    "at": "2026-09-27T23:45:42+00:00"
+  },
+  {
+   "slug": "bevan-national-bank-23-times-65-he-must-not-take-cheque",
+   "title": "Bevan v. National Bank, 23 Times L.R. 65); he must not take a cheque",
+   "era": "modern",
+   "file": "eras/modern/003372-bevan-national-bank-23-times-65-he-must-not-take-cheque.md",
+   "at": "2026-09-27T23:55:43+00:00"
   }
  ]
 }
