@@ -1,5 +1,5 @@
 {
- "count": 3503,
+ "count": 3504,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24521,6 +24521,13 @@
    "era": "modern",
    "file": "eras/modern/003504-university-press-jacottet-paris-1902-his-grammaire-subiya.md",
    "at": "2026-09-28T23:24:29+00:00"
+  },
+  {
+   "slug": "robertson-author-complete-study-bemba-language-mrs",
+   "title": "Robertson is the author of a complete study of the Bemba language. Mrs",
+   "era": "cultures",
+   "file": "eras/cultures/003505-robertson-author-complete-study-bemba-language-mrs.md",
+   "at": "2026-09-28T23:34:24+00:00"
   }
  ]
 }
