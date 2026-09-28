@@ -1,5 +1,5 @@
 {
- "count": 3495,
+ "count": 3496,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24465,6 +24465,13 @@
    "era": "cultures",
    "file": "eras/cultures/003496-languages-rev-john-whitehead-grammar-dictionary.md",
    "at": "2026-09-28T21:54:39+00:00"
+  },
+  {
+   "slug": "journal-royal-anthropological-institute-there-treatise",
+   "title": "Journal of the Royal Anthropological Institute. There is a treatise on",
+   "era": "modern",
+   "file": "eras/modern/003497-journal-royal-anthropological-institute-there-treatise.md",
+   "at": "2026-09-28T22:04:24+00:00"
   }
  ]
 }
