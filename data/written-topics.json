@@ -1,5 +1,5 @@
 {
- "count": 3387,
+ "count": 3388,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23709,6 +23709,13 @@
    "era": "modern",
    "file": "eras/modern/003388-excluding-lesser-windings-river-90-total.md",
    "at": "2026-09-28T02:55:40+00:00"
+  },
+  {
+   "slug": "ancient-scottish-poems-1770-entire-text-issued",
+   "title": "Ancient Scottish Poems (1770). The entire text was issued by the",
+   "era": "renaissance",
+   "file": "eras/renaissance/003389-ancient-scottish-poems-1770-entire-text-issued.md",
+   "at": "2026-09-28T03:05:25+00:00"
   }
  ]
 }
