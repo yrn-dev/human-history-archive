@@ -1,5 +1,5 @@
 {
- "count": 3379,
+ "count": 3380,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23653,6 +23653,13 @@
    "era": "industrial",
    "file": "eras/industrial/003380-authorities---the-institute-bankers-london-questions-banking.md",
    "at": "2026-09-28T01:15:40+00:00"
+  },
+  {
+   "slug": "practice-6th-ed-1909-douglas-walker-treatise-banking-law",
+   "title": "Practice (6th ed., 1909); J. Douglas Walker, A Treatise on Banking Law",
+   "era": "industrial",
+   "file": "eras/industrial/003381-practice-6th-ed-1909-douglas-walker-treatise-banking-law.md",
+   "at": "2026-09-28T01:25:31+00:00"
   }
  ]
 }
