@@ -1,5 +1,5 @@
 {
- "count": 3378,
+ "count": 3379,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23646,6 +23646,13 @@
    "era": "industrial",
    "file": "eras/industrial/003379-lloyd-bank-cooke-1907-794-bank-vindicated.md",
    "at": "2026-09-28T01:05:29+00:00"
+  },
+  {
+   "slug": "authorities---the-institute-bankers-london-questions-banking",
+   "title": "AUTHORITIES.--The Institute of Bankers (London), Questions on Banking",
+   "era": "industrial",
+   "file": "eras/industrial/003380-authorities---the-institute-bankers-london-questions-banking.md",
+   "at": "2026-09-28T01:15:40+00:00"
   }
  ]
 }
