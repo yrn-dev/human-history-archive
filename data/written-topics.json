@@ -1,5 +1,5 @@
 {
- "count": 3472,
+ "count": 3473,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24304,6 +24304,13 @@
    "era": "cultures",
    "file": "eras/cultures/003473-tree-here-falls-thou-seest.md",
    "at": "2026-09-28T17:54:44+00:00"
+  },
+  {
+   "slug": "tree-falls-dost-thou-see",
+   "title": "(The tree falls; dost thou see it?)",
+   "era": "ancient",
+   "file": "eras/ancient/003474-tree-falls-dost-thou-see.md",
+   "at": "2026-09-28T18:14:45+00:00"
   }
  ]
 }
