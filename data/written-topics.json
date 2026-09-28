@@ -1,5 +1,5 @@
 {
- "count": 3456,
+ "count": 3457,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24192,6 +24192,13 @@
    "era": "cultures",
    "file": "eras/cultures/003457-se-rolon-se-mangwato-eastern-kalahri-se-kololo-court.md",
    "at": "2026-09-28T15:14:45+00:00"
+  },
+  {
+   "slug": "43-ronga-tonga-languages-portuguese-south-east-africa",
+   "title": "(43) The Ronga (Tonga) languages of Portuguese South-East Africa",
+   "era": "cultures",
+   "file": "eras/cultures/003458-43-ronga-tonga-languages-portuguese-south-east-africa.md",
+   "at": "2026-09-28T15:24:47+00:00"
   }
  ]
 }
