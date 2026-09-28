@@ -1,5 +1,5 @@
 {
- "count": 3493,
+ "count": 3494,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24451,6 +24451,13 @@
    "era": "industrial",
    "file": "eras/industrial/003494-london-1882-contains-mass-not-well-sorted-but-invaluable.md",
    "at": "2026-09-28T21:34:25+00:00"
+  },
+  {
+   "slug": "introductory-handbook-yao-language-rev-alexander",
+   "title": "Introductory Handbook of the Yao Language, by the Rev. Alexander",
+   "era": "cultures",
+   "file": "eras/cultures/003495-introductory-handbook-yao-language-rev-alexander.md",
+   "at": "2026-09-28T21:44:29+00:00"
   }
  ]
 }
