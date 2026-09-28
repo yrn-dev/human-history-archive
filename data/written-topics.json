@@ -1,5 +1,5 @@
 {
- "count": 3384,
+ "count": 3385,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23688,6 +23688,13 @@
    "era": "modern",
    "file": "eras/modern/003385-bankura-generally-healthy-cold-season-being-bracing-air.md",
    "at": "2026-09-28T02:25:25+00:00"
+  },
+  {
+   "slug": "1874-1875-1896-1897-temperature-hot-season-very",
+   "title": "1874-1875 and 1896-1897. The temperature in the hot season is very",
+   "era": "industrial",
+   "file": "eras/industrial/003386-1874-1875-1896-1897-temperature-hot-season-very.md",
+   "at": "2026-09-28T02:35:24+00:00"
   }
  ]
 }
