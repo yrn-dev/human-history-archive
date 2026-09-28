@@ -1,5 +1,5 @@
 {
- "count": 3388,
+ "count": 3389,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23716,6 +23716,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003389-ancient-scottish-poems-1770-entire-text-issued.md",
    "at": "2026-09-28T03:05:25+00:00"
+  },
+  {
+   "slug": "banneret-fr-banneret-banniere-banner-elliptical",
+   "title": "BANNERET (Fr. banneret, from banniere, banner, elliptical for",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003390-banneret-fr-banneret-banniere-banner-elliptical.md",
+   "at": "2026-09-28T03:15:33+00:00"
   }
  ]
 }
