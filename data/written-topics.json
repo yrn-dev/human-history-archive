@@ -1,5 +1,5 @@
 {
- "count": 3390,
+ "count": 3391,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -23730,6 +23730,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003391-but-creation-almost-self-same-old-french.md",
    "at": "2026-09-28T03:25:20+00:00"
+  },
+  {
+   "slug": "glossarium-niort-1883-bannereti",
+   "title": "Glossarium (Niort, 1883), s.v. \"Bannereti.\"",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003392-glossarium-niort-1883-bannereti.md",
+   "at": "2026-09-28T03:35:30+00:00"
   }
  ]
 }
