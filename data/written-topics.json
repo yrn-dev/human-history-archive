@@ -1,5 +1,5 @@
 {
- "count": 3460,
+ "count": 3461,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24220,6 +24220,13 @@
    "era": "modern",
    "file": "eras/modern/003461-cape-colony-vocabulary-some-degree-phonetics-zulu.md",
    "at": "2026-09-28T15:54:48+00:00"
+  },
+  {
+   "slug": "foregoing-only-attempt-classify-known-forms-bantu",
+   "title": "The foregoing is only an attempt to classify the known forms of Bantu",
+   "era": "cultures",
+   "file": "eras/cultures/003462-foregoing-only-attempt-classify-known-forms-bantu.md",
+   "at": "2026-09-28T16:04:55+00:00"
   }
  ]
 }
