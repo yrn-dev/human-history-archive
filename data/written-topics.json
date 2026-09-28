@@ -1,5 +1,5 @@
 {
- "count": 3467,
+ "count": 3468,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24269,6 +24269,13 @@
    "era": "cultures",
    "file": "eras/cultures/003468-no-no-corresponds-plural-no-number-prefixes.md",
    "at": "2026-09-28T17:04:52+00:00"
+  },
+  {
+   "slug": "tanganyika-prefix-cannot-traced-derivation-any-others",
+   "title": "Tanganyika. This prefix cannot be traced to derivation from any others",
+   "era": "cultures",
+   "file": "eras/cultures/003469-tanganyika-prefix-cannot-traced-derivation-any-others.md",
+   "at": "2026-09-28T17:14:48+00:00"
   }
  ]
 }
