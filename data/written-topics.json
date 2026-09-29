@@ -1,5 +1,5 @@
 {
- "count": 3570,
+ "count": 3571,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24990,6 +24990,13 @@
    "era": "industrial",
    "file": "eras/industrial/003571-(w.-r.-l.).md",
    "at": "2026-09-29T11:06:10+00:00"
+  },
+  {
+   "slug": "anabaptists",
+   "title": "I. THE ANABAPTISTS",
+   "era": "renaissance",
+   "file": "eras/renaissance/003572-anabaptists.md",
+   "at": "2026-09-29T11:16:05+00:00"
   }
  ]
 }
