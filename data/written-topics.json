@@ -1,5 +1,5 @@
 {
- "count": 3600,
+ "count": 3601,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25200,6 +25200,13 @@
    "era": "modern",
    "file": "eras/modern/003601-there-however-no-national-union-indeed-strict-baptists.md",
    "at": "2026-09-29T16:05:55+00:00"
+  },
+  {
+   "slug": "general-characteristic-strict-baptists-their-rigorous",
+   "title": "The general characteristic of the Strict Baptists is their rigorous",
+   "era": "cultures",
+   "file": "eras/cultures/003602-general-characteristic-strict-baptists-their-rigorous.md",
+   "at": "2026-09-29T16:15:43+00:00"
   }
  ]
 }
