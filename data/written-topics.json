@@ -1,5 +1,5 @@
 {
- "count": 3605,
+ "count": 3606,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25235,6 +25235,13 @@
    "era": "modern",
    "file": "eras/modern/003606-beginning-20th-century-baptist-union-collected.md",
    "at": "2026-09-29T16:55:55+00:00"
+  },
+  {
+   "slug": "1800-1884-formed-first-church-hamburg-1834-thereafter",
+   "title": "(1800-1884) formed the first church in Hamburg in 1834, and thereafter",
+   "era": "industrial",
+   "file": "eras/industrial/003607-1800-1884-formed-first-church-hamburg-1834-thereafter.md",
+   "at": "2026-09-29T17:15:39+00:00"
   }
  ]
 }
