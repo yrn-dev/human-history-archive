@@ -1,5 +1,5 @@
 {
- "count": 3602,
+ "count": 3603,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25214,6 +25214,13 @@
    "era": "industrial",
    "file": "eras/industrial/003603-pastors-college-connexion-metropolitan-tabernacle.md",
    "at": "2026-09-29T16:25:42+00:00"
+  },
+  {
+   "slug": "besides-these-which-voluntary-colleges-not-denominational",
+   "title": "Besides these, which were voluntary colleges not under denominational",
+   "era": "modern",
+   "file": "eras/modern/003604-besides-these-which-voluntary-colleges-not-denominational.md",
+   "at": "2026-09-29T16:35:50+00:00"
   }
  ]
 }
