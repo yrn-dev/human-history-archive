@@ -1,5 +1,5 @@
 {
- "count": 3624,
+ "count": 3625,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25368,6 +25368,13 @@
    "era": "modern",
    "file": "eras/modern/003625-norway-39-849.md",
    "at": "2026-09-29T20:45:25+00:00"
+  },
+  {
+   "slug": "rumania-bulgaria-374",
+   "title": "Rumania and Bulgaria                  5          374",
+   "era": "modern",
+   "file": "eras/modern/003626-rumania-bulgaria-374.md",
+   "at": "2026-09-29T20:55:33+00:00"
   }
  ]
 }
