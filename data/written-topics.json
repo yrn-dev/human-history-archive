@@ -1,5 +1,5 @@
 {
- "count": 3566,
+ "count": 3567,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24962,6 +24962,13 @@
    "era": "ancient",
    "file": "eras/ancient/003567-etudes-historiques-paris-1904-augusti-denkwuerdigkeiten.md",
    "at": "2026-09-29T10:16:03+00:00"
+  },
+  {
+   "slug": "baptiste-aine-baptiste-pere-baptiste-cadet-madame-baptiste",
+   "title": "Baptiste, aine, Baptiste pere, Baptiste cadet, Madame Baptiste",
+   "era": "modern",
+   "file": "eras/modern/003568-baptiste-aine-baptiste-pere-baptiste-cadet-madame-baptiste.md",
+   "at": "2026-09-29T10:36:01+00:00"
   }
  ]
 }
