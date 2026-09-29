@@ -1,0 +1,27 @@
+# United States of America: Baptist History and Development
+
+## The First Baptist Church in America
+The first Baptist Church in America was established in the Providence settlement on Narragansett Bay. It was founded under the leadership of Roger Williams, who had been sentenced to banishment by the Massachusetts Court in October 1635 due to his advocacy of separatistic views, which were considered dangerous and unsettling. To avoid deportation to England, Williams entered the wilderness in January 1636, where natives provided him with land for a settlement. Joined by friends from Massachusetts, Williams created a commonwealth characterized by civil democracy and absolute religious liberty.
+
+Williams believed that the baptism of infants was a perversion of a Christian ordinance and valueless, maintaining that churches of Christ should consist exclusively of regenerate members. In approximately March 1639, Williams and eleven others decided to form a church of baptized believers and restore believers' baptism. Ezekiel Holliman, who shared Williams' separatist views, first baptized Williams, who then baptized the remaining members of the company. Although Williams eventually withdrew from the church to become a "seeker"—believing that the apostolic church organization and ordinances had been lost in a general apostasy and could not be restored without a special divine commission—he remained on friendly terms with the Providence Baptists. He maintained in his writings that their practices were closer to the first practice of Christ than those of other communities.
+
+## Religious Shifts and the Great Awakening
+In the decades preceding the "Great Awakening" (1740–1743), American religious life experienced a period of declension. During this time, a Socinianized Arminianism hindered evangelistic efforts. Several early churches were affected: the First Church in Providence became Arminian and distant from the evangelism of Whitefield and Edwards; the First Church in Boston became Socinianized; the First Church in Charleston was wrecked by Socinianism; and the First Church in Newport was divided by Arminianism and disputes over the laying on of hands.
+
+While the General (Six Principles) Baptists of Connecticut and Rhode Island had increased their membership and started annual associational meetings before the 18th century, they did not cooperate heartily with the Great Awakening because it was conducted on Calvinistic principles. Similarly, the Philadelphia Association showed little interest in the movement. However, the Baptists ultimately benefited significantly from the Great Awakening. Many "Separate" or "New Light" churches were formed by those who opposed the standing order's refusal to require personal regeneration for membership. These "Separates" eventually concluded that infant baptism was a cornerstone of state-churchism and lacked Scriptural warrant, leading several entire "Separate" churches to transform into Baptist churches.
+
+## Missionary Expansion and National Organization
+By the beginning of the 19th century, Baptist communities in Philadelphia, Charleston, Boston, and other areas supported the work of English missionary William Carey in India. A pivotal moment occurred in 1812 with the conversion of Luther Rice and Adoniram Judson to Baptist views. Judson, who had been sent to India by the American Board of Commissioners for Foreign Missions, appealed for support in missionary work among the heathen, while Rice returned to the United States to organize missionary societies.
+
+In January 1813, "The Baptist Society for the Propagation of the Gospel in India and other Foreign Parts" was formed in Boston, followed by similar societies in the Southern, Middle, and Eastern states. To create a national organization, thirty-three delegates from eleven states met in Philadelphia in May 1814 to organize the "General Missionary Convention of the Baptist Denomination in the United States of America for Foreign Missions." Because it met every three years, it became known as the "Triennial Convention." Its Board of Commissioners was based in Philadelphia until 1826, when it moved to Boston.
+
+## Education and Home Missions
+The need for educated ministers for mission and home work led to the 1821 establishment of the theological department of Columbian College in Washington (now George Washington University), which was intended as a national Baptist institution. Additionally, the Triennial Convention began extensive home mission work in 1817 due to destitution on the frontiers. This effort resulted in the 1832 constitution of the American Baptist Home Mission Society.
+
+## Baptist Statistics and Demographics
+By 1909, Baptist totals reached approximately 72,988 churches and 7,480,940 members. These figures included the "Disciples of Christ" in the U.S.A. Within the United States, the Southern Baptist Convention recorded 20,431 churches and 1,832,638 members, while the National Baptist Convention recorded 16,996 churches and 2,110,269 members. The "Disciples of Christ" accounted for 11,157 churches and 1,235,798 members. Other Baptist presence included 8,894 churches and 986,821 members across thirty-five Northern States, and 7,921 churches and 414,775 members across fourteen other bodies.
+
+## Sources
+Compiled from: britannica11 vol02c banks to bassoon
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
