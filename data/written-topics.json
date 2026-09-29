@@ -1,5 +1,5 @@
 {
- "count": 3627,
+ "count": 3628,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25389,6 +25389,13 @@
    "era": "ancient",
    "file": "eras/ancient/003628-spain-245.md",
    "at": "2026-09-29T21:25:22+00:00"
+  },
+  {
+   "slug": "west-indies-318-42-310",
+   "title": "West Indies                         318       42,310",
+   "era": "modern",
+   "file": "eras/modern/003629-west-indies-318-42-310.md",
+   "at": "2026-09-29T21:55:28+00:00"
   }
  ]
 }
