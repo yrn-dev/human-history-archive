@@ -1,5 +1,5 @@
 {
- "count": 3580,
+ "count": 3581,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25060,6 +25060,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003581-knipperdolling-ca-1495-1536-became-burgomaster-town-now.md",
    "at": "2026-09-29T12:46:00+00:00"
+  },
+  {
+   "slug": "world-not-worthy",
+   "title": "\"the world was not worthy.\"",
+   "era": "ancient",
+   "file": "eras/ancient/003582-world-not-worthy.md",
+   "at": "2026-09-29T12:57:02+00:00"
   }
  ]
 }
