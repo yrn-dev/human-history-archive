@@ -1,5 +1,5 @@
 {
- "count": 3614,
+ "count": 3615,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25298,6 +25298,13 @@
    "era": "modern",
    "file": "eras/modern/003615-canada-985-103-062.md",
    "at": "2026-09-29T18:55:34+00:00"
+  },
+  {
+   "slug": "africa-52-865",
+   "title": "S. Africa                            52        4,865",
+   "era": "ancient",
+   "file": "eras/ancient/003616-africa-52-865.md",
+   "at": "2026-09-29T19:05:34+00:00"
   }
  ]
 }
