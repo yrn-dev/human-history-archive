@@ -1,5 +1,5 @@
 {
- "count": 3565,
+ "count": 3566,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24955,6 +24955,13 @@
    "era": "ancient",
    "file": "eras/ancient/003566-bingham-antiquities-london-1834-wall-infant-baptism.md",
    "at": "2026-09-29T10:06:05+00:00"
+  },
+  {
+   "slug": "etudes-historiques-paris-1904-augusti-denkwuerdigkeiten",
+   "title": "Etudes historiques (Paris, 1904); J. C. W. Augusti, Denkwuerdigkeiten",
+   "era": "ancient",
+   "file": "eras/ancient/003567-etudes-historiques-paris-1904-augusti-denkwuerdigkeiten.md",
+   "at": "2026-09-29T10:16:03+00:00"
   }
  ]
 }
