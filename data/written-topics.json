@@ -1,5 +1,5 @@
 {
- "count": 3561,
+ "count": 3562,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24927,6 +24927,13 @@
    "era": "ancient",
    "file": "eras/ancient/003562-been-remarked-developed-ceremony-baptism.md",
    "at": "2026-09-29T09:26:22+00:00"
+  },
+  {
+   "slug": "paris-papyrus-edited-albr-dieterich-leipzig-1903",
+   "title": "In a Paris papyrus edited by Albr. Dieterich (Leipzig, 1903) under the",
+   "era": "ancient",
+   "file": "eras/ancient/003563-paris-papyrus-edited-albr-dieterich-leipzig-1903.md",
+   "at": "2026-09-29T09:36:04+00:00"
   }
  ]
 }
