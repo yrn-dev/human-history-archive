@@ -1,5 +1,5 @@
 {
- "count": 3632,
+ "count": 3633,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25424,6 +25424,13 @@
    "era": "modern",
    "file": "eras/modern/003633-congo-21-673.md",
    "at": "2026-09-29T23:05:30+00:00"
+  },
+  {
+   "slug": "tumbuelt-die-wiedertaeufer-bielefeld-1899-baptist-handbook",
+   "title": "G. Tumbuelt, Die Wiedertaeufer (Bielefeld, 1899); The Baptist Handbook",
+   "era": "renaissance",
+   "file": "eras/renaissance/003634-tumbuelt-die-wiedertaeufer-bielefeld-1899-baptist-handbook.md",
+   "at": "2026-09-29T23:15:21+00:00"
   }
  ]
 }
