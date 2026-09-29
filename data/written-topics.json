@@ -1,5 +1,5 @@
 {
- "count": 3564,
+ "count": 3565,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -24948,6 +24948,13 @@
    "era": "ancient",
    "file": "eras/ancient/003565-orphic-eleusinian--through-which-repentant-pagans-secured-pardon.md",
    "at": "2026-09-29T09:56:14+00:00"
+  },
+  {
+   "slug": "bingham-antiquities-london-1834-wall-infant-baptism",
+   "title": "Bingham's Antiquities (London, 1834), and W. Wall, On Infant Baptism",
+   "era": "ancient",
+   "file": "eras/ancient/003566-bingham-antiquities-london-1834-wall-infant-baptism.md",
+   "at": "2026-09-29T10:06:05+00:00"
   }
  ]
 }
