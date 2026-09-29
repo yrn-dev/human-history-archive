@@ -1,5 +1,5 @@
 {
- "count": 3587,
+ "count": 3588,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25109,6 +25109,13 @@
    "era": "modern",
    "file": "eras/modern/003588-ii-modern-baptists.md",
    "at": "2026-09-29T13:56:04+00:00"
+  },
+  {
+   "slug": "1611-published-declaration-faith-english-people-remaining",
+   "title": "1611 published \"a declaration of faith of English people remaining at",
+   "era": "renaissance",
+   "file": "eras/renaissance/003589-1611-published-declaration-faith-english-people-remaining.md",
+   "at": "2026-09-29T14:05:55+00:00"
   }
  ]
 }
