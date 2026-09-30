@@ -1,5 +1,5 @@
 {
- "count": 3680,
+ "count": 3681,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25760,6 +25760,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003681-dialogos-de-la-monteria-first-printed-1890-dialogos-also.md",
    "at": "2026-09-30T07:32:52+00:00"
+  },
+  {
+   "slug": "barante-histoire-des-ducs-de-bourgogne-de-la-maison-de-valois-which",
+   "title": "Barante's Histoire des ducs de Bourgogne de la maison de Valois, which",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003682-barante-histoire-des-ducs-de-bourgogne-de-la-maison-de-valois-which.md",
+   "at": "2026-09-30T07:43:00+00:00"
   }
  ]
 }
