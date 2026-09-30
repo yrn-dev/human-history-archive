@@ -1,5 +1,5 @@
 {
- "count": 3699,
+ "count": 3700,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25893,6 +25893,13 @@
    "era": "industrial",
    "file": "eras/industrial/003700-contributions-palaeontology-physical-geology-west.md",
    "at": "2026-09-30T13:02:54+00:00"
+  },
+  {
+   "slug": "barbara-saint-virgin-martyr-saint-roman-catholic",
+   "title": "BARBARA, SAINT, a virgin martyr and saint of the Roman Catholic and",
+   "era": "ancient",
+   "file": "eras/ancient/003701-barbara-saint-virgin-martyr-saint-roman-catholic.md",
+   "at": "2026-09-30T13:12:37+00:00"
   }
  ]
 }
