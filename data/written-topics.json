@@ -1,5 +1,5 @@
 {
- "count": 3698,
+ "count": 3699,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25886,6 +25886,13 @@
    "era": "industrial",
    "file": "eras/industrial/003699-barbados-1848-moxby-account-west-indian-sanatorium.md",
    "at": "2026-09-30T12:57:49+00:00"
+  },
+  {
+   "slug": "contributions-palaeontology-physical-geology-west",
+   "title": "\"Contributions to the Palaeontology and Physical Geology of the West",
+   "era": "industrial",
+   "file": "eras/industrial/003700-contributions-palaeontology-physical-geology-west.md",
+   "at": "2026-09-30T13:02:54+00:00"
   }
  ]
 }
