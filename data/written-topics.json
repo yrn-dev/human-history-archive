@@ -1,5 +1,5 @@
 {
- "count": 3736,
+ "count": 3737,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26152,6 +26152,13 @@
    "era": "industrial",
    "file": "eras/industrial/003737-bessemer-siemens-martin-steel-drawn-wire-mill.md",
    "at": "2026-09-30T19:22:24+00:00"
+  },
+  {
+   "slug": "barbed-wire-also-employed-connexion-obstacles-field",
+   "title": "Barbed wire is also employed in connexion with \"obstacles\" in field",
+   "era": "industrial",
+   "file": "eras/industrial/003738-barbed-wire-also-employed-connexion-obstacles-field.md",
+   "at": "2026-09-30T19:32:28+00:00"
   }
  ]
 }
