@@ -1,5 +1,5 @@
 {
- "count": 3734,
+ "count": 3735,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26138,6 +26138,13 @@
    "era": "industrial",
    "file": "eras/industrial/003735-interesting-note-largely-increased-demand-meshed-wire.md",
    "at": "2026-09-30T19:02:27+00:00"
+  },
+  {
+   "slug": "approximate-production-united-states",
+   "title": "APPROXIMATE PRODUCTION FOR THE UNITED STATES",
+   "era": "industrial",
+   "file": "eras/industrial/003736-approximate-production-united-states.md",
+   "at": "2026-09-30T19:12:29+00:00"
   }
  ]
 }
