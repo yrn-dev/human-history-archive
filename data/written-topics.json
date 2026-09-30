@@ -1,5 +1,5 @@
 {
- "count": 3700,
+ "count": 3701,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25900,6 +25900,13 @@
    "era": "ancient",
    "file": "eras/ancient/003701-barbara-saint-virgin-martyr-saint-roman-catholic.md",
    "at": "2026-09-30T13:12:37+00:00"
+  },
+  {
+   "slug": "barbarus-remained-rome-receipt-small-pension",
+   "title": "Barbarus remained at Rome, in receipt of a small pension from the",
+   "era": "renaissance",
+   "file": "eras/renaissance/003702-barbarus-remained-rome-receipt-small-pension.md",
+   "at": "2026-09-30T13:22:40+00:00"
   }
  ]
 }
