@@ -1,0 +1,28 @@
+# The Slavery Question in 19th Century America
+
+The question of slavery was a problem of lasting political importance in the United States, evolving from a matter of legal status and economic interest into a profound moral and sectional conflict. This struggle influenced the formation of political parties, the structure of religious organizations, and the legal frameworks of individual states.
+
+## Political Shifts and the Democratic Party
+The Democratic party was characterized by a devotion to liberty, abstract principles of democracy, and a strict construction of the constitution intended to prevent the aggrandizement of national power at the expense of citizens or states. However, following the National Republican scission and the loss of Jackson's leadership, the party fell under the control of Southern adherents and became virtually sectional. Consequently, the party's states' rights doctrine was utilized to defend slavery, opposing anti-slavery sentiment in a manner inconsistent with its original principles regarding the "rights of man."
+
+In the mid-19th century, political figures navigated these tensions through various strategies. General Cass maintained a conservative attitude on slavery and promoted the idea of popular sovereignty, though it is unclear if he believed this would result in the extension of slavery. Conversely, President Buchanan, under the influence of Jacob Thompson of Mississippi and Howell Cobb of Georgia, attempted to force the admission of Kansas into the Union under the pro-slavery Lecompton Constitution. Buchanan believed this was the only way to avoid civil war, using federal patronage to advance the measure.
+
+## Regional and State Conflicts
+In Illinois, the slavery question was particularly volatile. While the Ordinance of 1787 forbade slavery in the North-West Territory, Governor Arthur St Clair interpreted this as a prohibition on introducing new slaves rather than an interference with existing conditions. This led to the recognition of indentured servitude in the Indiana Code of 1803 and the Illinois constitution of 1818. In 1823, a legislative resolution to amend the constitution to legalize slavery was rejected, led by Governor Edward Coles, a Virginia slave-holder who had freed his own slaves. 
+
+While early opposition to slavery in Illinois was economic rather than philanthropic, the agitation of Elijah P. Lovejoy helped grow abolitionist sentiment. This shifted the issue into the political sphere by 1842 with the organization of the Liberty Party, which later united with the Free Soil Party in 1848. By 1854, a coalition of the Liberty and Free Soil parties, Whigs, and Democrats opposed to the Kansas-Nebraska Bill secured a legislative majority.
+
+In Virginia, the conflict was marked by a contradiction: statesmen like Jefferson and Washington condemned the institution, yet Washington owned slaves because no other form of domestic service existed. Some Virginians favored emancipation but demanded that freed slaves leave the state within a year to avoid the creation of a "free barbaric black community." This led many to support retaining blacks as slaves while simultaneously opposing the importation of new slaves from Africa.
+
+## Religious and Social Activism
+The slavery question caused significant fractures within religious bodies. Before 1844, the Triennial Convention experienced unpleasant sessions due to harsh anti-slavery statements by Northern members and acrimonious responses from Southerners. A specific controversy between Richard Fuller (1804-1876) and Francis Wayland on the slavery question convinced Southern members that separate organization for missionary work was necessary. This resulted in the 1845 formation of the Southern Baptist Convention, including its Sunday-school Board and Home and Foreign Missionary Boards.
+
+Social activism also grew through the efforts of individuals like the Grimke sisters. Sarah and Angelina Grimke, who became Quakers, advocated for immediate abolition. Angelina wrote an *Appeal to the Christian Women of the South* in 1836, and Sarah wrote an *Epistle to the Clergy of the Southern States* later that year. In 1837, at the invitation of Elizur Wright of the American Anti-Slavery Society, the sisters began giving public talks on slavery. Their activism also intersected with the "woman's rights" movement, as Sarah published *Letters on the Condition of Women and the Equality of the Sexes* in 1838. Additionally, Theodore Dwight Weld, who married Angelina in 1838, published influential works such as *The Bible against Slavery* (1837) and *American Slavery as It Is* (1839).
+
+## The Path to Secession
+The conflict culminated in the struggle between Abraham Lincoln and Senator Douglas of Illinois. Douglas was a leader for the extension of slavery in the national Congress, and Lincoln fought against him through pamphlets and speeches. Their rivalry peaked during the presidential campaign of 1860. By the time Lincoln was inaugurated on March 4, 1861, the Southern states had already entered active secession from the federal government in Washington and were committing acts of war.
+
+## Sources
+Compiled from: britannica11 vol02c banks to bassoon, britannica11 vol07b demijohn to destructors, britannica11 vol10a greek law to ground squirrel, britannica11 vol14a ichthyology to independence, wells outline of history, britannica11 vol08a dagupan to david, britannica11 vol05b carnegie to casus belli, wells short history of the world, britannica11 vol03a brequigny to bulgaria
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
