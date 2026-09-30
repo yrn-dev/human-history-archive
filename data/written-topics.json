@@ -1,5 +1,5 @@
 {
- "count": 3696,
+ "count": 3697,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25872,6 +25872,13 @@
    "era": "industrial",
    "file": "eras/industrial/003697-america-1741-short-history-barbados-1768-remarks-upon.md",
    "at": "2026-09-30T10:32:54+00:00"
+  },
+  {
+   "slug": "southey-chron-hist-indies-1827-schomburgk-history",
+   "title": "Southey, Chron. Hist. of W. Indies (1827); Schomburgk, History of",
+   "era": "modern",
+   "file": "eras/modern/003698-southey-chron-hist-indies-1827-schomburgk-history.md",
+   "at": "2026-09-30T10:42:47+00:00"
   }
  ]
 }
