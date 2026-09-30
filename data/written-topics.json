@@ -1,5 +1,5 @@
 {
- "count": 3681,
+ "count": 3682,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25767,6 +25767,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003682-barante-histoire-des-ducs-de-bourgogne-de-la-maison-de-valois-which.md",
    "at": "2026-09-30T07:43:00+00:00"
+  },
+  {
+   "slug": "histoire-du-directoire-de-la-republique-francaise-1855-etudes",
+   "title": "Histoire du Directoire de la Republique francaise (1855); Etudes",
+   "era": "modern",
+   "file": "eras/modern/003683-histoire-du-directoire-de-la-republique-francaise-1855-etudes.md",
+   "at": "2026-09-30T07:52:56+00:00"
   }
  ]
 }
