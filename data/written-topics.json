@@ -1,5 +1,5 @@
 {
- "count": 3735,
+ "count": 3736,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26145,6 +26145,13 @@
    "era": "industrial",
    "file": "eras/industrial/003736-approximate-production-united-states.md",
    "at": "2026-09-30T19:12:29+00:00"
+  },
+  {
+   "slug": "bessemer-siemens-martin-steel-drawn-wire-mill",
+   "title": "Bessemer or Siemens-Martin steel, and is drawn in the wire mill in the",
+   "era": "industrial",
+   "file": "eras/industrial/003737-bessemer-siemens-martin-steel-drawn-wire-mill.md",
+   "at": "2026-09-30T19:22:24+00:00"
   }
  ]
 }
