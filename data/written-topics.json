@@ -1,5 +1,5 @@
 {
- "count": 3742,
+ "count": 3743,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26194,6 +26194,13 @@
    "era": "industrial",
    "file": "eras/industrial/003743-12th-february-1837-he-published-various-works-which-may.md",
    "at": "2026-09-30T20:22:20+00:00"
+  },
+  {
+   "slug": "guyane-1822-histoire-de-la-louisiane-et-la-cession-de-cette",
+   "title": "Guyane, &c. (1822), an Histoire de la Louisiane et la cession de cette",
+   "era": "modern",
+   "file": "eras/modern/003744-guyane-1822-histoire-de-la-louisiane-et-la-cession-de-cette.md",
+   "at": "2026-09-30T20:32:18+00:00"
   }
  ]
 }
