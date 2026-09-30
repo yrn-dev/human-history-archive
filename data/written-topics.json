@@ -1,5 +1,5 @@
 {
- "count": 3682,
+ "count": 3683,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25774,6 +25774,13 @@
    "era": "modern",
    "file": "eras/modern/003683-histoire-du-directoire-de-la-republique-francaise-1855-etudes.md",
    "at": "2026-09-30T07:52:56+00:00"
+  },
+  {
+   "slug": "royer-collard-1861-version-hamlet-guizot-shakespeare",
+   "title": "Royer-Collard (1861). The version of Hamlet for Guizot's Shakespeare",
+   "era": "modern",
+   "file": "eras/modern/003684-royer-collard-1861-version-hamlet-guizot-shakespeare.md",
+   "at": "2026-09-30T08:02:54+00:00"
   }
  ]
 }
