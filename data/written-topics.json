@@ -1,5 +1,5 @@
 {
- "count": 3760,
+ "count": 3761,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26320,6 +26320,13 @@
    "era": "industrial",
    "file": "eras/industrial/003761-paris-29th-april-1805-inspired-revolution-july-he.md",
    "at": "2026-09-30T23:42:06+00:00"
+  },
+  {
+   "slug": "quatre-vingt-treize-varsovie-rest-barbier-poems",
+   "title": "Quatre-vingt-treize and Varsovie. The rest of Barbier's poems are",
+   "era": "modern",
+   "file": "eras/modern/003762-quatre-vingt-treize-varsovie-rest-barbier-poems.md",
+   "at": "2026-09-30T23:52:03+00:00"
   }
  ]
 }
