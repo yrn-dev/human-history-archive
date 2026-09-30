@@ -1,5 +1,5 @@
 {
- "count": 3697,
+ "count": 3698,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25879,6 +25879,13 @@
    "era": "modern",
    "file": "eras/modern/003698-southey-chron-hist-indies-1827-schomburgk-history.md",
    "at": "2026-09-30T10:42:47+00:00"
+  },
+  {
+   "slug": "barbados-1848-moxby-account-west-indian-sanatorium",
+   "title": "Barbados (1848); J. H. S. Moxby, Account of a West Indian Sanatorium",
+   "era": "industrial",
+   "file": "eras/industrial/003699-barbados-1848-moxby-account-west-indian-sanatorium.md",
+   "at": "2026-09-30T12:57:49+00:00"
   }
  ]
 }
