@@ -1,5 +1,5 @@
 {
- "count": 3711,
+ "count": 3712,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25977,6 +25977,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003712-authorities---the-history-ottoman-empire-joseph-von.md",
    "at": "2026-09-30T15:03:13+00:00"
+  },
+  {
+   "slug": "barberousse-chronique-arabe-du-xvi-eme-siecle-published-sander",
+   "title": "Barberousse, chronique arabe du XVI^{eme} siecle published by Sander",
+   "era": "renaissance",
+   "file": "eras/renaissance/003713-barberousse-chronique-arabe-du-xvi-eme-siecle-published-sander.md",
+   "at": "2026-09-30T15:12:49+00:00"
   }
  ]
 }
