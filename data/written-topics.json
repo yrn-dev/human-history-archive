@@ -1,5 +1,5 @@
 {
- "count": 3673,
+ "count": 3674,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -25711,6 +25711,13 @@
    "era": "modern",
    "file": "eras/modern/003674-bar-fr-barre-late-lat-barra-origin-unknown-physical.md",
    "at": "2026-09-30T06:12:58+00:00"
+  },
+  {
+   "slug": "when-river-enters-tidal-sea-rate-flow-checked",
+   "title": "When a river enters a tidal sea its rate of flow is checked and the",
+   "era": "cultures",
+   "file": "eras/cultures/003675-when-river-enters-tidal-sea-rate-flow-checked.md",
+   "at": "2026-09-30T06:23:11+00:00"
   }
  ]
 }
