@@ -1,5 +1,5 @@
 {
- "count": 3840,
+ "count": 3841,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26880,6 +26880,13 @@
    "era": "industrial",
    "file": "eras/industrial/003841-safety-13th-january-1841-see-also-french-revolution.md",
    "at": "2026-10-01T15:01:23+00:00"
+  },
+  {
+   "slug": "memoires-de-barere-publies-par-mm-carnot-et-david",
+   "title": "The Memoires de B. Barere ... publies par MM. H. Carnot ... et David",
+   "era": "modern",
+   "file": "eras/modern/003842-memoires-de-barere-publies-par-mm-carnot-et-david.md",
+   "at": "2026-10-01T15:11:25+00:00"
   }
  ]
 }
