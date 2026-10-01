@@ -1,5 +1,5 @@
 {
- "count": 3782,
+ "count": 3783,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26474,6 +26474,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003783-studien-373-panton-donaldson-gest-historiale.md",
    "at": "2026-10-01T03:51:56+00:00"
+  },
+  {
+   "slug": "heilbronn-1881-1882-legend-st-machor-his",
+   "title": "(Heilbronn, 1881-1882), and that of the legend of St Machor in his",
+   "era": "industrial",
+   "file": "eras/industrial/003784-heilbronn-1881-1882-legend-st-machor-his.md",
+   "at": "2026-10-01T04:11:54+00:00"
   }
  ]
 }
