@@ -1,5 +1,5 @@
 {
- "count": 3778,
+ "count": 3779,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26446,6 +26446,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003779-wyntoun-speaks-chronicle-iii-iii-treteis-which-barbour.md",
    "at": "2026-10-01T03:12:02+00:00"
+  },
+  {
+   "slug": "scottish-genealogy",
+   "title": "Scottish \"genealogy.\"",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003780-scottish-genealogy.md",
+   "at": "2026-10-01T03:21:51+00:00"
   }
  ]
 }
