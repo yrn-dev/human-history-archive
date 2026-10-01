@@ -1,5 +1,5 @@
 {
- "count": 3881,
+ "count": 3882,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27167,6 +27167,13 @@
    "era": "industrial",
    "file": "eras/industrial/003882-london-tilbury-southend-great-eastern-railways-pop-urban.md",
    "at": "2026-10-01T22:51:04+00:00"
+  },
+  {
+   "slug": "margaret-norman-perpendicular-additions-contains-many",
+   "title": "Margaret is Norman with perpendicular additions, and contains many",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003883-margaret-norman-perpendicular-additions-contains-many.md",
+   "at": "2026-10-01T23:00:56+00:00"
   }
  ]
 }
