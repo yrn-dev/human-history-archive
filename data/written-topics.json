@@ -1,5 +1,5 @@
 {
- "count": 3783,
+ "count": 3784,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26481,6 +26481,13 @@
    "era": "industrial",
    "file": "eras/industrial/003784-heilbronn-1881-1882-legend-st-machor-his.md",
    "at": "2026-10-01T04:11:54+00:00"
+  },
+  {
+   "slug": "altenglische-legenden-neue-folge-heilbronn-1881-pp-189-208",
+   "title": "Altenglische Legenden. Neue Folge (Heilbronn, 1881) pp. 189-208. A",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003785-altenglische-legenden-neue-folge-heilbronn-1881-pp-189-208.md",
+   "at": "2026-10-01T04:21:50+00:00"
   }
  ]
 }
