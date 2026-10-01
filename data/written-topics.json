@@ -1,5 +1,5 @@
 {
- "count": 3781,
+ "count": 3782,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26467,6 +26467,13 @@
    "era": "modern",
    "file": "eras/modern/003782-pinkerton-vols-1790-called-editor-first-genuine.md",
    "at": "2026-10-01T03:41:53+00:00"
+  },
+  {
+   "slug": "studien-373-panton-donaldson-gest-historiale",
+   "title": "Studien, x. 373; Panton and Donaldson, The Gest Historiale of the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003783-studien-373-panton-donaldson-gest-historiale.md",
+   "at": "2026-10-01T03:51:56+00:00"
   }
  ]
 }
