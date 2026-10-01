@@ -1,5 +1,5 @@
 {
- "count": 3804,
+ "count": 3805,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26628,6 +26628,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003805-he-shall-parson-honington-cist.md",
    "at": "2026-10-01T08:11:45+00:00"
+  },
+  {
+   "slug": "latin-elegiacs-stultifera-navis-1497-jacob-locher-book",
+   "title": "Latin elegiacs of the Stultifera Navis (1497) of Jacob Locher the book",
+   "era": "renaissance",
+   "file": "eras/renaissance/003806-latin-elegiacs-stultifera-navis-1497-jacob-locher-book.md",
+   "at": "2026-10-01T08:21:43+00:00"
   }
  ]
 }
