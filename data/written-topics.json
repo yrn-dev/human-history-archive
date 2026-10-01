@@ -1,5 +1,5 @@
 {
- "count": 3855,
+ "count": 3856,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26985,6 +26985,13 @@
    "era": "industrial",
    "file": "eras/industrial/003856-dictionary-novel-my-cousin-nicholas-1834-he-retained-vigour.md",
    "at": "2026-10-01T17:51:19+00:00"
+  },
+  {
+   "slug": "mainly-historian-bar-hebraeus-interests-modern",
+   "title": "It is mainly as an historian that Bar-Hebraeus interests the modern",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003857-mainly-historian-bar-hebraeus-interests-modern.md",
+   "at": "2026-10-01T18:11:25+00:00"
   }
  ]
 }
