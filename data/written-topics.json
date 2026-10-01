@@ -1,5 +1,5 @@
 {
- "count": 3818,
+ "count": 3819,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26726,6 +26726,13 @@
    "era": "ancient",
    "file": "eras/ancient/003819-cozeba-cf-chron-iv-22-whose-original-name-recalled-later.md",
    "at": "2026-10-01T10:51:31+00:00"
+  },
+  {
+   "slug": "bard-word-celtic-derivation-gaelic-baird-cymric-bardh-irish",
+   "title": "BARD, a word of Celtic derivation (Gaelic baird, Cymric bardh, Irish",
+   "era": "cultures",
+   "file": "eras/cultures/003820-bard-word-celtic-derivation-gaelic-baird-cymric-bardh-irish.md",
+   "at": "2026-10-01T11:01:36+00:00"
   }
  ]
 }
