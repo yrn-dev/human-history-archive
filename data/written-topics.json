@@ -1,5 +1,5 @@
 {
- "count": 3824,
+ "count": 3825,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26768,6 +26768,13 @@
    "era": "modern",
    "file": "eras/modern/003825-paris-1897-le-livre-des-lois-des-pays-paris-1899-clear.md",
    "at": "2026-10-01T11:51:51+00:00"
+  },
+  {
+   "slug": "subject-exhaustively-discussed-hort-article-bardaisan",
+   "title": "The subject is exhaustively discussed in Hort's article \"Bardaisan\" in",
+   "era": "ancient",
+   "file": "eras/ancient/003826-subject-exhaustively-discussed-hort-article-bardaisan.md",
+   "at": "2026-10-01T12:01:39+00:00"
   }
  ]
 }
