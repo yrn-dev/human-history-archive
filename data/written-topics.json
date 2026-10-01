@@ -1,5 +1,5 @@
 {
- "count": 3846,
+ "count": 3847,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26922,6 +26922,13 @@
    "era": "cultures",
    "file": "eras/cultures/003847-enrolments-passed-same-year-which-provided-every.md",
    "at": "2026-10-01T16:11:28+00:00"
+  },
+  {
+   "slug": "verb-light-relieve-load-state-barge",
+   "title": "(from the verb \"to light\" = to relieve of a load). A state barge was a",
+   "era": "industrial",
+   "file": "eras/industrial/003848-verb-light-relieve-load-state-barge.md",
+   "at": "2026-10-01T16:21:21+00:00"
   }
  ]
 }
