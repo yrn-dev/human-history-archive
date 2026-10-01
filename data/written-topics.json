@@ -1,5 +1,5 @@
 {
- "count": 3801,
+ "count": 3802,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26607,6 +26607,13 @@
    "era": "industrial",
    "file": "eras/industrial/003802-feiner-guia-itineraria-de-barcelona-barcelona-1888.md",
    "at": "2026-10-01T07:41:52+00:00"
+  },
+  {
+   "slug": "exilles-fenestrelles-chateau-dauphin-casteldelfino",
+   "title": "Exilles, Fenestrelles, and Chateau Dauphin (Casteldelfino). It was the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003803-exilles-fenestrelles-chateau-dauphin-casteldelfino.md",
+   "at": "2026-10-01T07:51:48+00:00"
   }
  ]
 }
