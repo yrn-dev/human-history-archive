@@ -1,5 +1,5 @@
 {
- "count": 3872,
+ "count": 3873,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27104,6 +27104,13 @@
    "era": "modern",
    "file": "eras/modern/003873-barium-symbol-ba-atomic-weight-137-37-16-one-metallic.md",
    "at": "2026-10-01T21:11:05+00:00"
+  },
+  {
+   "slug": "barium-hydroxide-ba-oh-white-powder-can-obtained",
+   "title": "Barium hydroxide, Ba(OH)2, is a white powder that can be obtained by",
+   "era": "industrial",
+   "file": "eras/industrial/003874-barium-hydroxide-ba-oh-white-powder-can-obtained.md",
+   "at": "2026-10-01T21:21:07+00:00"
   }
  ]
 }
