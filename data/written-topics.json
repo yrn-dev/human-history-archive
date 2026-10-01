@@ -1,5 +1,5 @@
 {
- "count": 3842,
+ "count": 3843,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26894,6 +26894,13 @@
    "era": "modern",
    "file": "eras/modern/003843-boswell-life-1769-he-tried-murder-having.md",
    "at": "2026-10-01T15:31:16+00:00"
+  },
+  {
+   "slug": "grammar-italian-language-dissertation-shakespeare",
+   "title": "Grammar of the Italian Language, and a dissertation on Shakespeare and",
+   "era": "modern",
+   "file": "eras/modern/003844-grammar-italian-language-dissertation-shakespeare.md",
+   "at": "2026-10-01T15:41:19+00:00"
   }
  ]
 }
