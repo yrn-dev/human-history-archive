@@ -1,5 +1,5 @@
 {
- "count": 3877,
+ "count": 3878,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27139,6 +27139,13 @@
    "era": "modern",
    "file": "eras/modern/003878-barium-iodate-ba-io3-obtained-action-excess-iodic.md",
    "at": "2026-10-01T22:01:00+00:00"
+  },
+  {
+   "slug": "barium-nitride-ba3n2-obtained-brownish-mass-03-0403",
+   "title": "Barium nitride, Ba3N2, is obtained as a brownish mass by [v.03 p.0403]",
+   "era": "modern",
+   "file": "eras/modern/003879-barium-nitride-ba3n2-obtained-brownish-mass-03-0403.md",
+   "at": "2026-10-01T22:11:18+00:00"
   }
  ]
 }
