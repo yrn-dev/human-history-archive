@@ -1,5 +1,5 @@
 {
- "count": 3880,
+ "count": 3881,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27160,6 +27160,13 @@
    "era": "industrial",
    "file": "eras/industrial/003881-fenchurch-street-station-liverpool-street-station-london.md",
    "at": "2026-10-01T22:40:56+00:00"
+  },
+  {
+   "slug": "london-tilbury-southend-great-eastern-railways-pop-urban",
+   "title": "London, Tilbury & Southend and Great Eastern railways. Pop. of urban",
+   "era": "industrial",
+   "file": "eras/industrial/003882-london-tilbury-southend-great-eastern-railways-pop-urban.md",
+   "at": "2026-10-01T22:51:04+00:00"
   }
  ]
 }
