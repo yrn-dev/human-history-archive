@@ -1,5 +1,5 @@
 {
- "count": 3871,
+ "count": 3872,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27097,6 +27097,13 @@
    "era": "industrial",
    "file": "eras/industrial/003872-speke-map-nile-sources-1863-baringo-confused.md",
    "at": "2026-10-01T20:51:06+00:00"
+  },
+  {
+   "slug": "barium-symbol-ba-atomic-weight-137-37-16-one-metallic",
+   "title": "BARIUM (symbol Ba, atomic weight 137.37 [O=16]), one of the metallic",
+   "era": "modern",
+   "file": "eras/modern/003873-barium-symbol-ba-atomic-weight-137-37-16-one-metallic.md",
+   "at": "2026-10-01T21:11:05+00:00"
   }
  ]
 }
