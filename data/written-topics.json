@@ -1,5 +1,5 @@
 {
- "count": 3800,
+ "count": 3801,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -26600,6 +26600,13 @@
    "era": "modern",
    "file": "eras/modern/003801-literature-relating-barcelona-extensive-general.md",
    "at": "2026-10-01T07:31:58+00:00"
+  },
+  {
+   "slug": "feiner-guia-itineraria-de-barcelona-barcelona-1888",
+   "title": "Feiner, Guia itineraria de Barcelona (Barcelona, 1888). For the",
+   "era": "industrial",
+   "file": "eras/industrial/003802-feiner-guia-itineraria-de-barcelona-barcelona-1888.md",
+   "at": "2026-10-01T07:41:52+00:00"
   }
  ]
 }
