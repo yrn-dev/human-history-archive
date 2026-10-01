@@ -1,5 +1,5 @@
 {
- "count": 3870,
+ "count": 3871,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27090,6 +27090,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003871-were-wolves-1865-curious-myths-middle-ages-1866-curious.md",
    "at": "2026-10-01T20:41:03+00:00"
+  },
+  {
+   "slug": "speke-map-nile-sources-1863-baringo-confused",
+   "title": "J. H. Speke's map of the Nile sources (1863) Baringo is confused with",
+   "era": "industrial",
+   "file": "eras/industrial/003872-speke-map-nile-sources-1863-baringo-confused.md",
+   "at": "2026-10-01T20:51:06+00:00"
   }
  ]
 }
