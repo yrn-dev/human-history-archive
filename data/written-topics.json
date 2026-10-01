@@ -1,5 +1,5 @@
 {
- "count": 3873,
+ "count": 3874,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27111,6 +27111,13 @@
    "era": "industrial",
    "file": "eras/industrial/003874-barium-hydroxide-ba-oh-white-powder-can-obtained.md",
    "at": "2026-10-01T21:21:07+00:00"
+  },
+  {
+   "slug": "h2o-co2-baco3-h2s-finally-carbonate-decomposed",
+   "title": "H2O + CO2 = BaCO3 + H2S, and finally the carbonate is decomposed by a",
+   "era": "industrial",
+   "file": "eras/industrial/003875-h2o-co2-baco3-h2s-finally-carbonate-decomposed.md",
+   "at": "2026-10-01T21:31:03+00:00"
   }
  ]
 }
