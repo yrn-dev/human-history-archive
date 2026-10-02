@@ -1,5 +1,5 @@
 {
- "count": 3998,
+ "count": 3999,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27986,6 +27986,13 @@
    "era": "industrial",
    "file": "eras/industrial/003999-british-territory-other-native-states-three-these.md",
    "at": "2026-10-02T21:00:05+00:00"
+  },
+  {
+   "slug": "princes-baroda-one-chief-branches-mahratta",
+   "title": "The princes of Baroda were one of the chief branches of the Mahratta",
+   "era": "modern",
+   "file": "eras/modern/004000-princes-baroda-one-chief-branches-mahratta.md",
+   "at": "2026-10-02T21:09:58+00:00"
   }
  ]
 }
