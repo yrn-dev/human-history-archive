@@ -1,5 +1,5 @@
 {
- "count": 3894,
+ "count": 3895,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27258,6 +27258,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003895-barletta-french-1503-town-being-defended-spanish.md",
    "at": "2026-10-02T01:00:56+00:00"
+  },
+  {
+   "slug": "race-formerly-used-malt-beer-but-owing-larger",
+   "title": "This race was formerly used for malt and beer, but owing to its larger",
+   "era": "industrial",
+   "file": "eras/industrial/003896-race-formerly-used-malt-beer-but-owing-larger.md",
+   "at": "2026-10-02T01:11:38+00:00"
   }
  ]
 }
