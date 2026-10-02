@@ -1,5 +1,5 @@
 {
- "count": 3943,
+ "count": 3944,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27601,6 +27601,13 @@
    "era": "industrial",
    "file": "eras/industrial/003944-1851-1854-connecticut-common-school-journal-1846.md",
    "at": "2026-10-02T10:40:33+00:00"
+  },
+  {
+   "slug": "hartford-conn-5th-july-1900-among-american-educational",
+   "title": "Hartford, Conn., on the 5th of July 1900. Among American educational",
+   "era": "industrial",
+   "file": "eras/industrial/003945-hartford-conn-5th-july-1900-among-american-educational.md",
+   "at": "2026-10-02T10:50:24+00:00"
   }
  ]
 }
