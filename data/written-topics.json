@@ -1,5 +1,5 @@
 {
- "count": 3965,
+ "count": 3966,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27755,6 +27755,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003966-wriothesley-chronicle-foxe-acts-monuments-ed-townsend.md",
    "at": "2026-10-02T14:40:21+00:00"
+  },
+  {
+   "slug": "glossary-dorset-dialect-1864-outline-english",
+   "title": "Glossary of the Dorset Dialect (1864); An Outline of English",
+   "era": "industrial",
+   "file": "eras/industrial/003967-glossary-dorset-dialect-1864-outline-english.md",
+   "at": "2026-10-02T14:50:21+00:00"
   }
  ]
 }
