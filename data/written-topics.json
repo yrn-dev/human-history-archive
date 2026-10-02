@@ -1,5 +1,5 @@
 {
- "count": 3989,
+ "count": 3990,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27923,6 +27923,13 @@
    "era": "industrial",
    "file": "eras/industrial/003990-1821-early-site-court-house-public-hall-institute-free.md",
    "at": "2026-10-02T19:20:00+00:00"
+  },
+  {
+   "slug": "william-conqueror-part-honour-pontefract",
+   "title": "William the Conqueror as part of the honour of Pontefract, and the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/003991-william-conqueror-part-honour-pontefract.md",
+   "at": "2026-10-02T19:40:01+00:00"
   }
  ]
 }
