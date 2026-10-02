@@ -1,5 +1,5 @@
 {
- "count": 4004,
+ "count": 4005,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28028,6 +28028,13 @@
    "era": "industrial",
    "file": "eras/industrial/004005-siphon-barometer-fig-consists-tube-bent-form.md",
    "at": "2026-10-02T22:09:53+00:00"
+  },
+  {
+   "slug": "barometer-subject-two-kinds-error-one-arising",
+   "title": "This barometer is subject to two kinds of error, the one arising from",
+   "era": "industrial",
+   "file": "eras/industrial/004006-barometer-subject-two-kinds-error-one-arising.md",
+   "at": "2026-10-02T22:20:02+00:00"
   }
  ]
 }
