@@ -1,5 +1,5 @@
 {
- "count": 3908,
+ "count": 3909,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27356,6 +27356,13 @@
    "era": "industrial",
    "file": "eras/industrial/003909-frederick-iii-theatre-picture-gallery-ethnographical.md",
    "at": "2026-10-02T03:50:49+00:00"
+  },
+  {
+   "slug": "england-purpose-determining-customs-peculiar",
+   "title": "England, for the purpose of determining the customs peculiar to the",
+   "era": "cultures",
+   "file": "eras/cultures/003910-england-purpose-determining-customs-peculiar.md",
+   "at": "2026-10-02T04:00:58+00:00"
   }
  ]
 }
