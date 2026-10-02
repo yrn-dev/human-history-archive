@@ -1,5 +1,5 @@
 {
- "count": 4011,
+ "count": 4012,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28077,6 +28077,13 @@
    "era": "industrial",
    "file": "eras/industrial/004012-sympiezometer-invented-1818-adie-edinburgh.md",
    "at": "2026-10-02T23:19:45+00:00"
+  },
+  {
+   "slug": "fig-represents-internal-construction-seen-when-face",
+   "title": "Fig. 4 represents the internal construction, as seen when the face is",
+   "era": "industrial",
+   "file": "eras/industrial/004013-fig-represents-internal-construction-seen-when-face.md",
+   "at": "2026-10-02T23:29:48+00:00"
   }
  ]
 }
