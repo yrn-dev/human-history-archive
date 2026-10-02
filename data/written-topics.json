@@ -1,5 +1,5 @@
 {
- "count": 4000,
+ "count": 4001,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28000,6 +28000,13 @@
    "era": "industrial",
    "file": "eras/industrial/004001-gaekwar-showed-himself-model-prince-his-territories-03.md",
    "at": "2026-10-02T21:19:56+00:00"
+  },
+  {
+   "slug": "special-measures-also-adopted-education-low-castes",
+   "title": "Special measures are also adopted for the education of low castes and",
+   "era": "modern",
+   "file": "eras/modern/004002-special-measures-also-adopted-education-low-castes.md",
+   "at": "2026-10-02T21:29:53+00:00"
   }
  ]
 }
