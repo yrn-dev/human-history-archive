@@ -1,5 +1,5 @@
 {
- "count": 3919,
+ "count": 3920,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27433,6 +27433,13 @@
    "era": "ancient",
    "file": "eras/ancient/003920-epistle-barnabas-one-apocryphal-books-new.md",
    "at": "2026-10-02T05:50:45+00:00"
+  },
+  {
+   "slug": "testament-end-codex-sinaiticus-4th-century",
+   "title": "Testament. At the end of the Codex Sinaiticus of the 4th century, as a",
+   "era": "ancient",
+   "file": "eras/ancient/003921-testament-end-codex-sinaiticus-4th-century.md",
+   "at": "2026-10-02T06:00:48+00:00"
   }
  ]
 }
