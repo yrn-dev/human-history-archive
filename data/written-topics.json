@@ -1,5 +1,5 @@
 {
- "count": 3964,
+ "count": 3965,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27748,6 +27748,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003965-gardiner-friend-bishop-sampson-sent-tower-barnes.md",
    "at": "2026-10-02T14:30:16+00:00"
+  },
+  {
+   "slug": "wriothesley-chronicle-foxe-acts-monuments-ed-townsend",
+   "title": "Wriothesley's Chronicle; Foxe's Acts and Monuments, ed. G. Townsend",
+   "era": "renaissance",
+   "file": "eras/renaissance/003966-wriothesley-chronicle-foxe-acts-monuments-ed-townsend.md",
+   "at": "2026-10-02T14:40:21+00:00"
   }
  ]
 }
