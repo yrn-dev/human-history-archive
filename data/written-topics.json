@@ -1,5 +1,5 @@
 {
- "count": 3974,
+ "count": 3975,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27818,6 +27818,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/003975-1572-they-resided-parish-norbury-staffordshire.md",
    "at": "2026-10-02T16:20:10+00:00"
+  },
+  {
+   "slug": "formosum-pastor-corydon-ardebat-alexin",
+   "title": "\"Formosum pastor Corydon ardebat Alexin.\"",
+   "era": "ancient",
+   "file": "eras/ancient/003976-formosum-pastor-corydon-ardebat-alexin.md",
+   "at": "2026-10-02T16:30:14+00:00"
   }
  ]
 }
