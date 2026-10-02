@@ -1,5 +1,5 @@
 {
- "count": 3975,
+ "count": 3976,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27825,6 +27825,13 @@
    "era": "ancient",
    "file": "eras/ancient/003976-formosum-pastor-corydon-ardebat-alexin.md",
    "at": "2026-10-02T16:30:14+00:00"
+  },
+  {
+   "slug": "poem-barnfield-most-extraordinary-specimen-hitherto",
+   "title": "This poem of Barnfield's was the most extraordinary specimen hitherto",
+   "era": "renaissance",
+   "file": "eras/renaissance/003977-poem-barnfield-most-extraordinary-specimen-hitherto.md",
+   "at": "2026-10-02T16:40:12+00:00"
   }
  ]
 }
