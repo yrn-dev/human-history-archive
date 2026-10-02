@@ -1,5 +1,5 @@
 {
- "count": 4001,
+ "count": 4002,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28007,6 +28007,13 @@
    "era": "modern",
    "file": "eras/modern/004002-special-measures-also-adopted-education-low-castes.md",
    "at": "2026-10-02T21:29:53+00:00"
+  },
+  {
+   "slug": "whole-aspect-city-been-changed-construction",
+   "title": "The whole aspect of the city has been changed by the construction of",
+   "era": "industrial",
+   "file": "eras/industrial/004003-whole-aspect-city-been-changed-construction.md",
+   "at": "2026-10-02T21:39:57+00:00"
   }
  ]
 }
