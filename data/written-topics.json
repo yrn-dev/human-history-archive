@@ -1,5 +1,5 @@
 {
- "count": 3970,
+ "count": 3971,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27790,6 +27790,13 @@
    "era": "industrial",
    "file": "eras/industrial/003971-barnett-john-1802-1890-english-musical-composer-son-prussian.md",
    "at": "2026-10-02T15:30:12+00:00"
+  },
+  {
+   "slug": "academy-music-developed-accomplished-pianist-visiting",
+   "title": "Academy of Music, and developed into an accomplished pianist, visiting",
+   "era": "modern",
+   "file": "eras/modern/003972-academy-music-developed-accomplished-pianist-visiting.md",
+   "at": "2026-10-02T15:40:16+00:00"
   }
  ]
 }
