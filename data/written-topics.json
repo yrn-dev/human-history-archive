@@ -1,5 +1,5 @@
 {
- "count": 4010,
+ "count": 4011,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28070,6 +28070,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004011-french-paris-line-equalling-088814-sometimes-used.md",
    "at": "2026-10-02T23:10:00+00:00"
+  },
+  {
+   "slug": "sympiezometer-invented-1818-adie-edinburgh",
+   "title": "The sympiezometer was invented in 1818 by Adie of Edinburgh. It is a",
+   "era": "industrial",
+   "file": "eras/industrial/004012-sympiezometer-invented-1818-adie-edinburgh.md",
+   "at": "2026-10-02T23:19:45+00:00"
   }
  ]
 }
