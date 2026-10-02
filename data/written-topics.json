@@ -1,5 +1,5 @@
 {
- "count": 4005,
+ "count": 4006,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28035,6 +28035,13 @@
    "era": "industrial",
    "file": "eras/industrial/004006-barometer-subject-two-kinds-error-one-arising.md",
    "at": "2026-10-02T22:20:02+00:00"
+  },
+  {
+   "slug": "standard-barometers-tube-inch-diameter",
+   "title": "In standard barometers, the tube is about an inch in diameter, and the",
+   "era": "industrial",
+   "file": "eras/industrial/004007-standard-barometers-tube-inch-diameter.md",
+   "at": "2026-10-02T22:29:57+00:00"
   }
  ]
 }
