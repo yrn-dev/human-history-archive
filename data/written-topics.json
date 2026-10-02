@@ -1,5 +1,5 @@
 {
- "count": 3896,
+ "count": 3897,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27272,6 +27272,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/003897-switzerland-deposits-belonging-stone-period-according.md",
    "at": "2026-10-02T01:23:50+00:00"
+  },
+  {
+   "slug": "fat-170",
+   "title": "Fat      .    .    .    .     2.170      \"",
+   "era": "industrial",
+   "file": "eras/industrial/003898-fat-170.md",
+   "at": "2026-10-02T01:31:12+00:00"
   }
  ]
 }
