@@ -1,5 +1,5 @@
 {
- "count": 4002,
+ "count": 4003,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28014,6 +28014,13 @@
    "era": "industrial",
    "file": "eras/industrial/004003-whole-aspect-city-been-changed-construction.md",
    "at": "2026-10-02T21:39:57+00:00"
+  },
+  {
+   "slug": "christiaan-huygens-not-long-discovered",
+   "title": "Christiaan Huygens. It was not long before it was discovered that the",
+   "era": "renaissance",
+   "file": "eras/renaissance/004004-christiaan-huygens-not-long-discovered.md",
+   "at": "2026-10-02T21:49:50+00:00"
   }
  ]
 }
