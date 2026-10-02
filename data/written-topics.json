@@ -1,5 +1,5 @@
 {
- "count": 4003,
+ "count": 4004,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28021,6 +28021,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004004-christiaan-huygens-not-long-discovered.md",
    "at": "2026-10-02T21:49:50+00:00"
+  },
+  {
+   "slug": "siphon-barometer-fig-consists-tube-bent-form",
+   "title": "The Siphon Barometer (fig. 1) consists of a tube bent in the form of a",
+   "era": "industrial",
+   "file": "eras/industrial/004005-siphon-barometer-fig-consists-tube-bent-form.md",
+   "at": "2026-10-02T22:09:53+00:00"
   }
  ]
 }
