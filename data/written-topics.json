@@ -1,5 +1,5 @@
 {
- "count": 3961,
+ "count": 3962,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27727,6 +27727,13 @@
    "era": "industrial",
    "file": "eras/industrial/003962-1824-1831-he-received-1831-1853-he.md",
    "at": "2026-10-02T14:00:20+00:00"
+  },
+  {
+   "slug": "cambridge-he-1695-chosen-regius-professor-greek-language",
+   "title": "Cambridge, he was in 1695 chosen regius professor of Greek, a language",
+   "era": "modern",
+   "file": "eras/modern/003963-cambridge-he-1695-chosen-regius-professor-greek-language.md",
+   "at": "2026-10-02T14:10:20+00:00"
   }
  ]
 }
