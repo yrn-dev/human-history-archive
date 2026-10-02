@@ -1,5 +1,5 @@
 {
- "count": 4012,
+ "count": 4013,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28084,6 +28084,13 @@
    "era": "industrial",
    "file": "eras/industrial/004013-fig-represents-internal-construction-seen-when-face.md",
    "at": "2026-10-02T23:29:48+00:00"
+  },
+  {
+   "slug": "see-marvin-barometers-measurement-atmospheric-pressure",
+   "title": "See Marvin, Barometers and the Measurement of Atmospheric Pressure",
+   "era": "industrial",
+   "file": "eras/industrial/004014-see-marvin-barometers-measurement-atmospheric-pressure.md",
+   "at": "2026-10-02T23:40:03+00:00"
   }
  ]
 }
