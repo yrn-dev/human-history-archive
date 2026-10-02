@@ -1,5 +1,5 @@
 {
- "count": 3938,
+ "count": 3939,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27566,6 +27566,13 @@
    "era": "industrial",
    "file": "eras/industrial/003939-dumb-1838-1848-he-professor-mathematics-natural.md",
    "at": "2026-10-02T09:10:31+00:00"
+  },
+  {
+   "slug": "protestant-episcopal-church-same-year-he-became-professor",
+   "title": "Protestant Episcopal Church. In the same year he became professor of",
+   "era": "modern",
+   "file": "eras/modern/003940-protestant-episcopal-church-same-year-he-became-professor.md",
+   "at": "2026-10-02T09:20:31+00:00"
   }
  ]
 }
