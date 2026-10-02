@@ -1,5 +1,5 @@
 {
- "count": 4006,
+ "count": 4007,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28042,6 +28042,13 @@
    "era": "industrial",
    "file": "eras/industrial/004007-standard-barometers-tube-inch-diameter.md",
    "at": "2026-10-02T22:29:57+00:00"
+  },
+  {
+   "slug": "essential-barometer-temperature-shown",
+   "title": "It is essential that the barometer is at the temperature shown by the",
+   "era": "industrial",
+   "file": "eras/industrial/004008-essential-barometer-temperature-shown.md",
+   "at": "2026-10-02T22:39:57+00:00"
   }
  ]
 }
