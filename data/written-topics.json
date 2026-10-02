@@ -1,5 +1,5 @@
 {
- "count": 3902,
+ "count": 3903,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27314,6 +27314,13 @@
    "era": "modern",
    "file": "eras/modern/003903-french-army-overcome-exposure-died-polish-village.md",
    "at": "2026-10-02T02:40:55+00:00"
+  },
+  {
+   "slug": "investigation-theory-numbers-1811-new-mathematical",
+   "title": "Investigation of the Theory of Numbers (1811); New Mathematical and",
+   "era": "industrial",
+   "file": "eras/industrial/003904-investigation-theory-numbers-1811-new-mathematical.md",
+   "at": "2026-10-02T03:00:44+00:00"
   }
  ]
 }
