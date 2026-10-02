@@ -1,5 +1,5 @@
 {
- "count": 3990,
+ "count": 3991,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -27930,6 +27930,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/003991-william-conqueror-part-honour-pontefract.md",
    "at": "2026-10-02T19:40:01+00:00"
+  },
+  {
+   "slug": "20-population-barnstable-settled-incorporated-1639",
+   "title": "20.1% in population. Barnstable was settled and incorporated in 1639",
+   "era": "modern",
+   "file": "eras/modern/003992-20-population-barnstable-settled-incorporated-1639.md",
+   "at": "2026-10-02T19:50:39+00:00"
   }
  ]
 }
