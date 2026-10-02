@@ -1,5 +1,5 @@
 {
- "count": 4007,
+ "count": 4008,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28049,6 +28049,13 @@
    "era": "industrial",
    "file": "eras/industrial/004008-essential-barometer-temperature-shown.md",
    "at": "2026-10-02T22:39:57+00:00"
+  },
+  {
+   "slug": "0deg-value-gravity-pressure-13-596-hg-dynes",
+   "title": "0deg, and g the value of gravity, the pressure is 13.596 Hg dynes",
+   "era": "industrial",
+   "file": "eras/industrial/004009-0deg-value-gravity-pressure-13-596-hg-dynes.md",
+   "at": "2026-10-02T22:49:54+00:00"
   }
  ]
 }
