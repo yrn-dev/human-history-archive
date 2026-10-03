@@ -1,5 +1,5 @@
 {
- "count": 4090,
+ "count": 4091,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28630,6 +28630,13 @@
    "era": "industrial",
    "file": "eras/industrial/004091-automatic-appliances-connected-music-dr-hopkins.md",
    "at": "2026-10-03T13:09:01+00:00"
+  },
+  {
+   "slug": "spree-berlin-22nd-october-1821-markische-boten-nos-138",
+   "title": "Spree, Berlin, 22nd October 1821, and in Markische Boten, Nos. 138 and",
+   "era": "industrial",
+   "file": "eras/industrial/004092-spree-berlin-22nd-october-1821-markische-boten-nos-138.md",
+   "at": "2026-10-03T13:29:08+00:00"
   }
  ]
 }
