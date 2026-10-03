@@ -1,5 +1,5 @@
 {
- "count": 4057,
+ "count": 4058,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28399,6 +28399,13 @@
    "era": "industrial",
    "file": "eras/industrial/004058-british-system---the-accommodation-given-british-military.md",
    "at": "2026-10-03T07:09:27+00:00"
+  },
+  {
+   "slug": "modern-british-barracks---a-description-modern-barrack",
+   "title": "Modern British Barracks.--A description of a modern barrack for a",
+   "era": "modern",
+   "file": "eras/modern/004059-modern-british-barracks---a-description-modern-barrack.md",
+   "at": "2026-10-03T07:19:28+00:00"
   }
  ]
 }
