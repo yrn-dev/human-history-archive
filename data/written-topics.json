@@ -1,5 +1,5 @@
 {
- "count": 4039,
+ "count": 4040,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28273,6 +28273,13 @@
    "era": "industrial",
    "file": "eras/industrial/004040-herald-genealogist-vol-iii.md",
    "at": "2026-10-03T04:09:40+00:00"
+  },
+  {
+   "slug": "baronius-caesar-1538-1607-italian-cardinal-ecclesiastical",
+   "title": "BARONIUS, CAESAR (1538-1607), Italian cardinal and ecclesiastical",
+   "era": "renaissance",
+   "file": "eras/renaissance/004041-baronius-caesar-1538-1607-italian-cardinal-ecclesiastical.md",
+   "at": "2026-10-03T04:19:33+00:00"
   }
  ]
 }
