@@ -1,5 +1,5 @@
 {
- "count": 4142,
+ "count": 4143,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28994,6 +28994,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004143-february-1672-1675-dr-barrow-chosen-vice-chancellor.md",
    "at": "2026-10-03T23:48:36+00:00"
+  },
+  {
+   "slug": "cambridge-thirteen-geometrical-lectures-works-archimedes",
+   "title": "Cambridge; Thirteen Geometrical Lectures; The Works of Archimedes, the",
+   "era": "ancient",
+   "file": "eras/ancient/004144-cambridge-thirteen-geometrical-lectures-works-archimedes.md",
+   "at": "2026-10-03T23:58:40+00:00"
   }
  ]
 }
