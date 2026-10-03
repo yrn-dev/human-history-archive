@@ -1,5 +1,5 @@
 {
- "count": 4079,
+ "count": 4080,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28553,6 +28553,13 @@
    "era": "modern",
    "file": "eras/modern/004080-barras-left-memoirs-rough-state-drawn-up-his-literary.md",
    "at": "2026-10-03T10:59:16+00:00"
+  },
+  {
+   "slug": "vols-paris-1895-1897-sorel-europe-et-la-revolution",
+   "title": "(4 vols., Paris, 1895-1897), A. Sorel, L'Europe et la Revolution",
+   "era": "modern",
+   "file": "eras/modern/004081-vols-paris-1895-1897-sorel-europe-et-la-revolution.md",
+   "at": "2026-10-03T11:09:10+00:00"
   }
  ]
 }
