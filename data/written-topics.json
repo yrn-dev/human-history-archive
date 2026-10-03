@@ -1,5 +1,5 @@
 {
- "count": 4061,
+ "count": 4062,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28427,6 +28427,13 @@
    "era": "modern",
    "file": "eras/modern/004062-officers-quarters---at-little-distance-men-barracks.md",
    "at": "2026-10-03T07:49:50+00:00"
+  },
+  {
+   "slug": "each-officer-large-room-part-which-partitioned-off",
+   "title": "Each officer has a large room, part of which is partitioned off for a",
+   "era": "industrial",
+   "file": "eras/industrial/004063-each-officer-large-room-part-which-partitioned-off.md",
+   "at": "2026-10-03T08:03:28+00:00"
   }
  ]
 }
