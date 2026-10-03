@@ -1,5 +1,5 @@
 {
- "count": 4040,
+ "count": 4041,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28280,6 +28280,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004041-baronius-caesar-1538-1607-italian-cardinal-ecclesiastical.md",
    "at": "2026-10-03T04:19:33+00:00"
+  },
+  {
+   "slug": "barony-domain-baron-ireland-counties-divided",
+   "title": "BARONY, the domain of a baron (q.v.). In Ireland counties are divided",
+   "era": "modern",
+   "file": "eras/modern/004042-barony-domain-baron-ireland-counties-divided.md",
+   "at": "2026-10-03T04:29:36+00:00"
   }
  ]
 }
