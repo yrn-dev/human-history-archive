@@ -1,5 +1,5 @@
 {
- "count": 4080,
+ "count": 4081,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28560,6 +28560,13 @@
    "era": "modern",
    "file": "eras/modern/004081-vols-paris-1895-1897-sorel-europe-et-la-revolution.md",
    "at": "2026-10-03T11:09:10+00:00"
+  },
+  {
+   "slug": "barratry-fr-bareter-barater-barter-cheat-english",
+   "title": "BARRATRY (O. Fr. bareter, barater, to barter or cheat), in English",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004082-barratry-fr-bareter-barater-barter-cheat-english.md",
+   "at": "2026-10-03T11:19:05+00:00"
   }
  ]
 }
