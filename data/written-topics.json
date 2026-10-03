@@ -1,5 +1,5 @@
 {
- "count": 4023,
+ "count": 4024,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28161,6 +28161,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004024-camden-statement-change-made-henry-iii.md",
    "at": "2026-10-03T01:19:42+00:00"
+  },
+  {
+   "slug": "stubbs-edward-earliest-writs-accepted-creating",
+   "title": "Stubbs, to Edward I., and the earliest writs accepted as creating",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004025-stubbs-edward-earliest-writs-accepted-creating.md",
+   "at": "2026-10-03T01:29:45+00:00"
   }
  ]
 }
