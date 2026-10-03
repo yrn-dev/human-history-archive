@@ -1,5 +1,5 @@
 {
- "count": 4096,
+ "count": 4097,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28672,6 +28672,13 @@
    "era": "industrial",
    "file": "eras/industrial/004097-paterson-new-jersey-4th-april-1838-his-family-name.md",
    "at": "2026-10-03T14:28:57+00:00"
+  },
+  {
+   "slug": "boker-1823-1890-francesca-da-rimini-james-harebell-man",
+   "title": "Boker's (1823-1890) Francesca da Rimini, and James Harebell in The Man",
+   "era": "industrial",
+   "file": "eras/industrial/004098-boker-1823-1890-francesca-da-rimini-james-harebell-man.md",
+   "at": "2026-10-03T14:39:00+00:00"
   }
  ]
 }
