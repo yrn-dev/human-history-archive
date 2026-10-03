@@ -1,5 +1,5 @@
 {
- "count": 4123,
+ "count": 4124,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28861,6 +28861,13 @@
    "era": "industrial",
    "file": "eras/industrial/004124-1770-his-son-shute-same-year-he-published-essay.md",
    "at": "2026-10-03T20:28:49+00:00"
+  },
+  {
+   "slug": "byron-destroy-louisburg-fortifications-peace-1763",
+   "title": "Byron to destroy the Louisburg fortifications. At the peace in 1763",
+   "era": "modern",
+   "file": "eras/modern/004125-byron-destroy-louisburg-fortifications-peace-1763.md",
+   "at": "2026-10-03T20:38:41+00:00"
   }
  ]
 }
