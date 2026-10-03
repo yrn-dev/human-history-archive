@@ -1,5 +1,5 @@
 {
- "count": 4064,
+ "count": 4065,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28448,6 +28448,13 @@
    "era": "industrial",
    "file": "eras/industrial/004065-location-barracks---the-selection-healthy-site-barrack.md",
    "at": "2026-10-03T08:19:26+00:00"
+  },
+  {
+   "slug": "barrack-construction---the-history-barrack-construction-great",
+   "title": "Barrack Construction.--The history of barrack construction in Great",
+   "era": "industrial",
+   "file": "eras/industrial/004066-barrack-construction---the-history-barrack-construction-great.md",
+   "at": "2026-10-03T08:29:30+00:00"
   }
  ]
 }
