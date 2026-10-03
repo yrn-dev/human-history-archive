@@ -1,5 +1,5 @@
 {
- "count": 4026,
+ "count": 4027,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28182,6 +28182,13 @@
    "era": "industrial",
    "file": "eras/industrial/004027-baron-dimsdale-1762-german-baron-stockmar-baron-halkett.md",
    "at": "2026-10-03T01:49:46+00:00"
+  },
+  {
+   "slug": "foreign-title---on-continent-europe-title-baron-though",
+   "title": "The Foreign Title.--On the continent of Europe the title baron, though",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004028-foreign-title---on-continent-europe-title-baron-though.md",
+   "at": "2026-10-03T02:09:44+00:00"
   }
  ]
 }
