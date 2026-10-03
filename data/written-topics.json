@@ -1,5 +1,5 @@
 {
- "count": 4099,
+ "count": 4100,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28693,6 +28693,13 @@
    "era": "modern",
    "file": "eras/modern/004100-adrienne-lecouvreur-la-dame-aux-camelias-other-plays-not.md",
    "at": "2026-10-03T14:58:55+00:00"
+  },
+  {
+   "slug": "barrett-played-part-three-hundred-nights-without-break",
+   "title": "Barrett played this part for three hundred nights without a break, and",
+   "era": "industrial",
+   "file": "eras/industrial/004101-barrett-played-part-three-hundred-nights-without-break.md",
+   "at": "2026-10-03T15:18:55+00:00"
   }
  ]
 }
