@@ -1,5 +1,5 @@
 {
- "count": 4098,
+ "count": 4099,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28686,6 +28686,13 @@
    "era": "industrial",
    "file": "eras/industrial/004099-forrest-american-actors-series-boston-1881-admirable.md",
    "at": "2026-10-03T14:48:57+00:00"
+  },
+  {
+   "slug": "adrienne-lecouvreur-la-dame-aux-camelias-other-plays-not",
+   "title": "Adrienne Lecouvreur, La Dame aux camelias and other plays. It was not",
+   "era": "modern",
+   "file": "eras/modern/004100-adrienne-lecouvreur-la-dame-aux-camelias-other-plays-not.md",
+   "at": "2026-10-03T14:58:55+00:00"
   }
  ]
 }
