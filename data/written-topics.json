@@ -1,5 +1,5 @@
 {
- "count": 4089,
+ "count": 4090,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28623,6 +28623,13 @@
    "era": "industrial",
    "file": "eras/industrial/004090-there-very-small-barrel-organ-use-during-18th-19th.md",
    "at": "2026-10-03T12:59:09+00:00"
+  },
+  {
+   "slug": "automatic-appliances-connected-music-dr-hopkins",
+   "title": "\"Automatic Appliances connected with Music,\" by Dr. E. J. Hopkins, in",
+   "era": "industrial",
+   "file": "eras/industrial/004091-automatic-appliances-connected-music-dr-hopkins.md",
+   "at": "2026-10-03T13:09:01+00:00"
   }
  ]
 }
