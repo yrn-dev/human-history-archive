@@ -1,5 +1,5 @@
 {
- "count": 4095,
+ "count": 4096,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28665,6 +28665,13 @@
    "era": "modern",
    "file": "eras/modern/004096-see-also-doumic-les-jeunes-1896-lionnet-evolution-des.md",
    "at": "2026-10-03T14:18:57+00:00"
+  },
+  {
+   "slug": "paterson-new-jersey-4th-april-1838-his-family-name",
+   "title": "Paterson, New Jersey, on the 4th of April 1838. His family name was",
+   "era": "industrial",
+   "file": "eras/industrial/004097-paterson-new-jersey-4th-april-1838-his-family-name.md",
+   "at": "2026-10-03T14:28:57+00:00"
   }
  ]
 }
