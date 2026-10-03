@@ -1,5 +1,5 @@
 {
- "count": 4110,
+ "count": 4111,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28770,6 +28770,13 @@
    "era": "modern",
    "file": "eras/modern/004111-guest-which-printed-supplement-fortnightly-review.md",
    "at": "2026-10-03T17:18:50+00:00"
+  },
+  {
+   "slug": "december-same-year-publication-little-white",
+   "title": "December of the same year. After the publication of The Little White",
+   "era": "modern",
+   "file": "eras/modern/004112-december-same-year-publication-little-white.md",
+   "at": "2026-10-03T17:28:57+00:00"
   }
  ]
 }
