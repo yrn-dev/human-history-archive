@@ -1,5 +1,5 @@
 {
- "count": 4093,
+ "count": 4094,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -28651,6 +28651,13 @@
    "era": "industrial",
    "file": "eras/industrial/004094-charmes-vosges-22nd-september-1862-he-educated.md",
    "at": "2026-10-03T14:00:35+00:00"
+  },
+  {
+   "slug": "berenice-1891-he-divided-world-moi-barbarians",
+   "title": "Berenice (1891). He divided the world into moi and the barbarians, the",
+   "era": "modern",
+   "file": "eras/modern/004095-berenice-1891-he-divided-world-moi-barbarians.md",
+   "at": "2026-10-03T14:09:04+00:00"
   }
  ]
 }
