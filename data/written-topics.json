@@ -1,5 +1,5 @@
 {
- "count": 4254,
+ "count": 4255,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29778,6 +29778,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004255-lingard-history-england-gasquet-henry-viii-03-0453.md",
    "at": "2026-10-04T20:17:35+00:00"
+  },
+  {
+   "slug": "henry-viii-james-gairdner-english-church-16th-century",
+   "title": "Henry VIII.; James Gairdner, The English Church in the 16th Century",
+   "era": "renaissance",
+   "file": "eras/renaissance/004256-henry-viii-james-gairdner-english-church-16th-century.md",
+   "at": "2026-10-04T20:27:30+00:00"
   }
  ]
 }
