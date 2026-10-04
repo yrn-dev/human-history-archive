@@ -1,5 +1,5 @@
 {
- "count": 4153,
+ "count": 4154,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29071,6 +29071,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/004154-yorkshire-london-1905-anderson-scotland-pagan-times.md",
    "at": "2026-10-04T02:08:31+00:00"
+  },
+  {
+   "slug": "edinburgh-1886-dr-bryce-records-explorations-among",
+   "title": "(Edinburgh, 1886); Dr T. H. Bryce, \"Records of Explorations among the",
+   "era": "industrial",
+   "file": "eras/industrial/004155-edinburgh-1886-dr-bryce-records-explorations-among.md",
+   "at": "2026-10-04T02:18:29+00:00"
   }
  ]
 }
