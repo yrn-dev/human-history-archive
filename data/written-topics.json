@@ -1,5 +1,5 @@
 {
- "count": 4151,
+ "count": 4152,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29057,6 +29057,13 @@
    "era": "ancient",
    "file": "eras/ancient/004152-obsequies-achilles-described-odyssey-also.md",
    "at": "2026-10-04T01:38:24+00:00"
+  },
+  {
+   "slug": "anglo-saxon-saga-beowulf-describing-chambered-tumulus",
+   "title": "Anglo-Saxon Saga of Beowulf describing the chambered tumulus with its",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004153-anglo-saxon-saga-beowulf-describing-chambered-tumulus.md",
+   "at": "2026-10-04T01:48:24+00:00"
   }
  ]
 }
