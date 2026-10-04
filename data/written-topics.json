@@ -1,5 +1,5 @@
 {
- "count": 4256,
+ "count": 4257,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29792,6 +29792,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004257-1899-strype-memorials-271-cranmer-detailed-account.md",
    "at": "2026-10-04T20:37:37+00:00"
+  },
+  {
+   "slug": "pectunculus-glycimeris-deleta-characteristic-fossils-fishes",
+   "title": "Pectunculus (Glycimeris) deleta are characteristic fossils; fishes",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/004258-pectunculus-glycimeris-deleta-characteristic-fossils-fishes.md",
+   "at": "2026-10-04T20:47:34+00:00"
   }
  ]
 }
