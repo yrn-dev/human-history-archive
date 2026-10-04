@@ -1,5 +1,5 @@
 {
- "count": 4205,
+ "count": 4206,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29435,6 +29435,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004206-choix-de-documents-inedits-sur-histoire-de-la-ligue-en-bretagne.md",
    "at": "2026-10-04T11:17:57+00:00"
+  },
+  {
+   "slug": "essai-sur-la-monnaie-parisis-1874-note-sur-origine-de-la-monnaie",
+   "title": "Essai sur la monnaie parisis (1874); Note sur l'origine de la monnaie",
+   "era": "industrial",
+   "file": "eras/industrial/004207-essai-sur-la-monnaie-parisis-1874-note-sur-origine-de-la-monnaie.md",
+   "at": "2026-10-04T11:27:57+00:00"
   }
  ]
 }
