@@ -1,5 +1,5 @@
 {
- "count": 4269,
+ "count": 4270,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29883,6 +29883,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004270-ceriani-discovered-6th-century-ms-milan-library-he.md",
    "at": "2026-10-04T22:47:24+00:00"
+  },
+  {
+   "slug": "mss-apocalypse-baruch-1896-pp-124-167-entire-book",
+   "title": "MSS. (Apocalypse of Baruch, 1896, pp. 124-167). The entire book was",
+   "era": "ancient",
+   "file": "eras/ancient/004271-mss-apocalypse-baruch-1896-pp-124-167-entire-book.md",
+   "at": "2026-10-04T22:57:29+00:00"
   }
  ]
 }
