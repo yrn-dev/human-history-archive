@@ -1,5 +1,5 @@
 {
- "count": 4157,
+ "count": 4158,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29099,6 +29099,13 @@
    "era": "industrial",
    "file": "eras/industrial/004158-1890-1891-washington-1894.md",
    "at": "2026-10-04T02:58:32+00:00"
+  },
+  {
+   "slug": "(j.-an.)",
+   "title": "(J. AN.)",
+   "era": "ancient",
+   "file": "eras/ancient/004159-(j.-an.).md",
+   "at": "2026-10-04T03:08:31+00:00"
   }
  ]
 }
