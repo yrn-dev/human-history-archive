@@ -1,5 +1,5 @@
 {
- "count": 4217,
+ "count": 4218,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29519,6 +29519,13 @@
    "era": "modern",
    "file": "eras/modern/004218-barthelemy-author-number-learned-works-antiquarian.md",
    "at": "2026-10-04T13:18:00+00:00"
+  },
+  {
+   "slug": "anacharsis-en-grece-vers-le-milieu-du-quatrieme-siecle-avant-ere",
+   "title": "Anacharsis en Grece, vers le milieu du quatrieme siecle avant l'ere",
+   "era": "ancient",
+   "file": "eras/ancient/004219-anacharsis-en-grece-vers-le-milieu-du-quatrieme-siecle-avant-ere.md",
+   "at": "2026-10-04T13:28:02+00:00"
   }
  ]
 }
