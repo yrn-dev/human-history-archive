@@ -1,5 +1,5 @@
 {
- "count": 4255,
+ "count": 4256,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29785,6 +29785,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004256-henry-viii-james-gairdner-english-church-16th-century.md",
    "at": "2026-10-04T20:27:30+00:00"
+  },
+  {
+   "slug": "1899-strype-memorials-271-cranmer-detailed-account",
+   "title": "(1899); Strype, Memorials, I. i. 271, and Cranmer; a detailed account",
+   "era": "renaissance",
+   "file": "eras/renaissance/004257-1899-strype-memorials-271-cranmer-detailed-account.md",
+   "at": "2026-10-04T20:37:37+00:00"
   }
  ]
 }
