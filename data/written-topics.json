@@ -1,5 +1,5 @@
 {
- "count": 4266,
+ "count": 4267,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29862,6 +29862,13 @@
    "era": "ancient",
    "file": "eras/ancient/004267-literature-versions-editions---the-versions-two-latin.md",
    "at": "2026-10-04T22:17:35+00:00"
+  },
+  {
+   "slug": "versiones-antiquae-founded-upon-preceding-one-less",
+   "title": "Versiones Antiquae. It is founded upon the preceding one, and is less",
+   "era": "ancient",
+   "file": "eras/ancient/004268-versiones-antiquae-founded-upon-preceding-one-less.md",
+   "at": "2026-10-04T22:27:23+00:00"
   }
  ]
 }
