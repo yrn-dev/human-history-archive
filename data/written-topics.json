@@ -1,5 +1,5 @@
 {
- "count": 4194,
+ "count": 4195,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29358,6 +29358,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004195-mss-which-they-contained-probably-most-important-his.md",
    "at": "2026-10-04T09:08:17+00:00"
+  },
+  {
+   "slug": "labourt-edition-translation-his-exposition-liturgy",
+   "title": "Labourt's edition and translation of his Exposition of the Liturgy",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004196-labourt-edition-translation-his-exposition-liturgy.md",
+   "at": "2026-10-04T09:18:06+00:00"
   }
  ]
 }
