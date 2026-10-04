@@ -1,5 +1,5 @@
 {
- "count": 4143,
+ "count": 4144,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29001,6 +29001,13 @@
    "era": "ancient",
    "file": "eras/ancient/004144-cambridge-thirteen-geometrical-lectures-works-archimedes.md",
    "at": "2026-10-03T23:58:40+00:00"
+  },
+  {
+   "slug": "mathematical-lectures-read-public-schools-university",
+   "title": "Mathematical Lectures, read in the public schools of the university of",
+   "era": "modern",
+   "file": "eras/modern/004145-mathematical-lectures-read-public-schools-university.md",
+   "at": "2026-10-04T00:08:44+00:00"
   }
  ]
 }
