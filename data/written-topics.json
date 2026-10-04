@@ -1,5 +1,5 @@
 {
- "count": 4190,
+ "count": 4191,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29330,6 +29330,13 @@
    "era": "industrial",
    "file": "eras/industrial/004191-barry-urban-district-seaport-glamorganshire-wales.md",
    "at": "2026-10-04T08:28:12+00:00"
+  },
+  {
+   "slug": "rhymney-railway-london-north-western-railway-brecon",
+   "title": "Rhymney railway, the London & North-Western railway, and the Brecon &",
+   "era": "industrial",
+   "file": "eras/industrial/004192-rhymney-railway-london-north-western-railway-brecon.md",
+   "at": "2026-10-04T08:38:10+00:00"
   }
  ]
 }
