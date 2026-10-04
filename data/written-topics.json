@@ -1,5 +1,5 @@
 {
- "count": 4204,
+ "count": 4205,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -29428,6 +29428,13 @@
    "era": "modern",
    "file": "eras/modern/004205-barthelemy-anatole-jean-baptiste-antoine-de-1821-1904-french.md",
    "at": "2026-10-04T11:07:59+00:00"
+  },
+  {
+   "slug": "choix-de-documents-inedits-sur-histoire-de-la-ligue-en-bretagne",
+   "title": "Choix de documents inedits sur l'histoire de la ligue en Bretagne, by",
+   "era": "renaissance",
+   "file": "eras/renaissance/004206-choix-de-documents-inedits-sur-histoire-de-la-ligue-en-bretagne.md",
+   "at": "2026-10-04T11:17:57+00:00"
   }
  ]
 }
