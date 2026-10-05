@@ -1,5 +1,5 @@
 {
- "count": 4400,
+ "count": 4401,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30800,6 +30800,13 @@
    "era": "ancient",
    "file": "eras/ancient/004401-temple-peace.md",
    "at": "2026-10-05T23:06:06+00:00"
+  },
+  {
+   "slug": "time-constantine-when-numbers-faithful",
+   "title": "After the time of Constantine, when the numbers of the faithful were",
+   "era": "ancient",
+   "file": "eras/ancient/004402-time-constantine-when-numbers-faithful.md",
+   "at": "2026-10-05T23:26:25+00:00"
   }
  ]
 }
