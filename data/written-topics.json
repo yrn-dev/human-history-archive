@@ -1,5 +1,5 @@
 {
- "count": 4356,
+ "count": 4357,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30492,6 +30492,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004357-see-carpini-liber-tartarorum-edited-title-relations.md",
    "at": "2026-10-05T15:26:34+00:00"
+  },
+  {
+   "slug": "world-translated-rockhill-london-1900-semenoff-slovar",
+   "title": "World, translated by W. W. Rockhill (London, 1900); Semenoff, Slovar",
+   "era": "ancient",
+   "file": "eras/ancient/004358-world-translated-rockhill-london-1900-semenoff-slovar.md",
+   "at": "2026-10-05T15:36:35+00:00"
   }
  ]
 }
