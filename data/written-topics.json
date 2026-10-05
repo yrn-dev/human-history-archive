@@ -1,5 +1,5 @@
 {
- "count": 4332,
+ "count": 4333,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30324,6 +30324,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004333-aragon-swiss-confederation-certain-universities-germany.md",
    "at": "2026-10-05T11:06:52+00:00"
+  },
+  {
+   "slug": "geschaftsordnung-des-baseler-konzils-leipzig-1877-monumenta",
+   "title": "Geschaftsordnung des Baseler Konzils (Leipzig, 1877); Monumenta",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004334-geschaftsordnung-des-baseler-konzils-leipzig-1877-monumenta.md",
+   "at": "2026-10-05T11:26:47+00:00"
   }
  ]
 }
