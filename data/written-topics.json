@@ -1,5 +1,5 @@
 {
- "count": 4305,
+ "count": 4306,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30135,6 +30135,13 @@
    "era": "modern",
    "file": "eras/modern/004306-amherst-brown-dartmouth-yale-joining-year-later-eastern.md",
    "at": "2026-10-05T06:17:02+00:00"
+  },
+  {
+   "slug": "1887-afterwards-dissolved-present-most-important",
+   "title": "1887. This was afterwards dissolved and at present the most important",
+   "era": "industrial",
+   "file": "eras/industrial/004307-1887-afterwards-dissolved-present-most-important.md",
+   "at": "2026-10-05T06:27:04+00:00"
   }
  ]
 }
