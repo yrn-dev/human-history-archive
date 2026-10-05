@@ -1,5 +1,5 @@
 {
- "count": 4357,
+ "count": 4358,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30499,6 +30499,13 @@
    "era": "ancient",
    "file": "eras/ancient/004358-world-translated-rockhill-london-1900-semenoff-slovar.md",
    "at": "2026-10-05T15:36:35+00:00"
+  },
+  {
+   "slug": "ross-imp-frahn-de-baskiris-mem-de-acad-de",
+   "title": "Ross. Imp., s.v.; Frahn, \"De Baskiris,\" in Mem. de l'Acad. de",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004359-ross-imp-frahn-de-baskiris-mem-de-acad-de.md",
+   "at": "2026-10-05T15:46:56+00:00"
   }
  ]
 }
