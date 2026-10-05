@@ -1,5 +1,5 @@
 {
- "count": 4360,
+ "count": 4361,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30520,6 +30520,13 @@
    "era": "industrial",
    "file": "eras/industrial/004361-(b.-k.).md",
    "at": "2026-10-05T16:06:41+00:00"
+  },
+  {
+   "slug": "basil-known-basil-great-330-379-bishop-caesarea",
+   "title": "BASIL,[1] known as BASIL THE GREAT (c. 330-379), bishop of Caesarea, a",
+   "era": "ancient",
+   "file": "eras/ancient/004362-basil-known-basil-great-330-379-bishop-caesarea.md",
+   "at": "2026-10-05T16:16:34+00:00"
   }
  ]
 }
