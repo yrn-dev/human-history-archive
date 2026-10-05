@@ -1,5 +1,5 @@
 {
- "count": 4399,
+ "count": 4400,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30793,6 +30793,13 @@
    "era": "ancient",
    "file": "eras/ancient/004400-ulpia-restored-canina.md",
    "at": "2026-10-05T22:56:18+00:00"
+  },
+  {
+   "slug": "temple-peace",
+   "title": "(Temple of Peace).]",
+   "era": "ancient",
+   "file": "eras/ancient/004401-temple-peace.md",
+   "at": "2026-10-05T23:06:06+00:00"
   }
  ]
 }
