@@ -1,5 +1,5 @@
 {
- "count": 4294,
+ "count": 4295,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30058,6 +30058,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/004295-less-common-minerals-basalt-few-may-mentioned-black.md",
    "at": "2026-10-05T03:47:15+00:00"
+  },
+  {
+   "slug": "aesthetics-1862-philosophy-rhetoric-1865-science-philosophy",
+   "title": "Aesthetics (1862); Philosophy of Rhetoric (1865); Science, Philosophy",
+   "era": "modern",
+   "file": "eras/modern/004296-aesthetics-1862-philosophy-rhetoric-1865-science-philosophy.md",
+   "at": "2026-10-05T04:07:25+00:00"
   }
  ]
 }
