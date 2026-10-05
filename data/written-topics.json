@@ -1,5 +1,5 @@
 {
- "count": 4295,
+ "count": 4296,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30065,6 +30065,13 @@
    "era": "modern",
    "file": "eras/modern/004296-aesthetics-1862-philosophy-rhetoric-1865-science-philosophy.md",
    "at": "2026-10-05T04:07:25+00:00"
+  },
+  {
+   "slug": "philosophy-religions-1876-problems-philosophy-1885-new",
+   "title": "Philosophy of Religions (1876); Problems in Philosophy (1885); The New",
+   "era": "modern",
+   "file": "eras/modern/004297-philosophy-religions-1876-problems-philosophy-1885-new.md",
+   "at": "2026-10-05T04:17:17+00:00"
   }
  ]
 }
