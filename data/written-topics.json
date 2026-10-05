@@ -1,5 +1,5 @@
 {
- "count": 4320,
+ "count": 4321,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30240,6 +30240,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004321-verfassungsgeschichte-stadt-basel-im-mittelalter-1860.md",
    "at": "2026-10-05T09:06:54+00:00"
+  },
+  {
+   "slug": "rechtsquellen-von-basel-vols-1856-1865-stocker-basler",
+   "title": "Rechtsquellen von Basel (2 vols., 1856-1865); L. A. Stocker, Basler",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004322-rechtsquellen-von-basel-vols-1856-1865-stocker-basler.md",
+   "at": "2026-10-05T09:16:57+00:00"
   }
  ]
 }
