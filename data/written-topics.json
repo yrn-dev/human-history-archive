@@ -1,5 +1,5 @@
 {
- "count": 4340,
+ "count": 4341,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30380,6 +30380,13 @@
    "era": "ancient",
    "file": "eras/ancient/004341-gamalitis-sogana-trachonitis-mentioned-luke-iii.md",
    "at": "2026-10-05T12:46:40+00:00"
+  },
+  {
+   "slug": "auranitis-batanaea-corresponds-trach-nes-strabo",
+   "title": "Auranitis and Batanaea. This corresponds to the Trach[=o]nes of Strabo",
+   "era": "ancient",
+   "file": "eras/ancient/004342-auranitis-batanaea-corresponds-trach-nes-strabo.md",
+   "at": "2026-10-05T12:58:45+00:00"
   }
  ]
 }
