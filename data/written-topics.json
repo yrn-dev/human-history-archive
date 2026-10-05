@@ -1,5 +1,5 @@
 {
- "count": 4388,
+ "count": 4389,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30716,6 +30716,13 @@
    "era": "modern",
    "file": "eras/modern/004389-outside-orthodox-church-some-small-congregations-uniat.md",
    "at": "2026-10-05T20:46:16+00:00"
+  },
+  {
+   "slug": "christian-monasticism-1903-history-spirit-basilian",
+   "title": "Christian Monasticism (1903). On the history and spirit of Basilian",
+   "era": "ancient",
+   "file": "eras/ancient/004390-christian-monasticism-1903-history-spirit-basilian.md",
+   "at": "2026-10-05T20:56:25+00:00"
   }
  ]
 }
