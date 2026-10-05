@@ -1,5 +1,5 @@
 {
- "count": 4403,
+ "count": 4404,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30821,6 +30821,13 @@
    "era": "ancient",
    "file": "eras/ancient/004404-aisles-bema-altar-protected-double-screen-bishop.md",
    "at": "2026-10-05T23:46:15+00:00"
+  },
+  {
+   "slug": "church-st-andrew",
+   "title": "Church of St Andrew. ]",
+   "era": "modern",
+   "file": "eras/modern/004405-church-st-andrew.md",
+   "at": "2026-10-05T23:56:15+00:00"
   }
  ]
 }
