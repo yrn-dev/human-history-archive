@@ -1,5 +1,5 @@
 {
- "count": 4297,
+ "count": 4298,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30079,6 +30079,13 @@
    "era": "ancient",
    "file": "eras/ancient/004298-base-fr-bas-late-lat-bassus-low-cf-gr-greek-bathus.md",
    "at": "2026-10-05T04:27:10+00:00"
+  },
+  {
+   "slug": "mycenae-archaic-greek-work-already-disappeared-doric",
+   "title": "Mycenae. In archaic Greek work it has already disappeared in the Doric",
+   "era": "ancient",
+   "file": "eras/ancient/004299-mycenae-archaic-greek-work-already-disappeared-doric.md",
+   "at": "2026-10-05T04:37:04+00:00"
   }
  ]
 }
