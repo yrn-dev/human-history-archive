@@ -1,5 +1,5 @@
 {
- "count": 4321,
+ "count": 4322,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30247,6 +30247,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004322-rechtsquellen-von-basel-vols-1856-1865-stocker-basler.md",
    "at": "2026-10-05T09:16:57+00:00"
+  },
+  {
+   "slug": "stadtbilder-1890-stouff-pouvoir-temporel-des-eveques-de-bale",
+   "title": "Stadtbilder (1890); L. Stouff, Pouvoir temporel des eveques de Bale (2",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004323-stadtbilder-1890-stouff-pouvoir-temporel-des-eveques-de-bale.md",
+   "at": "2026-10-05T09:26:50+00:00"
   }
  ]
 }
