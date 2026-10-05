@@ -1,5 +1,5 @@
 {
- "count": 4296,
+ "count": 4297,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30072,6 +30072,13 @@
    "era": "modern",
    "file": "eras/modern/004297-philosophy-religions-1876-problems-philosophy-1885-new.md",
    "at": "2026-10-05T04:17:17+00:00"
+  },
+  {
+   "slug": "base-fr-bas-late-lat-bassus-low-cf-gr-greek-bathus",
+   "title": "BASE. (1) (Fr. bas, Late Lat. bassus, low; cf. Gr. [Greek: bathus]) an",
+   "era": "ancient",
+   "file": "eras/ancient/004298-base-fr-bas-late-lat-bassus-low-cf-gr-greek-bathus.md",
+   "at": "2026-10-05T04:27:10+00:00"
   }
  ]
 }
