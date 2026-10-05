@@ -1,5 +1,5 @@
 {
- "count": 4384,
+ "count": 4385,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30688,6 +30688,13 @@
    "era": "ancient",
    "file": "eras/ancient/004385-spirit-greek-monachism-regenerated-theodore-may-best.md",
    "at": "2026-10-05T20:06:23+00:00"
+  },
+  {
+   "slug": "during-middle-ages-centre-greek-monachism-shifted",
+   "title": "During the middle ages the centre of Greek monachism shifted from",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004386-during-middle-ages-centre-greek-monachism-shifted.md",
+   "at": "2026-10-05T20:16:21+00:00"
   }
  ]
 }
