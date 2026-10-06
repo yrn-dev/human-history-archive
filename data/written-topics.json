@@ -1,5 +1,5 @@
 {
- "count": 4485,
+ "count": 4486,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31395,6 +31395,13 @@
    "era": "cultures",
    "file": "eras/cultures/004486-basque-provinces-provincias-vascongadas-division-north-eastern.md",
    "at": "2026-10-06T14:35:36+00:00"
+  },
+  {
+   "slug": "spain-comprising-three-provinces-alava-biscay-vizcaya",
+   "title": "Spain, comprising the three provinces of Alava, Biscay or Vizcaya and",
+   "era": "modern",
+   "file": "eras/modern/004487-spain-comprising-three-provinces-alava-biscay-vizcaya.md",
+   "at": "2026-10-06T14:45:39+00:00"
   }
  ]
 }
