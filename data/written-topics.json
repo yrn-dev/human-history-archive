@@ -1,5 +1,5 @@
 {
- "count": 4508,
+ "count": 4509,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31556,6 +31556,13 @@
    "era": "cultures",
    "file": "eras/cultures/004509-do-not-know-oh-child.md",
    "at": "2026-10-06T18:45:25+00:00"
+  },
+  {
+   "slug": "present-state-basque-only-employs-regular-conjugation",
+   "title": "In its present state Basque only employs its regular conjugation",
+   "era": "cultures",
+   "file": "eras/cultures/004510-present-state-basque-only-employs-regular-conjugation.md",
+   "at": "2026-10-06T18:55:13+00:00"
   }
  ]
 }
