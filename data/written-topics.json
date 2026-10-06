@@ -1,5 +1,5 @@
 {
- "count": 4422,
+ "count": 4423,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30954,6 +30954,13 @@
    "era": "ancient",
    "file": "eras/ancient/004423-gsell-les-monuments-antiques-de-algerie-noticed-more-than-130.md",
    "at": "2026-10-06T03:16:04+00:00"
+  },
+  {
+   "slug": "archaeologia-liii",
+   "title": "(From Archaeologia, liii.)]",
+   "era": "ancient",
+   "file": "eras/ancient/004424-archaeologia-liii.md",
+   "at": "2026-10-06T03:26:11+00:00"
   }
  ]
 }
