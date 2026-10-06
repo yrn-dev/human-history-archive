@@ -1,5 +1,5 @@
 {
- "count": 4470,
+ "count": 4471,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31290,6 +31290,13 @@
    "era": "industrial",
    "file": "eras/industrial/004471-great-britain-continent-europe-manufacture.md",
    "at": "2026-10-06T11:35:38+00:00"
+  },
+  {
+   "slug": "splits-various-species-bamboo-japanese-chinese",
+   "title": "With splits of various species of bamboo the Japanese and Chinese",
+   "era": "cultures",
+   "file": "eras/cultures/004472-splits-various-species-bamboo-japanese-chinese.md",
+   "at": "2026-10-06T11:45:51+00:00"
   }
  ]
 }
