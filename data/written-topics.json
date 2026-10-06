@@ -1,5 +1,5 @@
 {
- "count": 4500,
+ "count": 4501,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31500,6 +31500,13 @@
    "era": "cultures",
    "file": "eras/cultures/004501-euskara-uskara-word-exact-meaning-which-not-yet-been.md",
    "at": "2026-10-06T17:25:11+00:00"
+  },
+  {
+   "slug": "horse-zaldia-horse-zaldiak-horses-declensional",
+   "title": "\"horse,\" zaldia \"the horse,\" zaldiak, \"the horses.\" The declensional",
+   "era": "cultures",
+   "file": "eras/cultures/004502-horse-zaldia-horse-zaldiak-horses-declensional.md",
+   "at": "2026-10-06T17:35:26+00:00"
   }
  ]
 }
