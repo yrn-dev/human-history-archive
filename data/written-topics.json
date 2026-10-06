@@ -1,5 +1,5 @@
 {
- "count": 4536,
+ "count": 4537,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31752,6 +31752,13 @@
    "era": "industrial",
    "file": "eras/industrial/004537-london-1877-1879-puyol-camps-la-epigraphia-numismatica.md",
    "at": "2026-10-06T23:25:08+00:00"
+  },
+  {
+   "slug": "1889-same-author-existe-una-raza-euskara-sus-caracteres",
+   "title": "1889); and the same author's Existe una raza Euskara? Sus caracteres",
+   "era": "cultures",
+   "file": "eras/cultures/004538-1889-same-author-existe-una-raza-euskara-sus-caracteres.md",
+   "at": "2026-10-06T23:45:14+00:00"
   }
  ]
 }
