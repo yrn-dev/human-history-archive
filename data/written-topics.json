@@ -1,5 +1,5 @@
 {
- "count": 4520,
+ "count": 4521,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31640,6 +31640,13 @@
    "era": "cultures",
    "file": "eras/cultures/004521-religion-basques-anterior-christianity-little.md",
    "at": "2026-10-06T20:45:13+00:00"
+  },
+  {
+   "slug": "elsewhere-romans-assimilated-basque-local-deities-their-own",
+   "title": "As elsewhere, the Romans assimilated Basque local deities to their own",
+   "era": "ancient",
+   "file": "eras/ancient/004522-elsewhere-romans-assimilated-basque-local-deities-their-own.md",
+   "at": "2026-10-06T20:55:07+00:00"
   }
  ]
 }
