@@ -1,5 +1,5 @@
 {
- "count": 4510,
+ "count": 4511,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31570,6 +31570,13 @@
    "era": "ancient",
    "file": "eras/ancient/004511-see-principal-auxiliaries-izan.md",
    "at": "2026-10-06T19:05:21+00:00"
+  },
+  {
+   "slug": "syntax-simple-phrases-short-generally-order",
+   "title": "The syntax is simple, the phrases are short and generally the order of",
+   "era": "cultures",
+   "file": "eras/cultures/004512-syntax-simple-phrases-short-generally-order.md",
+   "at": "2026-10-06T19:15:15+00:00"
   }
  ]
 }
