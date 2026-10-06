@@ -1,0 +1,30 @@
+# Global Trade and Industrial Production (Early 20th Century)
+
+## Basque Provinces and Spanish Industry
+In the Basque Provinces and the Pays Basque, agricultural trends during the 19th century saw wine-growing gradually replace cider production. The region's primary industries are iron mining and sea fisheries. Some mines located around Bilbao have been operational since prehistoric times. 
+
+In 1905, the Basque Provinces produced 5,302,344 tons of iron, with over five million tons originating from Biscay. This contributed to a total Spanish production of 9,395,314 tons. More than half of this total, amounting to 5,845,895 tons, was exported to England. 
+
+The province of Guipuzcoa is noted for its metalwork; the swords of Mondragon were renowned before those of Toledo. Additionally, Eibar has long served as a small-arms factory. During the 19th century, Senor Zuloaga successfully revived the artistic practice of inlaying iron and steel with silver and gold in Eibar.
+
+## Trade in Southeast Asia and the Middle East
+In Burma, the primary exports are timber and rice. In 1805, rice exports for coastal and foreign trade totaled 1,419,173 tons (valued at Rs.9,77,66,132), increasing to 2,187,764 tons by 1905 (valued at Rs.15,67,28,288). While Germany, Italy, Belgium, France, and Holland consume considerable amounts, England receives the largest share of Burmese rice. Trade patterns are often affected by famines in Japan or India; for instance, over one million tons of rice were shipped to India during a famine in 1900. Rice-mills, mostly located at seaports, obtain harvests from cultivators via middlemen. Other exports include petroleum, cotton, jade, caoutchouc (india-rubber), and cutch dye. Teak exports were valued at Rs.1,34,64,303 in 1895 and Rs.1,31,03,401 in 1905. Major imports consist of woollen, silk, and cotton piece-goods, along with liquors, tobacco, sugar, gunny bags, and hardware.
+
+In the Persian Gulf, the island of Hormuz possesses extensive beds of red ochre (known locally as *gilek*), which often contain nodules of pure hematite. This material has been an important export for centuries. In 1906-1907, 10,000 tons were exported to England at a local price of 27s. per ton. In Persia, Bander Abbasi serves as a lively trade hub for imports to Khorasan and the produce of south-eastern and central Persia. Between 1890 and 1905, the average annual value of imports and exports was approximately L660,000 (L260,000 for exports and L400,000 for imports). In 1905, 237,000 of the 255,000 tons of shipping entering the port were British.
+
+## European Maritime Trade and Ports
+The port of Calais serves as the primary hub for continental passenger traffic to England via the Northern of France and South-Eastern & Chatham railways. Between 1902 and 1906, the average number of passengers between Calais and Dover was 315,012. Trade is mainly conducted with the United Kingdom. Principal exports include spirits, wines (particularly champagne), fruit, lace, glass-ware, woven goods, potatoes, straw, hay, and wool. Imports include timber, raw wool, petroleum, iron, steel, coal, cotton yarn, silk goods, and cork. From 1901 to 1905, the average annual value of exports was £8,388,000, while imports averaged £4,145,000. In 1905, 848 vessels (312,477 tons) entered the port and 857 (305,284 tons) cleared. Local industries include boat-building, brewing, saw-milling, and the manufacture of soap, biscuits, and submarine cables. Calais is also the chief French center for the manufacture of lace and tulle.
+
+In Greece, commercial activity is centered at the Peiraeus, which receives approximately 53% of all merchandise brought into the country. The area hosts 14 steam flour mills, 45 cognac distilleries, 13 engineering and shipbuilding works, as well as chemical works, dye works, tanneries, chair manufactories, soap manufactories, and a dynamite factory. While shipbuilding and engineering are advancing, export trade is limited as most produce is consumed domestically. Principal exports are marble from Pentelicus, cognac, and wine. In 1904, exports were valued at L459,565 and imports at L2,459,278. In 1905, 5,020 ships entered and cleared the port with a total tonnage of 5,796,590 tons, of which 609,822 tons belonged to 416 British ships.
+
+## Regional Commodities and Shipping
+In Sardinia, the town of Iglesias is the center of a mining district. Minerals are transported via a small railway to Portovesme and shipped from Portoscuso. In 1905, Sardinia extracted 170,236 tons of minerals valued at £765,054, consisting of 26,051 tons of blende zinc, 99,749 tons of calamine zinc, 15,429 tons of lignite, and 24,798 tons of lead. Most of these (118,009 tons) were exported from Portoscuso, with zinc primarily going to Dunkirk, Bordeaux, and Antwerp.
+
+Regarding the United Kingdom's cheese imports between 1891 and 1900, the United States saw a decline, shipping 10,000 tons less in 1900 than in 1891. France also lost market share to Belgium; French imports dropped from over 3,000 tons in 1891 to below 2,000 tons in 1900, while Belgian imports rose from less than 1,000 tons to 2,600 tons. Dutch cheese imports remained steady, reaching 17,000 tons in 1900.
+
+On the Danube, trade benefited from falling freights to North Sea ports. Sailing ships of 200 tons were replaced by steamers up to 4,000 tons register. Between 1901 and 1905, the average annual export of cereals (mostly wheat) was 13,000,000 quarters. British shipping presence grew significantly; in 1893, 905 British vessels totaling 1,287,762 tons accounted for 68% of total traffic.
+
+## Sources
+Compiled from: britannica11 vol02c banks to bassoon, britannica11 vol05a bulgaria to calgary, a history of the japanese people, britannica11 vol08a dagupan to david, britannica11 vol12a home daniel to hortensius, britannica11 vol04a arundel to athens, britannica11 vol02b baconthorpe to bankruptcy, britannica11 vol14a ichthyology to independence
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
