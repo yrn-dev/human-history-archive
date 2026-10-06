@@ -1,5 +1,5 @@
 {
- "count": 4535,
+ "count": 4536,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31745,6 +31745,13 @@
    "era": "modern",
    "file": "eras/modern/004536-van-eys-dictionnaire-basque-francais-paris-1873-de.md",
    "at": "2026-10-06T23:15:08+00:00"
+  },
+  {
+   "slug": "london-1877-1879-puyol-camps-la-epigraphia-numismatica",
+   "title": "(London, 1877 and 1879); Puyol y Camps, \"La Epigraphia Numismatica",
+   "era": "industrial",
+   "file": "eras/industrial/004537-london-1877-1879-puyol-camps-la-epigraphia-numismatica.md",
+   "at": "2026-10-06T23:25:08+00:00"
   }
  ]
 }
