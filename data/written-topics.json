@@ -1,5 +1,5 @@
 {
- "count": 4424,
+ "count": 4425,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -30968,6 +30968,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004425-saxulphus-abbot-peterborough-680-consisted-nave.md",
    "at": "2026-10-06T03:35:58+00:00"
+  },
+  {
+   "slug": "authorities---vitruvius-de-architectura-vi-huelsen",
+   "title": "AUTHORITIES.--Vitruvius, De Architectura, v. 1, vi. 3, 9; Huelsen, The",
+   "era": "ancient",
+   "file": "eras/ancient/004426-authorities---vitruvius-de-architectura-vi-huelsen.md",
+   "at": "2026-10-06T03:46:01+00:00"
   }
  ]
 }
