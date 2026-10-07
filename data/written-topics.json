@@ -1,5 +1,5 @@
 {
- "count": 4615,
+ "count": 4616,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32305,6 +32305,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004616-breslau-polish-wraclaw-city-germany-capital-prussian.md",
    "at": "2026-10-07T14:04:28+00:00"
+  },
+  {
+   "slug": "1867-171-926-1880-272-912-1885-299-640-1890-335-186-1905",
+   "title": "(1867) 171,926; (1880) 272,912; (1885) 299,640; (1890) 335,186; (1905)",
+   "era": "industrial",
+   "file": "eras/industrial/004617-1867-171-926-1880-272-912-1885-299-640-1890-335-186-1905.md",
+   "at": "2026-10-07T14:14:16+00:00"
   }
  ]
 }
