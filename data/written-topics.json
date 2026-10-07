@@ -1,5 +1,5 @@
 {
- "count": 4627,
+ "count": 4628,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32389,6 +32389,13 @@
    "era": "modern",
    "file": "eras/modern/004629-1906-town-71-163-commune-85-294-situated-north.md",
    "at": "2026-10-07T17:24:09+00:00"
+  },
+  {
+   "slug": "1680-1688-during-18th-century-fortifications-naval",
+   "title": "1680-1688. During the 18th century the fortifications and the naval",
+   "era": "renaissance",
+   "file": "eras/renaissance/004630-1680-1688-during-18th-century-fortifications-naval.md",
+   "at": "2026-10-07T17:44:03+00:00"
   }
  ]
 }
