@@ -1,5 +1,5 @@
 {
- "count": 4658,
+ "count": 4659,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32606,6 +32606,13 @@
    "era": "modern",
    "file": "eras/modern/004660-leipzig-where-he-studied-theology-four-years-some-years.md",
    "at": "2026-10-07T23:03:47+00:00"
+  },
+  {
+   "slug": "privat-docent-university-wittenberg-where-he-lectured",
+   "title": "Privat-docent at the university of Wittenberg, where he lectured on",
+   "era": "industrial",
+   "file": "eras/industrial/004661-privat-docent-university-wittenberg-where-he-lectured.md",
+   "at": "2026-10-07T23:13:43+00:00"
   }
  ]
 }
