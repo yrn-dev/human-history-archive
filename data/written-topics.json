@@ -1,5 +1,5 @@
 {
- "count": 4609,
+ "count": 4610,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32263,6 +32263,13 @@
    "era": "ancient",
    "file": "eras/ancient/004610-see-note-bre-quigny-end-vol-me-moires-de.md",
    "at": "2026-10-07T13:04:15+00:00"
+  },
+  {
+   "slug": "charmes-vol-passim-oursel-nouvelle-biographie-normande",
+   "title": "X. Charmes, vol. i. passim; N. Oursel, Nouvelle biographie normande",
+   "era": "modern",
+   "file": "eras/modern/004611-charmes-vol-passim-oursel-nouvelle-biographie-normande.md",
+   "at": "2026-10-07T13:14:19+00:00"
   }
  ]
 }
