@@ -1,5 +1,5 @@
 {
- "count": 4611,
+ "count": 4612,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32277,6 +32277,13 @@
    "era": "modern",
    "file": "eras/modern/004612-1886-catalogue-des-manuscrits-des-collections-duchesne-et.md",
    "at": "2026-10-07T13:24:30+00:00"
+  },
+  {
+   "slug": "42-495-commune-72-731-plan-city-rectangular",
+   "title": "42,495; commune, 72,731. The plan of the city is rectangular, and the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004613-42-495-commune-72-731-plan-city-rectangular.md",
+   "at": "2026-10-07T13:34:22+00:00"
   }
  ]
 }
