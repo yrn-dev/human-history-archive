@@ -1,5 +1,5 @@
 {
- "count": 4606,
+ "count": 4607,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32242,6 +32242,13 @@
    "era": "modern",
    "file": "eras/modern/004607-france-he-contributed-three-volumes-collaboration-mouchet.md",
    "at": "2026-10-07T12:34:18+00:00"
+  },
+  {
+   "slug": "1769-1783-charged-supervision-large-collection",
+   "title": "(1769-1783). Charged with the supervision of a large collection of",
+   "era": "industrial",
+   "file": "eras/industrial/004608-1769-1783-charged-supervision-large-collection.md",
+   "at": "2026-10-07T12:44:26+00:00"
   }
  ]
 }
