@@ -1,5 +1,5 @@
 {
- "count": 4640,
+ "count": 4641,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32480,6 +32480,13 @@
    "era": "industrial",
    "file": "eras/industrial/004642-1881-song-lark-1884-last-sunbeam-1885.md",
    "at": "2026-10-07T19:43:57+00:00"
+  },
+  {
+   "slug": "shepherd-star-1888-call-home-1889-last-gleanings",
+   "title": "Shepherd's Star\" (1888); \"The Call Home\" (1889); \"The Last Gleanings\"",
+   "era": "modern",
+   "file": "eras/modern/004643-shepherd-star-1888-call-home-1889-last-gleanings.md",
+   "at": "2026-10-07T19:53:55+00:00"
   }
  ]
 }
