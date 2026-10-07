@@ -1,5 +1,5 @@
 {
- "count": 4604,
+ "count": 4605,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32228,6 +32228,13 @@
    "era": "ancient",
    "file": "eras/ancient/004605-paul-de-wit-leipzig-1903-127-no-380-illust-121.md",
    "at": "2026-10-07T12:14:16+00:00"
+  },
+  {
+   "slug": "most-recently-updated-april-13-2007",
+   "title": "Most recently updated: April 13, 2007",
+   "era": "modern",
+   "file": "eras/modern/004606-most-recently-updated-april-13-2007.md",
+   "at": "2026-10-07T12:24:24+00:00"
   }
  ]
 }
