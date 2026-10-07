@@ -1,5 +1,5 @@
 {
- "count": 4619,
+ "count": 4620,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32333,6 +32333,13 @@
    "era": "modern",
    "file": "eras/modern/004620-306-000-volumes-4000-mss-so-called-bibliotheca.md",
    "at": "2026-10-07T15:04:22+00:00"
+  },
+  {
+   "slug": "history---breslau-lat-vratislavia-first-mentioned",
+   "title": "History.--Breslau (Lat. Vratislavia) is first mentioned by the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004622-history---breslau-lat-vratislavia-first-mentioned.md",
+   "at": "2026-10-07T15:34:14+00:00"
   }
  ]
 }
