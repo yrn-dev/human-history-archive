@@ -1,5 +1,5 @@
 {
- "count": 4614,
+ "count": 4615,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32298,6 +32298,13 @@
    "era": "ancient",
    "file": "eras/ancient/004615-ancient-celtic-brixia-town-cenomani-became-roman-225.md",
    "at": "2026-10-07T13:54:17+00:00"
+  },
+  {
+   "slug": "breslau-polish-wraclaw-city-germany-capital-prussian",
+   "title": "BRESLAU (Polish Wraclaw), a city of Germany, capital of the Prussian",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004616-breslau-polish-wraclaw-city-germany-capital-prussian.md",
+   "at": "2026-10-07T14:04:28+00:00"
   }
  ]
 }
