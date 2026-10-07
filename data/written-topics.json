@@ -1,5 +1,5 @@
 {
- "count": 4569,
+ "count": 4570,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31983,6 +31983,13 @@
    "era": "modern",
    "file": "eras/modern/004570-clarinette-und-der-clarinette-alto-nebst-einigen-bemerkungen-fuer.md",
    "at": "2026-10-07T05:44:43+00:00"
+  },
+  {
+   "slug": "instrumentenmacher-leipzig-freidrich-hofmeister-1826",
+   "title": "Instrumentenmacher (Leipzig, Freidrich Hofmeister, 1826, with",
+   "era": "industrial",
+   "file": "eras/industrial/004571-instrumentenmacher-leipzig-freidrich-hofmeister-1826.md",
+   "at": "2026-10-07T05:54:39+00:00"
   }
  ]
 }
