@@ -1,5 +1,5 @@
 {
- "count": 4603,
+ "count": 4604,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32221,6 +32221,13 @@
    "era": "modern",
    "file": "eras/modern/004604-british-museum-london-1908-1909-appendix-contains-list.md",
    "at": "2026-10-07T12:04:21+00:00"
+  },
+  {
+   "slug": "paul-de-wit-leipzig-1903-127-no-380-illust-121",
+   "title": "Paul de Wit (Leipzig, 1903), p. 127, No. 380, and illust. p. 121",
+   "era": "ancient",
+   "file": "eras/ancient/004605-paul-de-wit-leipzig-1903-127-no-380-illust-121.md",
+   "at": "2026-10-07T12:14:16+00:00"
   }
  ]
 }
