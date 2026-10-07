@@ -1,5 +1,5 @@
 {
- "count": 4552,
+ "count": 4553,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -31864,6 +31864,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004553-british-museum-possesses-oldest-mss-rumanian-gospels-once.md",
    "at": "2026-10-07T02:24:52+00:00"
+  },
+  {
+   "slug": "(m.-g.)",
+   "title": "(M. G.)",
+   "era": "ancient",
+   "file": "eras/ancient/004554-(m.-g.).md",
+   "at": "2026-10-07T02:34:47+00:00"
   }
  ]
 }
