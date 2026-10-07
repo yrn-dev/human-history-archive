@@ -1,5 +1,5 @@
 {
- "count": 4628,
+ "count": 4629,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32396,6 +32396,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004630-1680-1688-during-18th-century-fortifications-naval.md",
    "at": "2026-10-07T17:44:03+00:00"
+  },
+  {
+   "slug": "brest-litovsk-polish-brzesc-litevski-chron-berestie",
+   "title": "BREST-LITOVSK (Polish Brzesc-Litevski; and in the Chron. Berestie and",
+   "era": "modern",
+   "file": "eras/modern/004631-brest-litovsk-polish-brzesc-litevski-chron-berestie.md",
+   "at": "2026-10-07T17:54:07+00:00"
   }
  ]
 }
