@@ -1,5 +1,5 @@
 {
- "count": 4784,
+ "count": 4785,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33488,6 +33488,13 @@
    "era": "industrial",
    "file": "eras/industrial/004786-brick-clays---all-clays-result-denudation.md",
    "at": "2026-10-08T21:32:43+00:00"
+  },
+  {
+   "slug": "brick-clays-class-very-widely-distributed-more",
+   "title": "Brick clays of class (1) are very widely distributed, and have a more",
+   "era": "industrial",
+   "file": "eras/industrial/004787-brick-clays-class-very-widely-distributed-more.md",
+   "at": "2026-10-08T21:42:45+00:00"
   }
  ]
 }
