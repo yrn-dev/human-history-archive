@@ -1,5 +1,5 @@
 {
- "count": 4789,
+ "count": 4790,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33523,6 +33523,13 @@
    "era": "industrial",
    "file": "eras/industrial/004791-brickmaking---bricks-made-tempered-clay-may-made-hand.md",
    "at": "2026-10-08T22:22:45+00:00"
+  },
+  {
+   "slug": "machine-made-bricks-may-divided-two-kinds-plastic",
+   "title": "Machine-made bricks may be divided into two kinds, plastic and",
+   "era": "industrial",
+   "file": "eras/industrial/004792-machine-made-bricks-may-divided-two-kinds-plastic.md",
+   "at": "2026-10-08T22:32:42+00:00"
   }
  ]
 }
