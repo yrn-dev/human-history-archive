@@ -1,5 +1,5 @@
 {
- "count": 4733,
+ "count": 4734,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33131,6 +33131,13 @@
    "era": "industrial",
    "file": "eras/industrial/004735-160-wort-boiling-hops-cooling-much.md",
    "at": "2026-10-08T12:13:11+00:00"
+  },
+  {
+   "slug": "gas-escapes-rapidly-when-pressure-released-temperature",
+   "title": "The gas escapes rapidly when the pressure is released, the temperature",
+   "era": "industrial",
+   "file": "eras/industrial/004736-gas-escapes-rapidly-when-pressure-released-temperature.md",
+   "at": "2026-10-08T12:23:20+00:00"
   }
  ]
 }
