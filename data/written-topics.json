@@ -1,5 +1,5 @@
 {
- "count": 4744,
+ "count": 4745,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33208,6 +33208,13 @@
    "era": "industrial",
    "file": "eras/industrial/004746-thatcher-brewing-malting-london-1898-julian-baker.md",
    "at": "2026-10-08T14:03:15+00:00"
+  },
+  {
+   "slug": "brewing-industry-london-1905-lintner-grundriss-der",
+   "title": "Brewing Industry (London, 1905); E.J. Lintner, Grundriss der",
+   "era": "industrial",
+   "file": "eras/industrial/004747-brewing-industry-london-1905-lintner-grundriss-der.md",
+   "at": "2026-10-08T14:13:06+00:00"
   }
  ]
 }
