@@ -1,5 +1,5 @@
 {
- "count": 4754,
+ "count": 4755,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33278,6 +33278,13 @@
    "era": "industrial",
    "file": "eras/industrial/004756-1824-treatise-optics-1831-letters-natural-magic-addressed.md",
    "at": "2026-10-08T15:53:29+00:00"
+  },
+  {
+   "slug": "robert-cushman-1580-1625-obtained-london-behalf-his",
+   "title": "Robert Cushman (c. 1580-1625), obtained in London, on behalf of his",
+   "era": "renaissance",
+   "file": "eras/renaissance/004757-robert-cushman-1580-1625-obtained-london-behalf-his.md",
+   "at": "2026-10-08T16:02:55+00:00"
   }
  ]
 }
