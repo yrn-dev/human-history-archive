@@ -1,5 +1,5 @@
 {
- "count": 4701,
+ "count": 4702,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32907,6 +32907,13 @@
    "era": "ancient",
    "file": "eras/ancient/004703-cimbri-used-tamarix-germanica-scandinavians-fruit.md",
    "at": "2026-10-08T06:45:02+00:00"
+  },
+  {
+   "slug": "brewing-9th-edition-encyclopaedia-britannica",
+   "title": "Brewing in the 9th edition of the Encyclopaedia Britannica was of the",
+   "era": "modern",
+   "file": "eras/modern/004704-brewing-9th-edition-encyclopaedia-britannica.md",
+   "at": "2026-10-08T06:54:42+00:00"
   }
  ]
 }
