@@ -1,5 +1,5 @@
 {
- "count": 4727,
+ "count": 4728,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33089,6 +33089,13 @@
    "era": "industrial",
    "file": "eras/industrial/004729-skimmer-parachute-attemperator.md",
    "at": "2026-10-08T11:13:07+00:00"
+  },
+  {
+   "slug": "skimming-system-fermentation-start-finish",
+   "title": "(A) In (a) the Skimming System the fermentation from start to finish",
+   "era": "industrial",
+   "file": "eras/industrial/004730-skimming-system-fermentation-start-finish.md",
+   "at": "2026-10-08T11:23:08+00:00"
   }
  ]
 }
