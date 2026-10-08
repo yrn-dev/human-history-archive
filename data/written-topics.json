@@ -1,5 +1,5 @@
 {
- "count": 4728,
+ "count": 4729,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33096,6 +33096,13 @@
    "era": "industrial",
    "file": "eras/industrial/004730-skimming-system-fermentation-start-finish.md",
    "at": "2026-10-08T11:23:08+00:00"
+  },
+  {
+   "slug": "stone-square-system-which-only-used-certain-extent",
+   "title": "(B) The Stone Square System, which is only used to a certain extent",
+   "era": "industrial",
+   "file": "eras/industrial/004731-stone-square-system-which-only-used-certain-extent.md",
+   "at": "2026-10-08T11:33:02+00:00"
   }
  ]
 }
