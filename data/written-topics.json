@@ -1,5 +1,5 @@
 {
- "count": 4743,
+ "count": 4744,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33201,6 +33201,13 @@
    "era": "industrial",
    "file": "eras/industrial/004745-1891-wright-handy-book-brewers-london-1897-frank.md",
    "at": "2026-10-08T13:53:04+00:00"
+  },
+  {
+   "slug": "thatcher-brewing-malting-london-1898-julian-baker",
+   "title": "Thatcher, Brewing and Malting (London, 1898); Julian L. Baker, The",
+   "era": "industrial",
+   "file": "eras/industrial/004746-thatcher-brewing-malting-london-1898-julian-baker.md",
+   "at": "2026-10-08T14:03:15+00:00"
   }
  ]
 }
