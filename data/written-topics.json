@@ -1,5 +1,5 @@
 {
- "count": 4746,
+ "count": 4747,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33222,6 +33222,13 @@
    "era": "industrial",
    "file": "eras/industrial/004748-bierbrauerei-berlin-1904-thausing-die-theorie-und-praxis-der.md",
    "at": "2026-10-08T14:22:59+00:00"
+  },
+  {
+   "slug": "malzbereitung-und-bierfabrikation-leipzig-1898-michel-lehrbuch",
+   "title": "Malzbereitung und Bierfabrikation (Leipzig, 1898); E. Michel, Lehrbuch",
+   "era": "industrial",
+   "file": "eras/industrial/004749-malzbereitung-und-bierfabrikation-leipzig-1898-michel-lehrbuch.md",
+   "at": "2026-10-08T14:32:56+00:00"
   }
  ]
 }
