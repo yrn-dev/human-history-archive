@@ -1,5 +1,5 @@
 {
- "count": 4684,
+ "count": 4685,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32788,6 +32788,13 @@
    "era": "modern",
    "file": "eras/modern/004686-monday-saturday-eighteen-sunday-omissions-said.md",
    "at": "2026-10-08T03:53:44+00:00"
+  },
+  {
+   "slug": "proprium-de-tempore-contains-office-seasons",
+   "title": "2. The Proprium de Tempore contains the office of the seasons of the",
+   "era": "renaissance",
+   "file": "eras/renaissance/004687-proprium-de-tempore-contains-office-seasons.md",
+   "at": "2026-10-08T04:03:28+00:00"
   }
  ]
 }
