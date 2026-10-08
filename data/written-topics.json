@@ -1,5 +1,5 @@
 {
- "count": 4700,
+ "count": 4701,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32900,6 +32900,13 @@
    "era": "industrial",
    "file": "eras/industrial/004702-standard-1856-he-commissioned-master-rolls.md",
    "at": "2026-10-08T06:34:02+00:00"
+  },
+  {
+   "slug": "cimbri-used-tamarix-germanica-scandinavians-fruit",
+   "title": "Cimbri used the Tamarix germanica, the Scandinavians the fruit of the",
+   "era": "ancient",
+   "file": "eras/ancient/004703-cimbri-used-tamarix-germanica-scandinavians-fruit.md",
+   "at": "2026-10-08T06:45:02+00:00"
   }
  ]
 }
