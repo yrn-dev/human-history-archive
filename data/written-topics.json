@@ -1,5 +1,5 @@
 {
- "count": 4747,
+ "count": 4748,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33229,6 +33229,13 @@
    "era": "industrial",
    "file": "eras/industrial/004749-malzbereitung-und-bierfabrikation-leipzig-1898-michel-lehrbuch.md",
    "at": "2026-10-08T14:32:56+00:00"
+  },
+  {
+   "slug": "(p.-s.)",
+   "title": "(P. S.)",
+   "era": "ancient",
+   "file": "eras/ancient/004750-(p.-s.).md",
+   "at": "2026-10-08T14:43:01+00:00"
   }
  ]
 }
