@@ -1,5 +1,5 @@
 {
- "count": 4709,
+ "count": 4710,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32963,6 +32963,13 @@
    "era": "industrial",
    "file": "eras/industrial/004711-taxation-beer-foreign-countries---the-following-table-shows.md",
    "at": "2026-10-08T08:03:24+00:00"
+  },
+  {
+   "slug": "germany---",
+   "title": "Germany --",
+   "era": "modern",
+   "file": "eras/modern/004712-germany---.md",
+   "at": "2026-10-08T08:13:21+00:00"
   }
  ]
 }
