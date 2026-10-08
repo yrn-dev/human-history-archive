@@ -1,5 +1,5 @@
 {
- "count": 4685,
+ "count": 4686,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32795,6 +32795,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/004687-proprium-de-tempore-contains-office-seasons.md",
    "at": "2026-10-08T04:03:28+00:00"
+  },
+  {
+   "slug": "proprium-sanctorum-contains-lessons-psalms-liturgical",
+   "title": "3. The Proprium Sanctorum contains the lessons, psalms and liturgical",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004688-proprium-sanctorum-contains-lessons-psalms-liturgical.md",
+   "at": "2026-10-08T04:13:31+00:00"
   }
  ]
 }
