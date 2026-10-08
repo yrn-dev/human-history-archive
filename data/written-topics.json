@@ -1,5 +1,5 @@
 {
- "count": 4766,
+ "count": 4767,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33362,6 +33362,13 @@
    "era": "modern",
    "file": "eras/modern/004768-his-most-important-publications-la-fortification-du-temps-pre-sent.md",
    "at": "2026-10-08T18:22:44+00:00"
+  },
+  {
+   "slug": "la-de-fense-des-tats-et-la-fortification-la-fin-du-xix-sie-cle",
+   "title": "La Défense des états et la fortification à la fin du XIX^e siècle",
+   "era": "industrial",
+   "file": "eras/industrial/004769-la-de-fense-des-tats-et-la-fortification-la-fin-du-xix-sie-cle.md",
+   "at": "2026-10-08T18:32:48+00:00"
   }
  ]
 }
