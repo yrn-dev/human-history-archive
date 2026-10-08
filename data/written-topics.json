@@ -1,5 +1,5 @@
 {
- "count": 4666,
+ "count": 4667,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32662,6 +32662,13 @@
    "era": "modern",
    "file": "eras/modern/004668-testament-1826-he-published-apologie-der-neuern-theologie-des.md",
    "at": "2026-10-08T00:23:54+00:00"
+  },
+  {
+   "slug": "bretschneider-gotha-1851-which-translation-notes",
+   "title": "Bretschneider (Gotha, 1851), of which a translation, with notes, by",
+   "era": "industrial",
+   "file": "eras/industrial/004669-bretschneider-gotha-1851-which-translation-notes.md",
+   "at": "2026-10-08T00:33:48+00:00"
   }
  ]
 }
