@@ -1,5 +1,5 @@
 {
- "count": 4696,
+ "count": 4697,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32872,6 +32872,13 @@
    "era": "ancient",
    "file": "eras/ancient/004698-1893-eng-tr-baudot-le-bre-viaire-romain-1907-complete.md",
    "at": "2026-10-08T05:53:33+00:00"
+  },
+  {
+   "slug": "jura-circumstance-breviarium-prefixed",
+   "title": "(jura). From the circumstance that the Breviarium has prefixed to it a",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004699-jura-circumstance-breviarium-prefixed.md",
+   "at": "2026-10-08T06:03:25+00:00"
   }
  ]
 }
