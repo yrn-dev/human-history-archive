@@ -1,5 +1,5 @@
 {
- "count": 4676,
+ "count": 4677,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32732,6 +32732,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/004678-breviary-offices-some-parts-prefaces-beginning.md",
    "at": "2026-10-08T02:33:43+00:00"
+  },
+  {
+   "slug": "historically-proceeded-labours-jean-de-launoy",
+   "title": "Historically, this proceeded from the labours of Jean de Launoy",
+   "era": "modern",
+   "file": "eras/modern/004679-historically-proceeded-labours-jean-de-launoy.md",
+   "at": "2026-10-08T02:43:32+00:00"
   }
  ]
 }
