@@ -1,5 +1,5 @@
 {
- "count": 4711,
+ "count": 4712,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -32977,6 +32977,13 @@
    "era": "industrial",
    "file": "eras/industrial/004713-silica-22.md",
    "at": "2026-10-08T08:23:29+00:00"
+  },
+  {
+   "slug": "our-knowledge-essential-chemical-constituents-brewing-waters",
+   "title": "Our knowledge of the essential chemical constituents of brewing waters",
+   "era": "industrial",
+   "file": "eras/industrial/004714-our-knowledge-essential-chemical-constituents-brewing-waters.md",
+   "at": "2026-10-08T08:33:17+00:00"
   }
  ]
 }
