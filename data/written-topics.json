@@ -1,5 +1,5 @@
 {
- "count": 4723,
+ "count": 4724,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33061,6 +33061,13 @@
    "era": "industrial",
    "file": "eras/industrial/004725-filter-press-process---the-ordinary-mash-tun-process-described.md",
    "at": "2026-10-08T10:33:15+00:00"
+  },
+  {
+   "slug": "fermenting---by-process-fermentation-wort-converted",
+   "title": "Fermenting.--By the process of fermentation the wort is converted into",
+   "era": "industrial",
+   "file": "eras/industrial/004726-fermenting---by-process-fermentation-wort-converted.md",
+   "at": "2026-10-08T10:43:15+00:00"
   }
  ]
 }
