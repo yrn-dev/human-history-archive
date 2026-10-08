@@ -1,5 +1,5 @@
 {
- "count": 4745,
+ "count": 4746,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33215,6 +33215,13 @@
    "era": "industrial",
    "file": "eras/industrial/004747-brewing-industry-london-1905-lintner-grundriss-der.md",
    "at": "2026-10-08T14:13:06+00:00"
+  },
+  {
+   "slug": "bierbrauerei-berlin-1904-thausing-die-theorie-und-praxis-der",
+   "title": "Bierbrauerei (Berlin, 1904); J.E. Thausing, Die Theorie und Praxis der",
+   "era": "industrial",
+   "file": "eras/industrial/004748-bierbrauerei-berlin-1904-thausing-die-theorie-und-praxis-der.md",
+   "at": "2026-10-08T14:22:59+00:00"
   }
  ]
 }
