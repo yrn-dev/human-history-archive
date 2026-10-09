@@ -1,5 +1,5 @@
 {
- "count": 4918,
+ "count": 4919,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34426,6 +34426,13 @@
    "era": "industrial",
    "file": "eras/industrial/004920-maximum-axle-load-tons-19-00-16-00-18-70-18-50.md",
    "at": "2026-10-09T21:11:29+00:00"
+  },
+  {
+   "slug": "total-weight-tons-77-90-78-80-76-46-75-65",
+   "title": "Total weight, tons .......... 77.90 | 78.80 | 76.46 | 75.65",
+   "era": "industrial",
+   "file": "eras/industrial/004921-total-weight-tons-77-90-78-80-76-46-75-65.md",
+   "at": "2026-10-09T21:21:30+00:00"
   }
  ]
 }
