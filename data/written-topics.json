@@ -1,5 +1,5 @@
 {
- "count": 4806,
+ "count": 4807,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33642,6 +33642,13 @@
    "era": "ancient",
    "file": "eras/ancient/004808-moulded-bricks-cornices-string-courses-plinths-labels.md",
    "at": "2026-10-09T01:22:31+00:00"
+  },
+  {
+   "slug": "39-29-tons-per-sq-ft-gault-brickwork-lime-mortar-crushed-31-14",
+   "title": "39.29 tons per sq. ft. Gault brickwork in lime mortar crushed at 31.14",
+   "era": "industrial",
+   "file": "eras/industrial/004809-39-29-tons-per-sq-ft-gault-brickwork-lime-mortar-crushed-31-14.md",
+   "at": "2026-10-09T01:32:35+00:00"
   }
  ]
 }
