@@ -1,5 +1,5 @@
 {
- "count": 4819,
+ "count": 4820,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33733,6 +33733,13 @@
    "era": "industrial",
    "file": "eras/industrial/004821-fixing-bricks-formerly-wood-same-size-ordinary.md",
    "at": "2026-10-09T03:32:23+00:00"
+  },
+  {
+   "slug": "another-method-often-adopted-04-0527-providing-fixing",
+   "title": "Another method often adopted for [v.04 p.0527] providing a fixing for",
+   "era": "modern",
+   "file": "eras/modern/004822-another-method-often-adopted-04-0527-providing-fixing.md",
+   "at": "2026-10-09T03:42:17+00:00"
   }
  ]
 }
