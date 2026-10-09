@@ -1,5 +1,5 @@
 {
- "count": 4920,
+ "count": 4921,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34440,6 +34440,13 @@
    "era": "modern",
    "file": "eras/modern/004922-100-97.md",
    "at": "2026-10-09T21:31:33+00:00"
+  },
+  {
+   "slug": "fig-36",
+   "title": "FIG. 36.]",
+   "era": "industrial",
+   "file": "eras/industrial/004923-fig-36.md",
+   "at": "2026-10-09T21:41:33+00:00"
   }
  ]
 }
