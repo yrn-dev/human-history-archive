@@ -1,5 +1,5 @@
 {
- "count": 4868,
+ "count": 4869,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34076,6 +34076,13 @@
    "era": "industrial",
    "file": "eras/industrial/004870-girders-max-am-ende-proc-inst-cxxxvii-306.md",
    "at": "2026-10-09T12:32:03+00:00"
+  },
+  {
+   "slug": "most-remarkable-bridge-constructed-system-niagara",
+   "title": "The most remarkable bridge constructed on this system was the Niagara",
+   "era": "industrial",
+   "file": "eras/industrial/004871-most-remarkable-bridge-constructed-system-niagara.md",
+   "at": "2026-10-09T12:41:56+00:00"
   }
  ]
 }
