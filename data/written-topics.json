@@ -1,5 +1,5 @@
 {
- "count": 4915,
+ "count": 4916,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34405,6 +34405,13 @@
    "era": "industrial",
    "file": "eras/industrial/004917-total-weights-tons-84-35-98-90-91-90-85-48.md",
    "at": "2026-10-09T20:41:31+00:00"
+  },
+  {
+   "slug": "tons-per-ft-all-58-71-62-61",
+   "title": "Tons per ft. over all .......  1.58 |  1.71 |  1.62 |  1.61",
+   "era": "industrial",
+   "file": "eras/industrial/004918-tons-per-ft-all-58-71-62-61.md",
+   "at": "2026-10-09T20:51:34+00:00"
   }
  ]
 }
