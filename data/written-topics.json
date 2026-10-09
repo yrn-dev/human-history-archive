@@ -1,5 +1,5 @@
 {
- "count": 4905,
+ "count": 4906,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34335,6 +34335,13 @@
    "era": "industrial",
    "file": "eras/industrial/004907-17-metal-bridges-wrought-iron-been-replaced-mild-steel--a.md",
    "at": "2026-10-09T19:02:21+00:00"
+  },
+  {
+   "slug": "specification-bridge-material-drawn-up-british",
+   "title": "In the specification for bridge material, drawn up by the British",
+   "era": "industrial",
+   "file": "eras/industrial/004908-specification-bridge-material-drawn-up-british.md",
+   "at": "2026-10-09T19:11:32+00:00"
   }
  ]
 }
