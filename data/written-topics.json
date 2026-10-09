@@ -1,5 +1,5 @@
 {
- "count": 4871,
+ "count": 4872,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34097,6 +34097,13 @@
    "era": "industrial",
    "file": "eras/industrial/004873-183-diameter-each-weighs-1116-tons-nominal.md",
    "at": "2026-10-09T13:02:02+00:00"
+  },
+  {
+   "slug": "16-diameter-wire-required",
+   "title": "B.W.G., or about 3/16 in. in diameter. The wire was required to have a",
+   "era": "industrial",
+   "file": "eras/industrial/004874-16-diameter-wire-required.md",
+   "at": "2026-10-09T13:12:03+00:00"
   }
  ]
 }
