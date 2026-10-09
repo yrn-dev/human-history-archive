@@ -1,5 +1,5 @@
 {
- "count": 4857,
+ "count": 4858,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33999,6 +33999,13 @@
    "era": "industrial",
    "file": "eras/industrial/004859-suspension-bridges-principal-members-tension.md",
    "at": "2026-10-09T10:32:03+00:00"
+  },
+  {
+   "slug": "history-bridge-building",
+   "title": "HISTORY OF BRIDGE BUILDING",
+   "era": "industrial",
+   "file": "eras/industrial/004860-history-bridge-building.md",
+   "at": "2026-10-09T10:42:09+00:00"
   }
  ]
 }
