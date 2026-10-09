@@ -1,5 +1,5 @@
 {
- "count": 4858,
+ "count": 4859,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34006,6 +34006,13 @@
    "era": "industrial",
    "file": "eras/industrial/004860-history-bridge-building.md",
    "at": "2026-10-09T10:42:09+00:00"
+  },
+  {
+   "slug": "roman-bridges---the-first-bridge-known-been-constructed",
+   "title": "4. Roman Bridges.--The first bridge known to have been constructed at",
+   "era": "ancient",
+   "file": "eras/ancient/004861-roman-bridges---the-first-bridge-known-been-constructed.md",
+   "at": "2026-10-09T10:52:27+00:00"
   }
  ]
 }
