@@ -1,5 +1,5 @@
 {
- "count": 4846,
+ "count": 4847,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33922,6 +33922,13 @@
    "era": "industrial",
    "file": "eras/industrial/004848-bridgeport-city-port-entry-one-county-seats.md",
    "at": "2026-10-09T08:42:14+00:00"
+  },
+  {
+   "slug": "fairfield-county-connecticut-co-extensive-town",
+   "title": "Fairfield county, Connecticut, U.S.A., co-extensive with the town of",
+   "era": "modern",
+   "file": "eras/modern/004849-fairfield-county-connecticut-co-extensive-town.md",
+   "at": "2026-10-09T08:52:28+00:00"
   }
  ]
 }
