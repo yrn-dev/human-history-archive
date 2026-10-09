@@ -1,5 +1,5 @@
 {
- "count": 4861,
+ "count": 4862,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34027,6 +34027,13 @@
    "era": "industrial",
    "file": "eras/industrial/004863-engineers-rennie.md",
    "at": "2026-10-09T11:12:03+00:00"
+  },
+  {
+   "slug": "macmillan-co-ltd",
+   "title": "Macmillan & Co., Ltd.]",
+   "era": "industrial",
+   "file": "eras/industrial/004864-macmillan-co-ltd.md",
+   "at": "2026-10-09T11:21:53+00:00"
   }
  ]
 }
