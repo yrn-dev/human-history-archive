@@ -1,5 +1,5 @@
 {
- "count": 4922,
+ "count": 4923,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34454,6 +34454,13 @@
    "era": "industrial",
    "file": "eras/industrial/004924-dead-load-per-cent.md",
    "at": "2026-10-09T21:51:25+00:00"
+  },
+  {
+   "slug": "ratio-live-dead",
+   "title": "Ratio of live to dead |    |    |    |    |    |    |    |",
+   "era": "industrial",
+   "file": "eras/industrial/004925-ratio-live-dead.md",
+   "at": "2026-10-09T22:01:24+00:00"
   }
  ]
 }
