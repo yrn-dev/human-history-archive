@@ -1,5 +1,5 @@
 {
- "count": 4916,
+ "count": 4917,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34412,6 +34412,13 @@
    "era": "industrial",
    "file": "eras/industrial/004918-tons-per-ft-all-58-71-62-61.md",
    "at": "2026-10-09T20:51:34+00:00"
+  },
+  {
+   "slug": "tons-per-ft-wheel-base-92-04-97-95",
+   "title": "Tons per ft. of wheel base ..  1.92 |  2.04 |  1.97 |  1.95",
+   "era": "industrial",
+   "file": "eras/industrial/004919-tons-per-ft-wheel-base-92-04-97-95.md",
+   "at": "2026-10-09T21:01:27+00:00"
   }
  ]
 }
