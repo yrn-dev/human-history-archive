@@ -1,5 +1,5 @@
 {
- "count": 4917,
+ "count": 4918,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34419,6 +34419,13 @@
    "era": "industrial",
    "file": "eras/industrial/004919-tons-per-ft-wheel-base-92-04-97-95.md",
    "at": "2026-10-09T21:01:27+00:00"
+  },
+  {
+   "slug": "maximum-axle-load-tons-19-00-16-00-18-70-18-50",
+   "title": "Maximum axle load, tons ..... 19.00 | 16.00 | 18.70 | 18.50",
+   "era": "industrial",
+   "file": "eras/industrial/004920-maximum-axle-load-tons-19-00-16-00-18-70-18-50.md",
+   "at": "2026-10-09T21:11:29+00:00"
   }
  ]
 }
