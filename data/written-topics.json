@@ -1,5 +1,5 @@
 {
- "count": 4810,
+ "count": 4811,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33670,6 +33670,13 @@
    "era": "industrial",
    "file": "eras/industrial/004812-building-act-requires-projection-concrete-each-side.md",
    "at": "2026-10-09T02:02:29+00:00"
+  },
+  {
+   "slug": "another-method-bonding-brickwork-instead-placing-bricks",
+   "title": "Another method of bonding brickwork, instead of placing the bricks in",
+   "era": "industrial",
+   "file": "eras/industrial/004813-another-method-bonding-brickwork-instead-placing-bricks.md",
+   "at": "2026-10-09T02:12:21+00:00"
   }
  ]
 }
