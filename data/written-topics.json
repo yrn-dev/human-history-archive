@@ -1,5 +1,5 @@
 {
- "count": 4856,
+ "count": 4857,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33992,6 +33992,13 @@
    "era": "industrial",
    "file": "eras/industrial/004858-types-bridges---bridges-may-classed-arched-bridges.md",
    "at": "2026-10-09T10:22:09+00:00"
+  },
+  {
+   "slug": "suspension-bridges-principal-members-tension",
+   "title": "In suspension bridges the principal members are in tension, and the",
+   "era": "industrial",
+   "file": "eras/industrial/004859-suspension-bridges-principal-members-tension.md",
+   "at": "2026-10-09T10:32:03+00:00"
   }
  ]
 }
