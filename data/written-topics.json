@@ -1,5 +1,5 @@
 {
- "count": 4925,
+ "count": 4926,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34475,6 +34475,13 @@
    "era": "industrial",
    "file": "eras/industrial/004927-trans-am-soc-xli-latter-used-recording-deflectometer.md",
    "at": "2026-10-09T22:21:20+00:00"
+  },
+  {
+   "slug": "50-girder-spans-less-than-50-ft-percentage-decreases",
+   "title": "50% for girder spans of less than 50 ft. (3) This percentage decreases",
+   "era": "industrial",
+   "file": "eras/industrial/004928-50-girder-spans-less-than-50-ft-percentage-decreases.md",
+   "at": "2026-10-09T22:31:27+00:00"
   }
  ]
 }
