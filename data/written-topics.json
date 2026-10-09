@@ -1,5 +1,5 @@
 {
- "count": 4896,
+ "count": 4897,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34272,6 +34272,13 @@
    "era": "industrial",
    "file": "eras/industrial/004898-fixed-bearings-running-wheels-fourteen-each.md",
    "at": "2026-10-09T17:31:43+00:00"
+  },
+  {
+   "slug": "15-substructure-bridge-comprises-piers-abutments",
+   "title": "15. The substructure of a bridge comprises the piers, abutments and",
+   "era": "industrial",
+   "file": "eras/industrial/004899-15-substructure-bridge-comprises-piers-abutments.md",
+   "at": "2026-10-09T17:41:42+00:00"
   }
  ]
 }
