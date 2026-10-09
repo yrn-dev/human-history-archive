@@ -1,5 +1,5 @@
 {
- "count": 4842,
+ "count": 4843,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33894,6 +33894,13 @@
    "era": "industrial",
    "file": "eras/industrial/004844-bridge-head-fr-te-te-du-pont-fortification-work-designed.md",
    "at": "2026-10-09T08:02:00+00:00"
+  },
+  {
+   "slug": "bridgend-market-town-southern-parliamentary-division",
+   "title": "BRIDGEND, a market town in the southern parliamentary division of",
+   "era": "modern",
+   "file": "eras/modern/004845-bridgend-market-town-southern-parliamentary-division.md",
+   "at": "2026-10-09T08:12:00+00:00"
   }
  ]
 }
