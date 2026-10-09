@@ -1,5 +1,5 @@
 {
- "count": 4821,
+ "count": 4822,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33747,6 +33747,13 @@
    "era": "cultures",
    "file": "eras/cultures/004823-name-brick-ashlar-given-walls-faced-ashlar-stonework.md",
    "at": "2026-10-09T03:52:22+00:00"
+  },
+  {
+   "slug": "fireplaces-generally-require-more-depth-than-can-provided",
+   "title": "Fireplaces generally require more depth than can be provided in the",
+   "era": "industrial",
+   "file": "eras/industrial/004824-fireplaces-generally-require-more-depth-than-can-provided.md",
+   "at": "2026-10-09T04:02:25+00:00"
   }
  ]
 }
