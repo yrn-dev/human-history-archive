@@ -1,5 +1,5 @@
 {
- "count": 4933,
+ "count": 4934,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34531,6 +34531,13 @@
    "era": "industrial",
    "file": "eras/industrial/004935-see-trans-am-soc-xli-156.md",
    "at": "2026-10-09T23:41:46+00:00"
+  },
+  {
+   "slug": "method-weyrauch-launhardt-based-empirical",
+   "title": "The method of J.J. Weyrauch and W. Launhardt, based on an empirical",
+   "era": "industrial",
+   "file": "eras/industrial/004936-method-weyrauch-launhardt-based-empirical.md",
+   "at": "2026-10-09T23:51:50+00:00"
   }
  ]
 }
