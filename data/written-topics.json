@@ -1,5 +1,5 @@
 {
- "count": 4805,
+ "count": 4806,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33635,6 +33635,13 @@
    "era": "industrial",
    "file": "eras/industrial/004807-glazed-bricks-either-salt-glazed-enamelled-former-brown.md",
    "at": "2026-10-09T01:12:30+00:00"
+  },
+  {
+   "slug": "moulded-bricks-cornices-string-courses-plinths-labels",
+   "title": "Moulded bricks, for cornices, string courses, plinths, labels and",
+   "era": "ancient",
+   "file": "eras/ancient/004808-moulded-bricks-cornices-string-courses-plinths-labels.md",
+   "at": "2026-10-09T01:22:31+00:00"
   }
  ]
 }
