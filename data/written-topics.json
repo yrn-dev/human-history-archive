@@ -1,5 +1,5 @@
 {
- "count": 4844,
+ "count": 4845,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33908,6 +33908,13 @@
    "era": "industrial",
    "file": "eras/industrial/004846-western-railway-junction-barry-company-railway.md",
    "at": "2026-10-09T08:22:14+00:00"
+  },
+  {
+   "slug": "barry-via-llantwit-major-bridgend-good-market-agricultural",
+   "title": "Barry via Llantwit Major. Bridgend has a good market for agricultural",
+   "era": "modern",
+   "file": "eras/modern/004847-barry-via-llantwit-major-bridgend-good-market-agricultural.md",
+   "at": "2026-10-09T08:32:13+00:00"
   }
  ]
 }
