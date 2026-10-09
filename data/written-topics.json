@@ -1,5 +1,5 @@
 {
- "count": 4843,
+ "count": 4844,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -33901,6 +33901,13 @@
    "era": "modern",
    "file": "eras/modern/004845-bridgend-market-town-southern-parliamentary-division.md",
    "at": "2026-10-09T08:12:00+00:00"
+  },
+  {
+   "slug": "western-railway-junction-barry-company-railway",
+   "title": "Western railway, and is the junction of the Barry Company's railway to",
+   "era": "industrial",
+   "file": "eras/industrial/004846-western-railway-junction-barry-company-railway.md",
+   "at": "2026-10-09T08:22:14+00:00"
   }
  ]
 }
