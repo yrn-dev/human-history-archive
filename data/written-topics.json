@@ -1,5 +1,5 @@
 {
- "count": 4911,
+ "count": 4912,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34377,6 +34377,13 @@
    "era": "industrial",
    "file": "eras/industrial/004913-equivalent-load-tons-per-ft-run.md",
    "at": "2026-10-09T20:01:40+00:00"
+  },
+  {
+   "slug": "case-75-95-70-73-72",
+   "title": "Case a ............................. |1.75|0.95|0.70|0.73|0.72|",
+   "era": "modern",
+   "file": "eras/modern/004914-case-75-95-70-73-72.md",
+   "at": "2026-10-09T20:11:33+00:00"
   }
  ]
 }
