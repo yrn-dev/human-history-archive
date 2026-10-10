@@ -1,5 +1,5 @@
 {
- "count": 5059,
+ "count": 5060,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35413,6 +35413,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005061-logarithmorum-chilias-prima-london-1617-8vo-lucubrationes-et.md",
    "at": "2026-10-10T21:50:06+00:00"
+  },
+  {
+   "slug": "elementorum-vi-libri-priores-london-1620-folio-treatise",
+   "title": "Elementorum VI. libri priores (London, 1620. folio); A Treatise on the",
+   "era": "renaissance",
+   "file": "eras/renaissance/005062-elementorum-vi-libri-priores-london-1620-folio-treatise.md",
+   "at": "2026-10-10T22:00:05+00:00"
   }
  ]
 }
