@@ -1,5 +1,5 @@
 {
- "count": 5002,
+ "count": 5003,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35014,6 +35014,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005004-george-ramsey-sold-1633-thirteen-inhabitants-town.md",
    "at": "2026-10-10T12:00:34+00:00"
+  },
+  {
+   "slug": "alexander-hood-entering-navy-january-1741-he-appointed",
+   "title": "Alexander Hood. Entering the navy in January 1741, he was appointed",
+   "era": "industrial",
+   "file": "eras/industrial/005005-alexander-hood-entering-navy-january-1741-he-appointed.md",
+   "at": "2026-10-10T12:10:33+00:00"
   }
  ]
 }
