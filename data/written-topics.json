@@ -1,5 +1,5 @@
 {
- "count": 5012,
+ "count": 5013,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35084,6 +35084,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005014-brief-lat-brevis-short-english-legal-practice-written.md",
    "at": "2026-10-10T13:40:36+00:00"
+  },
+  {
+   "slug": "united-states-word-certain-extent-different",
+   "title": "In the United States the word has, to a certain extent, a different",
+   "era": "modern",
+   "file": "eras/modern/005015-united-states-word-certain-extent-different.md",
+   "at": "2026-10-10T13:50:27+00:00"
   }
  ]
 }
