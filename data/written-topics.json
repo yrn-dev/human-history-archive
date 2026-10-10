@@ -1,5 +1,5 @@
 {
- "count": 5035,
+ "count": 5036,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35245,6 +35245,13 @@
    "era": "modern",
    "file": "eras/modern/005037-brigandage-greece-southern-italy-corsica-spain-deeper.md",
    "at": "2026-10-10T17:40:33+00:00"
+  },
+  {
+   "slug": "brigands-morea-rev-bagdon-london-1868",
+   "title": "Brigands of the Morea, by the Rev. J.O. Bagdon (London, 1868). The",
+   "era": "modern",
+   "file": "eras/modern/005038-brigands-morea-rev-bagdon-london-1868.md",
+   "at": "2026-10-10T17:50:19+00:00"
   }
  ]
 }
