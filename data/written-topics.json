@@ -1,5 +1,5 @@
 {
- "count": 5011,
+ "count": 5012,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35077,6 +35077,13 @@
    "era": "cultures",
    "file": "eras/cultures/005013-grand-morin-petit-morin-tributaries-marne-chief.md",
    "at": "2026-10-10T13:30:30+00:00"
+  },
+  {
+   "slug": "brief-lat-brevis-short-english-legal-practice-written",
+   "title": "BRIEF (Lat. brevis, short), in English legal practice, the written",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005014-brief-lat-brevis-short-english-legal-practice-written.md",
+   "at": "2026-10-10T13:40:36+00:00"
   }
  ]
 }
