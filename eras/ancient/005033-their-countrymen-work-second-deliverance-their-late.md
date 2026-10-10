@@ -1,0 +1,27 @@
+# Deliverance and Restoration in Ancient and Classical History
+
+The historical record contains various instances where peoples or cities sought deliverance from oppression, the restoration of lost independence, or the recovery of their national strength following periods of catastrophe. These efforts ranged from the physical reconstruction of fortifications to military expeditions and the leadership of individual deliverers.
+
+## The Restoration of Athens under Konon
+In the fourth century B.C., Athens sought to restore its lost strength and independence. Konon, who had served as one of the joint admirals nominated after the disgrace of Alkibiades in 407 B.C., had previously parted with his countrymen during the catastrophe of Ægospotami in 405 B.C. At that time, he had managed to preserve a small fraction of eight or nine ships from a noble fleet that otherwise would have been captured by Lysander.
+
+Konon returned in 393 B.C., described as a deliverer of his country and a "second Themistokles." With funds provided by Pharnabazus, he energetically employed masons and carpenters to rebuild the city's fortifications. This work received zealous volunteer aid from neighbors, including the Bœotians, despite the fact that eleven years prior, those same neighbors had celebrated the demolition of the former walls. By the end of that summer and autumn, the work was completed without opposition. Athens regained its fortified harbor at Peiræus and a pair of parallel Long Walls connecting the harbor to the city. While the Phalêric Wall—a single wall stretching to Phalêrum—was not restored, it was deemed unnecessary for security. To commemorate these events, Konon erected a temple to the Knidian Aphroditê in Peiræus and placed a golden wreath in the acropolis. The Athenian people honored him with a statue and a public vote recording his exploits.
+
+## Theban Expeditions and the Captivity of Pelopidas
+In Thessaly, the influence of Thebes suffered a fatal blow following a failed expedition, which resulted in the deposition and fining of the unsuccessful Bœotarchs. During this period, Alexander reigned in Thessaly as an irresistible victor. He was characterized by habitual cruelties and oppressions, including the mass slaughter of unarmed citizens in Skotussa and Melibœa.
+
+Pelopidas, a Theban, was held as a prisoner in Alexander's dungeon. Despite his situation, Pelopidas maintained a language of provocation and unsubdued defiance. Alexander eventually spared his life, partly due to the sympathy of many Thessalians and the influence of his wife, Thêbê, as well as a fear of incurring the implacable enmity of Thebes. Pelopidas remained a prisoner for some time until the Thebans, having been discouraged by their late ill-success, felt prepared to undertake a second expedition.
+
+## Deliverance of the Israelites and the Assyrian Conflict
+The historical accounts of the Israelites include a miraculous deliverance from the Assyrian army. The king of Assyria had dispatched Holophernes with a powerful army to seek revenge against those who refused him succours. The nation and the city of Bethulia were reduced to extremity, though the Israelites resolved to withstand the army in the assurance that their God would defend them. The city was ultimately delivered through the courage and conduct of Judith, leading to the complete overthrow of the Assyrian army. This late overthrow of the Assyrian forces was later utilized by Cyaxares I, a brave and enterprising prince of Media, who used the advantage to conquer Upper Asia and eventually attack Nineveh to avenge his father.
+
+## Roman Deliverance and Servitude
+The history of Rome involves various shifts in dominion and attempts at deliverance. Following the decline of the original imperial center, a "second Rome" was established on the shores of the Bosphorus. Later, the conquest of Justinian brought a deliverance of the ancient metropolis, though this was characterized as a change or an aggravation of servitude, as the tyranny of the Greeks was no more inglorious than the previous Gothic dominion. In the eighth century, a religious dispute regarding the worship of images prompted the Romans to assert their independence, leading to a state where their bishop became the spiritual and temporal father of a free people.
+
+## Other Forms of National Resistance
+In various regions, people subject to invasion have used irregular warfare as a last resource for defense. In the Balkan peninsula under Turkish rule, Greeks (calling themselves *klephts*) and Slavs (calling themselves *hayduks* or *haydutzi*) viewed themselves as representatives of their people against oppressors. Similarly, Spanish irregular levies and Calabrians fighting for Ferdinand of Naples maintained national resistance against the French between 1808 and 1814. While their enemies labeled them brigands, these groups operated as partisan soldiers using skirmishes and surprises to defend their nations.
+
+## Sources
+Compiled from: josephus the wars of the jews, grote history of greece v09, grote history of greece v10, britannica11 vol03a brequigny to bulgaria, gibbon decline and fall of the roman empire, ancient history of the egyptians carthaginians assyrians babylonians medes and persians, plutarch lives v4
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
