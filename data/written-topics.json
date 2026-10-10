@@ -1,5 +1,5 @@
 {
- "count": 5029,
+ "count": 5030,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35203,6 +35203,13 @@
    "era": "industrial",
    "file": "eras/industrial/005031-artillery-brigade-field-horse-heavy-great-britain.md",
    "at": "2026-10-10T16:30:22+00:00"
+  },
+  {
+   "slug": "called-klephts-greeks-hayduks-haydutzi-slavs",
+   "title": "(called klephts by the Greeks and hayduks or haydutzi by the Slavs)",
+   "era": "modern",
+   "file": "eras/modern/005032-called-klephts-greeks-hayduks-haydutzi-slavs.md",
+   "at": "2026-10-10T16:40:21+00:00"
   }
  ]
 }
