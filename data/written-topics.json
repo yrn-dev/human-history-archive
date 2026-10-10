@@ -1,5 +1,5 @@
 {
- "count": 5015,
+ "count": 5016,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35105,6 +35105,13 @@
    "era": "industrial",
    "file": "eras/industrial/005017-opening-railway-tunnel-beneath-lo-tschen-pass-affording.md",
    "at": "2026-10-10T14:10:29+00:00"
+  },
+  {
+   "slug": "mer-squadron-privateers-which-raided-dutch-coast",
+   "title": "Mer, a squadron of privateers which raided the Dutch coast under",
+   "era": "modern",
+   "file": "eras/modern/005018-mer-squadron-privateers-which-raided-dutch-coast.md",
+   "at": "2026-10-10T14:20:25+00:00"
   }
  ]
 }
