@@ -1,5 +1,5 @@
 {
- "count": 4944,
+ "count": 4945,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34608,6 +34608,13 @@
    "era": "industrial",
    "file": "eras/industrial/004946-consider-any-section-total-shear.md",
    "at": "2026-10-10T01:31:18+00:00"
+  },
+  {
+   "slug": "r--sigma-w1-w2",
+   "title": "S = R-[Sigma](W1+W2 ...)",
+   "era": "modern",
+   "file": "eras/modern/004947-r--sigma-w1-w2.md",
+   "at": "2026-10-10T01:41:18+00:00"
   }
  ]
 }
