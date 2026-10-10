@@ -1,5 +1,5 @@
 {
- "count": 5016,
+ "count": 5017,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35112,6 +35112,13 @@
    "era": "modern",
    "file": "eras/modern/005018-mer-squadron-privateers-which-raided-dutch-coast.md",
    "at": "2026-10-10T14:20:25+00:00"
+  },
+  {
+   "slug": "brienne-la-vieille-village-11-south-brienne-le-cha-teau",
+   "title": "Brienne-la-Vieille, a village 1½ m. south of Brienne-le-Château, has a",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005019-brienne-la-vieille-village-11-south-brienne-le-cha-teau.md",
+   "at": "2026-10-10T14:30:32+00:00"
   }
  ]
 }
