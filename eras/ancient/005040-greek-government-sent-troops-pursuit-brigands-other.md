@@ -1,0 +1,28 @@
+# Brigandage in Greece and Europe
+
+Brigandage is characterized by the activities of outlaws who conduct warfare as irregular or partisan soldiers. These individuals utilize skirmishes and surprises, supporting their operations through plunder, the extortion of blackmail, and the capture of prisoners for ransom. In cases where prisoners are unable to pay, the brigands may kill them. The term "brigand" is believed to derive from the Old French *brigan*, a form of the Italian *brigante*, meaning an irregular soldier. Similarly, the term "bandit" shares this meaning; in Italy, a *bandito* was a man declared an outlaw by a proclamation known as a *bando*.
+
+## Causes and Conditions of Brigandage
+The development of brigandage is primarily attributed to bad administration, and to a lesser extent, the availability of convenient hiding places. Mountainous terrain and forests provide favorable cover for outlaws. Examples include the highlands of Scotland for "gentlemen reavers," the Apennines and mountains of Calabria for Italian *banditos*, the Sierras of Spain for *bandoleros* (banished men) and *salteadores* (raiders), and the forests of England for outlaws such as those depicted in the ballads of Robin Hood. Other examples include the "maquis" (bush) of Corsica and the bush of Australia.
+
+Despite these geographical advantages, such protections are not lasting against an intelligent police force supported by the law-abiding community. In many regions, brigandage persisted because local potentates or "maintainers" (*manuténgoli* in Italy)—including corrupt officials, great men, and political parties—found it in their interest to protect the brigands. In some instances, terrorized peasants or those profiting from selling food and clothes to the bands also provided support.
+
+## Brigandage in Greece
+Under Turkish rule, the distinction between a brigand and a victim was often blurred, as those who were not *klephts* (the Greek term for brigands) were often victims of official extortion. Certain clans, such as the Mainotes, lived by the sword under their own law to avoid being "flayed by the Turks." In the Balkan peninsula, *klephts* and the Slavic *hayduks* (or *haydutzi*) viewed themselves as representatives of their people against oppressors. The Turkish administration attempted to maintain order by allowing some of the population to carry arms to repress the *klephts*; these individuals were called *armatoli*, though they often became allies of the *klephts* rather than enemies.
+
+Following its independence, Greece suffered from extreme ill-administration under a nominal parliamentary government. Politicians frequently utilized brigands for their own purposes. The state of affairs was such that an ex-minister, S. Soteropoulos, fell into the hands of brigands, an event detailed in *The Brigands of the Morea*. His misfortunes prompted the government to adopt strong measures. Once the peasantry saw the government was earnest, they provided active support to the troops, which cleared the Morea.
+
+However, brigandage persisted. In 1870, an English party—including Count de Boyl, Mr. Herbert, Mr. Lloyd, Mr. Vyner, and Lord and Lady Muncaster—was captured at Oropos, near Marathon. The captors demanded a ransom of £25,000. While Lord and Lady Muncaster were released to secure the funds, the Greek government sent troops in pursuit of the brigands. During this pursuit, the remaining prisoners were murdered. The brigands were subsequently hunted down, captured, and executed, after which Greece became tolerably free of the issue.
+
+## Brigandage in Italy and Spain
+In Naples and Sicily, brigandage became chronic due to the survival of feudal power, competing jurisdictions, and the helplessness of the peasantry. The Bourbon dynasty reduced brigandage, but it revived during the French invasion, notably under the figure of Fra Diavolo, who transitioned from a brigand to a patriot before being executed by the French. Later, General Sir Richard Church, an English officer, suppressed the brigands by gaining the confidence of the peasantry. He brought to justice Don Ciro Anicchiarico, a priest and brigand who claimed to have murdered approximately seventy people.
+
+In Spain, brigandage was endemic in and south of the Sierra Morena. In Catalonia, it began as a conflict between peasants and the feudal exactions of landlords, later stimulated by the War of the Succession (1700-1714) and the 1640 revolt against the house of Austria. A country gentleman, Pedro Veciana, resisted brigands by arming his farm-servants, forming a group known as the Mozos of Veciana. This led the government of Philip V to commission Veciana to raise the *escuadra de Cataluna*, a special police corps. Later, the organization of *La Guardia Civil* around 1844 by the duke of Ahumada further suppressed brigandage.
+
+## Nature of the Brigand Life
+While often romanticized, the reality of brigand life was frequently grim. Bands were often recruited from men who had committed homicide due to gambling quarrels or jealousy and remained in the bands to avoid the gallows. Testimony from a reformed brigand, Passo di Lupo, indicated that murderous conflicts were constant and that bullies within the bands terrorized and robbed weaker members. Similar patterns were observed among the "dacoits" of India, though the Pindaris were described as more than brigands and the Thugs as a religious sect.
+
+## Sources
+Compiled from: britannica11 vol03a brequigny to bulgaria, plutarch lives v1, grote history of greece v05, a history of the japanese people
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
