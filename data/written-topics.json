@@ -1,5 +1,5 @@
 {
- "count": 5001,
+ "count": 5002,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35007,6 +35007,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005003-william-ii-gilbert-de-gaunt-whose-son-heir-walter-founded.md",
    "at": "2026-10-10T11:40:34+00:00"
+  },
+  {
+   "slug": "george-ramsey-sold-1633-thirteen-inhabitants-town",
+   "title": "George Ramsey, sold it in 1633 to thirteen inhabitants of the town on",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005004-george-ramsey-sold-1633-thirteen-inhabitants-town.md",
+   "at": "2026-10-10T12:00:34+00:00"
   }
  ]
 }
