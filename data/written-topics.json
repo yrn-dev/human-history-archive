@@ -1,5 +1,5 @@
 {
- "count": 5044,
+ "count": 5045,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35308,6 +35308,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005046-brigand-life-been-made-subject-much-romance-but-when.md",
    "at": "2026-10-10T19:10:29+00:00"
+  },
+  {
+   "slug": "spanish-brigandage-found-resen-historica-de-la-guardia",
+   "title": "Spanish brigandage will be found in the Reseña Historica de la Guardia",
+   "era": "modern",
+   "file": "eras/modern/005047-spanish-brigandage-found-resen-historica-de-la-guardia.md",
+   "at": "2026-10-10T19:20:17+00:00"
   }
  ]
 }
