@@ -1,5 +1,5 @@
 {
- "count": 5037,
+ "count": 5038,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35259,6 +35259,13 @@
    "era": "modern",
    "file": "eras/modern/005039-lady-muncaster-mr-vyner-mr-lloyd-mr-herbert-count-de-boyl.md",
    "at": "2026-10-10T18:00:20+00:00"
+  },
+  {
+   "slug": "greek-government-sent-troops-pursuit-brigands-other",
+   "title": "Greek government sent troops in pursuit of the brigands, and the other",
+   "era": "ancient",
+   "file": "eras/ancient/005040-greek-government-sent-troops-pursuit-brigands-other.md",
+   "at": "2026-10-10T18:10:28+00:00"
   }
  ]
 }
