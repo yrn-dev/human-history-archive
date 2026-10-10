@@ -1,5 +1,5 @@
 {
- "count": 5061,
+ "count": 5062,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35427,6 +35427,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005063-north-west-passage-south-sea-london-1622-4to-reprinted.md",
    "at": "2026-10-10T22:10:11+00:00"
+  },
+  {
+   "slug": "1624-folio-trigonometria-britannica-goudae-1663-folio-two",
+   "title": "1624, folio); Trigonometria Britannica (Goudae, 1663, folio); two",
+   "era": "renaissance",
+   "file": "eras/renaissance/005064-1624-folio-trigonometria-britannica-goudae-1663-folio-two.md",
+   "at": "2026-10-10T22:20:08+00:00"
   }
  ]
 }
