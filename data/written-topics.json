@@ -1,5 +1,5 @@
 {
- "count": 4982,
+ "count": 4983,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34874,6 +34874,13 @@
    "era": "industrial",
    "file": "eras/industrial/004984-chalmers-adaptation-external-nature-physical.md",
    "at": "2026-10-10T08:20:46+00:00"
+  },
+  {
+   "slug": "condition-man-john-kidd-astronomy-general-physics",
+   "title": "Condition of Man, by John Kidd, M.D. 3. Astronomy and General Physics",
+   "era": "industrial",
+   "file": "eras/industrial/004985-condition-man-john-kidd-astronomy-general-physics.md",
+   "at": "2026-10-10T08:30:47+00:00"
   }
  ]
 }
