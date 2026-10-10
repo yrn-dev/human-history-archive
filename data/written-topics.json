@@ -1,5 +1,5 @@
 {
- "count": 5000,
+ "count": 5001,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35000,6 +35000,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005002-edward-confessor-when-formed-part-possessions-earl.md",
    "at": "2026-10-10T11:30:33+00:00"
+  },
+  {
+   "slug": "william-ii-gilbert-de-gaunt-whose-son-heir-walter-founded",
+   "title": "William II. to Gilbert de Gaunt, whose son and heir Walter founded the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005003-william-ii-gilbert-de-gaunt-whose-son-heir-walter-founded.md",
+   "at": "2026-10-10T11:40:34+00:00"
   }
  ]
 }
