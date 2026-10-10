@@ -1,5 +1,5 @@
 {
- "count": 5024,
+ "count": 5025,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35168,6 +35168,13 @@
    "era": "modern",
    "file": "eras/modern/005026-robe-rouge-1900-directed-against-injustices-law-les.md",
    "at": "2026-10-10T15:40:24+00:00"
+  },
+  {
+   "slug": "les-avarie-1901-forbidden-censor-account-medical",
+   "title": "Les Avariés (1901), forbidden by the censor, on account of its medical",
+   "era": "modern",
+   "file": "eras/modern/005027-les-avarie-1901-forbidden-censor-account-medical.md",
+   "at": "2026-10-10T15:50:25+00:00"
   }
  ]
 }
