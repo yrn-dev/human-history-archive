@@ -1,5 +1,5 @@
 {
- "count": 4968,
+ "count": 4969,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34776,6 +34776,13 @@
    "era": "industrial",
    "file": "eras/industrial/004970-36-deflection-girders----let-fig-71-represent-beam-bent.md",
    "at": "2026-10-10T05:41:00+00:00"
+  },
+  {
+   "slug": "radius-curvature-beam-given-relation",
+   "title": "The radius of curvature of the beam at D is given by the relation",
+   "era": "industrial",
+   "file": "eras/industrial/004971-radius-curvature-beam-given-relation.md",
+   "at": "2026-10-10T05:50:53+00:00"
   }
  ]
 }
