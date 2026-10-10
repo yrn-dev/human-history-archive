@@ -1,5 +1,5 @@
 {
- "count": 5008,
+ "count": 5009,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35056,6 +35056,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005010-bridport-evidently-some-importance-conquest-when.md",
    "at": "2026-10-10T13:00:41+00:00"
+  },
+  {
+   "slug": "brie-briegus-saltus-celtic-briek-clay-agricultural",
+   "title": "BRIE (Briegus saltus, from Celtic briek, clay), an agricultural",
+   "era": "cultures",
+   "file": "eras/cultures/005011-brie-briegus-saltus-celtic-briek-clay-agricultural.md",
+   "at": "2026-10-10T13:10:26+00:00"
   }
  ]
 }
