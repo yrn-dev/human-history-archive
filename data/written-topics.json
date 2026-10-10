@@ -1,5 +1,5 @@
 {
- "count": 4941,
+ "count": 4942,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34587,6 +34587,13 @@
    "era": "industrial",
    "file": "eras/industrial/004943-20-determination-stresses-members-bridges---it.md",
    "at": "2026-10-10T01:01:53+00:00"
+  },
+  {
+   "slug": "reaction-right-abutment",
+   "title": "The reaction at the right abutment is",
+   "era": "industrial",
+   "file": "eras/industrial/004944-reaction-right-abutment.md",
+   "at": "2026-10-10T01:11:22+00:00"
   }
  ]
 }
