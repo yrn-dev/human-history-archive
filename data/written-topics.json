@@ -1,5 +1,5 @@
 {
- "count": 5027,
+ "count": 5028,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35189,6 +35189,13 @@
    "era": "modern",
    "file": "eras/modern/005029-brigade-fr-ger-brigade-ital-brigata-span-brigada.md",
    "at": "2026-10-10T16:10:26+00:00"
+  },
+  {
+   "slug": "english-use-word-dates-early-17th-century-unit",
+   "title": "English use of the word dates from the early 17th century), a unit in",
+   "era": "renaissance",
+   "file": "eras/renaissance/005030-english-use-word-dates-early-17th-century-unit.md",
+   "at": "2026-10-10T16:20:33+00:00"
   }
  ]
 }
