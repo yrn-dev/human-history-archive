@@ -1,5 +1,5 @@
 {
- "count": 5005,
+ "count": 5006,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35035,6 +35035,13 @@
    "era": "ancient",
    "file": "eras/ancient/005007-africa-mediterranean-where-he-served-until-conclusion.md",
    "at": "2026-10-10T12:30:36+00:00"
+  },
+  {
+   "slug": "gibraltar-1782-time-he-sat-house-commons-promoted",
+   "title": "Gibraltar in 1782. For a time he sat in the House of Commons. Promoted",
+   "era": "industrial",
+   "file": "eras/industrial/005008-gibraltar-1782-time-he-sat-house-commons-promoted.md",
+   "at": "2026-10-10T12:40:32+00:00"
   }
  ]
 }
