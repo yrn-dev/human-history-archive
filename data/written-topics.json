@@ -1,5 +1,5 @@
 {
- "count": 5060,
+ "count": 5061,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35420,6 +35420,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005062-elementorum-vi-libri-priores-london-1620-folio-treatise.md",
    "at": "2026-10-10T22:00:05+00:00"
+  },
+  {
+   "slug": "north-west-passage-south-sea-london-1622-4to-reprinted",
+   "title": "North-West Passage to the South Sea (London, 1622, 4to), reprinted in",
+   "era": "renaissance",
+   "file": "eras/renaissance/005063-north-west-passage-south-sea-london-1622-4to-reprinted.md",
+   "at": "2026-10-10T22:10:11+00:00"
   }
  ]
 }
