@@ -1,5 +1,5 @@
 {
- "count": 4951,
+ "count": 4952,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34657,6 +34657,13 @@
    "era": "industrial",
    "file": "eras/industrial/004953-26-greatest-bending-moment-due-travelling-concentrated-loads---for.md",
    "at": "2026-10-10T02:51:11+00:00"
+  },
+  {
+   "slug": "fig-50-shows-curve-bending-moment-one-series",
+   "title": "Fig. 50 shows the curve of bending moment under one of a series of",
+   "era": "industrial",
+   "file": "eras/industrial/004954-fig-50-shows-curve-bending-moment-one-series.md",
+   "at": "2026-10-10T03:01:11+00:00"
   }
  ]
 }
