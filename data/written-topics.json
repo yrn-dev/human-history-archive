@@ -1,5 +1,5 @@
 {
- "count": 5048,
+ "count": 5049,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35336,6 +35336,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005050-haverfield-archaeological-journal-xlix-1892-also.md",
    "at": "2026-10-10T19:50:11+00:00"
+  },
+  {
+   "slug": "see-holder-altceltischer-sprachschatz-1896-ancient",
+   "title": "See A. Holder, Altceltischer Sprachschatz, i. (1896), for ancient",
+   "era": "ancient",
+   "file": "eras/ancient/005051-see-holder-altceltischer-sprachschatz-1896-ancient.md",
+   "at": "2026-10-10T20:00:13+00:00"
   }
  ]
 }
