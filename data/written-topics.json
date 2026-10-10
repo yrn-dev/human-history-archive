@@ -1,5 +1,5 @@
 {
- "count": 5026,
+ "count": 5027,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35182,6 +35182,13 @@
    "era": "modern",
    "file": "eras/modern/005028-petite-amie-1902-describes-life-parisian-shop-girl-later.md",
    "at": "2026-10-10T16:00:24+00:00"
+  },
+  {
+   "slug": "brigade-fr-ger-brigade-ital-brigata-span-brigada",
+   "title": "BRIGADE (Fr. and Ger. brigade, Ital. brigata, Span. brigada; the",
+   "era": "modern",
+   "file": "eras/modern/005029-brigade-fr-ger-brigade-ital-brigata-span-brigada.md",
+   "at": "2026-10-10T16:10:26+00:00"
   }
  ]
 }
