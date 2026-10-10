@@ -1,5 +1,5 @@
 {
- "count": 4998,
+ "count": 4999,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34986,6 +34986,13 @@
    "era": "modern",
    "file": "eras/modern/005000-bridlington-quay-there-excellent-sea-bathing-parade.md",
    "at": "2026-10-10T11:10:42+00:00"
+  },
+  {
+   "slug": "rest-north-england-bridlington-suffered",
+   "title": "With the rest of the north of England, Bridlington suffered from the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005001-rest-north-england-bridlington-suffered.md",
+   "at": "2026-10-10T11:20:39+00:00"
   }
  ]
 }
