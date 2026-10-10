@@ -1,5 +1,5 @@
 {
- "count": 5063,
+ "count": 5064,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35441,6 +35441,13 @@
    "era": "industrial",
    "file": "eras/industrial/005065-west-riding-yorkshire-england-51-huddersfield.md",
    "at": "2026-10-10T22:30:16+00:00"
+  },
+  {
+   "slug": "donaghadee-his-experiments-convinced-him-practicability",
+   "title": "Donaghadee. His experiments convinced him of the practicability of an",
+   "era": "modern",
+   "file": "eras/modern/005066-donaghadee-his-experiments-convinced-him-practicability.md",
+   "at": "2026-10-10T22:40:01+00:00"
   }
  ]
 }
