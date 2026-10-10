@@ -1,5 +1,5 @@
 {
- "count": 4999,
+ "count": 5000,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34993,6 +34993,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005001-rest-north-england-bridlington-suffered.md",
    "at": "2026-10-10T11:20:39+00:00"
+  },
+  {
+   "slug": "edward-confessor-when-formed-part-possessions-earl",
+   "title": "Edward the Confessor, when it formed part of the possessions of Earl",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005002-edward-confessor-when-formed-part-possessions-earl.md",
+   "at": "2026-10-10T11:30:33+00:00"
   }
  ]
 }
