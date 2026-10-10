@@ -1,5 +1,5 @@
 {
- "count": 4990,
+ "count": 4991,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34930,6 +34930,13 @@
    "era": "modern",
    "file": "eras/modern/004992-see-laura-bridgman-maud-howe-florence-howe-hall-1903-which.md",
    "at": "2026-10-10T09:40:45+00:00"
+  },
+  {
+   "slug": "dromore-editor-reliques-ancient-english-poetry",
+   "title": "Dromore, the editor of the Reliques of Ancient English Poetry. The",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/004993-dromore-editor-reliques-ancient-english-poetry.md",
+   "at": "2026-10-10T09:50:37+00:00"
   }
  ]
 }
