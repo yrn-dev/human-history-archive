@@ -1,5 +1,5 @@
 {
- "count": 5062,
+ "count": 5063,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35434,6 +35434,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005064-1624-folio-trigonometria-britannica-goudae-1663-folio-two.md",
    "at": "2026-10-10T22:20:08+00:00"
+  },
+  {
+   "slug": "west-riding-yorkshire-england-51-huddersfield",
+   "title": "West Riding of Yorkshire, England, 5½ m. N. of Huddersfield by the",
+   "era": "industrial",
+   "file": "eras/industrial/005065-west-riding-yorkshire-england-51-huddersfield.md",
+   "at": "2026-10-10T22:30:16+00:00"
   }
  ]
 }
