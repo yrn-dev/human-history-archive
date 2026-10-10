@@ -1,5 +1,5 @@
 {
- "count": 5070,
+ "count": 5071,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35490,6 +35490,13 @@
    "era": "modern",
    "file": "eras/modern/005072-graham-then-home-secretary-lord-ripon-mr-gladstone.md",
    "at": "2026-10-10T23:40:02+00:00"
+  },
+  {
+   "slug": "speech-established-his-position-house-commons",
+   "title": "The speech established his position in the House of Commons. In this",
+   "era": "modern",
+   "file": "eras/modern/005073-speech-established-his-position-house-commons.md",
+   "at": "2026-10-10T23:50:04+00:00"
   }
  ]
 }
