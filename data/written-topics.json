@@ -1,5 +1,5 @@
 {
- "count": 4953,
+ "count": 4954,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34671,6 +34671,13 @@
    "era": "industrial",
    "file": "eras/industrial/004955-2c-bending-moment-due-uniform-load-we-per-ft-run.md",
    "at": "2026-10-10T03:11:08+00:00"
+  },
+  {
+   "slug": "putting-centre-section",
+   "title": "Putting x = 0, for the centre section",
+   "era": "modern",
+   "file": "eras/modern/004956-putting-centre-section.md",
+   "at": "2026-10-10T03:21:06+00:00"
   }
  ]
 }
