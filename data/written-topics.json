@@ -1,5 +1,5 @@
 {
- "count": 5058,
+ "count": 5059,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35406,6 +35406,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005060-1610-4to-description-instrumental-table-find-part.md",
    "at": "2026-10-10T21:40:03+00:00"
+  },
+  {
+   "slug": "logarithmorum-chilias-prima-london-1617-8vo-lucubrationes-et",
+   "title": "Logarithmorum Chilias prima (London, 1617, 8vo); Lucubrationes et",
+   "era": "renaissance",
+   "file": "eras/renaissance/005061-logarithmorum-chilias-prima-london-1617-8vo-lucubrationes-et.md",
+   "at": "2026-10-10T21:50:06+00:00"
   }
  ]
 }
