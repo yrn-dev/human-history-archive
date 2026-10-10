@@ -1,5 +1,5 @@
 {
- "count": 4943,
+ "count": 4944,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34601,6 +34601,13 @@
    "era": "industrial",
    "file": "eras/industrial/004945-left-abutment.md",
    "at": "2026-10-10T01:21:15+00:00"
+  },
+  {
+   "slug": "consider-any-section-total-shear",
+   "title": "Consider any section a b. The total shear at a b is",
+   "era": "industrial",
+   "file": "eras/industrial/004946-consider-any-section-total-shear.md",
+   "at": "2026-10-10T01:31:18+00:00"
   }
  ]
 }
