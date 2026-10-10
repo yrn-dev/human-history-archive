@@ -1,5 +1,5 @@
 {
- "count": 5045,
+ "count": 5046,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35315,6 +35315,13 @@
    "era": "modern",
    "file": "eras/modern/005047-spanish-brigandage-found-resen-historica-de-la-guardia.md",
    "at": "2026-10-10T19:20:17+00:00"
+  },
+  {
+   "slug": "brigandine-french-word-meaning-armour-brigandi",
+   "title": "BRIGANDINE, a French word meaning the armour for the brigandi or",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005048-brigandine-french-word-meaning-armour-brigandi.md",
+   "at": "2026-10-10T19:30:13+00:00"
   }
  ]
 }
