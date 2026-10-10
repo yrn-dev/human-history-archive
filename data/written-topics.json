@@ -1,5 +1,5 @@
 {
- "count": 4945,
+ "count": 4946,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34615,6 +34615,13 @@
    "era": "modern",
    "file": "eras/modern/004947-r--sigma-w1-w2.md",
    "at": "2026-10-10T01:41:18+00:00"
+  },
+  {
+   "slug": "r1p--sigma-w1p1-w2p2",
+   "title": "M = R1p-[Sigma](W1p1+W2p2 ...)",
+   "era": "modern",
+   "file": "eras/modern/004948-r1p--sigma-w1p1-w2p2.md",
+   "at": "2026-10-10T01:51:21+00:00"
   }
  ]
 }
