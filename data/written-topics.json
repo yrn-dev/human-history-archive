@@ -1,5 +1,5 @@
 {
- "count": 5004,
+ "count": 5005,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35028,6 +35028,13 @@
    "era": "industrial",
    "file": "eras/industrial/005006-1761-minerva-recaptured-long-struggle-warwick.md",
    "at": "2026-10-10T12:20:36+00:00"
+  },
+  {
+   "slug": "africa-mediterranean-where-he-served-until-conclusion",
+   "title": "\"Africa\" to the Mediterranean, where he served until the conclusion of",
+   "era": "ancient",
+   "file": "eras/ancient/005007-africa-mediterranean-where-he-served-until-conclusion.md",
+   "at": "2026-10-10T12:30:36+00:00"
   }
  ]
 }
