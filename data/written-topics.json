@@ -1,5 +1,5 @@
 {
- "count": 5028,
+ "count": 5029,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35196,6 +35196,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005030-english-use-word-dates-early-17th-century-unit.md",
    "at": "2026-10-10T16:20:33+00:00"
+  },
+  {
+   "slug": "artillery-brigade-field-horse-heavy-great-britain",
+   "title": "An artillery \"brigade\" (field, horse, and heavy) is in Great Britain a",
+   "era": "industrial",
+   "file": "eras/industrial/005031-artillery-brigade-field-horse-heavy-great-britain.md",
+   "at": "2026-10-10T16:30:22+00:00"
   }
  ]
 }
