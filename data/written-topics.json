@@ -1,5 +1,5 @@
 {
- "count": 5007,
+ "count": 5008,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35049,6 +35049,13 @@
    "era": "industrial",
    "file": "eras/industrial/005009-somerset-irish-peerage-henceforth-bridport-practically.md",
    "at": "2026-10-10T12:51:01+00:00"
+  },
+  {
+   "slug": "bridport-evidently-some-importance-conquest-when",
+   "title": "Bridport was evidently of some importance before the Conquest, when it",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005010-bridport-evidently-some-importance-conquest-when.md",
+   "at": "2026-10-10T13:00:41+00:00"
   }
  ]
 }
