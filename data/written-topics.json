@@ -1,5 +1,5 @@
 {
- "count": 4952,
+ "count": 4953,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -34664,6 +34664,13 @@
    "era": "industrial",
    "file": "eras/industrial/004954-fig-50-shows-curve-bending-moment-one-series.md",
    "at": "2026-10-10T03:01:11+00:00"
+  },
+  {
+   "slug": "2c-bending-moment-due-uniform-load-we-per-ft-run",
+   "title": "2c, the bending moment due to a uniform load we per ft run is",
+   "era": "industrial",
+   "file": "eras/industrial/004955-2c-bending-moment-due-uniform-load-we-per-ft-run.md",
+   "at": "2026-10-10T03:11:08+00:00"
   }
  ]
 }
