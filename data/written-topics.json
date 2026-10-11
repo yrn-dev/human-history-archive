@@ -1,5 +1,5 @@
 {
- "count": 5099,
+ "count": 5100,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35693,6 +35693,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005101-romanesque-style-auvergne-which-choir-apse.md",
    "at": "2026-10-11T04:49:43+00:00"
+  },
+  {
+   "slug": "brioude-ancient-brinas-formerly-place-considerable",
+   "title": "Brioude, the ancient Brinas, was formerly a place of considerable",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005102-brioude-ancient-brinas-formerly-place-considerable.md",
+   "at": "2026-10-11T04:59:43+00:00"
   }
  ]
 }
