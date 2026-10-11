@@ -1,5 +1,5 @@
 {
- "count": 5187,
+ "count": 5188,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36309,6 +36309,13 @@
    "era": "ancient",
    "file": "eras/ancient/005189-belgae-iron-age-these-invaders-brought-celtic-civilization.md",
    "at": "2026-10-11T20:49:02+00:00"
+  },
+  {
+   "slug": "celtic-speaking-peoples-western-continent-age-julius",
+   "title": "Celtic-speaking peoples of the western continent. By the age of Julius",
+   "era": "cultures",
+   "file": "eras/cultures/005190-celtic-speaking-peoples-western-continent-age-julius.md",
+   "at": "2026-10-11T20:59:02+00:00"
   }
  ]
 }
