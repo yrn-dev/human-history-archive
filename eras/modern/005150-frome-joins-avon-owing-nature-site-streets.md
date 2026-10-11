@@ -1,0 +1,32 @@
+# Bristol
+
+## Geography and Urban Layout
+The nucleus of Bristol is situated to the north of the river. Its business center is located in a district where Corn Street, Wine Street, High Street, and Broad Street radiate from a center positioned close to the Floating Harbour. South of this center, connected via Bristol Bridge, is an island formed between the New Course of the Avon and the Floating Harbour. This area contains public buildings, the general hospital, Temple Meads station (located above Victoria Street), and two notable churches: St Mary Redcliffe and the Temple.
+
+The little river Frome joins the Avon immediately above Bristol Bridge. Due to the nature of the site, the city's streets are irregular. In the inner city, these streets are generally narrow and are sometimes considered extremely picturesque because of their ancient gabled houses. The city is surrounded by principal suburbs to the east, north, and west.
+
+## History and Development
+Bristol (also known as Bristole, Bristow, Brigstow, or Bristou) is a town whose greatness is attributed entirely to trade. It did not serve as a shire town, a military post, or the site of a great religious house, and it gained little from its position as the head of a feudal lordship. While located near Roman and British camps, there is no evidence of settlements from those periods.
+
+A Saxon settlement began to grow around the year 1000 at the junction of the Avon and Frome rivers, a location providing natural advantages for the township's growth. Under Danish rule, specifically during the reign of Canute, Bristol became a market for English slaves as the wool trade with Ireland commenced. By the time of the Domesday survey, it was a royal borough governed by a king-appointed reeve, with the king's geld assessed at 110 marks. During the reign of Edward the Confessor, the town was part of the earldom of Sweyn Godwinsson. The existence of a mint at the time of the Conquest indicates the town had reached a significant size, though its status as a member of the royal manor of Baston suggests its importance was of recent growth.
+
+Following the Conquest, one-third of the geld was paid to Geoffrey de Coutances, the bishop of Exeter, who constructed the castle's earthworks. After Geoffrey joined a rebellion against William II and died, the king granted the castle and town to Robert FitzHamon as part of the honour of Gloucester. In 1119, FitzHamon's daughter Mabel brought Bristol to Earl Robert of Gloucester as her dowry. Earl Robert strengthened the castle, likely using masonry, and used it to harry the neighborhood and threaten Bath during a rebellion against Stephen. A contemporary chronicler referred to Bristol as the "stepmother of England" and described the castle as being garrisoned by foot soldiers, knights, or "robbers and raiders" on a "mighty mound."
+
+## Expansion and Governance
+During the reign of John, Bristol sought to absorb the neighboring manor of Bedminster. The western half, Redcliffe, was owned by Robert FitzHardinge (later Lord Berkeley), while the eastern half was held by the Templars. While the Templars acquiesced, the owners of Redcliffe—who possessed their own quay, market, fair, and manorial courts—resisted the union for nearly a century. In 1247, a stone bridge was built over the Avon and a new course was cut for the river Frome, which improved the harbour and brought Redcliffe and Temple into closer contact with the city.
+
+In 1256, Henry III granted a charter allowing burgesses to choose coroners. Because the burgesses already farmed the geld payable to the king, Bristol was practically independent of the crown. However, the growing exclusiveness of the merchant gild led to an insurrection in 1312. This opposition was resisted by the oligarchical party, supported by the Berkeleys, until royal forces besieged and took the town in 1313. During the reign of Edward III, cloth manufacture grew; Thomas Blanket established looms in 1337 using many foreign workmen. In 1353, Bristol became one of the Staple towns, with the town's mayor also serving as the mayor of the staple.
+
+## The River Avon and Harbour
+The Bristol Avon (or Lower Avon) rises on the eastern slope of the Cotteswold Hills in Gloucestershire. It flows through a broad upper valley past Melksham and Chippenham, turns west to Bradford-on-Avon, and receives the Frome from the south before entering the narrow valley containing Bristol and Bath. The river's total length is approximately 75 miles, with 12 miles from Bath to Bristol and 8 miles from Bristol to the mouth. The total fall of the river is between 500 and 600 feet. Below Bristol, the river forms the Clifton Gorge, known for its wooded cliffs and the Clifton suspension bridge. In 1904, an "Avon Gorge Committee" was formed to report on preserving the area's beauty after quarries disfigured the woods and cliffs.
+
+The Avon enters the Severn estuary at Avonmouth. From Bristol downward, it is a major commercial waterway. The Kennet and Avon Canal follows the river from Bradford to Bath, entering the Avon via seven locks.
+
+Bristol harbour was created in 1809 by converting a branch of the Frome and the Avon into "the Float," which involved creating two basins and a new channel for the Avon. The water area at a fixed level is about 85 acres, with four dry docks. In 1884, the city purchased the Portishead and Avonmouth docks. The port extends from the mouth of the river and the Severn estuary up to Hanham Mills on the Avon.
+
+The city docks have a depth of 22 feet, but the Avonmouth docks can accommodate the largest vessels. Between 1902 and 1908, the corporation constructed the Royal Edward dock at Avonmouth, opened by King Edward VII. This dock has a mean length of 1120 feet and a breadth of 1000 feet, entered by a lock 875 feet long and 100 feet wide. The Portishead dock on the Somerset shore covers 12 acres. Bristol maintains a large trade with the West Indies and America, exporting salt, tin, cotton goods, manufactured oils, and machinery, while importing cattle, hides, timber, ore, oils, fruit, and grain. Large steamship companies, including Dominion and Elder Dempster, operate at the port.
+
+## Sources
+Compiled from: britannica11 vol03a brequigny to bulgaria, britannica11 vol02a austria lower to bacon
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
