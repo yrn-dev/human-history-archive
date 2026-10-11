@@ -1,5 +1,5 @@
 {
- "count": 5173,
+ "count": 5174,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36211,6 +36211,13 @@
    "era": "industrial",
    "file": "eras/industrial/005175-street-extends-along-river-among-bristol-manufacturing.md",
    "at": "2026-10-11T18:09:24+00:00"
+  },
+  {
+   "slug": "suburban-railways-connected-island-rhode-island",
+   "title": "Suburban railways, and is connected with the island of Rhode Island by",
+   "era": "modern",
+   "file": "eras/modern/005176-suburban-railways-connected-island-rhode-island.md",
+   "at": "2026-10-11T18:19:06+00:00"
   }
  ]
 }
