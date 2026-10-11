@@ -1,5 +1,5 @@
 {
- "count": 5177,
+ "count": 5178,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36239,6 +36239,13 @@
    "era": "industrial",
    "file": "eras/industrial/005179-virginia-south-western-norfolk-western-railways.md",
    "at": "2026-10-11T18:50:04+00:00"
+  },
+  {
+   "slug": "virginia-tennessee-west-virginia-kentucky-north-carolina",
+   "title": "Virginia, Tennessee, West Virginia, Kentucky and North Carolina; an",
+   "era": "modern",
+   "file": "eras/modern/005180-virginia-tennessee-west-virginia-kentucky-north-carolina.md",
+   "at": "2026-10-11T18:59:26+00:00"
   }
  ]
 }
