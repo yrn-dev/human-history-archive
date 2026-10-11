@@ -1,5 +1,5 @@
 {
- "count": 5091,
+ "count": 5092,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35637,6 +35637,13 @@
    "era": "industrial",
    "file": "eras/industrial/005093-brindley-retained-last-peculiar-roughness-character.md",
    "at": "2026-10-11T03:29:48+00:00"
+  },
+  {
+   "slug": "brinton-daniel-garrison-1837-1899-american-archaeologist",
+   "title": "BRINTON, DANIEL GARRISON (1837-1899), American archaeologist and",
+   "era": "modern",
+   "file": "eras/modern/005094-brinton-daniel-garrison-1837-1899-american-archaeologist.md",
+   "at": "2026-10-11T03:39:50+00:00"
   }
  ]
 }
