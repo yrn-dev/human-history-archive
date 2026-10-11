@@ -1,5 +1,5 @@
 {
- "count": 5098,
+ "count": 5099,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35686,6 +35686,13 @@
    "era": "modern",
    "file": "eras/modern/005100-sainte-croix-lettre-de-cachet-year-sainte-croix-remained.md",
    "at": "2026-10-11T04:39:43+00:00"
+  },
+  {
+   "slug": "romanesque-style-auvergne-which-choir-apse",
+   "title": "Romanesque style of Auvergne, of which the choir, with its apse and",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005101-romanesque-style-auvergne-which-choir-apse.md",
+   "at": "2026-10-11T04:49:43+00:00"
   }
  ]
 }
