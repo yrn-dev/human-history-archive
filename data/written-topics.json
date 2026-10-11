@@ -1,5 +1,5 @@
 {
- "count": 5095,
+ "count": 5096,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35665,6 +35665,13 @@
    "era": "modern",
    "file": "eras/modern/005097-philadelphia-american-folk-lore-society-american.md",
    "at": "2026-10-11T04:09:50+00:00"
+  },
+  {
+   "slug": "1882-essays-americanist-1890-races-peoples-1890",
+   "title": "(1882); Essays of an Americanist (1890); Races and Peoples (1890); The",
+   "era": "modern",
+   "file": "eras/modern/005098-1882-essays-americanist-1890-races-peoples-1890.md",
+   "at": "2026-10-11T04:19:53+00:00"
   }
  ]
 }
