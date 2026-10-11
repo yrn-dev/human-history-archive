@@ -1,5 +1,5 @@
 {
- "count": 5080,
+ "count": 5081,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35560,6 +35560,13 @@
    "era": "modern",
    "file": "eras/modern/005082-houses-mr-layard-despatch-read-excited-commons-mr.md",
    "at": "2026-10-11T01:19:59+00:00"
+  },
+  {
+   "slug": "birmingham-election-1885-he-stood-central-division",
+   "title": "Birmingham election in 1885 he stood for the central division of the",
+   "era": "industrial",
+   "file": "eras/industrial/005083-birmingham-election-1885-he-stood-central-division.md",
+   "at": "2026-10-11T01:30:02+00:00"
   }
  ]
 }
