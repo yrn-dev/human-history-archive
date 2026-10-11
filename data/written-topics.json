@@ -1,5 +1,5 @@
 {
- "count": 5092,
+ "count": 5093,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35644,6 +35644,13 @@
    "era": "modern",
    "file": "eras/modern/005094-brinton-daniel-garrison-1837-1899-american-archaeologist.md",
    "at": "2026-10-11T03:39:50+00:00"
+  },
+  {
+   "slug": "he-graduated-yale-1858-studied-two-years-jefferson",
+   "title": "He graduated at Yale in 1858, studied for two years in the Jefferson",
+   "era": "industrial",
+   "file": "eras/industrial/005095-he-graduated-yale-1858-studied-two-years-jefferson.md",
+   "at": "2026-10-11T03:49:49+00:00"
   }
  ]
 }
