@@ -1,5 +1,5 @@
 {
- "count": 5094,
+ "count": 5095,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35658,6 +35658,13 @@
    "era": "industrial",
    "file": "eras/industrial/005096-1864-1865-surgeon-charge-army-general-hospital.md",
    "at": "2026-10-11T03:59:48+00:00"
+  },
+  {
+   "slug": "philadelphia-american-folk-lore-society-american",
+   "title": "Philadelphia, of the American Folk-Lore Society and of the American",
+   "era": "modern",
+   "file": "eras/modern/005097-philadelphia-american-folk-lore-society-american.md",
+   "at": "2026-10-11T04:09:50+00:00"
   }
  ]
 }
