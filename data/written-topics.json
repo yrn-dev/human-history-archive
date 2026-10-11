@@ -1,5 +1,5 @@
 {
- "count": 5093,
+ "count": 5094,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35651,6 +35651,13 @@
    "era": "industrial",
    "file": "eras/industrial/005095-he-graduated-yale-1858-studied-two-years-jefferson.md",
    "at": "2026-10-11T03:49:49+00:00"
+  },
+  {
+   "slug": "1864-1865-surgeon-charge-army-general-hospital",
+   "title": "1864-1865, as surgeon in charge of the U.S. Army general hospital at",
+   "era": "industrial",
+   "file": "eras/industrial/005096-1864-1865-surgeon-charge-army-general-hospital.md",
+   "at": "2026-10-11T03:59:48+00:00"
   }
  ]
 }
