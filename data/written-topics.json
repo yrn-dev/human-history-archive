@@ -1,5 +1,5 @@
 {
- "count": 5083,
+ "count": 5084,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35581,6 +35581,13 @@
    "era": "industrial",
    "file": "eras/industrial/005085-cgilchrist-cassell-representative-biographies-1868-john.md",
    "at": "2026-10-11T01:49:55+00:00"
+  },
+  {
+   "slug": "bright-vince-1898-speeches-parliamentary-reform-john",
+   "title": "Bright, by C.A. Vince (1898); Speeches on Parliamentary Reform by John",
+   "era": "industrial",
+   "file": "eras/industrial/005086-bright-vince-1898-speeches-parliamentary-reform-john.md",
+   "at": "2026-10-11T01:59:57+00:00"
   }
  ]
 }
