@@ -1,5 +1,5 @@
 {
- "count": 5165,
+ "count": 5166,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36155,6 +36155,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005167-redcliffe-same-time-cloth-exported-bristol-merchants.md",
    "at": "2026-10-11T16:49:08+00:00"
+  },
+  {
+   "slug": "france-spain-levant-records-society-merchant",
+   "title": "France, Spain and the Levant. The records of the Society of Merchant",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005168-france-spain-levant-records-society-merchant.md",
+   "at": "2026-10-11T16:59:16+00:00"
   }
  ]
 }
