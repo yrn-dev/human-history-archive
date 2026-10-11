@@ -1,5 +1,5 @@
 {
- "count": 5096,
+ "count": 5097,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35672,6 +35672,13 @@
    "era": "modern",
    "file": "eras/modern/005098-1882-essays-americanist-1890-races-peoples-1890.md",
    "at": "2026-10-11T04:19:53+00:00"
+  },
+  {
+   "slug": "brinvilliers-then-serving-regiment-normandy-contemporary",
+   "title": "Brinvilliers, then serving in the regiment of Normandy. Contemporary",
+   "era": "modern",
+   "file": "eras/modern/005099-brinvilliers-then-serving-regiment-normandy-contemporary.md",
+   "at": "2026-10-11T04:29:45+00:00"
   }
  ]
 }
