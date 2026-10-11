@@ -1,5 +1,5 @@
 {
- "count": 5143,
+ "count": 5144,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36001,6 +36001,13 @@
    "era": "modern",
    "file": "eras/modern/005145-bliss-iii-338-lloyd-memoires-1668-579-collins-peerage.md",
    "at": "2026-10-11T13:09:19+00:00"
+  },
+  {
+   "slug": "mss-sherborne-castle-which-selection-transcribed",
+   "title": "The MSS. at Sherborne Castle, of which a selection was transcribed and",
+   "era": "modern",
+   "file": "eras/modern/005146-mss-sherborne-castle-which-selection-transcribed.md",
+   "at": "2026-10-11T13:19:18+00:00"
   }
  ]
 }
