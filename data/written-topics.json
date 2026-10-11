@@ -1,5 +1,5 @@
 {
- "count": 5146,
+ "count": 5147,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36022,6 +36022,13 @@
    "era": "industrial",
    "file": "eras/industrial/005148-bristol-city-county-city-municipal-county-parliamentary.md",
    "at": "2026-10-11T13:39:25+00:00"
+  },
+  {
+   "slug": "portishead-bristol-channel-trunk-line-midland-railway",
+   "title": "Portishead on the Bristol Channel. A trunk line of the Midland railway",
+   "era": "industrial",
+   "file": "eras/industrial/005149-portishead-bristol-channel-trunk-line-midland-railway.md",
+   "at": "2026-10-11T13:49:17+00:00"
   }
  ]
 }
