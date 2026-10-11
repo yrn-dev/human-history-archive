@@ -1,5 +1,5 @@
 {
- "count": 5081,
+ "count": 5082,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35567,6 +35567,13 @@
    "era": "industrial",
    "file": "eras/industrial/005083-birmingham-election-1885-he-stood-central-division.md",
    "at": "2026-10-11T01:30:02+00:00"
+  },
+  {
+   "slug": "home-rule-bill-generally-felt-election-1886",
+   "title": "Home Rule Bill, and it was generally felt that in the election of 1886",
+   "era": "modern",
+   "file": "eras/modern/005084-home-rule-bill-generally-felt-election-1886.md",
+   "at": "2026-10-11T01:39:57+00:00"
   }
  ]
 }
