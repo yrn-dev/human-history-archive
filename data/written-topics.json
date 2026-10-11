@@ -1,5 +1,5 @@
 {
- "count": 5203,
+ "count": 5204,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36421,6 +36421,13 @@
    "era": "ancient",
    "file": "eras/ancient/005205-britannia-prima-secunda-flavia-maxima-caesariensis.md",
    "at": "2026-10-11T23:38:49+00:00"
+  },
+  {
+   "slug": "hadrian-onwards-three-legions-second-isca-silurum",
+   "title": "Hadrian onwards, of (1) three legions, the Second at Isca Silurum",
+   "era": "ancient",
+   "file": "eras/ancient/005206-hadrian-onwards-three-legions-second-isca-silurum.md",
+   "at": "2026-10-11T23:48:55+00:00"
   }
  ]
 }
