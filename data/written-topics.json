@@ -1,5 +1,5 @@
 {
- "count": 5152,
+ "count": 5153,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36064,6 +36064,13 @@
    "era": "modern",
    "file": "eras/modern/005154-butler-sterne-eliza-elizabeth-draper-lady-hesketh.md",
    "at": "2026-10-11T14:39:14+00:00"
+  },
+  {
+   "slug": "adjacent-church-st-peter-hospital-picturesque-gabled",
+   "title": "Adjacent to the church is St Peter's hospital, a picturesque gabled",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005155-adjacent-church-st-peter-hospital-picturesque-gabled.md",
+   "at": "2026-10-11T14:49:20+00:00"
   }
  ]
 }
