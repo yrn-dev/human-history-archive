@@ -1,5 +1,5 @@
 {
- "count": 5076,
+ "count": 5077,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35532,6 +35532,13 @@
    "era": "industrial",
    "file": "eras/industrial/005078-birmingham-without-opposition-palmerston-death-early-autumn.md",
    "at": "2026-10-11T00:40:00+00:00"
+  },
+  {
+   "slug": "bill-carried-clause-minority-representation",
+   "title": "Bill was carried with a clause for minority representation, and in the",
+   "era": "modern",
+   "file": "eras/modern/005079-bill-carried-clause-minority-representation.md",
+   "at": "2026-10-11T00:50:49+00:00"
   }
  ]
 }
