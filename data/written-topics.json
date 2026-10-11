@@ -1,5 +1,5 @@
 {
- "count": 5082,
+ "count": 5083,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -35574,6 +35574,13 @@
    "era": "modern",
    "file": "eras/modern/005084-home-rule-bill-generally-felt-election-1886.md",
    "at": "2026-10-11T01:39:57+00:00"
+  },
+  {
+   "slug": "cgilchrist-cassell-representative-biographies-1868-john",
+   "title": "M^cGilchrist, in Cassell's Representative Biographies (1868); John",
+   "era": "industrial",
+   "file": "eras/industrial/005085-cgilchrist-cassell-representative-biographies-1868-john.md",
+   "at": "2026-10-11T01:49:55+00:00"
   }
  ]
 }
