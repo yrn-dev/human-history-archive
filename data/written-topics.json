@@ -1,5 +1,5 @@
 {
- "count": 5176,
+ "count": 5177,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36232,6 +36232,13 @@
    "era": "modern",
    "file": "eras/modern/005178-virginia-bristol-served-holston-valley-southern.md",
    "at": "2026-10-11T18:39:37+00:00"
+  },
+  {
+   "slug": "virginia-south-western-norfolk-western-railways",
+   "title": "Virginia & South-Western, and the Norfolk & Western railways, and is a",
+   "era": "industrial",
+   "file": "eras/industrial/005179-virginia-south-western-norfolk-western-railways.md",
+   "at": "2026-10-11T18:50:04+00:00"
   }
  ]
 }
