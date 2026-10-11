@@ -1,5 +1,5 @@
 {
- "count": 5172,
+ "count": 5173,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36204,6 +36204,13 @@
    "era": "industrial",
    "file": "eras/industrial/005174-1812-little-red-book-bristol-1900-maior-kalendar.md",
    "at": "2026-10-11T17:59:18+00:00"
+  },
+  {
+   "slug": "street-extends-along-river-among-bristol-manufacturing",
+   "title": "Street extends along the river. Among Bristol's manufacturing",
+   "era": "industrial",
+   "file": "eras/industrial/005175-street-extends-along-river-among-bristol-manufacturing.md",
+   "at": "2026-10-11T18:09:24+00:00"
   }
  ]
 }
