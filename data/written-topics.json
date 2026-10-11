@@ -1,5 +1,5 @@
 {
- "count": 5201,
+ "count": 5202,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36407,6 +36407,13 @@
    "era": "ancient",
    "file": "eras/ancient/005203-lowlands-scene-civil-life-towns-villages-country.md",
    "at": "2026-10-11T23:19:00+00:00"
+  },
+  {
+   "slug": "septimius-severus-made-two-provinces-superior-inferior",
+   "title": "Septimius Severus made it two provinces, Superior and Inferior, with a",
+   "era": "ancient",
+   "file": "eras/ancient/005204-septimius-severus-made-two-provinces-superior-inferior.md",
+   "at": "2026-10-11T23:28:52+00:00"
   }
  ]
 }
