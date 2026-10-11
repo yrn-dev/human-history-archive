@@ -1,5 +1,5 @@
 {
- "count": 5171,
+ "count": 5172,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36197,6 +36197,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005173-bristol-1893-samuel-seyer-history-bristol-bristol-charters.md",
    "at": "2026-10-11T17:49:20+00:00"
+  },
+  {
+   "slug": "1812-little-red-book-bristol-1900-maior-kalendar",
+   "title": "(1812); The Little Red Book of Bristol (1900); The Maior's Kalendar",
+   "era": "industrial",
+   "file": "eras/industrial/005174-1812-little-red-book-bristol-1900-maior-kalendar.md",
+   "at": "2026-10-11T17:59:18+00:00"
   }
  ]
 }
