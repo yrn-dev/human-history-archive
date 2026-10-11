@@ -1,0 +1,31 @@
+# Virginia, Tennessee, West Virginia, Kentucky and North Carolina
+
+## Regional Geography and Boundaries
+The states of Virginia, Tennessee, West Virginia, Kentucky, and North Carolina share intersecting borders and geographic features. Kentucky is a South Central state situated between 36° 30´ and 39° 6´ N. and 82° and 89° 38´ W. It is bounded to the east by Virginia and by the Big Sandy river and its east fork, the Tug, which separates it from West Virginia. To the southeast and south, Kentucky is bounded by Virginia and Tennessee.
+
+The boundary between Tennessee and Virginia is marked by a line that runs through the principal street of the city of Bristol, dividing the location into two separate corporations. The southern boundary of Tennessee was surveyed in 1779-1780 by commissioners from Virginia and North Carolina. Although intended to follow the parallel of latitude 36° 30´, it was mistakenly run north of that parallel. Following a treaty in 1819 that extinguished Indian title to territory west of the Tennessee river, a line was run along the 36° 30´ parallel from the Mississippi to the Tennessee. In 1820, commissioners from Kentucky and Tennessee formally adopted the 1779-1780 and 1819 lines as the boundary between the two states. Additionally, Virginia and Kentucky appointed a joint commission in 1799 to run their boundary line along the ridge of the Cumberland Mountains.
+
+## Settlement and Exploration of Kentucky
+The movement to settle the United States west of the Alleghany Mountains after 1763 was led by Kentucky, which became the first state west of the mountains admitted into the Union. In 1763, the Kentucky country was claimed by Virginia (via a 1609 charter), the Six Nations (Iroquois), and the Cherokees. At the time, the region was inhabited only by a small tribe of Shawnees in the north and a few Chickasaws near the Mississippi river.
+
+Early exploration included Dr. Thomas Walker in 1750, who entered from the Cumberland Gap, and Christopher Gist in 1751, who explored westward from the mouth of the Scioto river. In 1752, Indian trader John Finley descended the Ohio river to the site of Louisville. Finley's descriptions attracted Daniel Boone, who first visited the region in 1767. James Harrod established the first permanent English settlement at Harrodsburg in 1774. In October of that year, Virginia troops defeated the Ohio Indians at the battle of Point Pleasant in what is now West Virginia, leading to a treaty where the Indians surrendered claims south of the Ohio river.
+
+Most early settlers reached Kentucky via the Ohio river or the "Wilderness Road." The latter began at Inglis's Ferry on the New river in present-day West Virginia, proceeding to the Cumberland Gap. Marked by Daniel Boone in 1775, the Wilderness Road ran from the Watauga settlement in east Tennessee to the Cumberland Gap, then through Bardstown, Danville, and Crab Orchard to the Falls of the Ohio. It remained a trail passable only by horses and men until 1795, when it became a wagon road.
+
+## Political Development and Statehood
+Kentucky was originally part of Virginia. Between 1784 and 1790, nine conventions were held at Danville to demand separation from Virginia, as settlers felt the "mother state" failed to provide adequate local government or protection. While Virginia was willing to grant the request, the process was delayed by Congress. This delay, combined with a proposal by Secretary for Foreign Affairs John Jay to surrender navigation rights on the lower Mississippi to Spain, led some leaders, including General James Wilkinson, to intrigue for separation from both Virginia and the United States.
+
+Despite these plots, the region remained largely loyal. Congress passed a preliminary act in February 1791, and Kentucky was formally admitted to the Union on June 1, 1792. General Isaac Shelby served as the first governor under a constitution that provided for manhood suffrage and the election of senators and the governor by an electoral college.
+
+## Religious and Social History
+In the southern colonies, the spread of Baptist principles was influenced by "New Light" evangelists Shubael Stearns and Daniel Marshall. Stearns and Marshall settled at Sandy Creek, North Carolina, where Stearns built a church with over six hundred members. From North Carolina, "Separate" Baptist influence extended into Tennessee, Kentucky, and Virginia. The Baptist cause in Virginia and North Carolina had also been strengthened by missionaries from the Philadelphia Association, including John Gano, Benjamin Griffith, and others, who formed the Ketockton Association in 1776. While the Virginia colonial government provided limited toleration to some Baptists, "Separate" Baptists often conflicted with authorities due to their refusal to take licenses for meetings.
+
+Regarding electoral practices, voting in Virginia and Kentucky was conducted *viva voce* (by voice) long after other colonies adopted ballots. North Carolina used ballots by 1775, but Kentucky continued *viva voce* voting until 1819, and Virginia did not provide for ballot voting until 1869.
+
+## The City of Bristol
+Bristol is a railway centre of importance located in Sullivan county, Tennessee, and Washington county, Virginia. Settled around 1835, the Tennessee side was incorporated in 1856, while the Virginia side (formerly known as Goodson) was chartered as a city in 1890. The city serves as a distributing point for coke, coal, and iron, benefiting from nearby mineral deposits in North Carolina, Kentucky, West Virginia, Tennessee, and Virginia. Its industry includes furniture factories, tobacco factories, iron furnaces, lumber mills, and tanneries. Educational institutions in the city include the Virginia Institute for Women (Baptist, 1884), Sullins College for women (Methodist Episcopal, South, 1870), and a normal college for negroes on the Tennessee side.
+
+## Sources
+Compiled from: britannica11 vol03a brequigny to bulgaria, britannica11 vol16a kelly edward to kite, britannica11 vol02c banks to bassoon, britannica11 vol03b bohemia to borgia, britannica11 vol02b baconthorpe to bankruptcy, britannica11 vol14a ichthyology to independence
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
