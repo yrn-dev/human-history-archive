@@ -1,5 +1,5 @@
 {
- "count": 5262,
+ "count": 5263,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36834,6 +36834,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005264-1881-hodgkin-history-england-earliest-times.md",
    "at": "2026-10-12T09:38:30+00:00"
+  },
+  {
+   "slug": "chadwick-studies-anglo-saxon-institutions-cambridge-1905",
+   "title": "Chadwick, Studies on Anglo-Saxon Institutions (Cambridge, 1905); The",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005265-chadwick-studies-anglo-saxon-institutions-cambridge-1905.md",
+   "at": "2026-10-12T09:48:17+00:00"
   }
  ]
 }
