@@ -1,5 +1,5 @@
 {
- "count": 5221,
+ "count": 5222,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36547,6 +36547,13 @@
    "era": "ancient",
    "file": "eras/ancient/005223-petrie-monumenta-hist-britann-1848-alphabetically.md",
    "at": "2026-10-12T02:38:42+00:00"
+  },
+  {
+   "slug": "holder-altkeltische-sprachschatz-1896-1908-roman-inscriptions",
+   "title": "Holder's Altkeltische Sprachschatz (1896-1908). The Roman inscriptions",
+   "era": "ancient",
+   "file": "eras/ancient/005224-holder-altkeltische-sprachschatz-1896-1908-roman-inscriptions.md",
+   "at": "2026-10-12T02:48:41+00:00"
   }
  ]
 }
