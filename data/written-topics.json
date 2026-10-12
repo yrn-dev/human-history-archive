@@ -1,5 +1,5 @@
 {
- "count": 5224,
+ "count": 5225,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36568,6 +36568,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/005226-bronze-implements-ancient-british-coins-suppl-boyd.md",
    "at": "2026-10-12T03:08:49+00:00"
+  },
+  {
+   "slug": "1863-arthur-evans-archaeologia-vols-lii--lv-celtic",
+   "title": "(1863), and Arthur J. Evans in Archaeologia, vols. lii.-lv. Celtic",
+   "era": "cultures",
+   "file": "eras/cultures/005227-1863-arthur-evans-archaeologia-vols-lii--lv-celtic.md",
+   "at": "2026-10-12T03:18:46+00:00"
   }
  ]
 }
