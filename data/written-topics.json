@@ -1,5 +1,5 @@
 {
- "count": 5226,
+ "count": 5227,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36582,6 +36582,13 @@
    "era": "ancient",
    "file": "eras/ancient/005228-history-also-chapter-mommsen-roman-provinces-article.md",
    "at": "2026-10-12T03:28:45+00:00"
+  },
+  {
+   "slug": "1867-reports-excavations-haverfield-cumberland",
+   "title": "1867); reports of excavations by Haverfield in the Cumberland",
+   "era": "ancient",
+   "file": "eras/ancient/005229-1867-reports-excavations-haverfield-cumberland.md",
+   "at": "2026-10-12T03:38:42+00:00"
   }
  ]
 }
