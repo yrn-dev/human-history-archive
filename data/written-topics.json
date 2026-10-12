@@ -1,5 +1,5 @@
 {
- "count": 5321,
+ "count": 5322,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37247,6 +37247,13 @@
    "era": "cultures",
    "file": "eras/cultures/005323-pinus-murrayana-yellow-pine-pinus-ponderosa-douglas-fir.md",
    "at": "2026-10-12T19:47:47+00:00"
+  },
+  {
+   "slug": "pseudotsuga-douglasii-western-white-oak-quercus-garryana-giant",
+   "title": "(Pseudotsuga Douglasii), western white oak (Quercus garryana), giant",
+   "era": "cultures",
+   "file": "eras/cultures/005324-pseudotsuga-douglasii-western-white-oak-quercus-garryana-giant.md",
+   "at": "2026-10-12T19:57:49+00:00"
   }
  ]
 }
