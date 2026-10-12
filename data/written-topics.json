@@ -1,5 +1,5 @@
 {
- "count": 5225,
+ "count": 5226,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36575,6 +36575,13 @@
    "era": "cultures",
    "file": "eras/cultures/005227-1863-arthur-evans-archaeologia-vols-lii--lv-celtic.md",
    "at": "2026-10-12T03:18:46+00:00"
+  },
+  {
+   "slug": "history-also-chapter-mommsen-roman-provinces-article",
+   "title": "History; also the chapter in Mommsen's Roman Provinces; and an article",
+   "era": "ancient",
+   "file": "eras/ancient/005228-history-also-chapter-mommsen-roman-provinces-article.md",
+   "at": "2026-10-12T03:28:45+00:00"
   }
  ]
 }
