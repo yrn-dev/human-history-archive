@@ -1,5 +1,5 @@
 {
- "count": 5260,
+ "count": 5261,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36820,6 +36820,13 @@
    "era": "ancient",
    "file": "eras/ancient/005262-london-1885-1893-modern-authorities-sh-turner-history.md",
    "at": "2026-10-12T09:19:07+00:00"
+  },
+  {
+   "slug": "anglo-saxons-london-1799-1805-7th-ed-1852-sir-palgrave-rise",
+   "title": "Anglo-Saxons (London, 1799-1805; 7th ed., 1852); Sir F. Palgrave, Rise",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005263-anglo-saxons-london-1799-1805-7th-ed-1852-sir-palgrave-rise.md",
+   "at": "2026-10-12T09:28:28+00:00"
   }
  ]
 }
