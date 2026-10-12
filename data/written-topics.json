@@ -1,5 +1,5 @@
 {
- "count": 5332,
+ "count": 5333,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37324,6 +37324,13 @@
    "era": "modern",
    "file": "eras/modern/005334-history---the-discovery-british-columbia-made-spaniard.md",
    "at": "2026-10-12T22:07:51+00:00"
+  },
+  {
+   "slug": "hudson-bay-company-next-twenty-eight-years-hudson-bay",
+   "title": "Hudson's Bay Company. For the next twenty-eight years the Hudson's Bay",
+   "era": "industrial",
+   "file": "eras/industrial/005335-hudson-bay-company-next-twenty-eight-years-hudson-bay.md",
+   "at": "2026-10-12T22:17:40+00:00"
   }
  ]
 }
