@@ -1,5 +1,5 @@
 {
- "count": 5268,
+ "count": 5269,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36876,6 +36876,13 @@
    "era": "cultures",
    "file": "eras/cultures/005270-society-proceedings-society-antiquaries-associated.md",
    "at": "2026-10-12T10:38:17+00:00"
+  },
+  {
+   "slug": "(h.-m.-c.)",
+   "title": "(H. M. C.)",
+   "era": "modern",
+   "file": "eras/modern/005271-(h.-m.-c.).md",
+   "at": "2026-10-12T10:48:14+00:00"
   }
  ]
 }
