@@ -1,5 +1,5 @@
 {
- "count": 5299,
+ "count": 5300,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37093,6 +37093,13 @@
    "era": "modern",
    "file": "eras/modern/005301-rev-horace-waller-1874-monteith-fotheringham-adventures.md",
    "at": "2026-10-12T16:07:58+00:00"
+  },
+  {
+   "slug": "scott-encyclopaedic-dictionary-mang-anja-language",
+   "title": "D.C. Scott, An Encyclopaedic Dictionary of the Mang'anja Language, as",
+   "era": "modern",
+   "file": "eras/modern/005302-scott-encyclopaedic-dictionary-mang-anja-language.md",
+   "at": "2026-10-12T16:17:56+00:00"
   }
  ]
 }
