@@ -1,5 +1,5 @@
 {
- "count": 5309,
+ "count": 5310,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37163,6 +37163,13 @@
    "era": "industrial",
    "file": "eras/industrial/005311-grand-trunk-pacific-railway-pine-river-pass-2850-peace.md",
    "at": "2026-10-12T17:47:55+00:00"
+  },
+  {
+   "slug": "pacific-still-farther-north-stikine-rises-british",
+   "title": "Pacific, and still farther to the north the Stikine rises in British",
+   "era": "modern",
+   "file": "eras/modern/005312-pacific-still-farther-north-stikine-rises-british.md",
+   "at": "2026-10-12T17:57:57+00:00"
   }
  ]
 }
