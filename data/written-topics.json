@@ -1,5 +1,5 @@
 {
- "count": 5301,
+ "count": 5302,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37107,6 +37107,13 @@
    "era": "modern",
    "file": "eras/modern/005303-central-africa-2nd-ed-1898-miss-werner-natives-british.md",
    "at": "2026-10-12T16:28:02+00:00"
+  },
+  {
+   "slug": "de-cle-three-years-savage-africa-1898-duff-nyasaland",
+   "title": "Décle, Three Years in Savage Africa (1898); H.L. Duff, Nyasaland under",
+   "era": "modern",
+   "file": "eras/modern/005304-de-cle-three-years-savage-africa-1898-duff-nyasaland.md",
+   "at": "2026-10-12T16:38:06+00:00"
   }
  ]
 }
