@@ -1,5 +1,5 @@
 {
- "count": 5331,
+ "count": 5332,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37317,6 +37317,13 @@
    "era": "industrial",
    "file": "eras/industrial/005333-shipping---the-canadian-pacific-railway-company-two-lines-mail.md",
    "at": "2026-10-12T21:57:42+00:00"
+  },
+  {
+   "slug": "history---the-discovery-british-columbia-made-spaniard",
+   "title": "History.--The discovery of British Columbia was made by the Spaniard",
+   "era": "modern",
+   "file": "eras/modern/005334-history---the-discovery-british-columbia-made-spaniard.md",
+   "at": "2026-10-12T22:07:51+00:00"
   }
  ]
 }
