@@ -1,5 +1,5 @@
 {
- "count": 5291,
+ "count": 5292,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37037,6 +37037,13 @@
    "era": "modern",
    "file": "eras/modern/005293-administration---the-present-political-divisions-country-04.md",
    "at": "2026-10-12T14:48:14+00:00"
+  },
+  {
+   "slug": "history---the-history-territory-dealt-above-recent",
+   "title": "History.--The history of the territory dealt with above is recent and",
+   "era": "ancient",
+   "file": "eras/ancient/005294-history---the-history-territory-dealt-above-recent.md",
+   "at": "2026-10-12T14:58:00+00:00"
   }
  ]
 }
