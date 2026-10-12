@@ -1,5 +1,5 @@
 {
- "count": 5267,
+ "count": 5268,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36869,6 +36869,13 @@
    "era": "cultures",
    "file": "eras/cultures/005269-archaeological-journal-journal-british-archaeological.md",
    "at": "2026-10-12T10:28:12+00:00"
+  },
+  {
+   "slug": "society-proceedings-society-antiquaries-associated",
+   "title": "Society, the Proceedings of the Society of Antiquaries, the Associated",
+   "era": "cultures",
+   "file": "eras/cultures/005270-society-proceedings-society-antiquaries-associated.md",
+   "at": "2026-10-12T10:38:17+00:00"
   }
  ]
 }
