@@ -1,5 +1,5 @@
 {
- "count": 5337,
+ "count": 5338,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37359,6 +37359,13 @@
    "era": "modern",
    "file": "eras/modern/005339-minister-mines-other-departmental-reports-provincial.md",
    "at": "2026-10-12T22:57:48+00:00"
+  },
+  {
+   "slug": "geological-survey-canada-1871-date-reports-canadian",
+   "title": "Geological Survey of Canada (from 1871 to date); Reports of Canadian",
+   "era": "modern",
+   "file": "eras/modern/005340-geological-survey-canada-1871-date-reports-canadian.md",
+   "at": "2026-10-12T23:07:35+00:00"
   }
  ]
 }
