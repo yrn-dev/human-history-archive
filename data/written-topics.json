@@ -1,5 +1,5 @@
 {
- "count": 5336,
+ "count": 5337,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37352,6 +37352,13 @@
    "era": "industrial",
    "file": "eras/industrial/005338-reports-british-columbia-board-trade-victoria-annual-reports.md",
    "at": "2026-10-12T22:47:35+00:00"
+  },
+  {
+   "slug": "minister-mines-other-departmental-reports-provincial",
+   "title": "Minister of Mines and other Departmental Reports of the Provincial and",
+   "era": "modern",
+   "file": "eras/modern/005339-minister-mines-other-departmental-reports-provincial.md",
+   "at": "2026-10-12T22:57:48+00:00"
   }
  ]
 }
