@@ -1,5 +1,5 @@
 {
- "count": 5334,
+ "count": 5335,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37338,6 +37338,13 @@
    "era": "modern",
    "file": "eras/modern/005336-bancroft-works-vol-xxxii-history-british-columbia-san.md",
    "at": "2026-10-12T22:27:43+00:00"
+  },
+  {
+   "slug": "gosnell-year-book-victoria-british-columbia-1897-1903-annual",
+   "title": "Gosnell, Year Book (Victoria, British Columbia, 1897 and 1903); Annual",
+   "era": "industrial",
+   "file": "eras/industrial/005337-gosnell-year-book-victoria-british-columbia-1897-1903-annual.md",
+   "at": "2026-10-12T22:37:36+00:00"
   }
  ]
 }
