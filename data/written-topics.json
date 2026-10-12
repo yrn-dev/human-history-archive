@@ -1,5 +1,5 @@
 {
- "count": 5220,
+ "count": 5221,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36540,6 +36540,13 @@
    "era": "ancient",
    "file": "eras/ancient/005222-400-ed-seeck-1876-ravennas-7th-century.md",
    "at": "2026-10-12T02:28:49+00:00"
+  },
+  {
+   "slug": "petrie-monumenta-hist-britann-1848-alphabetically",
+   "title": "Petrie's Monumenta Hist. Britann. (1848), and (alphabetically) in",
+   "era": "ancient",
+   "file": "eras/ancient/005223-petrie-monumenta-hist-britann-1848-alphabetically.md",
+   "at": "2026-10-12T02:38:42+00:00"
   }
  ]
 }
