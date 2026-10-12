@@ -1,5 +1,5 @@
 {
- "count": 5324,
+ "count": 5325,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37268,6 +37268,13 @@
    "era": "modern",
    "file": "eras/modern/005326-china-japan-802-426-787-784.md",
    "at": "2026-10-12T20:47:46+00:00"
+  },
+  {
+   "slug": "germany-983-342",
+   "title": "Germany                                              983,342",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005327-germany-983-342.md",
+   "at": "2026-10-12T20:57:46+00:00"
   }
  ]
 }
