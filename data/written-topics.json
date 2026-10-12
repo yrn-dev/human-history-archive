@@ -1,5 +1,5 @@
 {
- "count": 5297,
+ "count": 5298,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37079,6 +37079,13 @@
    "era": "modern",
    "file": "eras/modern/005299-rhodesia-administered-four-years-sir-harry-johnston.md",
    "at": "2026-10-12T15:48:05+00:00"
+  },
+  {
+   "slug": "livingstone-1865-last-journals-david-livingstone-edited",
+   "title": "Livingstone (1865); Last Journals of David Livingstone, edited by the",
+   "era": "industrial",
+   "file": "eras/industrial/005300-livingstone-1865-last-journals-david-livingstone-edited.md",
+   "at": "2026-10-12T15:57:59+00:00"
   }
  ]
 }
