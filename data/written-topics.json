@@ -1,5 +1,5 @@
 {
- "count": 5266,
+ "count": 5267,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36862,6 +36862,13 @@
    "era": "cultures",
    "file": "eras/cultures/005268-county-histories-various-papers-archaeologia.md",
    "at": "2026-10-12T10:18:24+00:00"
+  },
+  {
+   "slug": "archaeological-journal-journal-british-archaeological",
+   "title": "Archaeological Journal, the Journal of the British Archaeological",
+   "era": "cultures",
+   "file": "eras/cultures/005269-archaeological-journal-journal-british-archaeological.md",
+   "at": "2026-10-12T10:28:12+00:00"
   }
  ]
 }
