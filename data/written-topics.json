@@ -1,5 +1,5 @@
 {
- "count": 5333,
+ "count": 5334,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37331,6 +37331,13 @@
    "era": "industrial",
    "file": "eras/industrial/005335-hudson-bay-company-next-twenty-eight-years-hudson-bay.md",
    "at": "2026-10-12T22:17:40+00:00"
+  },
+  {
+   "slug": "bancroft-works-vol-xxxii-history-british-columbia-san",
+   "title": "Bancroft's works, vol. xxxii., History of British Columbia (San",
+   "era": "modern",
+   "file": "eras/modern/005336-bancroft-works-vol-xxxii-history-british-columbia-san.md",
+   "at": "2026-10-12T22:27:43+00:00"
   }
  ]
 }
