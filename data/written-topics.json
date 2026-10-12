@@ -1,5 +1,5 @@
 {
- "count": 5265,
+ "count": 5266,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -36855,6 +36855,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005267-brown-arts-early-england-london-1903-keary-catalogue.md",
    "at": "2026-10-12T10:08:21+00:00"
+  },
+  {
+   "slug": "county-histories-various-papers-archaeologia",
+   "title": "County Histories, and to various papers in Archaeologia, the",
+   "era": "cultures",
+   "file": "eras/cultures/005268-county-histories-various-papers-archaeologia.md",
+   "at": "2026-10-12T10:18:24+00:00"
   }
  ]
 }
