@@ -1,5 +1,5 @@
 {
- "count": 5403,
+ "count": 5404,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37821,6 +37821,13 @@
    "era": "cultures",
    "file": "eras/cultures/005405-gold-coast-hinterland--chiefly-black-700-000.md",
    "at": "2026-10-13T15:34:17+00:00"
+  },
+  {
+   "slug": "sierra-leone-000-000",
+   "title": "Sierra Leone                   \"     \"        1,000,000",
+   "era": "modern",
+   "file": "eras/modern/005406-sierra-leone-000-000.md",
+   "at": "2026-10-13T16:09:27+00:00"
   }
  ]
 }
