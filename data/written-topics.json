@@ -1,5 +1,5 @@
 {
- "count": 5390,
+ "count": 5391,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37730,6 +37730,13 @@
    "era": "modern",
    "file": "eras/modern/005392-white-population-empire-reached-1901-total.md",
    "at": "2026-10-13T12:34:03+00:00"
+  },
+  {
+   "slug": "british-north-america-500-000",
+   "title": "British North America                  5,500,000",
+   "era": "modern",
+   "file": "eras/modern/005393-british-north-america-500-000.md",
+   "at": "2026-10-13T12:44:06+00:00"
   }
  ]
 }
