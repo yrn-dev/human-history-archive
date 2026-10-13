@@ -1,5 +1,5 @@
 {
- "count": 5432,
+ "count": 5433,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38024,6 +38024,13 @@
    "era": "industrial",
    "file": "eras/industrial/005434-indian-section-empire-acquired-during-17th-19th.md",
    "at": "2026-10-13T22:21:35+00:00"
+  },
+  {
+   "slug": "united-provinces-1764-conquests-treaty-through",
+   "title": "United Provinces      1764      By conquests and treaty through",
+   "era": "modern",
+   "file": "eras/modern/005435-united-provinces-1764-conquests-treaty-through.md",
+   "at": "2026-10-13T22:31:34+00:00"
   }
  ]
 }
