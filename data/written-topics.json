@@ -1,5 +1,5 @@
 {
- "count": 5359,
+ "count": 5361,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37513,6 +37513,20 @@
    "era": "modern",
    "file": "eras/modern/005361-provinces-towns---the-protectorate-been-divided.md",
    "at": "2026-10-13T05:18:19+00:00"
+  },
+  {
+   "slug": "capital-kismayu-naivasha-capital-naivasha-kisumu-capital",
+   "title": "(capital Kismayu); Naivasha (capital Naivasha); and Kisumu (capital",
+   "era": "modern",
+   "file": "eras/modern/005362-capital-kismayu-naivasha-capital-naivasha-kisumu-capital.md",
+   "at": "2026-10-13T05:35:00+00:00"
+  },
+  {
+   "slug": "freretown-called-natives-kisaoni-headquarters-east",
+   "title": "Freretown (called by the natives Kisaoni) is the headquarters in East",
+   "era": "modern",
+   "file": "eras/modern/005363-freretown-called-natives-kisaoni-headquarters-east.md",
+   "at": "2026-10-13T05:37:30+00:00"
   }
  ]
 }
