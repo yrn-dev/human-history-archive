@@ -1,5 +1,5 @@
 {
- "count": 5419,
+ "count": 5420,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37933,6 +37933,13 @@
    "era": "modern",
    "file": "eras/modern/005421-total-388-712-785.md",
    "at": "2026-10-13T18:39:07+00:00"
+  },
+  {
+   "slug": "without-taking-account-population-lesser-crown",
+   "title": "This is without taking into account the population of the lesser crown",
+   "era": "cultures",
+   "file": "eras/cultures/005422-without-taking-account-population-lesser-crown.md",
+   "at": "2026-10-13T18:48:58+00:00"
   }
  ]
 }
