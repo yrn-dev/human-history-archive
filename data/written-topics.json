@@ -1,5 +1,5 @@
 {
- "count": 5385,
+ "count": 5386,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37695,6 +37695,13 @@
    "era": "industrial",
    "file": "eras/industrial/005387-uganda-railway-summarized-final-report-uganda-railway.md",
    "at": "2026-10-13T11:18:30+00:00"
+  },
+  {
+   "slug": "(f.-r.-c.)",
+   "title": "(F. R. C.)",
+   "era": "modern",
+   "file": "eras/modern/005388-(f.-r.-c.).md",
+   "at": "2026-10-13T11:28:16+00:00"
   }
  ]
 }
