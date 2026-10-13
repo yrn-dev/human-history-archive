@@ -1,5 +1,5 @@
 {
- "count": 5427,
+ "count": 5428,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37989,6 +37989,13 @@
    "era": "modern",
    "file": "eras/modern/005429-pacific-islands--.md",
    "at": "2026-10-13T21:32:16+00:00"
+  },
+  {
+   "slug": "solomon-group",
+   "title": "(Solomon Group)",
+   "era": "cultures",
+   "file": "eras/cultures/005430-solomon-group.md",
+   "at": "2026-10-13T21:42:10+00:00"
   }
  ]
 }
