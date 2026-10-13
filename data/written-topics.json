@@ -1,5 +1,5 @@
 {
- "count": 5430,
+ "count": 5431,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38010,6 +38010,13 @@
    "era": "modern",
    "file": "eras/modern/005432-islands-danger-islands-ducie-island-dudosa-howland-island-jarvis.md",
    "at": "2026-10-13T22:01:37+00:00"
+  },
+  {
+   "slug": "island-kermadec-islands-macquarie-island-manihiki-islands-nassau",
+   "title": "Island, Kermadec Islands, Macquarie Island, Manihiki Islands, Nassau",
+   "era": "modern",
+   "file": "eras/modern/005433-island-kermadec-islands-macquarie-island-manihiki-islands-nassau.md",
+   "at": "2026-10-13T22:11:39+00:00"
   }
  ]
 }
