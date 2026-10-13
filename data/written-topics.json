@@ -1,5 +1,5 @@
 {
- "count": 5415,
+ "count": 5416,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37905,6 +37905,13 @@
    "era": "modern",
    "file": "eras/modern/005417-british-central-africa-000-000.md",
    "at": "2026-10-13T17:58:50+00:00"
+  },
+  {
+   "slug": "east-africa-425-000",
+   "title": "East Africa                                      7,425,000",
+   "era": "cultures",
+   "file": "eras/cultures/005418-east-africa-425-000.md",
+   "at": "2026-10-13T18:09:00+00:00"
   }
  ]
 }
