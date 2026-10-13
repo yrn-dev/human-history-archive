@@ -1,5 +1,5 @@
 {
- "count": 5436,
+ "count": 5437,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38052,6 +38052,13 @@
    "era": "modern",
    "file": "eras/modern/005438-relation-empire-home-section-british-isles.md",
    "at": "2026-10-13T23:01:40+00:00"
+  },
+  {
+   "slug": "history-india-africa-australia-canada",
+   "title": "HISTORY; INDIA; AFRICA; AUSTRALIA; CANADA; &c.)",
+   "era": "modern",
+   "file": "eras/modern/005439-history-india-africa-australia-canada.md",
+   "at": "2026-10-13T23:11:39+00:00"
   }
  ]
 }
