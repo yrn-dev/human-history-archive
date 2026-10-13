@@ -1,5 +1,5 @@
 {
- "count": 5424,
+ "count": 5425,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37968,6 +37968,13 @@
    "era": "modern",
    "file": "eras/modern/005426-grenada-1762.md",
    "at": "2026-10-13T20:41:56+00:00"
+  },
+  {
+   "slug": "malta-1800",
+   "title": "Malta                           1800          \"",
+   "era": "industrial",
+   "file": "eras/industrial/005427-malta-1800.md",
+   "at": "2026-10-13T20:51:47+00:00"
   }
  ]
 }
