@@ -1,5 +1,5 @@
 {
- "count": 5416,
+ "count": 5417,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37912,6 +37912,13 @@
    "era": "cultures",
    "file": "eras/cultures/005418-east-africa-425-000.md",
    "at": "2026-10-13T18:09:00+00:00"
+  },
+  {
+   "slug": "west-africa-18-863-000",
+   "title": "West Africa                                     18,863,000",
+   "era": "cultures",
+   "file": "eras/cultures/005419-west-africa-18-863-000.md",
+   "at": "2026-10-13T18:18:55+00:00"
   }
  ]
 }
