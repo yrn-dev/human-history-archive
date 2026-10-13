@@ -1,5 +1,5 @@
 {
- "count": 5400,
+ "count": 5401,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37800,6 +37800,13 @@
    "era": "cultures",
    "file": "eras/cultures/005402-natives-estimated-000-000.md",
    "at": "2026-10-13T14:54:12+00:00"
+  },
+  {
+   "slug": "asiatics-estimated-25-000",
+   "title": "Asiatics (estimated)                        25,000",
+   "era": "cultures",
+   "file": "eras/cultures/005403-asiatics-estimated-25-000.md",
+   "at": "2026-10-13T15:03:53+00:00"
   }
  ]
 }
