@@ -1,5 +1,5 @@
 {
- "count": 5366,
+ "count": 5367,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37562,6 +37562,13 @@
    "era": "industrial",
    "file": "eras/industrial/005368-railway-doing-away-carriage-goods-men-gave.md",
    "at": "2026-10-13T07:02:52+00:00"
+  },
+  {
+   "slug": "trade---the-imports-consist-largely-textiles-hardware",
+   "title": "Trade.--The imports consist largely of textiles, hardware and",
+   "era": "modern",
+   "file": "eras/modern/005369-trade---the-imports-consist-largely-textiles-hardware.md",
+   "at": "2026-10-13T07:13:07+00:00"
   }
  ]
 }
