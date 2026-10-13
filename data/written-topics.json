@@ -1,5 +1,5 @@
 {
- "count": 5392,
+ "count": 5393,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37744,6 +37744,13 @@
    "era": "cultures",
    "file": "eras/cultures/005394-population-india-divided-118-groups-basis.md",
    "at": "2026-10-13T12:54:04+00:00"
+  },
+  {
+   "slug": "eastern-colonies",
+   "title": "Eastern Colonies",
+   "era": "industrial",
+   "file": "eras/industrial/005395-eastern-colonies.md",
+   "at": "2026-10-13T13:27:24+00:00"
   }
  ]
 }
