@@ -1,5 +1,5 @@
 {
- "count": 5425,
+ "count": 5426,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37975,6 +37975,13 @@
    "era": "industrial",
    "file": "eras/industrial/005427-malta-1800.md",
    "at": "2026-10-13T20:51:47+00:00"
+  },
+  {
+   "slug": "gilbert-southern-solomon-islands-not-included",
+   "title": "Gilbert, Southern Solomon,               over islands not included in",
+   "era": "modern",
+   "file": "eras/modern/005428-gilbert-southern-solomon-islands-not-included.md",
+   "at": "2026-10-13T21:11:42+00:00"
   }
  ]
 }
