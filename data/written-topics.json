@@ -1,5 +1,5 @@
 {
- "count": 5364,
+ "count": 5365,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37548,6 +37548,13 @@
    "era": "modern",
    "file": "eras/modern/005366-gulf-railway-584-long-metre-28-ft-gauge.md",
    "at": "2026-10-13T06:52:25+00:00"
+  },
+  {
+   "slug": "florence-railway-built-british-government-cost",
+   "title": "Florence. The railway was built by the British government at a cost of",
+   "era": "industrial",
+   "file": "eras/industrial/005367-florence-railway-built-british-government-cost.md",
+   "at": "2026-10-13T06:53:14+00:00"
   }
  ]
 }
