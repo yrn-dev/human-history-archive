@@ -1,5 +1,5 @@
 {
- "count": 5431,
+ "count": 5432,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38017,6 +38017,13 @@
    "era": "modern",
    "file": "eras/modern/005433-island-kermadec-islands-macquarie-island-manihiki-islands-nassau.md",
    "at": "2026-10-13T22:11:39+00:00"
+  },
+  {
+   "slug": "indian-section-empire-acquired-during-17th-19th",
+   "title": "The Indian section of the empire was acquired during the 17th-19th",
+   "era": "industrial",
+   "file": "eras/industrial/005434-indian-section-empire-acquired-during-17th-19th.md",
+   "at": "2026-10-13T22:21:35+00:00"
   }
  ]
 }
