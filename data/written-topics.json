@@ -1,5 +1,5 @@
 {
- "count": 5433,
+ "count": 5434,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38031,6 +38031,13 @@
    "era": "modern",
    "file": "eras/modern/005435-united-provinces-1764-conquests-treaty-through.md",
    "at": "2026-10-13T22:31:34+00:00"
+  },
+  {
+   "slug": "eastern-bengal-1825-1826-conquest-cession-bengal",
+   "title": "Eastern Bengal      1825-1826   Conquest and cession. The Bengal",
+   "era": "industrial",
+   "file": "eras/industrial/005436-eastern-bengal-1825-1826-conquest-cession-bengal.md",
+   "at": "2026-10-13T22:41:39+00:00"
   }
  ]
 }
