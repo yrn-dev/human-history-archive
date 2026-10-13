@@ -1,5 +1,5 @@
 {
- "count": 5384,
+ "count": 5385,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37688,6 +37688,13 @@
    "era": "modern",
    "file": "eras/modern/005386-maud-report-africa-no-13-1904-geology-see-besides.md",
    "at": "2026-10-13T11:08:18+00:00"
+  },
+  {
+   "slug": "uganda-railway-summarized-final-report-uganda-railway",
+   "title": "Uganda railway is summarized in the Final Report of the Uganda Railway",
+   "era": "industrial",
+   "file": "eras/industrial/005387-uganda-railway-summarized-final-report-uganda-railway.md",
+   "at": "2026-10-13T11:18:30+00:00"
   }
  ]
 }
