@@ -1,5 +1,5 @@
 {
- "count": 5346,
+ "count": 5347,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37422,6 +37422,13 @@
    "era": "modern",
    "file": "eras/modern/005348-victoria-nyanza-mau-plateau-reaches-height-9000-ft.md",
    "at": "2026-10-13T00:27:39+00:00"
+  },
+  {
+   "slug": "daua-tributary-juba-mountain-range-steep-escarpment",
+   "title": "Daua tributary of the Juba is a mountain range with a steep escarpment",
+   "era": "cultures",
+   "file": "eras/cultures/005349-daua-tributary-juba-mountain-range-steep-escarpment.md",
+   "at": "2026-10-13T00:37:50+00:00"
   }
  ]
 }
