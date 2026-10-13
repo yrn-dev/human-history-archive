@@ -1,5 +1,5 @@
 {
- "count": 5381,
+ "count": 5383,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -37667,6 +37667,20 @@
    "era": "modern",
    "file": "eras/modern/005383-protectorate-sir-charles-eliot-london-1905-progress.md",
    "at": "2026-10-13T10:38:57+00:00"
+  },
+  {
+   "slug": "africa-bombay-first-issued-1908-pre-cis-information",
+   "title": "Africa (Bombay), first issued in 1908. The Précis of Information",
+   "era": "industrial",
+   "file": "eras/industrial/005384-africa-bombay-first-issued-1908-pre-cis-information.md",
+   "at": "2026-10-13T10:48:20+00:00"
+  },
+  {
+   "slug": "uganda-east-africa-london-1908-contains-summary-missionary",
+   "title": "Uganda and East Africa (London, 1908) contains a summary of missionary",
+   "era": "modern",
+   "file": "eras/modern/005385-uganda-east-africa-london-1908-contains-summary-missionary.md",
+   "at": "2026-10-13T10:58:30+00:00"
   }
  ]
 }
