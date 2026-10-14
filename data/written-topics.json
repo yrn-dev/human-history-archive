@@ -1,5 +1,5 @@
 {
- "count": 5486,
+ "count": 5487,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38402,6 +38402,13 @@
    "era": "modern",
    "file": "eras/modern/005488-history-british-honduras-gibbs-london-1883-notes.md",
    "at": "2026-10-14T08:32:44+00:00"
+  },
+  {
+   "slug": "central-america-squier-new-york-1855-belize",
+   "title": "Central America, by E.J. Squier (New York, 1855); and in Belize or",
+   "era": "industrial",
+   "file": "eras/industrial/005489-central-america-squier-new-york-1855-belize.md",
+   "at": "2026-10-14T08:42:55+00:00"
   }
  ]
 }
