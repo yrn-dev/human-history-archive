@@ -1,5 +1,5 @@
 {
- "count": 5500,
+ "count": 5501,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38500,6 +38500,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005502-louis-xi-notably-during-war-public-weal-afterwards.md",
    "at": "2026-10-14T11:02:56+00:00"
+  },
+  {
+   "slug": "see-bertrand-argentre-histoire-de-bretagne-paris-1586-dom",
+   "title": "See Bertrand d'Argentré, Histoire de Bretagne (Paris, 1586); Dom",
+   "era": "renaissance",
+   "file": "eras/renaissance/005503-see-bertrand-argentre-histoire-de-bretagne-paris-1586-dom.md",
+   "at": "2026-10-14T11:13:04+00:00"
   }
  ]
 }
