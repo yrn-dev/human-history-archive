@@ -1,5 +1,5 @@
 {
- "count": 5505,
+ "count": 5506,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38535,6 +38535,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005507-montfort-1345-among-dukes-brittany-according.md",
    "at": "2026-10-14T11:52:20+00:00"
+  },
+  {
+   "slug": "normandy-illustrations-pugin-1825-1827-picturesque",
+   "title": "Normandy, with illustrations by Pugin (1825-1827); Picturesque",
+   "era": "industrial",
+   "file": "eras/industrial/005508-normandy-illustrations-pugin-1825-1827-picturesque.md",
+   "at": "2026-10-14T12:12:20+00:00"
   }
  ]
 }
