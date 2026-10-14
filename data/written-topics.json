@@ -1,5 +1,5 @@
 {
- "count": 5461,
+ "count": 5462,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38227,6 +38227,13 @@
    "era": "industrial",
    "file": "eras/industrial/005463-britain-1890-british-empire-1899-parkin-imperial.md",
    "at": "2026-10-14T04:23:08+00:00"
+  },
+  {
+   "slug": "federation-1892-sir-john-colomb-imperial-federation-naval",
+   "title": "Federation (1892); Sir John Colomb, Imperial Federation, Naval and",
+   "era": "industrial",
+   "file": "eras/industrial/005464-federation-1892-sir-john-colomb-imperial-federation-naval.md",
+   "at": "2026-10-14T04:33:43+00:00"
   }
  ]
 }
