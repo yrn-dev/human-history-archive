@@ -1,5 +1,5 @@
 {
- "count": 5531,
+ "count": 5532,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38717,6 +38717,13 @@
    "era": "cultures",
    "file": "eras/cultures/005533-rhenish-byzantine-weavers-even-spanish-weavers-many-whom.md",
    "at": "2026-10-14T16:42:11+00:00"
+  },
+  {
+   "slug": "(a.-s.-c.)",
+   "title": "(A. S. C.)",
+   "era": "ancient",
+   "file": "eras/ancient/005534-(a.-s.-c.).md",
+   "at": "2026-10-14T16:52:19+00:00"
   }
  ]
 }
