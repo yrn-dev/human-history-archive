@@ -1,5 +1,5 @@
 {
- "count": 5509,
+ "count": 5510,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38563,6 +38563,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005511-cambridge-university-library-summa-de-legibus-anglie-que-vocatur.md",
    "at": "2026-10-14T13:02:29+00:00"
+  },
+  {
+   "slug": "bretone-described-book-called-bretoun",
+   "title": "Bretone; and it is described as \"a book called Bretoun\" in the will of",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005512-bretone-described-book-called-bretoun.md",
+   "at": "2026-10-14T13:12:19+00:00"
   }
  ]
 }
