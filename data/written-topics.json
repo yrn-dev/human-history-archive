@@ -1,5 +1,5 @@
 {
- "count": 5501,
+ "count": 5502,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38507,6 +38507,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005503-see-bertrand-argentre-histoire-de-bretagne-paris-1586-dom.md",
    "at": "2026-10-14T11:13:04+00:00"
+  },
+  {
+   "slug": "lobineau-histoire-de-bretagne-paris-1702-dom-morice-histoire-de",
+   "title": "Lobineau, Histoire de Bretagne (Paris, 1702); Dom Morice, Histoire de",
+   "era": "modern",
+   "file": "eras/modern/005504-lobineau-histoire-de-bretagne-paris-1702-dom-morice-histoire-de.md",
+   "at": "2026-10-14T11:22:52+00:00"
   }
  ]
 }
