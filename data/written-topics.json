@@ -1,5 +1,5 @@
 {
- "count": 5487,
+ "count": 5488,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38409,6 +38409,13 @@
    "era": "industrial",
    "file": "eras/industrial/005489-central-america-squier-new-york-1855-belize.md",
    "at": "2026-10-14T08:42:55+00:00"
+  },
+  {
+   "slug": "briton-ferry-seaport-mid-parliamentary-division",
+   "title": "BRITON-FERRY, a seaport in the mid-parliamentary division of",
+   "era": "modern",
+   "file": "eras/modern/005490-briton-ferry-seaport-mid-parliamentary-division.md",
+   "at": "2026-10-14T09:02:28+00:00"
   }
  ]
 }
