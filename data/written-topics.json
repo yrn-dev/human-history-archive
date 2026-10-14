@@ -1,5 +1,5 @@
 {
- "count": 5488,
+ "count": 5489,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38416,6 +38416,13 @@
    "era": "modern",
    "file": "eras/modern/005490-briton-ferry-seaport-mid-parliamentary-division.md",
    "at": "2026-10-14T09:02:28+00:00"
+  },
+  {
+   "slug": "glamorganshire-wales-eastern-bank-estuary-neath",
+   "title": "Glamorganshire, Wales, on the eastern bank of the estuary of the Neath",
+   "era": "industrial",
+   "file": "eras/industrial/005491-glamorganshire-wales-eastern-bank-estuary-neath.md",
+   "at": "2026-10-14T09:12:31+00:00"
   }
  ]
 }
