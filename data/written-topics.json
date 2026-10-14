@@ -1,5 +1,5 @@
 {
- "count": 5516,
+ "count": 5517,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38612,6 +38612,13 @@
    "era": "industrial",
    "file": "eras/industrial/005518-brizeux-julien-auguste-pe-lage-1803-1858-french-poet-born.md",
    "at": "2026-10-14T14:12:29+00:00"
+  },
+  {
+   "slug": "racine-collaboration-philippe-busoni-journey-italy",
+   "title": "Racine, in collaboration with Philippe Busoni. A journey to Italy in",
+   "era": "modern",
+   "file": "eras/modern/005519-racine-collaboration-philippe-busoni-journey-italy.md",
+   "at": "2026-10-14T14:22:30+00:00"
   }
  ]
 }
