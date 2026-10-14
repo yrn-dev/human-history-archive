@@ -1,5 +1,5 @@
 {
- "count": 5472,
+ "count": 5473,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38304,6 +38304,13 @@
    "era": "modern",
    "file": "eras/modern/005474-constitution-administration---from-1638-1786-colonists.md",
    "at": "2026-10-14T06:12:55+00:00"
+  },
+  {
+   "slug": "1870-legislative-assembly-abolished-legislative-council",
+   "title": "1870 the legislative assembly was abolished, and a legislative council",
+   "era": "industrial",
+   "file": "eras/industrial/005475-1870-legislative-assembly-abolished-legislative-council.md",
+   "at": "2026-10-14T06:22:55+00:00"
   }
  ]
 }
