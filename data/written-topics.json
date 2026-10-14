@@ -1,5 +1,5 @@
 {
- "count": 5504,
+ "count": 5505,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38528,6 +38528,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005506-histoire-de-france-vol-paris-1903-henri-se-tude-sur-les.md",
    "at": "2026-10-14T11:42:33+00:00"
+  },
+  {
+   "slug": "montfort-1345-among-dukes-brittany-according",
+   "title": "Montfort (d. 1345), among the dukes of Brittany, and according to this",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005507-montfort-1345-among-dukes-brittany-according.md",
+   "at": "2026-10-14T11:52:20+00:00"
   }
  ]
 }
