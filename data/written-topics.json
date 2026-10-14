@@ -1,5 +1,5 @@
 {
- "count": 5483,
+ "count": 5484,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38381,6 +38381,13 @@
    "era": "industrial",
    "file": "eras/industrial/005485-united-states-fortify-colonize-any-point-central-american.md",
    "at": "2026-10-14T08:02:36+00:00"
+  },
+  {
+   "slug": "cockscomb-mountains-bellamy-proceedings-royal",
+   "title": "Cockscomb Mountains,\" by J. Bellamy, in Proceedings of the Royal",
+   "era": "modern",
+   "file": "eras/modern/005486-cockscomb-mountains-bellamy-proceedings-royal.md",
+   "at": "2026-10-14T08:12:39+00:00"
   }
  ]
 }
