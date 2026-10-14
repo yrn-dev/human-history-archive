@@ -1,5 +1,5 @@
 {
- "count": 5473,
+ "count": 5474,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38311,6 +38311,13 @@
    "era": "industrial",
    "file": "eras/industrial/005475-1870-legislative-assembly-abolished-legislative-council.md",
    "at": "2026-10-14T06:22:55+00:00"
+  },
+  {
+   "slug": "history----his-majesty-settlement-bay-honduras",
+   "title": "History.--\"His Majesty's Settlement in the Bay of Honduras,\" as the",
+   "era": "modern",
+   "file": "eras/modern/005476-history----his-majesty-settlement-bay-honduras.md",
+   "at": "2026-10-14T06:33:28+00:00"
   }
  ]
 }
