@@ -1,5 +1,5 @@
 {
- "count": 5462,
+ "count": 5463,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38234,6 +38234,13 @@
    "era": "industrial",
    "file": "eras/industrial/005464-federation-1892-sir-john-colomb-imperial-federation-naval.md",
    "at": "2026-10-14T04:33:43+00:00"
+  },
+  {
+   "slug": "military-1886-sir-clarke-imperial-defence-1897-sidney",
+   "title": "Military (1886); Sir G.S. Clarke, Imperial Defence (1897); Sidney",
+   "era": "modern",
+   "file": "eras/modern/005465-military-1886-sir-clarke-imperial-defence-1897-sidney.md",
+   "at": "2026-10-14T04:42:52+00:00"
   }
  ]
 }
