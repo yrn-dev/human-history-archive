@@ -1,5 +1,5 @@
 {
- "count": 5506,
+ "count": 5507,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38542,6 +38542,13 @@
    "era": "industrial",
    "file": "eras/industrial/005508-normandy-illustrations-pugin-1825-1827-picturesque.md",
    "at": "2026-10-14T12:12:20+00:00"
+  },
+  {
+   "slug": "french-tongue-which-purports-been-written-command-king",
+   "title": "French tongue, which purports to have been written by command of King",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005509-french-tongue-which-purports-been-written-command-king.md",
+   "at": "2026-10-14T12:42:19+00:00"
   }
  ]
 }
