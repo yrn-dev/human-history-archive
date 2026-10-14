@@ -1,5 +1,5 @@
 {
- "count": 5517,
+ "count": 5518,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38619,6 +38619,13 @@
    "era": "modern",
    "file": "eras/modern/005519-racine-collaboration-philippe-busoni-journey-italy.md",
    "at": "2026-10-14T14:22:30+00:00"
+  },
+  {
+   "slug": "his-oeuvres-comple-tes-vols-1860-edited-notice",
+   "title": "His Oeuvres complètes (2 vols., 1860) were edited with a notice of the",
+   "era": "renaissance",
+   "file": "eras/renaissance/005520-his-oeuvres-comple-tes-vols-1860-edited-notice.md",
+   "at": "2026-10-14T14:32:22+00:00"
   }
  ]
 }
