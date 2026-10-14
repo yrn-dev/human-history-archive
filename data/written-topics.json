@@ -1,5 +1,5 @@
 {
- "count": 5539,
+ "count": 5540,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38773,6 +38773,13 @@
    "era": "ancient",
    "file": "eras/ancient/005541-wernigerode-nordhausen-two-carriage-roads-bodetal.md",
    "at": "2026-10-14T18:22:06+00:00"
+  },
+  {
+   "slug": "1721-1748-he-also-translated-marini-la-strage-degli-innocenti",
+   "title": "(1721-1748); he also translated Marini's La Strage degli innocenti",
+   "era": "renaissance",
+   "file": "eras/renaissance/005542-1721-1748-he-also-translated-marini-la-strage-degli-innocenti.md",
+   "at": "2026-10-14T18:32:04+00:00"
   }
  ]
 }
