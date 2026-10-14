@@ -1,5 +1,5 @@
 {
- "count": 5502,
+ "count": 5503,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38514,6 +38514,13 @@
    "era": "modern",
    "file": "eras/modern/005504-lobineau-histoire-de-bretagne-paris-1702-dom-morice-histoire-de.md",
    "at": "2026-10-14T11:22:52+00:00"
+  },
+  {
+   "slug": "bretagne-au-xviii-sie-cle-1891-loth-migration-bretonne-en",
+   "title": "Bretagne au XVIII^e siècle (1891); J. Loth, L'Émigration bretonne en",
+   "era": "modern",
+   "file": "eras/modern/005505-bretagne-au-xviii-sie-cle-1891-loth-migration-bretonne-en.md",
+   "at": "2026-10-14T11:32:49+00:00"
   }
  ]
 }
