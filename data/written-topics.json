@@ -1,5 +1,5 @@
 {
- "count": 5485,
+ "count": 5486,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38395,6 +38395,13 @@
    "era": "modern",
    "file": "eras/modern/005487-wright-edinburgh-1892-local-history-recounted.md",
    "at": "2026-10-14T08:22:29+00:00"
+  },
+  {
+   "slug": "history-british-honduras-gibbs-london-1883-notes",
+   "title": "History of British Honduras, by A.R. Gibbs (London, 1883); in Notes on",
+   "era": "modern",
+   "file": "eras/modern/005488-history-british-honduras-gibbs-london-1883-notes.md",
+   "at": "2026-10-14T08:32:44+00:00"
   }
  ]
 }
