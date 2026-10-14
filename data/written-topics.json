@@ -1,5 +1,5 @@
 {
- "count": 5503,
+ "count": 5504,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38521,6 +38521,13 @@
    "era": "modern",
    "file": "eras/modern/005505-bretagne-au-xviii-sie-cle-1891-loth-migration-bretonne-en.md",
    "at": "2026-10-14T11:32:49+00:00"
+  },
+  {
+   "slug": "histoire-de-france-vol-paris-1903-henri-se-tude-sur-les",
+   "title": "Histoire de France, vol. i. (Paris, 1903); Henri Sée, Étude sur les",
+   "era": "renaissance",
+   "file": "eras/renaissance/005506-histoire-de-france-vol-paris-1903-henri-se-tude-sur-les.md",
+   "at": "2026-10-14T11:42:33+00:00"
   }
  ]
 }
