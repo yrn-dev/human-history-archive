@@ -1,5 +1,5 @@
 {
- "count": 5649,
+ "count": 5650,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39543,6 +39543,13 @@
    "era": "industrial",
    "file": "eras/industrial/005651-1902-issued-original-publishers-smith-elder-co.md",
    "at": "2026-10-15T22:32:45+00:00"
+  },
+  {
+   "slug": "mrs-gaskell-life-contained-charlotte-bronte-monograph",
+   "title": "Mrs Gaskell's Life was contained in Charlotte Brontë: a Monograph, by",
+   "era": "industrial",
+   "file": "eras/industrial/005652-mrs-gaskell-life-contained-charlotte-bronte-monograph.md",
+   "at": "2026-10-15T22:42:51+00:00"
   }
  ]
 }
