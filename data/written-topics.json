@@ -1,5 +1,5 @@
 {
- "count": 5650,
+ "count": 5651,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39550,6 +39550,13 @@
    "era": "industrial",
    "file": "eras/industrial/005652-mrs-gaskell-life-contained-charlotte-bronte-monograph.md",
    "at": "2026-10-15T22:42:51+00:00"
+  },
+  {
+   "slug": "life-charlotte-bronte-augustine-birrell-1887-bronte",
+   "title": "Life of Charlotte Brontë, by Augustine Birrell (1887), The Brontës in",
+   "era": "industrial",
+   "file": "eras/industrial/005653-life-charlotte-bronte-augustine-birrell-1887-bronte.md",
+   "at": "2026-10-15T23:02:56+00:00"
   }
  ]
 }
