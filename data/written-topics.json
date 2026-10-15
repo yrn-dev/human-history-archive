@@ -1,5 +1,5 @@
 {
- "count": 5585,
+ "count": 5586,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39095,6 +39095,13 @@
    "era": "industrial",
    "file": "eras/industrial/005587-american-cotton.md",
    "at": "2026-10-15T11:09:14+00:00"
+  },
+  {
+   "slug": "contract-which-note-made-between-ourselves",
+   "title": "The contract, of which this is a note, is made between ourselves and",
+   "era": "industrial",
+   "file": "eras/industrial/005588-contract-which-note-made-between-ourselves.md",
+   "at": "2026-10-15T11:29:20+00:00"
   }
  ]
 }
