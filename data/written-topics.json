@@ -1,5 +1,5 @@
 {
- "count": 5608,
+ "count": 5609,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39256,6 +39256,13 @@
    "era": "industrial",
    "file": "eras/industrial/005610-medicinal-use---bromide-potassium-safest-most-generally.md",
    "at": "2026-10-15T15:23:06+00:00"
+  },
+  {
+   "slug": "grand-mal-three-bromides-common-use-potassium-salt",
+   "title": "(grand mal). Of the three bromides in common use the potassium salt is",
+   "era": "industrial",
+   "file": "eras/industrial/005611-grand-mal-three-bromides-common-use-potassium-salt.md",
+   "at": "2026-10-15T15:33:25+00:00"
   }
  ]
 }
