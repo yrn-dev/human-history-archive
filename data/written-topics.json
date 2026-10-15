@@ -1,5 +1,5 @@
 {
- "count": 5586,
+ "count": 5587,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39102,6 +39102,13 @@
    "era": "industrial",
    "file": "eras/industrial/005588-contract-which-note-made-between-ourselves.md",
    "at": "2026-10-15T11:29:20+00:00"
+  },
+  {
+   "slug": "contract-which-above-note-made-date",
+   "title": "The contract, of which the above is a note, was made on the date",
+   "era": "industrial",
+   "file": "eras/industrial/005589-contract-which-above-note-made-date.md",
+   "at": "2026-10-15T11:39:19+00:00"
   }
  ]
 }
