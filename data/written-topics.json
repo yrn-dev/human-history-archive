@@ -1,5 +1,5 @@
 {
- "count": 5592,
+ "count": 5593,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39144,6 +39144,13 @@
    "era": "ancient",
    "file": "eras/ancient/005594-(l.-f.-s.).md",
    "at": "2026-10-15T12:33:35+00:00"
+  },
+  {
+   "slug": "english-anacreon-edward-phillips-theatrum-poetarum-brome",
+   "title": "\"English Anacreon\" in Edward Phillips's Theatrum Poetarum. Brome",
+   "era": "renaissance",
+   "file": "eras/renaissance/005595-english-anacreon-edward-phillips-theatrum-poetarum-brome.md",
+   "at": "2026-10-15T12:43:43+00:00"
   }
  ]
 }
