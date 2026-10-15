@@ -1,5 +1,5 @@
 {
- "count": 5591,
+ "count": 5592,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39137,6 +39137,13 @@
    "era": "industrial",
    "file": "eras/industrial/005593-handbook-marine-insurance-london-1900-arnould-marine.md",
    "at": "2026-10-15T12:32:54+00:00"
+  },
+  {
+   "slug": "(l.-f.-s.)",
+   "title": "(L. F. S.)",
+   "era": "ancient",
+   "file": "eras/ancient/005594-(l.-f.-s.).md",
+   "at": "2026-10-15T12:33:35+00:00"
   }
  ]
 }
