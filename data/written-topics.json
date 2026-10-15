@@ -1,5 +1,5 @@
 {
- "count": 5653,
+ "count": 5654,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39571,6 +39571,13 @@
    "era": "ancient",
    "file": "eras/ancient/005655-nat-hist-xxxiii-ch-ix-45-specula-optima-apud-majores-fuerunt.md",
    "at": "2026-10-15T23:42:41+00:00"
+  },
+  {
+   "slug": "bronze-gr-greek-chalkos-lat-aes-classical-antiquity",
+   "title": "The bronze (Gr. [Greek: chalkos], Lat. aes) of classical antiquity",
+   "era": "ancient",
+   "file": "eras/ancient/005656-bronze-gr-greek-chalkos-lat-aes-classical-antiquity.md",
+   "at": "2026-10-15T23:52:50+00:00"
   }
  ]
 }
