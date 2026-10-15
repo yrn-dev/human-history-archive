@@ -1,5 +1,5 @@
 {
- "count": 5552,
+ "count": 5553,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38864,6 +38864,13 @@
    "era": "industrial",
    "file": "eras/industrial/005554-naturalist-he-one-founders-zoological-society.md",
    "at": "2026-10-15T04:04:52+00:00"
+  },
+  {
+   "slug": "vols-xii--xv-incl-published-state-title",
+   "title": "(vols. xii.-xv., incl.), and published by the state under the title",
+   "era": "modern",
+   "file": "eras/modern/005555-vols-xii--xv-incl-published-state-title.md",
+   "at": "2026-10-15T04:14:55+00:00"
   }
  ]
 }
