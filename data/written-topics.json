@@ -1,5 +1,5 @@
 {
- "count": 5584,
+ "count": 5585,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39088,6 +39088,13 @@
    "era": "industrial",
    "file": "eras/industrial/005586-influence-exchanges---the-relations-between-brokers-their.md",
    "at": "2026-10-15T10:59:24+00:00"
+  },
+  {
+   "slug": "american-cotton",
+   "title": "AMERICAN COTTON",
+   "era": "industrial",
+   "file": "eras/industrial/005587-american-cotton.md",
+   "at": "2026-10-15T11:09:14+00:00"
   }
  ]
 }
