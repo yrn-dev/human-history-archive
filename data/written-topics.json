@@ -1,5 +1,5 @@
 {
- "count": 5545,
+ "count": 5546,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38815,6 +38815,13 @@
    "era": "industrial",
    "file": "eras/industrial/005547-heinrich-brockhaus-member-saxon-second-chamber.md",
    "at": "2026-10-15T02:54:57+00:00"
+  },
+  {
+   "slug": "another-friedrich-sons-hermann-brockhaus-1806-1877-german",
+   "title": "Another of Friedrich's sons, HERMANN BROCKHAUS (1806-1877), German",
+   "era": "industrial",
+   "file": "eras/industrial/005548-another-friedrich-sons-hermann-brockhaus-1806-1877-german.md",
+   "at": "2026-10-15T03:04:59+00:00"
   }
  ]
 }
