@@ -1,5 +1,5 @@
 {
- "count": 5623,
+ "count": 5624,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39361,6 +39361,13 @@
    "era": "ancient",
    "file": "eras/ancient/005625-phane-rogames-gymnospermes-book-attention-also-directed.md",
    "at": "2026-10-15T18:03:00+00:00"
+  },
+  {
+   "slug": "sci-nat-xxi-1830-nouvelles-recherches-sur-piderme",
+   "title": "Sci. Nat. xxi., 1830), and the \"Nouvelles Recherches sur l'Épiderme\"",
+   "era": "industrial",
+   "file": "eras/industrial/005626-sci-nat-xxi-1830-nouvelles-recherches-sur-piderme.md",
+   "at": "2026-10-15T18:12:57+00:00"
   }
  ]
 }
