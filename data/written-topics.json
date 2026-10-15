@@ -1,5 +1,5 @@
 {
- "count": 5652,
+ "count": 5653,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39564,6 +39564,13 @@
    "era": "industrial",
    "file": "eras/industrial/005654-ireland-william-wright-1893-charlotte-bronte-her.md",
    "at": "2026-10-15T23:12:53+00:00"
+  },
+  {
+   "slug": "nat-hist-xxxiii-ch-ix-45-specula-optima-apud-majores-fuerunt",
+   "title": "Nat. Hist. xxxiii. ch. ix. §45, \"specula optima apud majores fuerunt",
+   "era": "ancient",
+   "file": "eras/ancient/005655-nat-hist-xxxiii-ch-ix-45-specula-optima-apud-majores-fuerunt.md",
+   "at": "2026-10-15T23:42:41+00:00"
   }
  ]
 }
