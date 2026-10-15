@@ -1,5 +1,5 @@
 {
- "count": 5572,
+ "count": 5573,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39004,6 +39004,13 @@
    "era": "industrial",
    "file": "eras/industrial/005574-1861-last-confiscated-publication-imperial.md",
    "at": "2026-10-15T08:19:22+00:00"
+  },
+  {
+   "slug": "questions-de-religion-et-histoire-1860-these-supplemented",
+   "title": "Questions de religion et d'histoire (1860). These were supplemented in",
+   "era": "modern",
+   "file": "eras/modern/005575-questions-de-religion-et-histoire-1860-these-supplemented.md",
+   "at": "2026-10-15T08:39:18+00:00"
   }
  ]
 }
