@@ -1,5 +1,5 @@
 {
- "count": 5587,
+ "count": 5588,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39109,6 +39109,13 @@
    "era": "industrial",
    "file": "eras/industrial/005589-contract-which-above-note-made-date.md",
    "at": "2026-10-15T11:39:19+00:00"
+  },
+  {
+   "slug": "stockbroker-broker-who-contracts-sale-stocks",
+   "title": "A stockbroker is a broker who contracts for the sale of stocks and",
+   "era": "modern",
+   "file": "eras/modern/005590-stockbroker-broker-who-contracts-sale-stocks.md",
+   "at": "2026-10-15T11:49:29+00:00"
   }
  ]
 }
