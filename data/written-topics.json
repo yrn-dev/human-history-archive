@@ -1,5 +1,5 @@
 {
- "count": 5543,
+ "count": 5544,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -38801,6 +38801,13 @@
    "era": "industrial",
    "file": "eras/industrial/005545-leipzig-where-he-established-large-printing-house-among-more.md",
    "at": "2026-10-14T19:12:31+00:00"
+  },
+  {
+   "slug": "geschichte-der-hohenstaufen-ebert-allgemeines-bibliographisches",
+   "title": "Geschichte der Hohenstaufen, and Ebert's Allgemeines bibliographisches",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005546-geschichte-der-hohenstaufen-ebert-allgemeines-bibliographisches.md",
+   "at": "2026-10-15T02:45:04+00:00"
   }
  ]
 }
