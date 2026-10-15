@@ -1,5 +1,5 @@
 {
- "count": 5590,
+ "count": 5591,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39130,6 +39130,13 @@
    "era": "modern",
    "file": "eras/modern/005592-carries-business-broker-cannot-sue-charter-party.md",
    "at": "2026-10-15T12:10:27+00:00"
+  },
+  {
+   "slug": "handbook-marine-insurance-london-1900-arnould-marine",
+   "title": "Handbook of Marine Insurance (London, 1900); Arnould, On Marine",
+   "era": "industrial",
+   "file": "eras/industrial/005593-handbook-marine-insurance-london-1900-arnould-marine.md",
+   "at": "2026-10-15T12:32:54+00:00"
   }
  ]
 }
