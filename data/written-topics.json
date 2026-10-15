@@ -1,5 +1,5 @@
 {
- "count": 5646,
+ "count": 5647,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39522,6 +39522,13 @@
    "era": "industrial",
    "file": "eras/industrial/005648-jane-eyre-villette-always-command-attention-whatever.md",
    "at": "2026-10-15T22:02:53+00:00"
+  },
+  {
+   "slug": "life-charlotte-bronte-mrs-gaskell-first-published",
+   "title": "The Life of Charlotte Brontë, by Mrs Gaskell, was first published in",
+   "era": "industrial",
+   "file": "eras/industrial/005649-life-charlotte-bronte-mrs-gaskell-first-published.md",
+   "at": "2026-10-15T22:12:53+00:00"
   }
  ]
 }
