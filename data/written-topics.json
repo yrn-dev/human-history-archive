@@ -1,5 +1,5 @@
 {
- "count": 5609,
+ "count": 5610,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39263,6 +39263,13 @@
    "era": "industrial",
    "file": "eras/industrial/005611-grand-mal-three-bromides-common-use-potassium-salt.md",
    "at": "2026-10-15T15:33:25+00:00"
+  },
+  {
+   "slug": "bromley-sir-thomas-1530-1587-english-lord-chancellor-born",
+   "title": "BROMLEY, SIR THOMAS (1530-1587), English lord chancellor, was born in",
+   "era": "renaissance",
+   "file": "eras/renaissance/005612-bromley-sir-thomas-1530-1587-english-lord-chancellor-born.md",
+   "at": "2026-10-15T15:43:02+00:00"
   }
  ]
 }
