@@ -1,5 +1,5 @@
 {
- "count": 5625,
+ "count": 5626,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39375,6 +39375,13 @@
    "era": "ancient",
    "file": "eras/ancient/005627-brongniart-held-various-important-official-posts-connexion.md",
    "at": "2026-10-15T18:23:01+00:00"
+  },
+  {
+   "slug": "1876-la-nature-1876-bulletin-de-la-soc-bot-de-france",
+   "title": "1876, and La Nature, 1876; the Bulletin de la Soc. Bot. de France for",
+   "era": "industrial",
+   "file": "eras/industrial/005628-1876-la-nature-1876-bulletin-de-la-soc-bot-de-france.md",
+   "at": "2026-10-15T18:33:14+00:00"
   }
  ]
 }
