@@ -1,5 +1,5 @@
 {
- "count": 5735,
+ "count": 5736,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40145,6 +40145,13 @@
    "era": "cultures",
    "file": "eras/cultures/005737-their-history-now-divides-itself-three-epochs-first-these.md",
    "at": "2026-10-16T14:02:01+00:00"
+  },
+  {
+   "slug": "morgan-floating-commerce-spain-middle-17th",
+   "title": "Morgan. The floating commerce of Spain had by the middle of the 17th",
+   "era": "modern",
+   "file": "eras/modern/005738-morgan-floating-commerce-spain-middle-17th.md",
+   "at": "2026-10-16T14:11:52+00:00"
   }
  ]
 }
