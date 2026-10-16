@@ -1,5 +1,5 @@
 {
- "count": 5752,
+ "count": 5753,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40264,6 +40264,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005754-vegetius-published-ulm-1470-augsburg-1534-clearly.md",
    "at": "2026-10-16T16:51:47+00:00"
+  },
+  {
+   "slug": "pompe-paris-1824-1838-pt-iv-pl-xlviii-fig-von",
+   "title": "Pompéi (Paris, 1824-1838), pt. iv, pl. xlviii. fig. 1, and in J.N. von",
+   "era": "ancient",
+   "file": "eras/ancient/005755-pompe-paris-1824-1838-pt-iv-pl-xlviii-fig-von.md",
+   "at": "2026-10-16T17:01:48+00:00"
   }
  ]
 }
