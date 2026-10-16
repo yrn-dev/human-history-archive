@@ -1,5 +1,5 @@
 {
- "count": 5756,
+ "count": 5757,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40292,6 +40292,13 @@
    "era": "modern",
    "file": "eras/modern/005758-buccleuch-dukes-substantial-origin-ducal-house.md",
    "at": "2026-10-16T17:31:50+00:00"
+  },
+  {
+   "slug": "1354-cum-uno-artificioso-et-solemni-bucentauro-super-quo-venit",
+   "title": "(d. 1354): cum uno artificioso et solemni Bucentauro, super quo venit",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005759-1354-cum-uno-artificioso-et-solemni-bucentauro-super-quo-venit.md",
+   "at": "2026-10-16T17:41:40+00:00"
   }
  ]
 }
