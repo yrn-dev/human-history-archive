@@ -1,5 +1,5 @@
 {
- "count": 5690,
+ "count": 5691,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39830,6 +39830,13 @@
    "era": "industrial",
    "file": "eras/industrial/005692-his-private-letters-1838-1853-published-1853-portions.md",
    "at": "2026-10-16T06:12:28+00:00"
+  },
+  {
+   "slug": "1892-down-accession-alfred-english-literature",
+   "title": "1892) down to the accession of Alfred, and English Literature from the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005693-1892-down-accession-alfred-english-literature.md",
+   "at": "2026-10-16T06:22:33+00:00"
   }
  ]
 }
