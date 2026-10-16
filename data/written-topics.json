@@ -1,5 +1,5 @@
 {
- "count": 5694,
+ "count": 5695,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39858,6 +39858,13 @@
    "era": "modern",
    "file": "eras/modern/005696-margaret-fuller-elizabeth-palmer-peabody-estate-itself.md",
    "at": "2026-10-16T07:02:22+00:00"
+  },
+  {
+   "slug": "memoirs-boston-1894-dr-codman-one-pupils",
+   "title": "Memoirs (Boston, 1894), is by Dr J.T. Codman, one of the pupils in the",
+   "era": "industrial",
+   "file": "eras/industrial/005697-memoirs-boston-1894-dr-codman-one-pupils.md",
+   "at": "2026-10-16T07:12:13+00:00"
   }
  ]
 }
