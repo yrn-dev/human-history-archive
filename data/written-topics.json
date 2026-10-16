@@ -1,5 +1,5 @@
 {
- "count": 5750,
+ "count": 5751,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40250,6 +40250,13 @@
    "era": "ancient",
    "file": "eras/ancient/005752-mahillon-brussels-made-facsimile-one-these.md",
    "at": "2026-10-16T16:31:49+00:00"
+  },
+  {
+   "slug": "buccina-respect-technical-construction-acoustic",
+   "title": "The buccina, in respect of its technical construction and acoustic",
+   "era": "ancient",
+   "file": "eras/ancient/005753-buccina-respect-technical-construction-acoustic.md",
+   "at": "2026-10-16T16:41:50+00:00"
   }
  ]
 }
