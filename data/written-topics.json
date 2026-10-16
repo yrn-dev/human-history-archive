@@ -1,5 +1,5 @@
 {
- "count": 5749,
+ "count": 5750,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40243,6 +40243,13 @@
    "era": "modern",
    "file": "eras/modern/005751-photo-brogi.md",
    "at": "2026-10-16T16:21:48+00:00"
+  },
+  {
+   "slug": "mahillon-brussels-made-facsimile-one-these",
+   "title": "V. C. Mahillon, of Brussels[1] has made a facsimile of one of these",
+   "era": "ancient",
+   "file": "eras/ancient/005752-mahillon-brussels-made-facsimile-one-these.md",
+   "at": "2026-10-16T16:31:49+00:00"
   }
  ]
 }
