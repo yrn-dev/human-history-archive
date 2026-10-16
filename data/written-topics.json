@@ -1,5 +1,5 @@
 {
- "count": 5757,
+ "count": 5758,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40299,6 +40299,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005759-1354-cum-uno-artificioso-et-solemni-bucentauro-super-quo-venit.md",
    "at": "2026-10-16T17:41:40+00:00"
+  },
+  {
+   "slug": "bucentaurus-cum-consiliariis-last-most-magnificent",
+   "title": "Bucentaurus cum consiliariis, &c. The last and most magnificent of the",
+   "era": "renaissance",
+   "file": "eras/renaissance/005760-bucentaurus-cum-consiliariis-last-most-magnificent.md",
+   "at": "2026-10-16T17:51:38+00:00"
   }
  ]
 }
