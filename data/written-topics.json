@@ -1,5 +1,5 @@
 {
- "count": 5748,
+ "count": 5749,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40236,6 +40236,13 @@
    "era": "modern",
    "file": "eras/modern/005750-france-pe-re-charlevoix-statements-these-works.md",
    "at": "2026-10-16T16:11:48+00:00"
+  },
+  {
+   "slug": "photo-brogi",
+   "title": "From a photo by Brogi.]",
+   "era": "modern",
+   "file": "eras/modern/005751-photo-brogi.md",
+   "at": "2026-10-16T16:21:48+00:00"
   }
  ]
 }
