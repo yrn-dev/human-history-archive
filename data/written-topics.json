@@ -1,5 +1,5 @@
 {
- "count": 5789,
+ "count": 5790,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40523,6 +40523,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005791-hendecasyllabon-liber-iambon-liber-three-books-epigrammata.md",
    "at": "2026-10-16T23:31:20+00:00"
+  },
+  {
+   "slug": "1725-vernacular-writings-04-0661-consisting",
+   "title": "1725. The Vernacular Writings, [v.04 p.0661] consisting of the",
+   "era": "modern",
+   "file": "eras/modern/005792-1725-vernacular-writings-04-0661-consisting.md",
+   "at": "2026-10-16T23:41:19+00:00"
   }
  ]
 }
