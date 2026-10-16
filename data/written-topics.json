@@ -1,5 +1,5 @@
 {
- "count": 5786,
+ "count": 5787,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40502,6 +40502,13 @@
    "era": "modern",
    "file": "eras/modern/005788-buchanan-rich-vein-poetical-feeling-much-originality.md",
    "at": "2026-10-16T23:01:41+00:00"
+  },
+  {
+   "slug": "1608-edited-sibbald-1702-his-other-poems-fratres",
+   "title": "(1608), edited by R. Sibbald (1702). His other poems are Fratres",
+   "era": "renaissance",
+   "file": "eras/renaissance/005789-1608-edited-sibbald-1702-his-other-poems-fratres.md",
+   "at": "2026-10-16T23:11:21+00:00"
   }
  ]
 }
