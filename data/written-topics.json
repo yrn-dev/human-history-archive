@@ -1,5 +1,5 @@
 {
- "count": 5679,
+ "count": 5680,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39753,6 +39753,13 @@
    "era": "modern",
    "file": "eras/modern/005681-worthies-library-1870-made-small-selection-published.md",
    "at": "2026-10-16T04:02:27+00:00"
+  },
+  {
+   "slug": "elizabethan-library-1894-besides-works-above-mentioned",
+   "title": "Elizabethan Library (1894). Besides the works above mentioned, the",
+   "era": "industrial",
+   "file": "eras/industrial/005682-elizabethan-library-1894-besides-works-above-mentioned.md",
+   "at": "2026-10-16T04:12:39+00:00"
   }
  ]
 }
