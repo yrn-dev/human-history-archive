@@ -1,5 +1,5 @@
 {
- "count": 5695,
+ "count": 5696,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39865,6 +39865,13 @@
    "era": "industrial",
    "file": "eras/industrial/005697-memoirs-boston-1894-dr-codman-one-pupils.md",
    "at": "2026-10-16T07:12:13+00:00"
+  },
+  {
+   "slug": "cooke-handbook-british-hepaticae",
+   "title": "From Cooke, Handbook of British Hepaticae.]",
+   "era": "modern",
+   "file": "eras/modern/005698-cooke-handbook-british-hepaticae.md",
+   "at": "2026-10-16T07:22:36+00:00"
   }
  ]
 }
