@@ -1,5 +1,5 @@
 {
- "count": 5706,
+ "count": 5707,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39942,6 +39942,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/005708-ricciocarpus-riccia-natans-occur-floating-still-water.md",
    "at": "2026-10-16T09:12:15+00:00"
+  },
+  {
+   "slug": "strasburger-text-book-botany",
+   "title": "From Strasburger's Text-book of Botany.]",
+   "era": "modern",
+   "file": "eras/modern/005709-strasburger-text-book-botany.md",
+   "at": "2026-10-16T09:22:13+00:00"
   }
  ]
 }
