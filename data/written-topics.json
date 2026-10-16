@@ -1,5 +1,5 @@
 {
- "count": 5764,
+ "count": 5765,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40348,6 +40348,13 @@
    "era": "industrial",
    "file": "eras/industrial/005766-description-landeck-edinburgh-1810-he-also-published-1802.md",
    "at": "2026-10-16T18:51:38+00:00"
+  },
+  {
+   "slug": "entwurf-einer-geognostischen-beschreibung-von-schlesien-geognostische",
+   "title": "Entwurf einer geognostischen Beschreibung von Schlesien (Geognostische",
+   "era": "industrial",
+   "file": "eras/industrial/005767-entwurf-einer-geognostischen-beschreibung-von-schlesien-geognostische.md",
+   "at": "2026-10-16T19:01:38+00:00"
   }
  ]
 }
