@@ -1,5 +1,5 @@
 {
- "count": 5763,
+ "count": 5764,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40341,6 +40341,13 @@
    "era": "industrial",
    "file": "eras/industrial/005765-buch-christian-leopold-von-baron-1774-1853-german-geologist.md",
    "at": "2026-10-16T18:41:39+00:00"
+  },
+  {
+   "slug": "description-landeck-edinburgh-1810-he-also-published-1802",
+   "title": "Description of Landeck (Edinburgh, 1810); he also published in 1802",
+   "era": "industrial",
+   "file": "eras/industrial/005766-description-landeck-edinburgh-1810-he-also-published-1802.md",
+   "at": "2026-10-16T18:51:38+00:00"
   }
  ]
 }
