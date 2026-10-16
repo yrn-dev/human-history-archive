@@ -1,5 +1,5 @@
 {
- "count": 5715,
+ "count": 5716,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40005,6 +40005,13 @@
    "era": "cultures",
    "file": "eras/cultures/005717-median-longitudinal-section-capsule-seta-gradually.md",
    "at": "2026-10-16T10:42:18+00:00"
+  },
+  {
+   "slug": "goebel-pflanzenmorphologie-permission-engelmann",
+   "title": "(From Goebel's Pflanzenmorphologie, by permission of W Engelmann)]",
+   "era": "cultures",
+   "file": "eras/cultures/005718-goebel-pflanzenmorphologie-permission-engelmann.md",
+   "at": "2026-10-16T10:52:07+00:00"
   }
  ]
 }
