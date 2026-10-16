@@ -1,5 +1,5 @@
 {
- "count": 5746,
+ "count": 5747,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40222,6 +40222,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005748-work-published-amsterdam-1678-entitled-de-americaensche-zee.md",
    "at": "2026-10-16T15:51:45+00:00"
+  },
+  {
+   "slug": "espagnole-histoire-et-description-ge-ne-rale-de-la-nouvelle",
+   "title": "Espagnole, &c., and Histoire et description générale de la Nouvelle",
+   "era": "modern",
+   "file": "eras/modern/005749-espagnole-histoire-et-description-ge-ne-rale-de-la-nouvelle.md",
+   "at": "2026-10-16T16:01:46+00:00"
   }
  ]
 }
