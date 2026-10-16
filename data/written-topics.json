@@ -1,5 +1,5 @@
 {
- "count": 5751,
+ "count": 5752,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40257,6 +40257,13 @@
    "era": "ancient",
    "file": "eras/ancient/005753-buccina-respect-technical-construction-acoustic.md",
    "at": "2026-10-16T16:41:50+00:00"
+  },
+  {
+   "slug": "vegetius-published-ulm-1470-augsburg-1534-clearly",
+   "title": "Vegetius, published at Ulm in 1470, and at Augsburg in 1534, clearly",
+   "era": "renaissance",
+   "file": "eras/renaissance/005754-vegetius-published-ulm-1470-augsburg-1534-clearly.md",
+   "at": "2026-10-16T16:51:47+00:00"
   }
  ]
 }
