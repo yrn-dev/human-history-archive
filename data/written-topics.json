@@ -1,5 +1,5 @@
 {
- "count": 5680,
+ "count": 5681,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39760,6 +39760,13 @@
    "era": "industrial",
    "file": "eras/industrial/005682-elizabethan-library-1894-besides-works-above-mentioned.md",
    "at": "2026-10-16T04:12:39+00:00"
+  },
+  {
+   "slug": "sheridan-one-his-schoolmasters-he-entered-trinity",
+   "title": "Sheridan was one of his schoolmasters, and he was entered at Trinity",
+   "era": "modern",
+   "file": "eras/modern/005683-sheridan-one-his-schoolmasters-he-entered-trinity.md",
+   "at": "2026-10-16T04:22:29+00:00"
   }
  ]
 }
