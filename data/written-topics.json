@@ -1,5 +1,5 @@
 {
- "count": 5762,
+ "count": 5763,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40334,6 +40334,13 @@
    "era": "modern",
    "file": "eras/modern/005764-collected-edition-his-writings-never-been-published-volume.md",
    "at": "2026-10-16T18:31:47+00:00"
+  },
+  {
+   "slug": "buch-christian-leopold-von-baron-1774-1853-german-geologist",
+   "title": "BUCH, CHRISTIAN LEOPOLD VON, BARON (1774-1853), German geologist and",
+   "era": "industrial",
+   "file": "eras/industrial/005765-buch-christian-leopold-von-baron-1774-1853-german-geologist.md",
+   "at": "2026-10-16T18:41:39+00:00"
   }
  ]
 }
