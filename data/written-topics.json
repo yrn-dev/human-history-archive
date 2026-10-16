@@ -1,5 +1,5 @@
 {
- "count": 5659,
+ "count": 5660,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39613,6 +39613,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/005661-finds-copper-implements-explained-we-may-conclude-then.md",
    "at": "2026-10-16T00:42:44+00:00"
+  },
+  {
+   "slug": "bronze-age-europe-characterized-weapons-utensils",
+   "title": "The Bronze Age in Europe is characterized by weapons, utensils and",
+   "era": "ancient",
+   "file": "eras/ancient/005662-bronze-age-europe-characterized-weapons-utensils.md",
+   "at": "2026-10-16T00:52:45+00:00"
   }
  ]
 }
