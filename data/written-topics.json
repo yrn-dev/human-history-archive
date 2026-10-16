@@ -1,5 +1,5 @@
 {
- "count": 5681,
+ "count": 5682,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39767,6 +39767,13 @@
    "era": "modern",
    "file": "eras/modern/005683-sheridan-one-his-schoolmasters-he-entered-trinity.md",
    "at": "2026-10-16T04:22:29+00:00"
+  },
+  {
+   "slug": "1738-he-translated-first-second-books-tasso-gerusalemme",
+   "title": "1738 he translated the first and second books of Tasso's Gerusalemme",
+   "era": "industrial",
+   "file": "eras/industrial/005684-1738-he-translated-first-second-books-tasso-gerusalemme.md",
+   "at": "2026-10-16T04:32:32+00:00"
   }
  ]
 }
