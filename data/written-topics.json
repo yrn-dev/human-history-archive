@@ -1,5 +1,5 @@
 {
- "count": 5691,
+ "count": 5692,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -39837,6 +39837,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005693-1892-down-accession-alfred-english-literature.md",
    "at": "2026-10-16T06:22:33+00:00"
+  },
+  {
+   "slug": "art-relation-modern-life-1894-poetry-robert-browning",
+   "title": "Art and Relation to Modern Life (1894); The Poetry of Robert Browning",
+   "era": "modern",
+   "file": "eras/modern/005694-art-relation-modern-life-1894-poetry-robert-browning.md",
+   "at": "2026-10-16T06:32:53+00:00"
   }
  ]
 }
