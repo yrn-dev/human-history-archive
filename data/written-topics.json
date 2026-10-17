@@ -1,5 +1,5 @@
 {
- "count": 5900,
+ "count": 5901,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41300,6 +41300,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005902-england-large-force-welshmen-his-advance-stopped.md",
    "at": "2026-10-17T21:00:25+00:00"
+  },
+  {
+   "slug": "stafford-being-however-given-back-his-estates-1522-1547",
+   "title": "Stafford, being, however, given back his estates in 1522, and in 1547",
+   "era": "renaissance",
+   "file": "eras/renaissance/005903-stafford-being-however-given-back-his-estates-1522-1547.md",
+   "at": "2026-10-17T21:10:17+00:00"
   }
  ]
 }
