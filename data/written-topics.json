@@ -1,5 +1,5 @@
 {
- "count": 5801,
+ "count": 5802,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40607,6 +40607,13 @@
    "era": "modern",
    "file": "eras/modern/005803-1850-new-york-new-edition-1902-1907-john-bassett-moore-edited.md",
    "at": "2026-10-17T01:41:16+00:00"
+  },
+  {
+   "slug": "buchanan-robert-williams-1841-1901-british-poet-novelist",
+   "title": "BUCHANAN, ROBERT WILLIAMS (1841-1901), British poet, novelist and",
+   "era": "industrial",
+   "file": "eras/industrial/005804-buchanan-robert-williams-1841-1901-british-poet-novelist.md",
+   "at": "2026-10-17T01:51:23+00:00"
   }
  ]
 }
