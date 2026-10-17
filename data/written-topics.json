@@ -1,5 +1,5 @@
 {
- "count": 5837,
+ "count": 5838,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40859,6 +40859,13 @@
    "era": "industrial",
    "file": "eras/industrial/005839-buck-wagon-dutch-bok-wagen-south-african-cart-frame.md",
    "at": "2026-10-17T09:00:49+00:00"
+  },
+  {
+   "slug": "bucketshop-slang-financial-term-office-business",
+   "title": "BUCKETSHOP, a slang financial term for the office or business of an",
+   "era": "modern",
+   "file": "eras/modern/005840-bucketshop-slang-financial-term-office-business.md",
+   "at": "2026-10-17T10:00:50+00:00"
   }
  ]
 }
