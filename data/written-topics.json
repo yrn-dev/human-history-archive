@@ -1,5 +1,5 @@
 {
- "count": 5902,
+ "count": 5903,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41314,6 +41314,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/005904-richard-iii-fabyan-chronicle-amongst-modern-authorities.md",
    "at": "2026-10-17T21:20:15+00:00"
+  },
+  {
+   "slug": "(c.-l.-k.)",
+   "title": "(C. L. K.)",
+   "era": "modern",
+   "file": "eras/modern/005905-(c.-l.-k.).md",
+   "at": "2026-10-17T21:30:18+00:00"
   }
  ]
 }
