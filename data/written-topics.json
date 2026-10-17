@@ -1,5 +1,5 @@
 {
- "count": 5866,
+ "count": 5867,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41062,6 +41062,13 @@
    "era": "modern",
    "file": "eras/modern/005868-tracts-164-20-characters-same-edward-earl-clarendon.md",
    "at": "2026-10-17T14:50:33+00:00"
+  },
+  {
+   "slug": "historical-biographical-memoirs-george-villiers-duke",
+   "title": "Historical and Biographical Memoirs of George Villiers, Duke of",
+   "era": "renaissance",
+   "file": "eras/renaissance/005869-historical-biographical-memoirs-george-villiers-duke.md",
+   "at": "2026-10-17T15:00:47+00:00"
   }
  ]
 }
