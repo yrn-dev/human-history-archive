@@ -1,5 +1,5 @@
 {
- "count": 5906,
+ "count": 5907,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41342,6 +41342,13 @@
    "era": "modern",
    "file": "eras/modern/005908-stratton-archdeacon-buckingham-previously-occupied-site.md",
    "at": "2026-10-17T22:10:28+00:00"
+  },
+  {
+   "slug": "canal-agricultural-trade-manufactures-condensed-milk",
+   "title": "Canal, and has agricultural trade, manufactures of condensed milk and",
+   "era": "industrial",
+   "file": "eras/industrial/005909-canal-agricultural-trade-manufactures-condensed-milk.md",
+   "at": "2026-10-17T22:20:31+00:00"
   }
  ]
 }
