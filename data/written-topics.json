@@ -1,5 +1,5 @@
 {
- "count": 5822,
+ "count": 5823,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40754,6 +40754,13 @@
    "era": "ancient",
    "file": "eras/ancient/005824-philologie-both-teacher-commentator-he-extremely.md",
    "at": "2026-10-17T05:31:21+00:00"
+  },
+  {
+   "slug": "leipzig-1869-ciceronis-reliquiae-1869-herondae-mimiambi",
+   "title": "(Leipzig, 1869); Q. Ciceronis reliquiae (1869); Herondae mimiambi",
+   "era": "industrial",
+   "file": "eras/industrial/005825-leipzig-1869-ciceronis-reliquiae-1869-herondae-mimiambi.md",
+   "at": "2026-10-17T05:41:13+00:00"
   }
  ]
 }
