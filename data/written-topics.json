@@ -1,5 +1,5 @@
 {
- "count": 5907,
+ "count": 5908,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41349,6 +41349,13 @@
    "era": "industrial",
    "file": "eras/industrial/005909-canal-agricultural-trade-manufactures-condensed-milk.md",
    "at": "2026-10-17T22:20:31+00:00"
+  },
+  {
+   "slug": "buckingham-bochingeham-bukyngham-important-stronghold",
+   "title": "Buckingham (Bochingeham, Bukyngham) was an important stronghold in",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005910-buckingham-bochingeham-bukyngham-important-stronghold.md",
+   "at": "2026-10-17T22:30:24+00:00"
   }
  ]
 }
