@@ -1,5 +1,5 @@
 {
- "count": 5893,
+ "count": 5894,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41251,6 +41251,13 @@
    "era": "modern",
    "file": "eras/modern/005895-review-jan-1898-commonplace-book-conference-doctrine.md",
    "at": "2026-10-17T19:20:53+00:00"
+  },
+  {
+   "slug": "imprisonment-lords-1677-declaration-duke",
+   "title": "Imprisonment of the Lords (1677); The Declaration of the ... Duke of",
+   "era": "modern",
+   "file": "eras/modern/005896-imprisonment-lords-1677-declaration-duke.md",
+   "at": "2026-10-17T19:50:24+00:00"
   }
  ]
 }
