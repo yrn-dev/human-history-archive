@@ -1,5 +1,5 @@
 {
- "count": 5803,
+ "count": 5804,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40621,6 +40621,13 @@
    "era": "industrial",
    "file": "eras/industrial/005805-1841-his-father-native-ayr-living-some-years.md",
    "at": "2026-10-17T02:01:15+00:00"
+  },
+  {
+   "slug": "buchanan-published-undertones-1863-tentative-volume",
+   "title": "Buchanan published Undertones in 1863. This \"tentative\" volume was",
+   "era": "modern",
+   "file": "eras/modern/005806-buchanan-published-undertones-1863-tentative-volume.md",
+   "at": "2026-10-17T02:11:22+00:00"
   }
  ]
 }
