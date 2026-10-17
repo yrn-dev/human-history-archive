@@ -1,5 +1,5 @@
 {
- "count": 5800,
+ "count": 5801,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40600,6 +40600,13 @@
    "era": "modern",
    "file": "eras/modern/005802-cobb-georgia-secretary-treasury-jacob-thompson.md",
    "at": "2026-10-17T01:21:16+00:00"
+  },
+  {
+   "slug": "1850-new-york-new-edition-1902-1907-john-bassett-moore-edited",
+   "title": "1850 (New York, new edition, 1902-1907). John Bassett Moore has edited",
+   "era": "modern",
+   "file": "eras/modern/005803-1850-new-york-new-edition-1902-1907-john-bassett-moore-edited.md",
+   "at": "2026-10-17T01:41:16+00:00"
   }
  ]
 }
