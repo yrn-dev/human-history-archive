@@ -1,5 +1,5 @@
 {
- "count": 5805,
+ "count": 5806,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40635,6 +40635,13 @@
    "era": "industrial",
    "file": "eras/industrial/005807-contemporary-review-october-1871-entitled-fleshly-school.md",
    "at": "2026-10-17T02:21:12+00:00"
+  },
+  {
+   "slug": "poetry-article-expanded-pamphlet-1872-but-he",
+   "title": "Poetry.\" This article was expanded into a pamphlet (1872), but he",
+   "era": "modern",
+   "file": "eras/modern/005808-poetry-article-expanded-pamphlet-1872-but-he.md",
+   "at": "2026-10-17T02:31:16+00:00"
   }
  ]
 }
