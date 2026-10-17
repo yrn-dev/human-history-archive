@@ -1,5 +1,5 @@
 {
- "count": 5896,
+ "count": 5897,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41272,6 +41272,13 @@
    "era": "modern",
    "file": "eras/modern/005898-series-mss-duke-buccleuch-montagu-house-mrs.md",
    "at": "2026-10-17T20:20:37+00:00"
+  },
+  {
+   "slug": "frankland-russell-astley-marq-ormonde-various",
+   "title": "Frankland-Russell-Astley, of Marq. of Ormonde, and Various",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005899-frankland-russell-astley-marq-ormonde-various.md",
+   "at": "2026-10-17T20:30:57+00:00"
   }
  ]
 }
