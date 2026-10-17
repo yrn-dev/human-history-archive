@@ -1,5 +1,5 @@
 {
- "count": 5806,
+ "count": 5807,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40642,6 +40642,13 @@
    "era": "modern",
    "file": "eras/modern/005808-poetry-article-expanded-pamphlet-1872-but-he.md",
    "at": "2026-10-17T02:31:16+00:00"
+  },
+  {
+   "slug": "athenaeum-16th-december-1871-entitled-stealthy-school",
+   "title": "Athenaeum (16th December 1871), entitled \"The Stealthy School of",
+   "era": "industrial",
+   "file": "eras/industrial/005809-athenaeum-16th-december-1871-entitled-stealthy-school.md",
+   "at": "2026-10-17T02:41:13+00:00"
   }
  ]
 }
