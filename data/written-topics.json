@@ -1,5 +1,5 @@
 {
- "count": 5836,
+ "count": 5837,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40852,6 +40852,13 @@
    "era": "ancient",
    "file": "eras/ancient/005838-grammar-oscan-umbrian-1904-well-excellent-pre-cis.md",
    "at": "2026-10-17T08:41:05+00:00"
+  },
+  {
+   "slug": "buck-wagon-dutch-bok-wagen-south-african-cart-frame",
+   "title": "\"buck-wagon\" (Dutch, bok-wagen) is a South African cart with a frame",
+   "era": "industrial",
+   "file": "eras/industrial/005839-buck-wagon-dutch-bok-wagen-south-african-cart-frame.md",
+   "at": "2026-10-17T09:00:49+00:00"
   }
  ]
 }
