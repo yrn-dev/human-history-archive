@@ -1,5 +1,5 @@
 {
- "count": 5792,
+ "count": 5793,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40544,6 +40544,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005794-andrews-1907-verse-translation-baptistes-entitled.md",
    "at": "2026-10-17T00:01:23+00:00"
+  },
+  {
+   "slug": "dickinson-college-carlisle-pennsylvania-1809-studied-law",
+   "title": "Dickinson College, Carlisle, Pennsylvania, in 1809, studied law at",
+   "era": "industrial",
+   "file": "eras/industrial/005795-dickinson-college-carlisle-pennsylvania-1809-studied-law.md",
+   "at": "2026-10-17T00:11:17+00:00"
   }
  ]
 }
