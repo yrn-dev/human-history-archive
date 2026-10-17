@@ -1,5 +1,5 @@
 {
- "count": 5825,
+ "count": 5826,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40775,6 +40775,13 @@
    "era": "industrial",
    "file": "eras/industrial/005827-bucher-lothar-1817-1892-german-publicist-born-25th.md",
    "at": "2026-10-17T06:11:03+00:00"
+  },
+  {
+   "slug": "french-revolution-attempt-realize-christianity-essai",
+   "title": "French Revolution was an attempt to realize Christianity. In the Essai",
+   "era": "modern",
+   "file": "eras/modern/005828-french-revolution-attempt-realize-christianity-essai.md",
+   "at": "2026-10-17T06:51:10+00:00"
   }
  ]
 }
