@@ -1,5 +1,5 @@
 {
- "count": 5804,
+ "count": 5805,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40628,6 +40628,13 @@
    "era": "modern",
    "file": "eras/modern/005806-buchanan-published-undertones-1863-tentative-volume.md",
    "at": "2026-10-17T02:11:22+00:00"
+  },
+  {
+   "slug": "contemporary-review-october-1871-entitled-fleshly-school",
+   "title": "Contemporary Review for October 1871, entitled \"The Fleshly School of",
+   "era": "industrial",
+   "file": "eras/industrial/005807-contemporary-review-october-1871-entitled-fleshly-school.md",
+   "at": "2026-10-17T02:21:12+00:00"
   }
  ]
 }
