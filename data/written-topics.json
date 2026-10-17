@@ -1,5 +1,5 @@
 {
- "count": 5868,
+ "count": 5869,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41076,6 +41076,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005870-hoelianae-james-howell-187-189-203-poems-songs-relating.md",
    "at": "2026-10-17T15:10:34+00:00"
+  },
+  {
+   "slug": "(s.-r.-g.;-p.-c.-y.)",
+   "title": "(S. R. G.; P. C. Y.)",
+   "era": "modern",
+   "file": "eras/modern/005871-(s.-r.-g.;-p.-c.-y.).md",
+   "at": "2026-10-17T15:20:40+00:00"
   }
  ]
 }
