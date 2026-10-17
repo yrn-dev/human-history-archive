@@ -1,5 +1,5 @@
 {
- "count": 5865,
+ "count": 5866,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41055,6 +41055,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/005867-life-buckingham-sir-henry-wotton-1642-reprinted-harleian.md",
    "at": "2026-10-17T14:40:40+00:00"
+  },
+  {
+   "slug": "tracts-164-20-characters-same-edward-earl-clarendon",
+   "title": "Tracts, 164 (20); Characters of the same by Edward, Earl of Clarendon",
+   "era": "modern",
+   "file": "eras/modern/005868-tracts-164-20-characters-same-edward-earl-clarendon.md",
+   "at": "2026-10-17T14:50:33+00:00"
   }
  ]
 }
