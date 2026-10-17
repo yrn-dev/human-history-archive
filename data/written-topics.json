@@ -1,5 +1,5 @@
 {
- "count": 5862,
+ "count": 5863,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41034,6 +41034,13 @@
    "era": "modern",
    "file": "eras/modern/005864-english-fleet-richelieu-laid-siege-stronghold-french.md",
    "at": "2026-10-17T14:10:41+00:00"
+  },
+  {
+   "slug": "buckingham-resolved-struggle-sent-reinforcements",
+   "title": "Buckingham resolved to struggle on, and sent for reinforcements from",
+   "era": "ancient",
+   "file": "eras/ancient/005865-buckingham-resolved-struggle-sent-reinforcements.md",
+   "at": "2026-10-17T14:20:33+00:00"
   }
  ]
 }
