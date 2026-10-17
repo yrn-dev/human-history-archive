@@ -1,5 +1,5 @@
 {
- "count": 5809,
+ "count": 5810,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -40663,6 +40663,13 @@
    "era": "industrial",
    "file": "eras/industrial/005811-1886-adaptation-tom-jones-man-shadow-1890.md",
    "at": "2026-10-17T03:01:11+00:00"
+  },
+  {
+   "slug": "david-gray-other-essays-chiefly-poetry-1868-master-spirits",
+   "title": "David Gray and other Essays, chiefly on Poetry (1868); Master Spirits",
+   "era": "modern",
+   "file": "eras/modern/005812-david-gray-other-essays-chiefly-poetry-1868-master-spirits.md",
+   "at": "2026-10-17T03:11:18+00:00"
   }
  ]
 }
