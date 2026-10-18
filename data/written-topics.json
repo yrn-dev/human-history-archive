@@ -1,5 +1,5 @@
 {
- "count": 5984,
+ "count": 5985,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41888,6 +41888,13 @@
    "era": "modern",
    "file": "eras/modern/005986-long-range-substantial-buildings-fronting-left-bank.md",
    "at": "2026-10-18T11:55:13+00:00"
+  },
+  {
+   "slug": "renaissance-style-academy-music-old-new-exhibition",
+   "title": "Renaissance style; the academy of music; the old and new exhibition",
+   "era": "renaissance",
+   "file": "eras/renaissance/005987-renaissance-style-academy-music-old-new-exhibition.md",
+   "at": "2026-10-18T12:05:23+00:00"
   }
  ]
 }
