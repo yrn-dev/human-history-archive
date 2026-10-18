@@ -1,5 +1,5 @@
 {
- "count": 5958,
+ "count": 5959,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41706,6 +41706,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/005960-coprolites-fossil-faeces-lias-lyme-regis-other.md",
    "at": "2026-10-18T07:09:55+00:00"
+  },
+  {
+   "slug": "north-england-proc-geol-soc-lond-south-western",
+   "title": "North of England\" (Proc. Geol. Soc. Lond.); (9) \"On the South-Western",
+   "era": "industrial",
+   "file": "eras/industrial/005961-north-england-proc-geol-soc-lond-south-western.md",
+   "at": "2026-10-18T07:20:10+00:00"
   }
  ]
 }
