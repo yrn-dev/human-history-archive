@@ -1,5 +1,5 @@
 {
- "count": 5999,
+ "count": 6000,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41993,6 +41993,13 @@
    "era": "modern",
    "file": "eras/modern/006001-ecclesiastica-veteris-testamenti-vols-halle-1709-elementa.md",
    "at": "2026-10-18T14:54:49+00:00"
+  },
+  {
+   "slug": "selecta-juris-naturae-et-gentium-halle-1704-miscellanea-sacra",
+   "title": "Selecta Juris Naturae et Gentium (Halle, 1704); Miscellanea Sacra (3",
+   "era": "modern",
+   "file": "eras/modern/006002-selecta-juris-naturae-et-gentium-halle-1704-miscellanea-sacra.md",
+   "at": "2026-10-18T15:04:55+00:00"
   }
  ]
 }
