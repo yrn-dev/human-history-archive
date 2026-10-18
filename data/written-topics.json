@@ -1,5 +1,5 @@
 {
- "count": 5955,
+ "count": 5956,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41685,6 +41685,13 @@
    "era": "industrial",
    "file": "eras/industrial/005957-1836-gone-through-three-editions-though-not-manual.md",
    "at": "2026-10-18T06:39:49+00:00"
+  },
+  {
+   "slug": "rhinoceros-hippopotamus-discovered-cave-kirkdale",
+   "title": "Rhinoceros, Hippopotamus, &c., discovered in a cave at Kirkdale in",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/005958-rhinoceros-hippopotamus-discovered-cave-kirkdale.md",
+   "at": "2026-10-18T06:49:54+00:00"
   }
  ]
 }
