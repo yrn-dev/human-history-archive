@@ -1,5 +1,5 @@
 {
- "count": 5960,
+ "count": 5961,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41720,6 +41720,13 @@
    "era": "industrial",
    "file": "eras/industrial/005962-trans-geol-soc-lond-10-geology-neighbourhood.md",
    "at": "2026-10-18T08:01:48+00:00"
+  },
+  {
+   "slug": "liberty-argument-immortality-based-yearning",
+   "title": "Liberty with an argument for immortality, based on the yearning of the",
+   "era": "modern",
+   "file": "eras/modern/005963-liberty-argument-immortality-based-yearning.md",
+   "at": "2026-10-18T08:05:49+00:00"
   }
  ]
 }
