@@ -1,5 +1,5 @@
 {
- "count": 6025,
+ "count": 6026,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42175,6 +42175,13 @@
    "era": "ancient",
    "file": "eras/ancient/006027-carpenter-vol-london-li-text-society-1886.md",
    "at": "2026-10-18T19:14:41+00:00"
+  },
+  {
+   "slug": "buddhism-religion-held-followers-buddha",
+   "title": "BUDDHISM, the religion held by the followers of the Buddha (q.v.), and",
+   "era": "cultures",
+   "file": "eras/cultures/006028-buddhism-religion-held-followers-buddha.md",
+   "at": "2026-10-18T19:24:58+00:00"
   }
  ]
 }
