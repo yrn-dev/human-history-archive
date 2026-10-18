@@ -1,5 +1,5 @@
 {
- "count": 6000,
+ "count": 6001,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42000,6 +42000,13 @@
    "era": "modern",
    "file": "eras/modern/006002-selecta-juris-naturae-et-gentium-halle-1704-miscellanea-sacra.md",
    "at": "2026-10-18T15:04:55+00:00"
+  },
+  {
+   "slug": "buddha-himself-merely-imaginary-being-no-one-however-would-now",
+   "title": "\"Buddha himself merely an imaginary being.\" No one, however, would now",
+   "era": "ancient",
+   "file": "eras/ancient/006003-buddha-himself-merely-imaginary-being-no-one-however-would-now.md",
+   "at": "2026-10-18T15:15:03+00:00"
   }
  ]
 }
