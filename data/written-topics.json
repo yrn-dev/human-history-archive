@@ -1,5 +1,5 @@
 {
- "count": 6016,
+ "count": 6017,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42112,6 +42112,13 @@
    "era": "ancient",
    "file": "eras/ancient/006018-1881-vol-pp-124-131-youth-home-text-anguttara.md",
    "at": "2026-10-18T17:44:49+00:00"
+  },
+  {
+   "slug": "nik-ya-145-going-forth-old-ballad-text-sutta",
+   "title": "Nik[=a]ya, i. 145. (4) The going forth; old ballad; text in Sutta",
+   "era": "ancient",
+   "file": "eras/ancient/006019-nik-ya-145-going-forth-old-ballad-text-sutta.md",
+   "at": "2026-10-18T17:54:54+00:00"
   }
  ]
 }
