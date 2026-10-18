@@ -1,5 +1,5 @@
 {
- "count": 5989,
+ "count": 5990,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41923,6 +41923,13 @@
    "era": "modern",
    "file": "eras/modern/005991-vienna-austro-hungarian-delegations-elected.md",
    "at": "2026-10-18T12:55:12+00:00"
+  },
+  {
+   "slug": "catholic-archbishop-town-administered-elected-municipal",
+   "title": "Catholic archbishop. The town is administered by an elected municipal",
+   "era": "modern",
+   "file": "eras/modern/005992-catholic-archbishop-town-administered-elected-municipal.md",
+   "at": "2026-10-18T13:05:03+00:00"
   }
  ]
 }
