@@ -1,5 +1,5 @@
 {
- "count": 5920,
+ "count": 5921,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41440,6 +41440,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/005922-gault-towersey-broad-band-gault-bluish-clay-extends.md",
    "at": "2026-10-18T00:40:49+00:00"
+  },
+  {
+   "slug": "gault-upper-greensand-junction-two-formations",
+   "title": "Gault is the Upper Greensand; at the junction of the two formations",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/005923-gault-upper-greensand-junction-two-formations.md",
+   "at": "2026-10-18T00:50:09+00:00"
   }
  ]
 }
