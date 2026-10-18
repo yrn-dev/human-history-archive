@@ -1,5 +1,5 @@
 {
- "count": 6020,
+ "count": 6021,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42140,6 +42140,13 @@
    "era": "cultures",
    "file": "eras/cultures/006022-buddhist-birth-stories-london-1880-pp-1-133-modern-works.md",
    "at": "2026-10-18T18:24:45+00:00"
+  },
+  {
+   "slug": "(t.-w.-r.-d.)",
+   "title": "(T. W. R. D.)",
+   "era": "modern",
+   "file": "eras/modern/006023-(t.-w.-r.-d.).md",
+   "at": "2026-10-18T18:34:59+00:00"
   }
  ]
 }
