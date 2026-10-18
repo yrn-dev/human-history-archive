@@ -1,5 +1,5 @@
 {
- "count": 5925,
+ "count": 5926,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41475,6 +41475,13 @@
    "era": "industrial",
    "file": "eras/industrial/005927-chesham-branch-aylesbury-joining-north-western-oxford.md",
    "at": "2026-10-18T01:30:12+00:00"
+  },
+  {
+   "slug": "opening-line-1906-great-western-branch",
+   "title": "Before the opening of this line in 1906 the Great Western branch from",
+   "era": "modern",
+   "file": "eras/modern/005928-opening-line-1906-great-western-branch.md",
+   "at": "2026-10-18T01:40:14+00:00"
   }
  ]
 }
