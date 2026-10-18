@@ -1,5 +1,5 @@
 {
- "count": 5959,
+ "count": 5960,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41713,6 +41713,13 @@
    "era": "industrial",
    "file": "eras/industrial/005961-north-england-proc-geol-soc-lond-south-western.md",
    "at": "2026-10-18T07:20:10+00:00"
+  },
+  {
+   "slug": "trans-geol-soc-lond-10-geology-neighbourhood",
+   "title": "Trans. Geol. Soc. Lond.); (10) \"On the Geology of the neighbourhood of",
+   "era": "industrial",
+   "file": "eras/industrial/005962-trans-geol-soc-lond-10-geology-neighbourhood.md",
+   "at": "2026-10-18T08:01:48+00:00"
   }
  ]
 }
