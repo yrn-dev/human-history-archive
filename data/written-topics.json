@@ -1,5 +1,5 @@
 {
- "count": 5946,
+ "count": 5947,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -41622,6 +41622,13 @@
    "era": "modern",
    "file": "eras/modern/005948-worthies-buckingham-aylesbury-1886-buckingham-miscellany.md",
    "at": "2026-10-18T05:10:10+00:00"
+  },
+  {
+   "slug": "county-history-buckinghamshire",
+   "title": "County History, \"Buckinghamshire.\"",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/005949-county-history-buckinghamshire.md",
+   "at": "2026-10-18T05:20:10+00:00"
   }
  ]
 }
