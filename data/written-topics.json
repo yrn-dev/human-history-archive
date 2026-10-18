@@ -1,5 +1,5 @@
 {
- "count": 6021,
+ "count": 6022,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42147,6 +42147,13 @@
    "era": "modern",
    "file": "eras/modern/006023-(t.-w.-r.-d.).md",
    "at": "2026-10-18T18:34:59+00:00"
+  },
+  {
+   "slug": "mah-parinibb-na-suttanta-vol-ii-gha-ed-rhys",
+   "title": "Mah[=a]parinibb[=a]na Suttanta, vol. ii. of the D[=i]gha (ed. Rhys",
+   "era": "ancient",
+   "file": "eras/ancient/006024-mah-parinibb-na-suttanta-vol-ii-gha-ed-rhys.md",
+   "at": "2026-10-18T18:44:40+00:00"
   }
  ]
 }
