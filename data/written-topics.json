@@ -1,5 +1,5 @@
 {
- "count": 6007,
+ "count": 6008,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42049,6 +42049,13 @@
    "era": "ancient",
    "file": "eras/ancient/006009-nearly-certain-buddha-commanding-presence-one.md",
    "at": "2026-10-18T16:14:57+00:00"
+  },
+  {
+   "slug": "bishop-bigandet-sermon-mount-subject-jungle-fire",
+   "title": "Bishop Bigandet the Sermon on the Mount. Its subject was a jungle-fire",
+   "era": "ancient",
+   "file": "eras/ancient/006010-bishop-bigandet-sermon-mount-subject-jungle-fire.md",
+   "at": "2026-10-18T16:24:44+00:00"
   }
  ]
 }
