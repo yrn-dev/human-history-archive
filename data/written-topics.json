@@ -1,5 +1,5 @@
 {
- "count": 6091,
+ "count": 6092,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42637,6 +42637,13 @@
    "era": "industrial",
    "file": "eras/industrial/006093-linz-laid-1827-horse-cars-first-line-constructed.md",
    "at": "2026-10-19T07:04:08+00:00"
+  },
+  {
+   "slug": "old-town-budweis-founded-13th-century-budivoj",
+   "title": "The old town of Budweis was founded in the 13th century by Budivoj",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/006094-old-town-budweis-founded-13th-century-budivoj.md",
+   "at": "2026-10-19T07:14:11+00:00"
   }
  ]
 }
