@@ -1,5 +1,5 @@
 {
- "count": 6073,
+ "count": 6074,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42511,6 +42511,13 @@
    "era": "cultures",
    "file": "eras/cultures/006075-davids-title-buddhist-birth-stories-1880-vols--vi.md",
    "at": "2026-10-19T03:34:26+00:00"
+  },
+  {
+   "slug": "mo-nche-und-nonnen-1899-same-dialogues-buddha-rhys",
+   "title": "Mönche und Nonnen, 1899, by the same; Dialogues of the Buddha, by Rhys",
+   "era": "ancient",
+   "file": "eras/ancient/006076-mo-nche-und-nonnen-1899-same-dialogues-buddha-rhys.md",
+   "at": "2026-10-19T03:44:22+00:00"
   }
  ]
 }
