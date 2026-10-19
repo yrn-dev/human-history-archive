@@ -1,5 +1,5 @@
 {
- "count": 6173,
+ "count": 6174,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43211,6 +43211,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/006175-biography-cg-de-slane-translation-ibn-khallik.md",
    "at": "2026-10-19T21:23:32+00:00"
+  },
+  {
+   "slug": "building-art-building-comprises-practice-civil",
+   "title": "BUILDING.[1] The art of building comprises the practice of civil",
+   "era": "industrial",
+   "file": "eras/industrial/006176-building-art-building-comprises-practice-civil.md",
+   "at": "2026-10-19T21:33:42+00:00"
   }
  ]
 }
