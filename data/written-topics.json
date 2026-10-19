@@ -1,5 +1,5 @@
 {
- "count": 6175,
+ "count": 6176,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43225,6 +43225,13 @@
    "era": "cultures",
    "file": "eras/cultures/006177-important-feature-qualification-architect-he.md",
    "at": "2026-10-19T21:43:35+00:00"
+  },
+  {
+   "slug": "addition-meeting-requirements-clients-various",
+   "title": "In addition to meeting the requirements of the clients, the various",
+   "era": "modern",
+   "file": "eras/modern/006178-addition-meeting-requirements-clients-various.md",
+   "at": "2026-10-19T21:53:36+00:00"
   }
  ]
 }
