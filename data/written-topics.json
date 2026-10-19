@@ -1,5 +1,5 @@
 {
- "count": 6152,
+ "count": 6153,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43064,6 +43064,13 @@
    "era": "modern",
    "file": "eras/modern/006154-copenhagen-berlin-1866-he-became-professor-comparative.md",
    "at": "2026-10-19T17:43:45+00:00"
+  },
+  {
+   "slug": "edda-earlier-sagas-largely-founded-christian-latin",
+   "title": "Edda and the earlier sagas were largely founded on Christian and Latin",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/006155-edda-earlier-sagas-largely-founded-christian-latin.md",
+   "at": "2026-10-19T17:53:50+00:00"
   }
  ]
 }
