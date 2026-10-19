@@ -1,5 +1,5 @@
 {
- "count": 6103,
+ "count": 6104,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42721,6 +42721,13 @@
    "era": "modern",
    "file": "eras/modern/006105-america-time-first-authentic-census-1869.md",
    "at": "2026-10-19T09:04:22+00:00"
+  },
+  {
+   "slug": "mayor-appointed-national-executive-approval",
+   "title": "(mayor) appointed by the national executive with the approval of the",
+   "era": "modern",
+   "file": "eras/modern/006106-mayor-appointed-national-executive-approval.md",
+   "at": "2026-10-19T09:14:09+00:00"
   }
  ]
 }
