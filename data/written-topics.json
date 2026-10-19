@@ -1,5 +1,5 @@
 {
- "count": 6123,
+ "count": 6124,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42861,6 +42861,13 @@
    "era": "industrial",
    "file": "eras/industrial/006125-courier-established-1831-there-1908-eleven-daily-papers.md",
    "at": "2026-10-19T12:33:59+00:00"
+  },
+  {
+   "slug": "government-population---buffalo-governed-amended-city",
+   "title": "Government and Population.--Buffalo is governed under an amended city",
+   "era": "modern",
+   "file": "eras/modern/006126-government-population---buffalo-governed-amended-city.md",
+   "at": "2026-10-19T12:44:26+00:00"
   }
  ]
 }
