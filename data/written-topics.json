@@ -1,5 +1,5 @@
 {
- "count": 6082,
+ "count": 6083,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42574,6 +42574,13 @@
    "era": "modern",
    "file": "eras/modern/006084-united-kingdom-chancellor-exchequer-usually-april-lays.md",
    "at": "2026-10-19T05:14:19+00:00"
+  },
+  {
+   "slug": "these-items-can-criticized-reduced-but-not-increased",
+   "title": "These items can be criticized, and reduced (but not increased) by",
+   "era": "cultures",
+   "file": "eras/cultures/006085-these-items-can-criticized-reduced-but-not-increased.md",
+   "at": "2026-10-19T05:24:19+00:00"
   }
  ]
 }
