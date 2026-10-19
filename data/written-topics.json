@@ -1,5 +1,5 @@
 {
- "count": 6169,
+ "count": 6170,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43183,6 +43183,13 @@
    "era": "modern",
    "file": "eras/modern/006171-flu-gelhorn-name-denotes-became-signal-instrument.md",
    "at": "2026-10-19T20:33:36+00:00"
+  },
+  {
+   "slug": "greek-roman-antiquities-british-museum-two-bronze-etruscan",
+   "title": "Greek and Roman antiquities at the British Museum, two bronze Etruscan",
+   "era": "ancient",
+   "file": "eras/ancient/006172-greek-roman-antiquities-british-museum-two-bronze-etruscan.md",
+   "at": "2026-10-19T20:43:31+00:00"
   }
  ]
 }
