@@ -1,5 +1,5 @@
 {
- "count": 6121,
+ "count": 6122,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -42847,6 +42847,13 @@
    "era": "industrial",
    "file": "eras/industrial/006123-grosvenor-founded-1859-reference-75-000-volumes-7000.md",
    "at": "2026-10-19T12:13:56+00:00"
+  },
+  {
+   "slug": "institute-12-000-library-buffalo-historical-society",
+   "title": "Institute (12,000); and the library of the Buffalo Historical Society",
+   "era": "modern",
+   "file": "eras/modern/006124-institute-12-000-library-buffalo-historical-society.md",
+   "at": "2026-10-19T12:23:55+00:00"
   }
  ]
 }
