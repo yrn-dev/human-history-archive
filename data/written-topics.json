@@ -1,5 +1,5 @@
 {
- "count": 6238,
+ "count": 6239,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43666,6 +43666,13 @@
    "era": "industrial",
    "file": "eras/industrial/006240-volume-iv-slice-ii.md",
    "at": "2026-10-20T08:52:50+00:00"
+  },
+  {
+   "slug": "bohemia-borgia-francis",
+   "title": "Bohemia to Borgia, Francis",
+   "era": "renaissance",
+   "file": "eras/renaissance/006241-bohemia-borgia-francis.md",
+   "at": "2026-10-20T09:03:25+00:00"
   }
  ]
 }
