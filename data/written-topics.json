@@ -1,5 +1,5 @@
 {
- "count": 6207,
+ "count": 6208,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43449,6 +43449,13 @@
    "era": "cultures",
    "file": "eras/cultures/006209-pajajaram-close-bata-tulis-inscribed-stone-some-hindu.md",
    "at": "2026-10-20T03:13:16+00:00"
+  },
+  {
+   "slug": "arabic-author-most-generally-accepted-collection-traditions",
+   "title": "Arabic author of the most generally accepted collection of traditions",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/006210-arabic-author-most-generally-accepted-collection-traditions.md",
+   "at": "2026-10-20T03:23:19+00:00"
   }
  ]
 }
