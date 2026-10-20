@@ -1,5 +1,5 @@
 {
- "count": 6293,
+ "count": 6294,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44051,6 +44051,13 @@
    "era": "modern",
    "file": "eras/modern/006295-education-well-advanced-bohemia-lowest-proportion.md",
    "at": "2026-10-20T18:13:01+00:00"
+  },
+  {
+   "slug": "kolin-15-025-kuttenberg-14-799-trautenau-14-777-carlsbad",
+   "title": "Kolin (15,025), Kuttenberg (14,799), Trautenau (14,777), Carlsbad",
+   "era": "modern",
+   "file": "eras/modern/006296-kolin-15-025-kuttenberg-14-799-trautenau-14-777-carlsbad.md",
+   "at": "2026-10-20T18:22:55+00:00"
   }
  ]
 }
