@@ -1,5 +1,5 @@
 {
- "count": 6288,
+ "count": 6289,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44016,6 +44016,13 @@
    "era": "industrial",
    "file": "eras/industrial/006290-prague-last-named-place-also-found-great.md",
    "at": "2026-10-20T17:22:29+00:00"
+  },
+  {
+   "slug": "population-administration---bohemia-1900-population",
+   "title": "Population and Administration.--Bohemia had in 1900 a population of",
+   "era": "modern",
+   "file": "eras/modern/006291-population-administration---bohemia-1900-population.md",
+   "at": "2026-10-20T17:32:29+00:00"
   }
  ]
 }
