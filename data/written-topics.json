@@ -1,5 +1,5 @@
 {
- "count": 6243,
+ "count": 6244,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43701,6 +43701,13 @@
    "era": "modern",
    "file": "eras/modern/006245-boisguilbert-pierre-le-pesant-bonitz-hermann.md",
    "at": "2026-10-20T09:43:02+00:00"
+  },
+  {
+   "slug": "boissard-jean-jacques-bonn",
+   "title": "BOISSARD, JEAN JACQUES          BONN",
+   "era": "renaissance",
+   "file": "eras/renaissance/006246-boissard-jean-jacques-bonn.md",
+   "at": "2026-10-20T09:52:49+00:00"
   }
  ]
 }
