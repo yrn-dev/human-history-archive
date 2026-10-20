@@ -1,5 +1,5 @@
 {
- "count": 6283,
+ "count": 6284,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43981,6 +43981,13 @@
    "era": "modern",
    "file": "eras/modern/006285-bohemia-possesses-two-hundred-mineral-springs-but-only-few.md",
    "at": "2026-10-20T16:32:34+00:00"
+  },
+  {
+   "slug": "manufactures-commerce---from-industrial-point-view-bohemia",
+   "title": "Manufactures and Commerce.--From an industrial point of view, Bohemia",
+   "era": "industrial",
+   "file": "eras/industrial/006286-manufactures-commerce---from-industrial-point-view-bohemia.md",
+   "at": "2026-10-20T16:42:29+00:00"
   }
  ]
 }
