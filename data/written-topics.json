@@ -1,5 +1,5 @@
 {
- "count": 6199,
+ "count": 6200,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43393,6 +43393,13 @@
    "era": "industrial",
    "file": "eras/industrial/006201-birkbeck-society-two-days-besieged-anxious-crowd.md",
    "at": "2026-10-20T01:43:22+00:00"
+  },
+  {
+   "slug": "liberator-disaster-convinced-everybody-something-must-done",
+   "title": "The Liberator disaster convinced everybody that something must be done",
+   "era": "modern",
+   "file": "eras/modern/006202-liberator-disaster-convinced-everybody-something-must-done.md",
+   "at": "2026-10-20T01:53:20+00:00"
   }
  ]
 }
