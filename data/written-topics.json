@@ -1,5 +1,5 @@
 {
- "count": 6253,
+ "count": 6254,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43771,6 +43771,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/006255-bomberg-daniel-borax.md",
    "at": "2026-10-20T11:33:03+00:00"
+  },
+  {
+   "slug": "bona-dea-bordeaux",
+   "title": "BONA DEA                        BORDEAUX",
+   "era": "ancient",
+   "file": "eras/ancient/006256-bona-dea-bordeaux.md",
+   "at": "2026-10-20T11:42:44+00:00"
   }
  ]
 }
