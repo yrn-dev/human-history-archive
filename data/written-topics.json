@@ -1,5 +1,5 @@
 {
- "count": 6237,
+ "count": 6238,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43659,6 +43659,13 @@
    "era": "modern",
    "file": "eras/modern/006239-general-information.md",
    "at": "2026-10-20T08:43:07+00:00"
+  },
+  {
+   "slug": "volume-iv-slice-ii",
+   "title": "VOLUME IV, SLICE II",
+   "era": "industrial",
+   "file": "eras/industrial/006240-volume-iv-slice-ii.md",
+   "at": "2026-10-20T08:52:50+00:00"
   }
  ]
 }
