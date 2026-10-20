@@ -1,5 +1,5 @@
 {
- "count": 6229,
+ "count": 6230,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43603,6 +43603,13 @@
    "era": "modern",
    "file": "eras/modern/006231-beeeze-original.md",
    "at": "2026-10-20T07:22:54+00:00"
+  },
+  {
+   "slug": "comtemporaneous-original",
+   "title": "'comtemporaneous' in original",
+   "era": "modern",
+   "file": "eras/modern/006232-comtemporaneous-original.md",
+   "at": "2026-10-20T07:33:37+00:00"
   }
  ]
 }
