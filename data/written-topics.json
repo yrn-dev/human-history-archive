@@ -1,5 +1,5 @@
 {
- "count": 6201,
+ "count": 6202,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43407,6 +43407,13 @@
    "era": "industrial",
    "file": "eras/industrial/006203-all-bills-referred-select-committee-which-mr-herbert.md",
    "at": "2026-10-20T02:03:30+00:00"
+  },
+  {
+   "slug": "gladstone-chairman-result-deliberations",
+   "title": "Gladstone was the chairman. As the result of the deliberations of the",
+   "era": "industrial",
+   "file": "eras/industrial/006204-gladstone-chairman-result-deliberations.md",
+   "at": "2026-10-20T02:13:23+00:00"
   }
  ]
 }
