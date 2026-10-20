@@ -1,5 +1,5 @@
 {
- "count": 6246,
+ "count": 6247,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43722,6 +43722,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/006248-boivin-francois-de-bonnet.md",
    "at": "2026-10-20T10:12:44+00:00"
+  },
+  {
+   "slug": "bokenam-osbern-bonneval-claude-alexandre",
+   "title": "BOKENAM, OSBERN                 BONNEVAL, CLAUDE ALEXANDRE",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/006249-bokenam-osbern-bonneval-claude-alexandre.md",
+   "at": "2026-10-20T10:22:55+00:00"
   }
  ]
 }
