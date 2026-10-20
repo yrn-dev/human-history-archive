@@ -1,5 +1,5 @@
 {
- "count": 6241,
+ "count": 6242,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43687,6 +43687,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/006243-bohun-bonghi-ruggero.md",
    "at": "2026-10-20T09:23:03+00:00"
+  },
+  {
+   "slug": "boiardo-matteo-maria-bongo-tribe-sudan",
+   "title": "BOIARDO, MATTEO MARIA           BONGO  (tribe of Sudan)",
+   "era": "cultures",
+   "file": "eras/cultures/006244-boiardo-matteo-maria-bongo-tribe-sudan.md",
+   "at": "2026-10-20T09:33:06+00:00"
   }
  ]
 }
