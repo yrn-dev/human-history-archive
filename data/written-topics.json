@@ -1,5 +1,5 @@
 {
- "count": 6252,
+ "count": 6253,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43764,6 +43764,13 @@
    "era": "industrial",
    "file": "eras/industrial/006254-bolton-county-england-booth-charles.md",
    "at": "2026-10-20T11:22:51+00:00"
+  },
+  {
+   "slug": "bomberg-daniel-borax",
+   "title": "BOMBERG, DANIEL                 BORAX",
+   "era": "renaissance",
+   "file": "eras/renaissance/006255-bomberg-daniel-borax.md",
+   "at": "2026-10-20T11:33:03+00:00"
   }
  ]
 }
