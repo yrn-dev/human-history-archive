@@ -1,5 +1,5 @@
 {
- "count": 6256,
+ "count": 6257,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43792,6 +43792,13 @@
    "era": "modern",
    "file": "eras/modern/006258-bondager-borel-petrus.md",
    "at": "2026-10-20T12:02:42+00:00"
+  },
+  {
+   "slug": "bondu-borghese",
+   "title": "BONDU                           BORGHESE",
+   "era": "cultures",
+   "file": "eras/cultures/006259-bondu-borghese.md",
+   "at": "2026-10-20T12:12:50+00:00"
   }
  ]
 }
