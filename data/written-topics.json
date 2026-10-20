@@ -1,5 +1,5 @@
 {
- "count": 6267,
+ "count": 6268,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43869,6 +43869,13 @@
    "era": "modern",
    "file": "eras/modern/006269-napoleon-battle-dresden-1813-south-stretches.md",
    "at": "2026-10-20T13:52:52+00:00"
+  },
+  {
+   "slug": "arbesau-little-farther-east-elbe-escapes-saxony",
+   "title": "Arbesau. A little farther to the east the Elbe escapes into Saxony at",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/006270-arbesau-little-farther-east-elbe-escapes-saxony.md",
+   "at": "2026-10-20T14:02:52+00:00"
   }
  ]
 }
