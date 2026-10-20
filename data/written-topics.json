@@ -1,5 +1,5 @@
 {
- "count": 6245,
+ "count": 6246,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43715,6 +43715,13 @@
    "era": "modern",
    "file": "eras/modern/006247-boissier-marie-louis-gaston-bonnat-leon-joseph-florentin.md",
    "at": "2026-10-20T10:02:50+00:00"
+  },
+  {
+   "slug": "boivin-francois-de-bonnet",
+   "title": "BOIVIN, FRANCOIS DE             BONNET",
+   "era": "renaissance",
+   "file": "eras/renaissance/006248-boivin-francois-de-bonnet.md",
+   "at": "2026-10-20T10:12:44+00:00"
   }
  ]
 }
