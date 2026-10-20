@@ -1,5 +1,5 @@
 {
- "count": 6263,
+ "count": 6264,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43841,6 +43841,13 @@
    "era": "ancient",
    "file": "eras/ancient/006265-tuhost-fortress-place-where-some.md",
    "at": "2026-10-20T13:13:00+00:00"
+  },
+  {
+   "slug": "avars-which-threatened-independence-newly-settled-slavonic",
+   "title": "Avars, which threatened the independence of the newly-settled Slavonic",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/006266-avars-which-threatened-independence-newly-settled-slavonic.md",
+   "at": "2026-10-20T13:22:42+00:00"
   }
  ]
 }
