@@ -1,5 +1,5 @@
 {
- "count": 6239,
+ "count": 6240,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43673,6 +43673,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/006241-bohemia-borgia-francis.md",
    "at": "2026-10-20T09:03:25+00:00"
+  },
+  {
+   "slug": "bohemund-bo-ness",
+   "title": "BOHEMUND                        BO'NESS",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/006242-bohemund-bo-ness.md",
+   "at": "2026-10-20T09:13:06+00:00"
   }
  ]
 }
