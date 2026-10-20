@@ -1,5 +1,5 @@
 {
- "count": 6277,
+ "count": 6278,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43939,6 +43939,13 @@
    "era": "cultures",
    "file": "eras/cultures/006279-climate---bohemia-continental-generally-healthy-climate-which.md",
    "at": "2026-10-20T15:32:41+00:00"
+  },
+  {
+   "slug": "agriculture---favoured-suitable-climate-inhabited",
+   "title": "Agriculture.--Favoured with a suitable climate and inhabited by a",
+   "era": "modern",
+   "file": "eras/modern/006280-agriculture---favoured-suitable-climate-inhabited.md",
+   "at": "2026-10-20T15:42:41+00:00"
   }
  ]
 }
