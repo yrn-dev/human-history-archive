@@ -1,5 +1,5 @@
 {
- "count": 6250,
+ "count": 6251,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43750,6 +43750,13 @@
    "era": "cultures",
    "file": "eras/cultures/006252-bole-bononia.md",
    "at": "2026-10-20T11:03:01+00:00"
+  },
+  {
+   "slug": "boleslaus-bonpland-aime-jacques-alexandre",
+   "title": "BOLESLAUS I.                    BONPLAND, AIME JACQUES ALEXANDRE",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/006253-boleslaus-bonpland-aime-jacques-alexandre.md",
+   "at": "2026-10-20T11:12:48+00:00"
   }
  ]
 }
