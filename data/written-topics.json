@@ -1,5 +1,5 @@
 {
- "count": 6233,
+ "count": 6234,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43631,6 +43631,13 @@
    "era": "modern",
    "file": "eras/modern/006235-distributed-proofreading-team-http-www-pgdp-net.md",
    "at": "2026-10-20T08:02:58+00:00"
+  },
+  {
+   "slug": "numbers-following-letters-without-space-like-c2-originally",
+   "title": "(1) Numbers following letters (without space) like C2 were originally",
+   "era": "modern",
+   "file": "eras/modern/006236-numbers-following-letters-without-space-like-c2-originally.md",
+   "at": "2026-10-20T08:12:50+00:00"
   }
  ]
 }
