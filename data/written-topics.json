@@ -1,5 +1,5 @@
 {
- "count": 6254,
+ "count": 6255,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -43778,6 +43778,13 @@
    "era": "ancient",
    "file": "eras/ancient/006256-bona-dea-bordeaux.md",
    "at": "2026-10-20T11:42:44+00:00"
+  },
+  {
+   "slug": "bona-fide-borden-sir-frederick-william",
+   "title": "BONA FIDE                       BORDEN, SIR FREDERICK WILLIAM",
+   "era": "modern",
+   "file": "eras/modern/006257-bona-fide-borden-sir-frederick-william.md",
+   "at": "2026-10-20T11:52:43+00:00"
   }
  ]
 }
