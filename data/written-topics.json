@@ -1,5 +1,5 @@
 {
- "count": 6348,
+ "count": 6349,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44436,6 +44436,13 @@
    "era": "modern",
    "file": "eras/modern/008599-korybutovic-menace-german-invasion-soon-reunited.md",
    "at": "2026-11-05T20:00:15+00:00"
+  },
+  {
+   "slug": "bohemians-who-gained-decisive-victory-germans-aussig",
+   "title": "Bohemians, who gained a decisive victory over the Germans at Aussig in",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008600-bohemians-who-gained-decisive-victory-germans-aussig.md",
+   "at": "2026-11-05T20:10:26+00:00"
   }
  ]
 }
