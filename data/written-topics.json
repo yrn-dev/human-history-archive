@@ -1,5 +1,5 @@
 {
- "count": 6328,
+ "count": 6329,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44296,6 +44296,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008579-during-earlier-part-reign-wenceslas-continual-struggle.md",
    "at": "2026-11-05T16:40:39+00:00"
+  },
+  {
+   "slug": "huss-hussites",
+   "title": "Huss and the Hussites",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008580-huss-hussites.md",
+   "at": "2026-11-05T16:50:54+00:00"
   }
  ]
 }
