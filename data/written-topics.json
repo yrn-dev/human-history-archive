@@ -1,5 +1,5 @@
 {
- "count": 6350,
+ "count": 6351,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44450,6 +44450,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008601-1426-shortly-afterwards-korybutovic-who-taken-part-great.md",
    "at": "2026-11-05T20:20:14+00:00"
+  },
+  {
+   "slug": "compacts",
+   "title": "The \"Compacts.\"",
+   "era": "modern",
+   "file": "eras/modern/008602-compacts.md",
+   "at": "2026-11-05T20:30:19+00:00"
   }
  ]
 }
