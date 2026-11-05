@@ -1,5 +1,5 @@
 {
- "count": 6335,
+ "count": 6336,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44345,6 +44345,13 @@
    "era": "ancient",
    "file": "eras/ancient/008586-council-indeed-summoned-nobles-tribunal-but-they.md",
    "at": "2026-11-05T17:50:48+00:00"
+  },
+  {
+   "slug": "meanwhile-they-declared-university-prague-supreme-authority",
+   "title": "Meanwhile they declared the university of Prague the supreme authority",
+   "era": "renaissance",
+   "file": "eras/renaissance/008587-meanwhile-they-declared-university-prague-supreme-authority.md",
+   "at": "2026-11-05T18:00:39+00:00"
   }
  ]
 }
