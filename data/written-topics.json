@@ -1,5 +1,5 @@
 {
- "count": 6303,
+ "count": 6304,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44121,6 +44121,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008554-cyrillus-methodius--greek-monks-thessalonica-year.md",
    "at": "2026-11-05T12:21:07+00:00"
+  },
+  {
+   "slug": "873-bohemian-prince-borivoj-baptized-methodius",
+   "title": "873 the Bohemian prince Borivoj was baptized by Methodius, and the",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008555-873-bohemian-prince-borivoj-baptized-methodius.md",
+   "at": "2026-11-05T12:31:09+00:00"
   }
  ]
 }
