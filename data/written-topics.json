@@ -1,5 +1,5 @@
 {
- "count": 6459,
+ "count": 6460,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45213,6 +45213,13 @@
    "era": "industrial",
    "file": "eras/industrial/008710-prussia-signed-prague-23rd-august-1866-excluded.md",
    "at": "2026-11-06T14:29:31+00:00"
+  },
+  {
+   "slug": "germany-all-lands-ruled-house-habsburg-natural",
+   "title": "Germany all lands ruled by the house of Habsburg. As a natural",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008711-germany-all-lands-ruled-house-habsburg-natural.md",
+   "at": "2026-11-06T14:39:30+00:00"
   }
  ]
 }
