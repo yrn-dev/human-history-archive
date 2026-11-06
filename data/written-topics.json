@@ -1,5 +1,5 @@
 {
- "count": 6379,
+ "count": 6380,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44653,6 +44653,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/008630-rozmital-his-offices-1525-shortly-afterwards-rozmital-became.md",
    "at": "2026-11-06T01:09:57+00:00"
+  },
+  {
+   "slug": "meanwhile-louis-who-returned-hungary-opened-his-campaign",
+   "title": "Meanwhile Louis, who had returned to Hungary, opened his campaign",
+   "era": "renaissance",
+   "file": "eras/renaissance/008631-meanwhile-louis-who-returned-hungary-opened-his-campaign.md",
+   "at": "2026-11-06T01:20:04+00:00"
   }
  ]
 }
