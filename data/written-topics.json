@@ -1,5 +1,5 @@
 {
- "count": 6470,
+ "count": 6471,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45290,6 +45290,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008721-fontes-rerum-bohemicarum-published-prague-latter-part.md",
    "at": "2026-11-06T16:19:15+00:00"
+  },
+  {
+   "slug": "1844-1867-which-however-ends-year-1526-rezek-gindely",
+   "title": "1844-1867), which, however, ends with the year 1526. Rezek, Gindely",
+   "era": "modern",
+   "file": "eras/modern/008722-1844-1867-which-however-ends-year-1526-rezek-gindely.md",
+   "at": "2026-11-06T16:29:32+00:00"
   }
  ]
 }
