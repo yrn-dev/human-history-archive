@@ -1,5 +1,5 @@
 {
- "count": 6371,
+ "count": 6372,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -44597,6 +44597,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008622-wladislaus-ladislaus-son-casimir-king-poland-no-formal.md",
    "at": "2026-11-05T23:50:04+00:00"
+  },
+  {
+   "slug": "matthias-retain-so-called-lands-bohemian",
+   "title": "Matthias was to retain the so-called \"lands of the Bohemian",
+   "era": "renaissance",
+   "file": "eras/renaissance/008623-matthias-retain-so-called-lands-bohemian.md",
+   "at": "2026-11-06T00:00:11+00:00"
   }
  ]
 }
