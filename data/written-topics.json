@@ -1,5 +1,5 @@
 {
- "count": 6460,
+ "count": 6461,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45220,6 +45220,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008711-germany-all-lands-ruled-house-habsburg-natural.md",
    "at": "2026-11-06T14:39:30+00:00"
+  },
+  {
+   "slug": "slavic-parts-habsburg-empire-maintained-system",
+   "title": "Slavic parts of the Habsburg empire, maintained the system of",
+   "era": "modern",
+   "file": "eras/modern/008712-slavic-parts-habsburg-empire-maintained-system.md",
+   "at": "2026-11-06T14:49:31+00:00"
   }
  ]
 }
