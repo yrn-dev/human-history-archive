@@ -1,5 +1,5 @@
 {
- "count": 6457,
+ "count": 6458,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45199,6 +45199,13 @@
    "era": "modern",
    "file": "eras/modern/008708-austro-prussian-war-caused-complete-change-constitutional.md",
    "at": "2026-11-06T14:09:31+00:00"
+  },
+  {
+   "slug": "confederation-done-without-consulting-estates",
+   "title": "Confederation; this was done without consulting the estates of the",
+   "era": "modern",
+   "file": "eras/modern/008709-confederation-done-without-consulting-estates.md",
+   "at": "2026-11-06T14:19:30+00:00"
   }
  ]
 }
