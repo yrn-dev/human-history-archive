@@ -1,5 +1,5 @@
 {
- "count": 6473,
+ "count": 6474,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45311,6 +45311,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008724-koniginhof-almost-certainly-forgeries-early-part.md",
    "at": "2026-11-06T16:49:19+00:00"
+  },
+  {
+   "slug": "19th-century-earliest-genuine-documents-bohemian-language",
+   "title": "19th century. The earliest genuine documents of the Bohemian language",
+   "era": "industrial",
+   "file": "eras/industrial/008725-19th-century-earliest-genuine-documents-bohemian-language.md",
+   "at": "2026-11-06T16:59:30+00:00"
   }
  ]
 }
