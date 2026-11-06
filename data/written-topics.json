@@ -1,5 +1,5 @@
 {
- "count": 6456,
+ "count": 6457,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45192,6 +45192,13 @@
    "era": "industrial",
    "file": "eras/industrial/008707-1861-established-central-parliament-vienna-very.md",
    "at": "2026-11-06T13:59:36+00:00"
+  },
+  {
+   "slug": "austro-prussian-war-caused-complete-change-constitutional",
+   "title": "Austro-Prussian war caused a complete change in the constitutional",
+   "era": "modern",
+   "file": "eras/modern/008708-austro-prussian-war-caused-complete-change-constitutional.md",
+   "at": "2026-11-06T14:09:31+00:00"
   }
  ]
 }
