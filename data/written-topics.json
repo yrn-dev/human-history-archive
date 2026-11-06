@@ -1,5 +1,5 @@
 {
- "count": 6477,
+ "count": 6478,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45339,6 +45339,13 @@
    "era": "industrial",
    "file": "eras/industrial/008728-bohemian-writings-been-printed-since-revival-bohemian.md",
    "at": "2026-11-06T17:29:28+00:00"
+  },
+  {
+   "slug": "dalimil-author-who-probably-lived-during-reign-king-john",
+   "title": "Dalimil. The author, who probably lived during the reign of King John",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008729-dalimil-author-who-probably-lived-during-reign-king-john.md",
+   "at": "2026-11-06T17:39:09+00:00"
   }
  ]
 }
