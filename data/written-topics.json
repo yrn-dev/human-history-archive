@@ -1,5 +1,5 @@
 {
- "count": 6455,
+ "count": 6456,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45185,6 +45185,13 @@
    "era": "modern",
    "file": "eras/modern/008706-bohemia-all-parts-habsburg-empire-reaction-now.md",
    "at": "2026-11-06T13:49:29+00:00"
+  },
+  {
+   "slug": "1861-established-central-parliament-vienna-very",
+   "title": "1861. This established a central parliament at Vienna with very",
+   "era": "industrial",
+   "file": "eras/industrial/008707-1861-established-central-parliament-vienna-very.md",
+   "at": "2026-11-06T13:59:36+00:00"
   }
  ]
 }
