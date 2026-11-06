@@ -1,5 +1,5 @@
 {
- "count": 6458,
+ "count": 6459,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45206,6 +45206,13 @@
    "era": "modern",
    "file": "eras/modern/008709-confederation-done-without-consulting-estates.md",
    "at": "2026-11-06T14:19:30+00:00"
+  },
+  {
+   "slug": "prussia-signed-prague-23rd-august-1866-excluded",
+   "title": "Prussia, signed at Prague on the 23rd of August 1866, excluded from",
+   "era": "industrial",
+   "file": "eras/industrial/008710-prussia-signed-prague-23rd-august-1866-excluded.md",
+   "at": "2026-11-06T14:29:31+00:00"
   }
  ]
 }
