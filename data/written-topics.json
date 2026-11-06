@@ -1,5 +1,5 @@
 {
- "count": 6431,
+ "count": 6432,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45017,6 +45017,13 @@
    "era": "industrial",
    "file": "eras/industrial/008682-former-enactments-enforcing-use-national-language.md",
    "at": "2026-11-06T09:49:33+00:00"
+  },
+  {
+   "slug": "matthias-childless-question-succession",
+   "title": "As Matthias was childless, the question as to the succession to the",
+   "era": "renaissance",
+   "file": "eras/renaissance/008683-matthias-childless-question-succession.md",
+   "at": "2026-11-06T09:59:39+00:00"
   }
  ]
 }
