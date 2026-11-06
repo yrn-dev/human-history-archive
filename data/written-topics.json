@@ -1,5 +1,5 @@
 {
- "count": 6476,
+ "count": 6477,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45332,6 +45332,13 @@
    "era": "ancient",
    "file": "eras/ancient/008727-alexandreis-tandarias-floribella-these-other-early.md",
    "at": "2026-11-06T17:19:12+00:00"
+  },
+  {
+   "slug": "bohemian-writings-been-printed-since-revival-bohemian",
+   "title": "Bohemian writings have been printed since the revival of Bohemian",
+   "era": "industrial",
+   "file": "eras/industrial/008728-bohemian-writings-been-printed-since-revival-bohemian.md",
+   "at": "2026-11-06T17:29:28+00:00"
   }
  ]
 }
