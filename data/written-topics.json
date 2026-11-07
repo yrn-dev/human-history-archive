@@ -1,5 +1,5 @@
 {
- "count": 6567,
+ "count": 6568,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45969,6 +45969,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008818-die-reichsgesetze-900-1400-frankfort-1832-wittelsbachische.md",
    "at": "2026-11-07T09:19:48+00:00"
+  },
+  {
+   "slug": "regesten-von-der-erwerbung-des-herzogtums-bayern-bis-zu-1340",
+   "title": "Regesten von der Erwerbung des Herzogtums Bayern bis zu 1340",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008819-regesten-von-der-erwerbung-des-herzogtums-bayern-bis-zu-1340.md",
+   "at": "2026-11-07T09:29:52+00:00"
   }
  ]
 }
