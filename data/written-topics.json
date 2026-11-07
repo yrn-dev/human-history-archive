@@ -1,5 +1,5 @@
 {
- "count": 6572,
+ "count": 6573,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46004,6 +46004,13 @@
    "era": "industrial",
    "file": "eras/industrial/008823-30th-may-11th-june-1815-st-petersburg-having-studied.md",
    "at": "2026-11-07T10:09:54+00:00"
+  },
+  {
+   "slug": "1833-1835-oriental-languages-particularly-arabic-persian",
+   "title": "(1833-1835) Oriental languages, particularly Arabic, Persian and",
+   "era": "industrial",
+   "file": "eras/industrial/008824-1833-1835-oriental-languages-particularly-arabic-persian.md",
+   "at": "2026-11-07T10:21:11+00:00"
   }
  ]
 }
