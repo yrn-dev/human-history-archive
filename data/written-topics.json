@@ -1,5 +1,5 @@
 {
- "count": 6543,
+ "count": 6544,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45801,6 +45801,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008794-venetians-proved-too-strong-bohemund-submit.md",
    "at": "2026-11-07T05:00:05+00:00"
+  },
+  {
+   "slug": "literature---the-anonymous-gesta-francorum-edited-hagenmeyer",
+   "title": "LITERATURE.--The anonymous Gesta Francorum (edited by H. Hagenmeyer)",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008795-literature---the-anonymous-gesta-francorum-edited-hagenmeyer.md",
+   "at": "2026-11-07T05:09:57+00:00"
   }
  ]
 }
