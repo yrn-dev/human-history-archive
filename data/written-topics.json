@@ -1,5 +1,5 @@
 {
- "count": 6647,
+ "count": 6648,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46529,6 +46529,13 @@
    "era": "industrial",
    "file": "eras/industrial/008898-1830-1837-who-made-use-some-350-editions-text-edited.md",
    "at": "2026-11-07T23:45:17+00:00"
+  },
+  {
+   "slug": "esthetique-de-boileau-revue-des-deux-mondes-june-1889",
+   "title": "\"L'Esthetique de Boileau\" (Revue des Deux Mondes, June 1889), and an",
+   "era": "modern",
+   "file": "eras/modern/008899-esthetique-de-boileau-revue-des-deux-mondes-june-1889.md",
+   "at": "2026-11-07T23:55:07+00:00"
   }
  ]
 }
