@@ -1,5 +1,5 @@
 {
- "count": 6562,
+ "count": 6563,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45934,6 +45934,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008813-tripoli-br.md",
    "at": "2026-11-07T08:20:02+00:00"
+  },
+  {
+   "slug": "bohmer-johann-friedrich-1795-1863-german-historian-son-karl",
+   "title": "BOHMER, JOHANN FRIEDRICH (1795-1863), German historian, son of Karl",
+   "era": "industrial",
+   "file": "eras/industrial/008814-bohmer-johann-friedrich-1795-1863-german-historian-son-karl.md",
+   "at": "2026-11-07T08:29:50+00:00"
   }
  ]
 }
