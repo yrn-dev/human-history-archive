@@ -1,5 +1,5 @@
 {
- "count": 6578,
+ "count": 6579,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46046,6 +46046,13 @@
    "era": "industrial",
    "file": "eras/industrial/008829-ubersetzung-leipzig-1887-earlier-edition-followed.md",
    "at": "2026-11-07T11:09:49+00:00"
+  },
+  {
+   "slug": "vopadevas-grammatik-st-petersburg-1847-uber-die-sprache-der",
+   "title": "Vopadevas Grammatik (St Petersburg, 1847); Uber die Sprache der",
+   "era": "industrial",
+   "file": "eras/industrial/008830-vopadevas-grammatik-st-petersburg-1847-uber-die-sprache-der.md",
+   "at": "2026-11-07T11:19:44+00:00"
   }
  ]
 }
