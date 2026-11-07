@@ -1,5 +1,5 @@
 {
- "count": 6645,
+ "count": 6646,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46515,6 +46515,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/008896-numerous-editions-boileau-works-published-during-his.md",
    "at": "2026-11-07T23:25:17+00:00"
+  },
+  {
+   "slug": "favourite-edition-poet-reprinted-variants-notes",
+   "title": "\"favourite\" edition of the poet, was reprinted with variants and notes",
+   "era": "modern",
+   "file": "eras/modern/008897-favourite-edition-poet-reprinted-variants-notes.md",
+   "at": "2026-11-07T23:35:06+00:00"
   }
  ]
 }
