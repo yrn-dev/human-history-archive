@@ -1,5 +1,5 @@
 {
- "count": 6565,
+ "count": 6566,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45955,6 +45955,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008816-regesta-chronologico-diplomatica-regum-atque-imperatorum-romanorum.md",
    "at": "2026-11-07T08:59:54+00:00"
+  },
+  {
+   "slug": "911-1313-frankfort-1831-which-followed-regesta",
+   "title": "911-1313 (Frankfort, 1831), which was followed by the Regesta",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008817-911-1313-frankfort-1831-which-followed-regesta.md",
+   "at": "2026-11-07T09:09:51+00:00"
   }
  ]
 }
