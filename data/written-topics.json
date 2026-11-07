@@ -1,5 +1,5 @@
 {
- "count": 6604,
+ "count": 6605,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46228,6 +46228,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/008855-1500-4to-sonnetti-canzoni-reggio-1499-4to-carmen.md",
    "at": "2026-11-07T15:49:36+00:00"
+  },
+  {
+   "slug": "8vo-erodoto-alicarnasseo-istorico-tradotto-di-greco-lingua",
+   "title": "8vo; (7) Erodoto Alicarnasseo istorico, tradotto di Greco in Lingua",
+   "era": "ancient",
+   "file": "eras/ancient/008856-8vo-erodoto-alicarnasseo-istorico-tradotto-di-greco-lingua.md",
+   "at": "2026-11-07T15:59:24+00:00"
   }
  ]
 }
