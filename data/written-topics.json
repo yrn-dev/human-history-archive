@@ -1,5 +1,5 @@
 {
- "count": 6579,
+ "count": 6580,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46053,6 +46053,13 @@
    "era": "industrial",
    "file": "eras/industrial/008830-vopadevas-grammatik-st-petersburg-1847-uber-die-sprache-der.md",
    "at": "2026-11-07T11:19:44+00:00"
+  },
+  {
+   "slug": "leipzig-1893-critical-examination-translation",
+   "title": "Leipzig, 1893); a critical examination and translation of",
+   "era": "industrial",
+   "file": "eras/industrial/008831-leipzig-1893-critical-examination-translation.md",
+   "at": "2026-11-07T11:37:14+00:00"
   }
  ]
 }
