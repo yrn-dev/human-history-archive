@@ -1,5 +1,5 @@
 {
- "count": 6564,
+ "count": 6565,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45948,6 +45948,13 @@
    "era": "modern",
    "file": "eras/modern/008815-frankfort-22nd-october-1863-bohmer-historical-work.md",
    "at": "2026-11-07T08:49:55+00:00"
+  },
+  {
+   "slug": "regesta-chronologico-diplomatica-regum-atque-imperatorum-romanorum",
+   "title": "Regesta chronologico-diplomatica regum atque imperatorum Romanorum",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008816-regesta-chronologico-diplomatica-regum-atque-imperatorum-romanorum.md",
+   "at": "2026-11-07T08:59:54+00:00"
   }
  ]
 }
