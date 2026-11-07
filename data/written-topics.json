@@ -1,5 +1,5 @@
 {
- "count": 6639,
+ "count": 6640,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46473,6 +46473,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/008890-1674-appeared-also-his-translation-longinus-sublime.md",
    "at": "2026-11-07T22:25:14+00:00"
+  },
+  {
+   "slug": "10th-satire-women-provoked-apologie-des-femmes",
+   "title": "The 10th satire, on women, provoked an Apologie des femmes from",
+   "era": "modern",
+   "file": "eras/modern/008891-10th-satire-women-provoked-apologie-des-femmes.md",
+   "at": "2026-11-07T22:35:11+00:00"
   }
  ]
 }
