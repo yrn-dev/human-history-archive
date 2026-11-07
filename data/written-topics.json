@@ -1,5 +1,5 @@
 {
- "count": 6605,
+ "count": 6606,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46235,6 +46235,13 @@
    "era": "ancient",
    "file": "eras/ancient/008856-8vo-erodoto-alicarnasseo-istorico-tradotto-di-greco-lingua.md",
    "at": "2026-11-07T15:59:24+00:00"
+  },
+  {
+   "slug": "he-founded-1770-gottingen-musenalmanach-which-he",
+   "title": "(q.v.) he founded in 1770 the Gottingen Musenalmanach, which he",
+   "era": "industrial",
+   "file": "eras/industrial/008857-he-founded-1770-gottingen-musenalmanach-which-he.md",
+   "at": "2026-11-07T16:09:30+00:00"
   }
  ]
 }
