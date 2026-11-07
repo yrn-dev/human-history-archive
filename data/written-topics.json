@@ -1,5 +1,5 @@
 {
- "count": 6563,
+ "count": 6564,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45941,6 +45941,13 @@
    "era": "industrial",
    "file": "eras/industrial/008814-bohmer-johann-friedrich-1795-1863-german-historian-son-karl.md",
    "at": "2026-11-07T08:29:50+00:00"
+  },
+  {
+   "slug": "frankfort-22nd-october-1863-bohmer-historical-work",
+   "title": "Frankfort, on the 22nd of October 1863. Bohmer's historical work was",
+   "era": "modern",
+   "file": "eras/modern/008815-frankfort-22nd-october-1863-bohmer-historical-work.md",
+   "at": "2026-11-07T08:49:55+00:00"
   }
  ]
 }
