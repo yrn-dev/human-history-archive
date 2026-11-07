@@ -1,5 +1,5 @@
 {
- "count": 6580,
+ "count": 6581,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46060,6 +46060,13 @@
    "era": "industrial",
    "file": "eras/industrial/008831-leipzig-1893-critical-examination-translation.md",
    "at": "2026-11-07T11:37:14+00:00"
+  },
+  {
+   "slug": "chhandogya-upanishad-st-petersburg-1889-translation",
+   "title": "Chhandogya-upanishad (St Petersburg, 1889) and a translation of",
+   "era": "cultures",
+   "file": "eras/cultures/008832-chhandogya-upanishad-st-petersburg-1889-translation.md",
+   "at": "2026-11-07T11:39:54+00:00"
   }
  ]
 }
