@@ -1,5 +1,5 @@
 {
- "count": 6561,
+ "count": 6562,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45927,6 +45927,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008812-literature---the-history-bohemunds-history.md",
    "at": "2026-11-07T08:10:31+00:00"
+  },
+  {
+   "slug": "tripoli-br",
+   "title": "Tripoli.     (E. Br.)",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008813-tripoli-br.md",
+   "at": "2026-11-07T08:20:02+00:00"
   }
  ]
 }
