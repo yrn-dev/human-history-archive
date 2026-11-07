@@ -1,5 +1,5 @@
 {
- "count": 6646,
+ "count": 6647,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46522,6 +46522,13 @@
    "era": "modern",
    "file": "eras/modern/008897-favourite-edition-poet-reprinted-variants-notes.md",
    "at": "2026-11-07T23:35:06+00:00"
+  },
+  {
+   "slug": "1830-1837-who-made-use-some-350-editions-text-edited",
+   "title": "1830-1837), who made use of some 350 editions. This text, edited with",
+   "era": "industrial",
+   "file": "eras/industrial/008898-1830-1837-who-made-use-some-350-editions-text-edited.md",
+   "at": "2026-11-07T23:45:17+00:00"
   }
  ]
 }
