@@ -1,5 +1,5 @@
 {
- "count": 6611,
+ "count": 6612,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46277,6 +46277,13 @@
    "era": "industrial",
    "file": "eras/industrial/008862-conservatoire-1817-le-chapeau-rouge-produced-great.md",
    "at": "2026-11-07T17:09:26+00:00"
+  },
+  {
+   "slug": "boigne-benoit-de-count-1751-1830-first-french-military",
+   "title": "BOIGNE, BENOIT DE, COUNT (1751-1830), the first of the French military",
+   "era": "modern",
+   "file": "eras/modern/008863-boigne-benoit-de-count-1751-1830-first-french-military.md",
+   "at": "2026-11-07T17:29:24+00:00"
   }
  ]
 }
