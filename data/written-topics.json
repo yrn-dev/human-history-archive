@@ -1,5 +1,5 @@
 {
- "count": 6619,
+ "count": 6620,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46333,6 +46333,13 @@
    "era": "cultures",
    "file": "eras/cultures/008870-umbrians-established-themselves-far-apennines.md",
    "at": "2026-11-07T18:39:24+00:00"
+  },
+  {
+   "slug": "etruscans-vadimonian-lake-224-battle-telamon",
+   "title": "Etruscans, at the Vadimonian lake; in 224, after the battle of Telamon",
+   "era": "ancient",
+   "file": "eras/ancient/008871-etruscans-vadimonian-lake-224-battle-telamon.md",
+   "at": "2026-11-07T18:49:21+00:00"
   }
  ]
 }
