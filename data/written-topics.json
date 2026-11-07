@@ -1,5 +1,5 @@
 {
- "count": 6566,
+ "count": 6567,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -45962,6 +45962,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/008817-911-1313-frankfort-1831-which-followed-regesta.md",
    "at": "2026-11-07T09:09:51+00:00"
+  },
+  {
+   "slug": "die-reichsgesetze-900-1400-frankfort-1832-wittelsbachische",
+   "title": "Die Reichsgesetze 900-1400 (Frankfort, 1832); Wittelsbachische",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/008818-die-reichsgesetze-900-1400-frankfort-1832-wittelsbachische.md",
+   "at": "2026-11-07T09:19:48+00:00"
   }
  ]
 }
