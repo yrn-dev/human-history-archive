@@ -1,5 +1,5 @@
 {
- "count": 6705,
+ "count": 6706,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46935,6 +46935,13 @@
    "era": "industrial",
    "file": "eras/industrial/008956-oil-separators---when-steam-engines-condensed-used.md",
    "at": "2026-11-08T09:24:43+00:00"
+  },
+  {
+   "slug": "corrosion---when-chemicals-any-kind-used-soften-purify",
+   "title": "Corrosion.--When chemicals of any kind are used to soften or purify",
+   "era": "industrial",
+   "file": "eras/industrial/008957-corrosion---when-chemicals-any-kind-used-soften-purify.md",
+   "at": "2026-11-08T09:34:50+00:00"
   }
  ]
 }
