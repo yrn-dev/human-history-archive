@@ -1,0 +1,28 @@
+# Experimental Tests and Conditions
+
+Experimental testing across various scientific and technical disciplines requires the strict control of specific conditions to ensure accuracy, reproducibility, and the validity of results. Depending on the field—ranging from mechanical engineering and physics to biology and food science—the conditions that must be monitored vary from physical constants and environmental factors to biological susceptibility.
+
+## Mechanical and Engineering Tests
+In the testing of boilers, the duration of the trial is the principal condition to be considered. To ensure accuracy, the condition of the boiler at the end of the test must be identical to its condition at the start, specifically regarding steam pressure, the quantity of water, and the amount of unconsumed coals on the fire-grate. Longer observation periods help reduce errors in estimating these particulars. To accurately represent ordinary working conditions, the duration of the test must allow for a proportionate amount of fire cleaning, and the rate of fuel combustion must match intended working levels. Furthermore, the coal used must be the type intended for general use, with a carefully selected sample used to test the calorific value of the bulk fuel.
+
+Periodic records for these tests include the weights of ashes and fuel used, the quantity and temperature of feed-water, the maintained steam pressure, and the wetness of the steam. The latter is measured from samples taken at a position in the steam pipe where full pressure is maintained. To standardize results across different steam pressures and feed temperatures, calculations are reduced to an equivalent evaporation from a feed temperature of 212 deg. F. at atmospheric pressure.
+
+In the field of structural engineering, experimental tests were used to determine the strength of materials for railway bridges. For the Britannia bridge, experiments helped prove that a simple wrought iron tubular girder was strong enough to support the railway, as the theory for combined suspension chains and girders could not be formulated at the time.
+
+## Physics and Density Determination
+The determination of absolute densities of gases requires elaborate precautions. One method, originated by Regnault and refined by experimenters such as Lord Rayleigh and Morley, involves filling a glass globe with pure, dry gas using an air-pump. The flask is cooled to 0° via melting ice, weighed at room temperature, partially exhausted, and re-weighed. Lord Rayleigh noted a critical correction to this method: the experimental globe's volume changes due to shrinkage under diminished pressure, an effect ranging between 0.04 and 0.16% of the globe's volume.
+
+For determining the density of crystals, the "diffusion column" method is employed. A liquid column is prepared using benzene and methylene iodide to create a density variation from approximately 3.3 to 1. The density at any level is determined using areometrical beads—hollow glass beads of variable density proposed by Alexander Wilson. When a test crystal is introduced, its density is calculated based on the distances ($l_1, l_2$) and known densities ($d_1, d_2$) of two beads, one floating above and one below the crystal, using the formula $(d_1l_2 + d_2l_1)/(l_1 + l_2)$.
+
+## Biological and Chemical Testing
+In biology, immunity is defined as non-susceptibility to a toxin, bacterium, or disease. This is viewed as a relative term because conditions present in the environment play a significant role. An animal might be susceptible during experimental inoculation but not in nature if the necessary conditions for infection are absent. Additionally, general or local diminished vitality can increase susceptibility. Immunity can be acquired naturally through surviving a disease or artificially through inoculation. Artificial immunity is divided into "active immunity" (reactions produced by injections of bacteria or their products) and "passive immunity" (the transference of serum from an actively immunized animal to a fresh one).
+
+In food science, specifically the manufacture of Cheddar cheese, the "hot-iron test" for acidity was historically used, though it suffered from uncertainty regarding the temperature of the iron. A more precise chemical method uses an acidimeter with a standard alkali solution (soda) and an indicator (phenolphthalein). While not an essential condition for making good cheese, it allows makers to determine the acidity of the whey to decide when to grind the curd and when to draw off the whey. For optimal results, the acidity of the liquid from the press should be kept near 1.00%, and should not fall below 0.80% or rise above 1.20%.
+
+## Other Experimental Applications
+Experimental methods are also applied to aviation training, where devices are used to simulate the conditions encountered during flight. In the arts, Beethoven's pianoforte works are viewed as a means where experiment was more readily tested and mastery more easily attained compared to his larger compositions. In the science of "composing" for change-ringing, a set of fixed laws and conditions serves as the "proof" or test to determine if a composition is "true" (free from repetition) or "false" (involving repetition).
+
+## Sources
+Compiled from: britannica11 vol03b bohemia to borgia, britannica11 vol07b demijohn to destructors, britannica11 vol02b baconthorpe to bankruptcy, britannica11 vol03a brequigny to bulgaria, britannica11 vol04b bedlam to benson, worlds war events v3, britannica11 vol08a dagupan to david
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
