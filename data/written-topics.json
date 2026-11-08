@@ -1,5 +1,5 @@
 {
- "count": 6651,
+ "count": 6652,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46557,6 +46557,13 @@
    "era": "industrial",
    "file": "eras/industrial/008902-see-fig-working-pressure-60-lb-per-sq.md",
    "at": "2026-11-08T00:25:22+00:00"
+  },
+  {
+   "slug": "galloway-boiler-two-furnaces-extend-only",
+   "title": "In the \"Galloway\" boiler the two furnaces extend only for about 9 or",
+   "era": "industrial",
+   "file": "eras/industrial/008903-galloway-boiler-two-furnaces-extend-only.md",
+   "at": "2026-11-08T00:35:11+00:00"
   }
  ]
 }
