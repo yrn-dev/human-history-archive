@@ -1,5 +1,5 @@
 {
- "count": 6659,
+ "count": 6660,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46613,6 +46613,13 @@
    "era": "industrial",
    "file": "eras/industrial/008910-co-illustrated-fig-furnace-hemispherical.md",
    "at": "2026-11-08T01:45:16+00:00"
+  },
+  {
+   "slug": "cochran-combustion-chamber-made-dry-back-instead",
+   "title": "\"Cochran,\" the combustion chamber is made with a \"dry\" back. Instead",
+   "era": "industrial",
+   "file": "eras/industrial/008911-cochran-combustion-chamber-made-dry-back-instead.md",
+   "at": "2026-11-08T01:55:03+00:00"
   }
  ]
 }
