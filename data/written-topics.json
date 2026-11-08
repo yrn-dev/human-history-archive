@@ -1,5 +1,5 @@
 {
- "count": 6689,
+ "count": 6690,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46823,6 +46823,13 @@
    "era": "industrial",
    "file": "eras/industrial/008940-class-water-tube-boilers-largely-use-torpedo-boat.md",
    "at": "2026-11-08T06:45:02+00:00"
+  },
+  {
+   "slug": "normand-boiler-fig-19-there-three-chambers",
+   "title": "In the Normand boiler (fig. 19) there are three chambers as in the",
+   "era": "industrial",
+   "file": "eras/industrial/008941-normand-boiler-fig-19-there-three-chambers.md",
+   "at": "2026-11-08T06:54:54+00:00"
   }
  ]
 }
