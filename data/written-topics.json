@@ -1,5 +1,5 @@
 {
- "count": 6730,
+ "count": 6731,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47110,6 +47110,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/008981-boiling-death-punishment-once-common-both-england.md",
    "at": "2026-11-08T13:44:31+00:00"
+  },
+  {
+   "slug": "chronicles-grey-friars-published-camden-society-1852",
+   "title": "Chronicles of the Grey Friars (published by the Camden Society, 1852)",
+   "era": "renaissance",
+   "file": "eras/renaissance/008982-chronicles-grey-friars-published-camden-society-1852.md",
+   "at": "2026-11-08T13:54:34+00:00"
   }
  ]
 }
