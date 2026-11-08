@@ -1,5 +1,5 @@
 {
- "count": 6655,
+ "count": 6656,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46585,6 +46585,13 @@
    "era": "industrial",
    "file": "eras/industrial/008906-all-three-types-boiler-brickwork-constructed-form-one.md",
    "at": "2026-11-08T01:05:09+00:00"
+  },
+  {
+   "slug": "where-floor-space-limited-also-small-installations-other",
+   "title": "Where floor space is limited and also for small installations, other",
+   "era": "industrial",
+   "file": "eras/industrial/008907-where-floor-space-limited-also-small-installations-other.md",
+   "at": "2026-11-08T01:15:02+00:00"
   }
  ]
 }
