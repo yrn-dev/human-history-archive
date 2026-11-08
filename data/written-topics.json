@@ -1,5 +1,5 @@
 {
- "count": 6760,
+ "count": 6761,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47320,6 +47320,13 @@
    "era": "ancient",
    "file": "eras/ancient/009011-iliados-1851-collection-greek-poets-24-vols.md",
    "at": "2026-11-08T19:54:09+00:00"
+  },
+  {
+   "slug": "october-1789-demanded-strict-measures-taken-against",
+   "title": "(October 1789); demanded that strict measures be taken against the",
+   "era": "modern",
+   "file": "eras/modern/009012-october-1789-demanded-strict-measures-taken-against.md",
+   "at": "2026-11-08T20:14:10+00:00"
   }
  ]
 }
