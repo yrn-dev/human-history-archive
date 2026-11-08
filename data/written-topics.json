@@ -1,5 +1,5 @@
 {
- "count": 6694,
+ "count": 6695,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46858,6 +46858,13 @@
    "era": "industrial",
    "file": "eras/industrial/008945-messrs-john-thornycroft-co-make-two-forms-express-boiler-one.md",
    "at": "2026-11-08T07:34:51+00:00"
+  },
+  {
+   "slug": "other-type-boiler-known-thornycroft-schulz-boiler",
+   "title": "In the other type of boiler, known as the Thornycroft-Schulz boiler",
+   "era": "industrial",
+   "file": "eras/industrial/008946-other-type-boiler-known-thornycroft-schulz-boiler.md",
+   "at": "2026-11-08T07:44:47+00:00"
   }
  ]
 }
