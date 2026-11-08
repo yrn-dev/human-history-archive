@@ -1,5 +1,5 @@
 {
- "count": 6774,
+ "count": 6775,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47418,6 +47418,13 @@
    "era": "industrial",
    "file": "eras/industrial/009025-1868-conducted-first-performance-his-opera-mefistofele.md",
    "at": "2026-11-08T22:33:58+00:00"
+  },
+  {
+   "slug": "scala-theatre-milan-work-failed-completely-withdrawn",
+   "title": "Scala theatre, Milan. The work failed completely, and was withdrawn",
+   "era": "modern",
+   "file": "eras/modern/009026-scala-theatre-milan-work-failed-completely-withdrawn.md",
+   "at": "2026-11-08T22:43:55+00:00"
   }
  ]
 }
