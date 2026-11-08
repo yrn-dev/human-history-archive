@@ -1,5 +1,5 @@
 {
- "count": 6653,
+ "count": 6654,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46571,6 +46571,13 @@
    "era": "industrial",
    "file": "eras/industrial/008904-10-ft-boiler-lead-large-chamber-flue-which.md",
    "at": "2026-11-08T00:45:14+00:00"
+  },
+  {
+   "slug": "when-boilers-less-than-6-1-ft-diameter-needed",
+   "title": "When boilers less than about 6-1/2 ft. in diameter are needed, a",
+   "era": "industrial",
+   "file": "eras/industrial/008905-when-boilers-less-than-6-1-ft-diameter-needed.md",
+   "at": "2026-11-08T00:55:17+00:00"
   }
  ]
 }
