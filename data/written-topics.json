@@ -1,5 +1,5 @@
 {
- "count": 6753,
+ "count": 6754,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47271,6 +47271,13 @@
    "era": "ancient",
    "file": "eras/ancient/009004-his-later-works-include-promenades-archeologiques-rome-et-pompei.md",
    "at": "2026-11-08T18:44:14+00:00"
+  },
+  {
+   "slug": "1880-second-series-1886-afrique-romaine-promenades",
+   "title": "(1880; second series, 1886); L'Afrique romaine, promenades",
+   "era": "ancient",
+   "file": "eras/ancient/009005-1880-second-series-1886-afrique-romaine-promenades.md",
+   "at": "2026-11-08T18:54:13+00:00"
   }
  ]
 }
