@@ -1,5 +1,5 @@
 {
- "count": 6654,
+ "count": 6655,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46578,6 +46578,13 @@
    "era": "industrial",
    "file": "eras/industrial/008905-when-boilers-less-than-6-1-ft-diameter-needed.md",
    "at": "2026-11-08T00:55:17+00:00"
+  },
+  {
+   "slug": "all-three-types-boiler-brickwork-constructed-form-one",
+   "title": "In all three types of boiler the brickwork is constructed to form one",
+   "era": "industrial",
+   "file": "eras/industrial/008906-all-three-types-boiler-brickwork-constructed-form-one.md",
+   "at": "2026-11-08T01:05:09+00:00"
   }
  ]
 }
