@@ -1,5 +1,5 @@
 {
- "count": 6752,
+ "count": 6753,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47264,6 +47264,13 @@
    "era": "modern",
    "file": "eras/modern/009003-time-boissier-drawn-himself-universal-respect.md",
    "at": "2026-11-08T18:34:10+00:00"
+  },
+  {
+   "slug": "his-later-works-include-promenades-archeologiques-rome-et-pompei",
+   "title": "His later works include Promenades archeologiques: Rome et Pompei",
+   "era": "ancient",
+   "file": "eras/ancient/009004-his-later-works-include-promenades-archeologiques-rome-et-pompei.md",
+   "at": "2026-11-08T18:44:14+00:00"
   }
  ]
 }
