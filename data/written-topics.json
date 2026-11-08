@@ -1,5 +1,5 @@
 {
- "count": 6759,
+ "count": 6760,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47313,6 +47313,13 @@
    "era": "ancient",
    "file": "eras/ancient/009010-sophistarum-1822-babrius-fables-1844-tzetzes-allegoriae.md",
    "at": "2026-11-08T19:44:17+00:00"
+  },
+  {
+   "slug": "iliados-1851-collection-greek-poets-24-vols",
+   "title": "Iliados (1851); and a Collection of Greek Poets in 24 vols. The",
+   "era": "ancient",
+   "file": "eras/ancient/009011-iliados-1851-collection-greek-poets-24-vols.md",
+   "at": "2026-11-08T19:54:09+00:00"
   }
  ]
 }
