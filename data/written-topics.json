@@ -1,5 +1,5 @@
 {
- "count": 6724,
+ "count": 6725,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47068,6 +47068,13 @@
    "era": "industrial",
    "file": "eras/industrial/008975-feature-peculiar-boiler-plating-shops-enormous.md",
    "at": "2026-11-08T12:44:46+00:00"
+  },
+  {
+   "slug": "hand-riveting-mostly-been-displaced-hydraulic-pneumatic",
+   "title": "Hand-riveting has mostly been displaced by hydraulic and pneumatic",
+   "era": "industrial",
+   "file": "eras/industrial/008976-hand-riveting-mostly-been-displaced-hydraulic-pneumatic.md",
+   "at": "2026-11-08T12:54:36+00:00"
   }
  ]
 }
