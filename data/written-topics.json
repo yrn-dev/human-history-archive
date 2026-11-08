@@ -1,5 +1,5 @@
 {
- "count": 6711,
+ "count": 6712,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46977,6 +46977,13 @@
    "era": "industrial",
    "file": "eras/industrial/008962-mechanical-stoking---most-boilers-hand-fired-system-involving.md",
    "at": "2026-11-08T10:34:52+00:00"
+  },
+  {
+   "slug": "draught---in-most-boilers-draught-necessary-combustion",
+   "title": "Draught.--In most boilers the draught necessary for combustion is",
+   "era": "industrial",
+   "file": "eras/industrial/008963-draught---in-most-boilers-draught-necessary-combustion.md",
+   "at": "2026-11-08T10:44:56+00:00"
   }
  ]
 }
