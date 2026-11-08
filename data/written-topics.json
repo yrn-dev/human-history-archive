@@ -1,5 +1,5 @@
 {
- "count": 6658,
+ "count": 6659,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46606,6 +46606,13 @@
    "era": "industrial",
    "file": "eras/industrial/008909-instance-tyne-boiler-fig-furnace.md",
    "at": "2026-11-08T01:35:11+00:00"
+  },
+  {
+   "slug": "co-illustrated-fig-furnace-hemispherical",
+   "title": "Co., and illustrated in fig. 6, the furnace is hemispherical; the",
+   "era": "industrial",
+   "file": "eras/industrial/008910-co-illustrated-fig-furnace-hemispherical.md",
+   "at": "2026-11-08T01:45:16+00:00"
   }
  ]
 }
