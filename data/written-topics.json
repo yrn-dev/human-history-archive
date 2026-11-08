@@ -1,5 +1,5 @@
 {
- "count": 6666,
+ "count": 6667,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46662,6 +46662,13 @@
    "era": "industrial",
    "file": "eras/industrial/008917-locomotive-boiler-consists-cylindrical-barrel-attached.md",
    "at": "2026-11-08T02:55:06+00:00"
+  },
+  {
+   "slug": "water-tubes-seamless-steel-expanded",
+   "title": "The water-tubes are of seamless steel, and are expanded into the",
+   "era": "industrial",
+   "file": "eras/industrial/008918-water-tubes-seamless-steel-expanded.md",
+   "at": "2026-11-08T03:05:09+00:00"
   }
  ]
 }
