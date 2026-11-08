@@ -1,5 +1,5 @@
 {
- "count": 6744,
+ "count": 6745,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47208,6 +47208,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/008995-1602-his-most-important-works-poemata-1574-emblemata.md",
    "at": "2026-11-08T17:14:15+00:00"
+  },
+  {
+   "slug": "1584-icones-virorum-illustrium-1597-vitae-et-icones-sultanorum",
+   "title": "(1584); Icones Virorum Illustrium (1597); Vitae et Icones Sultanorum",
+   "era": "renaissance",
+   "file": "eras/renaissance/008996-1584-icones-virorum-illustrium-1597-vitae-et-icones-sultanorum.md",
+   "at": "2026-11-08T17:24:15+00:00"
   }
  ]
 }
