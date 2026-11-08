@@ -1,5 +1,5 @@
 {
- "count": 6661,
+ "count": 6662,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46627,6 +46627,13 @@
    "era": "industrial",
    "file": "eras/industrial/008912-cylindrical-multitubular-return-tube-boiler-almost-universal.md",
    "at": "2026-11-08T02:05:04+00:00"
+  },
+  {
+   "slug": "there-two-distinct-types-connexion-between-furnaces",
+   "title": "There are two distinct types of connexion between the furnaces and the",
+   "era": "industrial",
+   "file": "eras/industrial/008913-there-two-distinct-types-connexion-between-furnaces.md",
+   "at": "2026-11-08T02:15:02+00:00"
   }
  ]
 }
