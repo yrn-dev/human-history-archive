@@ -1,5 +1,5 @@
 {
- "count": 6770,
+ "count": 6771,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47390,6 +47390,13 @@
    "era": "ancient",
    "file": "eras/ancient/009021-inscriptions-ix.md",
    "at": "2026-11-08T21:44:06+00:00"
+  },
+  {
+   "slug": "padua-24th-february-1842-he-studied-music-milan",
+   "title": "Padua on the 24th of February 1842. He studied music at the Milan",
+   "era": "industrial",
+   "file": "eras/industrial/009022-padua-24th-february-1842-he-studied-music-milan.md",
+   "at": "2026-11-08T21:54:02+00:00"
   }
  ]
 }
