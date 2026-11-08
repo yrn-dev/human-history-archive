@@ -1,5 +1,5 @@
 {
- "count": 6699,
+ "count": 6700,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46893,6 +46893,13 @@
    "era": "industrial",
    "file": "eras/industrial/008950-boiler-accessories---all-boilers-must-provided-certain.md",
    "at": "2026-11-08T08:24:57+00:00"
+  },
+  {
+   "slug": "openings-must-always-made-boilers-access-cleaning",
+   "title": "Openings must always be made in boilers for access for cleaning and",
+   "era": "industrial",
+   "file": "eras/industrial/008951-openings-must-always-made-boilers-access-cleaning.md",
+   "at": "2026-11-08T08:34:51+00:00"
   }
  ]
 }
