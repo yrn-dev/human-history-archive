@@ -1,5 +1,5 @@
 {
- "count": 6755,
+ "count": 6756,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47285,6 +47285,13 @@
    "era": "ancient",
    "file": "eras/ancient/009006-hutchison-1906-he-representative-example-french-talent.md",
    "at": "2026-11-08T19:04:21+00:00"
+  },
+  {
+   "slug": "boissonade-de-fontarabie-jean-francois-1774-1857-french-classical",
+   "title": "BOISSONADE DE FONTARABIE, JEAN FRANCOIS (1774-1857), French classical",
+   "era": "modern",
+   "file": "eras/modern/009007-boissonade-de-fontarabie-jean-francois-1774-1857-french-classical.md",
+   "at": "2026-11-08T19:14:11+00:00"
   }
  ]
 }
