@@ -1,5 +1,5 @@
 {
- "count": 6660,
+ "count": 6661,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46620,6 +46620,13 @@
    "era": "industrial",
    "file": "eras/industrial/008911-cochran-combustion-chamber-made-dry-back-instead.md",
    "at": "2026-11-08T01:55:03+00:00"
+  },
+  {
+   "slug": "cylindrical-multitubular-return-tube-boiler-almost-universal",
+   "title": "The cylindrical multitubular return tube boiler is in almost universal",
+   "era": "industrial",
+   "file": "eras/industrial/008912-cylindrical-multitubular-return-tube-boiler-almost-universal.md",
+   "at": "2026-11-08T02:05:04+00:00"
   }
  ]
 }
