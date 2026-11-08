@@ -1,5 +1,5 @@
 {
- "count": 6709,
+ "count": 6710,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46963,6 +46963,13 @@
    "era": "industrial",
    "file": "eras/industrial/008960-efficiency-boilers---the-useful-work-obtained-any-boiler.md",
    "at": "2026-11-08T10:14:54+00:00"
+  },
+  {
+   "slug": "all-excess-air-raised-same-temperature",
+   "title": "As all the excess air has to be raised to the same temperature as that",
+   "era": "industrial",
+   "file": "eras/industrial/008961-all-excess-air-raised-same-temperature.md",
+   "at": "2026-11-08T10:24:50+00:00"
   }
  ]
 }
