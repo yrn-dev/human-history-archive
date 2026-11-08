@@ -1,5 +1,5 @@
 {
- "count": 6657,
+ "count": 6658,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46599,6 +46599,13 @@
    "era": "industrial",
    "file": "eras/industrial/008908-diameter-8-in-plate-flanged-each-end-enable-them.md",
    "at": "2026-11-08T01:25:04+00:00"
+  },
+  {
+   "slug": "instance-tyne-boiler-fig-furnace",
+   "title": "For instance, in the \"Tyne\" boiler (fig. 5) the furnace is",
+   "era": "industrial",
+   "file": "eras/industrial/008909-instance-tyne-boiler-fig-furnace.md",
+   "at": "2026-11-08T01:35:11+00:00"
   }
  ]
 }
