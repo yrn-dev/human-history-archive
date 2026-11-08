@@ -1,5 +1,5 @@
 {
- "count": 6677,
+ "count": 6678,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46739,6 +46739,13 @@
    "era": "industrial",
    "file": "eras/industrial/008928-upper-lower-parts-tubes-between-these-fitting-portions.md",
    "at": "2026-11-08T04:44:53+00:00"
+  },
+  {
+   "slug": "durr-boiler-use-several-vessels-german-navy",
+   "title": "The \"Durr\" boiler, in use in several vessels in the German navy, and",
+   "era": "industrial",
+   "file": "eras/industrial/008929-durr-boiler-use-several-vessels-german-navy.md",
+   "at": "2026-11-08T04:54:54+00:00"
   }
  ]
 }
