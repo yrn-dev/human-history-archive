@@ -1,5 +1,5 @@
 {
- "count": 6747,
+ "count": 6748,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47229,6 +47229,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/008998-topographia-1597-1602-now-very-rare-de-divinatione-et-magicis.md",
    "at": "2026-11-08T17:44:12+00:00"
+  },
+  {
+   "slug": "boissier-marie-louis-antoine-gaston-1823-1908-french-classical",
+   "title": "BOISSIER, MARIE LOUIS ANTOINE GASTON (1823-1908), French classical",
+   "era": "modern",
+   "file": "eras/modern/008999-boissier-marie-louis-antoine-gaston-1823-1908-french-classical.md",
+   "at": "2026-11-08T17:54:11+00:00"
   }
  ]
 }
