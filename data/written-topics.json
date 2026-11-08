@@ -1,5 +1,5 @@
 {
- "count": 6650,
+ "count": 6651,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46550,6 +46550,13 @@
    "era": "industrial",
    "file": "eras/industrial/008901-tank-boilers---of-large-stationary-boilers-forms-most-commonly.md",
    "at": "2026-11-08T00:15:30+00:00"
+  },
+  {
+   "slug": "see-fig-working-pressure-60-lb-per-sq",
+   "title": "(see fig. 3). The working pressure is about 60 lb. per sq. in. in the",
+   "era": "industrial",
+   "file": "eras/industrial/008902-see-fig-working-pressure-60-lb-per-sq.md",
+   "at": "2026-11-08T00:25:22+00:00"
   }
  ]
 }
