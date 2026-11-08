@@ -1,5 +1,5 @@
 {
- "count": 6757,
+ "count": 6758,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47299,6 +47299,13 @@
    "era": "modern",
    "file": "eras/modern/009008-gail-chair-greek-college-de-france-he-also-held.md",
    "at": "2026-11-08T19:24:14+00:00"
+  },
+  {
+   "slug": "partitiones-1819-aristaenetus-epistolae-1822-eunapius-vitae",
+   "title": "Partitiones (1819); Aristaenetus, Epistolae (1822); Eunapius, Vitae",
+   "era": "ancient",
+   "file": "eras/ancient/009009-partitiones-1819-aristaenetus-epistolae-1822-eunapius-vitae.md",
+   "at": "2026-11-08T19:34:11+00:00"
   }
  ]
 }
