@@ -1,5 +1,5 @@
 {
- "count": 6704,
+ "count": 6705,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46928,6 +46928,13 @@
    "era": "industrial",
    "file": "eras/industrial/008955-fig-17---bobcock-wilcox-water-tube-boiler-marine-type.md",
    "at": "2026-11-08T09:14:50+00:00"
+  },
+  {
+   "slug": "oil-separators---when-steam-engines-condensed-used",
+   "title": "Oil Separators.--When the steam from the engines is condensed and used",
+   "era": "industrial",
+   "file": "eras/industrial/008956-oil-separators---when-steam-engines-condensed-used.md",
+   "at": "2026-11-08T09:24:43+00:00"
   }
  ]
 }
