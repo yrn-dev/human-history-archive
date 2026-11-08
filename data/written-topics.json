@@ -1,5 +1,5 @@
 {
- "count": 6758,
+ "count": 6759,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47306,6 +47306,13 @@
    "era": "ancient",
    "file": "eras/ancient/009009-partitiones-1819-aristaenetus-epistolae-1822-eunapius-vitae.md",
    "at": "2026-11-08T19:34:11+00:00"
+  },
+  {
+   "slug": "sophistarum-1822-babrius-fables-1844-tzetzes-allegoriae",
+   "title": "Sophistarum (1822); Babrius, Fables (1844); Tzetzes, Allegoriae",
+   "era": "ancient",
+   "file": "eras/ancient/009010-sophistarum-1822-babrius-fables-1844-tzetzes-allegoriae.md",
+   "at": "2026-11-08T19:44:17+00:00"
   }
  ]
 }
