@@ -1,5 +1,5 @@
 {
- "count": 6682,
+ "count": 6683,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46774,6 +46774,13 @@
    "era": "industrial",
    "file": "eras/industrial/008933-largest-size-single-ended-large-tube-boiler-use-steam.md",
    "at": "2026-11-08T05:35:02+00:00"
+  },
+  {
+   "slug": "most-boilers-made-access-inside-obtained",
+   "title": "In most of the boilers made, access to the inside is obtained by",
+   "era": "industrial",
+   "file": "eras/industrial/008934-most-boilers-made-access-inside-obtained.md",
+   "at": "2026-11-08T05:44:58+00:00"
   }
  ]
 }
