@@ -1,5 +1,5 @@
 {
- "count": 6695,
+ "count": 6696,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -46865,6 +46865,13 @@
    "era": "industrial",
    "file": "eras/industrial/008946-other-type-boiler-known-thornycroft-schulz-boiler.md",
    "at": "2026-11-08T07:44:47+00:00"
+  },
+  {
+   "slug": "fig-20-there-four-chambers-fire-grate-arranged",
+   "title": "(fig. 20), there are four chambers, and the fire-grate is arranged in",
+   "era": "industrial",
+   "file": "eras/industrial/008947-fig-20-there-four-chambers-fire-grate-arranged.md",
+   "at": "2026-11-08T07:55:07+00:00"
   }
  ]
 }
