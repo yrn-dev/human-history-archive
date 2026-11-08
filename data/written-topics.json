@@ -1,5 +1,5 @@
 {
- "count": 6769,
+ "count": 6770,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47383,6 +47383,13 @@
    "era": "modern",
    "file": "eras/modern/009020-sciout-le-directoire-vols-1895-notice-sur-la-vie-et.md",
    "at": "2026-11-08T21:33:57+00:00"
+  },
+  {
+   "slug": "inscriptions-ix",
+   "title": "Inscriptions, ix.     (R. A.)",
+   "era": "ancient",
+   "file": "eras/ancient/009021-inscriptions-ix.md",
+   "at": "2026-11-08T21:44:06+00:00"
   }
  ]
 }
