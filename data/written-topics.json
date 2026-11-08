@@ -1,5 +1,5 @@
 {
- "count": 6745,
+ "count": 6746,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47215,6 +47215,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/008996-1584-icones-virorum-illustrium-1597-vitae-et-icones-sultanorum.md",
    "at": "2026-11-08T17:24:15+00:00"
+  },
+  {
+   "slug": "turcicorum-1597-theatrum-vitae-humanae-1596-romanae-urbis",
+   "title": "Turcicorum, &c. (1597); Theatrum Vitae Humanae (1596); Romanae Urbis",
+   "era": "renaissance",
+   "file": "eras/renaissance/008997-turcicorum-1597-theatrum-vitae-humanae-1596-romanae-urbis.md",
+   "at": "2026-11-08T17:34:13+00:00"
   }
  ]
 }
