@@ -1,5 +1,5 @@
 {
- "count": 6890,
+ "count": 6891,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48230,6 +48230,13 @@
    "era": "modern",
    "file": "eras/modern/009141-bolingbroke-baron-st-john-lydiard-tregoze-went-france.md",
    "at": "2026-11-09T19:23:24+00:00"
+  },
+  {
+   "slug": "defending-cause-liberty-against-perpetual-dictator",
+   "title": "\"defending the cause of liberty against a perpetual dictator\"",
+   "era": "modern",
+   "file": "eras/modern/009142-defending-cause-liberty-against-perpetual-dictator.md",
+   "at": "2026-11-09T19:33:21+00:00"
   }
  ]
 }
