@@ -1,5 +1,5 @@
 {
- "count": 6821,
+ "count": 6822,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47747,6 +47747,13 @@
    "era": "cultures",
    "file": "eras/cultures/009072-bole-gr-greek-bolos-clod-earth-clay-like-substance.md",
    "at": "2026-11-09T06:53:56+00:00"
+  },
+  {
+   "slug": "greek-gae-laemnia-isle-lemnos-greek",
+   "title": "([Greek: gae Laemnia]), from the Isle of Lemnos in the Greek",
+   "era": "ancient",
+   "file": "eras/ancient/009073-greek-gae-laemnia-isle-lemnos-greek.md",
+   "at": "2026-11-09T07:04:13+00:00"
   }
  ]
 }
