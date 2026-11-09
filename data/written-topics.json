@@ -1,5 +1,5 @@
 {
- "count": 6808,
+ "count": 6809,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47656,6 +47656,13 @@
    "era": "cultures",
    "file": "eras/cultures/009059-valley-journ-geogr-soc-1870-hellwald-die-russen.md",
    "at": "2026-11-09T04:33:42+00:00"
+  },
+  {
+   "slug": "outskirts-empire-asia-1904-le-strange-lands",
+   "title": "Outskirts of Empire in Asia (1904); and Le Strange, The Lands of",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009060-outskirts-empire-asia-1904-le-strange-lands.md",
+   "at": "2026-11-09T04:43:44+00:00"
   }
  ]
 }
