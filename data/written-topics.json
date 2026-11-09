@@ -1,5 +1,5 @@
 {
- "count": 6784,
+ "count": 6785,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47488,6 +47488,13 @@
    "era": "modern",
    "file": "eras/modern/009035-karateghin-darvaz-area-85-000-sq-western.md",
    "at": "2026-11-09T00:13:55+00:00"
+  },
+  {
+   "slug": "region-very-fertile-valleys-enjoying-cooler",
+   "title": "This region, very fertile in the valleys and enjoying a cooler and",
+   "era": "cultures",
+   "file": "eras/cultures/009036-region-very-fertile-valleys-enjoying-cooler.md",
+   "at": "2026-11-09T00:23:55+00:00"
   }
  ]
 }
