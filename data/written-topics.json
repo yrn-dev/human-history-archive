@@ -1,5 +1,5 @@
 {
- "count": 6861,
+ "count": 6862,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48027,6 +48027,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009112-upon-horse-litter-richly-apparelled-her-coronation-12.md",
    "at": "2026-11-09T14:13:14+00:00"
+  },
+  {
+   "slug": "bibliography---art-dict-nat-biography-authorities",
+   "title": "BIBLIOGRAPHY.--Art. in the Dict. of Nat. Biography and authorities",
+   "era": "modern",
+   "file": "eras/modern/009113-bibliography---art-dict-nat-biography-authorities.md",
+   "at": "2026-11-09T14:23:15+00:00"
   }
  ]
 }
