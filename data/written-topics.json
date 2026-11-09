@@ -1,5 +1,5 @@
 {
- "count": 6815,
+ "count": 6816,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47705,6 +47705,13 @@
    "era": "modern",
    "file": "eras/modern/009066-british-control-selected-first-alignment.md",
    "at": "2026-11-09T05:43:42+00:00"
+  },
+  {
+   "slug": "sind-pishin-railway-plains-plateau-sibi-line",
+   "title": "Sind-Pishin railway from the plains to the plateau. From Sibi the line",
+   "era": "industrial",
+   "file": "eras/industrial/009067-sind-pishin-railway-plains-plateau-sibi-line.md",
+   "at": "2026-11-09T05:53:39+00:00"
   }
  ]
 }
