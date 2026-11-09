@@ -1,5 +1,5 @@
 {
- "count": 6862,
+ "count": 6863,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48034,6 +48034,13 @@
    "era": "modern",
    "file": "eras/modern/009113-bibliography---art-dict-nat-biography-authorities.md",
    "at": "2026-11-09T14:23:15+00:00"
+  },
+  {
+   "slug": "friedman-1884-early-life-anne-boleyn-round",
+   "title": "Friedman (1884); The Early Life of Anne Boleyn, by J.H. Round",
+   "era": "renaissance",
+   "file": "eras/renaissance/009114-friedman-1884-early-life-anne-boleyn-round.md",
+   "at": "2026-11-09T14:33:13+00:00"
   }
  ]
 }
