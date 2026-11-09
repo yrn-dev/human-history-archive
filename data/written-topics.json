@@ -1,5 +1,5 @@
 {
- "count": 6866,
+ "count": 6867,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48062,6 +48062,13 @@
    "era": "modern",
    "file": "eras/modern/009117-england-1851-vol-ii-notices-historic-persons-buried.md",
    "at": "2026-11-09T15:03:15+00:00"
+  },
+  {
+   "slug": "records-reformation-pocock-1870-harleian",
+   "title": "Records of the Reformation, by N. Pocock (1870); Harleian",
+   "era": "renaissance",
+   "file": "eras/renaissance/009118-records-reformation-pocock-1870-harleian.md",
+   "at": "2026-11-09T15:23:08+00:00"
   }
  ]
 }
