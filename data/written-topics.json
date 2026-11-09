@@ -1,5 +1,5 @@
 {
- "count": 6878,
+ "count": 6879,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48146,6 +48146,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/009129-bolgari-bolgary-ruined-town-russia-government.md",
    "at": "2026-11-09T17:13:13+00:00"
+  },
+  {
+   "slug": "kazan-left-bank-volga-55-deg-lat",
+   "title": "Kazan, 4 m. from the left bank of the Volga, in 55 deg.N. lat. It is",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009130-kazan-left-bank-volga-55-deg-lat.md",
+   "at": "2026-11-09T17:23:18+00:00"
   }
  ]
 }
