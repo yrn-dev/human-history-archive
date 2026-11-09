@@ -1,5 +1,5 @@
 {
- "count": 6788,
+ "count": 6789,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47516,6 +47516,13 @@
    "era": "modern",
    "file": "eras/modern/009039-fahr-may-set-oxus-may-freeze-fortnight.md",
    "at": "2026-11-09T00:54:09+00:00"
+  },
+  {
+   "slug": "population-estimated-250-000-dominant-race",
+   "title": "The population is estimated at 1,250,000. The dominant race is the",
+   "era": "modern",
+   "file": "eras/modern/009040-population-estimated-250-000-dominant-race.md",
+   "at": "2026-11-09T01:03:50+00:00"
   }
  ]
 }
