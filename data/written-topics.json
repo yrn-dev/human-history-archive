@@ -1,5 +1,5 @@
 {
- "count": 6864,
+ "count": 6865,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48048,6 +48048,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009115-der-ursprung-der-ehescheidung-konig-heinrichs-viii-der-sturz.md",
    "at": "2026-11-09T14:43:12+00:00"
+  },
+  {
+   "slug": "benger-1821-miss-strickland-lives-queens",
+   "title": "Benger (1821); and Miss A. Strickland, Lives of the Queens of",
+   "era": "modern",
+   "file": "eras/modern/009116-benger-1821-miss-strickland-lives-queens.md",
+   "at": "2026-11-09T14:53:05+00:00"
   }
  ]
 }
