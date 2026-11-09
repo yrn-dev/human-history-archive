@@ -1,5 +1,5 @@
 {
- "count": 6832,
+ "count": 6833,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -47824,6 +47824,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/009083-see-pawlowski-st-adalbert-danzig-1860-chronica-nestoris.md",
    "at": "2026-11-09T08:43:30+00:00"
+  },
+  {
+   "slug": "vienna-1860-heinrich-von-zeissberg-die-kriege-kaiser",
+   "title": "(Vienna, 1860); Heinrich R. von Zeissberg, Die Kriege Kaiser",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009084-vienna-1860-heinrich-von-zeissberg-die-kriege-kaiser.md",
+   "at": "2026-11-09T08:53:27+00:00"
   }
  ]
 }
