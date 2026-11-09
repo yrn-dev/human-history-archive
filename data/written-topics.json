@@ -1,5 +1,5 @@
 {
- "count": 6877,
+ "count": 6878,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48139,6 +48139,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009128-papers-382-well-known-letter-henry-viii-attributed.md",
    "at": "2026-11-09T17:03:12+00:00"
+  },
+  {
+   "slug": "bolgari-bolgary-ruined-town-russia-government",
+   "title": "BOLGARI, or BOLGARY, a ruined town of Russia, in the government of",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009129-bolgari-bolgary-ruined-town-russia-government.md",
+   "at": "2026-11-09T17:13:13+00:00"
   }
  ]
 }
