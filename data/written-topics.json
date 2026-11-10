@@ -1,5 +1,5 @@
 {
- "count": 7001,
+ "count": 7002,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49007,6 +49007,13 @@
    "era": "cultures",
    "file": "eras/cultures/009252-popular-conception-bolivia-extremely-rugged.md",
    "at": "2026-11-10T15:21:45+00:00"
+  },
+  {
+   "slug": "chiquitos-region-composed-low-alluvial-plains-great-swamps",
+   "title": "Chiquitos region, is composed of low alluvial plains, great swamps and",
+   "era": "cultures",
+   "file": "eras/cultures/009253-chiquitos-region-composed-low-alluvial-plains-great-swamps.md",
+   "at": "2026-11-10T15:31:32+00:00"
   }
  ]
 }
