@@ -1,5 +1,5 @@
 {
- "count": 7029,
+ "count": 7030,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49203,6 +49203,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/009280-bolivia-composed-ancient-sedimentary-rocks-unknown-age.md",
    "at": "2026-11-10T20:01:10+00:00"
+  },
+  {
+   "slug": "palaeozoic-beds-directly-overlaid-series-red-sandstones",
+   "title": "Palaeozoic beds are directly overlaid by a series of red sandstones",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/009281-palaeozoic-beds-directly-overlaid-series-red-sandstones.md",
+   "at": "2026-11-10T20:11:13+00:00"
   }
  ]
 }
