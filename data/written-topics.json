@@ -1,5 +1,5 @@
 {
- "count": 7002,
+ "count": 7003,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49014,6 +49014,13 @@
    "era": "cultures",
    "file": "eras/cultures/009253-chiquitos-region-composed-low-alluvial-plains-great-swamps.md",
    "at": "2026-11-10T15:31:32+00:00"
+  },
+  {
+   "slug": "cruz-extensive-swamps-low-lying-plains-subject-periodical",
+   "title": "Cruz are extensive swamps and low-lying plains, subject to periodical",
+   "era": "modern",
+   "file": "eras/modern/009254-cruz-extensive-swamps-low-lying-plains-subject-periodical.md",
+   "at": "2026-11-10T15:41:55+00:00"
   }
  ]
 }
