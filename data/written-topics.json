@@ -1,5 +1,5 @@
 {
- "count": 7040,
+ "count": 7041,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49280,6 +49280,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/009291-ursus-ornatus-spectacled-bear-found-among-wooded-andean.md",
    "at": "2026-11-10T22:00:56+00:00"
+  },
+  {
+   "slug": "argentina-chile-inhabits-colder-plateau-regions-prized",
+   "title": "Argentina and Chile, inhabits the colder plateau regions and is prized",
+   "era": "modern",
+   "file": "eras/modern/009292-argentina-chile-inhabits-colder-plateau-regions-prized.md",
+   "at": "2026-11-10T22:11:26+00:00"
   }
  ]
 }
