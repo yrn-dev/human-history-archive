@@ -1,5 +1,5 @@
 {
- "count": 7039,
+ "count": 7040,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49273,6 +49273,13 @@
    "era": "cultures",
    "file": "eras/cultures/009290-fauna---the-indigenous-fauna-bolivia-corresponds-closely.md",
    "at": "2026-11-10T21:50:53+00:00"
+  },
+  {
+   "slug": "ursus-ornatus-spectacled-bear-found-among-wooded-andean",
+   "title": "Ursus ornatus (spectacled bear) is found among the wooded Andean",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/009291-ursus-ornatus-spectacled-bear-found-among-wooded-andean.md",
+   "at": "2026-11-10T22:00:56+00:00"
   }
  ]
 }
