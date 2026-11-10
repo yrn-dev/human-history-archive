@@ -1,5 +1,5 @@
 {
- "count": 6927,
+ "count": 6928,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48489,6 +48489,13 @@
    "era": "modern",
    "file": "eras/modern/009178-life-lyttelton-hardwick-state-papers-vol-ii-marchmont.md",
    "at": "2026-11-10T01:32:36+00:00"
+  },
+  {
+   "slug": "papers-ed-sir-rose-1831-letters-lord-chancellor",
+   "title": "Papers, ed. by Sir G.H. Rose (1831); Letters to Lord Chancellor",
+   "era": "modern",
+   "file": "eras/modern/009179-papers-ed-sir-rose-1831-letters-lord-chancellor.md",
+   "at": "2026-11-10T01:42:31+00:00"
   }
  ]
 }
