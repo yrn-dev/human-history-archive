@@ -1,5 +1,5 @@
 {
- "count": 6972,
+ "count": 6973,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48804,6 +48804,13 @@
    "era": "industrial",
    "file": "eras/industrial/009223-larrazabal-new-york-1866-rojas-madrid-1883.md",
    "at": "2026-11-10T09:51:26+00:00"
+  },
+  {
+   "slug": "bolivar-till-1908-department-colombia-bounded",
+   "title": "BOLIVAR, till 1908 a department of Colombia, bounded N. and W. by the",
+   "era": "modern",
+   "file": "eras/modern/009224-bolivar-till-1908-department-colombia-bounded.md",
+   "at": "2026-11-10T10:02:03+00:00"
   }
  ]
 }
