@@ -1,5 +1,5 @@
 {
- "count": 7036,
+ "count": 7037,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49252,6 +49252,13 @@
    "era": "cultures",
    "file": "eras/cultures/009287-bolivia-wide-range-temperature-between-places-same.md",
    "at": "2026-11-10T21:21:26+00:00"
+  },
+  {
+   "slug": "9500-ft-warm-climate-moderate-variations-temperature",
+   "title": "9500 ft., has a warm climate with moderate variations in temperature",
+   "era": "cultures",
+   "file": "eras/cultures/009288-9500-ft-warm-climate-moderate-variations-temperature.md",
+   "at": "2026-11-10T21:31:10+00:00"
   }
  ]
 }
