@@ -1,5 +1,5 @@
 {
- "count": 7028,
+ "count": 7029,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49196,6 +49196,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/009279-bolivia-cambrian-ordovician-beds-form-greater-part.md",
    "at": "2026-11-10T19:51:06+00:00"
+  },
+  {
+   "slug": "bolivia-composed-ancient-sedimentary-rocks-unknown-age",
+   "title": "Bolivia, are composed of ancient sedimentary rocks of unknown age. The",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/009280-bolivia-composed-ancient-sedimentary-rocks-unknown-age.md",
+   "at": "2026-11-10T20:01:10+00:00"
   }
  ]
 }
