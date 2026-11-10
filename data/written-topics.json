@@ -1,5 +1,5 @@
 {
- "count": 6925,
+ "count": 6926,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48475,6 +48475,13 @@
    "era": "modern",
    "file": "eras/modern/009176-political-tracts-bolingbroke-published-1748-his-letters.md",
    "at": "2026-11-10T01:12:42+00:00"
+  },
+  {
+   "slug": "pope-swift-correspondence-coxe-walpole-phillimore",
+   "title": "Pope's and Swift's Correspondence; W. Coxe's Walpole; Phillimore's",
+   "era": "modern",
+   "file": "eras/modern/009177-pope-swift-correspondence-coxe-walpole-phillimore.md",
+   "at": "2026-11-10T01:22:38+00:00"
   }
  ]
 }
