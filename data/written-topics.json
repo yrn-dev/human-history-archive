@@ -1,5 +1,5 @@
 {
- "count": 6970,
+ "count": 6971,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48790,6 +48790,13 @@
    "era": "industrial",
    "file": "eras/industrial/009221-1828-decided-expression-national-republicans.md",
    "at": "2026-11-10T09:31:30+00:00"
+  },
+  {
+   "slug": "twenty-two-volumes-official-documents-bearing-bolivar-career",
+   "title": "Twenty-two volumes of official documents bearing on Bolivar's career",
+   "era": "modern",
+   "file": "eras/modern/009222-twenty-two-volumes-official-documents-bearing-bolivar-career.md",
+   "at": "2026-11-10T09:41:54+00:00"
   }
  ]
 }
