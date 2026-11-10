@@ -1,5 +1,5 @@
 {
- "count": 6998,
+ "count": 6999,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48986,6 +48986,13 @@
    "era": "cultures",
    "file": "eras/cultures/009249-more-prominent-peaks-between-these-ranges-asanaque.md",
    "at": "2026-11-10T14:41:45+00:00"
+  },
+  {
+   "slug": "16-857-michaga-17-389-cuzco-17-930-potosi-15-381-chorolque",
+   "title": "(16,857), Michaga (17,389), Cuzco (17,930), Potosi (15,381), Chorolque",
+   "era": "modern",
+   "file": "eras/modern/009250-16-857-michaga-17-389-cuzco-17-930-potosi-15-381-chorolque.md",
+   "at": "2026-11-10T14:51:56+00:00"
   }
  ]
 }
