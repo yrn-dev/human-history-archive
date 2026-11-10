@@ -1,5 +1,5 @@
 {
- "count": 6932,
+ "count": 6933,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48524,6 +48524,13 @@
    "era": "modern",
    "file": "eras/modern/009183-life-bolingbroke-appeared-his-lifetime-1740-entitled.md",
    "at": "2026-11-10T02:22:41+00:00"
+  },
+  {
+   "slug": "1752-1754-life-goldsmith-1770-more-modern",
+   "title": "1752 and 1754, and a life by Goldsmith in 1770. Of the more modern",
+   "era": "industrial",
+   "file": "eras/industrial/009184-1752-1754-life-goldsmith-1770-more-modern.md",
+   "at": "2026-11-10T02:42:33+00:00"
   }
  ]
 }
