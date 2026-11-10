@@ -1,5 +1,5 @@
 {
- "count": 7000,
+ "count": 7001,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49000,6 +49000,13 @@
    "era": "cultures",
    "file": "eras/cultures/009251-bolivian-highlands-comprises-two-distinct-chains--the-sierra-de.md",
    "at": "2026-11-10T15:11:34+00:00"
+  },
+  {
+   "slug": "popular-conception-bolivia-extremely-rugged",
+   "title": "The popular conception of Bolivia is that of an extremely rugged",
+   "era": "cultures",
+   "file": "eras/cultures/009252-popular-conception-bolivia-extremely-rugged.md",
+   "at": "2026-11-10T15:21:45+00:00"
   }
  ]
 }
