@@ -1,5 +1,5 @@
 {
- "count": 6933,
+ "count": 6934,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48531,6 +48531,13 @@
    "era": "industrial",
    "file": "eras/industrial/009184-1752-1754-life-goldsmith-1770-more-modern.md",
    "at": "2026-11-10T02:42:33+00:00"
+  },
+  {
+   "slug": "leslie-stephen-1897-de-remusat-angleterre-au-18me",
+   "title": "Leslie Stephen, 1897; by C. de Remusat in L'Angleterre au 18me",
+   "era": "industrial",
+   "file": "eras/industrial/009185-leslie-stephen-1897-de-remusat-angleterre-au-18me.md",
+   "at": "2026-11-10T02:52:33+00:00"
   }
  ]
 }
