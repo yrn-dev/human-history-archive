@@ -1,5 +1,5 @@
 {
- "count": 6923,
+ "count": 6924,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48461,6 +48461,13 @@
    "era": "ancient",
    "file": "eras/ancient/009174-bibliography---bolingbroke-collected-works-including-his-chief.md",
    "at": "2026-11-10T00:52:44+00:00"
+  },
+  {
+   "slug": "concerning-nature-extent-reality-human-knowledge",
+   "title": "Concerning the Nature, Extent and Reality of Human Knowledge, On",
+   "era": "modern",
+   "file": "eras/modern/009175-concerning-nature-extent-reality-human-knowledge.md",
+   "at": "2026-11-10T01:03:24+00:00"
   }
  ]
 }
