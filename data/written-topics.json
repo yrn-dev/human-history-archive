@@ -1,5 +1,5 @@
 {
- "count": 7024,
+ "count": 7025,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49168,6 +49168,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/009275-geology---the-eastern-ranges-ihe-bolivian-andes-formed.md",
    "at": "2026-11-10T19:11:17+00:00"
+  },
+  {
+   "slug": "palaeozoic-rocks-granitic-other-intrusions-western",
+   "title": "Palaeozoic rocks with granitic and other intrusions; the Western",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/009276-palaeozoic-rocks-granitic-other-intrusions-western.md",
+   "at": "2026-11-10T19:21:24+00:00"
   }
  ]
 }
