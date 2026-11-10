@@ -1,5 +1,5 @@
 {
- "count": 6971,
+ "count": 6972,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -48797,6 +48797,13 @@
    "era": "modern",
    "file": "eras/modern/009222-twenty-two-volumes-official-documents-bearing-bolivar-career.md",
    "at": "2026-11-10T09:41:54+00:00"
+  },
+  {
+   "slug": "larrazabal-new-york-1866-rojas-madrid-1883",
+   "title": "Larrazabal (New York, 1866); Rojas (Madrid, 1883); and",
+   "era": "industrial",
+   "file": "eras/industrial/009223-larrazabal-new-york-1866-rojas-madrid-1883.md",
+   "at": "2026-11-10T09:51:26+00:00"
   }
  ]
 }
