@@ -1,5 +1,5 @@
 {
- "count": 7035,
+ "count": 7036,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49245,6 +49245,13 @@
    "era": "cultures",
    "file": "eras/cultures/009286-cordillera-which-extracts-moisture-prevailing-easterly.md",
    "at": "2026-11-10T21:11:09+00:00"
+  },
+  {
+   "slug": "bolivia-wide-range-temperature-between-places-same",
+   "title": "Bolivia has a wide range of temperature between places of the same",
+   "era": "cultures",
+   "file": "eras/cultures/009287-bolivia-wide-range-temperature-between-places-same.md",
+   "at": "2026-11-10T21:21:26+00:00"
   }
  ]
 }
