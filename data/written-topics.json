@@ -1,5 +1,5 @@
 {
- "count": 7104,
+ "count": 7105,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49728,6 +49728,13 @@
    "era": "industrial",
    "file": "eras/industrial/009355-1898-monografias-de-la-industria-minera-en-bolivia-three-parts.md",
    "at": "2026-11-11T09:56:09+00:00"
+  },
+  {
+   "slug": "la-paz-1899-1900-relaciones-geograficas-de-bolivia-existentes-en",
+   "title": "(La Paz, 1899-1900); Relaciones Geograficas de Bolivia existentes en",
+   "era": "industrial",
+   "file": "eras/industrial/009356-la-paz-1899-1900-relaciones-geograficas-de-bolivia-existentes-en.md",
+   "at": "2026-11-11T10:06:00+00:00"
   }
  ]
 }
