@@ -1,5 +1,5 @@
 {
- "count": 7150,
+ "count": 7151,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50050,6 +50050,13 @@
    "era": "modern",
    "file": "eras/modern/009401-president-pando-his-successor-ismail-montes-who-became-president.md",
    "at": "2026-11-11T18:15:29+00:00"
+  },
+  {
+   "slug": "bolivia-leipzig-1875-theodore-child-south-american",
+   "title": "Bolivia (Leipzig, 1875); Theodore Child, The South American",
+   "era": "industrial",
+   "file": "eras/industrial/009402-bolivia-leipzig-1875-theodore-child-south-american.md",
+   "at": "2026-11-11T18:25:36+00:00"
   }
  ]
 }
