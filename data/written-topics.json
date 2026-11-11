@@ -1,5 +1,5 @@
 {
- "count": 7153,
+ "count": 7154,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50071,6 +50071,13 @@
    "era": "modern",
    "file": "eras/modern/009404-boliviano-collecion-de-documentes-relativos-la-historia-de-bolivia.md",
    "at": "2026-11-11T18:45:42+00:00"
+  },
+  {
+   "slug": "paris-1872-ramon-sotomayor-valdes-estudio-historico-de-bolivia",
+   "title": "(Paris, 1872); Ramon Sotomayor Valdes, Estudio historico de Bolivia",
+   "era": "industrial",
+   "file": "eras/industrial/009405-paris-1872-ramon-sotomayor-valdes-estudio-historico-de-bolivia.md",
+   "at": "2026-11-11T18:55:29+00:00"
   }
  ]
 }
