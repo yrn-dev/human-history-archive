@@ -1,5 +1,5 @@
 {
- "count": 7108,
+ "count": 7109,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49756,6 +49756,13 @@
    "era": "industrial",
    "file": "eras/industrial/009359-paris-1886-enrique-bolland-exploraciones-practicadas-en-el-alto.md",
    "at": "2026-11-11T10:35:56+00:00"
+  },
+  {
+   "slug": "paraguay-en-la-laguna-gaiba-buenos-aires-1901-church",
+   "title": "Paraguay y en la Laguna Gaiba (Buenos Aires, 1901); G.E. Church The",
+   "era": "modern",
+   "file": "eras/modern/009360-paraguay-en-la-laguna-gaiba-buenos-aires-1901-church.md",
+   "at": "2026-11-11T10:53:38+00:00"
   }
  ]
 }
