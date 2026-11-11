@@ -1,5 +1,5 @@
 {
- "count": 7161,
+ "count": 7162,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50127,6 +50127,13 @@
    "era": "industrial",
    "file": "eras/industrial/009412-1788-work-bollandists-ceased-remains-their-library.md",
    "at": "2026-11-11T20:15:26+00:00"
+  },
+  {
+   "slug": "re-establishment-society-jesus-belgium-work",
+   "title": "After the re-establishment of the Society of Jesus in Belgium the work",
+   "era": "modern",
+   "file": "eras/modern/009413-re-establishment-society-jesus-belgium-work.md",
+   "at": "2026-11-11T20:25:17+00:00"
   }
  ]
 }
