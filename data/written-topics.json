@@ -1,5 +1,5 @@
 {
- "count": 7083,
+ "count": 7084,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49581,6 +49581,13 @@
    "era": "modern",
    "file": "eras/modern/009334-army---the-military-forces-republic-1905-included-2890.md",
    "at": "2026-11-11T05:41:23+00:00"
+  },
+  {
+   "slug": "strength-army-fixed-each-year-budget-1903",
+   "title": "The strength of the army is fixed in each year's budget. That for 1903",
+   "era": "modern",
+   "file": "eras/modern/009335-strength-army-fixed-each-year-budget-1903.md",
+   "at": "2026-11-11T05:50:53+00:00"
   }
  ]
 }
