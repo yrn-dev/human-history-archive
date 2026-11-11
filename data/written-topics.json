@@ -1,5 +1,5 @@
 {
- "count": 7160,
+ "count": 7161,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50120,6 +50120,13 @@
    "era": "modern",
    "file": "eras/modern/009411-dispersion-jesuits-bollandists-authorized.md",
    "at": "2026-11-11T20:05:34+00:00"
+  },
+  {
+   "slug": "1788-work-bollandists-ceased-remains-their-library",
+   "title": "1788 the work of the Bollandists ceased. The remains of their library",
+   "era": "industrial",
+   "file": "eras/industrial/009412-1788-work-bollandists-ceased-remains-their-library.md",
+   "at": "2026-11-11T20:15:26+00:00"
   }
  ]
 }
