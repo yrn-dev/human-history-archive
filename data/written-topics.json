@@ -1,5 +1,5 @@
 {
- "count": 7152,
+ "count": 7153,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50064,6 +50064,13 @@
    "era": "modern",
    "file": "eras/modern/009403-republics-new-york-1801-vicente-de-ballivian-rizas-archive.md",
    "at": "2026-11-11T18:35:31+00:00"
+  },
+  {
+   "slug": "boliviano-collecion-de-documentes-relativos-la-historia-de-bolivia",
+   "title": "Boliviano. Collecion de documentes relativos a la historia de Bolivia",
+   "era": "modern",
+   "file": "eras/modern/009404-boliviano-collecion-de-documentes-relativos-la-historia-de-bolivia.md",
+   "at": "2026-11-11T18:45:42+00:00"
   }
  ]
 }
