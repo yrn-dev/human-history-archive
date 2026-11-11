@@ -1,5 +1,5 @@
 {
- "count": 7105,
+ "count": 7106,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49735,6 +49735,13 @@
    "era": "industrial",
    "file": "eras/industrial/009356-la-paz-1899-1900-relaciones-geograficas-de-bolivia-existentes-en.md",
    "at": "2026-11-11T10:06:00+00:00"
+  },
+  {
+   "slug": "ballivian-eduardo-idiaquez-diccionario-geografico-de-la",
+   "title": "M.V. Ballivian and Eduardo Idiaquez, Diccionario Geografico de la",
+   "era": "modern",
+   "file": "eras/modern/009357-ballivian-eduardo-idiaquez-diccionario-geografico-de-la.md",
+   "at": "2026-11-11T10:15:47+00:00"
   }
  ]
 }
