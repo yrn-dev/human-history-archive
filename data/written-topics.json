@@ -1,5 +1,5 @@
 {
- "count": 7171,
+ "count": 7172,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50197,6 +50197,13 @@
    "era": "modern",
    "file": "eras/modern/009422-antwerp-tongerloo-brussels-63-vols-1643-1902-venice.md",
    "at": "2026-11-11T21:55:24+00:00"
+  },
+  {
+   "slug": "1755-gachard-memoire-historique-sur-les-bollandistes",
+   "title": "1755); L.P. Gachard, Memoire historique sur les Bollandistes",
+   "era": "modern",
+   "file": "eras/modern/009423-1755-gachard-memoire-historique-sur-les-bollandistes.md",
+   "at": "2026-11-11T22:05:29+00:00"
   }
  ]
 }
