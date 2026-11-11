@@ -1,5 +1,5 @@
 {
- "count": 7057,
+ "count": 7058,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49399,6 +49399,13 @@
    "era": "modern",
    "file": "eras/modern/009308-divisions-towns---the-republic-divided-eight-departments.md",
    "at": "2026-11-11T00:51:26+00:00"
+  },
+  {
+   "slug": "total-area-according-gotha-computations-corrections",
+   "title": "The total area according to Gotha computations, with corrections for",
+   "era": "modern",
+   "file": "eras/modern/009309-total-area-according-gotha-computations-corrections.md",
+   "at": "2026-11-11T01:01:50+00:00"
   }
  ]
 }
