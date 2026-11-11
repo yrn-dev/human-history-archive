@@ -1,5 +1,5 @@
 {
- "count": 7151,
+ "count": 7152,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50057,6 +50057,13 @@
    "era": "industrial",
    "file": "eras/industrial/009402-bolivia-leipzig-1875-theodore-child-south-american.md",
    "at": "2026-11-11T18:25:36+00:00"
+  },
+  {
+   "slug": "republics-new-york-1801-vicente-de-ballivian-rizas-archive",
+   "title": "Republics (New York, 1801); Vicente de Ballivian y Rizas, Archive",
+   "era": "modern",
+   "file": "eras/modern/009403-republics-new-york-1801-vicente-de-ballivian-rizas-archive.md",
+   "at": "2026-11-11T18:35:31+00:00"
   }
  ]
 }
