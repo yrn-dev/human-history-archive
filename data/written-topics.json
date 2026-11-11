@@ -1,5 +1,5 @@
 {
- "count": 7114,
+ "count": 7115,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49798,6 +49798,13 @@
    "era": "modern",
    "file": "eras/modern/009365-nacional-de-inmigracion-estadistica-propaganda-geografica-la.md",
    "at": "2026-11-11T11:35:44+00:00"
+  },
+  {
+   "slug": "paz-sinopsis-estadistica-geografica-de-la-republica-de-bolivia",
+   "title": "Paz); Sinopsis estadistica y geografica de la Republica de Bolivia",
+   "era": "modern",
+   "file": "eras/modern/009366-paz-sinopsis-estadistica-geografica-de-la-republica-de-bolivia.md",
+   "at": "2026-11-11T11:45:58+00:00"
   }
  ]
 }
