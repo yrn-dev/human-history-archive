@@ -1,5 +1,5 @@
 {
- "count": 7102,
+ "count": 7103,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49714,6 +49714,13 @@
    "era": "industrial",
    "file": "eras/industrial/009353-authorities---m-ballivian-apuntes-sobre-la-industria-de-goma.md",
    "at": "2026-11-11T09:37:25+00:00"
+  },
+  {
+   "slug": "industrial-estadistica-de-bolivia-la-paz-1900-breves",
+   "title": "Industrial, y Estadistica de Bolivia (La Paz, 1900); Breves",
+   "era": "industrial",
+   "file": "eras/industrial/009354-industrial-estadistica-de-bolivia-la-paz-1900-breves.md",
+   "at": "2026-11-11T09:46:21+00:00"
   }
  ]
 }
