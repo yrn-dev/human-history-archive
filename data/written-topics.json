@@ -1,5 +1,5 @@
 {
- "count": 7169,
+ "count": 7170,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50183,6 +50183,13 @@
    "era": "modern",
    "file": "eras/modern/009420-1899-bibliotheca-hagiographica-orientalis-these.md",
    "at": "2026-11-11T21:35:24+00:00"
+  },
+  {
+   "slug": "there-three-editions-acta-sanctorum-original-edition",
+   "title": "There are three editions of the Acta Sanctorum: the original edition",
+   "era": "modern",
+   "file": "eras/modern/009421-there-three-editions-acta-sanctorum-original-edition.md",
+   "at": "2026-11-11T21:45:27+00:00"
   }
  ]
 }
