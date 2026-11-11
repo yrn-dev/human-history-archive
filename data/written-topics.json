@@ -1,5 +1,5 @@
 {
- "count": 7107,
+ "count": 7108,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49749,6 +49749,13 @@
    "era": "modern",
    "file": "eras/modern/009358-republica-de-bolivia-la-paz-1900-andre-bresson-sept-annees.md",
    "at": "2026-11-11T10:26:21+00:00"
+  },
+  {
+   "slug": "paris-1886-enrique-bolland-exploraciones-practicadas-en-el-alto",
+   "title": "(Paris, 1886); Enrique Bolland, Exploraciones practicadas en el Alto",
+   "era": "industrial",
+   "file": "eras/industrial/009359-paris-1886-enrique-bolland-exploraciones-practicadas-en-el-alto.md",
+   "at": "2026-11-11T10:35:56+00:00"
   }
  ]
 }
