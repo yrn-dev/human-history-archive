@@ -1,5 +1,5 @@
 {
- "count": 7159,
+ "count": 7160,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50113,6 +50113,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009410-papebroch-daniel-van-papenbroeck-collaborated-most.md",
    "at": "2026-11-11T19:55:26+00:00"
+  },
+  {
+   "slug": "dispersion-jesuits-bollandists-authorized",
+   "title": "On the dispersion of the Jesuits the Bollandists were authorized to",
+   "era": "modern",
+   "file": "eras/modern/009411-dispersion-jesuits-bollandists-authorized.md",
+   "at": "2026-11-11T20:05:34+00:00"
   }
  ]
 }
