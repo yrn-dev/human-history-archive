@@ -1,5 +1,5 @@
 {
- "count": 7176,
+ "count": 7177,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50232,6 +50232,13 @@
    "era": "modern",
    "file": "eras/modern/009427-berti-rassegna-arte-1901-55-church-corpus-dominii.md",
    "at": "2026-11-11T22:55:13+00:00"
+  },
+  {
+   "slug": "archivio-storico-dell-arte-ser-ii-vol-ii-rome-1896-72",
+   "title": "Archivio Storico dell' Arte, ser. ii. vol. ii. (Rome, 1896), 72). The",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009428-archivio-storico-dell-arte-ser-ii-vol-ii-rome-1896-72.md",
+   "at": "2026-11-11T23:05:19+00:00"
   }
  ]
 }
