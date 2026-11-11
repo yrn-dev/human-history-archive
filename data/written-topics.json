@@ -1,5 +1,5 @@
 {
- "count": 7172,
+ "count": 7173,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50204,6 +50204,13 @@
    "era": "modern",
    "file": "eras/modern/009423-1755-gachard-memoire-historique-sur-les-bollandistes.md",
    "at": "2026-11-11T22:05:29+00:00"
+  },
+  {
+   "slug": "brussels-1835-van-hecke-de-ratione-operis-bollandiani-acta",
+   "title": "(Brussels, 1835); van Hecke, \"De ratione operis Bollandiani\" (Acta",
+   "era": "industrial",
+   "file": "eras/industrial/009424-brussels-1835-van-hecke-de-ratione-operis-bollandiani-acta.md",
+   "at": "2026-11-11T22:15:29+00:00"
   }
  ]
 }
