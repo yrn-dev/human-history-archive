@@ -1,5 +1,5 @@
 {
- "count": 7175,
+ "count": 7176,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50225,6 +50225,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009426-bologna-1563-1567-remarkable-beauty-proportion-noteworthy.md",
    "at": "2026-11-11T22:35:14+00:00"
+  },
+  {
+   "slug": "berti-rassegna-arte-1901-55-church-corpus-dominii",
+   "title": "Berti in Rassegna d' Arte, 1901, 55). The church of Corpus Dominii has",
+   "era": "modern",
+   "file": "eras/modern/009427-berti-rassegna-arte-1901-55-church-corpus-dominii.md",
+   "at": "2026-11-11T22:55:13+00:00"
   }
  ]
 }
