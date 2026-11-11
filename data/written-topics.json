@@ -1,5 +1,5 @@
 {
- "count": 7155,
+ "count": 7156,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50085,6 +50085,13 @@
    "era": "industrial",
    "file": "eras/industrial/009406-1874-hd.md",
    "at": "2026-11-11T19:05:28+00:00"
+  },
+  {
+   "slug": "boll-botanical-term-fruit-pod-particularly-cotton",
+   "title": "BOLL, a botanical term for a fruit-pod, particularly of the cotton",
+   "era": "cultures",
+   "file": "eras/cultures/009407-boll-botanical-term-fruit-pod-particularly-cotton.md",
+   "at": "2026-11-11T19:25:20+00:00"
   }
  ]
 }
