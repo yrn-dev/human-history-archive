@@ -1,5 +1,5 @@
 {
- "count": 7094,
+ "count": 7095,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49658,6 +49658,13 @@
    "era": "modern",
    "file": "eras/modern/009345-finance---no-itemized-returns-receipts-expenditures-ever.md",
    "at": "2026-11-11T08:16:16+00:00"
+  },
+  {
+   "slug": "estimated-revenues-expenditures-1904-1905-21-pence",
+   "title": "The estimated revenues and expenditures for 1904 and 1905 at 21 pence",
+   "era": "industrial",
+   "file": "eras/industrial/009346-estimated-revenues-expenditures-1904-1905-21-pence.md",
+   "at": "2026-11-11T08:25:57+00:00"
   }
  ]
 }
