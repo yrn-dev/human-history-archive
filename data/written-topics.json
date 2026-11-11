@@ -1,5 +1,5 @@
 {
- "count": 7181,
+ "count": 7182,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50267,6 +50267,13 @@
    "era": "industrial",
    "file": "eras/industrial/009432-poggi-between-1815-1848-number-students-sank.md",
    "at": "2026-11-11T23:45:09+00:00"
+  },
+  {
+   "slug": "caracci-guido-reni-domenichino-guercino-primitive-masters",
+   "title": "Caracci, Guido Reni, Domenichino, Guercino, &c. The primitive masters",
+   "era": "renaissance",
+   "file": "eras/renaissance/009433-caracci-guido-reni-domenichino-guercino-primitive-masters.md",
+   "at": "2026-11-11T23:55:22+00:00"
   }
  ]
 }
