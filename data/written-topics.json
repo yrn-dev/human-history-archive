@@ -1,5 +1,5 @@
 {
- "count": 7100,
+ "count": 7101,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49700,6 +49700,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/009351-144-254-bolivianos-l800-122-issued-par-silver.md",
    "at": "2026-11-11T09:17:38+00:00"
+  },
+  {
+   "slug": "296-172-bolivianos-1903-expenditures-295-791",
+   "title": "2,296,172 bolivianos in 1903, and the expenditures at 2,295,791",
+   "era": "industrial",
+   "file": "eras/industrial/009352-296-172-bolivianos-1903-expenditures-295-791.md",
+   "at": "2026-11-11T09:26:41+00:00"
   }
  ]
 }
