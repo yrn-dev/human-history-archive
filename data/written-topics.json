@@ -1,5 +1,5 @@
 {
- "count": 7173,
+ "count": 7174,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50211,6 +50211,13 @@
    "era": "industrial",
    "file": "eras/industrial/009424-brussels-1835-van-hecke-de-ratione-operis-bollandiani-acta.md",
    "at": "2026-11-11T22:15:29+00:00"
+  },
+  {
+   "slug": "sanctorum-octobris-vii-cardinal-pitra-etudes-sur-la",
+   "title": "Sanctorum Octobris, vii.); and Cardinal J.B. Pitra, Etudes sur la",
+   "era": "modern",
+   "file": "eras/modern/009425-sanctorum-octobris-vii-cardinal-pitra-etudes-sur-la.md",
+   "at": "2026-11-11T22:25:13+00:00"
   }
  ]
 }
