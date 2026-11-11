@@ -1,5 +1,5 @@
 {
- "count": 7099,
+ "count": 7100,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49693,6 +49693,13 @@
    "era": "modern",
    "file": "eras/modern/009350-l546-286-government-1903-authorized-issue-treasury.md",
    "at": "2026-11-11T09:05:53+00:00"
+  },
+  {
+   "slug": "144-254-bolivianos-l800-122-issued-par-silver",
+   "title": "9,144,254 bolivianos (L800,122), issued on a par with silver. The",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009351-144-254-bolivianos-l800-122-issued-par-silver.md",
+   "at": "2026-11-11T09:17:38+00:00"
   }
  ]
 }
