@@ -1,5 +1,5 @@
 {
- "count": 7170,
+ "count": 7171,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50190,6 +50190,13 @@
    "era": "modern",
    "file": "eras/modern/009421-there-three-editions-acta-sanctorum-original-edition.md",
    "at": "2026-11-11T21:45:27+00:00"
+  },
+  {
+   "slug": "antwerp-tongerloo-brussels-63-vols-1643-1902-venice",
+   "title": "(Antwerp, Tongerloo and Brussels, 63 vols., 1643-1902); the Venice",
+   "era": "modern",
+   "file": "eras/modern/009422-antwerp-tongerloo-brussels-63-vols-1643-1902-venice.md",
+   "at": "2026-11-11T21:55:24+00:00"
   }
  ]
 }
