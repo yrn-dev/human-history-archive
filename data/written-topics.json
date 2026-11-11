@@ -1,5 +1,5 @@
 {
- "count": 7143,
+ "count": 7144,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50001,6 +50001,13 @@
    "era": "modern",
    "file": "eras/modern/009394-negotiations-opened-11th-december-peace-signed.md",
    "at": "2026-11-11T17:05:30+00:00"
+  },
+  {
+   "slug": "18th-may-1895-treaty-signed-santiago-between-chile",
+   "title": "On the 18th of May 1895 a treaty was signed at Santiago between Chile",
+   "era": "industrial",
+   "file": "eras/industrial/009395-18th-may-1895-treaty-signed-santiago-between-chile.md",
+   "at": "2026-11-11T17:15:32+00:00"
   }
  ]
 }
