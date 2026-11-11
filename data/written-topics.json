@@ -1,5 +1,5 @@
 {
- "count": 7103,
+ "count": 7104,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -49721,6 +49721,13 @@
    "era": "industrial",
    "file": "eras/industrial/009354-industrial-estadistica-de-bolivia-la-paz-1900-breves.md",
    "at": "2026-11-11T09:46:21+00:00"
+  },
+  {
+   "slug": "1898-monografias-de-la-industria-minera-en-bolivia-three-parts",
+   "title": "1898); Monografias de la Industria Minera en Bolivia, three parts",
+   "era": "industrial",
+   "file": "eras/industrial/009355-1898-monografias-de-la-industria-minera-en-bolivia-three-parts.md",
+   "at": "2026-11-11T09:56:09+00:00"
   }
  ]
 }
