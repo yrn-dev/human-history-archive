@@ -1,5 +1,5 @@
 {
- "count": 7167,
+ "count": 7168,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50169,6 +50169,13 @@
    "era": "modern",
    "file": "eras/modern/009418-nationale-paris-vols-1889-1896-greek-mss.md",
    "at": "2026-11-11T21:15:18+00:00"
+  },
+  {
+   "slug": "vatican-1899-latin-mss-libraries-rome-1905",
+   "title": "Vatican (1899), and to the Latin MSS. in the libraries of Rome (1905",
+   "era": "modern",
+   "file": "eras/modern/009419-vatican-1899-latin-mss-libraries-rome-1905.md",
+   "at": "2026-11-11T21:25:26+00:00"
   }
  ]
 }
