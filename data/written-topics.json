@@ -1,5 +1,5 @@
 {
- "count": 7200,
+ "count": 7201,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50400,6 +50400,13 @@
    "era": "ancient",
    "file": "eras/ancient/009451-volsinii-occupied-site-orvieto-which-hence-called-urbs.md",
    "at": "2026-11-12T02:55:03+00:00"
+  },
+  {
+   "slug": "town-itself-fortified-traces-early-works-remain",
+   "title": "The town itself was fortified, and traces of early works remain. The",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009452-town-itself-fortified-traces-early-works-remain.md",
+   "at": "2026-11-12T03:05:06+00:00"
   }
  ]
 }
