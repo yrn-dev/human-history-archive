@@ -1,5 +1,5 @@
 {
- "count": 7262,
+ "count": 7263,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50834,6 +50834,13 @@
    "era": "industrial",
    "file": "eras/industrial/009513-cotton-mills---the-milling-industry-next-docks-chief.md",
    "at": "2026-11-12T14:22:07+00:00"
+  },
+  {
+   "slug": "population---owing-central-position-between-east-west",
+   "title": "Population.--Owing to its central position between East and West and",
+   "era": "modern",
+   "file": "eras/modern/009514-population---owing-central-position-between-east-west.md",
+   "at": "2026-11-12T14:32:10+00:00"
   }
  ]
 }
