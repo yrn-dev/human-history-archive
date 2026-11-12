@@ -1,5 +1,5 @@
 {
- "count": 7197,
+ "count": 7198,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50379,6 +50379,13 @@
    "era": "modern",
    "file": "eras/modern/009448-christi-ordered-erection-cathedral-orvieto.md",
    "at": "2026-11-12T02:25:06+00:00"
+  },
+  {
+   "slug": "lake-bolsena-anc-lacus-volsiniensis-1000-ft-above",
+   "title": "The Lake of Bolsena (anc. Lacus Volsiniensis), 1000 ft. above",
+   "era": "ancient",
+   "file": "eras/ancient/009449-lake-bolsena-anc-lacus-volsiniensis-1000-ft-above.md",
+   "at": "2026-11-12T02:35:01+00:00"
   }
  ]
 }
