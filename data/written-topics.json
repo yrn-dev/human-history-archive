@@ -1,5 +1,5 @@
 {
- "count": 7230,
+ "count": 7231,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50610,6 +50610,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009481-dissolution-monasteries-manor-sold-1542.md",
    "at": "2026-11-12T08:14:43+00:00"
+  },
+  {
+   "slug": "see-whitaker-ll-history-district-craven",
+   "title": "See J.D. Whitaker, LL.D., F.S.A., History of the District of Craven",
+   "era": "ancient",
+   "file": "eras/ancient/009482-see-whitaker-ll-history-district-craven.md",
+   "at": "2026-11-12T08:24:42+00:00"
   }
  ]
 }
