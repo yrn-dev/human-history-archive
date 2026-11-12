@@ -1,5 +1,5 @@
 {
- "count": 7290,
+ "count": 7291,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51030,6 +51030,13 @@
    "era": "modern",
    "file": "eras/modern/009541-908-648-native-states-province-divided-four.md",
    "at": "2026-11-12T19:12:14+00:00"
+  },
+  {
+   "slug": "kaira-panch-mahals-surat-thana-ahmednagar-khandesh-partitioned",
+   "title": "Kaira, Panch Mahals, Surat, Thana, Ahmednagar, Khandesh (partitioned",
+   "era": "industrial",
+   "file": "eras/industrial/009542-kaira-panch-mahals-surat-thana-ahmednagar-khandesh-partitioned.md",
+   "at": "2026-11-12T19:22:07+00:00"
   }
  ]
 }
