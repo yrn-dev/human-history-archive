@@ -1,5 +1,5 @@
 {
- "count": 7242,
+ "count": 7243,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50694,6 +50694,13 @@
    "era": "modern",
    "file": "eras/modern/009493-halbe-ganze-instrumente-when-brass-wind-instruments.md",
    "at": "2026-11-12T10:24:39+00:00"
+  },
+  {
+   "slug": "bombardons-possess-chromatic-compass-3-1-octaves",
+   "title": "The bombardons possess a chromatic compass of 3-1/2 to 4 octaves. The",
+   "era": "industrial",
+   "file": "eras/industrial/009494-bombardons-possess-chromatic-compass-3-1-octaves.md",
+   "at": "2026-11-12T10:34:47+00:00"
   }
  ]
 }
