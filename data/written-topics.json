@@ -1,5 +1,5 @@
 {
- "count": 7283,
+ "count": 7284,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50981,6 +50981,13 @@
    "era": "modern",
    "file": "eras/modern/009534-see-edwardes-rise-bombay-1902-james-douglas-bombay.md",
    "at": "2026-11-12T17:52:00+00:00"
+  },
+  {
+   "slug": "gazetteer-india-oxford-1908-bombay-city",
+   "title": "Gazetteer of India (Oxford, 1908), s.v. \"Bombay City.\"",
+   "era": "industrial",
+   "file": "eras/industrial/009535-gazetteer-india-oxford-1908-bombay-city.md",
+   "at": "2026-11-12T18:01:50+00:00"
   }
  ]
 }
