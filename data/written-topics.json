@@ -1,5 +1,5 @@
 {
- "count": 7260,
+ "count": 7261,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50820,6 +50820,13 @@
    "era": "industrial",
    "file": "eras/industrial/009511-docks---the-dockyard-originally-built-1736-sea-face.md",
    "at": "2026-11-12T14:01:54+00:00"
+  },
+  {
+   "slug": "prince-dock-which-foundation-stone-laid-prince",
+   "title": "Prince's dock, of which the foundation-stone was laid by the prince of",
+   "era": "industrial",
+   "file": "eras/industrial/009512-prince-dock-which-foundation-stone-laid-prince.md",
+   "at": "2026-11-12T14:13:11+00:00"
   }
  ]
 }
