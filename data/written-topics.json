@@ -1,5 +1,5 @@
 {
- "count": 7254,
+ "count": 7255,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50778,6 +50778,13 @@
    "era": "modern",
    "file": "eras/modern/009505-vellard-used-high-tide-submerged-sea-town-itself.md",
    "at": "2026-11-12T12:34:29+00:00"
+  },
+  {
+   "slug": "victoria-terminus-great-indian-peninsula-railway-taj",
+   "title": "Victoria terminus of the Great Indian Peninsula railway and the Taj",
+   "era": "industrial",
+   "file": "eras/industrial/009506-victoria-terminus-great-indian-peninsula-railway-taj.md",
+   "at": "2026-11-12T12:44:30+00:00"
   }
  ]
 }
