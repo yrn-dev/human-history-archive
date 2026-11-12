@@ -1,5 +1,5 @@
 {
- "count": 7286,
+ "count": 7287,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51002,6 +51002,13 @@
    "era": "industrial",
    "file": "eras/industrial/009537-shisham-blackwood-dalbergia-hard-grained-dark-coloured-timber.md",
    "at": "2026-11-12T18:21:50+00:00"
+  },
+  {
+   "slug": "bombay-includes-settlement-aden-total-area-including-sind",
+   "title": "Bombay includes the settlement of Aden. The total area, including Sind",
+   "era": "modern",
+   "file": "eras/modern/009538-bombay-includes-settlement-aden-total-area-including-sind.md",
+   "at": "2026-11-12T18:42:10+00:00"
   }
  ]
 }
