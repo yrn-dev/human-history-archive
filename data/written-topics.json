@@ -1,5 +1,5 @@
 {
- "count": 7198,
+ "count": 7199,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50386,6 +50386,13 @@
    "era": "ancient",
    "file": "eras/ancient/009449-lake-bolsena-anc-lacus-volsiniensis-1000-ft-above.md",
    "at": "2026-11-12T02:35:01+00:00"
+  },
+  {
+   "slug": "theodoric-imprisoned-strangled",
+   "title": "Theodoric, was imprisoned and strangled.     (T. As.)",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009450-theodoric-imprisoned-strangled.md",
+   "at": "2026-11-12T02:45:05+00:00"
   }
  ]
 }
