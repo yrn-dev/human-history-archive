@@ -1,5 +1,5 @@
 {
- "count": 7296,
+ "count": 7297,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51072,6 +51072,13 @@
    "era": "industrial",
    "file": "eras/industrial/009547-kantha-these-territories-exception-cutch.md",
    "at": "2026-11-12T20:13:24+00:00"
+  },
+  {
+   "slug": "kolhapur-akalkot-sawantwari-satara-southern-mahratta",
+   "title": "Kolhapur, Akalkot, Sawantwari, and the Satara and southern Mahratta",
+   "era": "modern",
+   "file": "eras/modern/009548-kolhapur-akalkot-sawantwari-satara-southern-mahratta.md",
+   "at": "2026-11-12T20:22:27+00:00"
   }
  ]
 }
