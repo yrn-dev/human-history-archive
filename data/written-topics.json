@@ -1,5 +1,5 @@
 {
- "count": 7240,
+ "count": 7241,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50680,6 +50680,13 @@
    "era": "industrial",
    "file": "eras/industrial/009491-1882-states-jager-military-bands-prussia-corno.md",
    "at": "2026-11-12T10:04:42+00:00"
+  },
+  {
+   "slug": "modern-bombardon-made-two-forms-upright-model-used",
+   "title": "The modern bombardon is made in two forms: the upright model, used in",
+   "era": "modern",
+   "file": "eras/modern/009492-modern-bombardon-made-two-forms-upright-model-used.md",
+   "at": "2026-11-12T10:14:45+00:00"
   }
  ]
 }
