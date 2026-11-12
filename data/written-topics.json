@@ -1,5 +1,5 @@
 {
- "count": 7205,
+ "count": 7206,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50435,6 +50435,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009456-shakespeare-winter-tale-fann-snow-bolted.md",
    "at": "2026-11-12T03:45:03+00:00"
+  },
+  {
+   "slug": "comus-hate-when-vice-can-bolt-her-arguments",
+   "title": "Comus, \"I hate when vice can bolt her arguments.\"",
+   "era": "renaissance",
+   "file": "eras/renaissance/009457-comus-hate-when-vice-can-bolt-her-arguments.md",
+   "at": "2026-11-12T03:54:59+00:00"
   }
  ]
 }
