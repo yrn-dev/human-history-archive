@@ -1,5 +1,5 @@
 {
- "count": 7243,
+ "count": 7244,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50701,6 +50701,13 @@
    "era": "industrial",
    "file": "eras/industrial/009494-bombardons-possess-chromatic-compass-3-1-octaves.md",
    "at": "2026-11-12T10:34:47+00:00"
+  },
+  {
+   "slug": "bombardons-generally-treated-non-transposing-instruments",
+   "title": "Bombardons are generally treated as non-transposing instruments, the",
+   "era": "industrial",
+   "file": "eras/industrial/009495-bombardons-generally-treated-non-transposing-instruments.md",
+   "at": "2026-11-12T10:44:43+00:00"
   }
  ]
 }
