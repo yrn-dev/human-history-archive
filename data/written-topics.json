@@ -1,5 +1,5 @@
 {
- "count": 7258,
+ "count": 7259,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50806,6 +50806,13 @@
    "era": "industrial",
    "file": "eras/industrial/009509-mahommedans-parsees-bombay-university-constituted-1857.md",
    "at": "2026-11-12T13:14:53+00:00"
+  },
+  {
+   "slug": "grant-medical-college-government-law-school-sir-jamsetjee",
+   "title": "Grant medical college, the government law school, the Sir Jamsetjee",
+   "era": "modern",
+   "file": "eras/modern/009510-grant-medical-college-government-law-school-sir-jamsetjee.md",
+   "at": "2026-11-12T13:24:35+00:00"
   }
  ]
 }
