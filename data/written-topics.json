@@ -1,5 +1,5 @@
 {
- "count": 7257,
+ "count": 7258,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50799,6 +50799,13 @@
    "era": "modern",
    "file": "eras/modern/009508-local-government---the-port-bombay-including-docks-warehouses.md",
    "at": "2026-11-12T13:04:53+00:00"
+  },
+  {
+   "slug": "mahommedans-parsees-bombay-university-constituted-1857",
+   "title": "Mahommedans and Parsees. The Bombay University was constituted in 1857",
+   "era": "industrial",
+   "file": "eras/industrial/009509-mahommedans-parsees-bombay-university-constituted-1857.md",
+   "at": "2026-11-12T13:14:53+00:00"
   }
  ]
 }
