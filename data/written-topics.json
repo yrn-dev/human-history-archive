@@ -1,5 +1,5 @@
 {
- "count": 7214,
+ "count": 7215,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50498,6 +50498,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009465-ath-oxon-ed-bliss-iii-36-most-important-his-numerous.md",
    "at": "2026-11-12T05:34:48+00:00"
+  },
+  {
+   "slug": "ancient-critical-essays-vol-ii-1815-nero-caesar-monarchic",
+   "title": "Ancient Critical Essays (vol. ii., 1815); Nero Caesar, or Monarchic",
+   "era": "ancient",
+   "file": "eras/ancient/009466-ancient-critical-essays-vol-ii-1815-nero-caesar-monarchic.md",
+   "at": "2026-11-12T05:44:55+00:00"
   }
  ]
 }
