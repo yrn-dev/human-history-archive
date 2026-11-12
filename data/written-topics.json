@@ -1,5 +1,5 @@
 {
- "count": 7204,
+ "count": 7205,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -50428,6 +50428,13 @@
    "era": "industrial",
    "file": "eras/industrial/009455-another-bolt-boult-sift-through-fr-buleter.md",
    "at": "2026-11-12T03:35:06+00:00"
+  },
+  {
+   "slug": "shakespeare-winter-tale-fann-snow-bolted",
+   "title": "Shakespeare's Winter's Tale, \"The fann'd snow, That's bolted by the",
+   "era": "renaissance",
+   "file": "eras/renaissance/009456-shakespeare-winter-tale-fann-snow-bolted.md",
+   "at": "2026-11-12T03:45:03+00:00"
   }
  ]
 }
