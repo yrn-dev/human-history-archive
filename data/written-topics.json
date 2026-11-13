@@ -1,5 +1,5 @@
 {
- "count": 7370,
+ "count": 7371,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51590,6 +51590,13 @@
    "era": "modern",
    "file": "eras/modern/009621-european-officials-assassinated-editor-prominent-native.md",
    "at": "2026-11-13T09:01:08+00:00"
+  },
+  {
+   "slug": "western-india-1893-sir-william-lee-warner-presidency",
+   "title": "Western India (1893); and Sir William Lee-Warner, The Presidency of",
+   "era": "industrial",
+   "file": "eras/industrial/009622-western-india-1893-sir-william-lee-warner-presidency.md",
+   "at": "2026-11-13T09:11:03+00:00"
   }
  ]
 }
