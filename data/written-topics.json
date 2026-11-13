@@ -1,5 +1,5 @@
 {
- "count": 7365,
+ "count": 7366,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51555,6 +51555,13 @@
    "era": "industrial",
    "file": "eras/industrial/009616-sindhia-1853-establishment-orderly-administration-one.md",
    "at": "2026-11-13T08:12:29+00:00"
+  },
+  {
+   "slug": "1853-1860-presidency-passed-through-crisis-mutiny",
+   "title": "(1853-1860) the presidency passed through the crisis of the Mutiny",
+   "era": "industrial",
+   "file": "eras/industrial/009617-1853-1860-presidency-passed-through-crisis-mutiny.md",
+   "at": "2026-11-13T08:21:14+00:00"
   }
  ]
 }
