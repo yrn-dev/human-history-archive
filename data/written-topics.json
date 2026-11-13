@@ -1,5 +1,5 @@
 {
- "count": 7413,
+ "count": 7414,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51891,6 +51891,13 @@
    "era": "modern",
    "file": "eras/modern/009664-beretta-venice-1857-ambrosini-huard-la-famille.md",
    "at": "2026-11-13T16:40:46+00:00"
+  },
+  {
+   "slug": "1860-paris-1860-leynadier-histoire-de-la-famille-bonaparte",
+   "title": "1860 (Paris, 1860); C. Leynadier, Histoire de la famille Bonaparte",
+   "era": "modern",
+   "file": "eras/modern/009665-1860-paris-1860-leynadier-histoire-de-la-famille-bonaparte.md",
+   "at": "2026-11-13T16:52:06+00:00"
   }
  ]
 }
