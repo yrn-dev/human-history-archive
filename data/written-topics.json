@@ -1,5 +1,5 @@
 {
- "count": 7417,
+ "count": 7418,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51919,6 +51919,13 @@
    "era": "modern",
    "file": "eras/modern/009668-bonapartes-vols-london-1881-masson-napoleon-et-sa.md",
    "at": "2026-11-13T17:20:50+00:00"
+  },
+  {
+   "slug": "napoleon-vols-paris-1897-1899-nasica-memoires-sur",
+   "title": "Napoleon (3 vols., Paris, 1897-1899); T. Nasica, Memoires sur",
+   "era": "modern",
+   "file": "eras/modern/009669-napoleon-vols-paris-1897-1899-nasica-memoires-sur.md",
+   "at": "2026-11-13T17:30:45+00:00"
   }
  ]
 }
