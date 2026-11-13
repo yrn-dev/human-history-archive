@@ -1,5 +1,5 @@
 {
- "count": 7414,
+ "count": 7415,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51898,6 +51898,13 @@
    "era": "modern",
    "file": "eras/modern/009665-1860-paris-1860-leynadier-histoire-de-la-famille-bonaparte.md",
    "at": "2026-11-13T16:52:06+00:00"
+  },
+  {
+   "slug": "brugere-paris-1866-kleinschmidt-die-eltern-und-geschwister",
+   "title": "Brugere) (Paris, 1866); A. Kleinschmidt, Die Eltern und Geschwister",
+   "era": "modern",
+   "file": "eras/modern/009666-brugere-paris-1866-kleinschmidt-die-eltern-und-geschwister.md",
+   "at": "2026-11-13T17:02:08+00:00"
   }
  ]
 }
