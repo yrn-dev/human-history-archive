@@ -1,5 +1,5 @@
 {
- "count": 7336,
+ "count": 7337,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51352,6 +51352,13 @@
    "era": "industrial",
    "file": "eras/industrial/009587-administration---the-government-bombay-administered.md",
    "at": "2026-11-13T03:11:35+00:00"
+  },
+  {
+   "slug": "british-agents-placed-principal-native-courts-their-position",
+   "title": "British agents placed at the principal native courts; their position",
+   "era": "modern",
+   "file": "eras/modern/009588-british-agents-placed-principal-native-courts-their-position.md",
+   "at": "2026-11-13T03:21:26+00:00"
   }
  ]
 }
