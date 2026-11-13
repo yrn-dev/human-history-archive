@@ -1,5 +1,5 @@
 {
- "count": 7372,
+ "count": 7373,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51604,6 +51604,13 @@
    "era": "industrial",
    "file": "eras/industrial/009623-bombay-society-arts-1904-imperial-gazetteer-india.md",
    "at": "2026-11-13T09:21:09+00:00"
+  },
+  {
+   "slug": "bombelles-marc-marie-marquis-de-1744-1822-french-diplomatist",
+   "title": "BOMBELLES, MARC MARIE, MARQUIS DE (1744-1822), French diplomatist and",
+   "era": "modern",
+   "file": "eras/modern/009624-bombelles-marc-marie-marquis-de-1744-1822-french-diplomatist.md",
+   "at": "2026-11-13T09:41:03+00:00"
   }
  ]
 }
