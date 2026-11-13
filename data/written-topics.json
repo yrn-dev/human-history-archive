@@ -1,5 +1,5 @@
 {
- "count": 7381,
+ "count": 7382,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51667,6 +51667,13 @@
    "era": "modern",
    "file": "eras/modern/009632-deum-well-translated-1876-henry-collins-cist.md",
    "at": "2026-11-13T11:10:58+00:00"
+  },
+  {
+   "slug": "guide-heaven-1680-manuductio-ad-coelum-reprinted",
+   "title": "Guide to Heaven, 1680) of the Manuductio ad Coelum was reprinted in",
+   "era": "renaissance",
+   "file": "eras/renaissance/009633-guide-heaven-1680-manuductio-ad-coelum-reprinted.md",
+   "at": "2026-11-13T11:21:01+00:00"
   }
  ]
 }
