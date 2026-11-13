@@ -1,5 +1,5 @@
 {
- "count": 7384,
+ "count": 7385,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51688,6 +51688,13 @@
    "era": "modern",
    "file": "eras/modern/009635-chief-source-life-bona-biography.md",
    "at": "2026-11-13T11:41:07+00:00"
+  },
+  {
+   "slug": "augustine-large-church-built-quasi-byzantine-style",
+   "title": "Augustine, a large church built in quasi-Byzantine style. In it is",
+   "era": "ancient",
+   "file": "eras/ancient/009636-augustine-large-church-built-quasi-byzantine-style.md",
+   "at": "2026-11-13T11:50:58+00:00"
   }
  ]
 }
