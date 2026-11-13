@@ -1,5 +1,5 @@
 {
- "count": 7380,
+ "count": 7381,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51660,6 +51660,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009631-1777-stores-interesting-rubrical-information-interspersed.md",
    "at": "2026-11-13T11:01:08+00:00"
+  },
+  {
+   "slug": "deum-well-translated-1876-henry-collins-cist",
+   "title": "Deum was well translated in 1876 by Henry Collins, O. Cist., under the",
+   "era": "modern",
+   "file": "eras/modern/009632-deum-well-translated-1876-henry-collins-cist.md",
+   "at": "2026-11-13T11:10:58+00:00"
   }
  ]
 }
