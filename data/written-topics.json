@@ -1,5 +1,5 @@
 {
- "count": 7359,
+ "count": 7360,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51513,6 +51513,13 @@
    "era": "modern",
    "file": "eras/modern/009610-bombay-transferred-east-india-company-annual-payment.md",
    "at": "2026-11-13T07:11:32+00:00"
+  },
+  {
+   "slug": "1687-bombay-placed-head-all-company-possessions",
+   "title": "1687 Bombay was placed at the head of all the Company's possessions in",
+   "era": "modern",
+   "file": "eras/modern/009611-1687-bombay-placed-head-all-company-possessions.md",
+   "at": "2026-11-13T07:21:23+00:00"
   }
  ]
 }
