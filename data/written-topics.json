@@ -1,5 +1,5 @@
 {
- "count": 7371,
+ "count": 7372,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51597,6 +51597,13 @@
    "era": "industrial",
    "file": "eras/industrial/009622-western-india-1893-sir-william-lee-warner-presidency.md",
    "at": "2026-11-13T09:11:03+00:00"
+  },
+  {
+   "slug": "bombay-society-arts-1904-imperial-gazetteer-india",
+   "title": "Bombay (Society of Arts, 1904); The Imperial Gazetteer of India",
+   "era": "industrial",
+   "file": "eras/industrial/009623-bombay-society-arts-1904-imperial-gazetteer-india.md",
+   "at": "2026-11-13T09:21:09+00:00"
   }
  ]
 }
