@@ -1,5 +1,5 @@
 {
- "count": 7335,
+ "count": 7336,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51345,6 +51345,13 @@
    "era": "modern",
    "file": "eras/modern/009586-education---the-university-bombay-established-1857-body.md",
    "at": "2026-11-13T03:01:29+00:00"
+  },
+  {
+   "slug": "administration---the-government-bombay-administered",
+   "title": "Administration.--The government of Bombay is administered by a",
+   "era": "industrial",
+   "file": "eras/industrial/009587-administration---the-government-bombay-administered.md",
+   "at": "2026-11-13T03:11:35+00:00"
   }
  ]
 }
