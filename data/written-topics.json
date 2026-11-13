@@ -1,5 +1,5 @@
 {
- "count": 7373,
+ "count": 7374,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51611,6 +51611,13 @@
    "era": "modern",
    "file": "eras/modern/009624-bombelles-marc-marie-marquis-de-1744-1822-french-diplomatist.md",
    "at": "2026-11-13T09:41:03+00:00"
+  },
+  {
+   "slug": "france-portugal-1786-being-charged-win-country",
+   "title": "France to Portugal in 1786, being charged to win over that country to",
+   "era": "industrial",
+   "file": "eras/industrial/009625-france-portugal-1786-being-charged-win-country.md",
+   "at": "2026-11-13T09:51:04+00:00"
   }
  ]
 }
