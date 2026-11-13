@@ -1,5 +1,5 @@
 {
- "count": 7446,
+ "count": 7447,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52122,6 +52122,13 @@
    "era": "modern",
    "file": "eras/modern/009697-johnston-napoleonic-empire-southern-italy-vols.md",
    "at": "2026-11-13T22:18:59+00:00"
+  },
+  {
+   "slug": "lucien-bonaparte",
+   "title": "2. Lucien Bonaparte",
+   "era": "modern",
+   "file": "eras/modern/009698-lucien-bonaparte.md",
+   "at": "2026-11-13T22:29:05+00:00"
   }
  ]
 }
