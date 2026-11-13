@@ -1,5 +1,5 @@
 {
- "count": 7418,
+ "count": 7419,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51926,6 +51926,13 @@
    "era": "modern",
    "file": "eras/modern/009669-napoleon-vols-paris-1897-1899-nasica-memoires-sur.md",
    "at": "2026-11-13T17:30:45+00:00"
+  },
+  {
+   "slug": "madame-mere-vols-paris-1892-clara-tschudi-napoleons",
+   "title": "Madame Mere (2 vols., Paris, 1892); Clara Tschudi, Napoleons",
+   "era": "modern",
+   "file": "eras/modern/009670-madame-mere-vols-paris-1892-clara-tschudi-napoleons.md",
+   "at": "2026-11-13T17:40:38+00:00"
   }
  ]
 }
