@@ -1,5 +1,5 @@
 {
- "count": 7383,
+ "count": 7384,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51681,6 +51681,13 @@
    "era": "modern",
    "file": "eras/modern/009634-connor-appeared-1906-devotional-treatise-de-sacrificio.md",
    "at": "2026-11-13T11:30:56+00:00"
+  },
+  {
+   "slug": "chief-source-life-bona-biography",
+   "title": "The chief source for the life of Bona is the biography by the",
+   "era": "modern",
+   "file": "eras/modern/009635-chief-source-life-bona-biography.md",
+   "at": "2026-11-13T11:41:07+00:00"
   }
  ]
 }
