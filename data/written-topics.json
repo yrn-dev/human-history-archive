@@ -1,5 +1,5 @@
 {
- "count": 7443,
+ "count": 7444,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52101,6 +52101,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/009694-england-time-resided-genoa-florence-latter.md",
    "at": "2026-11-13T21:49:03+00:00"
+  },
+  {
+   "slug": "joseph-10-vols-paris-1854-les-rois-freres-de-napoleon",
+   "title": "Joseph (10 vols., Paris, 1854), and Les Rois freres de Napoleon",
+   "era": "modern",
+   "file": "eras/modern/009695-joseph-10-vols-paris-1854-les-rois-freres-de-napoleon.md",
+   "at": "2026-11-13T21:59:01+00:00"
   }
  ]
 }
