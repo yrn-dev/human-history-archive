@@ -1,5 +1,5 @@
 {
- "count": 7382,
+ "count": 7383,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51674,6 +51674,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009633-guide-heaven-1680-manuductio-ad-coelum-reprinted.md",
    "at": "2026-11-13T11:21:01+00:00"
+  },
+  {
+   "slug": "connor-appeared-1906-devotional-treatise-de-sacrificio",
+   "title": "O'Connor, appeared in 1906. The devotional treatise De Sacrificio",
+   "era": "modern",
+   "file": "eras/modern/009634-connor-appeared-1906-devotional-treatise-de-sacrificio.md",
+   "at": "2026-11-13T11:30:56+00:00"
   }
  ]
 }
