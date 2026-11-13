@@ -1,5 +1,5 @@
 {
- "count": 7333,
+ "count": 7334,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -51331,6 +51331,13 @@
    "era": "modern",
    "file": "eras/modern/009584-army---under-lord-kitchener-re-arrangement-indian-army.md",
    "at": "2026-11-13T02:41:36+00:00"
+  },
+  {
+   "slug": "western-army-corps-lieutenant-general-army-corps",
+   "title": "Western army corps under a lieutenant-general. The army corps was",
+   "era": "modern",
+   "file": "eras/modern/009585-western-army-corps-lieutenant-general-army-corps.md",
+   "at": "2026-11-13T02:51:37+00:00"
   }
  ]
 }
