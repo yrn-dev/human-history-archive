@@ -1,5 +1,5 @@
 {
- "count": 7582,
+ "count": 7583,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53074,6 +53074,13 @@
    "era": "industrial",
    "file": "eras/industrial/009833-bonded-warehouse-warehouse-established-state-private.md",
    "at": "2026-11-14T22:11:54+00:00"
+  },
+  {
+   "slug": "1880-revenue-act-1883-warehouses-known-king",
+   "title": "1880, and the Revenue Act 1883. The warehouses are known as \"king's",
+   "era": "industrial",
+   "file": "eras/industrial/009834-1880-revenue-act-1883-warehouses-known-king.md",
+   "at": "2026-11-14T22:21:54+00:00"
   }
  ]
 }
