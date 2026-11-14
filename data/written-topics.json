@@ -1,5 +1,5 @@
 {
- "count": 7528,
+ "count": 7529,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52696,6 +52696,13 @@
    "era": "modern",
    "file": "eras/modern/009779-america-descended-jerome-bonaparte-vii-his-union.md",
    "at": "2026-11-14T13:02:15+00:00"
+  },
+  {
+   "slug": "elizabeth-1785-daughter-william-patterson-baltimore",
+   "title": "Elizabeth (b. 1785), daughter of William Patterson, a Baltimore",
+   "era": "industrial",
+   "file": "eras/industrial/009780-elizabeth-1785-daughter-william-patterson-baltimore.md",
+   "at": "2026-11-14T13:12:13+00:00"
   }
  ]
 }
