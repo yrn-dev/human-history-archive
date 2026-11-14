@@ -1,5 +1,5 @@
 {
- "count": 7500,
+ "count": 7501,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52500,6 +52500,13 @@
    "era": "modern",
    "file": "eras/modern/009751-lucien-bonaparte-scientist-rather-than-politician-he-married.md",
    "at": "2026-11-14T08:02:38+00:00"
+  },
+  {
+   "slug": "neufchatel-1838-he-elected-honorary-member-academy",
+   "title": "(Neufchatel, 1838). He was elected honorary member of the academy of",
+   "era": "industrial",
+   "file": "eras/industrial/009752-neufchatel-1838-he-elected-honorary-member-academy.md",
+   "at": "2026-11-14T08:12:32+00:00"
   }
  ]
 }
