@@ -1,5 +1,5 @@
 {
- "count": 7583,
+ "count": 7584,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53081,6 +53081,13 @@
    "era": "industrial",
    "file": "eras/industrial/009834-1880-revenue-act-1883-warehouses-known-king.md",
    "at": "2026-11-14T22:21:54+00:00"
+  },
+  {
+   "slug": "12-same-act-treasury-may-appoint-warehousing-ports",
+   "title": "By s. 12 of the same act the treasury may appoint warehousing ports or",
+   "era": "industrial",
+   "file": "eras/industrial/009835-12-same-act-treasury-may-appoint-warehousing-ports.md",
+   "at": "2026-11-14T22:31:56+00:00"
   }
  ]
 }
