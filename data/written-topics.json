@@ -1,5 +1,5 @@
 {
- "count": 7471,
+ "count": 7472,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52297,6 +52297,13 @@
    "era": "modern",
    "file": "eras/modern/009722-hollande-vols-2nd-ed-paris-1820-rocquain-napoleon-er.md",
    "at": "2026-11-14T02:32:58+00:00"
+  },
+  {
+   "slug": "napoleon-paris-1883-garnier-la-cour-de-hollande-sous-le-regne",
+   "title": "Napoleon (Paris, 1883); A Garnier, La Cour de Hollande sous le regne",
+   "era": "modern",
+   "file": "eras/modern/009723-napoleon-paris-1883-garnier-la-cour-de-hollande-sous-le-regne.md",
+   "at": "2026-11-14T02:42:48+00:00"
   }
  ]
 }
