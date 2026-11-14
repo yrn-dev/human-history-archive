@@ -1,5 +1,5 @@
 {
- "count": 7571,
+ "count": 7572,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52997,6 +52997,13 @@
    "era": "modern",
    "file": "eras/modern/009822-post-obit-bonds---a-post-obit-bond-one-given-expectant-heir.md",
    "at": "2026-11-14T20:22:00+00:00"
+  },
+  {
+   "slug": "bottomry-bonds---a-bottomry-bond-contract-hypothecation",
+   "title": "Bottomry Bonds.--A bottomry bond is a contract of hypothecation by",
+   "era": "industrial",
+   "file": "eras/industrial/009823-bottomry-bonds---a-bottomry-bond-contract-hypothecation.md",
+   "at": "2026-11-14T20:31:57+00:00"
   }
  ]
 }
