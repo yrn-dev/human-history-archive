@@ -1,5 +1,5 @@
 {
- "count": 7569,
+ "count": 7570,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52983,6 +52983,13 @@
    "era": "modern",
    "file": "eras/modern/009820-charlesworth-1905-123-not-without-design.md",
    "at": "2026-11-14T20:02:05+00:00"
+  },
+  {
+   "slug": "shakespeare-laid-scene-shylock-suit-antonio-bond",
+   "title": "Shakespeare laid the scene of Shylock's suit on Antonio's bond in a",
+   "era": "renaissance",
+   "file": "eras/renaissance/009821-shakespeare-laid-scene-shylock-suit-antonio-bond.md",
+   "at": "2026-11-14T20:11:57+00:00"
   }
  ]
 }
