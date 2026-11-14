@@ -1,5 +1,5 @@
 {
- "count": 7554,
+ "count": 7555,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52878,6 +52878,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/009805-albertus-magnus-regarding-theology-practical-science.md",
    "at": "2026-11-14T17:32:24+00:00"
+  },
+  {
+   "slug": "venice-1751-ff-peltier-15-vols-paris-1863-ff-10",
+   "title": "Venice, 1751 ff.; by A.C. Peltier, 15 vols., Paris, 1863 ff.; 10",
+   "era": "modern",
+   "file": "eras/modern/009806-venice-1751-ff-peltier-15-vols-paris-1863-ff-10.md",
+   "at": "2026-11-14T17:42:02+00:00"
   }
  ]
 }
