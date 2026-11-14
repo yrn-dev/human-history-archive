@@ -1,5 +1,5 @@
 {
- "count": 7484,
+ "count": 7485,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52388,6 +52388,13 @@
    "era": "industrial",
    "file": "eras/industrial/009735-jerome-vainly-sought-bend-his-brother-interview.md",
    "at": "2026-11-14T05:12:41+00:00"
+  },
+  {
+   "slug": "alexandria-may-1805-he-received-command-small-squadron",
+   "title": "Alexandria. In May 1805 he received command of a small squadron in the",
+   "era": "modern",
+   "file": "eras/modern/009736-alexandria-may-1805-he-received-command-small-squadron.md",
+   "at": "2026-11-14T05:22:36+00:00"
   }
  ]
 }
