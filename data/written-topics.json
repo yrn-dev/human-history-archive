@@ -1,5 +1,5 @@
 {
- "count": 7574,
+ "count": 7575,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53018,6 +53018,13 @@
    "era": "industrial",
    "file": "eras/industrial/009825-debenture-bonds---debenture-bonds-bonds-secured-only.md",
    "at": "2026-11-14T20:51:58+00:00"
+  },
+  {
+   "slug": "recognizance---a-recognizance-differs-bond-being-entered",
+   "title": "Recognizance.--A recognizance differs from a bond in being entered",
+   "era": "modern",
+   "file": "eras/modern/009826-recognizance---a-recognizance-differs-bond-being-entered.md",
+   "at": "2026-11-14T21:01:52+00:00"
   }
  ]
 }
