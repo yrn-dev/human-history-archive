@@ -1,5 +1,5 @@
 {
- "count": 7581,
+ "count": 7582,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53067,6 +53067,13 @@
    "era": "modern",
    "file": "eras/modern/009832-bonde-gustaf-count-1620-1667-swedish-statesman-he-remarkable.md",
    "at": "2026-11-14T22:01:52+00:00"
+  },
+  {
+   "slug": "bonded-warehouse-warehouse-established-state-private",
+   "title": "BONDED WAREHOUSE, a warehouse established by the state, or by private",
+   "era": "industrial",
+   "file": "eras/industrial/009833-bonded-warehouse-warehouse-established-state-private.md",
+   "at": "2026-11-14T22:11:54+00:00"
   }
  ]
 }
