@@ -1,5 +1,5 @@
 {
- "count": 7492,
+ "count": 7493,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52444,6 +52444,13 @@
    "era": "modern",
    "file": "eras/modern/009743-chief-works-relating-jerome-bonaparte-baron-albert-du.md",
    "at": "2026-11-14T06:42:40+00:00"
+  },
+  {
+   "slug": "casse-memoires-et-correspondance-du-roi-jerome-et-de-la-reine",
+   "title": "Casse, Memoires et correspondance du roi Jerome et de la reine",
+   "era": "modern",
+   "file": "eras/modern/009744-casse-memoires-et-correspondance-du-roi-jerome-et-de-la-reine.md",
+   "at": "2026-11-14T06:52:39+00:00"
   }
  ]
 }
