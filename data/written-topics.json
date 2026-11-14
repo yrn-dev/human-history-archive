@@ -1,5 +1,5 @@
 {
- "count": 7496,
+ "count": 7497,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -52472,6 +52472,13 @@
    "era": "modern",
    "file": "eras/modern/009747-westphalie-paris-1888-1893-martinet-jerome-napoleon-roi-de.md",
    "at": "2026-11-14T07:22:39+00:00"
+  },
+  {
+   "slug": "westfalie-paris-1902-sergeant-burlesque-napoleon",
+   "title": "Westfalie (Paris, 1902); P.W. Sergeant, The Burlesque Napoleon",
+   "era": "modern",
+   "file": "eras/modern/009748-westfalie-paris-1902-sergeant-burlesque-napoleon.md",
+   "at": "2026-11-14T07:32:36+00:00"
   }
  ]
 }
