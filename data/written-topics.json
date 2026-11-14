@@ -1,5 +1,5 @@
 {
- "count": 7573,
+ "count": 7574,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53011,6 +53011,13 @@
    "era": "industrial",
    "file": "eras/industrial/009824-lloyd-bonds---lloyd-bonds-instruments-seal.md",
    "at": "2026-11-14T20:41:54+00:00"
+  },
+  {
+   "slug": "debenture-bonds---debenture-bonds-bonds-secured-only",
+   "title": "Debenture Bonds.--Debenture bonds are bonds secured only by the",
+   "era": "industrial",
+   "file": "eras/industrial/009825-debenture-bonds---debenture-bonds-bonds-secured-only.md",
+   "at": "2026-11-14T20:51:58+00:00"
   }
  ]
 }
