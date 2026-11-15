@@ -1,5 +1,5 @@
 {
- "count": 7609,
+ "count": 7610,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53263,6 +53263,13 @@
    "era": "modern",
    "file": "eras/modern/009860-(e.-o.).md",
    "at": "2026-11-15T03:01:40+00:00"
+  },
+  {
+   "slug": "industrial-applications-bones---by-increasing-inventiveness",
+   "title": "Industrial Applications of Bones.--By the increasing inventiveness",
+   "era": "industrial",
+   "file": "eras/industrial/009861-industrial-applications-bones---by-increasing-inventiveness.md",
+   "at": "2026-11-15T03:11:39+00:00"
   }
  ]
 }
