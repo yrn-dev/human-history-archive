@@ -1,5 +1,5 @@
 {
- "count": 7637,
+ "count": 7638,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53459,6 +53459,13 @@
    "era": "ancient",
    "file": "eras/ancient/009888-historiarum-philippicarum-epitoma-de-manuscriptis-codicibus-emendatior.md",
    "at": "2026-11-15T08:21:20+00:00"
+  },
+  {
+   "slug": "french-writers-who-contemporaries-described-crusades",
+   "title": "French writers who as contemporaries described the crusades, and",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/009889-french-writers-who-contemporaries-described-crusades.md",
+   "at": "2026-11-15T08:31:21+00:00"
   }
  ]
 }
