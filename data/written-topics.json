@@ -1,5 +1,5 @@
 {
- "count": 7636,
+ "count": 7637,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53452,6 +53452,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/009887-navarre-he-continued-serve-henry-diplomatist-1593.md",
    "at": "2026-11-15T08:11:23+00:00"
+  },
+  {
+   "slug": "historiarum-philippicarum-epitoma-de-manuscriptis-codicibus-emendatior",
+   "title": "Historiarum Philippicarum epitoma de manuscriptis codicibus emendatior",
+   "era": "ancient",
+   "file": "eras/ancient/009888-historiarum-philippicarum-epitoma-de-manuscriptis-codicibus-emendatior.md",
+   "at": "2026-11-15T08:21:20+00:00"
   }
  ]
 }
