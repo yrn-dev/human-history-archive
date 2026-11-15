@@ -1,5 +1,5 @@
 {
- "count": 7656,
+ "count": 7657,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53592,6 +53592,13 @@
    "era": "industrial",
    "file": "eras/industrial/009907-auvergne-1835-she-decorated-legion-honour.md",
    "at": "2026-11-15T11:41:12+00:00"
+  },
+  {
+   "slug": "boni-bone-vassal-state-government-celebes-dutch-east",
+   "title": "BONI (Bone), a vassal state of the government of Celebes, Dutch East",
+   "era": "modern",
+   "file": "eras/modern/009908-boni-bone-vassal-state-government-celebes-dutch-east.md",
+   "at": "2026-11-15T11:51:11+00:00"
   }
  ]
 }
