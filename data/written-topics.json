@@ -1,5 +1,5 @@
 {
- "count": 7676,
+ "count": 7677,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53732,6 +53732,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/009927-1895-kurth-saint-boniface-2nd-ed-1902-levison.md",
    "at": "2026-11-15T15:20:58+00:00"
+  },
+  {
+   "slug": "boniface-bishop-rome-418-422-death-pope",
+   "title": "BONIFACE I., bishop of Rome from 418 to 422. At the death of Pope",
+   "era": "ancient",
+   "file": "eras/ancient/009928-boniface-bishop-rome-418-422-death-pope.md",
+   "at": "2026-11-15T15:41:02+00:00"
   }
  ]
 }
