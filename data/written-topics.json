@@ -1,5 +1,5 @@
 {
- "count": 7657,
+ "count": 7658,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53599,6 +53599,13 @@
    "era": "modern",
    "file": "eras/modern/009908-boni-bone-vassal-state-government-celebes-dutch-east.md",
    "at": "2026-11-15T11:51:11+00:00"
+  },
+  {
+   "slug": "native-race-bugis-whose-number-within-area",
+   "title": "The native race of Bugis (q.v.), whose number within this area is",
+   "era": "cultures",
+   "file": "eras/cultures/009909-native-race-bugis-whose-number-within-area.md",
+   "at": "2026-11-15T12:11:07+00:00"
   }
  ]
 }
