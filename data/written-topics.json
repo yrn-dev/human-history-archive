@@ -1,5 +1,5 @@
 {
- "count": 7773,
+ "count": 7774,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54411,6 +54411,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010024-histories-pollard-cranmer-england-somerset-other.md",
    "at": "2026-11-16T23:13:41+00:00"
+  },
+  {
+   "slug": "his-first-published-work-appeared-1745-entitled-traite",
+   "title": "His first published work appeared in 1745, entitled Traite",
+   "era": "modern",
+   "file": "eras/modern/010025-his-first-published-work-appeared-1745-entitled-traite.md",
+   "at": "2026-11-16T23:23:41+00:00"
   }
  ]
 }
