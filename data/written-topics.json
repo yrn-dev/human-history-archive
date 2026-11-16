@@ -1,5 +1,5 @@
 {
- "count": 7775,
+ "count": 7776,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54425,6 +54425,13 @@
    "era": "modern",
    "file": "eras/modern/010026-quite-recently-been-done-francis-darwin-plants.md",
    "at": "2026-11-16T23:33:44+00:00"
+  },
+  {
+   "slug": "followed-essai-analytique-sur-les-facultes-de-ame",
+   "title": "This was followed by the Essai analytique sur les facultes de l'ame",
+   "era": "modern",
+   "file": "eras/modern/010027-followed-essai-analytique-sur-les-facultes-de-ame.md",
+   "at": "2026-11-16T23:43:39+00:00"
   }
  ]
 }
