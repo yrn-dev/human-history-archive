@@ -1,5 +1,5 @@
 {
- "count": 7774,
+ "count": 7775,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54418,6 +54418,13 @@
    "era": "modern",
    "file": "eras/modern/010025-his-first-published-work-appeared-1745-entitled-traite.md",
    "at": "2026-11-16T23:23:41+00:00"
+  },
+  {
+   "slug": "quite-recently-been-done-francis-darwin-plants",
+   "title": "(as has quite recently been done by Francis Darwin) that plants are",
+   "era": "modern",
+   "file": "eras/modern/010026-quite-recently-been-done-francis-darwin-plants.md",
+   "at": "2026-11-16T23:33:44+00:00"
   }
  ]
 }
