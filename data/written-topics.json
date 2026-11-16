@@ -1,5 +1,5 @@
 {
- "count": 7726,
+ "count": 7727,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54082,6 +54082,13 @@
    "era": "ancient",
    "file": "eras/ancient/009977-ethica-eudemia-1844-alexandri-aphrodisiensis-commentarius-libras.md",
    "at": "2026-11-16T15:14:14+00:00"
+  },
+  {
+   "slug": "uber-die-kategorien-des-1853-aristotelische-studien",
+   "title": "Uber die Kategorien des A. (1853); Aristotelische Studien",
+   "era": "ancient",
+   "file": "eras/ancient/009978-uber-die-kategorien-des-1853-aristotelische-studien.md",
+   "at": "2026-11-16T15:24:13+00:00"
   }
  ]
 }
