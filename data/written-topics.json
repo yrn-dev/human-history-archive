@@ -1,5 +1,5 @@
 {
- "count": 7714,
+ "count": 7715,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -53998,6 +53998,13 @@
    "era": "ancient",
    "file": "eras/ancient/009965-history---the-diversity-nomenclature-indicated-above-suggests.md",
    "at": "2026-11-16T13:14:19+00:00"
+  },
+  {
+   "slug": "japanese-annals-they-discovered-towards-close-16th",
+   "title": "Japanese annals they were discovered towards the close of the 16th",
+   "era": "renaissance",
+   "file": "eras/renaissance/009966-japanese-annals-they-discovered-towards-close-16th.md",
+   "at": "2026-11-16T13:24:10+00:00"
   }
  ]
 }
