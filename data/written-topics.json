@@ -1,5 +1,5 @@
 {
- "count": 7725,
+ "count": 7726,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54075,6 +54075,13 @@
    "era": "modern",
    "file": "eras/modern/009976-observationes-criticae-aristotelis-quae-feruntur-magna-moralia-et.md",
    "at": "2026-11-16T15:04:14+00:00"
+  },
+  {
+   "slug": "ethica-eudemia-1844-alexandri-aphrodisiensis-commentarius-libras",
+   "title": "Ethica Eudemia (1844); Alexandri Aphrodisiensis Commentarius in Libras",
+   "era": "ancient",
+   "file": "eras/ancient/009977-ethica-eudemia-1844-alexandri-aphrodisiensis-commentarius-libras.md",
+   "at": "2026-11-16T15:14:14+00:00"
   }
  ]
 }
