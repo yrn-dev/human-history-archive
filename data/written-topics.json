@@ -1,5 +1,5 @@
 {
- "count": 7770,
+ "count": 7771,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54390,6 +54390,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010021-see-letters-papers-henry-viii-vols-iv--xx-acts.md",
    "at": "2026-11-16T22:43:46+00:00"
+  },
+  {
+   "slug": "privy-council-1542-1569-lords-journals-vol-wilkins",
+   "title": "Privy Council (1542-1569); Lords' Journals, vol. i.; Wilkins'",
+   "era": "renaissance",
+   "file": "eras/renaissance/010022-privy-council-1542-1569-lords-journals-vol-wilkins.md",
+   "at": "2026-11-16T22:53:45+00:00"
   }
  ]
 }
