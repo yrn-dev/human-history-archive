@@ -1,5 +1,5 @@
 {
- "count": 7736,
+ "count": 7737,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54152,6 +54152,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/009987-minoritenkirche-1278-1318-herz-jesu-kirche-1862.md",
    "at": "2026-11-16T16:54:05+00:00"
+  },
+  {
+   "slug": "marienkirche-1892-there-also-synagogue-university",
+   "title": "Marienkirche (1892). There is also a synagogue, and the university",
+   "era": "modern",
+   "file": "eras/modern/009988-marienkirche-1892-there-also-synagogue-university.md",
+   "at": "2026-11-16T17:04:18+00:00"
   }
  ]
 }
