@@ -1,5 +1,5 @@
 {
- "count": 7721,
+ "count": 7722,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54047,6 +54047,13 @@
    "era": "industrial",
    "file": "eras/industrial/009972-friedrich-wilhelms-gymnasium-1838-graues-kloster-1840.md",
    "at": "2026-11-16T14:24:11+00:00"
+  },
+  {
+   "slug": "berlin-professor-gymnasium-stettin-1842-professor",
+   "title": "Berlin, professor at the gymnasium at Stettin (1842), professor at the",
+   "era": "industrial",
+   "file": "eras/industrial/009973-berlin-professor-gymnasium-stettin-1842-professor.md",
+   "at": "2026-11-16T14:34:10+00:00"
   }
  ]
 }
