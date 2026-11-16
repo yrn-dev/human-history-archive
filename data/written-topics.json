@@ -1,5 +1,5 @@
 {
- "count": 7745,
+ "count": 7746,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54215,6 +54215,13 @@
    "era": "modern",
    "file": "eras/modern/009996-17th-18th-centuries-town-frequently-besieged-occupied.md",
    "at": "2026-11-16T18:23:56+00:00"
+  },
+  {
+   "slug": "bonn-und-mainz-bonn-1851-von-sybel-die-grundung-der",
+   "title": "Bonn und Mainz (Bonn, 1851); H. von Sybel, Die Grundung der",
+   "era": "ancient",
+   "file": "eras/ancient/009997-bonn-und-mainz-bonn-1851-von-sybel-die-grundung-der.md",
+   "at": "2026-11-16T18:34:13+00:00"
   }
  ]
 }
