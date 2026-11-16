@@ -1,5 +1,5 @@
 {
- "count": 7772,
+ "count": 7773,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54404,6 +54404,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010023-maitland-essays-ref-froude-dixon.md",
    "at": "2026-11-16T23:04:22+00:00"
+  },
+  {
+   "slug": "histories-pollard-cranmer-england-somerset-other",
+   "title": "Histories; Pollard's Cranmer and England under Somerset; other",
+   "era": "renaissance",
+   "file": "eras/renaissance/010024-histories-pollard-cranmer-england-somerset-other.md",
+   "at": "2026-11-16T23:13:41+00:00"
   }
  ]
 }
