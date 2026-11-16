@@ -1,5 +1,5 @@
 {
- "count": 7771,
+ "count": 7772,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54397,6 +54397,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010022-privy-council-1542-1569-lords-journals-vol-wilkins.md",
    "at": "2026-11-16T22:53:45+00:00"
+  },
+  {
+   "slug": "maitland-essays-ref-froude-dixon",
+   "title": "Maitland's Essays on the Ref.; Froude's and R.W. Dixon's",
+   "era": "renaissance",
+   "file": "eras/renaissance/010023-maitland-essays-ref-froude-dixon.md",
+   "at": "2026-11-16T23:04:22+00:00"
   }
  ]
 }
