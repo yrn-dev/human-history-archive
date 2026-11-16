@@ -1,5 +1,5 @@
 {
- "count": 7776,
+ "count": 7777,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54432,6 +54432,13 @@
    "era": "modern",
    "file": "eras/modern/010027-followed-essai-analytique-sur-les-facultes-de-ame.md",
    "at": "2026-11-16T23:43:39+00:00"
+  },
+  {
+   "slug": "copenhagen-1760-which-he-develops-his-views-regarding",
+   "title": "(Copenhagen, 1760), in which he develops his views regarding the",
+   "era": "industrial",
+   "file": "eras/industrial/010028-copenhagen-1760-which-he-develops-his-views-regarding.md",
+   "at": "2026-11-16T23:53:39+00:00"
   }
  ]
 }
