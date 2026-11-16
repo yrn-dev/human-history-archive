@@ -1,5 +1,5 @@
 {
- "count": 7737,
+ "count": 7738,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54159,6 +54159,13 @@
    "era": "modern",
    "file": "eras/modern/009988-marienkirche-1892-there-also-synagogue-university.md",
    "at": "2026-11-16T17:04:18+00:00"
+  },
+  {
+   "slug": "maximilian-frederick-cologne-rank-university",
+   "title": "Maximilian Frederick of Cologne to the rank of a university, and",
+   "era": "renaissance",
+   "file": "eras/renaissance/009989-maximilian-frederick-cologne-rank-university.md",
+   "at": "2026-11-16T17:13:57+00:00"
   }
  ]
 }
