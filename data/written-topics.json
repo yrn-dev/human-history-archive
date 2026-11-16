@@ -1,5 +1,5 @@
 {
- "count": 7755,
+ "count": 7756,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54285,6 +54285,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010006-henry-papal-curia-october-1533-he-entrusted.md",
    "at": "2026-11-16T20:13:55+00:00"
+  },
+  {
+   "slug": "francis-marseilles-henry-appeal-pope-general",
+   "title": "Francis I. at Marseilles, Henry's appeal from the pope to a general",
+   "era": "renaissance",
+   "file": "eras/renaissance/010007-francis-marseilles-henry-appeal-pope-general.md",
+   "at": "2026-11-16T20:23:57+00:00"
   }
  ]
 }
