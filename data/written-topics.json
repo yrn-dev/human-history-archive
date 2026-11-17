@@ -1,5 +1,5 @@
 {
- "count": 7901,
+ "count": 7902,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55307,6 +55307,13 @@
    "era": "industrial",
    "file": "eras/industrial/010152-1785-john-edwards-halifax-patented-method-making-vellum.md",
    "at": "2026-11-17T21:42:33+00:00"
+  },
+  {
+   "slug": "main-styles-used-england-beginning-19th-century",
+   "title": "The main styles used in England at the beginning of the 19th century",
+   "era": "industrial",
+   "file": "eras/industrial/010153-main-styles-used-england-beginning-19th-century.md",
+   "at": "2026-11-17T21:52:31+00:00"
   }
  ]
 }
