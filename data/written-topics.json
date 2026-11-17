@@ -1,5 +1,5 @@
 {
- "count": 7876,
+ "count": 7877,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55132,6 +55132,13 @@
    "era": "cultures",
    "file": "eras/cultures/010127-chinese-japanese-form-known-orihon--all-writing-one-side.md",
    "at": "2026-11-17T17:22:48+00:00"
+  },
+  {
+   "slug": "method-folding-vellum-pages-seems-been-first",
+   "title": "The method of folding vellum into pages seems to have been first",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010128-method-folding-vellum-pages-seems-been-first.md",
+   "at": "2026-11-17T17:32:50+00:00"
   }
  ]
 }
