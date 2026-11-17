@@ -1,5 +1,5 @@
 {
- "count": 7839,
+ "count": 7840,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54873,6 +54873,13 @@
    "era": "ancient",
    "file": "eras/ancient/010090-so-long-use-papyrus-predominant-usual-form-book.md",
    "at": "2026-11-17T11:04:50+00:00"
+  },
+  {
+   "slug": "thus-codex-sinaiticus-codex-vaticanus-bible-both",
+   "title": "Thus in the Codex Sinaiticus and Codex Vaticanus of the Bible, both of",
+   "era": "ancient",
+   "file": "eras/ancient/010091-thus-codex-sinaiticus-codex-vaticanus-bible-both.md",
+   "at": "2026-11-17T11:13:25+00:00"
   }
  ]
 }
