@@ -1,5 +1,5 @@
 {
- "count": 7808,
+ "count": 7809,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54656,6 +54656,13 @@
    "era": "ancient",
    "file": "eras/ancient/010059-lepsius-he-assisted-arrangement-egyptian-court.md",
    "at": "2026-11-17T05:23:20+00:00"
+  },
+  {
+   "slug": "bononcini-buononcini-giovanni-battista-1672--1750-italian",
+   "title": "BONONCINI (or BUONONCINI), GIOVANNI BATTISTA (1672?-1750?), Italian",
+   "era": "renaissance",
+   "file": "eras/renaissance/010060-bononcini-buononcini-giovanni-battista-1672--1750-italian.md",
+   "at": "2026-11-17T05:33:42+00:00"
   }
  ]
 }
