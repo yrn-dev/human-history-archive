@@ -1,5 +1,5 @@
 {
- "count": 7804,
+ "count": 7805,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54628,6 +54628,13 @@
    "era": "modern",
    "file": "eras/modern/010055-19th-january-1739-attaining-considerable-reputation.md",
    "at": "2026-11-17T04:33:42+00:00"
+  },
+  {
+   "slug": "dumbartonshire-designed-duke-argyll-1804-he",
+   "title": "Dumbartonshire, designed for the duke of Argyll. In 1804 he was",
+   "era": "industrial",
+   "file": "eras/industrial/010056-dumbartonshire-designed-duke-argyll-1804-he.md",
+   "at": "2026-11-17T04:53:27+00:00"
   }
  ]
 }
