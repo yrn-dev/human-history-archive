@@ -1,5 +1,5 @@
 {
- "count": 7789,
+ "count": 7790,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54523,6 +54523,13 @@
    "era": "modern",
    "file": "eras/modern/010040-memoirs-published-his-name-spurious-see-prince-de.md",
    "at": "2026-11-17T01:54:02+00:00"
+  },
+  {
+   "slug": "bonneville-benjamin-1795-1878-american-military-engineer",
+   "title": "BONNEVILLE, BENJAMIN L.E. (1795-1878), American military engineer and",
+   "era": "industrial",
+   "file": "eras/industrial/010041-bonneville-benjamin-1795-1878-american-military-engineer.md",
+   "at": "2026-11-17T02:04:12+00:00"
   }
  ]
 }
