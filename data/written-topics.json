@@ -1,5 +1,5 @@
 {
- "count": 7798,
+ "count": 7799,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54586,6 +54586,13 @@
    "era": "industrial",
    "file": "eras/industrial/010049-charles-lyell-modern-geology-1895-ice-work-past-present.md",
    "at": "2026-11-17T03:23:38+00:00"
+  },
+  {
+   "slug": "1896-volcanoes-1899-addition-many-papers-published",
+   "title": "(1896); Volcanoes (1899). In addition to many papers published in the",
+   "era": "industrial",
+   "file": "eras/industrial/010050-1896-volcanoes-1899-addition-many-papers-published.md",
+   "at": "2026-11-17T03:34:10+00:00"
   }
  ]
 }
