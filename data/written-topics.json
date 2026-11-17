@@ -1,5 +1,5 @@
 {
- "count": 7868,
+ "count": 7869,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55076,6 +55076,13 @@
    "era": "industrial",
    "file": "eras/industrial/010119-roberts-printers-marks-london-1893-silvestre-marques.md",
    "at": "2026-11-17T15:52:54+00:00"
+  },
+  {
+   "slug": "frankfort-mainz-cologne-marques-typographiques-des",
+   "title": "Frankfort, Mainz and Cologne; and Marques typographiques des",
+   "era": "renaissance",
+   "file": "eras/renaissance/010120-frankfort-mainz-cologne-marques-typographiques-des.md",
+   "at": "2026-11-17T16:13:14+00:00"
   }
  ]
 }
