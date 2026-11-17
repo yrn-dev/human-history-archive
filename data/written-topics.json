@@ -1,5 +1,5 @@
 {
- "count": 7900,
+ "count": 7901,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55300,6 +55300,13 @@
    "era": "industrial",
    "file": "eras/industrial/010151-london-set-up-bookbinder-he-splendid-workman.md",
    "at": "2026-11-17T21:32:37+00:00"
+  },
+  {
+   "slug": "1785-john-edwards-halifax-patented-method-making-vellum",
+   "title": "In 1785 John Edwards of Halifax patented a method of making vellum",
+   "era": "industrial",
+   "file": "eras/industrial/010152-1785-john-edwards-halifax-patented-method-making-vellum.md",
+   "at": "2026-11-17T21:42:33+00:00"
   }
  ]
 }
