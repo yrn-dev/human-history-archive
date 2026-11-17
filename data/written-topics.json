@@ -1,5 +1,5 @@
 {
- "count": 7807,
+ "count": 7808,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54649,6 +54649,13 @@
    "era": "industrial",
    "file": "eras/industrial/010058-lane-wilkinson-1833-he-visited-mosque-omar-returning.md",
    "at": "2026-11-17T05:13:20+00:00"
+  },
+  {
+   "slug": "lepsius-he-assisted-arrangement-egyptian-court",
+   "title": "Lepsius. He assisted in the arrangement of the Egyptian court at the",
+   "era": "ancient",
+   "file": "eras/ancient/010059-lepsius-he-assisted-arrangement-egyptian-court.md",
+   "at": "2026-11-17T05:23:20+00:00"
   }
  ]
 }
