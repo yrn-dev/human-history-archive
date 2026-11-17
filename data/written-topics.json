@@ -1,5 +1,5 @@
 {
- "count": 7816,
+ "count": 7817,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54712,6 +54712,13 @@
    "era": "ancient",
    "file": "eras/ancient/010067-l1-087-500-bononia-seems-fact-been-one-most.md",
    "at": "2026-11-17T06:53:26+00:00"
+  },
+  {
+   "slug": "1898-465-1902-532",
+   "title": "(1898) 465; (1902) 532. (T. As.)",
+   "era": "modern",
+   "file": "eras/modern/010068-1898-465-1902-532.md",
+   "at": "2026-11-17T07:04:14+00:00"
   }
  ]
 }
