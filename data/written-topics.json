@@ -1,5 +1,5 @@
 {
- "count": 7890,
+ "count": 7891,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55230,6 +55230,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010141-jean-grolier-viscount-aguisy-treasurer-france-1545.md",
    "at": "2026-11-17T19:52:35+00:00"
+  },
+  {
+   "slug": "geoffrey-tory-printer-engraver-francis-france-designed",
+   "title": "Geoffrey Tory, printer and engraver to Francis I. of France, designed",
+   "era": "renaissance",
+   "file": "eras/renaissance/010142-geoffrey-tory-printer-engraver-francis-france-designed.md",
+   "at": "2026-11-17T20:02:36+00:00"
   }
  ]
 }
