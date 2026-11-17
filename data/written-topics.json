@@ -1,5 +1,5 @@
 {
- "count": 7906,
+ "count": 7907,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55342,6 +55342,13 @@
    "era": "industrial",
    "file": "eras/industrial/010157-book-sewing-machines-fig-two-kinds-one-sews-books.md",
    "at": "2026-11-17T23:02:34+00:00"
+  },
+  {
+   "slug": "martini-book-sewing-machine-which-sews-books-tape-without",
+   "title": "The Martini book-sewing machine, which sews books on tape without",
+   "era": "industrial",
+   "file": "eras/industrial/010158-martini-book-sewing-machine-which-sews-books-tape-without.md",
+   "at": "2026-11-17T23:12:30+00:00"
   }
  ]
 }
