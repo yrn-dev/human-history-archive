@@ -1,5 +1,5 @@
 {
- "count": 7784,
+ "count": 7785,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54488,6 +54488,13 @@
    "era": "modern",
    "file": "eras/modern/010035-limousin-he-born-14th-july-1675-age.md",
    "at": "2026-11-17T01:04:02+00:00"
+  },
+  {
+   "slug": "italian-campaigns-catinat-villeroi-vendome",
+   "title": "Italian campaigns under Catinat, Villeroi and Vendome, and in the",
+   "era": "modern",
+   "file": "eras/modern/010036-italian-campaigns-catinat-villeroi-vendome.md",
+   "at": "2026-11-17T01:13:35+00:00"
   }
  ]
 }
