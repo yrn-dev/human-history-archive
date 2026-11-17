@@ -1,5 +1,5 @@
 {
- "count": 7909,
+ "count": 7910,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55363,6 +55363,13 @@
    "era": "industrial",
    "file": "eras/industrial/010160-machine-making-cases-case-covers-fig-12-books.md",
    "at": "2026-11-17T23:32:32+00:00"
+  },
+  {
+   "slug": "smyth-casing-in-machine-fig-13-pastes-sides-book",
+   "title": "The Smyth casing-in machine (fig. 13) pastes the sides of a book as",
+   "era": "industrial",
+   "file": "eras/industrial/010161-smyth-casing-in-machine-fig-13-pastes-sides-book.md",
+   "at": "2026-11-17T23:42:29+00:00"
   }
  ]
 }
