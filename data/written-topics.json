@@ -1,5 +1,5 @@
 {
- "count": 7833,
+ "count": 7834,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54831,6 +54831,13 @@
    "era": "cultures",
    "file": "eras/cultures/010084-bonze-japanese-bonzo-probably-mispronunciation-chinese.md",
    "at": "2026-11-17T10:03:39+00:00"
+  },
+  {
+   "slug": "book-common-name-any-literary-production-some-bulk-now",
+   "title": "BOOK, the common name for any literary production of some bulk, now",
+   "era": "industrial",
+   "file": "eras/industrial/010085-book-common-name-any-literary-production-some-bulk-now.md",
+   "at": "2026-11-17T10:13:13+00:00"
   }
  ]
 }
