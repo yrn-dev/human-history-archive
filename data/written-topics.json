@@ -1,5 +1,5 @@
 {
- "count": 7830,
+ "count": 7831,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54810,6 +54810,13 @@
    "era": "modern",
    "file": "eras/modern/010081-etudes-de-homme-ou-recherches-sur-les-facultes-de-penser-et-de.md",
    "at": "2026-11-17T09:23:08+00:00"
+  },
+  {
+   "slug": "sainte-beuve-causeries-du-lundi",
+   "title": "Sainte-Beuve's Causeries du Lundi.     (W. A. B. C.)",
+   "era": "modern",
+   "file": "eras/modern/010082-sainte-beuve-causeries-du-lundi.md",
+   "at": "2026-11-17T09:43:09+00:00"
   }
  ]
 }
