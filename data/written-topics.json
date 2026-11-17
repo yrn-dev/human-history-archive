@@ -1,5 +1,5 @@
 {
- "count": 7780,
+ "count": 7781,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54460,6 +54460,13 @@
    "era": "industrial",
    "file": "eras/industrial/010031-bonnet-complete-works-appeared-neuchatel-1779-1783-partly.md",
    "at": "2026-11-17T00:23:41+00:00"
+  },
+  {
+   "slug": "philosophical-critical-inquiries-concerning-christianity-see",
+   "title": "Philosophical and Critical Inquiries concerning Christianity. See",
+   "era": "modern",
+   "file": "eras/modern/010032-philosophical-critical-inquiries-concerning-christianity-see.md",
+   "at": "2026-11-17T00:34:05+00:00"
   }
  ]
 }
