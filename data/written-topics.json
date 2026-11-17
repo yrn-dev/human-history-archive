@@ -1,5 +1,5 @@
 {
- "count": 7841,
+ "count": 7842,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54887,6 +54887,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010092-bezae-6th-century-only-one-date-invention.md",
    "at": "2026-11-17T11:23:05+00:00"
+  },
+  {
+   "slug": "15th-century-red-leather-bindings-predominant-biblioteca",
+   "title": "15th-century red leather bindings predominant in the Biblioteca",
+   "era": "renaissance",
+   "file": "eras/renaissance/010093-15th-century-red-leather-bindings-predominant-biblioteca.md",
+   "at": "2026-11-17T11:33:09+00:00"
   }
  ]
 }
