@@ -1,5 +1,5 @@
 {
- "count": 7870,
+ "count": 7871,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55090,6 +55090,13 @@
    "era": "industrial",
    "file": "eras/industrial/010121-bindings-covers-protect-written-printed-matter-always.md",
    "at": "2026-11-17T16:23:16+00:00"
+  },
+  {
+   "slug": "pompeii-1875-several-diptychs-found-wooden-leaves",
+   "title": "At Pompeii in 1875 several diptychs were found, the wooden leaves",
+   "era": "ancient",
+   "file": "eras/ancient/010122-pompeii-1875-several-diptychs-found-wooden-leaves.md",
+   "at": "2026-11-17T16:33:00+00:00"
   }
  ]
 }
