@@ -1,5 +1,5 @@
 {
- "count": 7907,
+ "count": 7908,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55349,6 +55349,13 @@
    "era": "industrial",
    "file": "eras/industrial/010158-martini-book-sewing-machine-which-sews-books-tape-without.md",
    "at": "2026-11-17T23:12:30+00:00"
+  },
+  {
+   "slug": "machine-rounding-backing-sewn-books-requires-rather",
+   "title": "The machine for rounding and backing sewn books requires a rather",
+   "era": "industrial",
+   "file": "eras/industrial/010159-machine-rounding-backing-sewn-books-requires-rather.md",
+   "at": "2026-11-17T23:22:31+00:00"
   }
  ]
 }
