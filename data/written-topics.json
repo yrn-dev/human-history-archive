@@ -1,5 +1,5 @@
 {
- "count": 7790,
+ "count": 7791,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54530,6 +54530,13 @@
    "era": "industrial",
    "file": "eras/industrial/010041-bonneville-benjamin-1795-1878-american-military-engineer.md",
    "at": "2026-11-17T02:04:12+00:00"
+  },
+  {
+   "slug": "states-early-youth-graduated-united-states-military",
+   "title": "States in early youth, and graduated at the United States Military",
+   "era": "industrial",
+   "file": "eras/industrial/010042-states-early-youth-graduated-united-states-military.md",
+   "at": "2026-11-17T02:14:24+00:00"
   }
  ]
 }
