@@ -1,5 +1,5 @@
 {
- "count": 7874,
+ "count": 7875,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55118,6 +55118,13 @@
    "era": "ancient",
    "file": "eras/ancient/010125-rolls-papyrus-vellum-paper-written-upon-three-ways.md",
    "at": "2026-11-17T17:04:13+00:00"
+  },
+  {
+   "slug": "short-lines-right-angles-length-roll-long",
+   "title": "In short lines, at right angles to the length of the roll. (2) In long",
+   "era": "ancient",
+   "file": "eras/ancient/010126-short-lines-right-angles-length-roll-long.md",
+   "at": "2026-11-17T17:12:44+00:00"
   }
  ]
 }
