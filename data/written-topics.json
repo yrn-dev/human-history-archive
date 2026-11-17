@@ -1,5 +1,5 @@
 {
- "count": 7861,
+ "count": 7862,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55027,6 +55027,13 @@
    "era": "industrial",
    "file": "eras/industrial/010112-french-livres-a-vignettes-english-books-illustrated.md",
    "at": "2026-11-17T14:42:57+00:00"
+  },
+  {
+   "slug": "gravelot-other-french-artists-last-quarter-century",
+   "title": "Gravelot and other French artists. In the last quarter of the century",
+   "era": "modern",
+   "file": "eras/modern/010113-gravelot-other-french-artists-last-quarter-century.md",
+   "at": "2026-11-17T14:52:54+00:00"
   }
  ]
 }
