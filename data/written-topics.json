@@ -1,5 +1,5 @@
 {
- "count": 7829,
+ "count": 7830,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54803,6 +54803,13 @@
    "era": "industrial",
    "file": "eras/industrial/010080-recherches-sur-la-nature-et-les-lois-de-imagination-1807.md",
    "at": "2026-11-17T09:13:09+00:00"
+  },
+  {
+   "slug": "etudes-de-homme-ou-recherches-sur-les-facultes-de-penser-et-de",
+   "title": "Etudes de l'homme, ou Recherches sur les facultes de penser et de",
+   "era": "modern",
+   "file": "eras/modern/010081-etudes-de-homme-ou-recherches-sur-les-facultes-de-penser-et-de.md",
+   "at": "2026-11-17T09:23:08+00:00"
   }
  ]
 }
