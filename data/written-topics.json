@@ -1,5 +1,5 @@
 {
- "count": 7831,
+ "count": 7832,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54817,6 +54817,13 @@
    "era": "modern",
    "file": "eras/modern/010082-sainte-beuve-causeries-du-lundi.md",
    "at": "2026-11-17T09:43:09+00:00"
+  },
+  {
+   "slug": "bonus-jocular-application-lat-bonus-bonum-good",
+   "title": "BONUS (a jocular application of the Lat. bonus, for bonum, \"a good",
+   "era": "modern",
+   "file": "eras/modern/010083-bonus-jocular-application-lat-bonus-bonum-good.md",
+   "at": "2026-11-17T09:53:07+00:00"
   }
  ]
 }
