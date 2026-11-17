@@ -1,5 +1,5 @@
 {
- "count": 7800,
+ "count": 7801,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54600,6 +54600,13 @@
    "era": "industrial",
    "file": "eras/industrial/010051-october-1797-where-negotiations-dragged-wearily-along.md",
    "at": "2026-11-17T03:43:26+00:00"
+  },
+  {
+   "slug": "bonnivet-guillaume-gouffier-seigneur-de-1488-1525-french",
+   "title": "BONNIVET, GUILLAUME GOUFFIER, SEIGNEUR DE (c. 1488-1525), French",
+   "era": "renaissance",
+   "file": "eras/renaissance/010052-bonnivet-guillaume-gouffier-seigneur-de-1488-1525-french.md",
+   "at": "2026-11-17T03:53:26+00:00"
   }
  ]
 }
