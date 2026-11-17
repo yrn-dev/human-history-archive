@@ -1,5 +1,5 @@
 {
- "count": 7838,
+ "count": 7839,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54866,6 +54866,13 @@
    "era": "ancient",
    "file": "eras/ancient/010089-known-papyrus-prisse-written-made-pith.md",
    "at": "2026-11-17T10:53:09+00:00"
+  },
+  {
+   "slug": "so-long-use-papyrus-predominant-usual-form-book",
+   "title": "So long as the use of papyrus was predominant the usual form of a book",
+   "era": "ancient",
+   "file": "eras/ancient/010090-so-long-use-papyrus-predominant-usual-form-book.md",
+   "at": "2026-11-17T11:04:50+00:00"
   }
  ]
 }
