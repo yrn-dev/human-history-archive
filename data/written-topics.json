@@ -1,5 +1,5 @@
 {
- "count": 7837,
+ "count": 7838,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54859,6 +54859,13 @@
    "era": "cultures",
    "file": "eras/cultures/010088-english-boc-beech-tree-though-not-free.md",
    "at": "2026-11-17T10:43:17+00:00"
+  },
+  {
+   "slug": "known-papyrus-prisse-written-made-pith",
+   "title": "(known as the Papyrus Prisse) is written, was made from the pith of a",
+   "era": "ancient",
+   "file": "eras/ancient/010089-known-papyrus-prisse-written-made-pith.md",
+   "at": "2026-11-17T10:53:09+00:00"
   }
  ]
 }
