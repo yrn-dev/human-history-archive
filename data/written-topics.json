@@ -1,5 +1,5 @@
 {
- "count": 7898,
+ "count": 7899,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55286,6 +55286,13 @@
    "era": "modern",
    "file": "eras/modern/010149-thomas-hollis-his-books-bound-fine-red-morocco-ornamented.md",
    "at": "2026-11-17T21:12:37+00:00"
+  },
+  {
+   "slug": "towards-end-18th-century-when-binding-england",
+   "title": "Towards the end of the 18th century, when binding in England was",
+   "era": "industrial",
+   "file": "eras/industrial/010150-towards-end-18th-century-when-binding-england.md",
+   "at": "2026-11-17T21:22:40+00:00"
   }
  ]
 }
