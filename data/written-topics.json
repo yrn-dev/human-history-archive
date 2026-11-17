@@ -1,5 +1,5 @@
 {
- "count": 7832,
+ "count": 7833,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54824,6 +54824,13 @@
    "era": "modern",
    "file": "eras/modern/010083-bonus-jocular-application-lat-bonus-bonum-good.md",
    "at": "2026-11-17T09:53:07+00:00"
+  },
+  {
+   "slug": "bonze-japanese-bonzo-probably-mispronunciation-chinese",
+   "title": "BONZE (from Japanese bonzo, probably a mispronunciation of Chinese",
+   "era": "cultures",
+   "file": "eras/cultures/010084-bonze-japanese-bonzo-probably-mispronunciation-chinese.md",
+   "at": "2026-11-17T10:03:39+00:00"
   }
  ]
 }
