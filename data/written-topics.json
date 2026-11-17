@@ -1,5 +1,5 @@
 {
- "count": 7864,
+ "count": 7865,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55048,6 +55048,13 @@
    "era": "industrial",
    "file": "eras/industrial/010115-19th-century---great-change-appearance-books-caused.md",
    "at": "2026-11-17T15:12:57+00:00"
+  },
+  {
+   "slug": "sixties-years-which-immediately-preceded-followed",
+   "title": "In the 'sixties and the years which immediately preceded and followed",
+   "era": "modern",
+   "file": "eras/modern/010116-sixties-years-which-immediately-preceded-followed.md",
+   "at": "2026-11-17T15:22:53+00:00"
   }
  ]
 }
