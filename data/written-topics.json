@@ -1,5 +1,5 @@
 {
- "count": 7867,
+ "count": 7868,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55069,6 +55069,13 @@
    "era": "industrial",
    "file": "eras/industrial/010118-see-publishing-bookselling-po.md",
    "at": "2026-11-17T15:43:00+00:00"
+  },
+  {
+   "slug": "roberts-printers-marks-london-1893-silvestre-marques",
+   "title": "Roberts's Printers' Marks (London, 1893); Silvestre's Marques",
+   "era": "industrial",
+   "file": "eras/industrial/010119-roberts-printers-marks-london-1893-silvestre-marques.md",
+   "at": "2026-11-17T15:52:54+00:00"
   }
  ]
 }
