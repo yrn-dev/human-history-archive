@@ -1,5 +1,5 @@
 {
- "count": 7882,
+ "count": 7883,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55174,6 +55174,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010133-limoges-enamel-british-museum-such-english-bindings.md",
    "at": "2026-11-17T18:22:41+00:00"
+  },
+  {
+   "slug": "when-printing-introduced-europe-middle-15th",
+   "title": "When printing was introduced into Europe about the middle of the 15th",
+   "era": "renaissance",
+   "file": "eras/renaissance/010134-when-printing-introduced-europe-middle-15th.md",
+   "at": "2026-11-17T18:32:51+00:00"
   }
  ]
 }
