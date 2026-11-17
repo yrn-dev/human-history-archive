@@ -1,5 +1,5 @@
 {
- "count": 7818,
+ "count": 7819,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54726,6 +54726,13 @@
    "era": "modern",
    "file": "eras/modern/010069-bonpland-aime-jacques-alexandre-1773-1858-french-traveller.md",
    "at": "2026-11-17T07:13:21+00:00"
+  },
+  {
+   "slug": "22nd-august-1773-serving-surgeon-french-army",
+   "title": "22nd of August 1773. After serving as a surgeon in the French army and",
+   "era": "modern",
+   "file": "eras/modern/010070-22nd-august-1773-serving-surgeon-french-army.md",
+   "at": "2026-11-17T07:23:20+00:00"
   }
  ]
 }
