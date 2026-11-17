@@ -1,5 +1,5 @@
 {
- "count": 7813,
+ "count": 7814,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54691,6 +54691,13 @@
    "era": "ancient",
    "file": "eras/ancient/010064-which-latter-immediately-preceded-etruscan.md",
    "at": "2026-11-17T06:23:24+00:00"
+  },
+  {
+   "slug": "1881-gozzadini-notizie-degli-scavi-1881-162-fire",
+   "title": "1881 (G. Gozzadini in Notizie degli Scavi, 1881, 162). After a fire in",
+   "era": "ancient",
+   "file": "eras/ancient/010065-1881-gozzadini-notizie-degli-scavi-1881-162-fire.md",
+   "at": "2026-11-17T06:33:45+00:00"
   }
  ]
 }
