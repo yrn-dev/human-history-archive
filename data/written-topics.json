@@ -1,5 +1,5 @@
 {
- "count": 7842,
+ "count": 7843,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54894,6 +54894,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010093-15th-century-red-leather-bindings-predominant-biblioteca.md",
    "at": "2026-11-17T11:33:09+00:00"
+  },
+  {
+   "slug": "manuscript-which-following-account-fortunes-books",
+   "title": "MANUSCRIPT, to which the following account of the fortunes of books",
+   "era": "cultures",
+   "file": "eras/cultures/010094-manuscript-which-following-account-fortunes-books.md",
+   "at": "2026-11-17T11:43:12+00:00"
   }
  ]
 }
