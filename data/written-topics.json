@@ -1,5 +1,5 @@
 {
- "count": 7860,
+ "count": 7861,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55020,6 +55020,13 @@
    "era": "industrial",
    "file": "eras/industrial/010111-18th-century---during-century-there-notable-improvement.md",
    "at": "2026-11-17T14:33:02+00:00"
+  },
+  {
+   "slug": "french-livres-a-vignettes-english-books-illustrated",
+   "title": "French livres-a-vignettes, and English books were illustrated by",
+   "era": "industrial",
+   "file": "eras/industrial/010112-french-livres-a-vignettes-english-books-illustrated.md",
+   "at": "2026-11-17T14:42:57+00:00"
   }
  ]
 }
