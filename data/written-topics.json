@@ -1,5 +1,5 @@
 {
- "count": 7908,
+ "count": 7909,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55356,6 +55356,13 @@
    "era": "industrial",
    "file": "eras/industrial/010159-machine-rounding-backing-sewn-books-requires-rather.md",
    "at": "2026-11-17T23:22:31+00:00"
+  },
+  {
+   "slug": "machine-making-cases-case-covers-fig-12-books",
+   "title": "The machine for making cases, or \"case\" covers (fig. 12), for books is",
+   "era": "industrial",
+   "file": "eras/industrial/010160-machine-making-cases-case-covers-fig-12-books.md",
+   "at": "2026-11-17T23:32:32+00:00"
   }
  ]
 }
