@@ -1,5 +1,5 @@
 {
- "count": 7845,
+ "count": 7846,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54915,6 +54915,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010096-sermo-ad-populum-predicabilis-festo-presentacionis-beatissime-marie.md",
    "at": "2026-11-17T12:03:10+00:00"
+  },
+  {
+   "slug": "semper-virginis-some-words-praise-date-1470-roman",
+   "title": "Semper Virginis, with some words in its praise, the date 1470 in roman",
+   "era": "renaissance",
+   "file": "eras/renaissance/010097-semper-virginis-some-words-praise-date-1470-roman.md",
+   "at": "2026-11-17T12:13:23+00:00"
   }
  ]
 }
