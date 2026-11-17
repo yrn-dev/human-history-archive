@@ -1,5 +1,5 @@
 {
- "count": 7820,
+ "count": 7821,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54740,6 +54740,13 @@
    "era": "industrial",
    "file": "eras/industrial/010071-1808-1816-returning-paris-he-received-pension.md",
    "at": "2026-11-17T07:34:18+00:00"
+  },
+  {
+   "slug": "buenos-aires-where-he-elected-professor-natural-history",
+   "title": "Buenos Aires, where he was elected professor of natural history, an",
+   "era": "modern",
+   "file": "eras/modern/010072-buenos-aires-where-he-elected-professor-natural-history.md",
+   "at": "2026-11-17T07:44:14+00:00"
   }
  ]
 }
