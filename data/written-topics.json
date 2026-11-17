@@ -1,5 +1,5 @@
 {
- "count": 7844,
+ "count": 7845,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -54908,6 +54908,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010095-printer-type-see-typography-would-rule-based.md",
    "at": "2026-11-17T11:53:18+00:00"
+  },
+  {
+   "slug": "sermo-ad-populum-predicabilis-festo-presentacionis-beatissime-marie",
+   "title": "Sermo ad populum predicabilis in festo presentacionis Beatissime Marie",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010096-sermo-ad-populum-predicabilis-festo-presentacionis-beatissime-marie.md",
+   "at": "2026-11-17T12:03:10+00:00"
   }
  ]
 }
