@@ -1,5 +1,5 @@
 {
- "count": 7969,
+ "count": 7970,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55783,6 +55783,13 @@
    "era": "modern",
    "file": "eras/modern/010220-great-book-collectors-charles-mary-elton-1893-english.md",
    "at": "2026-11-18T10:12:00+00:00"
+  },
+  {
+   "slug": "book-collectors-fletcher-1902-guigard-nouvel-armorial",
+   "title": "Book-Collectors by W.Y. Fletcher (1902) and Guigard's Nouvel armorial",
+   "era": "modern",
+   "file": "eras/modern/010221-book-collectors-fletcher-1902-guigard-nouvel-armorial.md",
+   "at": "2026-11-18T10:21:56+00:00"
   }
  ]
 }
