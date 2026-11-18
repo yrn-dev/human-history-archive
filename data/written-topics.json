@@ -1,5 +1,5 @@
 {
- "count": 8038,
+ "count": 8039,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56266,6 +56266,13 @@
    "era": "modern",
    "file": "eras/modern/010289-hogarth-bartolozzi-john-pine-george-vertue-landscape-plates.md",
    "at": "2026-11-18T22:34:44+00:00"
+  },
+  {
+   "slug": "restoration-exemplified-nicholas-bacon-plate-jacobean",
+   "title": "Restoration, exemplified by the Nicholas Bacon plate); Jacobean, a",
+   "era": "renaissance",
+   "file": "eras/renaissance/010290-restoration-exemplified-nicholas-bacon-plate-jacobean.md",
+   "at": "2026-11-18T22:44:40+00:00"
   }
  ]
 }
