@@ -1,5 +1,5 @@
 {
- "count": 7970,
+ "count": 7971,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55790,6 +55790,13 @@
    "era": "modern",
    "file": "eras/modern/010221-book-collectors-fletcher-1902-guigard-nouvel-armorial.md",
    "at": "2026-11-18T10:21:56+00:00"
+  },
+  {
+   "slug": "george-iii-first-printed-editions-greek-latin",
+   "title": "George III. for the first printed editions of the Greek and Latin",
+   "era": "modern",
+   "file": "eras/modern/010222-george-iii-first-printed-editions-greek-latin.md",
+   "at": "2026-11-18T10:32:54+00:00"
   }
  ]
 }
