@@ -1,5 +1,5 @@
 {
- "count": 7983,
+ "count": 7984,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55881,6 +55881,13 @@
    "era": "modern",
    "file": "eras/modern/010234-auction-prices-books-1905-while-largely-influenced-fashion.md",
    "at": "2026-11-18T12:35:11+00:00"
+  },
+  {
+   "slug": "book-keeping-systematic-record-business-transactions-form",
+   "title": "BOOK-KEEPING, a systematic record of business transactions, in a form",
+   "era": "modern",
+   "file": "eras/modern/010235-book-keeping-systematic-record-business-transactions-form.md",
+   "at": "2026-11-18T12:45:15+00:00"
   }
  ]
 }
