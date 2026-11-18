@@ -1,5 +1,5 @@
 {
- "count": 8020,
+ "count": 8021,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56140,6 +56140,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010271-book-plates-book-plate-ex-libris-printed-label-intended.md",
    "at": "2026-11-18T19:14:51+00:00"
+  },
+  {
+   "slug": "earliest-known-examples-book-plates-german-according",
+   "title": "The earliest known examples of book-plates are German. According to",
+   "era": "renaissance",
+   "file": "eras/renaissance/010272-earliest-known-examples-book-plates-german-according.md",
+   "at": "2026-11-18T19:24:52+00:00"
   }
  ]
 }
