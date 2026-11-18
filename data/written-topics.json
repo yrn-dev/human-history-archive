@@ -1,5 +1,5 @@
 {
- "count": 8042,
+ "count": 8043,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56294,6 +56294,13 @@
    "era": "modern",
    "file": "eras/modern/010293-states-most-them-issuing-journal-archives-journal.md",
    "at": "2026-11-18T23:14:40+00:00"
+  },
+  {
+   "slug": "ex-libris-society-london-archives-de-la-societe-francaise-de",
+   "title": "Ex-libris Society (London), the Archives de la societe francaise de",
+   "era": "modern",
+   "file": "eras/modern/010294-ex-libris-society-london-archives-de-la-societe-francaise-de.md",
+   "at": "2026-11-18T23:24:31+00:00"
   }
  ]
 }
