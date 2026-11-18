@@ -1,5 +1,5 @@
 {
- "count": 8002,
+ "count": 8003,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56014,6 +56014,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010253-foregoing-example-customary-method-been-followed.md",
    "at": "2026-11-18T15:54:58+00:00"
+  },
+  {
+   "slug": "great-britain-north-america-latter-method-more-generally",
+   "title": "Great Britain and in North America the latter method more generally",
+   "era": "industrial",
+   "file": "eras/industrial/010254-great-britain-north-america-latter-method-more-generally.md",
+   "at": "2026-11-18T16:05:04+00:00"
   }
  ]
 }
