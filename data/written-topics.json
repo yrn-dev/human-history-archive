@@ -1,5 +1,5 @@
 {
- "count": 8005,
+ "count": 8006,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56035,6 +56035,13 @@
    "era": "modern",
    "file": "eras/modern/010256-day-book-1906.md",
    "at": "2026-11-18T16:24:52+00:00"
+  },
+  {
+   "slug": "view-still-further-split-up-work-thus-enabling-large",
+   "title": "With a view still further to split up the work, thus enabling a large",
+   "era": "industrial",
+   "file": "eras/industrial/010257-view-still-further-split-up-work-thus-enabling-large.md",
+   "at": "2026-11-18T16:35:00+00:00"
   }
  ]
 }
