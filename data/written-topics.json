@@ -1,5 +1,5 @@
 {
- "count": 7929,
+ "count": 7930,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55503,6 +55503,13 @@
    "era": "industrial",
    "file": "eras/industrial/010180-england-time-antiquarian-reaction-produced.md",
    "at": "2026-11-18T02:52:19+00:00"
+  },
+  {
+   "slug": "almost-all-large-book-buyers-16th-17th-18th-centuries",
+   "title": "Almost all the large book-buyers of the 16th, 17th and 18th centuries",
+   "era": "renaissance",
+   "file": "eras/renaissance/010181-almost-all-large-book-buyers-16th-17th-18th-centuries.md",
+   "at": "2026-11-18T03:12:19+00:00"
   }
  ]
 }
