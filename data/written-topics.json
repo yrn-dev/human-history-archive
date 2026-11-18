@@ -1,5 +1,5 @@
 {
- "count": 8001,
+ "count": 8002,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56007,6 +56007,13 @@
    "era": "ancient",
    "file": "eras/ancient/010252-dr-side-consistent-rules-already-laid-down.md",
    "at": "2026-11-18T15:44:54+00:00"
+  },
+  {
+   "slug": "foregoing-example-customary-method-been-followed",
+   "title": "In the foregoing example the customary method has been followed of",
+   "era": "renaissance",
+   "file": "eras/renaissance/010253-foregoing-example-customary-method-been-followed.md",
+   "at": "2026-11-18T15:54:58+00:00"
   }
  ]
 }
