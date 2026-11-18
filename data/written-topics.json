@@ -1,5 +1,5 @@
 {
- "count": 7914,
+ "count": 7915,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55398,6 +55398,13 @@
    "era": "industrial",
    "file": "eras/industrial/010165-gold-work-block-kept-proper-temperature-means.md",
    "at": "2026-11-18T00:22:25+00:00"
+  },
+  {
+   "slug": "davenport-royal-english-bookbindings-1896-cantor-lectures",
+   "title": "Davenport, Royal English Bookbindings (1896), Cantor Lectures on",
+   "era": "industrial",
+   "file": "eras/industrial/010166-davenport-royal-english-bookbindings-1896-cantor-lectures.md",
+   "at": "2026-11-18T00:32:29+00:00"
   }
  ]
 }
