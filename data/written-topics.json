@@ -1,5 +1,5 @@
 {
- "count": 7981,
+ "count": 7982,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55867,6 +55867,13 @@
    "era": "modern",
    "file": "eras/modern/010232-book-prices-current-published-annually-since-1887.md",
    "at": "2026-11-18T12:15:14+00:00"
+  },
+  {
+   "slug": "livingston-american-book-prices-current-same-author",
+   "title": "Livingston's American Book Prices Current, and in the same author's",
+   "era": "industrial",
+   "file": "eras/industrial/010233-livingston-american-book-prices-current-same-author.md",
+   "at": "2026-11-18T12:25:08+00:00"
   }
  ]
 }
