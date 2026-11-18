@@ -1,5 +1,5 @@
 {
- "count": 7917,
+ "count": 7918,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55419,6 +55419,13 @@
    "era": "modern",
    "file": "eras/modern/010168-foreign-bookbindings-british-museum-1896-gruel-manuel.md",
    "at": "2026-11-18T00:52:27+00:00"
+  },
+  {
+   "slug": "thoinan-les-relieurs-francais-1893-uzanne-la-relieure",
+   "title": "Thoinan, Les Relieurs francais (1893); O. Uzanne, La Relieure",
+   "era": "industrial",
+   "file": "eras/industrial/010169-thoinan-les-relieurs-francais-1893-uzanne-la-relieure.md",
+   "at": "2026-11-18T01:02:23+00:00"
   }
  ]
 }
