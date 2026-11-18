@@ -1,5 +1,5 @@
 {
- "count": 8039,
+ "count": 8040,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56273,6 +56273,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010290-restoration-exemplified-nicholas-bacon-plate-jacobean.md",
    "at": "2026-11-18T22:44:40+00:00"
+  },
+  {
+   "slug": "lansanor-plate-fig-typically-jacobean-chippendale",
+   "title": "(the Lansanor plate, fig. 5, is typically Jacobean); Chippendale (the",
+   "era": "modern",
+   "file": "eras/modern/010291-lansanor-plate-fig-typically-jacobean-chippendale.md",
+   "at": "2026-11-18T22:54:41+00:00"
   }
  ]
 }
