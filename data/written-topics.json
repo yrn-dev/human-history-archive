@@ -1,5 +1,5 @@
 {
- "count": 7975,
+ "count": 7976,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55825,6 +55825,13 @@
    "era": "modern",
    "file": "eras/modern/010226-collections-notes-1876-1903-more-recent-books.md",
    "at": "2026-11-18T11:12:30+00:00"
+  },
+  {
+   "slug": "slater-early-editions-bibliographical-survey-works-some",
+   "title": "Slater's Early Editions, a bibliographical survey of the works of some",
+   "era": "industrial",
+   "file": "eras/industrial/010227-slater-early-editions-bibliographical-survey-works-some.md",
+   "at": "2026-11-18T11:22:09+00:00"
   }
  ]
 }
