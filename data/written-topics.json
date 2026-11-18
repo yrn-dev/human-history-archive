@@ -1,5 +1,5 @@
 {
- "count": 7993,
+ "count": 7994,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55951,6 +55951,13 @@
    "era": "industrial",
    "file": "eras/industrial/010244-state-affairs-31st-december-1906.md",
    "at": "2026-11-18T14:15:11+00:00"
+  },
+  {
+   "slug": "essential-principle-double-entry-constitutes",
+   "title": "The essential principle of double-entry is that it constitutes a",
+   "era": "industrial",
+   "file": "eras/industrial/010245-essential-principle-double-entry-constitutes.md",
+   "at": "2026-11-18T14:25:06+00:00"
   }
  ]
 }
