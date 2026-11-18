@@ -1,5 +1,5 @@
 {
- "count": 7959,
+ "count": 7960,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55713,6 +55713,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010210-1469-1525-1892-new-edition-1906-germany-muther-die-deutsche.md",
    "at": "2026-11-18T08:32:02+00:00"
+  },
+  {
+   "slug": "bucherillustration-der-gothik-und-fruhrenaissance-1884-holland",
+   "title": "Bucherillustration der Gothik und Fruhrenaissance (1884); for Holland",
+   "era": "renaissance",
+   "file": "eras/renaissance/010211-bucherillustration-der-gothik-und-fruhrenaissance-1884-holland.md",
+   "at": "2026-11-18T08:41:59+00:00"
   }
  ]
 }
