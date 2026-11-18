@@ -1,5 +1,5 @@
 {
- "count": 7960,
+ "count": 7961,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55720,6 +55720,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010211-bucherillustration-der-gothik-und-fruhrenaissance-1884-holland.md",
    "at": "2026-11-18T08:41:59+00:00"
+  },
+  {
+   "slug": "claudin-histoire-de-imprimerie-en-france-1900-some",
+   "title": "Claudin's Histoire de l'imprimerie en France (1900, &c.). Some",
+   "era": "industrial",
+   "file": "eras/industrial/010212-claudin-histoire-de-imprimerie-en-france-1900-some.md",
+   "at": "2026-11-18T08:51:55+00:00"
   }
  ]
 }
