@@ -1,5 +1,5 @@
 {
- "count": 8013,
+ "count": 8014,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56091,6 +56091,13 @@
    "era": "modern",
    "file": "eras/modern/010264-university-london-university-birmingham-victoria.md",
    "at": "2026-11-18T17:54:47+00:00"
+  },
+  {
+   "slug": "university-manchester-so-far-alone-treated-subject",
+   "title": "University of Manchester have, so far, alone treated the subject",
+   "era": "modern",
+   "file": "eras/modern/010265-university-manchester-so-far-alone-treated-subject.md",
+   "at": "2026-11-18T18:04:46+00:00"
   }
  ]
 }
