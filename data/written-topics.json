@@ -1,5 +1,5 @@
 {
- "count": 8028,
+ "count": 8029,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56196,6 +56196,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010279-heavy-over-elaborated-german-style-never-seems-affected.md",
    "at": "2026-11-18T20:44:40+00:00"
+  },
+  {
+   "slug": "durer-1515-reduced",
+   "title": "Durer, 1515 (reduced).]",
+   "era": "renaissance",
+   "file": "eras/renaissance/010280-durer-1515-reduced.md",
+   "at": "2026-11-18T20:54:45+00:00"
   }
  ]
 }
