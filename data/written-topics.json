@@ -1,5 +1,5 @@
 {
- "count": 8025,
+ "count": 8026,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56175,6 +56175,13 @@
    "era": "cultures",
    "file": "eras/cultures/010276-sketch-history-book-plate-either-minor-work.md",
    "at": "2026-11-18T20:14:50+00:00"
+  },
+  {
+   "slug": "virgil-solis-matthias-zundt-jost-amman-saldorfer-georg-hupschmann",
+   "title": "Virgil Solis, Matthias Zundt, Jost Amman, Saldorfer, Georg Hupschmann",
+   "era": "renaissance",
+   "file": "eras/renaissance/010277-virgil-solis-matthias-zundt-jost-amman-saldorfer-georg-hupschmann.md",
+   "at": "2026-11-18T20:24:38+00:00"
   }
  ]
 }
