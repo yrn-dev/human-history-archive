@@ -1,5 +1,5 @@
 {
- "count": 7980,
+ "count": 7981,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55860,6 +55860,13 @@
    "era": "cultures",
    "file": "eras/cultures/010231-financial-side-book-collecting-may-studied-slater.md",
    "at": "2026-11-18T12:05:13+00:00"
+  },
+  {
+   "slug": "book-prices-current-published-annually-since-1887",
+   "title": "Book-Prices Current, published annually since 1887, and in",
+   "era": "modern",
+   "file": "eras/modern/010232-book-prices-current-published-annually-since-1887.md",
+   "at": "2026-11-18T12:15:14+00:00"
   }
  ]
 }
