@@ -1,5 +1,5 @@
 {
- "count": 7986,
+ "count": 7987,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55902,6 +55902,13 @@
    "era": "ancient",
    "file": "eras/ancient/010237-origin-book-keeping-lost-obscurity-but-recent-researches.md",
    "at": "2026-11-18T13:05:09+00:00"
+  },
+  {
+   "slug": "present-time-may-generally-stated-all-book-keeping",
+   "title": "At the present-time it may be generally stated that all book-keeping",
+   "era": "modern",
+   "file": "eras/modern/010238-present-time-may-generally-stated-all-book-keeping.md",
+   "at": "2026-11-18T13:15:16+00:00"
   }
  ]
 }
