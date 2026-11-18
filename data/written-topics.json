@@ -1,5 +1,5 @@
 {
- "count": 7928,
+ "count": 7929,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55496,6 +55496,13 @@
    "era": "ancient",
    "file": "eras/ancient/010179-but-they-brought-their-books-together-use-study-read.md",
    "at": "2026-11-18T02:42:26+00:00"
+  },
+  {
+   "slug": "england-time-antiquarian-reaction-produced",
+   "title": "England at the time of the antiquarian reaction produced by the",
+   "era": "industrial",
+   "file": "eras/industrial/010180-england-time-antiquarian-reaction-produced.md",
+   "at": "2026-11-18T02:52:19+00:00"
   }
  ]
 }
