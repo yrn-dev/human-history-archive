@@ -1,5 +1,5 @@
 {
- "count": 7992,
+ "count": 7993,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55944,6 +55944,13 @@
    "era": "industrial",
    "file": "eras/industrial/010243-so-early-date-other-accounts-added-ledger-recording.md",
    "at": "2026-11-18T14:05:11+00:00"
+  },
+  {
+   "slug": "state-affairs-31st-december-1906",
+   "title": "STATE OF AFFAIRS AS AT 31ST DECEMBER 1906",
+   "era": "industrial",
+   "file": "eras/industrial/010244-state-affairs-31st-december-1906.md",
+   "at": "2026-11-18T14:15:11+00:00"
   }
  ]
 }
