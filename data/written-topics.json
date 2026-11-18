@@ -1,5 +1,5 @@
 {
- "count": 8004,
+ "count": 8005,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56028,6 +56028,13 @@
    "era": "modern",
    "file": "eras/modern/010255-journal-1906.md",
    "at": "2026-11-18T16:14:58+00:00"
+  },
+  {
+   "slug": "day-book-1906",
+   "title": "DAY BOOK 1906",
+   "era": "modern",
+   "file": "eras/modern/010256-day-book-1906.md",
+   "at": "2026-11-18T16:24:52+00:00"
   }
  ]
 }
