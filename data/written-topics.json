@@ -1,5 +1,5 @@
 {
- "count": 8024,
+ "count": 8025,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56168,6 +56168,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010275-nicholas-bacon-gift-plate-books-he-presented.md",
    "at": "2026-11-18T20:04:44+00:00"
+  },
+  {
+   "slug": "sketch-history-book-plate-either-minor-work",
+   "title": "A sketch of the history of the book-plate, either as a minor work of",
+   "era": "cultures",
+   "file": "eras/cultures/010276-sketch-history-book-plate-either-minor-work.md",
+   "at": "2026-11-18T20:14:50+00:00"
   }
  ]
 }
