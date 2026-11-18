@@ -1,5 +1,5 @@
 {
- "count": 7942,
+ "count": 7943,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55594,6 +55594,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010193-shakespearian-treasures-enriched-trinity-college-cambridge-those.md",
    "at": "2026-11-18T05:32:13+00:00"
+  },
+  {
+   "slug": "marlborough-time-marquess-blandford-edition",
+   "title": "Marlborough (at that time marquess of Blandford) for an edition of",
+   "era": "modern",
+   "file": "eras/modern/010194-marlborough-time-marquess-blandford-edition.md",
+   "at": "2026-11-18T05:42:07+00:00"
   }
  ]
 }
