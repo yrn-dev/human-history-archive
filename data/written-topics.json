@@ -1,5 +1,5 @@
 {
- "count": 7984,
+ "count": 7985,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55888,6 +55888,13 @@
    "era": "modern",
    "file": "eras/modern/010235-book-keeping-systematic-record-business-transactions-form.md",
    "at": "2026-11-18T12:45:15+00:00"
+  },
+  {
+   "slug": "such-verification-called-audit-case-public",
+   "title": "Such a verification is called an audit, and in the case of public and",
+   "era": "modern",
+   "file": "eras/modern/010236-such-verification-called-audit-case-public.md",
+   "at": "2026-11-18T12:55:13+00:00"
   }
  ]
 }
