@@ -1,5 +1,5 @@
 {
- "count": 7916,
+ "count": 7917,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55412,6 +55412,13 @@
    "era": "industrial",
    "file": "eras/industrial/010167-bookbinding-1898-english-embroidered-bookbindings-1899-life.md",
    "at": "2026-11-18T00:42:28+00:00"
+  },
+  {
+   "slug": "foreign-bookbindings-british-museum-1896-gruel-manuel",
+   "title": "Foreign Bookbindings in the British Museum (1896); L. Gruel, Manuel",
+   "era": "modern",
+   "file": "eras/modern/010168-foreign-bookbindings-british-museum-1896-gruel-manuel.md",
+   "at": "2026-11-18T00:52:27+00:00"
   }
  ]
 }
