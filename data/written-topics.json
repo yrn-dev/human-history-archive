@@ -1,5 +1,5 @@
 {
- "count": 8018,
+ "count": 8019,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56126,6 +56126,13 @@
    "era": "modern",
    "file": "eras/modern/010269-1906-advanced-accounting-2nd-ed-1905-encyclopaedia.md",
    "at": "2026-11-18T18:44:59+00:00"
+  },
+  {
+   "slug": "accounting-ed-lisle-1903-accountants-library-ed",
+   "title": "Accounting, ed. by G. Lisle (1903); Accountants' Library, ed. by",
+   "era": "industrial",
+   "file": "eras/industrial/010270-accounting-ed-lisle-1903-accountants-library-ed.md",
+   "at": "2026-11-18T18:54:42+00:00"
   }
  ]
 }
