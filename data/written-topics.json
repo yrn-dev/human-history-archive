@@ -1,5 +1,5 @@
 {
- "count": 7915,
+ "count": 7916,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55405,6 +55405,13 @@
    "era": "industrial",
    "file": "eras/industrial/010166-davenport-royal-english-bookbindings-1896-cantor-lectures.md",
    "at": "2026-11-18T00:32:29+00:00"
+  },
+  {
+   "slug": "bookbinding-1898-english-embroidered-bookbindings-1899-life",
+   "title": "Bookbinding (1898), English Embroidered Bookbindings (1899), Life",
+   "era": "industrial",
+   "file": "eras/industrial/010167-bookbinding-1898-english-embroidered-bookbindings-1899-life.md",
+   "at": "2026-11-18T00:42:28+00:00"
   }
  ]
 }
