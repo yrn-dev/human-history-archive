@@ -1,5 +1,5 @@
 {
- "count": 7999,
+ "count": 8000,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55993,6 +55993,13 @@
    "era": "industrial",
    "file": "eras/industrial/010250-53-trade-debtors-842.md",
    "at": "2026-11-18T15:15:02+00:00"
+  },
+  {
+   "slug": "c56-cash-bank-169",
+   "title": "C56 | Cash at bank            |   4,169  5  5 |",
+   "era": "industrial",
+   "file": "eras/industrial/010251-c56-cash-bank-169.md",
+   "at": "2026-11-18T15:35:08+00:00"
   }
  ]
 }
