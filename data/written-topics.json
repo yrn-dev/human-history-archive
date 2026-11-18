@@ -1,5 +1,5 @@
 {
- "count": 7963,
+ "count": 7964,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55741,6 +55741,13 @@
    "era": "modern",
    "file": "eras/modern/010214-xviii-siecle-5th-ed-1886-much-same-information.md",
    "at": "2026-11-18T09:12:00+00:00"
+  },
+  {
+   "slug": "15th-century-addition-works-mentioned-article",
+   "title": "15th century. In addition to the works mentioned in the article on",
+   "era": "renaissance",
+   "file": "eras/renaissance/010215-15th-century-addition-works-mentioned-article.md",
+   "at": "2026-11-18T09:22:02+00:00"
   }
  ]
 }
