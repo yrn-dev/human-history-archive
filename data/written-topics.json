@@ -1,5 +1,5 @@
 {
- "count": 8015,
+ "count": 8016,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56105,6 +56105,13 @@
    "era": "industrial",
    "file": "eras/industrial/010266-chamber-commerce-owens-college-manchester--which-hold.md",
    "at": "2026-11-18T18:14:44+00:00"
+  },
+  {
+   "slug": "authorities---those-interested-bibliography-book-keeping",
+   "title": "AUTHORITIES.--Those interested in the bibliography of book-keeping are",
+   "era": "renaissance",
+   "file": "eras/renaissance/010267-authorities---those-interested-bibliography-book-keeping.md",
+   "at": "2026-11-18T18:24:53+00:00"
   }
  ]
 }
