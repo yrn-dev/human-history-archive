@@ -1,5 +1,5 @@
 {
- "count": 8017,
+ "count": 8018,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56119,6 +56119,13 @@
    "era": "industrial",
    "file": "eras/industrial/010268-accountants-england-wales-which-probably-contains-most.md",
    "at": "2026-11-18T18:34:43+00:00"
+  },
+  {
+   "slug": "1906-advanced-accounting-2nd-ed-1905-encyclopaedia",
+   "title": "1906) and Advanced Accounting (2nd ed., 1905); Encyclopaedia of",
+   "era": "modern",
+   "file": "eras/modern/010269-1906-advanced-accounting-2nd-ed-1905-encyclopaedia.md",
+   "at": "2026-11-18T18:44:59+00:00"
   }
  ]
 }
