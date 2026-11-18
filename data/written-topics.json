@@ -1,5 +1,5 @@
 {
- "count": 7964,
+ "count": 7965,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55748,6 +55748,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010215-15th-century-addition-works-mentioned-article.md",
    "at": "2026-11-18T09:22:02+00:00"
+  },
+  {
+   "slug": "early-printers-engravers-1870-while-lippmann-druckschriften",
+   "title": "Early Printers and Engravers (1870), while Lippmann's Druckschriften",
+   "era": "industrial",
+   "file": "eras/industrial/010216-early-printers-engravers-1870-while-lippmann-druckschriften.md",
+   "at": "2026-11-18T09:32:05+00:00"
   }
  ]
 }
