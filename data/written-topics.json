@@ -1,5 +1,5 @@
 {
- "count": 7974,
+ "count": 7975,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55818,6 +55818,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010225-invention-printing-restoration-1867-his-subsequent.md",
    "at": "2026-11-18T11:02:11+00:00"
+  },
+  {
+   "slug": "collections-notes-1876-1903-more-recent-books",
+   "title": "Collections and Notes (1876-1903), and as to more recent books in",
+   "era": "modern",
+   "file": "eras/modern/010226-collections-notes-1876-1903-more-recent-books.md",
+   "at": "2026-11-18T11:12:30+00:00"
   }
  ]
 }
