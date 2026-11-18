@@ -1,5 +1,5 @@
 {
- "count": 8037,
+ "count": 8038,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56259,6 +56259,13 @@
    "era": "industrial",
    "file": "eras/industrial/010288-many-older-plates-like-majority-most-modern-ones.md",
    "at": "2026-11-18T22:14:41+00:00"
+  },
+  {
+   "slug": "hogarth-bartolozzi-john-pine-george-vertue-landscape-plates",
+   "title": "Hogarth, Bartolozzi, John Pine and George Vertue; landscape-plates, by",
+   "era": "modern",
+   "file": "eras/modern/010289-hogarth-bartolozzi-john-pine-george-vertue-landscape-plates.md",
+   "at": "2026-11-18T22:34:44+00:00"
   }
  ]
 }
