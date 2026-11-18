@@ -1,5 +1,5 @@
 {
- "count": 8003,
+ "count": 8004,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56021,6 +56021,13 @@
    "era": "industrial",
    "file": "eras/industrial/010254-great-britain-north-america-latter-method-more-generally.md",
    "at": "2026-11-18T16:05:04+00:00"
+  },
+  {
+   "slug": "journal-1906",
+   "title": "JOURNAL 1906",
+   "era": "modern",
+   "file": "eras/modern/010255-journal-1906.md",
+   "at": "2026-11-18T16:14:58+00:00"
   }
  ]
 }
