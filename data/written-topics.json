@@ -1,5 +1,5 @@
 {
- "count": 7997,
+ "count": 7998,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55979,6 +55979,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010248-drawings-500.md",
    "at": "2026-11-18T14:55:03+00:00"
+  },
+  {
+   "slug": "24-fixtures-furniture-269",
+   "title": "24 | Fixtures, furniture, &c.|   1,269  4  3 |",
+   "era": "industrial",
+   "file": "eras/industrial/010249-24-fixtures-furniture-269.md",
+   "at": "2026-11-18T15:05:07+00:00"
   }
  ]
 }
