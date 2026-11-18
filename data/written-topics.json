@@ -1,5 +1,5 @@
 {
- "count": 8045,
+ "count": 8046,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56315,6 +56315,13 @@
    "era": "modern",
    "file": "eras/modern/010296-marshall-faithorne-david-loggan-sir-robert-strange-francesco.md",
    "at": "2026-11-18T23:44:31+00:00"
+  },
+  {
+   "slug": "henshaw-hewitt-bewick-his-imitators-come-modern",
+   "title": "Henshaw, Hewitt or Bewick and his imitators; or, to come to modern",
+   "era": "industrial",
+   "file": "eras/industrial/010297-henshaw-hewitt-bewick-his-imitators-come-modern.md",
+   "at": "2026-11-18T23:54:35+00:00"
   }
  ]
 }
