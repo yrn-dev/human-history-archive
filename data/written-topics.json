@@ -1,5 +1,5 @@
 {
- "count": 7998,
+ "count": 7999,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55986,6 +55986,13 @@
    "era": "industrial",
    "file": "eras/industrial/010249-24-fixtures-furniture-269.md",
    "at": "2026-11-18T15:05:07+00:00"
+  },
+  {
+   "slug": "53-trade-debtors-842",
+   "title": "53 | Trade debtors           |   3,842  7  9 |",
+   "era": "industrial",
+   "file": "eras/industrial/010250-53-trade-debtors-842.md",
+   "at": "2026-11-18T15:15:02+00:00"
   }
  ]
 }
