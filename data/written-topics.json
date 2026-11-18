@@ -1,5 +1,5 @@
 {
- "count": 7918,
+ "count": 7919,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55426,6 +55426,13 @@
    "era": "industrial",
    "file": "eras/industrial/010169-thoinan-les-relieurs-francais-1893-uzanne-la-relieure.md",
    "at": "2026-11-18T01:02:23+00:00"
+  },
+  {
+   "slug": "(c.-d.)",
+   "title": "(C. D.)",
+   "era": "ancient",
+   "file": "eras/ancient/010170-(c.-d.).md",
+   "at": "2026-11-18T01:12:36+00:00"
   }
  ]
 }
