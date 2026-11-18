@@ -1,5 +1,5 @@
 {
- "count": 7995,
+ "count": 7996,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55965,6 +55965,13 @@
    "era": "ancient",
    "file": "eras/ancient/010246-such-list-called-trial-balance-example-which-given.md",
    "at": "2026-11-18T14:35:06+00:00"
+  },
+  {
+   "slug": "trial-balance-31st-december-1906",
+   "title": "TRIAL BALANCE, 31ST DECEMBER 1906",
+   "era": "industrial",
+   "file": "eras/industrial/010247-trial-balance-31st-december-1906.md",
+   "at": "2026-11-18T14:45:14+00:00"
   }
  ]
 }
