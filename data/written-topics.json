@@ -1,5 +1,5 @@
 {
- "count": 7943,
+ "count": 7944,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55601,6 +55601,13 @@
    "era": "modern",
    "file": "eras/modern/010194-marlborough-time-marquess-blandford-edition.md",
    "at": "2026-11-18T05:42:07+00:00"
+  },
+  {
+   "slug": "boccaccio-printed-valdarfer-venice-1471-led-formation",
+   "title": "Boccaccio printed by Valdarfer at Venice in 1471, led to the formation",
+   "era": "renaissance",
+   "file": "eras/renaissance/010195-boccaccio-printed-valdarfer-venice-1471-led-formation.md",
+   "at": "2026-11-18T05:52:07+00:00"
   }
  ]
 }
