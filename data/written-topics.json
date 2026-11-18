@@ -1,5 +1,5 @@
 {
- "count": 8019,
+ "count": 8020,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56133,6 +56133,13 @@
    "era": "industrial",
    "file": "eras/industrial/010270-accounting-ed-lisle-1903-accountants-library-ed.md",
    "at": "2026-11-18T18:54:42+00:00"
+  },
+  {
+   "slug": "book-plates-book-plate-ex-libris-printed-label-intended",
+   "title": "BOOK-PLATES. The book-plate, or ex-libris, a printed label intended to",
+   "era": "renaissance",
+   "file": "eras/renaissance/010271-book-plates-book-plate-ex-libris-printed-label-intended.md",
+   "at": "2026-11-18T19:14:51+00:00"
   }
  ]
 }
