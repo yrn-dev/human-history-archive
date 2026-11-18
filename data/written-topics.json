@@ -1,5 +1,5 @@
 {
- "count": 7946,
+ "count": 7947,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55622,6 +55622,13 @@
    "era": "modern",
    "file": "eras/modern/010197-mss-known-appendix-mr-pierpont-morgan-lindau.md",
    "at": "2026-11-18T06:12:04+00:00"
+  },
+  {
+   "slug": "gospels-collections-formed-mr-miller-1848-mainly",
+   "title": "Gospels). The collections formed by Mr W.H. Miller (d. 1848, mainly",
+   "era": "ancient",
+   "file": "eras/ancient/010198-gospels-collections-formed-mr-miller-1848-mainly.md",
+   "at": "2026-11-18T06:22:12+00:00"
   }
  ]
 }
