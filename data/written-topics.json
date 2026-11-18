@@ -1,5 +1,5 @@
 {
- "count": 8014,
+ "count": 8015,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56098,6 +56098,13 @@
    "era": "modern",
    "file": "eras/modern/010265-university-manchester-so-far-alone-treated-subject.md",
    "at": "2026-11-18T18:04:46+00:00"
+  },
+  {
+   "slug": "chamber-commerce-owens-college-manchester--which-hold",
+   "title": "Chamber of Commerce and Owens College, Manchester--which hold",
+   "era": "industrial",
+   "file": "eras/industrial/010266-chamber-commerce-owens-college-manchester--which-hold.md",
+   "at": "2026-11-18T18:14:44+00:00"
   }
  ]
 }
