@@ -1,5 +1,5 @@
 {
- "count": 8043,
+ "count": 8044,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56301,6 +56301,13 @@
    "era": "modern",
    "file": "eras/modern/010294-ex-libris-society-london-archives-de-la-societe-francaise-de.md",
    "at": "2026-11-18T23:24:31+00:00"
+  },
+  {
+   "slug": "little-masters-germany-charles-eisen-hubert-francois",
+   "title": "Little Masters of Germany, by Charles Eisen, Hubert Francois",
+   "era": "renaissance",
+   "file": "eras/renaissance/010295-little-masters-germany-charles-eisen-hubert-francois.md",
+   "at": "2026-11-18T23:34:31+00:00"
   }
  ]
 }
