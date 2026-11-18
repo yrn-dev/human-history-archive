@@ -1,5 +1,5 @@
 {
- "count": 7982,
+ "count": 7983,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55874,6 +55874,13 @@
    "era": "industrial",
    "file": "eras/industrial/010233-livingston-american-book-prices-current-same-author.md",
    "at": "2026-11-18T12:25:08+00:00"
+  },
+  {
+   "slug": "auction-prices-books-1905-while-largely-influenced-fashion",
+   "title": "Auction Prices of Books (1905). While largely influenced by fashion",
+   "era": "modern",
+   "file": "eras/modern/010234-auction-prices-books-1905-while-largely-influenced-fashion.md",
+   "at": "2026-11-18T12:35:11+00:00"
   }
  ]
 }
