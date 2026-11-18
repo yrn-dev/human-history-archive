@@ -1,5 +1,5 @@
 {
- "count": 8034,
+ "count": 8035,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56238,6 +56238,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010285-book-plates-period-offer-very-distinctive-characteristics.md",
    "at": "2026-11-18T21:44:43+00:00"
+  },
+  {
+   "slug": "french-revolution-english-modes-decoration-book-plates",
+   "title": "French Revolution, English modes of decoration in book-plates, as in",
+   "era": "modern",
+   "file": "eras/modern/010286-french-revolution-english-modes-decoration-book-plates.md",
+   "at": "2026-11-18T21:54:42+00:00"
   }
  ]
 }
