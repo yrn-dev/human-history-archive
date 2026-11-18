@@ -1,5 +1,5 @@
 {
- "count": 7989,
+ "count": 7990,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -55923,6 +55923,13 @@
    "era": "industrial",
    "file": "eras/industrial/010240-centre-all-book-keeping-systems-ledger-may.md",
    "at": "2026-11-18T13:35:11+00:00"
+  },
+  {
+   "slug": "earliest-examples-transactions-tending-reduce-indebtedness",
+   "title": "In the earliest examples transactions tending to reduce indebtedness",
+   "era": "ancient",
+   "file": "eras/ancient/010241-earliest-examples-transactions-tending-reduce-indebtedness.md",
+   "at": "2026-11-18T13:45:08+00:00"
   }
  ]
 }
