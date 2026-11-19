@@ -1,5 +1,5 @@
 {
- "count": 8106,
+ "count": 8107,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56742,6 +56742,13 @@
    "era": "industrial",
    "file": "eras/industrial/010357-1866-no-87.md",
    "at": "2026-11-19T10:04:57+00:00"
+  },
+  {
+   "slug": "boomerang-missile-weapon-australian-aborigines-other",
+   "title": "BOOMERANG, a missile weapon of the Australian aborigines and other",
+   "era": "cultures",
+   "file": "eras/cultures/010358-boomerang-missile-weapon-australian-aborigines-other.md",
+   "at": "2026-11-19T10:14:08+00:00"
   }
  ]
 }
