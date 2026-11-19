@@ -1,5 +1,5 @@
 {
- "count": 8143,
+ "count": 8144,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57001,6 +57001,13 @@
    "era": "cultures",
    "file": "eras/cultures/010394-fr-bote-modern-botte-med-lat-botta-bota-covering.md",
    "at": "2026-11-19T16:23:46+00:00"
+  },
+  {
+   "slug": "1709-not-used-england-1640-boot-made-iron",
+   "title": "1709. It was not used in England after 1640. The boot was made of iron",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010395-1709-not-used-england-1640-boot-made-iron.md",
+   "at": "2026-11-19T16:33:58+00:00"
   }
  ]
 }
