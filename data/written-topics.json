@@ -1,5 +1,5 @@
 {
- "count": 8155,
+ "count": 8156,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57085,6 +57085,13 @@
    "era": "ancient",
    "file": "eras/ancient/010406-his-eccentricities-sometimes-bordered-insanity-his-excited.md",
    "at": "2026-11-19T18:23:45+00:00"
+  },
+  {
+   "slug": "edwin-booth-first-regular-appearance-boston-museum",
+   "title": "Edwin Booth's first regular appearance was at the Boston Museum on the",
+   "era": "modern",
+   "file": "eras/modern/010407-edwin-booth-first-regular-appearance-boston-museum.md",
+   "at": "2026-11-19T18:34:24+00:00"
   }
  ]
 }
