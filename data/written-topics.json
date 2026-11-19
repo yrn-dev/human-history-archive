@@ -1,5 +1,5 @@
 {
- "count": 8094,
+ "count": 8095,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56658,6 +56658,13 @@
    "era": "industrial",
    "file": "eras/industrial/010345-boole-during-his-lifetime-well-known-treatise-differential.md",
    "at": "2026-11-19T08:04:57+00:00"
+  },
+  {
+   "slug": "equations-appeared-1859-followed-next-year",
+   "title": "Equations appeared in 1859, and was followed, the next year, by a",
+   "era": "industrial",
+   "file": "eras/industrial/010346-equations-appeared-1859-followed-next-year.md",
+   "at": "2026-11-19T08:14:16+00:00"
   }
  ]
 }
