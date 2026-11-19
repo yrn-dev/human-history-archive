@@ -1,5 +1,5 @@
 {
- "count": 8100,
+ "count": 8101,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56700,6 +56700,13 @@
    "era": "industrial",
    "file": "eras/industrial/010351-royal-society-british-museum-but-new-edition-never.md",
    "at": "2026-11-19T09:04:27+00:00"
+  },
+  {
+   "slug": "exception-augustus-de-morgan-boole-probably-first",
+   "title": "With the exception of Augustus de Morgan, Boole was probably the first",
+   "era": "industrial",
+   "file": "eras/industrial/010352-exception-augustus-de-morgan-boole-probably-first.md",
+   "at": "2026-11-19T09:14:32+00:00"
   }
  ]
 }
