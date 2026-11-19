@@ -1,5 +1,5 @@
 {
- "count": 8156,
+ "count": 8157,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57092,6 +57092,13 @@
    "era": "modern",
    "file": "eras/modern/010407-edwin-booth-first-regular-appearance-boston-museum.md",
    "at": "2026-11-19T18:34:24+00:00"
+  },
+  {
+   "slug": "10th-september-1849-tressel-his-father-richard-colley",
+   "title": "10th of September 1849, as Tressel to his father's Richard, in Colley",
+   "era": "industrial",
+   "file": "eras/industrial/010408-10th-september-1849-tressel-his-father-richard-colley.md",
+   "at": "2026-11-19T18:43:39+00:00"
   }
  ]
 }
