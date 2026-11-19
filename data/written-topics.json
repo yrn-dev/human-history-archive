@@ -1,5 +1,5 @@
 {
- "count": 8093,
+ "count": 8094,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56651,6 +56651,13 @@
    "era": "modern",
    "file": "eras/modern/010344-198-215-crelle-journal-these-lists-should-added.md",
    "at": "2026-11-19T07:54:22+00:00"
+  },
+  {
+   "slug": "boole-during-his-lifetime-well-known-treatise-differential",
+   "title": "Boole during his lifetime. The well-known Treatise on Differential",
+   "era": "industrial",
+   "file": "eras/industrial/010345-boole-during-his-lifetime-well-known-treatise-differential.md",
+   "at": "2026-11-19T08:04:57+00:00"
   }
  ]
 }
