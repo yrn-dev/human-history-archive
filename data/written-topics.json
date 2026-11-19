@@ -1,5 +1,5 @@
 {
- "count": 8138,
+ "count": 8139,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56966,6 +56966,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010389-astronamy-1547-peregrination-doctor-board-printed.md",
    "at": "2026-11-19T15:33:49+00:00"
+  },
+  {
+   "slug": "thomas-hearne-benedictus-abbas-petroburgensis-vol-ii-1735",
+   "title": "Thomas Hearne in Benedictus Abbas Petroburgensis, vol. ii. (1735); A",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010390-thomas-hearne-benedictus-abbas-petroburgensis-vol-ii-1735.md",
+   "at": "2026-11-19T15:43:51+00:00"
   }
  ]
 }
