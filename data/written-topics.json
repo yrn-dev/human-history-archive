@@ -1,5 +1,5 @@
 {
- "count": 8160,
+ "count": 8161,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57120,6 +57120,13 @@
    "era": "industrial",
    "file": "eras/industrial/010411-hamlet-winter-garden-theatre-audience-showing-unstinted.md",
    "at": "2026-11-19T19:13:55+00:00"
+  },
+  {
+   "slug": "merchant-venice-other-plays-all-cases-booth-used",
+   "title": "The Merchant of Venice and other plays. In all cases Booth used the",
+   "era": "modern",
+   "file": "eras/modern/010412-merchant-venice-other-plays-all-cases-booth-used.md",
+   "at": "2026-11-19T19:24:11+00:00"
   }
  ]
 }
