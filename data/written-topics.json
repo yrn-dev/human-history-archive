@@ -1,5 +1,5 @@
 {
- "count": 8103,
+ "count": 8104,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56721,6 +56721,13 @@
    "era": "cultures",
    "file": "eras/cultures/010354-metaphysics-aristotle-ethics-spinoza-philosophical.md",
    "at": "2026-11-19T09:34:55+00:00"
+  },
+  {
+   "slug": "newton-right-use-leisure-claims-science",
+   "title": "Newton, The Right Use of Leisure, The Claims of Science and The",
+   "era": "industrial",
+   "file": "eras/industrial/010355-newton-right-use-leisure-claims-science.md",
+   "at": "2026-11-19T09:44:38+00:00"
   }
  ]
 }
