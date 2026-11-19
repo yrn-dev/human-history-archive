@@ -1,5 +1,5 @@
 {
- "count": 8054,
+ "count": 8055,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56378,6 +56378,13 @@
    "era": "modern",
    "file": "eras/modern/010305-bucherzeichen-1890-henri-bouchot-les-ex-libris-et-les-marques-de.md",
    "at": "2026-11-19T01:14:29+00:00"
+  },
+  {
+   "slug": "1892-walter-hamilton-french-book-plates-1892-dated",
+   "title": "(1892); Walter Hamilton, French Book-plates (1892), Dated",
+   "era": "industrial",
+   "file": "eras/industrial/010306-1892-walter-hamilton-french-book-plates-1892-dated.md",
+   "at": "2026-11-19T01:24:32+00:00"
   }
  ]
 }
