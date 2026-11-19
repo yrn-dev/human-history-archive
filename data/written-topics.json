@@ -1,5 +1,5 @@
 {
- "count": 8087,
+ "count": 8088,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56609,6 +56609,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010338-blauw-plantin-imprint-amsterdam-utrecht-leiden.md",
    "at": "2026-11-19T06:54:18+00:00"
+  },
+  {
+   "slug": "publishing-noticed-various-further-developments",
+   "title": "Under PUBLISHING are noticed various further developments of this",
+   "era": "renaissance",
+   "file": "eras/renaissance/010339-publishing-noticed-various-further-developments.md",
+   "at": "2026-11-19T07:04:36+00:00"
   }
  ]
 }
