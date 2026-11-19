@@ -1,5 +1,5 @@
 {
- "count": 8090,
+ "count": 8091,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56630,6 +56630,13 @@
    "era": "industrial",
    "file": "eras/industrial/010341-public-boole-known-only-author-numerous-abstruse.md",
    "at": "2026-11-19T07:24:23+00:00"
+  },
+  {
+   "slug": "cambridge-mathematical-journal-successor-cambridge",
+   "title": "Cambridge Mathematical Journal and its successor, the Cambridge and",
+   "era": "industrial",
+   "file": "eras/industrial/010342-cambridge-mathematical-journal-successor-cambridge.md",
+   "at": "2026-11-19T07:34:27+00:00"
   }
  ]
 }
