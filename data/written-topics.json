@@ -1,5 +1,5 @@
 {
- "count": 8059,
+ "count": 8060,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56413,6 +56413,13 @@
    "era": "industrial",
    "file": "eras/industrial/010310-bookselling-trade-books-very-ancient-date-early.md",
    "at": "2026-11-19T02:04:36+00:00"
+  },
+  {
+   "slug": "their-shops-taberna-librarii-cicero-phil-ii-chiefly",
+   "title": "Their shops (taberna librarii, Cicero, Phil. ii. 9) were chiefly in",
+   "era": "ancient",
+   "file": "eras/ancient/010311-their-shops-taberna-librarii-cicero-phil-ii-chiefly.md",
+   "at": "2026-11-19T02:14:30+00:00"
   }
  ]
 }
