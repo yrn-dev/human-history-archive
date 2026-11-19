@@ -1,5 +1,5 @@
 {
- "count": 8091,
+ "count": 8092,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56637,6 +56637,13 @@
    "era": "industrial",
    "file": "eras/industrial/010342-cambridge-mathematical-journal-successor-cambridge.md",
    "at": "2026-11-19T07:34:27+00:00"
+  },
+  {
+   "slug": "dublin-mathematical-journal-boole-contributed-all-twenty-two",
+   "title": "Dublin Mathematical Journal, Boole contributed in all twenty-two",
+   "era": "industrial",
+   "file": "eras/industrial/010343-dublin-mathematical-journal-boole-contributed-all-twenty-two.md",
+   "at": "2026-11-19T07:44:38+00:00"
   }
  ]
 }
