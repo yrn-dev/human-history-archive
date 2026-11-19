@@ -1,5 +1,5 @@
 {
- "count": 8051,
+ "count": 8052,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56357,6 +56357,13 @@
    "era": "modern",
    "file": "eras/modern/010302-london-see-also-poulet-malassis-les-ex-libris-francais.md",
    "at": "2026-11-19T00:44:34+00:00"
+  },
+  {
+   "slug": "1875-hon-leicester-warren-lord-de-tabley-guide",
+   "title": "(1875); Hon. J. Leicester Warren (Lord de Tabley), A Guide to the",
+   "era": "industrial",
+   "file": "eras/industrial/010303-1875-hon-leicester-warren-lord-de-tabley-guide.md",
+   "at": "2026-11-19T00:54:31+00:00"
   }
  ]
 }
