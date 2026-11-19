@@ -1,5 +1,5 @@
 {
- "count": 8053,
+ "count": 8054,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56371,6 +56371,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010304-1574-1800-private-1887-friedrich-warnecke-die-deutschen.md",
    "at": "2026-11-19T01:04:34+00:00"
+  },
+  {
+   "slug": "bucherzeichen-1890-henri-bouchot-les-ex-libris-et-les-marques-de",
+   "title": "Bucherzeichen (1890); Henri Bouchot, Les Ex-libris et les marques de",
+   "era": "modern",
+   "file": "eras/modern/010305-bucherzeichen-1890-henri-bouchot-les-ex-libris-et-les-marques-de.md",
+   "at": "2026-11-19T01:14:29+00:00"
   }
  ]
 }
