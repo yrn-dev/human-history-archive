@@ -1,5 +1,5 @@
 {
- "count": 8096,
+ "count": 8097,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56672,6 +56672,13 @@
    "era": "industrial",
    "file": "eras/industrial/010347-treatise-calculus-finite-differences-designed-serve.md",
    "at": "2026-11-19T08:24:30+00:00"
+  },
+  {
+   "slug": "philosophical-transactions-1844-boole-one-most-eminent",
+   "title": "Philosophical Transactions for 1844. Boole was one of the most eminent",
+   "era": "industrial",
+   "file": "eras/industrial/010348-philosophical-transactions-1844-boole-one-most-eminent.md",
+   "at": "2026-11-19T08:35:02+00:00"
   }
  ]
 }
