@@ -1,5 +1,5 @@
 {
- "count": 8082,
+ "count": 8083,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56574,6 +56574,13 @@
    "era": "industrial",
    "file": "eras/industrial/010333-trade-old-they-sometimes-called-second-hand-books.md",
    "at": "2026-11-19T06:04:32+00:00"
+  },
+  {
+   "slug": "penny-magazine-chambers-journal-similar-publications-first",
+   "title": "Penny Magazine, Chambers's Journal, and similar publications first",
+   "era": "industrial",
+   "file": "eras/industrial/010334-penny-magazine-chambers-journal-similar-publications-first.md",
+   "at": "2026-11-19T06:14:23+00:00"
   }
  ]
 }
