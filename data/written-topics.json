@@ -1,5 +1,5 @@
 {
- "count": 8047,
+ "count": 8048,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56329,6 +56329,13 @@
    "era": "industrial",
    "file": "eras/industrial/010298-crane-caldecott-stacy-marks-edwin-abbey-kate-greenaway-gordon.md",
    "at": "2026-11-19T00:04:39+00:00"
+  },
+  {
+   "slug": "book-plate-sir-arthur-vicars-sherborn",
+   "title": "BOOK-PLATE OF SIR ARTHUR VICARS. By C.W. Sherborn.]",
+   "era": "modern",
+   "file": "eras/modern/010299-book-plate-sir-arthur-vicars-sherborn.md",
+   "at": "2026-11-19T00:14:32+00:00"
   }
  ]
 }
