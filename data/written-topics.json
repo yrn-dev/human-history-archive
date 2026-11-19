@@ -1,5 +1,5 @@
 {
- "count": 8092,
+ "count": 8093,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56644,6 +56644,13 @@
    "era": "industrial",
    "file": "eras/industrial/010343-dublin-mathematical-journal-boole-contributed-all-twenty-two.md",
    "at": "2026-11-19T07:44:38+00:00"
+  },
+  {
+   "slug": "198-215-crelle-journal-these-lists-should-added",
+   "title": "198-215), and in Crelle's Journal. To these lists should be added a",
+   "era": "modern",
+   "file": "eras/modern/010344-198-215-crelle-journal-these-lists-should-added.md",
+   "at": "2026-11-19T07:54:22+00:00"
   }
  ]
 }
