@@ -1,5 +1,5 @@
 {
- "count": 8088,
+ "count": 8089,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56616,6 +56616,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010339-publishing-noticed-various-further-developments.md",
    "at": "2026-11-19T07:04:36+00:00"
+  },
+  {
+   "slug": "waddington-his-appointment-1849-professor-mathematics",
+   "title": "Waddington, his appointment in 1849 as professor of mathematics in the",
+   "era": "industrial",
+   "file": "eras/industrial/010340-waddington-his-appointment-1849-professor-mathematics.md",
+   "at": "2026-11-19T07:14:09+00:00"
   }
  ]
 }
