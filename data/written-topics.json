@@ -1,5 +1,5 @@
 {
- "count": 8089,
+ "count": 8090,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56623,6 +56623,13 @@
    "era": "industrial",
    "file": "eras/industrial/010340-waddington-his-appointment-1849-professor-mathematics.md",
    "at": "2026-11-19T07:14:09+00:00"
+  },
+  {
+   "slug": "public-boole-known-only-author-numerous-abstruse",
+   "title": "To the public Boole was known only as the author of numerous abstruse",
+   "era": "industrial",
+   "file": "eras/industrial/010341-public-boole-known-only-author-numerous-abstruse.md",
+   "at": "2026-11-19T07:24:23+00:00"
   }
  ]
 }
