@@ -1,5 +1,5 @@
 {
- "count": 8167,
+ "count": 8168,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57169,6 +57169,13 @@
    "era": "modern",
    "file": "eras/modern/010418-booth-william-1829--founder-general-salvation-army.md",
    "at": "2026-11-19T20:41:51+00:00"
+  },
+  {
+   "slug": "born-nottingham-10th-april-1829-age",
+   "title": "(q.v.), was born at Nottingham on the 10th of April 1829. At the age",
+   "era": "industrial",
+   "file": "eras/industrial/010419-born-nottingham-10th-april-1829-age.md",
+   "at": "2026-11-19T20:51:48+00:00"
   }
  ]
 }
