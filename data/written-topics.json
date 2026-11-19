@@ -1,5 +1,5 @@
 {
- "count": 8064,
+ "count": 8065,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56448,6 +56448,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010315-some-these-stacyoneres-stalls-stations-built-against.md",
    "at": "2026-11-19T02:54:33+00:00"
+  },
+  {
+   "slug": "munimenta-academica-published-direction-master",
+   "title": "Munimenta Academica, published under the direction of the master of",
+   "era": "cultures",
+   "file": "eras/cultures/010316-munimenta-academica-published-direction-master.md",
+   "at": "2026-11-19T03:04:22+00:00"
   }
  ]
 }
