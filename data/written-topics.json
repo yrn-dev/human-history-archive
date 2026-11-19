@@ -1,5 +1,5 @@
 {
- "count": 8052,
+ "count": 8053,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56364,6 +56364,13 @@
    "era": "industrial",
    "file": "eras/industrial/010303-1875-hon-leicester-warren-lord-de-tabley-guide.md",
    "at": "2026-11-19T00:54:31+00:00"
+  },
+  {
+   "slug": "1574-1800-private-1887-friedrich-warnecke-die-deutschen",
+   "title": "1574-1800 (private, 1887); Friedrich Warnecke, Die deutschen",
+   "era": "renaissance",
+   "file": "eras/renaissance/010304-1574-1800-private-1887-friedrich-warnecke-die-deutschen.md",
+   "at": "2026-11-19T01:04:34+00:00"
   }
  ]
 }
