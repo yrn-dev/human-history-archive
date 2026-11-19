@@ -1,5 +1,5 @@
 {
- "count": 8048,
+ "count": 8049,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56336,6 +56336,13 @@
    "era": "modern",
    "file": "eras/modern/010299-book-plate-sir-arthur-vicars-sherborn.md",
    "at": "2026-11-19T00:14:32+00:00"
+  },
+  {
+   "slug": "ricketts-john-vinycomb-john-leighton-warrington-hogg",
+   "title": "Ricketts, John Vinycomb, John Leighton and Warrington Hogg. The",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010300-ricketts-john-vinycomb-john-leighton-warrington-hogg.md",
+   "at": "2026-11-19T00:24:31+00:00"
   }
  ]
 }
