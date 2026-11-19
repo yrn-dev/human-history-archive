@@ -1,5 +1,5 @@
 {
- "count": 8081,
+ "count": 8082,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56567,6 +56567,13 @@
    "era": "industrial",
    "file": "eras/industrial/010332-what-may-termed-third-partner-publishing.md",
    "at": "2026-11-19T05:54:15+00:00"
+  },
+  {
+   "slug": "trade-old-they-sometimes-called-second-hand-books",
+   "title": "The trade in old or (as they are sometimes called) second-hand books",
+   "era": "industrial",
+   "file": "eras/industrial/010333-trade-old-they-sometimes-called-second-hand-books.md",
+   "at": "2026-11-19T06:04:32+00:00"
   }
  ]
 }
