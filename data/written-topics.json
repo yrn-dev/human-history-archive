@@ -1,5 +1,5 @@
 {
- "count": 8050,
+ "count": 8051,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56350,6 +56350,13 @@
    "era": "industrial",
    "file": "eras/industrial/010301-authorities---the-curious-matter-book-plate-composition.md",
    "at": "2026-11-19T00:34:40+00:00"
+  },
+  {
+   "slug": "london-see-also-poulet-malassis-les-ex-libris-francais",
+   "title": "(London). See also A. Poulet-Malassis, Les Ex-libris francais",
+   "era": "modern",
+   "file": "eras/modern/010302-london-see-also-poulet-malassis-les-ex-libris-francais.md",
+   "at": "2026-11-19T00:44:34+00:00"
   }
  ]
 }
