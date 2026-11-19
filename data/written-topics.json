@@ -1,5 +1,5 @@
 {
- "count": 8055,
+ "count": 8056,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56385,6 +56385,13 @@
    "era": "industrial",
    "file": "eras/industrial/010306-1892-walter-hamilton-french-book-plates-1892-dated.md",
    "at": "2026-11-19T01:24:32+00:00"
+  },
+  {
+   "slug": "book-plates-1895-fincham-artists-engravers-british",
+   "title": "Book-plates (1895); H.W. Fincham, Artists and Engravers of British",
+   "era": "industrial",
+   "file": "eras/industrial/010307-book-plates-1895-fincham-artists-engravers-british.md",
+   "at": "2026-11-19T01:34:36+00:00"
   }
  ]
 }
