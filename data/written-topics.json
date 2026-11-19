@@ -1,5 +1,5 @@
 {
- "count": 8077,
+ "count": 8078,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56539,6 +56539,13 @@
    "era": "industrial",
    "file": "eras/industrial/010328-1902-london-times-supplementary-volumes-9th.md",
    "at": "2026-11-19T05:14:18+00:00"
+  },
+  {
+   "slug": "started-1905-again-combination-subscription-library",
+   "title": "(started in 1905) was, again, a combination of a subscription library",
+   "era": "modern",
+   "file": "eras/modern/010329-started-1905-again-combination-subscription-library.md",
+   "at": "2026-11-19T05:24:19+00:00"
   }
  ]
 }
