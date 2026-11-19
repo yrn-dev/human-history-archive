@@ -1,5 +1,5 @@
 {
- "count": 8083,
+ "count": 8084,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56581,6 +56581,13 @@
    "era": "industrial",
    "file": "eras/industrial/010334-penny-magazine-chambers-journal-similar-publications-first.md",
    "at": "2026-11-19T06:14:23+00:00"
+  },
+  {
+   "slug": "history-bookselling-america-special-interest",
+   "title": "The history of bookselling in America has a special interest. The",
+   "era": "modern",
+   "file": "eras/modern/010335-history-bookselling-america-special-interest.md",
+   "at": "2026-11-19T06:24:21+00:00"
   }
  ]
 }
