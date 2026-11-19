@@ -1,5 +1,5 @@
 {
- "count": 8165,
+ "count": 8166,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57155,6 +57155,13 @@
    "era": "modern",
    "file": "eras/modern/010416-edwin-booth-prompt-books-edited-william-winter-1878.md",
    "at": "2026-11-19T20:12:00+00:00"
+  },
+  {
+   "slug": "america-edited-lawrence-hutton-brander-matthews-edwin-booth",
+   "title": "America, edited by Lawrence Hutton and Brander Matthews, Edwin Booth",
+   "era": "modern",
+   "file": "eras/modern/010417-america-edited-lawrence-hutton-brander-matthews-edwin-booth.md",
+   "at": "2026-11-19T20:21:57+00:00"
   }
  ]
 }
