@@ -1,5 +1,5 @@
 {
- "count": 8086,
+ "count": 8087,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56602,6 +56602,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010337-course-16th-17th-centuries-low-countries.md",
    "at": "2026-11-19T06:44:17+00:00"
+  },
+  {
+   "slug": "blauw-plantin-imprint-amsterdam-utrecht-leiden",
+   "title": "Blauw or Plantin, with the imprint of Amsterdam, Utrecht, Leiden or",
+   "era": "renaissance",
+   "file": "eras/renaissance/010338-blauw-plantin-imprint-amsterdam-utrecht-leiden.md",
+   "at": "2026-11-19T06:54:18+00:00"
   }
  ]
 }
