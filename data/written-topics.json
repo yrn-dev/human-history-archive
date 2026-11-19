@@ -1,5 +1,5 @@
 {
- "count": 8182,
+ "count": 8183,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57274,6 +57274,13 @@
    "era": "industrial",
    "file": "eras/industrial/010433-parry-1819-peninsula-not-only-interesting-connexion.md",
    "at": "2026-11-19T23:11:40+00:00"
+  },
+  {
+   "slug": "boothia-gulf-separates-north-western-portion-baffin-land",
+   "title": "Boothia Gulf separates the north-western portion of Baffin Land and",
+   "era": "modern",
+   "file": "eras/modern/010434-boothia-gulf-separates-north-western-portion-baffin-land.md",
+   "at": "2026-11-19T23:21:39+00:00"
   }
  ]
 }
