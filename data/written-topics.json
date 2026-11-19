@@ -1,5 +1,5 @@
 {
- "count": 8152,
+ "count": 8153,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57064,6 +57064,13 @@
    "era": "modern",
    "file": "eras/modern/010403-see-cibber-lives-characters-most-eminent-actors.md",
    "at": "2026-11-19T17:53:43+00:00"
+  },
+  {
+   "slug": "1889-book-designed-show-numerical-relation-which",
+   "title": "1889. The book is designed to show \"the numerical relation which",
+   "era": "industrial",
+   "file": "eras/industrial/010404-1889-book-designed-show-numerical-relation-which.md",
+   "at": "2026-11-19T18:03:52+00:00"
   }
  ]
 }
