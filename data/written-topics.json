@@ -1,5 +1,5 @@
 {
- "count": 8084,
+ "count": 8085,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56588,6 +56588,13 @@
    "era": "modern",
    "file": "eras/modern/010335-history-bookselling-america-special-interest.md",
    "at": "2026-11-19T06:24:21+00:00"
+  },
+  {
+   "slug": "spanish-settlements-drew-away-old-country-much",
+   "title": "Spanish settlements drew away from the old country much of its",
+   "era": "renaissance",
+   "file": "eras/renaissance/010336-spanish-settlements-drew-away-old-country-much.md",
+   "at": "2026-11-19T06:34:21+00:00"
   }
  ]
 }
