@@ -1,5 +1,5 @@
 {
- "count": 8095,
+ "count": 8096,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -56665,6 +56665,13 @@
    "era": "industrial",
    "file": "eras/industrial/010346-equations-appeared-1859-followed-next-year.md",
    "at": "2026-11-19T08:14:16+00:00"
+  },
+  {
+   "slug": "treatise-calculus-finite-differences-designed-serve",
+   "title": "Treatise on the Calculus of Finite Differences, designed to serve as a",
+   "era": "industrial",
+   "file": "eras/industrial/010347-treatise-calculus-finite-differences-designed-serve.md",
+   "at": "2026-11-19T08:24:30+00:00"
   }
  ]
 }
