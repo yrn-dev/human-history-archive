@@ -1,5 +1,5 @@
 {
- "count": 8306,
+ "count": 8307,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58142,6 +58142,13 @@
    "era": "modern",
    "file": "eras/modern/010557-1693-1870-3478-1904-5255-seat-lutheran-bishopric.md",
    "at": "2026-11-20T22:48:24+00:00"
+  },
+  {
+   "slug": "borghese-noble-italian-family-sienese-origin-first-mentioned",
+   "title": "BORGHESE, a noble Italian family of Sienese origin, first mentioned in",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010558-borghese-noble-italian-family-sienese-origin-first-mentioned.md",
+   "at": "2026-11-20T22:58:26+00:00"
   }
  ]
 }
