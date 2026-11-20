@@ -1,5 +1,5 @@
 {
- "count": 8190,
+ "count": 8191,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57330,6 +57330,13 @@
    "era": "modern",
    "file": "eras/modern/010441-father-pons-early-18th-century-but-also-sanskrit-books.md",
    "at": "2026-11-20T00:51:41+00:00"
+  },
+  {
+   "slug": "frankfort-on-main-1816-title-uber-das-conjugationssystem",
+   "title": "Frankfort-On-Main in 1816, under the title Uber das Conjugationssystem",
+   "era": "industrial",
+   "file": "eras/industrial/010442-frankfort-on-main-1816-title-uber-das-conjugationssystem.md",
+   "at": "2026-11-20T01:01:34+00:00"
   }
  ]
 }
