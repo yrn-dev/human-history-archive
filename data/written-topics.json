@@ -1,5 +1,5 @@
 {
- "count": 8248,
+ "count": 8249,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57736,6 +57736,13 @@
    "era": "modern",
    "file": "eras/modern/010499-la-bastide-right-bank-river-crossed-pont-de.md",
    "at": "2026-11-20T11:01:07+00:00"
+  },
+  {
+   "slug": "bordeaux-fine-stone-structure-early-19th-century-measuring",
+   "title": "Bordeaux, a fine stone structure of the early 19th century, measuring",
+   "era": "industrial",
+   "file": "eras/industrial/010500-bordeaux-fine-stone-structure-early-19th-century-measuring.md",
+   "at": "2026-11-20T11:11:24+00:00"
   }
  ]
 }
