@@ -1,5 +1,5 @@
 {
- "count": 8299,
+ "count": 8300,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58093,6 +58093,13 @@
    "era": "ancient",
    "file": "eras/ancient/010550-cleopatra-chione-apollodorus-iii-15-ovid-metam-vi-677.md",
    "at": "2026-11-20T21:18:28+00:00"
+  },
+  {
+   "slug": "borelli-giovanni-alfonso-1608-1679-italian-physiologist",
+   "title": "BORELLI, GIOVANNI ALFONSO (1608-1679), Italian physiologist and",
+   "era": "renaissance",
+   "file": "eras/renaissance/010551-borelli-giovanni-alfonso-1608-1679-italian-physiologist.md",
+   "at": "2026-11-20T21:48:30+00:00"
   }
  ]
 }
