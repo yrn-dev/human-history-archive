@@ -1,5 +1,5 @@
 {
- "count": 8220,
+ "count": 8221,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57540,6 +57540,13 @@
    "era": "cultures",
    "file": "eras/cultures/010471-crystals-boracite.md",
    "at": "2026-11-20T06:01:24+00:00"
+  },
+  {
+   "slug": "characters-so-far-enumerated-strictly-accordance-cubic",
+   "title": "The characters so far enumerated are strictly in accordance with cubic",
+   "era": "modern",
+   "file": "eras/modern/010472-characters-so-far-enumerated-strictly-accordance-cubic.md",
+   "at": "2026-11-20T06:11:26+00:00"
   }
  ]
 }
