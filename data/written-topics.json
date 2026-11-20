@@ -1,5 +1,5 @@
 {
- "count": 8261,
+ "count": 8262,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57827,6 +57827,13 @@
    "era": "modern",
    "file": "eras/modern/010512-see-camille-jullian-hist-de-bordeaux-depuis-les-origines-jusqu-en.md",
    "at": "2026-11-20T13:21:00+00:00"
+  },
+  {
+   "slug": "1895-bordeaux-1895-malvezin-hist-du-commerce-de-bordeaux",
+   "title": "1895 (Bordeaux, 1895); T. Malvezin, Hist. du commerce de Bordeaux",
+   "era": "ancient",
+   "file": "eras/ancient/010513-1895-bordeaux-1895-malvezin-hist-du-commerce-de-bordeaux.md",
+   "at": "2026-11-20T13:31:13+00:00"
   }
  ]
 }
