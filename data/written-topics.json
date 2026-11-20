@@ -1,5 +1,5 @@
 {
- "count": 8311,
+ "count": 8312,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58177,6 +58177,13 @@
    "era": "ancient",
    "file": "eras/ancient/010562-rome-he-arranged-catalogued-several-collections-coins-amongst.md",
    "at": "2026-11-20T23:38:35+00:00"
+  },
+  {
+   "slug": "berlin-auspices-mommsen-result-corpus",
+   "title": "Berlin under the auspices of Mommsen, and the result was the Corpus",
+   "era": "modern",
+   "file": "eras/modern/010563-berlin-auspices-mommsen-result-corpus.md",
+   "at": "2026-11-20T23:48:25+00:00"
   }
  ]
 }
