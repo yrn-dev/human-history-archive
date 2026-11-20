@@ -1,5 +1,5 @@
 {
- "count": 8200,
+ "count": 8201,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57400,6 +57400,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010451-old-slavonian-began-take-stand-among-languages-compared.md",
    "at": "2026-11-20T02:31:34+00:00"
+  },
+  {
+   "slug": "eastwick-1845-second-german-edition-thoroughly-revised",
+   "title": "E.B. Eastwick in 1845. A second German edition, thoroughly revised",
+   "era": "industrial",
+   "file": "eras/industrial/010452-eastwick-1845-second-german-edition-thoroughly-revised.md",
+   "at": "2026-11-20T02:41:27+00:00"
   }
  ]
 }
