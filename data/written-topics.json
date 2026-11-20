@@ -1,5 +1,5 @@
 {
- "count": 8254,
+ "count": 8255,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57778,6 +57778,13 @@
    "era": "modern",
    "file": "eras/modern/010505-argentina-portugal-united-states-most-important-line.md",
    "at": "2026-11-20T12:11:09+00:00"
+  },
+  {
+   "slug": "maritimes-total-value-exports-imports-bordeaux",
+   "title": "Maritimes. The total value of the exports and imports of Bordeaux",
+   "era": "modern",
+   "file": "eras/modern/010506-maritimes-total-value-exports-imports-bordeaux.md",
+   "at": "2026-11-20T12:21:07+00:00"
   }
  ]
 }
