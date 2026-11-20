@@ -1,5 +1,5 @@
 {
- "count": 8243,
+ "count": 8244,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57701,6 +57701,13 @@
    "era": "industrial",
    "file": "eras/industrial/010494-academy-sciences-who-elected-him-member-he-present.md",
    "at": "2026-11-20T10:11:13+00:00"
+  },
+  {
+   "slug": "bordage-nautical-term-fr-bord-side-planking",
+   "title": "BORDAGE. (i) A nautical term (from Fr. bord, side) for the planking on",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010495-bordage-nautical-term-fr-bord-side-planking.md",
+   "at": "2026-11-20T10:21:07+00:00"
   }
  ]
 }
