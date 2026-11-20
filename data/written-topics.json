@@ -1,5 +1,5 @@
 {
- "count": 8302,
+ "count": 8303,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58114,6 +58114,13 @@
    "era": "modern",
    "file": "eras/modern/010553-de-motu-animalium-rome-1680-1681-which-he-sought-explain.md",
    "at": "2026-11-20T22:10:42+00:00"
+  },
+  {
+   "slug": "1661-de-vi-percussionis-bologna-1667-meteorologia-aetnea",
+   "title": "1661); De vi percussionis (Bologna, 1667); Meteorologia Aetnea",
+   "era": "renaissance",
+   "file": "eras/renaissance/010554-1661-de-vi-percussionis-bologna-1667-meteorologia-aetnea.md",
+   "at": "2026-11-20T22:18:30+00:00"
   }
  ]
 }
