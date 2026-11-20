@@ -1,5 +1,5 @@
 {
- "count": 8244,
+ "count": 8245,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57708,6 +57708,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010495-bordage-nautical-term-fr-bord-side-planking.md",
    "at": "2026-11-20T10:21:07+00:00"
+  },
+  {
+   "slug": "bordeaux-city-south-western-france-capital-department",
+   "title": "BORDEAUX, a city of south-western France, capital of the department of",
+   "era": "modern",
+   "file": "eras/modern/010496-bordeaux-city-south-western-france-capital-department.md",
+   "at": "2026-11-20T10:31:10+00:00"
   }
  ]
 }
