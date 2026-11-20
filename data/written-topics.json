@@ -1,5 +1,5 @@
 {
- "count": 8239,
+ "count": 8240,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57673,6 +57673,13 @@
    "era": "industrial",
    "file": "eras/industrial/010490-optical-characters-interesting-because-striking.md",
    "at": "2026-11-20T09:31:17+00:00"
+  },
+  {
+   "slug": "borda-jean-charles-1733-1799-french-mathematician-nautical",
+   "title": "BORDA, JEAN CHARLES (1733-1799), French mathematician and nautical",
+   "era": "industrial",
+   "file": "eras/industrial/010491-borda-jean-charles-1733-1799-french-mathematician-nautical.md",
+   "at": "2026-11-20T09:41:09+00:00"
   }
  ]
 }
