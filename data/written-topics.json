@@ -1,5 +1,5 @@
 {
- "count": 8241,
+ "count": 8242,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57687,6 +57687,13 @@
    "era": "modern",
    "file": "eras/modern/010492-fleche-early-age-obtained-commission-cavalry.md",
    "at": "2026-11-20T09:51:30+00:00"
+  },
+  {
+   "slug": "1756-he-presented-memoire-sur-le-mouvement-des-projectiles",
+   "title": "1756 he presented a Memoire sur le mouvement des projectiles to the",
+   "era": "industrial",
+   "file": "eras/industrial/010493-1756-he-presented-memoire-sur-le-mouvement-des-projectiles.md",
+   "at": "2026-11-20T10:01:09+00:00"
   }
  ]
 }
