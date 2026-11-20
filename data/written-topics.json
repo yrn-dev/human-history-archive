@@ -1,5 +1,5 @@
 {
- "count": 8210,
+ "count": 8211,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57470,6 +57470,13 @@
    "era": "modern",
    "file": "eras/modern/010461-1900-5806-old-town-still-partly-surrounded-medieval.md",
    "at": "2026-11-20T04:21:23+00:00"
+  },
+  {
+   "slug": "boppard-baudobriga-founded-romans-merovingian",
+   "title": "Boppard (Baudobriga) was founded by the Romans; under the Merovingian",
+   "era": "ancient",
+   "file": "eras/ancient/010462-boppard-baudobriga-founded-romans-merovingian.md",
+   "at": "2026-11-20T04:31:28+00:00"
   }
  ]
 }
