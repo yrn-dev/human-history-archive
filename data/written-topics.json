@@ -1,5 +1,5 @@
 {
- "count": 8191,
+ "count": 8192,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57337,6 +57337,13 @@
    "era": "industrial",
    "file": "eras/industrial/010442-frankfort-on-main-1816-title-uber-das-conjugationssystem.md",
    "at": "2026-11-20T01:01:34+00:00"
+  },
+  {
+   "slug": "greek-latin-german-long-been-established-but-his",
+   "title": "Greek, Latin and German, for that had long been established; but his",
+   "era": "ancient",
+   "file": "eras/ancient/010443-greek-latin-german-long-been-established-but-his.md",
+   "at": "2026-11-20T01:11:40+00:00"
   }
  ]
 }
