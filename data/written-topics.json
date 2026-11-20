@@ -1,5 +1,5 @@
 {
- "count": 8203,
+ "count": 8204,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57421,6 +57421,13 @@
    "era": "industrial",
    "file": "eras/industrial/010454-task-which-bopp-endeavoured-carry-out-his-comparative.md",
    "at": "2026-11-20T03:01:33+00:00"
+  },
+  {
+   "slug": "grammar-threefold---to-give-description-original",
+   "title": "Grammar was threefold,--to give a description of the original",
+   "era": "modern",
+   "file": "eras/modern/010455-grammar-threefold---to-give-description-original.md",
+   "at": "2026-11-20T03:11:35+00:00"
   }
  ]
 }
