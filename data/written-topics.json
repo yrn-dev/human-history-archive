@@ -1,5 +1,5 @@
 {
- "count": 8209,
+ "count": 8210,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57463,6 +57463,13 @@
    "era": "industrial",
    "file": "eras/industrial/010460-see-breal-translation-bopp-vergl-gramm-1866.md",
    "at": "2026-11-20T04:11:30+00:00"
+  },
+  {
+   "slug": "1900-5806-old-town-still-partly-surrounded-medieval",
+   "title": "(1900) 5806. It is an old town still partly surrounded by medieval",
+   "era": "modern",
+   "file": "eras/modern/010461-1900-5806-old-town-still-partly-surrounded-medieval.md",
+   "at": "2026-11-20T04:21:23+00:00"
   }
  ]
 }
