@@ -1,5 +1,5 @@
 {
- "count": 8262,
+ "count": 8263,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57834,6 +57834,13 @@
    "era": "ancient",
    "file": "eras/ancient/010513-1895-bordeaux-1895-malvezin-hist-du-commerce-de-bordeaux.md",
    "at": "2026-11-20T13:31:13+00:00"
+  },
+  {
+   "slug": "king-college-windsor-harvard-university-some-years",
+   "title": "King's College, Windsor, and at Harvard University, and for some years",
+   "era": "modern",
+   "file": "eras/modern/010514-king-college-windsor-harvard-university-some-years.md",
+   "at": "2026-11-20T13:51:05+00:00"
   }
  ]
 }
