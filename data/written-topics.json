@@ -1,5 +1,5 @@
 {
- "count": 8245,
+ "count": 8246,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57715,6 +57715,13 @@
    "era": "modern",
    "file": "eras/modern/010496-bordeaux-city-south-western-france-capital-department.md",
    "at": "2026-11-20T10:31:10+00:00"
+  },
+  {
+   "slug": "gironde-359-paris-main-line-orleans-railway",
+   "title": "Gironde, 359 m. S.S.W. of Paris by a main line of the Orleans railway",
+   "era": "modern",
+   "file": "eras/modern/010497-gironde-359-paris-main-line-orleans-railway.md",
+   "at": "2026-11-20T10:41:09+00:00"
   }
  ]
 }
