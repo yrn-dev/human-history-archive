@@ -1,5 +1,5 @@
 {
- "count": 8284,
+ "count": 8285,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57988,6 +57988,13 @@
    "era": "industrial",
    "file": "eras/industrial/010535-england-scotland-1776-professor-john-veitch-history.md",
    "at": "2026-11-20T18:28:41+00:00"
+  },
+  {
+   "slug": "poetry-scottish-border-1877-sir-george-douglas-history",
+   "title": "Poetry of the Scottish Border (1877); Sir George Douglas, History of",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010536-poetry-scottish-border-1877-sir-george-douglas-history.md",
+   "at": "2026-11-20T18:38:47+00:00"
   }
  ]
 }
