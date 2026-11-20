@@ -1,5 +1,5 @@
 {
- "count": 8255,
+ "count": 8256,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57785,6 +57785,13 @@
    "era": "modern",
    "file": "eras/modern/010506-maritimes-total-value-exports-imports-bordeaux.md",
    "at": "2026-11-20T12:21:07+00:00"
+  },
+  {
+   "slug": "bordeaux-burdigala-originally-chief-town-bituriges",
+   "title": "Bordeaux (Burdigala) was originally the chief town of the Bituriges",
+   "era": "ancient",
+   "file": "eras/ancient/010507-bordeaux-burdigala-originally-chief-town-bituriges.md",
+   "at": "2026-11-20T12:31:12+00:00"
   }
  ]
 }
