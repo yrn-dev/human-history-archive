@@ -1,5 +1,5 @@
 {
- "count": 8282,
+ "count": 8283,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57974,6 +57974,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010533-besides-works-just-mentioned-see-sir-herbert-maxwell-history.md",
    "at": "2026-11-20T18:08:40+00:00"
+  },
+  {
+   "slug": "dumfries-galloway-1896-george-ridpath-border-history",
+   "title": "Dumfries and Galloway (1896); George Ridpath, Border History of",
+   "era": "industrial",
+   "file": "eras/industrial/010534-dumfries-galloway-1896-george-ridpath-border-history.md",
+   "at": "2026-11-20T18:18:52+00:00"
   }
  ]
 }
