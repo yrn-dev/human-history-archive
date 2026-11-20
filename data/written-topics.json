@@ -1,5 +1,5 @@
 {
- "count": 8208,
+ "count": 8209,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57456,6 +57456,13 @@
    "era": "modern",
    "file": "eras/modern/010459-bopp-researches-carried-wonderful-penetration-most.md",
    "at": "2026-11-20T04:02:15+00:00"
+  },
+  {
+   "slug": "see-breal-translation-bopp-vergl-gramm-1866",
+   "title": "See M. Breal's translation of Bopp's Vergl. Gramm. (1866)",
+   "era": "industrial",
+   "file": "eras/industrial/010460-see-breal-translation-bopp-vergl-gramm-1866.md",
+   "at": "2026-11-20T04:11:30+00:00"
   }
  ]
 }
