@@ -1,5 +1,5 @@
 {
- "count": 8286,
+ "count": 8287,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58002,6 +58002,13 @@
    "era": "modern",
    "file": "eras/modern/010537-england-situated-beautiful-coast-scenery-fine.md",
    "at": "2026-11-20T18:58:47+00:00"
+  },
+  {
+   "slug": "bordone-paris-1495-1570-venetian-painter-born-treviso",
+   "title": "BORDONE, PARIS (1495-1570), Venetian painter, was born at Treviso, and",
+   "era": "renaissance",
+   "file": "eras/renaissance/010538-bordone-paris-1495-1570-venetian-painter-born-treviso.md",
+   "at": "2026-11-20T19:08:47+00:00"
   }
  ]
 }
