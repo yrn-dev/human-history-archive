@@ -1,5 +1,5 @@
 {
- "count": 8256,
+ "count": 8257,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -57792,6 +57792,13 @@
    "era": "ancient",
    "file": "eras/ancient/010507-bordeaux-burdigala-originally-chief-town-bituriges.md",
    "at": "2026-11-20T12:31:12+00:00"
+  },
+  {
+   "slug": "english-battle-castillon-1453-followed-siege",
+   "title": "English at the battle of Castillon in 1453 was followed, after a siege",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010508-english-battle-castillon-1453-followed-siege.md",
+   "at": "2026-11-20T12:41:03+00:00"
   }
  ]
 }
