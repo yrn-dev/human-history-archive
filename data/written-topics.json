@@ -1,5 +1,5 @@
 {
- "count": 8296,
+ "count": 8297,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58072,6 +58072,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010547-bordone-nuova-antologia-november-16-1900-contains.md",
    "at": "2026-11-20T20:38:39+00:00"
+  },
+  {
+   "slug": "1766-certain-letters-printed-jesse-life-george-selwyn",
+   "title": "(1766, in certain letters printed in Jesse's Life of George Selwyn) is",
+   "era": "modern",
+   "file": "eras/modern/010548-1766-certain-letters-printed-jesse-life-george-selwyn.md",
+   "at": "2026-11-20T20:48:29+00:00"
   }
  ]
 }
