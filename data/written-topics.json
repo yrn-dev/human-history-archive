@@ -1,5 +1,5 @@
 {
- "count": 8312,
+ "count": 8313,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58184,6 +58184,13 @@
    "era": "modern",
    "file": "eras/modern/010563-berlin-auspices-mommsen-result-corpus.md",
    "at": "2026-11-20T23:48:25+00:00"
+  },
+  {
+   "slug": "inscriptionum-latinarum-napoleon-iii-ordered-publication",
+   "title": "Inscriptionum Latinarum. Napoleon III. ordered the publication of a",
+   "era": "ancient",
+   "file": "eras/ancient/010564-inscriptionum-latinarum-napoleon-iii-ordered-publication.md",
+   "at": "2026-11-20T23:58:25+00:00"
   }
  ]
 }
