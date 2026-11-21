@@ -1,5 +1,5 @@
 {
- "count": 8378,
+ "count": 8379,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58646,6 +58646,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010629-january-1409-among-them-one-forbidding-translation.md",
    "at": "2026-11-21T11:27:43+00:00"
+  },
+  {
+   "slug": "chief-authorities-walsingham-historia-anglicana-ed",
+   "title": "The chief authorities are T. Walsingham, Historia Anglicana, ed. by",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010630-chief-authorities-walsingham-historia-anglicana-ed.md",
+   "at": "2026-11-21T11:57:42+00:00"
   }
  ]
 }
