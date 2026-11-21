@@ -1,5 +1,5 @@
 {
- "count": 8367,
+ "count": 8368,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58569,6 +58569,13 @@
    "era": "industrial",
    "file": "eras/industrial/010618-ashford-astor-john-jacob.md",
    "at": "2026-11-21T09:27:51+00:00"
+  },
+  {
+   "slug": "ashland-pennsylvania-astragal",
+   "title": "ASHLAND (Pennsylvania, U.S.A.)  ASTRAGAL",
+   "era": "modern",
+   "file": "eras/modern/010619-ashland-pennsylvania-astragal.md",
+   "at": "2026-11-21T09:37:52+00:00"
   }
  ]
 }
