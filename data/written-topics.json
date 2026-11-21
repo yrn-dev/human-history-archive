@@ -1,5 +1,5 @@
 {
- "count": 8418,
+ "count": 8419,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58926,6 +58926,13 @@
    "era": "cultures",
    "file": "eras/cultures/010669-celtic-germanic-words-uhlenbeck-kurzgefasstes-etymologisches.md",
    "at": "2026-11-21T19:57:35+00:00"
+  },
+  {
+   "slug": "worterbuch-der-altindischen-sprache-name-armenia-old",
+   "title": "Worterbuch der altindischen Sprache, s.v.). The name of Armenia (Old",
+   "era": "modern",
+   "file": "eras/modern/010670-worterbuch-der-altindischen-sprache-name-armenia-old.md",
+   "at": "2026-11-21T20:07:30+00:00"
   }
  ]
 }
