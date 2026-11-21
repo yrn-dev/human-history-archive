@@ -1,5 +1,5 @@
 {
- "count": 8361,
+ "count": 8362,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58527,6 +58527,13 @@
    "era": "ancient",
    "file": "eras/ancient/010612-ascoli-piceno-assur-capital-assyria.md",
    "at": "2026-11-21T08:28:14+00:00"
+  },
+  {
+   "slug": "aselli-gasparo-assyria",
+   "title": "ASELLI, GASPARO                 ASSYRIA",
+   "era": "ancient",
+   "file": "eras/ancient/010613-aselli-gasparo-assyria.md",
+   "at": "2026-11-21T08:38:03+00:00"
   }
  ]
 }
