@@ -1,5 +1,5 @@
 {
- "count": 8355,
+ "count": 8356,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58485,6 +58485,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010606-arundell-wardour-assamese.md",
    "at": "2026-11-21T07:28:17+00:00"
+  },
+  {
+   "slug": "assemani",
+   "title": "AS                              ASSEMANI",
+   "era": "ancient",
+   "file": "eras/ancient/010607-assemani.md",
+   "at": "2026-11-21T07:37:57+00:00"
   }
  ]
 }
