@@ -1,0 +1,24 @@
+# Castel Bolognese and Related Historical Sites
+
+The archive's records contain references to various locations named "Castel" or associated with the Bolognese region, spanning military campaigns from the Renaissance to the early 20th century, as well as artistic and political history.
+
+## Cesare Borgia and the Romagna Campaign
+In October 1500, Cesare Borgia entered the Romagna with an army of 10,000 men, supported by Venetian friendship. During this campaign, the cities of Pesaro and Rimini opened their gates to him following the flight of Giovanni Sforza and Pandolfo Malatesta. The city of Faenza resisted due to the devotion of its people to their eighteen-year-old lord, Astorre Manfredi. Although Manfredi surrendered in April 1501 under a promise that his life would be spared, Cesare broke this word and sent him to Rome as a prisoner, where he was put to death after being foully outraged.
+
+Following the capture of Castel Bolognese, Cesare returned to Rome in June to participate in Franco-Spanish intrigues regarding the partition of Naples. At this time, the pope created him duke of Romagna. Cesare's rule was characterized by insatiable avidity, cruelty, and a lack of scruple, which made him a terror throughout Italy. While he later conquered Urbino and Camerino, his power was challenged by the conspiracy of La Magione. This plot involved several deposed princes, the Orsinis, and his own captains—including G.P. Baglioni, Oliverotto da Fermo, and Vitellozzo Vitelli—who feared the loss of their estates. Although risings occurred in Romagna and Urbino and papal troops suffered defeat, Cesare regained control after the French king promised assistance. To show repentance, Vitelli, Oliverotto, Paolo Orsini, and the duke of Gravina seized Senigallia in Cesare's name. Upon arriving at the town, Cesare decoyed these *condottieri* into his house and arrested them.
+
+## Military Engagements at Castel (1918)
+During the second battle of 1918, the village of Castel was the site of intense fighting between French and German forces. On April 4, German forces captured Castel, along with Morisel, Arrière-Cour Wood, and Mailly-Raineval, following a violent effort against the 36th Corps. On April 5, French forces under General Robillot counter-attacked, with the 17th division moving toward Moreuil and other divisions toward Mailly-Raineval. A "furious engagement" took place in Sénecat Wood to the west of Castel, resulting in the Germans being driven back and 100 prisoners being taken.
+
+On April 17, the French launched an attack from Mailly to Castel. They captured most of Sénecat Wood, reached the outskirts of Castel—which was heavily defended by machine-guns—and took over 650 prisoners. On the same day, a single French battalion attacked the village of Castel, which was held by two companies of machine-gunners and five companies of infantry from the German 389th regiment of shock troops. The battalion advanced 1,400 yards, capturing 31 machine-guns and 254 prisoners. Tanks played a significant role in these operations; one tank commander personally swept the streets of Castel with a machine-gun after taking over a machine that had lost its crew. Another tank penetrated 600 yards into enemy lines while pursuing a German battery of 77s before breaking down, at which point the crew fought off the enemy with machine guns until their ammunition was exhausted.
+
+## Other "Castel" and Bolognese References
+The archives note other locations and figures associated with these terms:
+* **Castel Ceriolo:** During a conflict involving the First Consul, Lannes was driven out of Castel Ceriolo by Austrian forces. However, the advance of Monnier's division (3,500 men) later drove the Austrians out of the town, though Monnier was forced back an hour later.
+* **Castel Merliac:** Benedictine editors of Gregory of Tours identified a fortress at Castel Merliac, located two miles from Mauriac in the Upper Auvergne.
+* **The Bolognese School:** In the arts, Bartolommeo Bagnacavallo (born Ramenghi) is credited with great improvements in the style of the Bolognese school after returning to Bologna from Rome, where he had been a pupil of Raphael. Similarly, Giovanni Francesco Grimaldi (1606-1680) was named "Il Bolognese" due to his place of birth. Grimaldi served as architect to Pope Paul V and later worked in France for Louis XIV and Cardinal Mazarin before returning to Rome to become president of the Academy of St Luke.
+
+## Sources
+Compiled from: britannica11 vol03b bohemia to borgia, the somme v2 second battle 1918, gibbon decline and fall of the roman empire, britannica11 vol10a greek law to ground squirrel, britannica11 vol02b baconthorpe to bankruptcy, britannica11 vol17c map to mars
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
