@@ -1,5 +1,5 @@
 {
- "count": 8353,
+ "count": 8354,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58471,6 +58471,13 @@
    "era": "ancient",
    "file": "eras/ancient/010604-article-atargatis-but-home-goddess.md",
    "at": "2026-11-21T07:08:03+00:00"
+  },
+  {
+   "slug": "arundel-thomas-athens",
+   "title": "Arundel, Thomas to Athens",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010605-arundel-thomas-athens.md",
+   "at": "2026-11-21T07:18:09+00:00"
   }
  ]
 }
