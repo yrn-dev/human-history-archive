@@ -1,5 +1,5 @@
 {
- "count": 8404,
+ "count": 8405,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58828,6 +58828,13 @@
    "era": "ancient",
    "file": "eras/ancient/010655-see-keil-grammatici-latini-vii-suringar-historia-critica.md",
    "at": "2026-11-21T17:07:39+00:00"
+  },
+  {
+   "slug": "arval-brothers-fratres-arvales-roman-antiquities-college",
+   "title": "ARVAL BROTHERS (Fratres Arvales), in Roman antiquities, a college or",
+   "era": "ancient",
+   "file": "eras/ancient/010656-arval-brothers-fratres-arvales-roman-antiquities-college.md",
+   "at": "2026-11-21T17:17:35+00:00"
   }
  ]
 }
