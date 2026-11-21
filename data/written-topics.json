@@ -1,5 +1,5 @@
 {
- "count": 8356,
+ "count": 8357,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58492,6 +58492,13 @@
    "era": "ancient",
    "file": "eras/ancient/010607-assemani.md",
    "at": "2026-11-21T07:37:57+00:00"
+  },
+  {
+   "slug": "asciano-associate",
+   "title": "ASCIANO                         ASSOCIATE",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010608-asciano-associate.md",
+   "at": "2026-11-21T07:47:58+00:00"
   }
  ]
 }
