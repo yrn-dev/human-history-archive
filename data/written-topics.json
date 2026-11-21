@@ -1,5 +1,5 @@
 {
- "count": 8369,
+ "count": 8370,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58583,6 +58583,13 @@
    "era": "modern",
    "file": "eras/modern/010620-ashland-virginia-astrakhan-government-russia.md",
    "at": "2026-11-21T09:47:58+00:00"
+  },
+  {
+   "slug": "asir-atacama",
+   "title": "ASIR                            ATACAMA",
+   "era": "cultures",
+   "file": "eras/cultures/010621-asir-atacama.md",
+   "at": "2026-11-21T09:57:59+00:00"
   }
  ]
 }
