@@ -1,5 +1,5 @@
 {
- "count": 8358,
+ "count": 8359,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58506,6 +58506,13 @@
    "era": "ancient",
    "file": "eras/ancient/010609-asclepiades-samos-assumpsit.md",
    "at": "2026-11-21T07:57:52+00:00"
+  },
+  {
+   "slug": "asclepiodotus-assumption-feast",
+   "title": "ASCLEPIODOTUS                   ASSUMPTION, FEAST OF",
+   "era": "ancient",
+   "file": "eras/ancient/010610-asclepiodotus-assumption-feast.md",
+   "at": "2026-11-21T08:07:58+00:00"
   }
  ]
 }
