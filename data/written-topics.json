@@ -1,5 +1,5 @@
 {
- "count": 8364,
+ "count": 8365,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58548,6 +58548,13 @@
    "era": "ancient",
    "file": "eras/ancient/010615-ashburton-river-asterius-cappadocia.md",
    "at": "2026-11-21T08:57:48+00:00"
+  },
+  {
+   "slug": "ashby-de-la-zouch-asti",
+   "title": "ASHBY-DE-LA-ZOUCH               ASTI",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010616-ashby-de-la-zouch-asti.md",
+   "at": "2026-11-21T09:07:57+00:00"
   }
  ]
 }
