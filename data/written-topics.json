@@ -1,5 +1,5 @@
 {
- "count": 8363,
+ "count": 8364,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58541,6 +58541,13 @@
    "era": "industrial",
    "file": "eras/industrial/010614-ashburton-john-dunning-asterisk.md",
    "at": "2026-11-21T08:47:54+00:00"
+  },
+  {
+   "slug": "ashburton-river-asterius-cappadocia",
+   "title": "ASHBURTON (river)               ASTERIUS (of Cappadocia)",
+   "era": "ancient",
+   "file": "eras/ancient/010615-ashburton-river-asterius-cappadocia.md",
+   "at": "2026-11-21T08:57:48+00:00"
   }
  ]
 }
