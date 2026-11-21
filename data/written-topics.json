@@ -1,5 +1,5 @@
 {
- "count": 8339,
+ "count": 8340,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58373,6 +58373,13 @@
    "era": "industrial",
    "file": "eras/industrial/010590-imola-1878.md",
    "at": "2026-11-21T04:18:35+00:00"
+  },
+  {
+   "slug": "borgia-francis-1510-1572-roman-catholic-saint-duke-gandia",
+   "title": "BORGIA, FRANCIS (1510-1572), Roman Catholic saint, duke of Gandia, and",
+   "era": "renaissance",
+   "file": "eras/renaissance/010591-borgia-francis-1510-1572-roman-catholic-saint-duke-gandia.md",
+   "at": "2026-11-21T04:28:15+00:00"
   }
  ]
 }
