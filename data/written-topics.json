@@ -1,5 +1,5 @@
 {
- "count": 8357,
+ "count": 8358,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58499,6 +58499,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010608-asciano-associate.md",
    "at": "2026-11-21T07:47:58+00:00"
+  },
+  {
+   "slug": "asclepiades-samos-assumpsit",
+   "title": "ASCLEPIADES (of Samos)          ASSUMPSIT",
+   "era": "ancient",
+   "file": "eras/ancient/010609-asclepiades-samos-assumpsit.md",
+   "at": "2026-11-21T07:57:52+00:00"
   }
  ]
 }
