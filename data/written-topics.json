@@ -1,5 +1,5 @@
 {
- "count": 8365,
+ "count": 8366,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58555,6 +58555,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010616-ashby-de-la-zouch-asti.md",
    "at": "2026-11-21T09:07:57+00:00"
+  },
+  {
+   "slug": "a-she-ho-astley-jacob-astley",
+   "title": "A-SHE-HO                        ASTLEY, JACOB ASTLEY",
+   "era": "modern",
+   "file": "eras/modern/010617-a-she-ho-astley-jacob-astley.md",
+   "at": "2026-11-21T09:17:50+00:00"
   }
  ]
 }
