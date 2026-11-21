@@ -1,5 +1,5 @@
 {
- "count": 8416,
+ "count": 8417,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58912,6 +58912,13 @@
    "era": "industrial",
    "file": "eras/industrial/010667-iren-arier-kuhn-schleicher-beitrage-1858-pp-81-ff.md",
    "at": "2026-11-21T19:37:26+00:00"
+  },
+  {
+   "slug": "lectures-1891-pp-299-though-word-may-same",
+   "title": "Lectures, 1891, i. pp. 299 f.), though the word may have the same",
+   "era": "ancient",
+   "file": "eras/ancient/010668-lectures-1891-pp-299-though-word-may-same.md",
+   "at": "2026-11-21T19:47:33+00:00"
   }
  ]
 }
