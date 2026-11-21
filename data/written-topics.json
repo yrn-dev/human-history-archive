@@ -1,5 +1,5 @@
 {
- "count": 8371,
+ "count": 8372,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58597,6 +58597,13 @@
    "era": "modern",
    "file": "eras/modern/010622-asquith-herbert-henry-athens-greece.md",
    "at": "2026-11-21T10:09:01+00:00"
+  },
+  {
+   "slug": "ass-athens-georgia",
+   "title": "ASS                             ATHENS (Georgia, U.S.A.)",
+   "era": "modern",
+   "file": "eras/modern/010623-ass-athens-georgia.md",
+   "at": "2026-11-21T10:17:48+00:00"
   }
  ]
 }
