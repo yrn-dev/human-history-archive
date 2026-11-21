@@ -1,5 +1,5 @@
 {
- "count": 8359,
+ "count": 8360,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58513,6 +58513,13 @@
    "era": "ancient",
    "file": "eras/ancient/010610-asclepiodotus-assumption-feast.md",
    "at": "2026-11-21T08:07:58+00:00"
+  },
+  {
+   "slug": "ascoli-graziadio-isaia-assur-land-assyria",
+   "title": "ASCOLI, GRAZIADIO ISAIA         ASSUR (land of Assyria)",
+   "era": "ancient",
+   "file": "eras/ancient/010611-ascoli-graziadio-isaia-assur-land-assyria.md",
+   "at": "2026-11-21T08:18:09+00:00"
   }
  ]
 }
