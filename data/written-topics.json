@@ -1,5 +1,5 @@
 {
- "count": 8362,
+ "count": 8363,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58534,6 +58534,13 @@
    "era": "ancient",
    "file": "eras/ancient/010613-aselli-gasparo-assyria.md",
    "at": "2026-11-21T08:38:03+00:00"
+  },
+  {
+   "slug": "ashburton-john-dunning-asterisk",
+   "title": "ASHBURTON, JOHN DUNNING         ASTERISK",
+   "era": "industrial",
+   "file": "eras/industrial/010614-ashburton-john-dunning-asterisk.md",
+   "at": "2026-11-21T08:47:54+00:00"
   }
  ]
 }
