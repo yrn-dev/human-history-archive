@@ -1,5 +1,5 @@
 {
- "count": 8424,
+ "count": 8425,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58968,6 +58968,13 @@
    "era": "cultures",
    "file": "eras/cultures/010675-aryan-stock-daraya-va-us-ariya-civ-avesta.md",
    "at": "2026-11-21T20:57:32+00:00"
+  },
+  {
+   "slug": "altiranisches-worterbuch-earliest-literature",
+   "title": "(Altiranisches Worterbuch, s.v.), from the earliest literature, the",
+   "era": "ancient",
+   "file": "eras/ancient/010676-altiranisches-worterbuch-earliest-literature.md",
+   "at": "2026-11-21T21:07:19+00:00"
   }
  ]
 }
