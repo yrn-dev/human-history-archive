@@ -1,5 +1,5 @@
 {
- "count": 8380,
+ "count": 8381,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58660,6 +58660,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010631-arundel-market-town-municipal-borough-chichester.md",
    "at": "2026-11-21T12:07:46+00:00"
+  },
+  {
+   "slug": "canterbury-duke-gloucester-dethrone-richard-ii-murder",
+   "title": "Canterbury and duke of Gloucester, to dethrone Richard II. and murder",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010632-canterbury-duke-gloucester-dethrone-richard-ii-murder.md",
+   "at": "2026-11-21T12:17:45+00:00"
   }
  ]
 }
