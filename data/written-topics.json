@@ -1,5 +1,5 @@
 {
- "count": 8417,
+ "count": 8418,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58919,6 +58919,13 @@
    "era": "ancient",
    "file": "eras/ancient/010668-lectures-1891-pp-299-though-word-may-same.md",
    "at": "2026-11-21T19:47:33+00:00"
+  },
+  {
+   "slug": "celtic-germanic-words-uhlenbeck-kurzgefasstes-etymologisches",
+   "title": "Celtic and Germanic words (Uhlenbeck, Kurzgefasstes etymologisches",
+   "era": "cultures",
+   "file": "eras/cultures/010669-celtic-germanic-words-uhlenbeck-kurzgefasstes-etymologisches.md",
+   "at": "2026-11-21T19:57:35+00:00"
   }
  ]
 }
