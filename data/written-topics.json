@@ -1,5 +1,5 @@
 {
- "count": 8396,
+ "count": 8397,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58772,6 +58772,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010647-henry-arundell-3rd-baron-arundell-wardour-1607-1694-son.md",
    "at": "2026-11-21T15:07:42+00:00"
+  },
+  {
+   "slug": "thomas-2nd-baron-blanche-daughter-edward-earl",
+   "title": "Thomas, 2nd baron, and of Blanche, daughter of Edward, earl of",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010648-thomas-2nd-baron-blanche-daughter-edward-earl.md",
+   "at": "2026-11-21T15:17:45+00:00"
   }
  ]
 }
