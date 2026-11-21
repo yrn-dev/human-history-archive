@@ -1,5 +1,5 @@
 {
- "count": 8370,
+ "count": 8371,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58590,6 +58590,13 @@
    "era": "cultures",
    "file": "eras/cultures/010621-asir-atacama.md",
    "at": "2026-11-21T09:57:59+00:00"
+  },
+  {
+   "slug": "asquith-herbert-henry-athens-greece",
+   "title": "ASQUITH, HERBERT HENRY          ATHENS (Greece)",
+   "era": "modern",
+   "file": "eras/modern/010622-asquith-herbert-henry-athens-greece.md",
+   "at": "2026-11-21T10:09:01+00:00"
   }
  ]
 }
