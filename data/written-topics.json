@@ -1,5 +1,5 @@
 {
- "count": 8366,
+ "count": 8367,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58562,6 +58562,13 @@
    "era": "modern",
    "file": "eras/modern/010617-a-she-ho-astley-jacob-astley.md",
    "at": "2026-11-21T09:17:50+00:00"
+  },
+  {
+   "slug": "ashford-astor-john-jacob",
+   "title": "ASHFORD                         ASTOR, JOHN JACOB",
+   "era": "industrial",
+   "file": "eras/industrial/010618-ashford-astor-john-jacob.md",
+   "at": "2026-11-21T09:27:51+00:00"
   }
  ]
 }
