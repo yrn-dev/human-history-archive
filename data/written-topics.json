@@ -1,5 +1,5 @@
 {
- "count": 8402,
+ "count": 8403,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58814,6 +58814,13 @@
    "era": "modern",
    "file": "eras/modern/010653-12th-february-1684-22nd-may-1685-james-ii.md",
    "at": "2026-11-21T16:09:46+00:00"
+  },
+  {
+   "slug": "virgil-sallust-terence-cicero-cassiodorus-only-writer-who",
+   "title": "Virgil, Sallust, Terence and Cicero. Cassiodorus, the only writer who",
+   "era": "ancient",
+   "file": "eras/ancient/010654-virgil-sallust-terence-cicero-cassiodorus-only-writer-who.md",
+   "at": "2026-11-21T16:57:50+00:00"
   }
  ]
 }
