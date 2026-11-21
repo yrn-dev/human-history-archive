@@ -1,5 +1,5 @@
 {
- "count": 8425,
+ "count": 8426,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58975,6 +58975,13 @@
    "era": "ancient",
    "file": "eras/ancient/010676-altiranisches-worterbuch-earliest-literature.md",
    "at": "2026-11-21T21:07:19+00:00"
+  },
+  {
+   "slug": "whatever-origin-arya--however-clear-word",
+   "title": "Whatever the origin of arya-, however, it is clear that it is a word",
+   "era": "cultures",
+   "file": "eras/cultures/010677-whatever-origin-arya--however-clear-word.md",
+   "at": "2026-11-21T21:17:36+00:00"
   }
  ]
 }
