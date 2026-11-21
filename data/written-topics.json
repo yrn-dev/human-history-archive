@@ -1,5 +1,5 @@
 {
- "count": 8390,
+ "count": 8391,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58730,6 +58730,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010641-sir-mathew-arundell-wardour-castle-wiltshire-member.md",
    "at": "2026-11-21T14:07:42+00:00"
+  },
+  {
+   "slug": "december-1595-returned-england-suffering-shipwreck",
+   "title": "December 1595, and returned to England after suffering shipwreck and",
+   "era": "renaissance",
+   "file": "eras/renaissance/010642-december-1595-returned-england-suffering-shipwreck.md",
+   "at": "2026-11-21T14:17:40+00:00"
   }
  ]
 }
