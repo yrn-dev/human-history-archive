@@ -1,5 +1,5 @@
 {
- "count": 8354,
+ "count": 8355,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -58478,6 +58478,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010605-arundel-thomas-athens.md",
    "at": "2026-11-21T07:18:09+00:00"
+  },
+  {
+   "slug": "arundell-wardour-assamese",
+   "title": "ARUNDELL OF WARDOUR             ASSAMESE",
+   "era": "renaissance",
+   "file": "eras/renaissance/010606-arundell-wardour-assamese.md",
+   "at": "2026-11-21T07:28:17+00:00"
   }
  ]
 }
