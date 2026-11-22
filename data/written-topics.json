@@ -1,5 +1,5 @@
 {
- "count": 8514,
+ "count": 8515,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59598,6 +59598,13 @@
    "era": "industrial",
    "file": "eras/industrial/010765-geological-observations-volcanic-islands-visited-during.md",
    "at": "2026-11-22T13:26:37+00:00"
+  },
+  {
+   "slug": "voyage-beagle-london-1844-report-scientific",
+   "title": "Voyage of H.M.S. \"Beagle\" (London, 1844); Report of the Scientific",
+   "era": "industrial",
+   "file": "eras/industrial/010766-voyage-beagle-london-1844-report-scientific.md",
+   "at": "2026-11-22T13:36:31+00:00"
   }
  ]
 }
