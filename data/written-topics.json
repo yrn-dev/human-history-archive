@@ -1,5 +1,5 @@
 {
- "count": 8449,
+ "count": 8450,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59143,6 +59143,13 @@
    "era": "cultures",
    "file": "eras/cultures/010700-ten-articles-their-creed-may-summarized-thus---.md",
    "at": "2026-11-22T01:17:19+00:00"
+  },
+  {
+   "slug": "object-samaj-benefit-world-improving",
+   "title": "6. The object of the Samaj is to benefit the world by improving",
+   "era": "modern",
+   "file": "eras/modern/010701-object-samaj-benefit-world-improving.md",
+   "at": "2026-11-22T01:27:09+00:00"
   }
  ]
 }
