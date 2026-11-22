@@ -1,5 +1,5 @@
 {
- "count": 8566,
+ "count": 8567,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59962,6 +59962,13 @@
    "era": "cultures",
    "file": "eras/cultures/010817-purification-goldziher-de-ascetisme-aux-premiers-temps-de.md",
    "at": "2026-11-22T22:06:06+00:00"
+  },
+  {
+   "slug": "types-ethical-theory-oxford-1885-green-prolegomena",
+   "title": "Types of Ethical Theory (Oxford, 1885); T.H. Green, Prolegomena to",
+   "era": "modern",
+   "file": "eras/modern/010818-types-ethical-theory-oxford-1885-green-prolegomena.md",
+   "at": "2026-11-22T22:16:10+00:00"
   }
  ]
 }
