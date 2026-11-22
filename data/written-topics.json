@@ -1,5 +1,5 @@
 {
- "count": 8472,
+ "count": 8473,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59304,6 +59304,13 @@
    "era": "industrial",
    "file": "eras/industrial/010723-amphibole-asbestos-obtained-sall-mountain-georgia.md",
    "at": "2026-11-22T05:17:02+00:00"
+  },
+  {
+   "slug": "formerly-asbestos-obtained-almost-exclusively-italy",
+   "title": "Formerly asbestos was obtained almost exclusively from Italy and",
+   "era": "industrial",
+   "file": "eras/industrial/010724-formerly-asbestos-obtained-almost-exclusively-italy.md",
+   "at": "2026-11-22T05:27:01+00:00"
   }
  ]
 }
