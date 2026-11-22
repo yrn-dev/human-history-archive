@@ -1,5 +1,5 @@
 {
- "count": 8563,
+ "count": 8564,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59941,6 +59941,13 @@
    "era": "cultures",
    "file": "eras/cultures/010814-attis-osiris-london-1906-georges-lafay-culte-des-divinites.md",
    "at": "2026-11-22T21:36:05+00:00"
+  },
+  {
+   "slug": "mittelalters-munich-1890-fr-cumont-mysteries-mithra",
+   "title": "Mittelalters (Munich, 1890); Fr. Cumont, Mysteries of Mithra",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010815-mittelalters-munich-1890-fr-cumont-mysteries-mithra.md",
+   "at": "2026-11-22T21:46:08+00:00"
   }
  ]
 }
