@@ -1,5 +1,5 @@
 {
- "count": 8453,
+ "count": 8454,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59171,6 +59171,13 @@
    "era": "ancient",
    "file": "eras/ancient/010704-roman-unit-weight-measure-divided-12-unciae.md",
    "at": "2026-11-22T02:07:04+00:00"
+  },
+  {
+   "slug": "really-denoted-any-integer-whole-whence-english-word-ace",
+   "title": "As really denoted any integer or whole; whence the English word \"ace.\"",
+   "era": "modern",
+   "file": "eras/modern/010705-really-denoted-any-integer-whole-whence-english-word-ace.md",
+   "at": "2026-11-22T02:17:01+00:00"
   }
  ]
 }
