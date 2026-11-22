@@ -1,5 +1,5 @@
 {
- "count": 8492,
+ "count": 8493,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59444,6 +59444,13 @@
    "era": "industrial",
    "file": "eras/industrial/010743-juleegave-1860-asbjornsen-moe-advantage-admirable.md",
    "at": "2026-11-22T08:56:40+00:00"
+  },
+  {
+   "slug": "asbjornsen-charm-moe-but-fact-seems",
+   "title": "Asbjornsen and the charm from Moe, but the fact seems to be that from",
+   "era": "cultures",
+   "file": "eras/cultures/010744-asbjornsen-charm-moe-but-fact-seems.md",
+   "at": "2026-11-22T09:06:40+00:00"
   }
  ]
 }
