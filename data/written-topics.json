@@ -1,5 +1,5 @@
 {
- "count": 8454,
+ "count": 8455,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59178,6 +59178,13 @@
    "era": "modern",
    "file": "eras/modern/010705-really-denoted-any-integer-whole-whence-english-word-ace.md",
    "at": "2026-11-22T02:17:01+00:00"
+  },
+  {
+   "slug": "also-name-roman-coin-which-different-weight",
+   "title": "As was also the name of a Roman coin, which was of different weight",
+   "era": "ancient",
+   "file": "eras/ancient/010706-also-name-roman-coin-which-different-weight.md",
+   "at": "2026-11-22T02:27:04+00:00"
   }
  ]
 }
