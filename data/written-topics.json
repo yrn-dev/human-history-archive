@@ -1,5 +1,5 @@
 {
- "count": 8567,
+ "count": 8568,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59969,6 +59969,13 @@
    "era": "modern",
    "file": "eras/modern/010818-types-ethical-theory-oxford-1885-green-prolegomena.md",
    "at": "2026-11-22T22:16:10+00:00"
+  },
+  {
+   "slug": "ethics-oxford-1883-franz-cumont-les-religions-orientales-dans",
+   "title": "Ethics (Oxford, 1883); Franz Cumont, Les Religions orientales dans",
+   "era": "cultures",
+   "file": "eras/cultures/010819-ethics-oxford-1883-franz-cumont-les-religions-orientales-dans.md",
+   "at": "2026-11-22T22:26:07+00:00"
   }
  ]
 }
