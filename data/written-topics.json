@@ -1,5 +1,5 @@
 {
- "count": 8480,
+ "count": 8481,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59360,6 +59360,13 @@
    "era": "industrial",
    "file": "eras/industrial/010731-london-1897.md",
    "at": "2026-11-22T06:36:49+00:00"
+  },
+  {
+   "slug": "asbjornsen-peter-christen-1812-1885-moe-jorgen-engebretsen",
+   "title": "ASBJORNSEN, PETER CHRISTEN (1812-1885), and MOE, JORGEN ENGEBRETSEN",
+   "era": "modern",
+   "file": "eras/modern/010732-asbjornsen-peter-christen-1812-1885-moe-jorgen-engebretsen.md",
+   "at": "2026-11-22T06:46:47+00:00"
   }
  ]
 }
