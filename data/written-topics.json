@@ -1,5 +1,5 @@
 {
- "count": 8479,
+ "count": 8480,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59353,6 +59353,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/010730-mineral-resources-geol-survey-merrill-non-metallic.md",
    "at": "2026-11-22T06:27:00+00:00"
+  },
+  {
+   "slug": "london-1897",
+   "title": "(London, 1897).     (F. W. R.)",
+   "era": "industrial",
+   "file": "eras/industrial/010731-london-1897.md",
+   "at": "2026-11-22T06:36:49+00:00"
   }
  ]
 }
