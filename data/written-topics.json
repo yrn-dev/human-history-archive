@@ -1,5 +1,5 @@
 {
- "count": 8569,
+ "count": 8570,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59983,6 +59983,13 @@
    "era": "modern",
    "file": "eras/modern/010820-aschaffenburg-town-germany-kingdom-bavaria.md",
    "at": "2026-11-22T22:46:07+00:00"
+  },
+  {
+   "slug": "bavaria-but-dating-main-early-12th-13th",
+   "title": "Bavaria, but dating in the main from the early 12th and the 13th",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010821-bavaria-but-dating-main-early-12th-13th.md",
+   "at": "2026-11-22T22:55:58+00:00"
   }
  ]
 }
