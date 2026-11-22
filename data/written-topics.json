@@ -1,5 +1,5 @@
 {
- "count": 8501,
+ "count": 8502,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59507,6 +59507,13 @@
    "era": "industrial",
    "file": "eras/industrial/010752-heroes-methodism-new-york-1856-larrabee-asbury-his.md",
    "at": "2026-11-22T10:46:41+00:00"
+  },
+  {
+   "slug": "asbury-park-city-monmouth-county-new-jersey",
+   "title": "ASBURY PARK, a city of Monmouth county, New Jersey, U.S.A., on the",
+   "era": "modern",
+   "file": "eras/modern/010753-asbury-park-city-monmouth-county-new-jersey.md",
+   "at": "2026-11-22T11:06:31+00:00"
   }
  ]
 }
