@@ -1,5 +1,5 @@
 {
- "count": 8452,
+ "count": 8453,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59164,6 +59164,13 @@
    "era": "modern",
    "file": "eras/modern/010703-sixth-clause-comprehends-wide-programme-reform-including.md",
    "at": "2026-11-22T01:47:02+00:00"
+  },
+  {
+   "slug": "roman-unit-weight-measure-divided-12-unciae",
+   "title": "AS, the Roman unit of weight and measure, divided into 12 unciae",
+   "era": "ancient",
+   "file": "eras/ancient/010704-roman-unit-weight-measure-divided-12-unciae.md",
+   "at": "2026-11-22T02:07:04+00:00"
   }
  ]
 }
