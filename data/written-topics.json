@@ -1,5 +1,5 @@
 {
- "count": 8500,
+ "count": 8501,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59500,6 +59500,13 @@
    "era": "industrial",
    "file": "eras/industrial/010751-asbury-london-1874-strickland-pioneer-bishop.md",
    "at": "2026-11-22T10:36:42+00:00"
+  },
+  {
+   "slug": "heroes-methodism-new-york-1856-larrabee-asbury-his",
+   "title": "Heroes of Methodism (New York, 1856): W.C. Larrabee, Asbury and His",
+   "era": "industrial",
+   "file": "eras/industrial/010752-heroes-methodism-new-york-1856-larrabee-asbury-his.md",
+   "at": "2026-11-22T10:46:41+00:00"
   }
  ]
 }
