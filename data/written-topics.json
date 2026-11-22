@@ -1,5 +1,5 @@
 {
- "count": 8455,
+ "count": 8456,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59185,6 +59185,13 @@
    "era": "ancient",
    "file": "eras/ancient/010706-also-name-roman-coin-which-different-weight.md",
    "at": "2026-11-22T02:27:04+00:00"
+  },
+  {
+   "slug": "value-6d-time-cicero-less",
+   "title": "B.C.) the value of the as was about 6d., in the time of Cicero less",
+   "era": "ancient",
+   "file": "eras/ancient/010707-value-6d-time-cicero-less.md",
+   "at": "2026-11-22T02:37:05+00:00"
   }
  ]
 }
