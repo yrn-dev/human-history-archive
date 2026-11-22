@@ -1,5 +1,5 @@
 {
- "count": 8525,
+ "count": 8526,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59675,6 +59675,13 @@
    "era": "cultures",
    "file": "eras/cultures/010776-anglican-church-ascension-day-octave-continue.md",
    "at": "2026-11-22T15:16:21+00:00"
+  },
+  {
+   "slug": "duchesne-christian-worship-2nd-eng-ed-london-1904",
+   "title": "L. Duchesne, Christian Worship (2nd Eng. ed., London, 1904); The",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010777-duchesne-christian-worship-2nd-eng-ed-london-1904.md",
+   "at": "2026-11-22T15:26:29+00:00"
   }
  ]
 }
