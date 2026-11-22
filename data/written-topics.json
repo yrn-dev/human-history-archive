@@ -1,5 +1,5 @@
 {
- "count": 8503,
+ "count": 8504,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59521,6 +59521,13 @@
    "era": "modern",
    "file": "eras/modern/010754-fresh-water-lakes-one-which-deal-lake-extends-some-distance.md",
    "at": "2026-11-22T11:16:44+00:00"
+  },
+  {
+   "slug": "only-incident-history-recorded-bible-spoliation",
+   "title": "The only incident in its history recorded in the Bible (the spoliation",
+   "era": "ancient",
+   "file": "eras/ancient/010755-only-incident-history-recorded-bible-spoliation.md",
+   "at": "2026-11-22T11:26:33+00:00"
   }
  ]
 }
