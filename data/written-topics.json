@@ -1,5 +1,5 @@
 {
- "count": 8575,
+ "count": 8576,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60025,6 +60025,13 @@
    "era": "modern",
    "file": "eras/modern/010826-kirby-wiske-village-north-riding-yorkshire-near.md",
    "at": "2026-11-22T23:45:56+00:00"
+  },
+  {
+   "slug": "northallerton-year-1515-his-name-would-more-properly",
+   "title": "Northallerton, about the year 1515. His name would be more properly",
+   "era": "renaissance",
+   "file": "eras/renaissance/010827-northallerton-year-1515-his-name-would-more-properly.md",
+   "at": "2026-11-22T23:55:55+00:00"
   }
  ]
 }
