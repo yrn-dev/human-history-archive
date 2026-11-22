@@ -1,5 +1,5 @@
 {
- "count": 8478,
+ "count": 8479,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -59346,6 +59346,13 @@
    "era": "modern",
    "file": "eras/modern/010729-uses-ottawa-1905-pratt-diller-annual-reports.md",
    "at": "2026-11-22T06:16:50+00:00"
+  },
+  {
+   "slug": "mineral-resources-geol-survey-merrill-non-metallic",
+   "title": "Mineral Resources, U.S. Geol. Survey; G.P. Merrill, The Non-metallic",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/010730-mineral-resources-geol-survey-merrill-non-metallic.md",
+   "at": "2026-11-22T06:27:00+00:00"
   }
  ]
 }
