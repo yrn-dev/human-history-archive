@@ -1,5 +1,5 @@
 {
- "count": 8614,
+ "count": 8615,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60298,6 +60298,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010865-charlemagne-rule-bishops-who-title.md",
    "at": "2026-11-23T07:55:58+00:00"
+  },
+  {
+   "slug": "asconius-pedianus-quintus--a-76-3-88-roman",
+   "title": "ASCONIUS PEDIANUS, QUINTUS (9 B.C.-A.D. 76; or A.D. 3-88), Roman",
+   "era": "ancient",
+   "file": "eras/ancient/010866-asconius-pedianus-quintus--a-76-3-88-roman.md",
+   "at": "2026-11-23T08:05:41+00:00"
   }
  ]
 }
