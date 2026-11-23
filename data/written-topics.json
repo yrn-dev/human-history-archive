@@ -1,5 +1,5 @@
 {
- "count": 8617,
+ "count": 8618,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60319,6 +60319,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010868-gallen-1416-ms-lost-but-three-transcripts-made.md",
    "at": "2026-11-23T08:25:36+00:00"
+  },
+  {
+   "slug": "bartolommeo-transcript-exists-florence-laur-liv-later",
+   "title": "Bartolommeo's transcript exists in Florence (Laur. liv. 5). The later",
+   "era": "renaissance",
+   "file": "eras/renaissance/010869-bartolommeo-transcript-exists-florence-laur-liv-later.md",
+   "at": "2026-11-23T08:35:37+00:00"
   }
  ]
 }
