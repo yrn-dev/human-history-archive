@@ -1,5 +1,5 @@
 {
- "count": 8591,
+ "count": 8592,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60137,6 +60137,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010842-princess-elizabeth-reading-greek-orations-aeschines.md",
    "at": "2026-11-23T02:45:50+00:00"
+  },
+  {
+   "slug": "demosthenes-de-corona-soon-elizabeth-accession-5th",
+   "title": "Demosthenes' De Corona. Soon after Elizabeth's accession, on the 5th",
+   "era": "ancient",
+   "file": "eras/ancient/010843-demosthenes-de-corona-soon-elizabeth-accession-5th.md",
+   "at": "2026-11-23T02:55:56+00:00"
   }
  ]
 }
