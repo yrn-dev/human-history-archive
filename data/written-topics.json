@@ -1,5 +1,5 @@
 {
- "count": 8598,
+ "count": 8599,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60186,6 +60186,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010849-toxophilus-scholemaster-life-edward-grant.md",
    "at": "2026-11-23T04:15:53+00:00"
+  },
+  {
+   "slug": "catholic-four-protestant-churches-synagogue-fine-town-hall",
+   "title": "Catholic and four Protestant churches, a synagogue, a fine town-hall",
+   "era": "modern",
+   "file": "eras/modern/010850-catholic-four-protestant-churches-synagogue-fine-town-hall.md",
+   "at": "2026-11-23T04:55:42+00:00"
   }
  ]
 }
