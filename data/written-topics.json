@@ -1,5 +1,5 @@
 {
- "count": 8700,
+ "count": 8701,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60900,6 +60900,13 @@
    "era": "modern",
    "file": "eras/modern/010951-50-000-stipulated-paid-mensa-rule-tyrannous.md",
    "at": "2026-11-23T23:04:59+00:00"
+  },
+  {
+   "slug": "dua-iii---was-chosen-king-march-26-1888-colonial-government",
+   "title": "Dua III.--was chosen king (March 26, 1888), the colonial government",
+   "era": "industrial",
+   "file": "eras/industrial/010952-dua-iii---was-chosen-king-march-26-1888-colonial-government.md",
+   "at": "2026-11-23T23:14:51+00:00"
   }
  ]
 }
