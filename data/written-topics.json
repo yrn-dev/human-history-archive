@@ -1,5 +1,5 @@
 {
- "count": 8612,
+ "count": 8613,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60284,6 +60284,13 @@
    "era": "ancient",
    "file": "eras/ancient/010863-captured-long-siege-pompeius-strabo-89.md",
    "at": "2026-11-23T07:35:44+00:00"
+  },
+  {
+   "slug": "545-taken-totila-but-spoken-paulus-diaconus",
+   "title": "In 545 it was taken by Totila, but is spoken of by Paulus Diaconus as",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010864-545-taken-totila-but-spoken-paulus-diaconus.md",
+   "at": "2026-11-23T07:45:43+00:00"
   }
  ]
 }
