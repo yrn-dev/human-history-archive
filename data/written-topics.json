@@ -1,5 +1,5 @@
 {
- "count": 8630,
+ "count": 8631,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60410,6 +60410,13 @@
    "era": "cultures",
    "file": "eras/cultures/010881-sha-maimun-ibn-qais-arabian-poet-born-mahomet.md",
    "at": "2026-11-23T10:55:34+00:00"
+  },
+  {
+   "slug": "his-poems-been-collected-various-sources-cheikho",
+   "title": "His poems have been collected from various sources in L. Cheikho's",
+   "era": "ancient",
+   "file": "eras/ancient/010882-his-poems-been-collected-various-sources-cheikho.md",
+   "at": "2026-11-23T11:25:38+00:00"
   }
  ]
 }
