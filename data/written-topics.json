@@ -1,5 +1,5 @@
 {
- "count": 8610,
+ "count": 8611,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60270,6 +60270,13 @@
    "era": "ancient",
    "file": "eras/ancient/010861-salaria-ponte-maggiore-ponte-cartaro-other.md",
    "at": "2026-11-23T07:15:43+00:00"
+  },
+  {
+   "slug": "social-war-against-rome-proconsul-servilius-all-roman",
+   "title": "Social War against Rome, the proconsul Q. Servilius and all the Roman",
+   "era": "ancient",
+   "file": "eras/ancient/010862-social-war-against-rome-proconsul-servilius-all-roman.md",
+   "at": "2026-11-23T07:25:49+00:00"
   }
  ]
 }
