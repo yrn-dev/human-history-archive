@@ -1,5 +1,5 @@
 {
- "count": 8689,
+ "count": 8690,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60823,6 +60823,13 @@
    "era": "industrial",
    "file": "eras/industrial/010940-23rd-fusiliers-42nd-highlanders-despatched-seeing.md",
    "at": "2026-11-23T21:05:35+00:00"
+  },
+  {
+   "slug": "prah-crossed-european-troops-24th-adansi-hills",
+   "title": "Prah was crossed by the European troops; on the 24th the Adansi hills",
+   "era": "modern",
+   "file": "eras/modern/010941-prah-crossed-european-troops-24th-adansi-hills.md",
+   "at": "2026-11-23T21:15:02+00:00"
   }
  ]
 }
