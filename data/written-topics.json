@@ -1,5 +1,5 @@
 {
- "count": 8632,
+ "count": 8633,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60424,6 +60424,13 @@
    "era": "cultures",
    "file": "eras/cultures/010883-357-399-his-eulogy-mahomet-been-edited-thorbecke-al.md",
    "at": "2026-11-23T11:35:38+00:00"
+  },
+  {
+   "slug": "asa-lobgedicht-auf-muhammad-leipzig-1875",
+   "title": "Asa's Lobgedicht auf Muhammad (Leipzig, 1875).     (G. W. T.)",
+   "era": "ancient",
+   "file": "eras/ancient/010884-asa-lobgedicht-auf-muhammad-leipzig-1875.md",
+   "at": "2026-11-23T11:45:30+00:00"
   }
  ]
 }
