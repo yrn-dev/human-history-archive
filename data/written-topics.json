@@ -1,5 +1,5 @@
 {
- "count": 8609,
+ "count": 8610,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60263,6 +60263,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010860-there-also-picture-gallery-containing-works-local.md",
    "at": "2026-11-23T07:05:50+00:00"
+  },
+  {
+   "slug": "salaria-ponte-maggiore-ponte-cartaro-other",
+   "title": "Salaria; the Ponte Maggiore and the Ponte Cartaro are, on the other",
+   "era": "ancient",
+   "file": "eras/ancient/010861-salaria-ponte-maggiore-ponte-cartaro-other.md",
+   "at": "2026-11-23T07:15:43+00:00"
   }
  ]
 }
