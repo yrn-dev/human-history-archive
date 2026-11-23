@@ -1,5 +1,5 @@
 {
- "count": 8616,
+ "count": 8617,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60312,6 +60312,13 @@
    "era": "ancient",
    "file": "eras/ancient/010867-scauro-pro-milone-pro-cornelio-toga-candida-very.md",
    "at": "2026-11-23T08:15:39+00:00"
+  },
+  {
+   "slug": "gallen-1416-ms-lost-but-three-transcripts-made",
+   "title": "Gallen in 1416. This MS. is lost, but three transcripts were made by",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010868-gallen-1416-ms-lost-but-three-transcripts-made.md",
+   "at": "2026-11-23T08:25:36+00:00"
   }
  ]
 }
