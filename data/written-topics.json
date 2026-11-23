@@ -1,5 +1,5 @@
 {
- "count": 8620,
+ "count": 8621,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60340,6 +60340,13 @@
    "era": "ancient",
    "file": "eras/ancient/010871-ascus-gr-greek-askos-bag-botanical-term-membranous.md",
    "at": "2026-11-23T09:05:59+00:00"
+  },
+  {
+   "slug": "1696-advocating-establishment-some-currency-other-than",
+   "title": "(1696) advocating the establishment of some currency other than the",
+   "era": "modern",
+   "file": "eras/modern/010872-1696-advocating-establishment-some-currency-other-than.md",
+   "at": "2026-11-23T09:26:13+00:00"
   }
  ]
 }
