@@ -1,5 +1,5 @@
 {
- "count": 8611,
+ "count": 8612,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60277,6 +60277,13 @@
    "era": "ancient",
    "file": "eras/ancient/010862-social-war-against-rome-proconsul-servilius-all-roman.md",
    "at": "2026-11-23T07:25:49+00:00"
+  },
+  {
+   "slug": "captured-long-siege-pompeius-strabo-89",
+   "title": "It was captured after a long siege by Pompeius Strabo in 89 B.C. The",
+   "era": "ancient",
+   "file": "eras/ancient/010863-captured-long-siege-pompeius-strabo-89.md",
+   "at": "2026-11-23T07:35:44+00:00"
   }
  ]
 }
