@@ -1,5 +1,5 @@
 {
- "count": 8680,
+ "count": 8681,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60760,6 +60760,13 @@
    "era": "industrial",
    "file": "eras/industrial/010931-kumasi-but-british-government-would-not-allow-no-further.md",
    "at": "2026-11-23T19:35:16+00:00"
+  },
+  {
+   "slug": "two-distinct-events-immediate-cause-war-principal",
+   "title": "Two distinct events were the immediate cause of the war. The principal",
+   "era": "ancient",
+   "file": "eras/ancient/010932-two-distinct-events-immediate-cause-war-principal.md",
+   "at": "2026-11-23T19:45:11+00:00"
   }
  ]
 }
