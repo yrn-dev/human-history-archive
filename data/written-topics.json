@@ -1,5 +1,5 @@
 {
- "count": 8605,
+ "count": 8606,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60235,6 +60235,13 @@
    "era": "industrial",
    "file": "eras/industrial/010856-1873-publishing-his-saggi-ladini-making-succeeding.md",
    "at": "2026-11-23T06:15:48+00:00"
+  },
+  {
+   "slug": "ascoli-piceno-anc-ausculum-town-episcopal-see",
+   "title": "ASCOLI PICENO[1] (anc. Ausculum) a town and episcopal see of the",
+   "era": "ancient",
+   "file": "eras/ancient/010857-ascoli-piceno-anc-ausculum-town-episcopal-see.md",
+   "at": "2026-11-23T06:25:48+00:00"
   }
  ]
 }
