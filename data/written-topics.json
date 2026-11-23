@@ -1,5 +1,5 @@
 {
- "count": 8633,
+ "count": 8634,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60431,6 +60431,13 @@
    "era": "ancient",
    "file": "eras/ancient/010884-asa-lobgedicht-auf-muhammad-leipzig-1875.md",
    "at": "2026-11-23T11:45:30+00:00"
+  },
+  {
+   "slug": "ivory-coast-colony-british-protectorate-known-northern",
+   "title": "Ivory Coast colony, N. by the British Protectorate known as Northern",
+   "era": "modern",
+   "file": "eras/modern/010885-ivory-coast-colony-british-protectorate-known-northern.md",
+   "at": "2026-11-23T11:55:35+00:00"
   }
  ]
 }
