@@ -1,5 +1,5 @@
 {
- "count": 8676,
+ "count": 8677,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60732,6 +60732,13 @@
    "era": "industrial",
    "file": "eras/industrial/010927-dodowah-7th-august-1826-time-power.md",
    "at": "2026-11-23T18:55:05+00:00"
+  },
+  {
+   "slug": "british-ceased-battle-dodowah-treaty",
+   "title": "British had ceased after the battle of Dodowah, and by the treaty",
+   "era": "modern",
+   "file": "eras/modern/010928-british-ceased-battle-dodowah-treaty.md",
+   "at": "2026-11-23T19:05:04+00:00"
   }
  ]
 }
