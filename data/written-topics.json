@@ -1,5 +1,5 @@
 {
- "count": 8601,
+ "count": 8602,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60207,6 +60207,13 @@
    "era": "ancient",
    "file": "eras/ancient/010852-theocritus-flourished-270-he-earliest-most.md",
    "at": "2026-11-23T05:25:44+00:00"
+  },
+  {
+   "slug": "nothing-known-him-except-he-pupil-poseidonius",
+   "title": "Nothing is known of him except that he was a pupil of Poseidonius the",
+   "era": "ancient",
+   "file": "eras/ancient/010853-nothing-known-him-except-he-pupil-poseidonius.md",
+   "at": "2026-11-23T05:35:43+00:00"
   }
  ]
 }
