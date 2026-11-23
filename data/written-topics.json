@@ -1,5 +1,5 @@
 {
- "count": 8619,
+ "count": 8620,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60333,6 +60333,13 @@
    "era": "industrial",
    "file": "eras/industrial/010870-england-famous-race-meetings-pop-parish-ascot-heath.md",
    "at": "2026-11-23T08:45:41+00:00"
+  },
+  {
+   "slug": "ascus-gr-greek-askos-bag-botanical-term-membranous",
+   "title": "ASCUS (Gr. [Greek: askos], a bag), a botanical term for the membranous",
+   "era": "ancient",
+   "file": "eras/ancient/010871-ascus-gr-greek-askos-bag-botanical-term-membranous.md",
+   "at": "2026-11-23T09:05:59+00:00"
   }
  ]
 }
