@@ -1,5 +1,5 @@
 {
- "count": 8624,
+ "count": 8625,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60368,6 +60368,13 @@
    "era": "modern",
    "file": "eras/modern/010875-ash-britain-next-value-oak-timber-tree.md",
    "at": "2026-11-23T09:55:34+00:00"
+  },
+  {
+   "slug": "variety-common-species-known-var-heterophylla",
+   "title": "A variety of the common species, known as var. heterophylla, has",
+   "era": "cultures",
+   "file": "eras/cultures/010876-variety-common-species-known-var-heterophylla.md",
+   "at": "2026-11-23T10:05:29+00:00"
   }
  ]
 }
