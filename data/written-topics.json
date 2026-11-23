@@ -1,5 +1,5 @@
 {
- "count": 8583,
+ "count": 8584,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60081,6 +60081,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010834-ascham-answered-assurance-he-no-seeker.md",
    "at": "2026-11-23T01:06:05+00:00"
+  },
+  {
+   "slug": "ought-not-suppose-vile-him-write-platonic",
+   "title": "\"ought not to suppose it vile for him to write.\" It is a Platonic",
+   "era": "ancient",
+   "file": "eras/ancient/010835-ought-not-suppose-vile-him-write-platonic.md",
+   "at": "2026-11-23T01:15:59+00:00"
   }
  ]
 }
