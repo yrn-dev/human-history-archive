@@ -1,5 +1,5 @@
 {
- "count": 8613,
+ "count": 8614,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60291,6 +60291,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010864-545-taken-totila-but-spoken-paulus-diaconus.md",
    "at": "2026-11-23T07:45:43+00:00"
+  },
+  {
+   "slug": "charlemagne-rule-bishops-who-title",
+   "title": "Charlemagne it was under the rule of its bishops, who had the title of",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/010865-charlemagne-rule-bishops-who-title.md",
+   "at": "2026-11-23T07:55:58+00:00"
   }
  ]
 }
