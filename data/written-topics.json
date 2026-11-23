@@ -1,5 +1,5 @@
 {
- "count": 8625,
+ "count": 8626,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60375,6 +60375,13 @@
    "era": "cultures",
    "file": "eras/cultures/010876-variety-common-species-known-var-heterophylla.md",
    "at": "2026-11-23T10:05:29+00:00"
+  },
+  {
+   "slug": "cambridgeshire-variety-crispa-occurs-curled-leaves",
+   "title": "Cambridgeshire. A variety (crispa) occurs with curled leaves, and",
+   "era": "modern",
+   "file": "eras/modern/010877-cambridgeshire-variety-crispa-occurs-curled-leaves.md",
+   "at": "2026-11-23T10:15:30+00:00"
   }
  ]
 }
