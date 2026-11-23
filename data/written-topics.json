@@ -1,5 +1,5 @@
 {
- "count": 8600,
+ "count": 8601,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60200,6 +60200,13 @@
    "era": "modern",
    "file": "eras/modern/010851-usually-alcoholic-cancer-diseases-outside-liver.md",
    "at": "2026-11-23T05:05:42+00:00"
+  },
+  {
+   "slug": "theocritus-flourished-270-he-earliest-most",
+   "title": "Theocritus, flourished about 270 B.C. He was the earliest and most",
+   "era": "ancient",
+   "file": "eras/ancient/010852-theocritus-flourished-270-he-earliest-most.md",
+   "at": "2026-11-23T05:25:44+00:00"
   }
  ]
 }
