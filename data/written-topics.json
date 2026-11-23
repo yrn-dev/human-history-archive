@@ -1,5 +1,5 @@
 {
- "count": 8590,
+ "count": 8591,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60130,6 +60130,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010841-latin-secretary-queen-mary-pension-l20-year-his.md",
    "at": "2026-11-23T02:25:51+00:00"
+  },
+  {
+   "slug": "princess-elizabeth-reading-greek-orations-aeschines",
+   "title": "Princess Elizabeth, reading in Greek the orations of Aeschines and",
+   "era": "renaissance",
+   "file": "eras/renaissance/010842-princess-elizabeth-reading-greek-orations-aeschines.md",
+   "at": "2026-11-23T02:45:50+00:00"
   }
  ]
 }
