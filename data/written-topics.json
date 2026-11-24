@@ -1,5 +1,5 @@
 {
- "count": 8777,
+ "count": 8778,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61439,6 +61439,13 @@
    "era": "industrial",
    "file": "eras/industrial/011028-gilbert-scott-south-town-extensive-remains.md",
    "at": "2026-11-24T13:24:34+00:00"
+  },
+  {
+   "slug": "ashby-castle-there-extensive-coal-mines-neighbouring",
+   "title": "Ashby Castle. There are extensive coal-mines in the neighbouring",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/011029-ashby-castle-there-extensive-coal-mines-neighbouring.md",
+   "at": "2026-11-24T13:49:51+00:00"
   }
  ]
 }
