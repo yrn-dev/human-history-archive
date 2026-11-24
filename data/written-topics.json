@@ -1,5 +1,5 @@
 {
- "count": 8727,
+ "count": 8728,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61089,6 +61089,13 @@
    "era": "industrial",
    "file": "eras/industrial/010978-coomassie-sir-stanley-being-story-1873-74.md",
    "at": "2026-11-24T03:54:33+00:00"
+  },
+  {
+   "slug": "prempeh-general-baden-powell-account-1895-96",
+   "title": "Prempeh, by (General) R.S.S. Baden-Powell, an account of the 1895-96",
+   "era": "modern",
+   "file": "eras/modern/010979-prempeh-general-baden-powell-account-1895-96.md",
+   "at": "2026-11-24T04:04:39+00:00"
   }
  ]
 }
