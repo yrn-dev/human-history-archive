@@ -1,5 +1,5 @@
 {
- "count": 8800,
+ "count": 8801,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61600,6 +61600,13 @@
    "era": "modern",
    "file": "eras/modern/011051-14-692-whom-4724-negroes-1910-census-18-762-asheville.md",
    "at": "2026-11-24T17:20:02+00:00"
+  },
+  {
+   "slug": "church-asheville-farm-school-boys-industrial-school",
+   "title": "Church; the Asheville farm school for boys, an industrial school for",
+   "era": "industrial",
+   "file": "eras/industrial/011052-church-asheville-farm-school-boys-industrial-school.md",
+   "at": "2026-11-24T17:30:00+00:00"
   }
  ]
 }
