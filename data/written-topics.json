@@ -1,5 +1,5 @@
 {
- "count": 8782,
+ "count": 8783,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61474,6 +61474,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/011033-james-butler-earl-ormond-whose-attainder-granted.md",
    "at": "2026-11-24T14:20:43+00:00"
+  },
+  {
+   "slug": "1461-lord-hastings-who-1474-obtained-royal-licence-empark",
+   "title": "1461 to Lord Hastings, who in 1474 obtained royal licence to empark",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/011034-1461-lord-hastings-who-1474-obtained-royal-licence-empark.md",
+   "at": "2026-11-24T14:30:21+00:00"
   }
  ]
 }
