@@ -1,5 +1,5 @@
 {
- "count": 8724,
+ "count": 8725,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61068,6 +61068,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/010975-dupuis-history-generally-see-history-gold-coast.md",
    "at": "2026-11-24T03:15:25+00:00"
+  },
+  {
+   "slug": "west-africa-col-ellis-london-1893-history",
+   "title": "West Africa, by Col. A.B. Ellis (London, 1893); and History of the",
+   "era": "cultures",
+   "file": "eras/cultures/010976-west-africa-col-ellis-london-1893-history.md",
+   "at": "2026-11-24T03:24:55+00:00"
   }
  ]
 }
