@@ -1,5 +1,5 @@
 {
- "count": 8735,
+ "count": 8736,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61145,6 +61145,13 @@
    "era": "ancient",
    "file": "eras/ancient/010986-appendix-iii.md",
    "at": "2026-11-24T05:34:33+00:00"
+  },
+  {
+   "slug": "derbyshire-england-13-derby-london",
+   "title": "Derbyshire, England, 13 m. W.N.W. of Derby, on the London &",
+   "era": "industrial",
+   "file": "eras/industrial/010987-derbyshire-england-13-derby-london.md",
+   "at": "2026-11-24T05:44:27+00:00"
   }
  ]
 }
