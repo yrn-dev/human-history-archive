@@ -1,5 +1,5 @@
 {
- "count": 8731,
+ "count": 8732,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61117,6 +61117,13 @@
    "era": "modern",
    "file": "eras/modern/010982-days-kumasi-1900-diary-rev-fritz-ramseyer.md",
    "at": "2026-11-24T04:34:54+00:00"
+  },
+  {
+   "slug": "gouldsbury-mission-eastern-akim-juabin-kumasi-repair",
+   "title": "Gouldsbury on a mission to Eastern Akim, Juabin and Kumasi, to repair",
+   "era": "industrial",
+   "file": "eras/industrial/010983-gouldsbury-mission-eastern-akim-juabin-kumasi-repair.md",
+   "at": "2026-11-24T04:44:33+00:00"
   }
  ]
 }
