@@ -1,5 +1,5 @@
 {
- "count": 8734,
+ "count": 8735,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61138,6 +61138,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/010985-abou-l-hasan-ali-el-ash-ari-leiden-1878-macdonald.md",
    "at": "2026-11-24T05:24:30+00:00"
+  },
+  {
+   "slug": "appendix-iii",
+   "title": "Appendix iii.     (G. W. T.)",
+   "era": "ancient",
+   "file": "eras/ancient/010986-appendix-iii.md",
+   "at": "2026-11-24T05:34:33+00:00"
   }
  ]
 }
