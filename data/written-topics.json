@@ -1,5 +1,5 @@
 {
- "count": 8725,
+ "count": 8726,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61075,6 +61075,13 @@
    "era": "cultures",
    "file": "eras/cultures/010976-west-africa-col-ellis-london-1893-history.md",
    "at": "2026-11-24T03:24:55+00:00"
+  },
+  {
+   "slug": "british-military-campaigns-addition-official",
+   "title": "For the British military campaigns, in addition to the official",
+   "era": "industrial",
+   "file": "eras/industrial/010977-british-military-campaigns-addition-official.md",
+   "at": "2026-11-24T03:34:44+00:00"
   }
  ]
 }
