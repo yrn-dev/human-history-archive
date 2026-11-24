@@ -1,5 +1,5 @@
 {
- "count": 8789,
+ "count": 8790,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61523,6 +61523,13 @@
    "era": "ancient",
    "file": "eras/ancient/011040-judg-17-although-shares-zebulun-naphtali.md",
    "at": "2026-11-24T15:30:17+00:00"
+  },
+  {
+   "slug": "example-which-probably-followed-some-other-tribes",
+   "title": "\"an example which was probably followed by some of the other tribes as",
+   "era": "ancient",
+   "file": "eras/ancient/011041-example-which-probably-followed-some-other-tribes.md",
+   "at": "2026-11-24T15:41:30+00:00"
   }
  ]
 }
