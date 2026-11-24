@@ -1,5 +1,5 @@
 {
- "count": 8736,
+ "count": 8737,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61152,6 +61152,13 @@
    "era": "industrial",
    "file": "eras/industrial/010987-derbyshire-england-13-derby-london.md",
    "at": "2026-11-24T05:44:27+00:00"
+  },
+  {
+   "slug": "north-western-north-staffordshire-railways-pop-urban",
+   "title": "North-Western and the North Staffordshire railways. Pop. of urban",
+   "era": "industrial",
+   "file": "eras/industrial/010988-north-western-north-staffordshire-railways-pop-urban.md",
+   "at": "2026-11-24T05:54:35+00:00"
   }
  ]
 }
