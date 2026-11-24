@@ -1,5 +1,5 @@
 {
- "count": 8755,
+ "count": 8756,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61285,6 +61285,13 @@
    "era": "industrial",
    "file": "eras/industrial/011006-states-1812-1826-act-suppression-small.md",
    "at": "2026-11-24T09:04:32+00:00"
+  },
+  {
+   "slug": "orders-council-1808-financial-commercial-crisis",
+   "title": "Orders in Council (1808), and The Financial and Commercial Crisis",
+   "era": "industrial",
+   "file": "eras/industrial/011007-orders-council-1808-financial-commercial-crisis.md",
+   "at": "2026-11-24T09:24:37+00:00"
   }
  ]
 }
