@@ -1,5 +1,5 @@
 {
- "count": 8765,
+ "count": 8766,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61355,6 +61355,13 @@
    "era": "industrial",
    "file": "eras/industrial/011016-stock-subject-lord-clive-jaghire-occasioned-his.md",
    "at": "2026-11-24T10:54:25+00:00"
+  },
+  {
+   "slug": "devonshire-england-24-plymouth-branch",
+   "title": "Devonshire, England, 24 m. N.W. by W. of Plymouth, on a branch of the",
+   "era": "modern",
+   "file": "eras/modern/011017-devonshire-england-24-plymouth-branch.md",
+   "at": "2026-11-24T11:14:26+00:00"
   }
  ]
 }
