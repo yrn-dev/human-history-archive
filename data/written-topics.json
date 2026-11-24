@@ -1,5 +1,5 @@
 {
- "count": 8776,
+ "count": 8777,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61432,6 +61432,13 @@
    "era": "modern",
    "file": "eras/modern/011027-queen-eleanor-cross-commemorating-countess-loudoun-sir.md",
    "at": "2026-11-24T13:14:15+00:00"
+  },
+  {
+   "slug": "gilbert-scott-south-town-extensive-remains",
+   "title": "Gilbert Scott. To the south of the town are the extensive remains of",
+   "era": "industrial",
+   "file": "eras/industrial/011028-gilbert-scott-south-town-extensive-remains.md",
+   "at": "2026-11-24T13:24:34+00:00"
   }
  ]
 }
