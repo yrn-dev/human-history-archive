@@ -1,5 +1,5 @@
 {
- "count": 8803,
+ "count": 8804,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61621,6 +61621,13 @@
    "era": "industrial",
    "file": "eras/industrial/011054-asheville-1891-south-east-city-biltmore.md",
    "at": "2026-11-24T17:59:59+00:00"
+  },
+  {
+   "slug": "charing-north-west-ashford-archbishops-canterbury",
+   "title": "Charing, north-west of Ashford, the archbishops of Canterbury had a",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/011055-charing-north-west-ashford-archbishops-canterbury.md",
+   "at": "2026-11-24T18:29:58+00:00"
   }
  ]
 }
