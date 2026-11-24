@@ -1,5 +1,5 @@
 {
- "count": 8720,
+ "count": 8721,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61040,6 +61040,13 @@
    "era": "cultures",
    "file": "eras/cultures/010971-bibliography---for-general-survey-country-see-travels.md",
    "at": "2026-11-24T02:35:12+00:00"
+  },
+  {
+   "slug": "ashanti-jaman-freeman-london-1898-historical",
+   "title": "Ashanti and Jaman, by R.A. Freeman (London, 1898); Historical",
+   "era": "cultures",
+   "file": "eras/cultures/010972-ashanti-jaman-freeman-london-1898-historical.md",
+   "at": "2026-11-24T02:45:05+00:00"
   }
  ]
 }
