@@ -1,5 +1,5 @@
 {
- "count": 8770,
+ "count": 8771,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61390,6 +61390,13 @@
    "era": "industrial",
    "file": "eras/industrial/011021-1882-french-benedictine-community-fine-perpendicular-abbot.md",
    "at": "2026-11-24T11:54:37+00:00"
+  },
+  {
+   "slug": "ashburton-essebretona-asperton-ashperton-borough",
+   "title": "Ashburton (Essebretona, Asperton, Ashperton) is a borough by",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/011022-ashburton-essebretona-asperton-ashperton-borough.md",
+   "at": "2026-11-24T12:04:41+00:00"
   }
  ]
 }
