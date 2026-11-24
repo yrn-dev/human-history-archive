@@ -1,5 +1,5 @@
 {
- "count": 8754,
+ "count": 8755,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61278,6 +61278,13 @@
    "era": "industrial",
    "file": "eras/industrial/011005-ashburton-alexander-baring-1st-baron-1774-1848-english.md",
    "at": "2026-11-24T08:54:32+00:00"
+  },
+  {
+   "slug": "states-1812-1826-act-suppression-small",
+   "title": "States in 1812, and in 1826 the act for the suppression of small",
+   "era": "industrial",
+   "file": "eras/industrial/011006-states-1812-1826-act-suppression-small.md",
+   "at": "2026-11-24T09:04:32+00:00"
   }
  ]
 }
