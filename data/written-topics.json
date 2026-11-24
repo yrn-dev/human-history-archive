@@ -1,5 +1,5 @@
 {
- "count": 8811,
+ "count": 8812,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61677,6 +61677,13 @@
    "era": "industrial",
    "file": "eras/industrial/011062-fredericksburg-potomac-railway-favourite-resort.md",
    "at": "2026-11-24T20:39:47+00:00"
+  },
+  {
+   "slug": "richmond-here-situated-randolph-macon-college-methodist",
+   "title": "Richmond. Here is situated the Randolph-Macon College (Methodist",
+   "era": "modern",
+   "file": "eras/modern/011063-richmond-here-situated-randolph-macon-college-methodist.md",
+   "at": "2026-11-24T20:49:50+00:00"
   }
  ]
 }
