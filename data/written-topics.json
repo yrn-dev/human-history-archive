@@ -1,5 +1,5 @@
 {
- "count": 8785,
+ "count": 8786,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61495,6 +61495,13 @@
    "era": "modern",
    "file": "eras/modern/011036-huntingdon-shrewsbury-during-civil-war-colonel-henry-hastings.md",
    "at": "2026-11-24T14:50:22+00:00"
+  },
+  {
+   "slug": "1645-1648-close-war-dismantled-order",
+   "title": "1645. In 1648, at the close of the war, it was dismantled by order of",
+   "era": "modern",
+   "file": "eras/modern/011037-1645-1648-close-war-dismantled-order.md",
+   "at": "2026-11-24T15:00:21+00:00"
   }
  ]
 }
