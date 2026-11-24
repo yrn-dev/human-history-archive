@@ -1,5 +1,5 @@
 {
- "count": 8823,
+ "count": 8824,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61761,6 +61761,13 @@
    "era": "industrial",
    "file": "eras/industrial/011074-college-1888-he-appointed-professor-political-economy.md",
    "at": "2026-11-24T22:49:48+00:00"
+  },
+  {
+   "slug": "university-1901-he-appointed-professor-commerce-finance",
+   "title": "University. In 1901 he was appointed professor of commerce and finance",
+   "era": "modern",
+   "file": "eras/modern/011075-university-1901-he-appointed-professor-commerce-finance.md",
+   "at": "2026-11-24T22:59:47+00:00"
   }
  ]
 }
