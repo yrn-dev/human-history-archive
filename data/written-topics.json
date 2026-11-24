@@ -1,5 +1,5 @@
 {
- "count": 8826,
+ "count": 8827,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61782,6 +61782,13 @@
    "era": "renaissance",
    "file": "eras/renaissance/011077-ashmole-elias-1617-1692-english-antiquarian-founder.md",
    "at": "2026-11-24T23:19:44+00:00"
+  },
+  {
+   "slug": "ashmolean-museum-oxford-born-lichfield-23rd-may",
+   "title": "Ashmolean Museum at Oxford, was born at Lichfield on the 23rd of May",
+   "era": "modern",
+   "file": "eras/modern/011078-ashmolean-museum-oxford-born-lichfield-23rd-may.md",
+   "at": "2026-11-24T23:29:47+00:00"
   }
  ]
 }
