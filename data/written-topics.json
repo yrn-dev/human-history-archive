@@ -1,5 +1,5 @@
 {
- "count": 8825,
+ "count": 8826,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61775,6 +61775,13 @@
    "era": "modern",
    "file": "eras/modern/011076-1888-1893-surveys-historic-economic-1900-adjustment.md",
    "at": "2026-11-24T23:09:38+00:00"
+  },
+  {
+   "slug": "ashmole-elias-1617-1692-english-antiquarian-founder",
+   "title": "ASHMOLE, ELIAS (1617-1692), English antiquarian, and founder of the",
+   "era": "renaissance",
+   "file": "eras/renaissance/011077-ashmole-elias-1617-1692-english-antiquarian-founder.md",
+   "at": "2026-11-24T23:19:44+00:00"
   }
  ]
 }
