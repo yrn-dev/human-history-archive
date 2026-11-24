@@ -1,5 +1,5 @@
 {
- "count": 8751,
+ "count": 8752,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61257,6 +61257,13 @@
    "era": "modern",
    "file": "eras/modern/011002-letter-mr-ashburnham-friend-defending-john-ashburnham.md",
    "at": "2026-11-24T08:24:33+00:00"
+  },
+  {
+   "slug": "narrative-published-1830-george-3rd-earl-ashburnham",
+   "title": "Narrative was published in 1830 by George, 3rd earl of Ashburnham",
+   "era": "industrial",
+   "file": "eras/industrial/011003-narrative-published-1830-george-3rd-earl-ashburnham.md",
+   "at": "2026-11-24T08:34:27+00:00"
   }
  ]
 }
