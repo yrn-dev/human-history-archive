@@ -1,5 +1,5 @@
 {
- "count": 8802,
+ "count": 8803,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61614,6 +61614,13 @@
    "era": "modern",
    "file": "eras/modern/011053-1826-removed-present-site-north-west.md",
    "at": "2026-11-24T17:50:01+00:00"
+  },
+  {
+   "slug": "asheville-1891-south-east-city-biltmore",
+   "title": "Asheville) in 1891. About 2 m. south-east of the city is Biltmore, the",
+   "era": "industrial",
+   "file": "eras/industrial/011054-asheville-1891-south-east-city-biltmore.md",
+   "at": "2026-11-24T17:59:59+00:00"
   }
  ]
 }
