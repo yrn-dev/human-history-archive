@@ -1,5 +1,5 @@
 {
- "count": 8705,
+ "count": 8706,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -60935,6 +60935,13 @@
    "era": "modern",
    "file": "eras/modern/010956-british-rule-1900-serious-rebellion-broke-out-tribes.md",
    "at": "2026-11-23T23:55:01+00:00"
+  },
+  {
+   "slug": "hodgson-public-palaver-kumasi-announced-ashanti",
+   "title": "F. Hodgson, in a public palaver at Kumasi, announced that the Ashanti",
+   "era": "industrial",
+   "file": "eras/industrial/010957-hodgson-public-palaver-kumasi-announced-ashanti.md",
+   "at": "2026-11-24T00:05:02+00:00"
   }
  ]
 }
