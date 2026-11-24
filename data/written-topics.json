@@ -1,5 +1,5 @@
 {
- "count": 8721,
+ "count": 8722,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61047,6 +61047,13 @@
    "era": "cultures",
    "file": "eras/cultures/010972-ashanti-jaman-freeman-london-1898-historical.md",
    "at": "2026-11-24T02:45:05+00:00"
+  },
+  {
+   "slug": "lucas-oxford-1900-annual-reports-ashanti-issued",
+   "title": "Lucas (Oxford, 1900); and the Annual Reports, Ashanti, issued from",
+   "era": "modern",
+   "file": "eras/modern/010973-lucas-oxford-1900-annual-reports-ashanti-issued.md",
+   "at": "2026-11-24T02:55:05+00:00"
   }
  ]
 }
