@@ -1,5 +1,5 @@
 {
- "count": 8794,
+ "count": 8795,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61558,6 +61558,13 @@
    "era": "ancient",
    "file": "eras/ancient/011045-israeliten-pp-540-sqq.md",
    "at": "2026-11-24T16:20:07+00:00"
+  },
+  {
+   "slug": "asher-ben-yehiel-known-rosh-jewish-rabbi-codifier-born",
+   "title": "'ASHER BEN-YEHIEL (known as Rosh), Jewish rabbi and codifier, was born",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/011046-asher-ben-yehiel-known-rosh-jewish-rabbi-codifier-born.md",
+   "at": "2026-11-24T16:30:02+00:00"
   }
  ]
 }
