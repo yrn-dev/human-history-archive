@@ -1,5 +1,5 @@
 {
- "count": 8729,
+ "count": 8730,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61103,6 +61103,13 @@
    "era": "modern",
    "file": "eras/modern/010980-two-bocks-following-besieged-residents-kumasi.md",
    "at": "2026-11-24T04:14:58+00:00"
+  },
+  {
+   "slug": "siege-kumasi-lady-hodgson-london-1901-dark-stormy",
+   "title": "Siege of Kumasi, by Lady Hodgson (London, 1901); Dark and Stormy",
+   "era": "modern",
+   "file": "eras/modern/010981-siege-kumasi-lady-hodgson-london-1901-dark-stormy.md",
+   "at": "2026-11-24T04:24:46+00:00"
   }
  ]
 }
