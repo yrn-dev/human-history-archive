@@ -1,5 +1,5 @@
 {
- "count": 8768,
+ "count": 8769,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61376,6 +61376,13 @@
    "era": "modern",
    "file": "eras/modern/011019-1731-1783-inscription-dr-johnson-lord-ashburton.md",
    "at": "2026-11-24T11:35:01+00:00"
+  },
+  {
+   "slug": "serge-manufactured-ashburton-there-breweries-paint",
+   "title": "Serge is manufactured in Ashburton, and there are breweries, paint",
+   "era": "industrial",
+   "file": "eras/industrial/011020-serge-manufactured-ashburton-there-breweries-paint.md",
+   "at": "2026-11-24T11:44:39+00:00"
   }
  ]
 }
