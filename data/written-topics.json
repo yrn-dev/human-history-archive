@@ -1,5 +1,5 @@
 {
- "count": 8955,
+ "count": 8956,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62685,6 +62685,13 @@
    "era": "cultures",
    "file": "eras/cultures/011207-asia-known-gobi-eastern-part-nearly-conterminous.md",
    "at": "2026-11-25T22:28:43+00:00"
+  },
+  {
+   "slug": "mongolia-population-essentially-nomadic-wealth",
+   "title": "In Mongolia the population is essentially nomadic, its wealth",
+   "era": "cultures",
+   "file": "eras/cultures/011208-mongolia-population-essentially-nomadic-wealth.md",
+   "at": "2026-11-25T22:38:38+00:00"
   }
  ]
 }
