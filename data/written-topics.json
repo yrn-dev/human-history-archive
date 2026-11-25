@@ -1,5 +1,5 @@
 {
- "count": 8910,
+ "count": 8911,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62370,6 +62370,13 @@
    "era": "industrial",
    "file": "eras/industrial/011161-ocean-indian-peninsula-25-deg-southwards.md",
    "at": "2026-11-25T14:39:05+00:00"
+  },
+  {
+   "slug": "delta-ganges-brahmaputra-east",
+   "title": "From the delta of the Ganges and Brahmaputra on the east to that of",
+   "era": "industrial",
+   "file": "eras/industrial/011162-delta-ganges-brahmaputra-east.md",
+   "at": "2026-11-25T14:49:07+00:00"
   }
  ]
 }
