@@ -1,5 +1,5 @@
 {
- "count": 8961,
+ "count": 8962,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62727,6 +62727,13 @@
    "era": "cultures",
    "file": "eras/cultures/011213-mountains-do-not-exceed-2000-3000-ft-average-altitude.md",
    "at": "2026-11-25T23:28:32+00:00"
+  },
+  {
+   "slug": "southern-group-malay-archipelago-sumatra-java",
+   "title": "The southern group of the Malay Archipelago, from Sumatra to Java and",
+   "era": "cultures",
+   "file": "eras/cultures/011214-southern-group-malay-archipelago-sumatra-java.md",
+   "at": "2026-11-25T23:40:20+00:00"
   }
  ]
 }
