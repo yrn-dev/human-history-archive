@@ -1,5 +1,5 @@
 {
- "count": 8859,
+ "count": 8860,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62013,6 +62013,13 @@
    "era": "ancient",
    "file": "eras/ancient/011110-europe-asia-which-last-libya-greek-name-africa.md",
    "at": "2026-11-25T06:09:28+00:00"
+  },
+  {
+   "slug": "northern-boundary-asia-formed-arctic-ocean",
+   "title": "The northern boundary of Asia is formed by the Arctic Ocean; the",
+   "era": "modern",
+   "file": "eras/modern/011111-northern-boundary-asia-formed-arctic-ocean.md",
+   "at": "2026-11-25T06:19:35+00:00"
   }
  ]
 }
