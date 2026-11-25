@@ -1,5 +1,5 @@
 {
- "count": 8947,
+ "count": 8948,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62629,6 +62629,13 @@
    "era": "cultures",
    "file": "eras/cultures/011199-5000-ft-follows-southern-coast-eastern-extremity-asia.md",
    "at": "2026-11-25T21:09:20+00:00"
+  },
+  {
+   "slug": "western-end-yablonoi-range-115th-meridian",
+   "title": "From the western end of the Yablonoi range, on the 115th meridian, a",
+   "era": "cultures",
+   "file": "eras/cultures/011200-western-end-yablonoi-range-115th-meridian.md",
+   "at": "2026-11-25T21:19:29+00:00"
   }
  ]
 }
