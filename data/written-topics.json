@@ -1,5 +1,5 @@
 {
- "count": 8948,
+ "count": 8949,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62636,6 +62636,13 @@
    "era": "cultures",
    "file": "eras/cultures/011200-western-end-yablonoi-range-115th-meridian.md",
    "at": "2026-11-25T21:19:29+00:00"
+  },
+  {
+   "slug": "15-000-ft-forms-barrier-between-issyk-kul-balkash",
+   "title": "15,000 ft. It forms the barrier between the Issyk-kul and Balkash",
+   "era": "cultures",
+   "file": "eras/cultures/011201-15-000-ft-forms-barrier-between-issyk-kul-balkash.md",
+   "at": "2026-11-25T21:29:11+00:00"
   }
  ]
 }
