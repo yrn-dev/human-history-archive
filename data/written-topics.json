@@ -1,5 +1,5 @@
 {
- "count": 8840,
+ "count": 8841,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61880,6 +61880,13 @@
    "era": "modern",
    "file": "eras/modern/011091-ashtabula-city-ashtabula-county-ohio-ashtabula.md",
    "at": "2026-11-25T02:09:33+00:00"
+  },
+  {
+   "slug": "cleveland-pop-1890-8338-1900-12-949-whom-3688",
+   "title": "Cleveland. Pop. (1890) 8338; (1900) 12,949, of whom 3688 were",
+   "era": "industrial",
+   "file": "eras/industrial/011092-cleveland-pop-1890-8338-1900-12-949-whom-3688.md",
+   "at": "2026-11-25T02:19:29+00:00"
   }
  ]
 }
