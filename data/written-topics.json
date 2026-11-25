@@ -1,5 +1,5 @@
 {
- "count": 8871,
+ "count": 8872,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62097,6 +62097,13 @@
    "era": "cultures",
    "file": "eras/cultures/011122-asia-like-manner-great-circle-drawn-through-east-cape.md",
    "at": "2026-11-25T08:09:21+00:00"
+  },
+  {
+   "slug": "asia-divided-laterally-along-parallel-40-deg-north",
+   "title": "Asia is divided laterally along the parallel of 40 deg. north by a",
+   "era": "modern",
+   "file": "eras/modern/011123-asia-divided-laterally-along-parallel-40-deg-north.md",
+   "at": "2026-11-25T08:19:26+00:00"
   }
  ]
 }
