@@ -1,5 +1,5 @@
 {
- "count": 8900,
+ "count": 8901,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62300,6 +62300,13 @@
    "era": "cultures",
    "file": "eras/cultures/011151-china-lies-between-eastern-flank-tibetan-plateau.md",
    "at": "2026-11-25T12:59:03+00:00"
+  },
+  {
+   "slug": "north-pacific-having-northern-southern-limits-40",
+   "title": "North Pacific, having its northern and southern limits about on 40",
+   "era": "cultures",
+   "file": "eras/cultures/011152-north-pacific-having-northern-southern-limits-40.md",
+   "at": "2026-11-25T13:09:06+00:00"
   }
  ]
 }
