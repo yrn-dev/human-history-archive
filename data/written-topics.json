@@ -1,5 +1,5 @@
 {
- "count": 8928,
+ "count": 8929,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62496,6 +62496,13 @@
    "era": "ancient",
    "file": "eras/ancient/011180-western-part-range-which-received-name-paropamisus.md",
    "at": "2026-11-25T17:49:34+00:00"
+  },
+  {
+   "slug": "mons-ancients-diminishes-height-west-65th-meridian",
+   "title": "Mons from the ancients, diminishes in height west of the 65th meridian",
+   "era": "cultures",
+   "file": "eras/cultures/011181-mons-ancients-diminishes-height-west-65th-meridian.md",
+   "at": "2026-11-25T17:58:51+00:00"
   }
  ]
 }
