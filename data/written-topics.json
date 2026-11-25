@@ -1,5 +1,5 @@
 {
- "count": 8886,
+ "count": 8887,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62202,6 +62202,13 @@
    "era": "cultures",
    "file": "eras/cultures/011137-interior-inland-basins-including-lacustrine-regions-south.md",
    "at": "2026-11-25T10:39:18+00:00"
+  },
+  {
+   "slug": "iranian-perso-afghan-uplands-syro-arabian-inland-basin",
+   "title": "Iranian (or Perso-Afghan) uplands, the Syro-Arabian inland basin, and",
+   "era": "cultures",
+   "file": "eras/cultures/011138-iranian-perso-afghan-uplands-syro-arabian-inland-basin.md",
+   "at": "2026-11-25T10:49:17+00:00"
   }
  ]
 }
