@@ -1,5 +1,5 @@
 {
- "count": 8848,
+ "count": 8849,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -61936,6 +61936,13 @@
    "era": "modern",
    "file": "eras/modern/011099-stamford-park-presented-lord-stamford-shared-towns.md",
    "at": "2026-11-25T03:39:28+00:00"
+  },
+  {
+   "slug": "ashton-stalybridge-which-extends-across-tame-cheshire",
+   "title": "Ashton and Stalybridge, which extends across the Tame into Cheshire. A",
+   "era": "industrial",
+   "file": "eras/industrial/011100-ashton-stalybridge-which-extends-across-tame-cheshire.md",
+   "at": "2026-11-25T03:49:27+00:00"
   }
  ]
 }
