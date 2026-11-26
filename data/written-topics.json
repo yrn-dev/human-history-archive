@@ -1,5 +1,5 @@
 {
- "count": 9065,
+ "count": 9066,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63455,6 +63455,13 @@
    "era": "ancient",
    "file": "eras/ancient/011317-sarikol-range-known-ancients-taurus-medieval.md",
    "at": "2026-11-26T21:17:21+00:00"
+  },
+  {
+   "slug": "which-been-known-kashgar-kandar-range-split",
+   "title": "(which has been known as the Kashgar or Kandar range) is split at",
+   "era": "cultures",
+   "file": "eras/cultures/011318-which-been-known-kashgar-kandar-range-split.md",
+   "at": "2026-11-26T21:27:30+00:00"
   }
  ]
 }
