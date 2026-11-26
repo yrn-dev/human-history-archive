@@ -1,5 +1,5 @@
 {
- "count": 9079,
+ "count": 9080,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63553,6 +63553,13 @@
    "era": "modern",
    "file": "eras/modern/011331-nor-gobi-yielded-up-many-interesting-secrets.md",
    "at": "2026-11-26T23:37:27+00:00"
+  },
+  {
+   "slug": "100-inland-altitude-140-280-ft-above-present",
+   "title": "100 m. inland, at an altitude of 140 to 280 ft. above the present",
+   "era": "ancient",
+   "file": "eras/ancient/011332-100-inland-altitude-140-280-ft-above-present.md",
+   "at": "2026-11-26T23:47:18+00:00"
   }
  ]
 }
