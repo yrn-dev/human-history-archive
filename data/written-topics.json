@@ -1,5 +1,5 @@
 {
- "count": 9024,
+ "count": 9025,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63168,6 +63168,13 @@
    "era": "industrial",
    "file": "eras/industrial/011276-1891-1892-1893-gallant-french-explorer-dutreuil-de-rhins.md",
    "at": "2026-11-26T10:07:58+00:00"
+  },
+  {
+   "slug": "professor-sven-hedin-whose-travels-through-deserts-takla-makan",
+   "title": "Professor Sven Hedin, whose travels through the deserts of Takla Makan",
+   "era": "modern",
+   "file": "eras/modern/011277-professor-sven-hedin-whose-travels-through-deserts-takla-makan.md",
+   "at": "2026-11-26T10:18:05+00:00"
   }
  ]
 }
