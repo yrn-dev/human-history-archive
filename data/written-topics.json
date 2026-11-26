@@ -1,5 +1,5 @@
 {
- "count": 9002,
+ "count": 9003,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63014,6 +63014,13 @@
    "era": "modern",
    "file": "eras/modern/011254-lhasa-1876-he-visited-lop-nor-discovered-altyn-tagh.md",
    "at": "2026-11-26T06:28:13+00:00"
+  },
+  {
+   "slug": "dzungarian-extension-gobi-desert-then-traversed-gobi",
+   "title": "Dzungarian extension of the Gobi desert, and then traversed the Gobi",
+   "era": "modern",
+   "file": "eras/modern/011255-dzungarian-extension-gobi-desert-then-traversed-gobi.md",
+   "at": "2026-11-26T06:38:08+00:00"
   }
  ]
 }
