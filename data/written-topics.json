@@ -1,5 +1,5 @@
 {
- "count": 8985,
+ "count": 8986,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62895,6 +62895,13 @@
    "era": "industrial",
    "file": "eras/industrial/011237-exact-surveys-russia-based-upon-triangulation-extend-far-east.md",
    "at": "2026-11-26T03:38:17+00:00"
+  },
+  {
+   "slug": "india-geodetic-triangulation-furnishes-basis-exact-surveys",
+   "title": "India geodetic triangulation furnishes the basis for exact surveys as",
+   "era": "industrial",
+   "file": "eras/industrial/011238-india-geodetic-triangulation-furnishes-basis-exact-surveys.md",
+   "at": "2026-11-26T03:48:13+00:00"
   }
  ]
 }
