@@ -1,5 +1,5 @@
 {
- "count": 9041,
+ "count": 9042,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63287,6 +63287,13 @@
    "era": "industrial",
    "file": "eras/industrial/011293-russo-afghan-boundary-commission-1884-1885-occupation.md",
    "at": "2026-11-26T17:07:40+00:00"
+  },
+  {
+   "slug": "gilgit-chitral-extension-boundaries-east-north",
+   "title": "Gilgit and Chitral; the extension of boundaries east and north of",
+   "era": "cultures",
+   "file": "eras/cultures/011294-gilgit-chitral-extension-boundaries-east-north.md",
+   "at": "2026-11-26T17:17:49+00:00"
   }
  ]
 }
