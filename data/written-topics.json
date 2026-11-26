@@ -1,5 +1,5 @@
 {
- "count": 9075,
+ "count": 9076,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63525,6 +63525,13 @@
    "era": "industrial",
    "file": "eras/industrial/011327-euphrates-valley-railway-concession-german-company-exact.md",
    "at": "2026-11-26T22:57:21+00:00"
+  },
+  {
+   "slug": "palestine-beyond-jordan-efforts-explorers",
+   "title": "Palestine and beyond Jordan, or by the efforts of explorers in the",
+   "era": "ancient",
+   "file": "eras/ancient/011328-palestine-beyond-jordan-efforts-explorers.md",
+   "at": "2026-11-26T23:07:28+00:00"
   }
  ]
 }
