@@ -1,5 +1,5 @@
 {
- "count": 8980,
+ "count": 8981,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62860,6 +62860,13 @@
    "era": "industrial",
    "file": "eras/industrial/011232-longitude-tashkent-observatory-been-determined.md",
    "at": "2026-11-26T02:48:12+00:00"
+  },
+  {
+   "slug": "1875-via-ekaterinburg-omsk-35-52-151",
+   "title": "In 1875 via Ekaterinburg and Omsk       2  35  52.151",
+   "era": "industrial",
+   "file": "eras/industrial/011233-1875-via-ekaterinburg-omsk-35-52-151.md",
+   "at": "2026-11-26T02:58:23+00:00"
   }
  ]
 }
