@@ -1,5 +1,5 @@
 {
- "count": 8977,
+ "count": 8978,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62839,6 +62839,13 @@
    "era": "industrial",
    "file": "eras/industrial/011229-european-systems-triangulation-greenwich-meridian.md",
    "at": "2026-11-26T02:18:28+00:00"
+  },
+  {
+   "slug": "russian-geography-central-asia-dependent-other-means-than",
+   "title": "Russian geography in central Asia is dependent on other means than",
+   "era": "modern",
+   "file": "eras/modern/011230-russian-geography-central-asia-dependent-other-means-than.md",
+   "at": "2026-11-26T02:28:23+00:00"
   }
  ]
 }
