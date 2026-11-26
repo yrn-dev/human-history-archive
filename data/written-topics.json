@@ -1,5 +1,5 @@
 {
- "count": 9032,
+ "count": 9033,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63224,6 +63224,13 @@
    "era": "modern",
    "file": "eras/modern/011284-francis-younghusband-lhasa-1904-resulted-extension.md",
    "at": "2026-11-26T11:27:59+00:00"
+  },
+  {
+   "slug": "indian-system-triangulation-which-finally-determined",
+   "title": "Indian system of triangulation which finally determined the",
+   "era": "industrial",
+   "file": "eras/industrial/011285-indian-system-triangulation-which-finally-determined.md",
+   "at": "2026-11-26T11:37:55+00:00"
   }
  ]
 }
