@@ -1,5 +1,5 @@
 {
- "count": 9012,
+ "count": 9013,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63084,6 +63084,13 @@
    "era": "modern",
    "file": "eras/modern/011264-holdich-colonel-st-george-gore-sir-adelbert-talbot-when-ney.md",
    "at": "2026-11-26T08:08:06+00:00"
+  },
+  {
+   "slug": "elias-crossed-china-through-pamirs-badakshan-camp",
+   "title": "Elias crossed from China through the Pamirs and Badakshan to the camp",
+   "era": "modern",
+   "file": "eras/modern/011265-elias-crossed-china-through-pamirs-badakshan-camp.md",
+   "at": "2026-11-26T08:18:54+00:00"
   }
  ]
 }
