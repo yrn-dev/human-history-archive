@@ -1,5 +1,5 @@
 {
- "count": 9004,
+ "count": 9005,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63028,6 +63028,13 @@
    "era": "industrial",
    "file": "eras/industrial/011256-his-fourth-journey-1883-1885-sining-great-trade-centre.md",
    "at": "2026-11-26T06:48:06+00:00"
+  },
+  {
+   "slug": "crossing-altyn-tagh-lop-nor-cherchen-keriya-trade",
+   "title": "(crossing the Altyn Tagh to Lop Nor), and by the Cherchen-Keriya trade",
+   "era": "modern",
+   "file": "eras/modern/011257-crossing-altyn-tagh-lop-nor-cherchen-keriya-trade.md",
+   "at": "2026-11-26T06:58:13+00:00"
   }
  ]
 }
