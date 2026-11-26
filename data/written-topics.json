@@ -1,5 +1,5 @@
 {
- "count": 8995,
+ "count": 8996,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62965,6 +62965,13 @@
    "era": "ancient",
    "file": "eras/ancient/011247-exclusive-arabia-may-said-been-freed-all.md",
    "at": "2026-11-26T05:18:15+00:00"
+  },
+  {
+   "slug": "scientific-geographical-exploration-asia-beyond-limits",
+   "title": "Of scientific geographical exploration in Asia (beyond the limits of",
+   "era": "modern",
+   "file": "eras/modern/011248-scientific-geographical-exploration-asia-beyond-limits.md",
+   "at": "2026-11-26T05:28:24+00:00"
   }
  ]
 }
