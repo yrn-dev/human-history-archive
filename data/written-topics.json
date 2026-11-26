@@ -1,5 +1,5 @@
 {
- "count": 8982,
+ "count": 8983,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62874,6 +62874,13 @@
    "era": "industrial",
    "file": "eras/industrial/011234-1891-saratov-orenburg-35-52-228.md",
    "at": "2026-11-26T03:08:21+00:00"
+  },
+  {
+   "slug": "1895-kiev-baku-35-51-997",
+   "title": "\"  1895  \"  Kiev          \"  Baku       2  35  51.997",
+   "era": "industrial",
+   "file": "eras/industrial/011235-1895-kiev-baku-35-51-997.md",
+   "at": "2026-11-26T03:18:21+00:00"
   }
  ]
 }
