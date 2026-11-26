@@ -1,5 +1,5 @@
 {
- "count": 9000,
+ "count": 9001,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63000,6 +63000,13 @@
    "era": "modern",
    "file": "eras/modern/011252-failing-reach-india-through-upper-assam-he-returned.md",
    "at": "2026-11-26T06:08:14+00:00"
+  },
+  {
+   "slug": "1871-1873-great-russian-explorer-nicolai-prjevalsky-crossed",
+   "title": "In 1871-1873 the great Russian explorer, Nicolai Prjevalsky, crossed",
+   "era": "industrial",
+   "file": "eras/industrial/011253-1871-1873-great-russian-explorer-nicolai-prjevalsky-crossed.md",
+   "at": "2026-11-26T06:18:07+00:00"
   }
  ]
 }
