@@ -1,5 +1,5 @@
 {
- "count": 9064,
+ "count": 9065,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63448,6 +63448,13 @@
    "era": "modern",
    "file": "eras/modern/011316-western-edge-kashgar-plains-political-boundary.md",
    "at": "2026-11-26T21:07:29+00:00"
+  },
+  {
+   "slug": "sarikol-range-known-ancients-taurus-medieval",
+   "title": "Sarikol. This range (known to the ancients as Taurus and in medieval",
+   "era": "ancient",
+   "file": "eras/ancient/011317-sarikol-range-known-ancients-taurus-medieval.md",
+   "at": "2026-11-26T21:17:21+00:00"
   }
  ]
 }
