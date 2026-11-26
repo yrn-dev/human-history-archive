@@ -1,5 +1,5 @@
 {
- "count": 9003,
+ "count": 9004,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63021,6 +63021,13 @@
    "era": "modern",
    "file": "eras/modern/011255-dzungarian-extension-gobi-desert-then-traversed-gobi.md",
    "at": "2026-11-26T06:38:08+00:00"
+  },
+  {
+   "slug": "his-fourth-journey-1883-1885-sining-great-trade-centre",
+   "title": "His fourth journey in 1883-1885 was to Sining (the great trade centre",
+   "era": "industrial",
+   "file": "eras/industrial/011256-his-fourth-journey-1883-1885-sining-great-trade-centre.md",
+   "at": "2026-11-26T06:48:06+00:00"
   }
  ]
 }
