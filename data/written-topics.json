@@ -1,5 +1,5 @@
 {
- "count": 9053,
+ "count": 9054,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63371,6 +63371,13 @@
    "era": "modern",
    "file": "eras/modern/011305-prjevalsky-his-second-third-explorations-94-deg-26.md",
    "at": "2026-11-26T19:17:37+00:00"
+  },
+  {
+   "slug": "krishna-94-deg-23",
+   "title": "Krishna . . . . . . . . . . . . . . . . . . . .   94 deg. 23'",
+   "era": "cultures",
+   "file": "eras/cultures/011306-krishna-94-deg-23.md",
+   "at": "2026-11-26T19:27:36+00:00"
   }
  ]
 }
