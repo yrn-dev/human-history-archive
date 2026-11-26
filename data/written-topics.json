@@ -1,5 +1,5 @@
 {
- "count": 9056,
+ "count": 9057,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63392,6 +63392,13 @@
    "era": "modern",
    "file": "eras/modern/011308-littledale-94-deg-49.md",
    "at": "2026-11-26T19:47:28+00:00"
+  },
+  {
+   "slug": "kreitner-szecheny-expedition-94-deg-58",
+   "title": "Kreitner (with Szecheny's expedition) . . . . .   94 deg. 58'",
+   "era": "modern",
+   "file": "eras/modern/011309-kreitner-szecheny-expedition-94-deg-58.md",
+   "at": "2026-11-26T19:57:27+00:00"
   }
  ]
 }
