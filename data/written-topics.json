@@ -1,5 +1,5 @@
 {
- "count": 8976,
+ "count": 8977,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62832,6 +62832,13 @@
    "era": "industrial",
    "file": "eras/industrial/011228-progress-geodetic-surveys-russia-long-ago-extended.md",
    "at": "2026-11-26T02:08:22+00:00"
+  },
+  {
+   "slug": "european-systems-triangulation-greenwich-meridian",
+   "title": "European systems of triangulation; and the Greenwich meridian is",
+   "era": "industrial",
+   "file": "eras/industrial/011229-european-systems-triangulation-greenwich-meridian.md",
+   "at": "2026-11-26T02:18:28+00:00"
   }
  ]
 }
