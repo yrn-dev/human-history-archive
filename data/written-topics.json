@@ -1,5 +1,5 @@
 {
- "count": 9001,
+ "count": 9002,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63007,6 +63007,13 @@
    "era": "industrial",
    "file": "eras/industrial/011253-1871-1873-great-russian-explorer-nicolai-prjevalsky-crossed.md",
    "at": "2026-11-26T06:18:07+00:00"
+  },
+  {
+   "slug": "lhasa-1876-he-visited-lop-nor-discovered-altyn-tagh",
+   "title": "Lhasa. In 1876 he visited the Lop Nor and discovered the Altyn Tagh",
+   "era": "modern",
+   "file": "eras/modern/011254-lhasa-1876-he-visited-lop-nor-discovered-altyn-tagh.md",
+   "at": "2026-11-26T06:28:13+00:00"
   }
  ]
 }
