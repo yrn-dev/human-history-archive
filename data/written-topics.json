@@ -1,5 +1,5 @@
 {
- "count": 8983,
+ "count": 8984,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62881,6 +62881,13 @@
    "era": "industrial",
    "file": "eras/industrial/011235-1895-kiev-baku-35-51-997.md",
    "at": "2026-11-26T03:18:21+00:00"
+  },
+  {
+   "slug": "these-three-independent-values-all-falling-within-range",
+   "title": "With these three independent values, all falling within a range of",
+   "era": "industrial",
+   "file": "eras/industrial/011236-these-three-independent-values-all-falling-within-range.md",
+   "at": "2026-11-26T03:28:25+00:00"
   }
  ]
 }
