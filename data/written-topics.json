@@ -1,5 +1,5 @@
 {
- "count": 8978,
+ "count": 8979,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62846,6 +62846,13 @@
    "era": "modern",
    "file": "eras/modern/011230-russian-geography-central-asia-dependent-other-means-than.md",
    "at": "2026-11-26T02:28:23+00:00"
+  },
+  {
+   "slug": "tashkent-adopted-initial-starting-point",
+   "title": "Tashkent is adopted for the initial starting-point of the",
+   "era": "modern",
+   "file": "eras/modern/011231-tashkent-adopted-initial-starting-point.md",
+   "at": "2026-11-26T02:38:20+00:00"
   }
  ]
 }
