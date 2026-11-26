@@ -1,5 +1,5 @@
 {
- "count": 8979,
+ "count": 8980,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -62853,6 +62853,13 @@
    "era": "modern",
    "file": "eras/modern/011231-tashkent-adopted-initial-starting-point.md",
    "at": "2026-11-26T02:38:20+00:00"
+  },
+  {
+   "slug": "longitude-tashkent-observatory-been-determined",
+   "title": "The longitude of the Tashkent observatory has been determined by",
+   "era": "industrial",
+   "file": "eras/industrial/011232-longitude-tashkent-observatory-been-determined.md",
+   "at": "2026-11-26T02:48:12+00:00"
   }
  ]
 }
