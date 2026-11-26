@@ -1,5 +1,5 @@
 {
- "count": 9037,
+ "count": 9038,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63259,6 +63259,13 @@
    "era": "industrial",
    "file": "eras/industrial/011289-peking-talifu-1881-meanwhile-acquisition-burma.md",
    "at": "2026-11-26T16:27:45+00:00"
+  },
+  {
+   "slug": "no-more-valuable-contribution-illustration-western-chinese",
+   "title": "No more valuable contribution to the illustration of western Chinese",
+   "era": "ancient",
+   "file": "eras/ancient/011290-no-more-valuable-contribution-illustration-western-chinese.md",
+   "at": "2026-11-26T16:37:44+00:00"
   }
  ]
 }
