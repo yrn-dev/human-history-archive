@@ -1,5 +1,5 @@
 {
- "count": 9063,
+ "count": 9064,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63441,6 +63441,13 @@
    "era": "cultures",
    "file": "eras/cultures/011315-nan-shan-mountains-north-koko-nor-basin-thus-between-tibet.md",
    "at": "2026-11-26T20:57:37+00:00"
+  },
+  {
+   "slug": "western-edge-kashgar-plains-political-boundary",
+   "title": "On the western edge of the Kashgar plains, the political boundary",
+   "era": "modern",
+   "file": "eras/modern/011316-western-edge-kashgar-plains-political-boundary.md",
+   "at": "2026-11-26T21:07:29+00:00"
   }
  ]
 }
