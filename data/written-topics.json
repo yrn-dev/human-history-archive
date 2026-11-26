@@ -1,5 +1,5 @@
 {
- "count": 9014,
+ "count": 9015,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63098,6 +63098,13 @@
    "era": "industrial",
    "file": "eras/industrial/011266-willaim-lockhart-crossed-hindu-kush-wakhan-returned.md",
    "at": "2026-11-26T08:28:08+00:00"
+  },
+  {
+   "slug": "india-bashgol-valley-kafiristan-colonel",
+   "title": "India by the Bashgol valley of Kafiristan. This was Colonel",
+   "era": "modern",
+   "file": "eras/modern/011267-india-bashgol-valley-kafiristan-colonel.md",
+   "at": "2026-11-26T08:38:12+00:00"
   }
  ]
 }
