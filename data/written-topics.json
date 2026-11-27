@@ -1,5 +1,5 @@
 {
- "count": 9091,
+ "count": 9092,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63637,6 +63637,13 @@
    "era": "modern",
    "file": "eras/modern/011343-oxus-khamiab-150-above-crossing-point-russian.md",
    "at": "2026-11-27T01:34:16+00:00"
+  },
+  {
+   "slug": "trans-caspian-railway-charjui-main-channel-oxus-river",
+   "title": "Trans-Caspian railway at Charjui, the main channel of the Oxus river",
+   "era": "industrial",
+   "file": "eras/industrial/011344-trans-caspian-railway-charjui-main-channel-oxus-river.md",
+   "at": "2026-11-27T01:44:11+00:00"
   }
  ]
 }
