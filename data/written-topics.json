@@ -1,5 +1,5 @@
 {
- "count": 9092,
+ "count": 9093,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63644,6 +63644,13 @@
    "era": "industrial",
    "file": "eras/industrial/011344-trans-caspian-railway-charjui-main-channel-oxus-river.md",
    "at": "2026-11-27T01:44:11+00:00"
+  },
+  {
+   "slug": "great-pamir-beyond-point-anglo-russian-commission-1895",
+   "title": "Great Pamir. Beyond this point the Anglo-Russian Commission of 1895",
+   "era": "modern",
+   "file": "eras/modern/011345-great-pamir-beyond-point-anglo-russian-commission-1895.md",
+   "at": "2026-11-27T01:54:17+00:00"
   }
  ]
 }
