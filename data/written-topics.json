@@ -1,5 +1,5 @@
 {
- "count": 9159,
+ "count": 9160,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64113,6 +64113,13 @@
    "era": "modern",
    "file": "eras/modern/011411-all-these-cases-however-eruptions-now-almost-ceased.md",
    "at": "2026-11-27T12:59:08+00:00"
+  },
+  {
+   "slug": "867-918-la",
+   "title": "867-918.     (P. La.)",
+   "era": "middle-ages",
+   "file": "eras/middle-ages/011412-867-918-la.md",
+   "at": "2026-11-27T13:19:05+00:00"
   }
  ]
 }
