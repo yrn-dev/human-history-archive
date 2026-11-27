@@ -1,5 +1,5 @@
 {
- "count": 9123,
+ "count": 9124,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63861,6 +63861,13 @@
    "era": "modern",
    "file": "eras/modern/011375-following-table-shows-areas-territories-asia.md",
    "at": "2026-11-27T07:04:09+00:00"
+  },
+  {
+   "slug": "continental-insular-dependent-various-extra-asiatic",
+   "title": "(continental and insular) dependent on the various extra-Asiatic",
+   "era": "ancient",
+   "file": "eras/ancient/011376-continental-insular-dependent-various-extra-asiatic.md",
+   "at": "2026-11-27T07:14:04+00:00"
   }
  ]
 }
