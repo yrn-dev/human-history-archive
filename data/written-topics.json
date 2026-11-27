@@ -1,5 +1,5 @@
 {
- "count": 9124,
+ "count": 9125,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63868,6 +63868,13 @@
    "era": "ancient",
    "file": "eras/ancient/011376-continental-insular-dependent-various-extra-asiatic.md",
    "at": "2026-11-27T07:14:04+00:00"
+  },
+  {
+   "slug": "other-independent-territories-232-270",
+   "title": "Other independent territories .  2,232,270",
+   "era": "modern",
+   "file": "eras/modern/011377-other-independent-territories-232-270.md",
+   "at": "2026-11-27T07:23:55+00:00"
   }
  ]
 }
