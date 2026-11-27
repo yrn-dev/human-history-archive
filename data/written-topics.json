@@ -1,5 +1,5 @@
 {
- "count": 9215,
+ "count": 9216,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64505,6 +64505,13 @@
    "era": "modern",
    "file": "eras/modern/011467-siberian-species-found-more-siberian-genera-some.md",
    "at": "2026-11-27T22:28:36+00:00"
+  },
+  {
+   "slug": "vegetation-hot-dry-region-south-west",
+   "title": "The vegetation of the hot and dry region of the south-west of the",
+   "era": "cultures",
+   "file": "eras/cultures/011468-vegetation-hot-dry-region-south-west.md",
+   "at": "2026-11-27T22:38:31+00:00"
   }
  ]
 }
