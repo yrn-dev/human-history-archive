@@ -1,5 +1,5 @@
 {
- "count": 9100,
+ "count": 9101,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63700,6 +63700,13 @@
    "era": "modern",
    "file": "eras/modern/011352-throughout-land-promise-russian-influence-destroyed.md",
    "at": "2026-11-27T03:04:09+00:00"
+  },
+  {
+   "slug": "japan-war-1904-possession-port-arthur-direct",
+   "title": "Japan in the war of 1904. The possession of Port Arthur, and direct",
+   "era": "modern",
+   "file": "eras/modern/011353-japan-war-1904-possession-port-arthur-direct.md",
+   "at": "2026-11-27T03:14:12+00:00"
   }
  ]
 }
