@@ -1,5 +1,5 @@
 {
- "count": 9144,
+ "count": 9145,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64008,6 +64008,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/011396-jurassic-cretaceous-fossils-been-found-there-no-evidence.md",
    "at": "2026-11-27T10:29:36+00:00"
+  },
+  {
+   "slug": "south-east-palaeozoic-plateau-extensive-area",
+   "title": "South and east of the Palaeozoic plateau is an extensive area",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/011397-south-east-palaeozoic-plateau-extensive-area.md",
+   "at": "2026-11-27T10:39:20+00:00"
   }
  ]
 }
