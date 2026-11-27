@@ -1,5 +1,5 @@
 {
- "count": 9205,
+ "count": 9206,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64435,6 +64435,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/011457-sea-support-abundant-vegetation-similar-affinity-exists.md",
    "at": "2026-11-27T20:48:45+00:00"
+  },
+  {
+   "slug": "afghanistan-southern-slopes-himalaya",
+   "title": "Afghanistan, and the southern slopes of the Himalaya, from its",
+   "era": "cultures",
+   "file": "eras/cultures/011458-afghanistan-southern-slopes-himalaya.md",
+   "at": "2026-11-27T20:58:46+00:00"
   }
  ]
 }
