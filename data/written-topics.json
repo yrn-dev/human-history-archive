@@ -1,5 +1,5 @@
 {
- "count": 9160,
+ "count": 9161,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64120,6 +64120,13 @@
    "era": "middle-ages",
    "file": "eras/middle-ages/011412-867-918-la.md",
    "at": "2026-11-27T13:19:05+00:00"
+  },
+  {
+   "slug": "among-places-globe-where-temperature-falls-lowest",
+   "title": "Among the places on the globe where the temperature falls lowest are",
+   "era": "modern",
+   "file": "eras/modern/011413-among-places-globe-where-temperature-falls-lowest.md",
+   "at": "2026-11-27T13:29:05+00:00"
   }
  ]
 }
