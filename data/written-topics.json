@@ -1,5 +1,5 @@
 {
- "count": 9200,
+ "count": 9201,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64400,6 +64400,13 @@
    "era": "modern",
    "file": "eras/modern/011452-bengal-east-fall-very-great-khasi-hills.md",
    "at": "2026-11-27T19:58:46+00:00"
+  },
+  {
+   "slug": "afghanistan-persia-asia-minor-syria-winter-spring-appear",
+   "title": "In Afghanistan, Persia, Asia Minor and Syria, winter and spring appear",
+   "era": "cultures",
+   "file": "eras/cultures/011453-afghanistan-persia-asia-minor-syria-winter-spring-appear.md",
+   "at": "2026-11-27T20:08:56+00:00"
   }
  ]
 }
