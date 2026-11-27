@@ -1,5 +1,5 @@
 {
- "count": 9149,
+ "count": 9150,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64043,6 +64043,13 @@
    "era": "prehistoric",
    "file": "eras/prehistoric/011401-palaeozoic-era-triassic-deposits-verkhoyansk-range-show.md",
    "at": "2026-11-27T11:19:10+00:00"
+  },
+  {
+   "slug": "mesozoic-deposits-japan-east-western-tian-shan",
+   "title": "Mesozoic deposits of Japan on the east, the western Tian-shan on the",
+   "era": "prehistoric",
+   "file": "eras/prehistoric/011402-mesozoic-deposits-japan-east-western-tian-shan.md",
+   "at": "2026-11-27T11:29:08+00:00"
   }
  ]
 }
