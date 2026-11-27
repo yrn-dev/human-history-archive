@@ -1,5 +1,5 @@
 {
- "count": 9190,
+ "count": 9191,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64330,6 +64330,13 @@
    "era": "modern",
    "file": "eras/modern/011442-india-burmo-siamese-peninsula-interruption.md",
    "at": "2026-11-27T18:18:57+00:00"
+  },
+  {
+   "slug": "explanation-principal-efficient-cause-summer-rains",
+   "title": "This explanation of the principal efficient cause of the summer rains",
+   "era": "ancient",
+   "file": "eras/ancient/011443-explanation-principal-efficient-cause-summer-rains.md",
+   "at": "2026-11-27T18:28:49+00:00"
   }
  ]
 }
