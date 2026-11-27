@@ -1,5 +1,5 @@
 {
- "count": 9164,
+ "count": 9165,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -64148,6 +64148,13 @@
    "era": "modern",
    "file": "eras/modern/011416-variations-temperature-very-great-siberia-amounting.md",
    "at": "2026-11-27T13:59:03+00:00"
+  },
+  {
+   "slug": "siberia-difference-between-means-hottest-coldest",
+   "title": "In Siberia the difference between the means of the hottest and coldest",
+   "era": "modern",
+   "file": "eras/modern/011417-siberia-difference-between-means-hottest-coldest.md",
+   "at": "2026-11-27T14:08:55+00:00"
   }
  ]
 }
