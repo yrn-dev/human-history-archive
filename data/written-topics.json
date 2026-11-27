@@ -1,5 +1,5 @@
 {
- "count": 9093,
+ "count": 9094,
  "topics": [
   {
    "slug": "historiographer-art-old-japan",
@@ -63651,6 +63651,13 @@
    "era": "modern",
    "file": "eras/modern/011345-great-pamir-beyond-point-anglo-russian-commission-1895.md",
    "at": "2026-11-27T01:54:17+00:00"
+  },
+  {
+   "slug": "chinese-border-between-russian-pamirs-chinese-turkestan",
+   "title": "Chinese border. Between the Russian Pamirs and Chinese Turkestan the",
+   "era": "modern",
+   "file": "eras/modern/011346-chinese-border-between-russian-pamirs-chinese-turkestan.md",
+   "at": "2026-11-27T02:04:16+00:00"
   }
  ]
 }
