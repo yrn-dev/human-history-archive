@@ -1,0 +1,26 @@
+# America
+
+## Geography and Natural History
+The American landmass is divided into distinct regions with varying biological characteristics. In the Antillean Subregion, the islands—excluding those of coral formation—are hilly or mountainous, with some summits reaching 8,000 feet. Prior to European occupation, these areas were largely covered in luxuriant forests. The interaction of these forests with trade wind clouds resulted in frequent, long-continued rains on fertile soil. Despite these favorable conditions, the higher forms of animal life are poorly furnished compared to the mainland of Central America. In the Antilles, birds constitute the supreme class due to a scarcity of mammals.
+
+Tropical America is noted for having the richest and most varied assemblage of birds in the world, surpassing even the Indian region. In South America, the avifauna consists of approximately 3,600 species. More than half of these (2,000 species) belong to the order Passeriformes. A unique characteristic of this region is that nearly one-half of these Passeriformes belong to the lower suborder Clamatores, a distribution found nowhere else except for a few indigenous forms in Australia and the family *Tyrannidae* in the Nearctic country. Because of this, some authorities rank the South American avifauna next to the Australian region in terms of evolutionary rank, with Huxley suggesting an alliance between the two regions termed *Notogaea*. This alliance is supported by the *Cracidae* family, which is entirely Neotropical.
+
+## Flora and Fauna
+The neotropical region is home to the Macaw (genus *Ara*), a group of fifteen or more species of large, long-tailed parrots known for gaudy plumage in scarlet, yellow, blue, and green. Most *Ara* species inhabit the American mainland from Mexico to Paraguay, with a high concentration in Bolivia, where nearly half of the species have been found. One extra-continental species, *A. tricolor*, is peculiar to Cuba, though its numbers have decreased to the point of possible extinction. Other Brazilian Hyacinthine macaws belong to the genera *Cyanopsittacus* and *Anodorhynchus*.
+
+Regarding other animal life, the order Rheae includes the Rhea of South America and the *Mesembriornis* found in the Miocene or Pliocene of Argentina. In contrast, certain species are absent from the region; for example, the *Cyprinidae* (a family of fish including the carp) are dispersed worldwide but are notably absent from South America. In North America, however, remains of several *Cyprinidae* genera have been found in later and Oligocene beds, and the subfamily *Catostominae* is mostly found there.
+
+## Political and Social History
+In North America, the United States crystallized the liberal ideas of the middle eighteenth century through its constitution. The political system dispensed with the crown and state-church, rejected titles, and protected property as a means of freedom. While the practice varied initially across different states, nearly every adult male citizen was granted a vote. Although the voting methods were described as barbarically crude—leading to political control by organized party machines—the population developed a level of public spirit, enterprise, and energy that exceeded other contemporary populations. The region also saw immediate and striking results from new inventions in transport.
+
+In the early 20th century, President Wilson led the United States during a major war and the subsequent peace negotiations. Criticism of Wilson focuses on his decision to conduct these events on strictly party lines as a representative of the American Democratic Party rather than the general interests of mankind. He is noted for failing to incorporate other American leaders, such as ex-President Taft and ex-President Roosevelt, and for making the issue too personal. Critics further suggest that he erred by attending the Peace Conference in person rather than remaining in America to speak as the voice of the nation.
+
+## Religious and Missionary Activity
+America has been a destination for various religious movements and orders. The Ignorantines (Brethren of the Christian Schools), a Roman Catholic male order founded by Jean Baptiste de la Salle in 1680 to provide free religious education to poor children, expanded their membership into America, Asia, Africa, and nearly every European country.
+
+Additionally, the modern Baptist movement expanded into the Americas. In the British colonies, Baptist unions were established in Canada (four Unions) and other territories. In the 19th century, Baptist churches in Roman Catholic countries were often formed by missionaries arriving from either America or England.
+
+## Sources
+Compiled from: britannica11 vol04a arundel to athens, britannica11 vol04c bible to bisectrix, britannica11 vol17b luray cavern to mackinac, britannica11 vol04c bible to bisectrix, britannica11 vol14a ichthyology to independence, britannica11 vol02c banks to bassoon, britannica11 vol05b carnegie to casus belli, britannica11 vol04c bible to bisectrix, wells outline of history, wells short history of the world
+---
+*Written by the AI Librarian strictly from the public-domain books of the archive. Topic memory: data/written-topics.json*
